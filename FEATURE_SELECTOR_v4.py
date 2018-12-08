@@ -82,8 +82,10 @@ def tokenize(text: str, word_tokenizer: object, sent_tokenizer: object, get_toke
 def divide_by_number_of_tokens(df):
     # Number of tokens per text
     num = df.sum(axis=1)
+    print('num',num)
     # Divide by total word number
     df = df.divide(num, axis='index', level=None, fill_value=None)
+    print('rel',df)
     # Return relative frequencies
     return df
 
@@ -97,8 +99,9 @@ def get_most_common_tokens(df_tokens, percentage, relative_or_quantile):
         return summed_values.loc[summed_values > quantile].index
     # Percentage of total number of tokens
     elif relative_or_quantile == 'relative':
-        sorted_values = df_tokens.sum(axis=0).sort_values(ascending=False)
-        most_frequent_columns = sorted_values.iloc[0:int(percentage * len(sorted_values))]
+        summed_values = df_tokens.sum(axis=0)
+        total_sum=summed_values.sum()
+        most_frequent_columns = summed_values.loc[summed_values.divide(total_sum)>=percentage]
         return most_frequent_columns.index
 
 
@@ -107,8 +110,9 @@ def feature_selection(df: pd.DataFrame, feature_selection_type, threshold):
 
     if feature_selection_type == 'VarianceThreshold':
         df_variances = pd.DataFrame(df.var(axis=0), index=df.columns).T
+        
         columns_with_highest_variances = get_most_common_tokens(df_tokens=df_variances, percentage=threshold,
-                                                                relative_or_quantile='quantile')
+                                                                relative_or_quantile='relative')
         return columns_with_highest_variances
 
         # sel = VarianceThreshold(threshold=threshold)
@@ -122,7 +126,7 @@ def feature_selection(df: pd.DataFrame, feature_selection_type, threshold):
 def n_grams(ngram_range, perc_most_common_features, perc_highest_variances_of_features, analyzer, tokenizer, fit_transform, flag_filter_freq, flag_filter_var,
             flag_tfidf, relative_or_quantile, feature_selection_type, cv_min_df, vocabulary):
 
-    print('n_grams')
+
     # TF-IDF or TF
     if flag_tfidf:
         c = TfidfVectorizer(tokenizer=tokenizer, ngram_range=ngram_range, lowercase=False, analyzer=analyzer, vocabulary=vocabulary)
@@ -158,6 +162,7 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
 
     # Dictionary with the selected features
     dict_features = {}
+    df_features = pd.DataFrame()
 
     # Serie with tokens grouped by sentences and texts( text 1 -> [[<tokens in sentence 1>],[...]...])
     series_tokens_grouped_by_sentences = serie_texts.apply(lambda row: tokenize(row, **token_params_1))
@@ -175,12 +180,12 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
         if features_to_calc['avg_sent_len']:
             series_num_of_sent = series_tokens_grouped_by_sentences.apply(lambda row: len(row))
             series_avg_sent_len = series_text_length.divide(series_num_of_sent)
-            dict_features['avg_sent_len']=series_avg_sent_len
+            df_features['avg_sent_len']= series_avg_sent_len
 
         # Calculate (number of chars in text)/(number of chars in text)
         if features_to_calc['avg_word_len']:
             series_avg_token_len = series_text_length.divide(series_num_of_tokens)
-            dict_features['avg_word_len'] = series_avg_token_len
+            df_features['avg_word_len'] = series_avg_token_len
 
         # Number of tokens per sentence
         if features_to_calc['token_per_sent']:
@@ -188,7 +193,7 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
             series_num_of_sent = series_tokens_grouped_by_sentences.apply(lambda row: len(row))
             # Number of tokens/number of sentences
             series_token_per_sent = series_num_of_tokens.divide(series_num_of_sent)
-            dict_features['token_per_sent'] = series_token_per_sent
+            df_features['token_per_sent'] = series_token_per_sent
 
         # Vocabulary_richness = (Number of different tokens)/(Total word number)
         if features_to_calc['vocabulary_richness']:
@@ -196,7 +201,7 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
             series_set_of_tokens = series_tokens_grouped_texts.apply(lambda row: len(set(row)))
             # Calculate the Vocabulary_richness of each author
             series_vocabulary_richness = series_set_of_tokens.divide(series_num_of_tokens)
-            dict_features['vocabulary_richness'] = series_vocabulary_richness
+            df_features['vocabulary_richness'] = series_vocabulary_richness
 
             with open(path_to_features) as f:
                  dict_features = json.load(f)
@@ -219,7 +224,7 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
     for f in n_gram_tokenizer_fit_analyzer.keys():
 
         for index, n in enumerate(features_to_calc[f]):
-
+            print(f,n)
             # If flag_extract_features is True -> use already selected features as vocabulary
             # If flag_extract_features is False -> Vocabulary is None, Select new features in CountVectorizer
             if flag_extract_features is True:
@@ -248,11 +253,11 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
             # If feature extraction
             else:
                 # Add frequencies to feature dictionary
-                dict_features[f + '_' + str(n)] = df_frequencies.values
+                df_features= pd.concat((df_features,df_frequencies),axis=1)
+    
+    if flag_extract_features is False:
+        return dict_features
+    
+    if flag_extract_features is True:
+        return df_features
 
-    return dict_features
-
-
-
-def extract_features(serie_texts, features_to_calc, token_params_1):
-    print()
