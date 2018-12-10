@@ -1,1 +1,1 @@
-Features/ filter=lfs diff=lfs merge=lfs -text
+Features/*.txt filter=lfs diff=lfs merge=lfs -text
