@@ -125,19 +125,43 @@ def filter_by_variance(df, var_filter_type, threshold):
     return columns_with_highest_variances
 
 
-# Converts a collection of text documents to a matrix of token/ngrams occuracies. Therefore all texts are considered. Filter the tokens/ngrams to get the most relevant features.
-def n_grams(ngram_range, analyzer, tokenizer, fit_transform, normalization_type, cv_min_df, vocabulary):
+# Converts a collection of text documents to a matrix of token/ngrams
+# occuracies. Therefore all texts are considered. Filter the tokens/ngrams to
+# get the most relevant features.
+def n_grams(
+        ngram_range,
+        analyzer,
+        tokenizer,
+        fit_transform,
+        normalization_type,
+        cv_min_df,
+        vocabulary
+    ):
     # TF-IDF or TF
     if normalization_type == 'tfidf':
-        c = TfidfVectorizer(tokenizer=tokenizer, ngram_range=ngram_range, lowercase=False, analyzer=analyzer,
-                            vocabulary=vocabulary)
+        c = TfidfVectorizer(
+            tokenizer=tokenizer,
+            ngram_range=ngram_range,
+            lowercase=False,
+            analyzer=analyzer,
+            vocabulary=vocabulary
+        )
     #
     else:
-        c = CountVectorizer(tokenizer=tokenizer, ngram_range=ngram_range, lowercase=False, analyzer=analyzer,
-                            min_df=cv_min_df, vocabulary=vocabulary)
+        c = CountVectorizer(
+            tokenizer=tokenizer,
+            ngram_range=ngram_range,
+            lowercase=False,
+            analyzer=analyzer,
+            min_df=cv_min_df,
+            vocabulary=vocabulary
+        )
 
     # Transform ngrams to vectors
-    df_frequencies = pd.DataFrame(c.fit_transform(fit_transform).toarray(), columns=c.get_feature_names())
+    df_frequencies = pd.DataFrame(
+        c.fit_transform(fit_transform).toarray(),
+        columns=c.get_feature_names()
+    )
 
     # Normalization by dividing the counts of tokens by the total number of tokens
     if normalization_type != 'tfidf':
@@ -287,7 +311,10 @@ def select_features(
                 vocabulary=vocabulary
             )
 
-            if flag_extract_features is False:
+            if flag_extract_features is True:
+                # Add frequencies to feature dictionary
+                df_features = pd.concat((df_features, df_frequencies), axis=1)
+            else:
                 # Only use features which occurs often in all texts.
                 if filter_params['freq_' + f][0]:
                     # Filter the ngrams regarding their frequencies
@@ -310,13 +337,5 @@ def select_features(
 
                 # Add to features to the feature dictionary
                 dict_features[f + '_' + str(n)] = df_frequencies.columns.tolist()
-            # If feature extraction
-            else:
-                # Add frequencies to feature dictionary
-                df_features = pd.concat((df_features, df_frequencies), axis=1)
 
-    if flag_extract_features is False:
-        return dict_features
-
-    if flag_extract_features is True:
-        return df_features
+    return df_features if flag_extract_features else dict_features
