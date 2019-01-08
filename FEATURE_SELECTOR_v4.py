@@ -91,7 +91,7 @@ def divide_by_number_of_tokens(df):
 # Get the most common tokens
 def filter_by_frequencies(df_tokens, filter_type, filter_value):
     # Percentage of total number of occurences
-    
+
     if filter_type == 'quantile':
         summed_values = df_tokens.sum(axis=0)
         quantile = summed_values.quantile(q=1 - filter_value, interpolation='higher')
@@ -106,14 +106,12 @@ def filter_by_frequencies(df_tokens, filter_type, filter_value):
 
     #
     elif filter_type == 'relative':
-        sorted_summed_values = pd.Series(df_tokens.sum(axis=0), index=df_tokens.columns).sort_values(axis=0,
-                                                                                                     ascending=False)
+        sorted_summed_values = pd.Series(df_tokens.sum(axis=0), index=df_tokens.columns).sort_values(axis=0, ascending=False)
         most_frequent_columns = sorted_summed_values[0:int(filter_value * df_tokens.values.shape[1])]
         return most_frequent_columns.index
     #
     elif filter_type == 'absolute':
-        sorted_summed_values = pd.Series(df_tokens.sum(axis=0), index=df_tokens.columns).sort_values(axis=0,
-                                                                                                     ascending=False)
+        sorted_summed_values = pd.Series(df_tokens.sum(axis=0), index=df_tokens.columns).sort_values(axis=0, ascending=False)
         most_frequent_columns = sorted_summed_values[0:min(filter_value, df_tokens.values.shape[1])]
         return most_frequent_columns.index
 
@@ -149,23 +147,47 @@ def n_grams(ngram_range, analyzer, tokenizer, fit_transform, normalization_type,
 
 
 # Get relevant n-grams und tags to use them as vocabularies for the CountVectorizer-Objects in the feature engineering step
-def select_features(serie_texts, features_to_calc, token_params_1, filter_params,path_to_features, flag_extract_features=True, cv_min_df=0, normalization_type=''):
+def select_features(
+        serie_texts,
+        features_to_calc,
+        token_params_1,
+        filter_params,
+        path_to_features,
+        flag_extract_features=True,
+        cv_min_df=0,
+        normalization_type=''
+    ):
     # Dictionary with the selected features
     dict_features = {}
     df_features = pd.DataFrame()
 
     # Original words in tokens -> Neither stemming nor lemmatizing
     series_original_word_tokens_grouped_by_sentences = serie_texts.apply(
-        lambda row: tokenize(text=row, word_tokenizer=token_params_1["word_tokenizer"],
-                             sent_tokenizer=token_params_1['sent_tokenizer'], get_tokens='sentence',
-                             word_strain='', filter_length=('long', 0), handle_stopwords='',
-                             lower_stop_words=set(stopwords.words('english')), uncapitalized=False, get_sentences=False,
-                             punctuation=''))
+        lambda row: tokenize(
+            text=row,
+            word_tokenizer=token_params_1["word_tokenizer"],
+            sent_tokenizer=token_params_1['sent_tokenizer'],
+            get_tokens='sentence',
+            word_strain='',
+            filter_length=('long', 0),
+            handle_stopwords='',
+            lower_stop_words=set(stopwords.words('english')),
+            uncapitalized=False,
+            get_sentences=False,
+            punctuation=''
+        )
+    )
 
-    # Serie with stemmed/lemmatized tokens grouped by sentences and texts( text 1 -> [[<tokens in sentence 1>],[...]...])
-    series_tokens_grouped_by_sentences = serie_texts.apply(lambda row: tokenize(row, **token_params_1))
-    # Serie with stemmed/lemmatized tokens grouped by sentences and texts( text 1 -> [token1,token2,...])
-    series_tokens_grouped_texts = series_tokens_grouped_by_sentences.apply(lambda row: sum([sent for sent in row], []))
+    # Serie with stemmed/lemmatized tokens grouped by sentences and
+    # texts( text 1 -> [[<tokens in sentence 1>],[...]...])
+    series_tokens_grouped_by_sentences = serie_texts.apply(
+        lambda row: tokenize(row, **token_params_1)
+    )
+    # Serie with stemmed/lemmatized tokens grouped by sentences and
+    # texts( text 1 -> [token1,token2,...])
+    series_tokens_grouped_texts = series_tokens_grouped_by_sentences.apply(
+        lambda row: sum([sent for sent in row], [])
+    )
 
     if flag_extract_features is True:
         # Total number of tokens per text
@@ -173,33 +195,42 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
             lambda row: np.array([len(w) for w in row]).sum())
 
         # Text lengths per text
-        series_text_length = serie_texts.apply(lambda row: len(row))
+        series_text_length = serie_texts.apply(len)
 
         # Calculate (number of chars in text)/(number of sentences in text)
         if features_to_calc['avg_sent_len']:
-            series_num_of_sent = series_tokens_grouped_by_sentences.apply(lambda row: len(row))
+            series_num_of_sent = series_tokens_grouped_by_sentences.apply(len)
             series_avg_sent_len = series_text_length.divide(series_num_of_sent)
             df_features['avg_sent_len'] = series_avg_sent_len
 
         # Calculate (number of chars in text)/(number of chars in text)
         if features_to_calc['avg_word_len']:
-            series_avg_token_len = series_text_length.divide(series_num_of_tokens)
+            series_avg_token_len = series_text_length.divide(
+                series_num_of_tokens
+            )
             df_features['avg_word_len'] = series_avg_token_len
 
         # Number of tokens per sentence
         if features_to_calc['token_per_sent']:
             # Calculate number of sentences
-            series_num_of_sent = series_tokens_grouped_by_sentences.apply(lambda row: len(row))
+            series_num_of_sent = series_tokens_grouped_by_sentences.apply(len)
             # Number of tokens/number of sentences
-            series_token_per_sent = series_num_of_tokens.divide(series_num_of_sent)
+            series_token_per_sent = series_num_of_tokens.divide(
+                series_num_of_sent
+            )
             df_features['token_per_sent'] = series_token_per_sent
 
-        # Vocabulary_richness = (Number of different tokens)/(Total word number)
+        # Vocabulary_richness =
+        #   (Number of different tokens)/(Total word number)
         if features_to_calc['vocabulary_richness']:
             # Define the number of unique tokens
-            series_set_of_tokens = series_tokens_grouped_texts.apply(lambda row: len(set(row)))
+            series_set_of_tokens = series_tokens_grouped_texts.apply(
+                lambda row: len(set(row))
+            )
             # Calculate the Vocabulary_richness of each author
-            series_vocabulary_richness = series_set_of_tokens.divide(series_num_of_tokens)
+            series_vocabulary_richness = series_set_of_tokens.divide(
+                series_num_of_tokens
+            )
             df_features['vocabulary_richness'] = series_vocabulary_richness
 
             # Load features
@@ -215,11 +246,16 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
 
     # Get pos-tags grouped by sentences
     series_pos_grouped_by_sentences = series_original_word_tokens_grouped_by_sentences.apply(
-        lambda row: [nltk.pos_tag(sent) for sent in row])
+        lambda row: [nltk.pos_tag(sent) for sent in row]
+    )
     # Get pos-tags grouped by texts
-    series_pos_grouped_by_texts = series_pos_grouped_by_sentences.apply(lambda row: sum([sent for sent in row], []))
+    series_pos_grouped_by_texts = series_pos_grouped_by_sentences.apply(
+        lambda row: sum([sent for sent in row], [])
+    )
     # Create dict to pass it to the CountVectorizer object
-    dict_pos = series_pos_grouped_by_texts.apply(lambda row: [w[1] for w in row])
+    dict_pos = series_pos_grouped_by_texts.apply(
+        lambda row: [w[1] for w in row]
+    )
 
     # Various inputs for CountVectorizer
     n_gram_tokenizer_fit_analyzer = {
@@ -231,33 +267,44 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
     for f in n_gram_tokenizer_fit_analyzer.keys():
 
         for index, n in enumerate(features_to_calc[f]):
-            # If flag_extract_features is True -> use already selected features as vocabulary
-            # If flag_extract_features is False -> Vocabulary is None, Select new features in CountVectorizer
+            # If flag_extract_features is True -> use already selected
+            # features as vocabulary
+            # If flag_extract_features is False -> Vocabulary is None, Select
+            # new features in CountVectorizer
             if flag_extract_features is True:
                 vocabulary = dict_features[f + '_' + str(n)]
             else:
                 vocabulary = None
 
             # Get ngrams
-            df_frequencies = n_grams(tokenizer=n_gram_tokenizer_fit_analyzer[f][0],
-                                     fit_transform=n_gram_tokenizer_fit_analyzer[f][1],
-                                     ngram_range=(n, n),
-                                     analyzer=n_gram_tokenizer_fit_analyzer[f][2],
-                                     normalization_type=normalization_type, cv_min_df=cv_min_df,
-                                     vocabulary=vocabulary)
+            df_frequencies = n_grams(
+                tokenizer=n_gram_tokenizer_fit_analyzer[f][0],
+                fit_transform=n_gram_tokenizer_fit_analyzer[f][1],
+                ngram_range=(n, n),
+                analyzer=n_gram_tokenizer_fit_analyzer[f][2],
+                normalization_type=normalization_type,
+                cv_min_df=cv_min_df,
+                vocabulary=vocabulary
+            )
 
             if flag_extract_features is False:
                 # Only use features which occurs often in all texts.
                 if filter_params['freq_' + f][0]:
                     # Filter the ngrams regarding their frequencies
-                    most_common_ngrams = filter_by_frequencies(df_frequencies, filter_params['freq_' + f][1],
-                                                               filter_params['freq_' + f][2][index])
+                    most_common_ngrams = filter_by_frequencies(
+                        df_frequencies,
+                        filter_params['freq_' + f][1],
+                        filter_params['freq_' + f][2][index]
+                    )
                     df_frequencies = df_frequencies.loc[:, most_common_ngrams]
 
                 # Filter the ngrams regarding their variances
                 if filter_params['var_' + f][0]:
-                    mask = filter_by_variance(df=df_frequencies, var_filter_type=filter_params['var_' + f][1],
-                                              threshold=filter_params['var_' + f][2][index])
+                    mask = filter_by_variance(
+                        df=df_frequencies,
+                        var_filter_type=filter_params['var_' + f][1],
+                        threshold=filter_params['var_' + f][2][index]
+                    )
                     # Return DF which includes the selected features
                     df_frequencies = df_frequencies.loc[:, mask]
 
@@ -273,4 +320,3 @@ def select_features(serie_texts, features_to_calc, token_params_1, filter_params
 
     if flag_extract_features is True:
         return df_features
-
