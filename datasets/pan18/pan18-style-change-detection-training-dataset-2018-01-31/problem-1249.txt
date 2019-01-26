@@ -1,0 +1,23 @@
+In The Netherlands, at every national election, the stemwijzer is filled in by millions of people. The stemwijzer consists of a few dozen statements that can be answered varying from strongly disagree to strongly agree. All political parties answer the stemwijzer. Subsequently, when the user answers the questions, they can compare their opinions to those of the parties, and discover what party they are closest to programmatically. 
+
+For example, they could decide that in each constituency, only the candidate for the party that received the most votes (between the three of them) would stand. The two major unionist parties in Northern Ireland, DUP and UUP had such a part in some constituencies in the 2015 elections, and look likely to have a similar pact in 2017. 
+
+The answer depends on the country. You appear to be in a country where this is a requirement. I am from a country where it is not. In The Netherlands, in national elections, anyone can vote anywhere as well. 
+
+In the French legislative election, 2017, the Parti Socialiste withdrew their candidates from 42 constituencies where the Greens are in charge or have a good chance of winning, and the Greens reciprocally withdrew in 53 constituencies. A similar agreement exists between centrist parties En Marche and Mouvement démocrate. 
+
+According to the Dutch language Wikipedia, any party list for Dutch general elections can list 30 candidates or twice the number of seats they received at the previous elections, whatever is most. This corresponds to what I remember from the past, such as the 2006 elections where the SP went from 9 to 25 seats, close enough to the 30-candidate limit such that there was speculation before the elections on what if they'd gain more than 30 seats. 
+
+For Dutch General election, 2017, looking at the lists for kieskring 12 ('s Gravenhage) (PDF, 169 kB), VVD has 80 candidates (41 seats in 2012), PvdA has 80 candidates (38 seats in 2012), PVV and SP each have 50 candidates (15 seats each in 2012), CDA, D66, Groenlinks all have 50 candidates despite gaining less than 15 seats in 2012. All except VVD have more than twice the number of candidates than seats gained in 2012, so it appears the unsourced statement on the Dutch language Wikipedia is (now) incorrect: 
+
+(Note that in 2008, the same organisation that publishes Dutch voting advice applications also made one for the US Presidential Elections) 
+
+According to the Proces-verbaal geldigheid kandidatenlijsten (PDF, 5.4 MB), page 707: 
+
+Among people voting from abroad, the result was: 
+
+An electoral system that could reduce the need for such a pact would be a ranked voting methods, such that Unionists could rank their preferred party 1 and the other Unionist party 2, or that a progressive voter could, for example, rank Green / Labour / Lib. Dem. Such a system was rejected in a 2011 referendum. 
+
+There is no legal requirement that parliamentary candidates are members of the party, although most parties do have such an internal requirement. In the PVV, Geert Wilders decides unilaterally on who will be on the list and at what position; indeed, it means that even the parliamentarians for the PVV are not party members, apart from Geert Wilders. There does exist an association "friends of the PVV" and of course sympathisers can and do freely assemble, but those assemblies hold no formal power. 
+
+An amusing side-effect of that in The Netherlands, some municipalities actually have a turnout of more than 100%. In the 2012 elections, the Dutch island of Schiermonnikoog had a turnout of 150.33%. How? Because the island has 761 inhabitants entitled to vote, but a grand total of 1144 voted on this touristic island. In practice, the liberty to vote in any place in the country means turnout figures are not very meaningful anymore except on a national basis.

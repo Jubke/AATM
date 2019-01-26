@@ -1,0 +1,17 @@
+I get the feeling you guys are doing "Mini waterfall" in short iterations and pushing testing to the end. Its hard to turn around a culture to prevent mini waterfalls, but a Sprint is not a mini waterfall. 
+
+To make it easier to log hours in Jira you can use the worklog assistant program. The worklog assistant grabs all filters from Jira, you get a list of the current sprint issues for example. It warns you when not logging time. Its possible to publish automatically or do it manually and correct some logging when needed. Create some place holder tickets for down time like sprint meetings and or other non sprint overhead. Now you can use this number to forecast how many story points the team will probably complete in the upcoming Sprint or Sprints. More detail is a waste of time. Creating UI tests as an after thought will result in harder testable software. During development it is easy and cheap to change the UI a bit to make it testable from the start. Don't have testers struggle months after the development is done. In your example users do not want to minimize the website, that is the solution. They want it to be faster, but do they really or is it a developer thinking the users wants this? Writing a user story about "Users wanting a faster website" could lead to more solutions that just minimizing it. 
+
+The epic should be about the business goal, not about what you are going to build to achieve this goal. It should explain the why and how you are going to measure the goal is reached. The implementation details are part of the user-stories. We want all the team members to be in the Sprint review and retrospective meetings and want to plan them at the end of the sprint. (We record Sprint review sessions for part-timers already) 
+
+NormalizedVelocity = SprintCompletedStoryPoints * TeamCapacity%. 
+
+Now it is possible he does not want to change his behaviour and he doesn't care if your team is doing real Scrum or something that looks like Scrum. I would try to get the whole team to say (out loud together) they want to follow and implement Scrum by the book, since it generates the most value. Afterwards you should also learn your manager the Shu-Ha-Ri and if he want to play Ri he should first learn and play the game for a while, like a few years before altering it. 
+
+I as a tester part of an Agile team always sit in with the planning poker sessions and estimate just with the team, keeping in mind the complexity and size of the testing efforts needed to complete the story to done. If I know the area we are working on lacks a lot of automated test coverage I will give the story a higher estimate then the programmers in our team, often we average out the points in these cases. 
+
+In the ideal world the team can now decide by themselves how to best achieve this goal. Pro-active self-organizing people give the best results, certainly for creative processes like software development or designs. 
+
+This also seems counter intuitive. The hard tasks have the highest uncertainty and thus risks. You should focus on those first. The earlier you know possible problems or slowdowns the better. In the talk "The land that Scrum forgot" of Robert C. Martin (one of founders of the Agile Manifesto) says: TL;DR: Maybe a bit harsh, but get rid of him/her. 
+
+The Scrum Master has to demand any people not part of the Development team to be 100% silent during the Daily Scrum. This is the rule according to the Scrum guide:

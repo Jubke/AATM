@@ -1,0 +1,27 @@
+So, the code is currently trying to stop horizontal sliding on all code blocks but due to that bug it's failing and causing what's happening here, but you know what: Now that we don't have the collision with the Q&A tabs you should be able to horizontally scroll code blocks. 
+
+Stack Overflow will go back to being agnostic in the next version update, thanks! 
+
+Update: As of version 1.0.57 (coming out later today) this is fixed. You can now scroll horizontally on code blocks or tap on them to view them in the bigger view, and a minor swipe up or down while you're scrolling the code block won't cause a "jump" movement. 
+
+As of version 1.0.6 we don't do our black-flickering hack on devices that are running below version 4.1 of the OS. 
+
+Questions and answers were separated by tabs that you could swipe to switch between. As a result, trying to scroll a code block horizontally lead to a collision with the base view's horizontal scrolling for switching between the two. So, we made code blocks clickable to open them in a new overlay where this wouldn't be an issue. That's what the little triangle on the top right represents. 
+
+I can take credit for breaking it, but not for fixing it - thanks Nick Craver! 
+
+The sorting on the new users page appears to be incorrect - if it goes from left to right then top to bottom (which appears to be the case for most users), then in some cases the sorting is incorrect. 
+
+The fix for this is in the fixed phase. 
+
+This was indeed due to the account merge. 
+
+Going forwards, such badges will be moved to the merge target. We have now also ran the queries backfilling such issues as your own. 
+
+Looks like the flagged posts are much wider now, resulting in the sidebar not having enough space anymore. 
+
+Where is it, and how is one supposed to mark a question as CW now? 
+
+Thanks for reporting the typo. That's fixed and will be soon deployed. 
+
+It looks like the Community Wiki checkbox is no longer appearing on the ask/edit question page, making it difficult to mark questions Community Wiki.

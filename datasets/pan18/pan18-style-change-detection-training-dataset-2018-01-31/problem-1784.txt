@@ -1,0 +1,25 @@
+This still has the issue however of the "drunk" stipulation on the right. Again, there's no obvious analog on the left, and again there's an illegitimate implication (that all gun deaths are results of the same type of flagrant misuse of guns as drunk driving is a flagrant misuse of a car). In this case, it's not clear that the team is committing a fallacy at all. In fact, in the case that there were more than two alternatives, and Peter illegitimately reduced them to two, then he would have been the one committing the fallacy ("Black or White"). However, it's worth noting that the pdf linked in your second example appears to actually be a test from a course in basic logic. If you are already enrolled in such a course, your best bet is simply to complete it. 
+
+One way of looking at philosophy is as "the mother of sciences," investigations of topics that have not yet submitted to successful empirical codification. Most, perhaps all sciences started as branches of philosophy, and transitioned over once they gained stable, replicable processes and results. It just happened more recently for logic than any other major science, which is why logic is still (for the moment) shared between both worlds. 
+
+This is Skepticism. Personally, I believe there are good arguments against it (and against the particular argument you reference), but since you didn't ask that, I won't outline any of them. 
+
+Gun control IS TO reducing deaths from gun violence AS making it harder for sober people to own cars IS TO reducing deaths from drunk driving. 
+
+Informal fallacies have fuzzy boundaries. This seems to me to be a variation on "cherry picking," which is basing a general conclusion on a few carefully selected data points (which may not reflect the larger trends). The way to defend against a false dichotomy is to identify the plausible third option, and in the case of the appeal to perfection, that option is to improve on the default, even without reaching perfection. 
+
+We have to be clear about the difference regarding: assuming something as true, and proving something. ⊨ φ (i.e. φ is valid) iff ⊢ φ (i.e. φ is provable). Let assume some "technical" facts regarding Gödel's Incompleteness Theorems : 
+
+6) ¬ P --- assumed [d] for ∨-elimination 
+
+For proofs, see the posts: Why is this true and Proof of Drinker paradox. Compare with propositional logic, where a valid formula is called a tautology (the negation of a tautology is called a contradiction : a formula which is always false). The rule has the proviso that the variable to be quantified, in this case x, must not be free in any assumption; in the proof, we have Fx as assumption, and x is free in it. Now two sub-proofs, for ∨-elim: 
+
+Going back to decidability, why a complete theory is so ? Side comment : the proof is intuitionistically valid. We can read it as : if we assume the Law of Excluded Middle, then the conclusion follows. For simplicity, we will consider the case when Γ is the emptyset; in this case we have the previous version : 
+
+See Christine Ladd-Franklin, “On the Algebra of Logic”, in Charles Sanders Peirce (editor), Studies in Logic (1883), page 17-on; see pages 61-62. 
+
+Your fallacy regards the "basic property" of validity : 
+
+But the theory T is incomplete (according to Gödel's incompleteness theorem), i.e. there is a true arithmetical sentence φ not provable from the axioms of T. 
+
+This (negative) result concerns another aspect of intuitive "completeness" (in the sense of adequacy) : for a mathematical theory, like arithmetic or set theory, it is a reasonable expectation that the axioms (formalized with first-order logic) are able to "capture" all the mathematical truth expressible in that theory.

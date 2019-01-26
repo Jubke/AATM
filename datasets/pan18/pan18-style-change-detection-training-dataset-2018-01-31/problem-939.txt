@@ -1,0 +1,27 @@
+EDIT: As ChrisF and Bill the Lizard pointed out, there are two abuse possibilities here: a user performing this sort of editing could be flooding the homepage/certain tag pages with useless bumps, and/or clogging the edit approval queue. This doesn't seem to be a problem with this particular user, though. 
+
+Every once in a while we get a question about how to report a bad user to the admins. Sometimes it's a spammer, sometimes it's a troll, sometimes it's just someone who had a momentary blip in the "socially acceptable" filter. But the answers are pretty much always the same. So, here is a "master post" for this sort of situation that we can refer to in the future. 
+
+Welcome to Meta Stack Overflow, Tony! I disagree with your feature request, though I wouldn't oppose it if it were to be implemented. There's no way you would have known this coming in, but the chat here is a Third Place, and merely supplements the primary purpose of the site, which is providing expert Q&A (except on Meta; more on that later). That's relevant because I don't think we expect or want new users to enter the site through chat, in general. They're supposed to associate the site with expert Q&A, and only reach chat after using the actual site for a while. 
+
+What if B got eliminated? Here's the adjusted breakdown: 
+
+Or, if you're into explanatory videos, check out Politics in the Animal Kingdom: Single Transferable Vote on YouTube. 
+
+EDIT: As the ever-intrepid pseudo-employee Tim Stone pointed out in the comments, what I initially reported is a special case of a more general problem: Enter submission of comments fails whenever the tab complete suggestions are being shown. 
+
+Okay. But what if there are no surpluses to redistribute at the end of a given round? In that case, whoever has the lowest number of votes — let's call him candidate Z — gets thrown out of the election as if he had never participated in the first place. Whatever votes Z did accumulate get redistributed to the voters' next-most-preferred candidate, and they're worth just as much as they were when they were assigned to Z. 
+
+As you might guess from the name "Single Transferable Vote," every voter gets one vote. But that doesn't make sense; you get to vote for three people in the election, right? Don't be fooled! In Meek STV, every voter's one vote might be split up into fractional bits and divided amongst the candidates or even thrown away. More on this later. 
+
+In short: when everyone you voted for has either been elected or eliminated, any fraction of your vote that hasn't been used yet gets thrown away. 
+
+I'm on the fence about making this an FAQ proposal. If someone else thinks it's a good idea, it's already CW, feel free. 
+
+Warning: optional math ahead that explains where your vote goes 
+
+Partial list of sources: Wikipedia on Wright STV Wikipedia on Meek STV An article from The Computer Journal describing Meek STV (PDF) 
+
+In short: when someone you vote for gets elected, you lose a fractional bit of your vote based on the threshold and the total number of votes the candidate got. 
+
+I don't think it's just me because it happens on multiple computers, although they're both running Win7 Pro and recent Firefoxes. Also, I would understand — but disagree — if this was considered "not a bug, just reword all your comments that end this way."

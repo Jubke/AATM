@@ -1,0 +1,27 @@
+Are the chainrings in line? You might need a keeper on the front chainring - essentially a front derailleur mech that doesn't move. 
+
+No - the rider's pedalling should be in phase at all times. If one rider is ready for a corner, there's a non-zero chance of pedal strike for the other rider. This is doubly bad on a tandem. If you want one rider to have an easier time of it, look for different length cranks. They'll still have to do the same cadence as the other rider. 
+
+You need a standard 3/16" wide 5 speed chain. They're relatively uncommon now-days, so you may end up with a 6-7-8 speed chain which should be adequate. 
+
+Lastly, check the front chainrings for wear. If the teeth are worn-looking then consider a hat-trick and replace all three. 
+
+If you're building this tandem from scratch, separate the IGH hub purchase from the build. 
+
+Do both timing chainrings have the same number of teeth, or do pedals go out of phase over distance ? 
+
+This answer has been significantly changed since being accepted because the accepted answer cannot be deleted. 
+
+Get a matched pair of doubles or triple chainrings. Set your timing chain on the big ring, and use the stoker's middle/smaller ring for the normal chain. If its too low geared, swap the timing chain to the middle and put the rear wheel chain on the big chainring. 
+
+Chain line is important - the timing chain is often a 1/8th inch chain because it doesn't need any side flex. The rear chain is often a normal 3/32" bicycle chain so it can be used with a derailleur. You could use either (or even a drive belt!) To line up the chainrings, I'd use a long steel ruler, and try to use a matched pair of chainrings and bottom bracket axles. 2.1. Since you have no front derailers, you could possibly flip the chainrings to have the big one close to the frame, and teh timing chain on the outside. Or you could even have both chainrings the same size. Its also possible, (but uncommon) to have just one big long chain doing all the drive. 
+
+Once you've settled on a good combination, you could remove the chainrings you're not using. 
+
+1/8" chain will last much longer too, and will slip less because it doesn't flex left and right as much as normal 3/32" chain. 
+
+Check for timing chain and chainring wear too - if its worn/elongated then fit a new 1/8" timing chain. Leave it too long and the chainrings will wear out as well. 
+
+At this point you might be looking at more cost than the bike is worth, at least as far as new parts go. You'll have to make a call if its financially worth doing. 
+
+You can use whatever cranksets you like and have available. But tandems need either an eccentric bottom bracket on the front, OR a chain tensioner in order to set the tension on the link/timimg chain. 1.1. If you are only pootling around on the flat then perhaps the loss of the front chainring is acceptable. But any hills or a good stiff headwind and you'll be regretting the loss of lower gears. You might be able to offset this with a large rear cassette, a 42 tooth megarange or similar.

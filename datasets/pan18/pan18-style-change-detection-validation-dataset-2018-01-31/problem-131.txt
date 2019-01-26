@@ -1,0 +1,27 @@
+I don't see why you would need to know the bounty if you don't have the chance anymore to pay it, as they are chasing you down. As for looking whether they detected you, the systems has enough ways of telling you so that you do not need to check if you have a bounty on your head. 
+
+Please note though, that there are some bugs with this quest: 
+
+Find a high enough ledge / rock to stand on in the perimeter of the Giant. In about any game where your opponent is slower than you, you can kill the opponent by kiting it. In Skyrim, ALT allows you to sprint. You might be able to use a combination of sprinting backwards and firing arrows at the Giant for a long time (it takes longer in between shots than the other method), perhaps using potions to fill your Stamina. The problem with this method is that you might run into other opponents or against a wall, you might want to first inspect the direction in which you will run... Also, you should make sure your shout power is ready to use (not used that day) before entering the building and talking to Arngeir. Using the wait feature to go to the next day then shouting at Arngeir does not work, it is unknown if this permanently makes this quest incomplete. 
+
+Then Roggvir will be able to run away which gives you time to kill both Captain Aldis and Ahtar. Make sure you that you keep both Captain Aldis and Ahtar in place or kill the one that goes for Roggvir. Combine a companion, potions, shouts and other items in your strategy to be more effective. 
+
+— Wikia - Elder Scrolls V: Skyrim - The Way of the Voice 
+
+For this method, race doesn't really matter. Load the save file where the horse was not following you yet... Kill it! Bonus points from me if you do it with falling damage but manage to survive yourself, then it gets killed by accident... :) 
+
+You will hear a dialog related to your stealing. 
+
+Looking at the scene Captain Aldis and Ahtar will do whatever they can to kill Roggvir, but Captain Aldis will try to hit Rogvir first when you interrupt the execution. So, you first need to prevent Captain Aldis from killing Roggvir by walking over the ledge in the bottom right of yx's screenshot (this will not trigger the scene, allowing you to interrupt earlier) and simply hitting him, then hit Ahtar afterwards. Guards will hunt you down, they will ask you for the bounty amount (if not, they will try to kill you). For this method, races that give you higher running speed and/or stamina have influence in the succes. You might also want to make sure you don't carry much with you as Weight has an influence on your running speed. Keep firing arrows at him, make sure that you dodge his attacks if the rock is rather small. 
+
+It's obvious when you got caught stealing or killing someone: 
+
+Giants might be slower than you. 
+
+The system lists the bounty amount twice when you stole something or kill someone: The system seems to think that you own the horse now. Make sure you have enough arrows with you. It takes about 50 steel arrows to kill a Giant, you might want to take at least 75 steel arrows with you to make up for missed arrows or slightly stronger Giants. You can farm steel arrows for free in Solitude. You will get the warning if they decided to put a bounty on you. 
+
+Please note that you will get a 1000 gold bounty on your head for murder, given that he does nothing useful in return it is not worth it to save him from getting executed. In the end, you might even be killing two persons that might be more valuable than the one you are trying to save... 
+
+Persons will flee to get guards or attack you, guards will attack you. 
+
+Holding the shout key for a longer time will let you perform a higher-level Dragon Shout. Here is a video demonstrating how this is done, it might be considered a nasty glitch though: Contrary to what yx writes, I have not seen imperial guards kill him. Only Captain Aldis and Ahtar where trying to chase and kill him, my companion managed to slow them down while I was following Rogvir and he was kneeling on the stairs where I had to wait for Ahtar to actually come and kill him. This was of course not the best place as I got overwhelmed there, keeping the action near the execution place is the best you can do in order to stay alive. It requires some practice though.

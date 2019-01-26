@@ -1,0 +1,31 @@
+Protoss can also prevent the opponent from walling off the easiest. For example if your Zerg ally goes for a very early pool, put a pylon in the opponent's intended wall, and cancel it. This keeps an open gate for your early lings to enter. 
+
+You could build your 2nd race base amongst your ally, avoiding creep You don't need to bother keeping a hold of the worker with neural parasite as much. If your ally is Protoss, it would just take 1 neural parasite. Creep spread tends to be more conservative in team games unless your ally is also Zerg. But in a team game of course it's also less compelling because you already get the army composition. The biggest benefit would be chrono boost, or sharing transports. I won't mention "less communication required between teammates" because well, you should just aim to improve the communication, not work around it :) 
+
+Note: In team games (2v2 / 3v3 / 4v4), it's far more compelling to wall in because you risk facing much stronger rush attacks. The bigger the rush, the more important it is to keep them at bay while you prepare a defense. As Terran, I sometimes place unfinished buildings at the front as an emergency, or as Protoss, you sometimes need multiple zealots ready to do the hold-position gate. 
+
+I did see one game commentated by Husky where a Zerg player captured an SCV which was sent to repair a tank on the battlefield, and he did work up the Terran tech tree. But I think that game was really just for fun as many bizarre things happened, and the players goofed around more than actually playing to win (maybe someone remembers that one and can give a link?). I have never seen anywhere else where neural parasite was used like this in a legitimate game. 
+
+[update] More of a commentary to your question: As far as "Am I doing well?" honestly your win/loss ratio is of little use, because battle.net tries to match you with equally ranked players (thus trying to keep your ratio ~50% no matter your skill level). If you are improving faster than your moving MMR rating is rising, the ratio will theoretically go up, but that's only in theory. Bnet could just as easily randomly pair you with 10 favored opponents you will lose to. 
+
+This is much easier than selecting the individual drone and mineral patch, but it's still to hard for me to do effectively. 
+
+The best way to get statistics on your games is a program called sc2gears. It analyzes your replays and gives lots of data. To get this info, do a multi-replay-analysis on all of your replays, double-click your player name to do analysis on just you, and look at "Match-up Records". 
+
+Repair time is the same as build time. So a building that takes 100 seconds to build will in theory also take 100 seconds to repair (from 0 to full health). This time includes conversion duration for example with planetary fortresses. 
+
+The bottom-most mineral patch is closer to the nexus than the second-to-the-bottom patch. You will yield a slightly better income having a worker on the closer patch than the further one. So, rally to a close patch. 
+
+You can often infer the opponent position from subtle clues. Like in metalopolis, if you see an overloard coming at you early, you know the opponent is close. Or if you see an opponent's scouting probe coming from a certain direction, it can be a hint that it's coming from their main base. 
+
+Specifically for Protoss breaking walls: 
+
+The paragraph-style description of the graph is: While you save for the expo, your army is not getting stronger. When you build the expo, you can continue to produce on 1-base, but you will be behind the cost of the expo. Once the expo is up, your income will gradually increase, allowing production to accelerate. At some point the acceleration will elevate you past the point you would have been if you stayed on one base. 
+
+But I have never heard even a mention of doing this amongst allys in a team game; maybe you cannot neural parasite an ally? 
+
+sc2gears now supports a google-hosted database of all of your replays. This is basically the direct response to battle.net not showing win/loss data anymore. 
+
+So the idea is to get a general sense of "+/-30 seconds, how long is this duration?" 
+
+Sneak cliff jump into opponent's base. For this though you either need a hallucinated air unit or an observer, which is irrelevant at this stage of the game. Blinking back injured units. But this is also not very useful so early. This blink-back micro is not really necessary if your stalkers have a clear path to retreat. At this point in the game you can't have many stalkers, and you can just walk them back just as easily as you can blink them back. Later in the game when you have so many units that stalkers are clumped up and there's no clear path to walk backwards, THEN blink-back becomes effective. Yes, there are nice tricks with blinking to low ground or around buildings that aren't possible without blink, but this is a good reason to have blink ready DURING the engagement, not before. Retreating or chasing. Again, this is not something that will be necessary at the start of your engagement. So is that risky forcefield jump the only reason people get such early blink? What makes HuK's or Kiwikaki's blink rush builds better than mine?

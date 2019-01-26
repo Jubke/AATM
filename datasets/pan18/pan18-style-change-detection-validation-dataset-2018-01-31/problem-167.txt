@@ -1,0 +1,13 @@
+As others have pointed out below, the OP's description is more consistent with a failure at the joint between the crank arm and the pedal than between the crank arm and the crank shaft. If this is the case there is some chance that a "Helicoil" can be installed to fix it. This can be done by a skilled bike mechanic or a machine shop. From a practical standpoint I suspect you're losing very little efficiency with a moderately worn chain. However, a more severly worn chain (usually at 2-3 times the distance you have on yours) will begin to cause abnormal wear on the sprockets, ultimately damaging them to the point where sprocket replacement is required. And of course, beyond a certain point the chain will skip and shift poorly. 
+
+With the newer narrower chains, however, this approach is less reliable. 
+
+(Hint here: Read the chain tool instructions! When "breaking" the chain you never push the pin ALL the way out, but stop a turn or two short of that point. If you get it right the pin should just barely project past the inside surface of the plate. If the instructions do not tell you how many turns, use the tool on the last link of the too-long chain and count how many turns it takes to push the pin all the way out. Write that down, minus two turns.) With older style chains which were designed to be split and joined with a chain tool, the simple fix here would be to use some of the excess chain you cut off of the new chain (they're always too long) and (using a chain tool) splice an extension to the piece you're going to use. (I'll add that replacing just the arm vs a larger assembly is a matter of feasibility and economics. If you can't find a compatible replacement arm you may need to just install a new crankset, or you may discover that the entire crankset is cheaper than the replacement arm.) 
+
+Read the instructions. After you push the pin in, you place the link over the left-most set of teeth (so that the teeth are between the plates) and give the crank about 1/2 turn. This loosens up the link. (FWIT, I also generally use a Teflon or wax-based "dry" lube, though I used to switch to something heavier when I did winter riding.) 
+
+I have speculated that a slightly misshapen crank could be saved by fashioning a shim of aluminum sheet metal (ie, beer/pop can), but I've never had need to try that, and it sounds like yours is in too bad of shape for that to have a chance to work. 
+
+It depends -- on the lube you use, the type of riding you do, and how much of a maintenance nut you are. And there's some danger that you have damaged the crank axle as well, meaning the bottom bracket cartridge will need changing out as well. 
+
+(In this case the pedal is likely toast, however.)

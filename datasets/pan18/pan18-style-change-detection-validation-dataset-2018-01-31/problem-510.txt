@@ -1,0 +1,25 @@
+I've done it a lot; leave a comment, an edit, or maybe even start writing an answer on a post I saw on the front page. When a post other than a question is revised (edited or a new answer posted), the "revised" timestamp on the Questions page is a link that takes you right to the post which was edited; useful and logical. 
+
+I've been answering a lot of my own Meta questions lately and I'm really tired of seeing this: 
+
+As you can see, user one has a grey box with a one in it and user two has a red box with a two in it. 
+
+For some reason, when the revised post was the question (like when the question is first posted or an edit has been made but there are no answers yet) the revised link isn't a link anymore. It looks exactly the same but no longer functions. 
+
+Please retitle the "Excerpt/wiki not helpful" message so that both use the same start. This will help users scan for the right reason regardless of excerpt/wiki and keeps them in alphabetical order. 
+
+I noticed we're using the following doctype: Unlike accessibility, you're being hard to support by choice. You shouldn't be surprised when the decision is made not to support you. 
+
+I'm a moderator and 15k rep user. I know when to answer my own question. Especially on Meta where self answers are particularly common. Which keeps it in alphabetical order but keeps it clear which option you're picking at a glance, which avoids this jumbled order business. 
+
+It's great to show it to new users, it might even be good to show a 1k rep user who's never self-answered before. But there's a point where Just in Time help turns into condescendingly assuming the user is stupid; this pop up eventually crosses that line. 
+
+Graceful degradation only goes so far, and once you're at the point of appeasing people who don't want to run JavaScript code or third-party scripts you're looking into seriously degrading the experience while significantly increasing the workload and all to appease an extremely small, extremely problematic subset of users. No. Keeping the site fast (using CDNs with no cookies and long expiry times) for 99% of users far outweighs the importance of appeasing 1% of extremely persnickety users. 
+
+So someone flags a message in chat with a mod-only message. Upon deleting the post, the flag is still there as is the UI element. I have to manually dismiss the flag even if I agree and delete the post. A very very common use case for these flags is "I did something stupid, please delete it": 
+
+For some reason they are in different font sizes and alignments as well. Can the revision timestamp just be made so it's always a link to the revised post, even if the question doesn't have answers? Wait what the f- the order changed! When you're used to the position of the rejection reason, it's very jarring to see what's essentially the same reject reason in a different place (reordering most of the other entries too) The meta post is the Event link and the second Meta link as well. UX is planning a Hackathon and we've created a community event for it, and linked the relevant meta post. However, the Meta post now shows up twice in the Bulletin, once as a popular meta post, once as a bulletin. 
+
+Oh look, someone made a bunch of tag wiki excerpts/wikis that don't follow guidelines. I'll just click this Wiki Not Helpful reason when rejecting them: Can these mod-only chat flags be dismissed when a post is deleted? Once you've acted upon it that seems like it's implicitly dismissing it. Dismissing upon action would follow the same convention as acting on post flags; closing/deleting a flagged post dismisses those flags. 
+
+Can this prompt please be hidden either when you have X rep or when you've been shown it Y number of times, or some combination of the two? Then I notice the post dates are from 2010; an ancient question someone edited or posted an answer to. It would be nice if after a few months or so a little icon or indication showed up on old posts on the "active" page.

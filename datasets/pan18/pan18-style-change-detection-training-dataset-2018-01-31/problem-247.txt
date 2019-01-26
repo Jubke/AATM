@@ -1,0 +1,21 @@
+If you press F3 to open up the debug menu, then look at a block, you can see its coordinates: 
+
+When a player dies, first their death count will turn to 1 (automatic, because of the type of objective) and two command blocks will return true. Note that if you take either of the 2 original water source blocks, they will not reform. This is because they only have 1 other water source flowing into them. 
+
+What's likely happened here is that the player has asked for a book, and then changed it's NBT data to give it hover event commands that give the player OP. 
+
+You should be able to protect against this exploit by upgrading your server to 1.8.4. 
+
+One will be the one which teleports them to wherever you want. Since this returns true it will also turn on the comparator facing out of it, but the signal won't do anything just yet, first: 
+
+I would also recommend using a death score in place of a health score, I can see the way you're doing it with health being quite unreliable. This death score shouldn't be displayed (You can have a separate one for that), and should be set back to 0 for each person after they die. Create it like this: Whichever block you take, there are 2 still existing sources to the side of it which will recreate it. There is no way to make infinite lava sources in the current version vanilla Minecraft. 
+
+The other block activated at the same time was testing for dead members of their team. Whichever one of these two goes off depends on what team the player is on, and these will send a signal to give a point to the opposite team (Not sure exactly how you have teams set up or want to give out points to them). I've been trying to work out if thrown snowballs, in any vanilla version, have been able to hit, as in cause the damage animation and knockback (not necessarily actually taken away hearts, and not just disappearing on collision), other players in vanilla Minecraft? If so, in what version did this occur? 
+
+You will need to specify two opposite corners of the cuboid that you want to fill/replace, as such: The Minecraft wiki makes no mention of snowballs affecting players, or ever having done so Many people seem to remember having snowball fights, even on unmodded servers. Snowballs being unable to hit players is marked as a "bug" in the bug tracker, yet the mods too seem unsure whether this was ever actually a feature There are Bukkit plugins which allow snowballs to damage players, which may be a cause of the confusion I personally checked the following versions in vanilla survival, and snowballs did no knockback or damage: I cannot find anywhere/anyone that gives a version when this change was supposedly made. In general, people seem very certain of remembering it, but are unable to provide evidence. If it is the case that snowballs once did knockback, it should be relatively easy to find or record a short clip showing so and post it; doing so is what I want for the answer to this question. 
+
+Basically player gets a death, teleported and other team gets a point, their deaths set back to 0 so it can be tested again. 
+
+Is there any proof that snowballs knocking back players was actually ever a vanilla feature? If you believe this was once a vanilla feature give proof or a version number. I want an actual answer to this question, not just more of what people remember as I have listed above. The block that was previously air becomes another water source block. This means that you can pick it up with a bucket, and then the 2 other water sources will create it again. Also note that for water sources to form there needs to be block directly under where you want the water source to form. This example will not work because there is no block underneath where the 2 water sources are flowing into: 
+
+Up until very recently, there's been a bug in Minecraft that allows any client to change the NBT data of an item in its inventory. A player by the name of Ammar discovered this 2 years ago and reported it to Mojang confidentially. After repeatedly contacting them about it and getting little response, Ammar recently decided to release details of the exploit publicly. This finally forced Mojang to fix it and release an emergency 1.8.4, but older servers are still vulnerable.

@@ -1,0 +1,33 @@
+However I don't like Fists of Thunder, and want to know which of the remaining ones are the fastest, and if there's even a significant difference in spirit-generation between them. 
+
+The only monsters I know of that explode on death are Grotesques, and any monster that has the Molten modifier. These guys actually have a small delay before exploding, so you usually have time to run away before the explosion hits 
+
+Casting resurrection usually takes a few seconds, and getting hit interrupts it, so you'll want to be sure the area is clear before you click to resurrect your ally. 
+
+I know it's not just based on Armor value, since I've seen this value higher on pieces of armor that contain lower armor values, and see it on non-armor pieces such as rings and amulets too 
+
+Damage absorbed by the enemy does not count for aggro purposes (for example, hitting a shielded enemy will not pull aggro off of someone who has it via proximity only) 
+
+I've noticed a stat called Protection in the "Stats changed if equipped" tooltip that comes up when you hover over a piece of gear you aren't wearing 
+
+Have some damage reflection, so things that aggro to you based on proximity will now aggro because of damage, and won't get pulled off by other dps 
+
+Normal Chests are all other containers that behave as a chest would. For example, bloody chests, treasure chests, demonic vessels, etc. are considered "chests" for game purposes and have random loot. Depending on your level, you will generally get one or two pieces of gear of varying quality, as well as a modest gold haul. Sometimes you will get gems. It should be noted however, that like any container, even a normal chest has a chance to drop legendary items. 
+
+In game, using just the friends list, they don't get this extended amount of info, however they will still see who you are playing as (name and class), what quest, and how many people. 
+
+What act, quest, and area do you usually spot them? I know these areas are random, but a general idea or potential scripted event would be nice. 
+
+Last night in a bounty run, I quickly had to return to town because my inventory was full, and when I portaled back to my group, I saw that a legendary had dropped in an area where my group had cleared without me on my mini-map. I did not think to check the Tab map to see if it would appear there. I would hate to miss out on a Legendary drop, but also hate to hold up my group while I comb through any areas they already hit! 
+
+Absolutely nothing really happens (outside some short dialogue) and it is pretty bizarre. 
+
+The Auction House seems to be having a lot of problems right now, so be wary that it may be awhile before they have a response for you. 
+
+Or is it multiplicative, causing less than a 50% reduction? 
+
+I am a bit confused by a couple of the runes from the Monk ability "Seven Sided Strike" 
+
+While it's important to realize the random nature of the game and it's drops, here are some general observations I have made in my playthroughs. Keep in mind, your experience may vary: 
+
+Bounties and Nephalem rifts After completing Act V, you will unlock access to Adventure mode, which will allow you to undertake bounties and occasionally Nephalem Rifts. In each of these modes, you are given a specific task to undertake in certain parts of the game, usually killing a certain mob or clearing an area. Once you do that, you are rewarded a substantial sum of XP and gold, in addition to any that you earn along the way by killing mobs or completing a side quest like a cursed chest. In Nephalem rifts, particularly, mobs come fast and furious which create ideal conditions for lots of gold drops.

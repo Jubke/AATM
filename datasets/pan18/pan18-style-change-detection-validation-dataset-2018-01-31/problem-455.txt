@@ -1,0 +1,35 @@
+For each privilege we have the rep required and 2 flags that dictate who gets notified. Veteran users are users that have an associated account on another SO site, non-vets do not. This was happening on locked posts. 
+
+Back in day one I had some code that suppressed notices shorter than 10 chars from being displayed. They are actually stored in the DB. But let me take a step back and explain how the new system works: 
+
+Clearly this is not intuitive or right so I made some adjustments. 
+
+Ok, this happens cause of a pretty serious bug in the Chrome 6 regular expression engine. I changed it so when a post is locked all suggested edits are rejected by the community user with the note: 
+
+If I am sorting on popularity it should also sort on popularity. Find as you type user feature always sorts on name. I find it a bit confusing that the sort order is swapped without me asking for it. 
+
+Under certain circumstances it fails to set back references properly. So we have this code: 
+
+We have these privilege things on each site: 
+
+I just changed it so we do a simple test to ensure we stop you from submitting anything shorter than 30. A message shorter than 30 makes no sense in this context. 
+
+As you can see, veterans get significantly less notifications than non-vets (by-design) 
+
+We only count an one "edit" per post, it does not matter if you edit the title or body multiple times. This is a bit glitchy, I seemed to have missed marking those notifications as "sent" when I deployed the system, there are 30 more users with 5k rep on SO that will be affected. When the system was deployed, I ran a script that "pretended" that all users with more rep than 10 got all the historic notifications. I seemed to have missed the vote-up priv there that caused this issue. 
+
+Secretly I added the workaround for chrome 6 only, I upgraded to chrome 7 today and the bug is back. I really don't want to make this workaround part of WMD. To compensate for the stricter requirements we reduced the thresholds: We counted "title" edits and "body" edits as distinct entities. This badge was awarded to users with 600 cumulative "title" or "body" edits. 
+
+Whenever, a user's reputation changes we check to see if they were notified for all the privileges they have, if any are missing – we insert notifications. We never, notify a user twice of the same privilege. We have another table that tracks which user was notified of which privilege. 
+
+Unfortunately, this tends to create duplicate chat users if they happen to have an existing chat account associated with another site. Which is a problem if the existing user has access to rooms the new one does not. Or a really clever status text. Or a coveted low-digit ID number. Again, I sincerely apologize for the confusion; thanks for being persistent! 
+
+But what is frustrating is the fact that you can't get back to the "inbox app" if you leave it. Not a big deal, if you're leaving it for the main app since you can always get to the inbox there - but if you're leaving it to jump into a browser (say, because you tapped a chat notification) or answer a phone call, or even just opening up the app switcher (where it does appear, initially)... It disappears without a trace. The "back" button takes you to the desktop, and the app disappears from the "recent apps" list. Interested in others opinions here... And then there's the other one, which seems to only show up if you tap a notification in the system notification pull-down and the app isn't already running: 
+
+Not sure what the proper terminology is for this, but... There are two different appearances for the inbox in the Stack Exchange app. There's the one you can get to by clicking the counter in the top bar: 
+
+Old Formula: Total # Question Views / Total # of Days as recorded in the API New Formula: Median # of Visits each day for the past 14 days as recorded by Google Analytics 
+
+We're taking a look at this. It may be a few days because it'll require going back and forth with the lawyer. The old formula wasn't very good at all because (1) it only counts question views and (2) it's averaged for all time, so it doesn't reflect where the site is now. So sites that have grown were showing lower numbers than they should, and sites that have shrunk were showing higher numbers than they actually have now. 
+
+"Latest Activity" is supposed to reflect the last time the proposal itself changed, so you can at-a-glance see if there's something new for you to do / see here. That includes edits to the title and audience, or new example questions so you can take a look and vote on them. It doesn't include followers / comments / votes, since there's nothing for you to do when those are added.

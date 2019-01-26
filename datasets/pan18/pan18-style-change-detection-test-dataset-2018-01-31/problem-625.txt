@@ -1,0 +1,31 @@
+You could use numeric references, but you would probably be better off just getting your character encodings straight (which basically boils down to: 
+
+There are plenty of other languages that can be used for server side web programming too (C# is popular in ASP.NET, I'm rather fond of Perl, there are quite a lot of proponents of Python and Ruby, Java has a strong following, and so on). 
+
+You can't use the ones from HTML in generic XML. 
+
+There are lots of entities defined in the HTML DTD. 
+
+You can access shared resources (such as the contents of a database that lives on the server). 
+
+Would the user benefit from getting instant feedback in response to them doing something? e.g. An error message for improper data in a form they are trying to submit. If so, then doing it client side would be beneficial. Can it be done server side? If so, do it server side first as it is more reliable (and for non-cosmetic things, harder to interfere with). Build on things that work. 
+
+You can make HTTP requests to ask the server for things (this is called Ajax). 
+
+If you really want to allow connections via the network, then see skip-networking. 
+
+Client side programming, on the other hand, can be used to make things more convenient for the user. You can add animation to indicate that something is happening, check data before it is submitted to the server (saving the time of a round trip), update part of a page periodically, and so on. 
+
+Doing it in lots of different environments instead of a single one Having it break whenever a user comes along without JS (for whatever reason) Having it fail to work for the vast majority of bots (including search engines) Investing development time in converting all your logic Requiring the browser to make additional requests to the server, slowing down load times When deciding if you should do something client side instead of server side, as a rule of thumb ask yourself two questions: 
+
+With server side programming, you can modify the document you are sending to the client, but only at load time. 
+
+You can specify otherwise with JSON_UNESCAPED_UNICODE (providing you are using PHP 5.4 or later). 
+
+If the problem was the shebang line then the error would say something like: 
+
+JavaScript is a programming language. It is the only language that has a decent level of native support for running in a browser. It has a wide variety of server side implementations (including Node and ASP). It is one of the languages you can use with the Windows Scripting Host. etc. 
+
+With client side programming you can manipulate things in the browser without going back to the server. e.g. you can add elements to the document to display a message. 
+
+If it doesn't work when you use TCP/IP then the database probably isn't listening on the network. This is generally a good thing as it enhances security (not that listening on 127.0.0.1 exposes any problems, but listening on all interfaces gives more opportunity for attacks).

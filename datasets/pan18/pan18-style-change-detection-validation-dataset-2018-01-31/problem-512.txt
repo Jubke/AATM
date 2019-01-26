@@ -1,0 +1,37 @@
+The question doesn't show up at the top of the results, and this is even after I added the feature-request and reputation-graph tags to my question. 
+
+If a post is flagged as "not an answer" I typically look at the date to see if it's fresh or not. If it's a really old post I usually just delete it from the flag page (using the handy "delete post" link). If it's new, I'll often go to the post and leave a comment saying that they should have posted a new question. This takes a little more time, but it's friendlier to new users. Yes, moderators can change your profile picture if we need to. Before the recent feature change that allowed users to upload a picture directly, we could edit a user's email address to temporarily force Gravatar to generate a default image. Now that users can directly upload a picture, moderators have the ability to change this setting on other user's profile as well. If you see a NSFW picture being used as an avatar, flag one of their posts for moderator attention and we'll take a look. I mean to change it, not just to look at NSFW pics. That's what closing is. You can revise it using the tips from the comments, then five votes from the community (or one from a moderator) will reopen your question. 
+
+Seriously... some days I only have fourty, some days twenty. Some times it dips down to ten or so. Yeah, I've got a butt-ton of filters, but so what? Does that make me a bad person? 
+
+the canonical question could be about derp rather than c#. How this would flesh out I'm not quite sure... A possible workaround may be to increase the number of questions we can have on the front page, like 100 or 200 or something. 
+
+This process takes a long time, and can definitely be automated, as the only thing you really need to check is how many new users are posting non-answers or are spamming their awful products. The current vandalism flag contains a list containing a sampling of posts relating to the flag 
+
+A moderator has two choices. They can delete the answer and move on, or... 
+
+This is a pain in the butt. Please don't make us do this. 
+
+Note the proposed duplicate is already status-completed. This proposal also doesn't consider reputation as an indication of trust, is about instant closure not increased weight... it's not a match at all. I'd suggest that there should be the ability for high-rep users to say, "thanks, but no thanks" to some of the "features" of being a high-rep user. I think that not wanting to see deleted trash would be first among them. 
+
+We move the tag editor right smack up top. Blam. It has a few benefits that I can think of: 
+
+There are a few "automatically protect questions" requests out there, but I'd like to add another twist. 
+
+After some consideration, I think it should be named the Haltenhammer. User has a history of being active on the website User has a history of being active on the website's meta In addition, I would suggest that in order to use this power, the trusted user would have to add a comment (wait, let me explain before you go recast that downvote!) to explain why this extraordinary action was taken. This also will allow the user to cast a non-binding close vote--If you don't leave a reason, it is a regular vote. If you do, instaclose. 
+
+That's what closing is. You can revise it using the tips from the comments, then five votes from the community (or one from a moderator) will reopen your question. 
+
+In short, I don't think any kind of perceived recognition is the primary reason for close voting, as the majority of the close votes I've seen are on questions that actually need to be closed. Unless this changes dramatically, I don't see any reason to change what little recognition/blame people do get for voting to close. The question doesn't show up at the top of the results, and this is even after I added the feature-request and reputation-graph tags to my question. 
+
+Link-only answers shouldn't get an automatic delete vote. If they should, then this could be scripted. When you go to /review the note under Low Quality Posts says "Identify, then improve or delete low-quality posts." You always have the option to improve the post by clicking 'Edit' instead of delete. 
+
+I think you need to try to understand that having quality standards is what makes Stack Exchange sites better than competing sites like Yahoo! Answers. The communities have a say in what goes into the FAQ, they make the content, and they elect the moderators. If there's a specific question that gets closed that shouldn't be, the community has the power to override even a moderator's decision and reopen it. 
+
+I am a 1500* high rep SO user. As such, I've had the Retag ability for some time, but I'm not yet able to bypass the review queue for 'normal' edits. However, the protection ability is somewhat tough to use, because there isn't an easy way to find those questions which need protecting. 
+
+I would have to agree that the current URLs are an eyesore, but only if you actually look at them. As far as I am concerned, this would certainly be an improvement - but a very, very, microscopically small one. It would be much better to have developers focus on more pressing issues. As long as it works, and it's not really, really ugly (really ugly), it would be a waste of time, IMO. 
+
+So why are we making users click clear through the dialog? That's: 1 click for the Reject button, 1 click to choose a reason, another click to submit the reject, and another click to get past the audit-passed screen. 
+
+I've reviewed over 700 suggested edits, so I have had my fair share of audits. I have passed 3500 reputation on a beta site, so I have both access to the 10K tools and the ability to protect things. There are other potential problems associated with questions generating many deleted answers: That's 4 clicks. On the other queues, it only takes one click minimum to pass an audit - usually a downvote. I recently found a guy mass-plagiarizing tag wikis. The problem is, he had more than 2,000 reputation and thus a moderator couldn't manually ban him from suggesting edits.

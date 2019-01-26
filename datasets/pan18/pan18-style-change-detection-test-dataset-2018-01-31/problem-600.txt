@@ -1,0 +1,45 @@
+I have a beginning of a solution, for those interested: 
+
+Whenever there is a runtime type dependency, you need RTTI (RunTime Type Information), and making use of RTTI for casts is the job of dynamic_cast. 
+
+There are two varieties of unused code: 
+
+Second, how does it work ? Well, exactly like the previous use case: at initialization it builds up a stack of the pointers to function to call and at destruction it empties the stack one item at a time. So, in effect, the functions get called in a Last-In First-Out fashion. 
+
+If you ever try to use the object, you need to be alive and kicking. The problem thus come from both the initialization and destruction, which is a common issue in C++ with globals. 
+
+Second, the destruction phase: 
+
+The main model used today for exceptions (Itanium ABI, VC++ 64 bits) is the Zero-Cost model exceptions. 
+
+However it's been current practice in C to use flexible arrays. 
+
+However, I am working on an 'internationalized' project (a website, of which I code a c++ backend... don't ask) where even if we deal with utf-8 we don't acutally need such libraries. Most of the times the plain std::string methods or STL algorithms are very sufficient to our needs, and indeed this is the goal of using utf-8 in the first place. 
+
+There are two situations where you should not use smart pointers. 
+
+I must admit I am quite puzzled by the construct... 
+
+@Potatoswatter suggested using initializer lists, which helps a bit (no range-for there). 
+
+For example, let's use a simple shim: 
+
+I would like to know if you have other comparable tricks, both for counting and for other simple tasks. I repeat, I know about ICU and Utf8-CPP, but I am not interested in them since I don't need a full-fledged treatment (and in fact I have never needed more than the count of characters). I also repeat that I am not interested in treating char*'s, they are old-fashioned. 
+
+If you have "unused" memory, then it is trivial: 
+
+One difficulty with the shims is that they rely on the binding to const-ref behavior to extend the lifetime of the temporary wrapper created just enough without having to allocate memory dynamically (they would not be cheap if they did). 
+
+The idea is that instead of losing time by setting up a guard and explicitly checking for the presence of exceptions everywhere, the compiler generates a side table that maps any point that may throw an exception (Program Counter) to the a list of handlers. When an exception is thrown, this list is consulted to pick the right handler (if any) and stack is unwound. 
+
+Still, for the next version (C++1x), Bjarne Stroustrup stated his intent to do it in 5 years (so about 2016). For now, there are changes envisionned to the core language (concepts, modules and garbage collection), and the focus seems to be more on extending the library (filesystem for example), but it's still early so who knows! 
+
+I know of lex/yacc and flex/bison for example, however they appear to only create C / C++ code to be compiled, which is not what I am looking after. 
+
+Therefore, I suppose I am doing something wrong. 
+
+Now, the real difficulty start: which smart manager ? 
+
+Linker errors are always a pain to debug... but there were unresolved references, and so I checked... but the source is well-formed... and finally it hit me: 
+
+A colleague of mine told me about a little piece of design he has used with his team that sent my mind boiling. It's a kind of traits class that they can specialize in an extremely decoupled way.

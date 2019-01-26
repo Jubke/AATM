@@ -1,0 +1,17 @@
+This is false. The hand will play out as usual with the flop, turn, and river. 
+
+The TDA rules have this to say about the order of show in rule 16: 
+
+This differs from your own example in that in Player B's case, the removal of any single chip will cause the amount to fall below the calling level. Hence, Player B's action should be interpreted as a call. There is no way that you can remove a single chip and have the remainder be sufficient for a call. The difference is that in your case, the $500 chip could be removed and the remainder would still equal the amount required to call, and thus this action should be interpreted as a raise. 
+
+No. Player 2 can either call by putting in 100 to match the big blind here, or he can raise to any amount 200 (100 big blind + 100) or more. Then players 3 and 4 will have their right to act, during which they can each opt to call, raise, or fold when the action is on them. A player going all-in for less than the blind doesn't eliminate those players' right to act on their hand. 
+
+Now, let's inject BB's mouthy comment. What happens now? BB is saying effectively that he's choosing not to play this pot, and he wants to give SB information that will help him make the best decision about whether to try to eliminate the all-in. With this info, the SB now has no care in the world about the BB. He need not fear for his own stack. He can concentrate solely on the all-in's shoving range and his own cards and the stack sizes as if he's last to act. This will allow him to call with a wider range and attempt to eliminate the short stack. The short stack's shoving range is likely really wide here too, so calling with a more marginal hand might still be a good idea. The fact that the BB is no longer an issue is a huge deal. 
+
+I'm not sure where your friend heard this or why he believed it. There are plenty of televised heads-up tournament matches available with a quick youtube search where you can see how heads-up hands get played. 
+
+In the example quoted in rule 43, it states: 
+
+It's not really clear to me what you're trying to do in your software, but I think you'd benefit from reading some basic explanations of legal bets and raises and how side pots are dealt with. I wouldn't consider these particularly extreme cases, since you'll see side pots created at most games without having to sit for very long. There are quite a few questions here in the "related questions" sidebar that will point you to more details for each topic. 
+
+All I can say is that I hope the BB at least bought you a beer after this.

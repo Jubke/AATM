@@ -1,0 +1,21 @@
+What I reported is valid for the reputation you have on Stack Overflow. Once your reputation is at least 3000, you can vote to close any question; in that case, you don't need to flag a question to migrate it, except when the site where you think the question should be migrated is not listed under "off topic." The phrase should be "1 is waiting for review." 
+
+I thought the highlighted questions were the ones that have been recently changed, but the tab shows that two questions have been changed. I also thought they could be questions using my favorite tags, but that's not the case either. (I would not understand in which way my favorite questions are associated with my favorite tags, though.) The "Late Answers" review page is described with the following phrase: 
+
+It's not possible: The tags are automatically ordered from the most frequently used tag to the less used one. 
+
+What happens to the tag badges assigned to users, when the relative tag is deleted, or it is merged with another one? Do the users keep the badge even if the tag doesn't exist anymore? I see there are 52 questions tagged all-sites, which seems used for saying that the issue is for all the sites. To the left side of questions listed under Hot questions, I see a number. 
+
+What is that number? I would think it is the number of users who seen the question, but it's not the same number I see in the Q&A site. The FAQ reports the following text: 
+
+What does highlighting mean on the profile's "Favorites" tab? If you are going to ask a question on a Stack Exchange site, you need to enter the text of the question. You cannot enter a link to another question asked on another site. 
+
+If then the answer is a perfectly valid answer, you could up-vote it. What you see in the history of a tag wiki is the creator of the tag wiki. You can only suggest edits for the tag wiki, with the reputation you have. If the tag wiki didn't exist before, then the Community user creates it for you. 
+
+Penalties for a valid spam/offensive flag are not displayed in a user's reputation history as shown to the public (I think that's a good idea). They are visible to moderators. Are they shown to the affected user? How can I properly review a large amount of edits from one user? Clicking on 50 arrows to check that all of the edits are ok is not my idea of fun. Is there a way to pre-expand all the arrows? Can I get one page with all the edits, instead of 3? I want to define a function for use in an SQL query. But: 
+
+Water is wet, Stack Overflow is about software development, and these tags carry no information: 
+
+And these tags are a strong indication of a question that doesn't belong here: 
+
+A chat room can have feeds, either posted as regular messages, or appearing as an overlay at the top of the window (“into an extra area of the screen”) — ticker style. When the feed appears in messages, I can mute it by clicking on the feed user's avatar next to one of its messages and selecting “ignore this user”. What about when the feed is showing up as an overlay? How do I make the overlay never appear to me?

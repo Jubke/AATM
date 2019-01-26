@@ -1,0 +1,25 @@
+If the chain is attached then the likely problem is hub / free wheel is not engaging. Some times it is as simple as cleaning and lubing. Most free wheel are not serviceable. This is chainsaw chain: Not the same beast as bicycle chain. I don't even think there are rollers. Bar lube is more viscous than bicycle chain lube. Bar lube does not need a long life - it is going to get thrown off. There is an excess of bar lube and big gaps compared to a bicycle chain. The chain itself only needs to last longer than the cutting teeth. 
+
+You can use a 1/2 link connector to get an odd number of links. 1/2 link is used by the wider SS and fixie where you may need a more exact length. I don't think it is used in the narrow chains designed for derailleur. 
+
+Some front derailleur have a trim for big to big. This make sense to me as you may come to a stop but will get back up to speed soon. And now you have maximum teeth evolved. I don't know if trims comes in a 3 speed and it would make less sense as the outer is out further. Even with a trim cross chaining puts more stress on the chain and other components and is not as efficient. 
+
+If you have ridden the bike daily since 2011 then safe to assume you need a new chain. Easy to check with a chain wear tool - they are relatively cheap. Sticky hub is not likely to break a chain but it is a problem that needs to be corrected. If you are in 4th 99% of the time it might start in 4th just because it is the most worn. SS comes in 1/8 and 3/32. I would contend a SS 3/32 of the same basic construction is stronger than a 3/32 7 speed because it does not need to be built to flex and it is not flexed. Take the wheel to the shop and ask them what tools you need. Another cause could be slack in the chain or chain not as tight. In the highest gear you let out the most chain so the derailleur might not be pulling the slack out of the chain as effectively. 
+
+6, 7 and 8 speed systems all use the same chain width. Any manufacturers 6/7/8 speed chain will work for you. Similarly, any chainrings that fit your crank spider, and are designed for 6/7/8 speed systems will work. 
+
+Another way the strength might be exceeded is through a short but high 'shock' load on the chain, that might be induced by a gear change, but without very high pedaling force. Think of the 'clunks' you sometimes get when changing to a smaller sprocket in the rear. To determine what you have currently, measure the distance between the inner plates of your current chain. 
+
+However some single speed or IGH bikes use a narrower 3⁄32 inch (2.4 mm) single-speed chain, which is the same as derailleur chains. 
+
+Based on your other question: Possible to identify sprocket without taking the bike apart? - you have a Nexus internally geared hub, which would mean you may need a single speed chain. 
+
+Also, the usage instructions for your Pro Link lube suggest that you shouldn't be sticking your chain in a solvent: that there's a cleaner built in to the lube itself. 
+
+I'm going to take a wild guess that it might be because you don't have fenders: that it doesn't matter how often or how well you maintain your chain, if it's filthy again within 5 minutes of getting on the road. 
+
+What should I know about that? What tool(s) and parts should I have had with me, to fix it? It happened when I "stepped on it" (on an empty residential street). It left the chain on the road. 
+
+When I replace the chain (when it's next serviced, perhaps two months from now) should I ask the LBS to replace the cassette again as well? I like to keep my bike in good working order, so that it rides very well (but, arriving home each evening after an hour-long commute, I have had no time for bike care: I just lock it, in the laundry room). Is this rust only cosmetic? 
+
+Should I use a winter lube? What (product or servicing) should affect/prevent rust on the cassette, if that's necessary?

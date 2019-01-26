@@ -1,0 +1,71 @@
+In my opinion performance should be ignored (not really, but micro optimizations should) until you have a reason for that. Without some hard requirements (this is in a tight loop that takes most of the CPU, the actual implementations of the interface member functions is very small...) it would be very hard if not impossible to notice the difference. 
+
+There are even more interesting or confusing cases, like: 
+
+The subtle difference between this third option and the first is in how much you are opening to other classes. An example of abuse in the extrovert version would be someone that wants to get access into your internals and does this: 
+
+The typename is required by the standard. Template compilation requires a two step verification. During the first pass the compiler must verify the template syntax without actually supplying the type substitutions. In this step, std::map::iterator is assumed to be a value. If it does denote a type, the typename keyword is required. 
+
+This is one of those frequently asked questions that have different approaches that are similar but not really the same. The three approaches differ in who you are declaring to be a friend of your function --and then on how you implement it. 
+
+Why is this necessary? Before substituing the actual KEY and VALUE types, the compiler cannot guarantee that the template is not specialized and that the specialization is not redefining the iterator keyword as something else. 
+
+In general thread cancellation is not a really good idea. It is better, whenever possible, to have a shared flag, that is used by the threads to break out of the loop. That way, you will let the threads perform any cleanup they might need to do before actually exiting. 
+
+I was quite surprised when I saw the following code compile without errors or warnings in g++-4.2: 
+
+I have not been able to identify where in the standard this is allowed, and I find it slightly confusing that two of the compilers warn that it is required, shouldn't it be an error if the typedef-name is required but not present? 
+
+About the only real use for pointers is direct memory manipulation. Since Java doesn't want you to do that (and in fact its garbage-collected memory management would actively interfere with and be broken by manual memory manipulation), there's no need for explicit pointers. 
+
+Portability and serialization are orthogonal concepts. 
+
+Here's a little background: Both C and C++ have notions of default argument promotion (C++11: 5.2.2/7; C11: 6.5.2.2/6). This entails that in the following call, the arguments are promoted: 
+
+This may be a silly question, but could someone please provide a standard reference for C++11 and C11: 
+
+Does the standard have to say anything on this matter? 
+
+Use it like your first example: 
+
+With ordered containers, I should say "no", because it does not respect the strict weak ordering. 
+
+I hope these two admittedly fairly contrived examples shed a bit of light on when you really want your shared pointers to be passed around by copy. In a well-designed program, it should always be clear who is responsible for which resources, and when used right, the shared pointer is a great tool for the job. 
+
+By contrast, signedness is explicitly called out for the signed integer types (paragraph 2) and unsigned integer types (paragraph 3). 
+
+(I'd be very grateful for comments on how other languages handle floating point keys in associative containers.) 
+
+Some comparative remarks: Apparently Java does optimize and even inline the call in the inner loop if appropriate. Objective-C++ apparently allows you to query the dynamic function pointer and store it. 
+
+Here's what happens in GCC 4.6.2: 
+
+Assume that every line consists of two numbers and read token by token: 
+
+Here's the example. Suppose I have a polymorphic hierarchy: 
+
+In general, you should pass the shared pointer as a straight copy. This gives it its intended semantics: Every scope that contains a copy of the shared pointer keeps the object alive by virtue of its "share" in the ownership. 
+
+And consider this one, which will fail on a non-two's complement representation: 
+
+Basic properties of smart pointers It's easy when you have properties that you can assign each smart pointer. There are three important properties. 
+
+may be assumed by the implementation to terminate. [ Note: This is intended to allow compiler transfor- mations, such as removal of empty loops, even when termination cannot be proven. — end note ] 
+
+I was wondering what use an rvalue reference member has 
+
+The reason is, some of the people I have to program with just can't use "const", so in the end I get lots of warnings about that particular string literal abuse. I would like to ignore those thousands of warnings coming from their code, so I can concentrate on the mistakes in my own code and fix them. 
+
+There are a few library-related incompatibilities where I don't exactly know the implications of, so I leave those for others to elaborate on. 
+
+After the first couple of answers have appeared I think I must clarify, as I might not have used the most appropriate words. 
+
+In C++0x you will be able to do it in the same way that you did with an array, but not in the current standard. 
+
+From C++03, 12.1 Constructors, pg 190 
+
+Basic simplification of the article: 
+
+The subtle difference between this third option and the first is in how much you are opening to other classes. An example of abuse in the extrovert version would be someone that wants to get access into your internals and does this: 
+
+Even in the few cases where the difference in performance of one approach from the other could be measurable (say that the functions only take two cycles, and that dispatch thus doubles the cost of each function) if this code is part of the 80% of the code that takes less than 20% of the cpu time, and say that this particular piece of code takes 1% of the cpu (which is a huge amount if you consider the premise that for performance to be noticeable the function itself must take just one or two cycles!) then you are talking about 30 seconds out of 1 hour program run. Checking the premise again, on a 2GHz cpu, 1% of the time means that the function would have to be called over 10 million times per second.

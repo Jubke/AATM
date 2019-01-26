@@ -1,0 +1,31 @@
+I don't know exactly what this algorithm looks like yet, but I believe that a good starting point would be that no more than 50% of any one user's total votes could be cast towards a single person. With a little fine-tuning, I think you could even detect voting rings this way. 
+
+Answering your own question, and then accepting it immediately, basically sends the message that "This is the right answer, and I don't wish to see any more answers." 
+
+Unless, of course, you want to participate in the decision-making process itself, in which case Meta is your port of call. 
+
+Seems pretty self-evident. The poster has some other motivation besides answering the question. What's not directly stated (but is implied) is that any answer that is an attempt at answering the question that was asked counts as an answer. 
+
+Of course, we don't allow patently offensive interactions here, but these aren't generally a problem for the most part, and I believe the existing moderation is adequate for those cases. 
+
+In short, we didn't want to discourage people from flagging, especially in the old days when we had this thing called "flag weight," yet another metric by which one was judged, fairly or unfairly. 
+
+"But Robert," you say. "You just contradicted yourself. You said that the way you flag is important, but now you're saying that it isn't." Quite right; here's why. Most people are not interested in being career flaggers; they just want a way to report a problem. We expect people not to be perfect in their flagging. That's why there are multiple votes in review queues, and why we collect multiple votes in the flag queue for flagged posts, and, for that matter, why we let more than one person vote on a question or answer. 
+
+In other words, if it feels more appropriate as one of these other things, it probably doesn't belong in an answer. 
+
+However, can I humbly make the assertion that casual users of Stack Exchange sites should never have to visit Meta? 
+
+Second, the moderators should be evaluating these questions one by one, according to the following metric: Does this question (and its answers) help the site fulfill its mission (the spread of practical programming knowledge), and therefore make the internet a better place? 
+
+It doesn't matter if the question is on-topic or not; if it contains valuable information, it should stay. We can always explain to people why we don't allow similar questions to be asked anymore. 
+
+The flag weight can still be used to prioritize the flags within each sorting. 
+
+Please give me a new sort option that sorts "Not an Answer" to the top. Give me one that sorts "Off Topic" to the top. Give me one that sorts spam or offensive flags to the top. That way I can prioritize my work, and I'm not constantly context-switching (i.e. I can focus on one type of flag at a time). 
+
+I have a flag weight in the 610 range on Programmers.SE, and I don't expect to ever get the Marshal badge over there. There's not enough volume of posts, for one thing, and the moderators over there can be a bit... erm, fickle with their flag dismissals. :P 
+
+As a new moderator, I might not fully understand the impact of my close votes (they close the question immediately). This changes the way that I interact with the community; I can no longer cast close votes in the same manner than I did before, because they carry more weight now. In a way, becoming a moderator has taken away my ability to interact with the community as a normal user. 
+
+Sockpuppets that are created for the sole purpose of upvoting a user's main account are easy to identify; they generally have less than 10 posts, and large percentage of their votes are cast against the main account.

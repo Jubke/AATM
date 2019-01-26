@@ -1,0 +1,29 @@
+I'm sure that there are instances where a bare term, i.e. just "gravity", is used to refer to the phenomenon itself, and there are other instances, involving a different context, where it is used to refer to the conceptual understanding. It is up the the audience to infer exactly what is meant. In mentally reviewing the use of the term "gravity" without qualifiers like "theory of" or "law of" or "equations for", I can't think of an instance where it means anything other than the physical phenomenon. I've always heard Newton's result referred to as "the universal law of gravitation", not just bare "gravity". I see the same pattern in "evolution" (refers to the physical phenomenon) and the "theory of evolution" (refers to the conceptual picture). So I suspect that the default, in the absence of any qualifiers, is that the bare terms tend to (but not necessarily always) refer to the physical phenomenon. 
+
+In conventional medicine, the relevant definition is clinically effective -- basically that there is a statistically significant effect in a suitably controlled (and randomized) test sample. This includes accounting for the placebo effect. If a treatment is clinically effective, that should satisfy the logical positivists. It is not impossible for alternative medical practices to satisfy this requirement in principle (to my knowledge homeopathy specifically does not, but acupuncture has for some forms of pain management). Note that there is no problem of induction in applying the criterion of "clinically effective" to proposed medical treatments. 
+
+it remains only a propositional language:no generalisation of a predicate form of this logic has been found. 
+
+The Isha Upanishad has something interesting to say about this: 
+
+Pin your faith to supernatural knowledge and stumble through a darkness deeper still. 
+
+A general problem for the Western understanding of Indian philosophy is that it's not taken as philosophy. It's studied either in philology, theology & Sanskrit studies. To be fair philosophy is not a discipline apart - it interacts with other expressions of culture. 
+
+This is a question about the philosophy of physics. If one takes a glance at the philosophy of mathematics its easy to see that the idea of number is filled with philosophical niceties and is a much more subtil beast than practical common-sense would give it credit for. 
+
+Similarly with physics. I can recall just how shocked the students were when a professor seemed to posit a particular idea without justification, prior proof etc; it seemed like magical thinking to them. This was in an advanced class - quantum field theory. (He was the manifestly the best lecturer, gathering a sustained round of applause at the end of his course, an honour not accorded to any other lecturer by the student body). 
+
+mathematics is full of circular reasoning, infinite regress and paradoxes. It may be exist, it may be fictional. 
+
+I am beginning to work through After Finitude and am finding it difficult to grasp exactly what his critique consists in; it feels like there is a considerable degree of finesse here. I am basically trying to establish a concise statement of his criticism, including some help putting correlationism in context. 
+
+A philosophical concept is no different in principle, no harder or easier to understand than an artistic composition or a mathematical function. 
+
+Instrumentalism is an important position characteristic of pragmatism, alongside radical empiricsm and conceptual relativity. Consider the maxim of logic formulated by Pierce (which he called the "maxim of pragmatism" before the movement was even named): 
+
+Also, the ultimate "truth" of a scientific theory is probably the wrong criterion (and may even be besides the point.) That is to say, a theory either is or is not effective at predicting things and solving problems. But the fact that a theory lets you predict something still doesn't tell you that the theory is true -- or indeed anything at all about any underlying "reality," for that matter. 
+
+Why do philosophical problems come about? 
+
+I might suggest that Ockham's razor cuts both ways on these sorts of questions. Remember that Bostrom's own presentation of the question is a trilemma: either

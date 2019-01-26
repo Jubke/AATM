@@ -1,0 +1,25 @@
+How — or if — the outcome of such a meeting is shared with the broader community will be left to the discretion of the moderator team. However, the details of the meeting must remain confidential — only the minutes can be published if such a need arises. This is done to allow potentially-confidential information to be disclosed without forcing anyone involved to violate the moderator agreement. 
+
+For users with less than 10 flags in the past week, look only at the status of the last flag - if it was declined, then warn as above (but with the message "Your last flag was declined..."). This handles the case where new users are confused as to what "flag" is supposed to be used for. 
+
+...and will be unable to flag any further posts for any reason. 
+
+2. Restrict quick deletions on anything asked "in good faith" This wouldn't even have to be a system-enforced restriction, although that's probably a good idea. The idea is simple: don't delete any question that isn't blatantly abusive. 
+
+If the consensus was for removal, we will then revoke the privileges of the moderator to be removed, and also remove the moderator's name from the election and /about pages. 
+
+If you don't have the time, guts or talent to do any of that, maybe stop spitting in the faces of the folks who do. Spend some time talking to the moderators, letting them know what you hope to accomplish, and then get out of their way and let them help you. 
+
+At the time, we – the six members of the community management team – were manually reviewing every beta site periodically, checking traffic, user engagement, and Q&A quality. Our biggest concerns at the time, born from experience on some of the earliest sites, was that these young communities would devolve into content farms, discussion boards, or simply grow quiet and gradually decay. So every few weeks, one of us would grab an analytics report and a pile of random questions and try to read the tea leaves... 
+
+Chat is not transient: what you say tonight while drunk still exists, in public and attached to your account, tomorrow. Chat is not separate from Q&A: you have to participate on the main sites to establish an account that even allows you to chat; you earn the chat privilege on main, and can lose it there as well. You can't control who reads what you write in chat: transcripts are completely public, open to anyone, even people who aren't visible in chat, even people who aren't members of the main Q&A site. Your boss, your wife, your worst enemy, that annoying kid from 6th grade... They could all be reading your chat logs at their leisure, potentially even years after the fact. Taken as a whole, these factors make chat well-suited as an auxiliary to the asking and answering that happens on the main Q&A sites... But poorly suited to many other roles, even roles that other chat systems commonly serve! I believe it is essential that we communicate these factors within the guidance given to chat participants, and do what we can to dissuade them from relying on chat for purposes they will find it ill-suited for. 
+
+Note that there are several outstanding technical issues with both flagging and room membership... If you're interested in these issues, please participate in the relevant feature-requests. 
+
+Initiation The process will be initiated by a formal request from one or more moderators on a site, sent privately via an email to community@stackexchange.com. 
+
+If at least 25% of your flags from the past 7 days were declined, you're blocked from flagging anything. Depending on when and how those declined flags were cast, this block could last for as little as a day, and won't ever be longer than a week. 
+
+During this time, we've had some... Divergent evolution, so to speak: the perception of chat among the minds of those who use it has taken on different forms, and the perception of chat among those who don't regularly use it is something else again. This has led to problems. 
+
+You want to know what the problem with Physics.SE is? Most of you don't want to be involved in the dirty, boring parts of running a site, but you'll cheerfully spend all damn day criticizing anyone who is willing to step up and do it.

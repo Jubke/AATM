@@ -1,0 +1,25 @@
+The Church does currently allow marriage between a person and their sibling-in-law. This freedom is new since 1983, when the code of canon law was revised. Then again, though Leviticus doesn't permit such marriages, Deuteronomy does in at least one instance. None of the other prohibitions given in Leviticus 18 are, or apparently can be, overridden in the Church; nor, it seems, has this ever been possible. 
+
+The sect appears to be mentioned in Revelation 2:6,15: 
+
+The word "the" in "the prayers" is the standard Greek article (in the appropriate gender, case, and number), ταῖς. One would think that the phrase should be translated "in the prayers", as the ESV has it. 
+
+If this is indeed the case, as I mentioned above, the name "Nicolaitans" should be associated not with "ruling over the laity" but simply with the (birth-)name "Nicolas". 
+
+On the other hand, the dash between and and in fellowship corresponds to a similar article that is not translated. A word-by-word translation of that phrase, καὶ τῇ κοινωνίᾳ, would be "and in the fellowship". Yet most translations (the ESV seems to be an exception) make that phrase "in fellowship". And indeed "in the fellowship" sounds a bit awkward to me. 
+
+BibleHub.com has an interlinear translation (word-by-word translation of Greek to English) of this verse. The Greek reads: 
+
+The current Code of Canon Law has the following in its discussion of impediments to marriage: 
+
+The root of the problem is simply that Greek puts in definite articles before words in situations where English doesn't, and even the ESV seems to remove them sometimes. Acts 2:40, for example, contains the Greek phrase 
+
+Canon lawyer Cathy Caridi, in her excellent article "Can Cousins Marry in the Church?", discusses the possibility of first cousins—relatives by consanguinity in the fourth degree—marrying (briefly, it is forbidden by canon law but for very significant reasons the bishop may dispense from the prohibition); she does not address the possibility of aunt/uncle and nephew/niece marrying (these are relatives in the third degree; the marriage is prohibited by canon law but it might be possible that a bishop would be able to dispense from the prohibition; however, I have not been able to find any instances in which this prohibition has been dispensed). 
+
+Canon law reckons consanguinity (blood relationship) and affinity (legal relationship by marriage) in lines and degrees. 
+
+This code of canon law was completely replaced in 1983, and all canons in it nullified unless they were replaced by equivalent canons in the current code. In the current code, the prohibition of marriage to parent- or child-in-law is still in place: 
+
+Thus it appears that the phrasing "the prayers" in Acts 2:42 is simply a choice by the translators to translate the Greek literally in this instance, rather than a reference by the author to specific prayers. 
+
+Although some of the Church's restrictions on marriage (for example the restriction that you must marry a Catholic) may be overridden, or dispensed, for what is typically called "just cause", the restrictions on marrying parents, children, or siblings may not be dispensed:

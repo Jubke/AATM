@@ -1,0 +1,17 @@
+3) Terran: Wall off, Marines. Also note: Marauder micro with stun shell upgrade can own Zealots. Just spam move click away from them and then every 3 clicks hold 'A' (or whatever your attack move key is), the Raud will turn around and fire on your attack move command and then the subsequent move command will keep him running after that, the grenades will slow them down allowing you to double back and repeat if they flee. 
+
+It makes the water look real, waves effects and splashes on the surface of water. Not required if you have low end GPU. Set this value to ’0′ to turn it off. How the game will render everything water, lower the value to boast performance. 
+
+As far as I can tell from searching and checking the hotkey options there is not key for this, however a quick key combination to save game would be: It's really up to you, both settings can be done with the left hand so your right is free for mouse work. If you want the hotkeys to be the same across races more of them will be with grid mode. Otherwise the keys are based on the name of the unit/action/upgrade/building/etc. 
+
+2) Zerg: You'd be surprised at the power of the amount of Zerglings you can get in the amount of time he can make a Zealot rush that is early enough to be any trouble. If it's a little later get a second Queen and some Spine Crawlers. You can then move the Queen to your expansion later. Properly controlled Roaches are also good for Zealots but keep in mind they will be in trouble against many of the other Protoss units. 
+
+These three commands govern the quality of the particles in game. Lower the values to get performance boast. That brings up Menu, selects Save, and Enter submits the save file with the default chosen name and returns you to the game. It's pretty fast see: http://www.ryancalderoni.com/archive/quick_save.swf 
+
+This is an eye candy tweak, if enabled it will give shadows a transparent touch enhancing colors in the process. Its OK to change the value to ’0′, its not something you need really. Infact, its an effect you will hardly notice while playing the game. 
+
+Also, here are some other settings you can try tweaking in that file and see if you can gain some more performance: How shodows will be rendered in game, lowering this value to 1024/512 will increase the performance of the game and also take off some load on GPU and Ram. 
+
+Sounds to me like your video card is outputting a signal/resolution not supported by your monitor. Assuming it's only losing the signal when you launch game, try tweaking the resolution manually: 1) Protoss: Well if they are Protoss and you are Protoss you just need to have a nice smooth fast opening so you can have a defense on par with his attack. You guys are on even ground here, get some Stalkers for range and Zealots to tank for them. 
+
+Zealot is the first available Protoss ground combat unit so while scouting is important, at least having some early vision to see when they are coming will help. Either way it's not unrealistic to just build as if you're expecting the Zealots to come. After all the early part of the builds to block them are just as standard as the ones that bring the early Zealot rush because they are early stepping stone tech buildings.

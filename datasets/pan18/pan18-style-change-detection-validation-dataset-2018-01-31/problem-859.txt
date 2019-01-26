@@ -1,0 +1,21 @@
+So, back to your sentence "I am here now". When I utter that sentence, context selects a centered world where the privileged individual is me, the privileged location is where I am at the time of utterance, and the privileged time is when I am at the time of utterance (which is just a convoluted way of saying "it's the time of utterance"). When you utter the sentence the same thing happens, mutatis mutandis. 
+
+What About Necessary Beings? The Judeo-Christian god, like mathematical entities, are typically taken to exist necessarily if they exist at all. What that means is that, assuming they exist, it is metaphysically impossible that they would fail to exist. Their non-existence might be epistemically possible, in that it is compatible with what we know, but these epistemic possibilities would not be genuine metaphysical possibilities. Rather, they would be impossibilities that merely seem possible due to our ignorance. 
+
+I fear I haven't fully addressed your concerns about possible/feasible explanations, but I have to admit I don't fully understand what you're asking. If you would like more information, try to clarify your concerns in a comment and I'll update my answer. 
+
+Here is my understanding of how these terms are used in contemporary (analytic) philosophy. I will include references where they come to mind: 
+
+Still, for at least low level perceptual beliefs like the ones we get from vision or hearing, it is hard to imagine how those beliefs or the mechanisms that formed them could be adaptive without being at least usually accurate. 
+
+Second, adaptive does not necessarily mean true and maladaptive does not necessarily mean false. Perhaps it is adaptive behavior to have an inaccurately high opinion of oneself, for instance. Or perhaps the most adaptive way to form beliefs about dangerous situations is just to regard the slightest sign of danger as if it were stronger evidence than it actually is, because then you have erred on the side of caution even though your belief was inaccurate. 
+
+The answer here is evolutionary: if it is the case that a belief makes it (objectively) less likely the organism will survive to reproduce, that organism is less likely to pass along its genes. (i.e. The belief is maladaptive.) if maladaptive beliefs have a hereditary basis, then one would expect evolution to get rid of them over successive generations. 
+
+But note two things. First there isn't necessarily a direct line between genes and beliefs. Our beliefs are formed by experience and influenced by culture, so whatever evolutionary pressures there are on our beliefs are going to be indirect. 
+
+The most basic mode is the alethic or indicative mode, the 'is' mode. What exists, exists. 
+
+I think 'non-sequitur' is a vast overstatement, and this is a mere 'over-generalization'. And not even very far 'over': the statement cannot generalize absolutely, but it does generalize pretty well. 
+
+The only real way out that leaves noumena intact at all seems to be the Hegelian response is that we perpetually 'move toward' them. But math itself does not work that way: what is entailed is resolved, even if you are not a Platonist. So a mathematical model of dialectic would be a single mathematical structure, whether or not it allows for everything to be resolved with a single pass through any given evolutionary process, or requires infinitely many reversals, or whether it can even be navigated by any possible mind. It is still the closure of some set of entailments that we cannot, by our given nature, question. (Presumably more than countably many basic notions are involved, since otherwise the nature of language keeps us from getting to closure.) The terminal point of the whole of dialectic has to be part of the model. Whether or not anyone can get there, Hegel's endpoint where "We, as God, know God," is in the model.

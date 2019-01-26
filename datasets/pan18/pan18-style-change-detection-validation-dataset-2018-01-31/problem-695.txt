@@ -1,0 +1,23 @@
+Suppose a programmer has the following problem: he wants to start a new python project. He needs a basic layout of boilerplate stuff, like test directory, source directory, setuptools script etc.. How does he create all this stuff and layout with a single command ? 
+
+I did my research on the internet. in Java, neo4j is a candidate, but I was not able to find anything about actual disk storage. In python, there are many graph data models (see this pre-PEP proposal, but none of them satisfy my need to store and retrieve from disk. 
+
+So why choose django ORM ? You should also consider if YAGNI. django is easy and self contained, documentation is premium, and when (if) your site will grow that much, you will do the switch to a better ORM (or to a pure OODB, in case of ZODB) later on. 
+
+As far as I can see, if an exception occurs in a slot under PyQt, the exception is printed to screen, but not bubbled. This creates a problem in my testing strategy, because if an exception occurs in a slot, I will not see the test fail. 
+
+2) the second import in main.py imports the contents of ControlPointValueSet module into the global namespace. This module imports ControlPointValue module. This overwrites the binding in the global namespace, replacing the binding for that name from the class to the module. 
+
+For example, suppose you have this code 
+
+Please note that I think there's not a huge difference between the two solutions, but I would like to read your answer and the reason behind it. 
+
+If you need to do preemptive checking, it is better if you check for a supported interface than the type. 
+
+I answer without much experience on both, but I had the chance to manipulate both, so I can tell you my opinion on some of your questions. 
+
+I am developing in python a file class that can read and write a file, containing a list of xyz coordinates. In my program, I already have a Coord3D class to hold xyz coordinates. 
+
+Is there a way to work around this problem? 
+
+I just took a brief look at PowerShell (I knew it as Monad shell). My ignorant eyes see it more or less like a hybrid between regular bash and python. I would consider such integration between the two environments very cool on linux and osx, so I was wondering if it already exists (ipython is not really the same), and if not, why ?

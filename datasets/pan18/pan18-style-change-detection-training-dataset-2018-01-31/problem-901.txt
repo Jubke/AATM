@@ -1,0 +1,31 @@
+This is highly inefficient. While I see "first" questions when browsing the chronological order of questions, I'll never be able to get a list of first answers. And late answers don't always include first answers. 
+
+I was trying to post something similar over on Super User: 
+
+However, in the final post, they're not shown anymore: 
+
+How to fix? When converting to a block quote, WMD should check that long lines formatted as code are not wrapped automatically. The auto-wrapping works for regular text, but pre-formatted text should of course not be wrapped. 
+
+By merging those queues, a feature was removed — without providing a viable alternative. This is worse than adding new features that make old ones obsolete. In fact, in the current state, I am just not able to review properly anymore. It's no fun. And I enjoyed doing it for the last 6000 posts. 
+
+This breaks a fundamental rule of navigation – shouldn't it be the first in the list if it's the "home" page of the tools? 
+
+How can we resolve this? There are two options: 
+
+Anyway, let's take a closer look at the links: 
+
+But at the same time, the tools seem very inefficiently designed. In my opinion, they need a partial redesign, because 
+
+I know I'll kinda shoot myself in my own foot there, but let's see. 
+
+The latter would be incredibly useful to make a better case when searching for spam, thus flagging more effectively, wasting less time for moderators. 
+
+I decided to break this up in three parts, each with proposals highlighted within a blockquote. 
+
+The "review" button In the tab menu, there is a "review" button. When you click it, you get to a completely different part of the site. Of course, it's the review tools you know from before. 
+
+So, this is quite a mess. What could be done to clean this up? 
+
+Go to your StackExchange.com profile inbox and have a look at the replies. Notice something? 
+
+It wouldn't be as bad if I at least had the possibility to filter for questions/answers, but there's no way to do so. The current state is just a randomized (sic!) mix of questions and answers, so you're not even always in the right mindset to review properly. "Oh, here's an answer. And now I'm reviewing a question again!" — you can only find out by reading the "review question/answer" link before clicking it.

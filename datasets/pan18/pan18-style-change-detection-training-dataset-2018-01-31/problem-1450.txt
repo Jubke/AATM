@@ -1,0 +1,41 @@
+The short dashed constraint (orangeToRedCon is the outlet) has a priority of 999 (you can't change a required priority to a non-required, so that's why it's not 1000). The long dashed constraint (yellowToRedCon) has a priority of 500 and a constant of 20. In code, you can hide the orange view, and swap those priority levels, and that will cause the yellow view to move up to whatever value you've set for the constant value of yellowToRedCon. 
+
+The constraints are removed. If you add A again, you will have to make new constraints for it, or if you save the constraints before you remove A, you can add them back. When I do something like this, I save the constraints like this for a view called view1: 
+
+If you created the cell in the storyboard, then just remove the register class statement. You don't need to register anything (for a collection view or table view) if you make the cell in a storyboard (in fact, it screws things up if you do so). The only thing you need to do is make sure that you set the identifier in IB. 
+
+I'm trying to get a snapshot of another controller's view to use in an animation. I'm using the following code, but I see nothing but the background color of that view, and none of its subviews (two buttons, a text view, and a label): 
+
+here is my CORS headers setup in my rails 2.3 app, fairly standard stuff I believe 
+
+In desktop browsers (tested Chrome and Safari), I am able to log in, get a session cookie, and have that session cookie be sent back for subsequent requests so that I may be authenticated with all API calls. 
+
+It copies the pointer to the instance. I just tested this in a playground. 
+
+Simply assign the output of the substring method to a variable, and let it be autoreleased for you. No alloc, no release. 
+
+A full proper example might look like this: 
+
+However, when I login via Mobile Safari, the cookie does not get sent back on subsequent requests. 
+
+Is there a way to do this much faster? 
+
+And I've yet to replicate this with the debugger attached, which is frustrating, but the crash logs are clearly coming in. 
+
+I have a long string (sometimes over 1000 characters) that I want to convert to an array of boolean values. And it needs to do this many times, very quickly. 
+
+I have a system here that renders itself in bits that get stitched together. Sometimes those bits are rendered in an background threads, but sometimes when latency of feedback is really important those bits are rendered synchronously on the main thread. 
+
+I'm trying to setup different fonts or some sort of font scaling in my Size Classes in Xcode 6 as listed by this page: 
+
+UPDATE iOS8 or Greater As of IOS8 This code might not work correctly. You may need to change how the bundle is loaded: 
+
+You would need to download the project from source forge in order to access the input files required for this code: CORCOEF and EGM96 
+
+I'm trying to track down a confusing xcodebuild issue. I have a carthage dynamic framework project that includes another dynamic framework. When I do a debug build (which seems to be what carthage does) 
+
+1) I could put this extension into the framework but is there some way to "hide" swift from being able to call it? 
+
+I've gone ahead and solved my problems here. What I did was create an ObjectiveC implementation of a c implementation of fortran code to do what I needed. The original c can be found here: http://sourceforge.net/projects/egm96-f477-c/ 
+
+I'm sorry this question is a little open ended but does anybody have any ideas what settings I should be looking at in my build file?

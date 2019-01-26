@@ -1,0 +1,47 @@
+Lauren mentioned using "example.com" for websites. This is also reserved specifically for examples, so you can be sure there will never be a real site with this name, and it's pretty obvious that it's an example. 
+
+The Social Security administration says that they will never assign numbers beginning 000, 666, or 900-999. So 000-00-0000 is good for examples and pretty obviously fake. 
+
+I mostly agree with Lauren Ipsum, just a couple of extra thoughts: 
+
+Definitely do not use any real person's information. Years ago I worked for a company that made a software package for doctors' offices, and at one point our chief marketing guy was going to some convention and he dropped by and casually asked me for a copy of a real customer's database that he could bring to the convention to use when giving demos of the product. I went through the roof. You want to use real people's private medical records for a demo at a convention?! I'm sure there are laws against that. Even if it was information not protected by law, you could set yourself up to be sued, or at the very least alienate customers with your lack of respect for privacy. 
+
+I'm citing a few examples of text written by those outsiders and my suggested corrections to make my case more clear: 
+
+These two procedures have to be performed simultaneously. The valve used to turn the input vane and the vane's indicator arm aren't placed in close vicinity (the technician can observe the arm's movement from where they turn the manual valve), so at first we thought of explaining them in two separate steps. We also have accompanying videos for them which use the same text as subtitle. 
+
+I don't have any problems with these labels. 
+
+Do not clean the machine using water or materials that can generate an explosive atmosphere Do not clean the machine using chemicals that can generate an explosive atmosphere or using water that can create an electric shock 
+
+I don't have any problems with these labels, too. 
+
+First of all I'm completely against this idea but a few people who contribute to the technical documentation project constantly suggest that to attain a short, quick, economic, comprehensive message some basic rules can be broken. Things like completely omitting the articles, using simpler words to explain things, using the imperative mode to shorten verbs, even tossing out basic grammar rules etc. 
+
+We are working on a technical documentation project which includes the rewriting, modernization, restructuring, enrichment of the content. I'm doing the content rewriting and translation parts of the job and my voice preference has always been on "passive" but sometimes the urge to switch to the active voice becomes hard to resist. I'm finding it hard to explain to the project leaders, too, because they do interfere from time to time to the content and they always tend to switch to active voice. 
+
+Ensure power is disconnected before servicing Ensure that the power is disconnected before servicing the machine 
+
+My problem is with these detailed text parts of our labels. I'm including a screenshot which contains four types of our safety and information labels so you can clearly see how they are constructed. 
+
+Would using both active and passive voice in different sections of technical manuals, training documentation, service manuals etc be a bad choice? Are there any styling guides on technical documentation which cover this topic? 
+
+Definitely do not use any real person's information. Years ago I worked for a company that made a software package for doctors' offices, and at one point our chief marketing guy was going to some convention and he dropped by and casually asked me for a copy of a real customer's database that he could bring to the convention to use when giving demos of the product. I went through the roof. You want to use real people's private medical records for a demo at a convention?! I'm sure there are laws against that. Even if it was information not protected by law, you could set yourself up to be sued, or at the very least alienate customers with your lack of respect for privacy. 
+
+For US telephone numbers, use "555" for the exchange, like "123-555-1234". "555" is reserved by the phone companies just for use in examples and in books and movies. The other digits then don't matter: you can use a real area code or not. 
+
+John Q Customer is often used for a fake customer name. 
+
+Lauren mentioned using "example.com" for websites. This is also reserved specifically for examples, so you can be sure there will never be a real site with this name, and it's pretty obvious that it's an example. 
+
+Would using both active and passive voice in different sections of technical manuals, training documentation, service manuals etc be a bad choice? Are there any styling guides on technical documentation which cover this topic? 
+
+But the textual part still remains to be a problem. If I merge the steps then I would need to combine them with conjunction words or maybe re-structure the following sentences with word groups like "at the same time", "whilst", "during" etc. 
+
+Do not clean the machine using water or materials that can generate an explosive atmosphere Do not clean the machine using chemicals that can generate an explosive atmosphere or using water that can create an electric shock 
+
+Are there some rules of thumb or even legal directives about the language of machine safety labels? 
+
+I'm aware that most of your answers can still be valid for them, too. I'll try to be more open minded when dealing with them in the future but I'll wait for your reactions to the detailed edit to my question before accepting one of your answers 
+
+We manufacture big machines which have too much surface area and therefore our labels have too much space for details, too. We have 4 kinds of labels:

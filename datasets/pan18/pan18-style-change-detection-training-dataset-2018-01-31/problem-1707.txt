@@ -1,0 +1,27 @@
+More generally, if your question is what other ways do people manage this than "ideas", then the answers that come to mind specifically (moving through history) are roughly in two categories: 
+
+Aristotle's essentialism. Aristotle thinks we get the real essences by abstracting essences from the objects we encounter. (differs mainly in that for Plato we recollect forms through anamnesis / for Augustine, we are helped by divine illumination ). 
+
+I think you're misunderstanding the idea behind "Last Thursdayism" on two fronts. 
+
+(1) Definition of Forms for Plato / God's Ideas for Augustine as immutable and eternal entities. 
+
+In general, letters are the causes of syllables insofar as need the letters to say the syllables that are the words. (This may be bad linguistics but give a 2500 year old scientist a break). I take him to mean by syllable a type of uttered sounded made up of the letters in the alphabet. 
+
+Kant's categories - sum of categories in the mind and features we encounter subsumed under these. (Hegel also has a type of category theory -- at least at points). 
+
+Consequently, the counter example completely misses the mark in two ways. On one level, the Last Thursday bit is not meant to be take literally -- but rather to point out the degree to which we cannot "know" that things weren't just invented last Thursday. On a second level, what you are observing remains what you are observing, so the person in the time-dilation from traveling near the speed of light won't be able to prove that in fact two weeks have transpired, they will only have the impression and evidence that makes it appear to them that two weeks have transpired... 
+
+I think there's two different things going on that should be looked at separately here and mixing them makes the difficulties. First, there's a computer image [or if you prefer physical piece of paper]. Second, there's words made of letters. 
+
+I could say more ... but I'm not sure which part is closest to the question you are asking. 
+
+Second, the argument in (2) is in Kant's vocabulary a priori and "synthetic" -- meaning that the manipulation is wholly contained in the definitions that 1 + 1 = 2 (synthesis of two incidents of the concept 1). Thus, it's not entirely clear that we are saying anything eternal or immutable so much as we are rearranging words. And that we can make this statement using only the reason we have (a priori). 
+
+What I'm missing is the precise question you are asking as it relates to (1) and (2). As worded, I would say that (2) holds (being merely definitional -- something that is always is true eternally and immutably true) but does not necessarily force upon us the conclusion (1). 
+
+Actual material causes themselves are by definition non-abstract. Actual things are things that exist. I would say green pixels [or ink or graphite] and blue pixels [or ink or graphite] respectively are the material causes of readable words within images [or on the sheet of paper]. These pixels (plus that background color of pixels) are the images material cause. 
+
+I'm having a little trouble connecting the dots between what you put at the top and your question. 
+
+First, as can be seen from the selection of "Thursday", the main point of the posit is to point out a problem in proving things that we can only observe indirectly by effects. Or to word it another way, the observer only has access to what they are observing and everything else could be otherwise explicable or at a minimum doesn't prove that such events took place at the times they appear to. (Here, the point is that it's a skeptical thesis -- not that you can't quibble with it on what can / cannot be seen).

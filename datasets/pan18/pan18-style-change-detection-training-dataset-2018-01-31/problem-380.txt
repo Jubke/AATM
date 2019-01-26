@@ -1,0 +1,33 @@
+You may have more problems getting a dynamo that's designed for a 305 wheel. The circumference is half that of a 622 (27") wheel so it spins twice as fast at the same road speed, and unlike a childs bike your trailer is going to be used at normal road speeds. SON make dynamos for folding bikes with small wheels so if the Sanyo doesn't work I suggest trying SON. I have one and like it, although I had to replace the bearings after about 50Mm. 
+
+When we had this problem with a customer at the bike shop I worked at we first re-tensioned their existing wheel, but it broke more spokes the same day he got the bike back. Luckily he came back, because we were at least the third bike shop he'd been to, and even though I said "look, this probably won't work but I think it's worth trying" I wouldn't have been surprised to have him disappear. So we put together the heaviest duty rear wheel we could find, a downhill MTB hub we had in the shop with a 36 hole Chukker and somewhat oversize spokes (3mm straight gauge instead of butted just so it looked stronger). When I built it I took extra time to get it exactly right, and ran over it again after a test ride. He rang a few months later to say he hadn't had any more problems and just wanted to tell us. 
+
+What I would do is another custom wheel for your current bike, but with everything focussed on the weight. You can get hubs that are rated to a lot of weight, and Rohloff for example rate their hubs for tandem use even with only 32 spokes. But you should try for more spokes, I think, like the DT Swiss 540 Tandem with 36 or 40 spokes, or if your bike will take it the Halo Dozen with 12mm axle. Pair that with a heavy eyeletted rim like the Velocity Chukker or Mavic 719 and get it put together by someone who builds a lot of wheels. 
+
+Note that the centre of drag/centre of the wheel is forward of the pivot axis. Thus, wind force from the side will tend to turn the wheel downwind, in the same direction that the wind is pushing the bike. So the rider will tend to stay upright, unless the turn makes them crash into something. 
+
+I was going to boldly say "no-one has made a rear hub dynamo" but then I did a google search and I'm glad I didn't say that, because I would have been wrong. 
+
+Also, per the comments from Criggie and Daniel R Hicks, if you are cutting spokes remember that they are under tension and the cut parts can exit the wheel with some force. If you want to keep the wheel it's better to back the spokes off rather than cutting them when tight. 
+
+Wheel size facts Part 1.... Dimensions, Weight and Strength 
+
+I was able to find a couple other sites that agree that smaller wheels are stronger. 
+
+700c vs 26inch Wheel Size for Touring 
+
+This site states, among other information 
+
+I've heard before that a smaller wheel is actually stronger, and this site states the following. 
+
+The way I understand it is that a 26 inch wheel is shorter, and therefore has a shorter lever arm when stressing the spokes. Imagine you had an enormous wheel. Because it's so big, you'd need very little force along the rim of the tire to deform the rim. Now imagine a smaller 20 inch or even smaller wheel. You would required a lot of force to deform the rim because it's being applied closer to the hub. Also, assuming the same number of spokes, the smaller rim will have the spokes closer together on the rim. 
+
+People run different tire sizes on occasion, and in some cases even different wheel sizes (e.g. 69ers and 96ers which have a 26" and 29" wheel). 
+
+As for how small you can go, technically you can mount pretty much any 26x(something in decimal) tire on, but the rim width should ideally be of the right width so the tire doesn't roll off or increase the risk of flats or rim damage. 
+
+However, some bikes are designed for running rear hubs in the front (Surly Moonlander/Pugsley, for example). 
+
+To quote the road.cc article above: 
+
+The CAAD10 disc frame uses 700c wheels with standard hub spacings (135 mm rear, 100 mm front). The width of the rim you should choose depends on the size of tire you intend to run (which is limited by your frame). It looks like the bike was originally spec'd for 700x25 tires. Based on other Cannondales, I'd guess this is somewhat tight to begin with, but if you're lucky you might be able to run 700x28's. So, pick the rim width accordingly (likely 13-17 mm).

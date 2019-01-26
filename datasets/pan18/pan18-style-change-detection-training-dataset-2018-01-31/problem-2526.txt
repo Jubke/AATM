@@ -1,0 +1,51 @@
+But concrete nouns also include a large subset of nouns that are neither material nouns nor collective nouns. For example, concrete nouns such as 'car', 'building', 'person', 'country' and 'chair' are neither material nouns nor collective nouns. 
+
+EDIT I don't know why, but comments suggest 'pronouns' as the answer to my question. 
+
+As far as I know, common nouns include all the nouns except for proper nouns. Specifically, common nouns include abstract nouns as well as concrete nouns, which include material nouns and collective nouns. 
+
+I think this subset of concrete nouns are always countable unless they are converted to material nouns in context. Is there a name for this large subset of concrete nouns? 
+
+But I'm not interested in pronouns. I'm interested in common, concrete nouns such as 'car', 'building', 'person', 'country' and 'chair'. 
+
+But the term 'common noun' is too board as it also includes abstract nouns, material nouns, and collective nouns. Even the term 'concrete noun' is too board as it also includes material nouns and collective nouns. 
+
+No, your example sentence is ungrammatical in English because the rules of English require that all singular countable nouns have some sort of determiner. 
+
+"Individual, separate entity": this sounds like the semantic category of "specificify". 
+
+Copyright isn't relevant to this. If any law is involved it will be trademark law. But some genericised trademarks are no longer enforceable. 
+
+snapable bricks (perhaps. I'm not certain if there is a common generic name for Lego-like toys) photocopier. In Australia we never say anything other than photocopier. searched the internet for ... Here is a list, though it is incomplete of course: http://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks 
+
+So for these reasons you can't always identify the subject based on the meaning of the sentence. But you can identify it based on factors such as: 
+
+If the first person inclusive markers were fundamentally second person then we would expect them to begin with an /-n/. Instead, the first person plural inclusive form /-rnalu/ is the same as the first person singular form /-rna/, but with the common plural marker. The first person exclusive forms are unrelated. 
+
+As you said, they are not expletives, because they are an inherent part of the sentence's meaning. 
+
+For example, the phrase old men and women is structurally ambiguous between two readings: 
+
+... Example of root formation: 
+
+You can check out their online presence, they have a nice introudction + bidirectional dictionary. 
+
+1 This may sometimes correspond to the opposite, but especially for words like pretty or hot which are scalar adjectives you won't necessarily receive the exact opposite like ugly or cold, but rather not pretty, but not exactly ugly or not hot, but not actually cold either - see my comment under the question. 
+
+For a short version, I'll cite my proposed tag wiki for generative-grammar: 
+
+The linguistic relation between the lexical items resembles (!) one of hypernymy and hyponymy: The word jacuzzi would be a hyponym to the word hot tub and the word hot tub would be a hypernym to the word jacuzzi - if one regarded "hot tub" as a word, which is not entirely accurate because it actually consists of two words, so this terminology which is defined on words doesn't apply here that nicely. A more straightforward example would be something like cat being a hyponym to animal and animal being a hypernym to cat (every cat is an animal, but not every animal is a cat). 
+
+First of all, recursion is the process by which a rule gets applied to its own output. 
+
+I would like to comment that "connotation" is a term that is not so easy to define and probably not that often used in semantics, rather maybe in pragmatics (some may even say it's outdated; I recently read a comment to some question here on Ling.SE (don't remember who it was though) saying that connotation is more of a rhetorical term that was already used by the Ancient Greeks and not something that you could use as a neutral scientific term nowadays). This, and the choice of the clearly negating morphemes not and un-, is why I'd go with a simpler description: 
+
+In a syntactic structure, what matters are not primarily the precise lexical classes - these can already be encoded in the tree by differentiating between node labels AdvP, PP, NP etc. Rather, what is relevant in syntactic considerations is what role a constituent plays in a sentence. The reason why it is called adverbial is because they behave the same as adverbs. They occur in all the same positions, they make all the same kind of modifications, and if it wasn't for the lexical categories they consist of, you couldn't tell any syntactic difference between an actual adverb phrase and a general adverbial phrase. This makes adverbial a useful coverterm for "everything which behaves like an adverb (= adverbial)", which is at the same time more specific than the terms modifier or adjunct, which can as well refer to, e.g., PPs or AdjPs modifying an NP by adjunction, which I would not call adverbials. 
+
+I'll reject the mentioned Kurylowicz definition as a rather specific interpretation and make the definition a more general one as "having the same structure". 
+
+Clark & Yallop (1995: 44) write: "A stop is produced by the formation and rapid relaese of a complete colsure at any point in the vocal tract from the glottis to the lips. The velum is raised to prevent airflow through the nasal cavity, and the oral airflow is thus interrupted. [...] Egressive pulmonic stops are by far the most common type of stop and are sometimes identified by the label 'plosive'." 
+
+However, @Greg Lee indicated that many people have indeed been using the term in the sense of "production-focussed", so although I claim this is not what Chomsky orignially intended with this terminology, in order to not be prescriptivist I should admit that "generative" is also used for "production-focussed" in a second sense. 
+
+phonology: The structure of sounds. Questions include: Sometimes, semantics, i.e. the study of meaning, is seen as a part of grammar: To summarize, syntax is basically a sub-discipline of grammar that deals with the structure of more complex expressions, while grammar is the cover-term for every aspect of the system of rules that tell our intuition which structures are well-formed and what they mean, including word-level (morphology) and sound-level (phonology), possibly also meaning-level.

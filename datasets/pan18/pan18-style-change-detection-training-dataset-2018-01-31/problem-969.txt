@@ -1,0 +1,21 @@
+Consider editing your answer to cover areas the commenter says you aren't covering, or to explain why you're not covering them. If the commenter has misunderstood something you wrote, see if you can reword it; other people might also misunderstand it. Remove your own comments if they were only for one person who has clearly read them. You can also flag a comment as obsolete - say it points out a typo and you've corrected it - which helps to keep the question clean. 
+
+You are under no obligation to answer comments. If it is rude or non constructive, flag it. Moderators know what to do if someone is consistently getting their comments flagged. But the most important behavior change is not to engage, not to rebut. Specifically, do not 
+
+All four of those can and should go. Not in a year, either - the minute you see them. Waiting a year to delete them would be wrong. 
+
+To give you the answer right away, as provided by people answering the other question, people who might not recognize your question as being the same thing even if they saw it To leave a signpost for people who think more like you than like the people on the other question, so that when they come to your question they too will be sent over to the one with the answers To ensure that all the answers are in one place rather than divided between the two ways of wording the question. The first two are accomplished simply by marking your question as a duplicate, as simple as someone leaving a comment pointing to the other or registering a single close vote. I hope you consider that action to be a gift, rather than a punishment. You don't have to wait for answers, they are here for you already. 
+
+One might point out that on graduated sites moderators are also elected "for life" (unless they mess up badly or step down), but there are two important differences. First, on a graduated site there was an established community at the time of the election and that community chose its moderators. That might have been years ago and the community make-up might have changed, but there was some established community making the decision. Second and perhaps more important, beta sites by their nature change over time, and what a community needed on the first day of public beta might not be what it needs three years later. I've been an active participant on several betas, a pro-tem mod on an established one (appointed about two years in), and a pro-tem mod on a brand-new beta. They're different. 
+
+Granted, it's a weird corner case, but should auto-protection be kicking in when the user's rep wasn't a problem at the time the answer was posted? (I'm not proposing that we start applying rep history; that sounds expensive. If we agree that it's a problem, there might be other solutions.) 
+
+No you can't. You don't buy answers with a bounty. You bring your question to the attention of others with a bounty. If there's anything you're buying, it's advertisement space. You can of course reward existing answers with them as well. But even then you wouldn't be buying them. 
+
+The only real "solution" I see is to lead by example. Try to make the best posts and best edits we can, hoping that some of the style will rub off on others. But luckily we already have the tools to deal with situations where this is not the case. 
+
+As for the badge, that is status-by-design. Badges are not revoked once conditions for it are no longer met. They won't receive the badge again the next time they might qualify for it though. 
+
+I'm not sure whether or not I would describe them as edit-trolls. If the user has the badges and no rep to gain, I can only assume they are trying to address what they see as a "problem". No matter how minor. 
+
+If you clarify the question with that in mind, and address some of the concerns regarding what exactly you want to achieve, then I'm pretty sure your question would be no longer unclear.

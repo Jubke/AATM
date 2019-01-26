@@ -1,0 +1,23 @@
+I'm used to playing a Monk, where I'm defensive enough that the slams don't really bother me and have enough healing that I never really gave them any thought. 
+
+With Vo'Toyias Spiker equipped and using Iron Skin with Reflective Skin and Provoke with Charged Up, I've just utterly melted enemies, seeing crits of over 8 million. None of my active attacks can deal even 2 million damage, so these massive numbers must be from some combination of these skills. 
+
+Is there any pattern to his slams? How should I move to avoid them once he starts telegraphing that that's his plan? 
+
+I'm trying to figure out how thorns works so I can start deciding how to approach making a viable thorns build. Stacking some thorns on my Crusader has led me to believe that it's not as simple as it sounded at first. 
+
+There are a few Barbarian skills that charge at enemies and generate fury which should be used often. Leap is one you gain fairly early on, and you can even use it to jump up and down ledges or across chasms where other classes have to run around. You should generally be running ahead of players rather than lagging behind. 
+
+Most of the in-game interactions are done via battle tag, not character name. When someone chats, his battle tag (without the numbers) is displayed instead of his character name. Similarly, people's battle tags are shown under their character portraits rather than their character name. 
+
+I've been using a Witch Doctor build that uses Haunt and Locust Swarm, and I've noticed that my damage varies really widely sometimes. Can these spells "crit"? Is that determined on cast or per tick? How can you tell if it crits? Can a non-crit re-cast override a critical existing DoT effect? 
+
+What is going on? Do these ferrets have some kind of extra ability on top of the stated tooltip? 
+
+To clarify, since there has been some confustion, this is not asking for Demon Hunter specific strategies. This is asking about Belial's attack pattern and how to predict and avoid it in general. 
+
+Barbarians (and Monks) get a passive 30% damage resistance to make up for their melee natures, and tend to have higher vitality and health than the other classes. Against many enemies, it is the right thing to do to just jump in and start causing havoc. Barbarians are good at distracting enemies while their teammates do damage, so try to focus on that rather than claiming the final blow. You get full experience and drops whether you're the one landing the finishing hit or not. 
+
+It may get confusing if two people with the same base battle tag join the game. 
+
+I have around 7,000 thorns right now, but when enemies attack me, they take over 90,000 damage. I've also seen the thorns damage crit, and I've also seen enemies take upwards of 2 million damage from a single activation of thorns.

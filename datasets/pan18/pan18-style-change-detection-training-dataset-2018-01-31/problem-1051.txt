@@ -1,0 +1,35 @@
+In other words, let the little moleyoutube link take off his spectacles so that this 
+
+I'd suggest that there should be the ability for high-rep users to say, "thanks, but no thanks" to some of the "features" of being a high-rep user. I think that not wanting to see deleted trash would be first among them. 
+
+In order to make it easier to determine how much vandalism is going on, I would suggest the following changes be made to the message: 
+
+(super sensitive mod options, like merge, removed!) 
+
+We move the tag editor right smack up top. Blam. It has a few benefits that I can think of: 
+
+This process takes a long time, and can definitely be automated, as the only thing you really need to check is how many new users are posting non-answers or are spamming their awful products. 
+
+Now I'd like you to read the following and reconsider undoing your downvote... 
+
+A possible workaround may be to increase the number of questions we can have on the front page, like 100 or 200 or something. 
+
+This is a pain in the butt. Please don't make us do this. 
+
+"Flagging a question/answer for Low Quality should be reserved for extreme cases only. If you can edit this question to make it better, please do so." 
+
+Creates the chat room "Private chat with user Foo" if it doesn't automatically exist Gives Foo write access Opens that chat room in a new tab Automatically places a link in Foo's inbox telling him that he should join that chat room This would turn a ten step process into a one step, and would also allow mods to forego leaving comments to reply to flags or other concerns. 
+
+From my closed-as-dupe question where I expound about how awesome this would be: 
+
+Note the proposed duplicate is already status-completed. This proposal also doesn't consider reputation as an indication of trust, is about instant closure not increased weight... it's not a match at all. 
+
+Why do we need the link to the revision history at all? Why not just load the new post and if they want to see the revision history, they can click on that convenient link "edited 16 secs ago" to view it... Isn't that what the link is there for? Why so repetitive? 
+
+I've drawn a single 1px line through both sides using the other side's color. Can you see it? ^_^ 
+
+It seems like a bit of a backtrack to limit users to only a certain number of moderation flags in the day. I understand why the limit is in place, so people can't "spam" moderators with useless flags (is this even the reason?). But those of us who use them appropriately should be able to continue flagging things that we find to be inappropriate. I've used all of my flags for the day, at least the normal, non-spam-offensive flags. So now if I see something which is not an answer, etc I am unable to flag anything further until the magical reset point at midnight UTC. 
+
+Also, linking to the revision history when it's loading an edit from within the 5 minute grace period would be completely useless, as there would be nothing but the original post there! Change it to: 
+
+Because I didn't feel like waiting for SE to implement this, I wrote some CSS rules of my own. This will catch all links inside the post text, any links inside the comment text, and also the questions lists. Just apply it to the stackoverflow.com domain and enjoy different visited link colors. I also changed the border for hover to a dotted border, and even accounted for links appearing inside inline code, to make them stand out. It doesn't include the links found below the posts (last edited and usernames).

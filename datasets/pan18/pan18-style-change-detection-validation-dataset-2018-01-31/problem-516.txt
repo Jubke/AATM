@@ -1,0 +1,59 @@
+Note that in some cases a closed question serves a useful purpose, such as duplicates filling out keywords for search engines. I firmly believe that if the question is useful enough to keep around in a closed state, then the person who submitted it should be eligible for any and all reputation they accrue from submitting it. 
+
+Further, links to them would be very nice - they'd have the heading in them. 
+
+By mashing them all together you are giving users permission to poorly tag their questions, while increasing the workload of the experts who then MUST read every question that looks even a little related to their field in order to retag it so it'll be seen by those that can actually answer it. 
+
+It can be difficult to transition into the moderator role after having only been a lowly plebe. If I were moderator, I'd expect to have a transition period where I was accidentally closing questions unilaterally when I only wanted to be 1/5th of the party closing a question. 
+
+I would like to see this so links to long posts can go directly to the relevant bit. Especially useful for the FAQ, Glossary, and those posts with lots of general information. 
+
+Please consider adding one more: 
+
+Let's instead change the star sidebar so it requires at least 2 or 3 stars before a post shows up on it. The star function is meant to be the "awesome"/"I agree"/etc vote, and duplicating it and/or dividing it up will lead to more confusion than anything else. 
+
+I think this is a terrible idea. 
+
+As Stack Overflow grows, it becomes increasingly ridden with extremely newbie and mediocre questions. It's just natural. The team are fighting hard to keep the crap out, but there are many very basic questions that are okay on their own. They don't deserve to be kicked out* - they are just very, very, very basic and/or localized. 
+
+The idea is to introduce an opt-in "follow" mechanism that allows followed users to share what they find interesting, with very little fuss and on a purely opt-in basis. 
+
+Its PHP MySQL tutorial contains a SQL injection hole to this day, at least since 2006. It is likely responsible for many, if not most, of the tens of thousands of users who show up on Stack Overflow with vulnerable, broken code. 
+
+The search process doesn't support that goal perfectly yet. It allows you to find highest-voted questions which is nice, but when looking for a good dupe, you want to find the one with the highest-voted answers instead. 
+
+Maybe show a careers logo on that one - bragging is so much easier when it's a third party providing the facts. :) 
+
+This sounds very sensible. It happens rarely, but can be really annoying if it does - especially when the question is advanced, and you've started researching and thinking about the answer. 
+
+It goes without saying that the comment rate limiting mechanism would be completely unaffected by this. 
+
+An additional metric that might be possible to use is the maximum length of comments present in the question. Helpful comments usually tend to be a bit longer - although I have no idea how reliable this would be statistically. 
+
+In addition to that, it might be useful to know which questions in the list have been used as originals to duplicates in the past, and how often. 
+
+having a specific flag or close reason for a type of question that neither looks for community input, nor contains any useful information, seems pointless. 
+
+The team has a way to track how the solution works, and what kinds of comments are being emitted this way. 
+
+If anything should be banned, it's links to W3Schools itself. That would eliminate the need for W3Fools links, as well. 
+
+And to those fearing that this tool would encourage hasty, incorrect comments: The same thing already happens every day - just with much more cryptic messages like "escape your input" or "use xyz library" that more often than not, leave the OP baffled and none the wiser. 
+
+To me, the point of having a Drupal site is that being an application with a front-end, the topic contains an endless possibility of questions that are not programming questions, and hence off topic on Stack Overflow. Whenever that's the case, it makes sense to start a spin-off. I don't think the same can be said about Ruby on Rails. 
+
+A styled JS embed for the "experience" table, like so: 
+
+Programming a queueing system would cost days or weeks of programming time, and benefit a microscopically small number of users. 
+
+How about designing a review queue specifically to point at cases like these? Obviously as a pointer for experienced users who don't mind providing helpful comments. 
+
+This seems to be comparing apples with oranges. As far as I grasp Ruby on Rails, it's an application framework. Drupal is a full-blown web application. A more apt comparison would be Ruby on Rails vs. a site solely about, say, Zend Framework, which would likely be closed like the Ruby on Rails site. 
+
+The upvotes will be detected within 24 hours, and removed. (Or so I assume.) No harm done except maybe a minor irritation for people after one of the "rep cap" badges because they are shown a higher reputation than they actually have. 
+
+If showing both votes is impossible due to layout reasons, then just show the answer score. 
+
+Goes in the right direction, but not far enough. 
+
+This functionality does not add anything dangerous that you can't do already. It just helps automate a terribly, terribly dreary task and this is needed! Let's face it: We have 4,000 new questions a day, and not enough users, time, nor the inclination to deal with every one on an individual basis. That includes comments about frequent mistakes in posts. Either we use an automated tool to deal with the most common patterns (like in PHP, the eternal "you are not escaping your mySQL data. Use prepared statements or escape your input using ....."), or many mistakes will simply go uncommented.

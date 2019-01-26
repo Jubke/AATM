@@ -1,0 +1,35 @@
+If I was editing a question I would capitalize them properly (though I wouldn't edit a question just for that). Made up example (not sure of all the algorithmic stuff behind the ban): Another partial way would be to treat all bounties like temporary favorites, so that at least changes to them would show up in your favorites tab (and yes, I'll be favoriting all future bounties on others questions). Could we make the pagination post count sticky please? Obviously, this would take some work to implement, since a complete interface to handle all the details would be needed, but I think in the long run it would add to the organization and usability of the site. 
+
+I'm adding this feature request to have high-rep users (15k?) to be able to migrate answers from one question to another, so that questions for duplicate answers can be consolidated. Up until now I thought it was for the First answer for a user that got accepted (with 10 upvotes). 
+
+The one I also hate is the extra space in front of the question mark. 
+
+and then take the 'k' off of the kvotes or kviews text. 
+
+I think they should increase the number of votes it takes to delete to at least 5 and maybe more. 
+
+Note: The main reason for this is so that I'll know if there are any featured questions without having to go to the featured tab. I went to close a question as a dupe, was the first one to do so, pasted the link into the duplicate dialog and hit Enter. The first picture is before, the second is after. I've duped it multiple times now. Please enable those links, and if it's the question give them the usual "You can't see this page, nah, nah, nah, nah nah" page. It's much easier to be going through the Close Review queue quickly and make a mistake. 
+
+It has happened a few times now, when on a site where I don't have edit privileges, that I make an edit. I then see that the edit didn't work quite right, so I go back in to re-edit it. This creates a brand new edit review, with an additional useless summary. How about we have the same grace period to re-edit your up-for-review edit, as there is for a normal edit? Of course, it wouldn't be possible once it's been approved. 
+
+In the SO spirit, let's have a little up/down vote block for the ads, so we can rate the quality. Obviously, there doesn't need to be any rep attached. 
+
+EDIT: It seems that I've also had edits that stacked well, so I'm not sure if I had a timing problem, or was just delusional. The one thing that can be fixed, that I'll turn this question into, is a feature request so that when I go to re-edit (either within the 5-minute grace period, or before a suggested edit is approved), it brings up the old edit summary text. Right now, it brings up a blank edit summary, and this replaced the first one I did. This isn't really intuitive, and even knowing that's what it's doing, I still forget to put everything in. 
+
+I'm always getting caught in the trap, where I start answer, realize that I don't want to finish, but then everytime I go to that page (until I answer another question) it brings up the text. There have been times when I've automatically posted an answer that I then had to delete, because I'm moving fast and didn't think of my ghost answer being there. 
+
+We should have the same standards for our messages as we would for our edits. 
+
+We don't want to lose valuable answers. 
+
+alt text http://img407.imageshack.us/img407/1329/featurehighlight2.png 
+
+I've found that to get it to work I have to hit Tab, but it'd be nice if the more intuitive Enter worked. 
+
+On the Homepage view, the Featured tab shows a number in blue (on SO) of the number of featured questions. Please add this icon to the Featured tab on the Questions page also. Today on Stack Overflow I was blessed because the count on the review page, low quality tab went under 90, so pagination was enabled. I immediately went to the bottom and selected a post count of 50. When I went back later today, and it was still under 90, it had defaulted back to 15. 
+
+I always thought that being able to use spaces to get past the minimum character limit was one of the best hidden-features of the S[OFU] sites. 
+
+One thing they are right about: 
+
+The Team just rolled out their Recalc for everyone, and their new reputation system. I've found that on the sites with less than 10k, the link to the deleted question isn't linked. So right now I have no idea if they're deleting the question or the answer. Also on a question I'd be able to go to it and see my deleted answer. It appears that now you can no longer just put spaces at the end of text to get past the character limit. You can still put them in the middle, where they get truncated to a single space.

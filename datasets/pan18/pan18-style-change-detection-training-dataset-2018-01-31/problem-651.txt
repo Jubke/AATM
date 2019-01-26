@@ -1,0 +1,27 @@
+I took another look at this and it is not so simple. 
+
+Have a plan so you don't need to think as much. But that plan should not be predictable. E.G. play 78s from mid like x%. Bet a lot of your hands the same way. 
+
+A8, A5 villain would only call from mid if suited And villain would have probably bet the flop not a likely holding 
+
+Blind versus blind is not common. 
+
+Try raising small and even playing your made hands small to see how many lay downs you get. 
+
+combin(52,4) = 27,0725 possible starting hole cards combin(5,2) = 10 ways to get 2 of the nut flush combin(4,1) = 4 suite combin(47,2) = 1081 other card combination that do not block your royal 
+
+A coin flip is not a good bet in a tournament. Unless you are up against a small stack. 
+
+If you raise it up to take away odds it gets expense. 8 bb is still laying 2 : 1 odds. 
+
+When you are not in a hand be aware but relax. 
+
+First look at the case of a single 2 royal in you hand and other two card are not blockers or a draw to another nut flush. 
+
+Avoid all-in unless you are pretty sure you have your opponent dominated. Add in speculative hands like suited connectors as when they hit you will typically have your opponent dominated. Go for pot control. Some opponents are not going to let you play for pot control. But you cannot auto fold or they will abuse you. Even if you are 2:1 not really looking to get all your chips in. If they put you all in then you should call if you think you are 2:1. Avoid bigger stacks unless you are on premium cards. 
+
+Range will play different unless you are small stacked. A hand like 78s is more valuable as if you hit a flush, straight, or trips then you are likely good. A one gapper is valuable as more disguised. So you play more hands if you can get in for the right price. A weak ace goes down in value as you can lose a big pot. Don't let your bet sizing telegraph your hand. Come in for like 2.5 BB. 
+
+With just a min raise you are (well should be) pot committed but you are not getting fold equity. You gave the bb 3.5 : 1 pot odds to call Even if the bb put you on KK or AA they were almost getting the 4:1 odds to call Even the sb was getting pot odd to call two overs A min raise of 2.5 bb is there for a reason - at least it might have chased off 85 At QQ it is a not brainier for the bb to push 
+
+Flop Great flop for you. Like 85% you are ahead. I don't like bet over 1/2 the pot. First hand so you have an open slate. You are way ahead or way behind. Villain should have 3 bet pre with AA KK. 5 is in villain's range 55, 45s, 56s. Villain could be on weaker K or smaller pocket pair. QJs would hang around. I would bet 1/3 ($800) for value. I feel like you may fold out some hands you dominate. If they are on trips then go for pot control.

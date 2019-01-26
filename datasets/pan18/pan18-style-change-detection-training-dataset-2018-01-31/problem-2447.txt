@@ -1,0 +1,25 @@
+You asked about 18th century muskets, for example the Brown Bess used by the British army. By that point muskets had advanced to be superior to crossbows. Even with special devices to aid reloading, "a skilled arbalestier could loose two bolts per minute" while a skilled musketeer could do four doubling their firepower. Muskets have the additional advantage of their long length and bayonet doubling as polearms allowing musketmen to defend themselves hand to hand, crossbows do not. Crossbows have the same problems of aiming as an arrow. A bolt flies at about 40m/s, while a musket ball will do 400m/s. The flatter trajectory of a musket makes them considerably easier to aim: point and shoot. 
+
+Reasons to not use a ranged weapon include: stealth, conserving ammunition, not wanting to be lethal, close quarter combat, and (in the era of muzzle loaders) to have a repeating weapon. 
+
+But what about the repeating crossbow aka Chu-ko-nu? Yes, it could fire 10 bolts per minute. However, the range and accuracy were extremely poor. The repeating crossbow is a necessarily lighter weapon than a regular crossbow firing lighter bolts. They had an effective range of only 80 meters (compared to over 200 for a musket). The bolts thrown were lighter which means less accuracy. For this reason it was used in massed formations, like muskets, but this could not make up for its appallingly short range and lack of stopping power. 
+
+I will also assume the person isn't wearing more than normal clothing. If you want to get into penetrating armor with an arrow, that's another question. Most soldiers on a medieval battlefield would be wearing padded or leather armor at most. 
+
+The effect of historical vs modern bows can be seen in the 2014 Tournament Results. The best scores with historical bows (AFHB and AMHB, Adult Male/Female Historical Bow) are routinely lower than the worst scores with modern bows. This could reflect the inaccuracy of historical bows, or it could reflect the smaller talent pool of historical bowman. 
+
+The Battle of Gaugamela saw multiple penetrations of the Macedonian line by cavalry. A charge by chariots was thwarted by deliberately allowing them to pass through the infantry, only to be defeated by reserves. 
+
+Yes, so many that I'm only going to give one example of each or I'll be here all day. 
+
+A similar tactic plays out in many ancient battles. The center is made deliberately weak with orders to slowly withdraw when pressed. An overconfident attacker presses forward and is destroyed by strong forces pressing their flanks. 
+
+These are numbers for a modern bow. They should be considered upper bounds for a historical archer who would not have access to modern technology to improve their aim. 
+
+Consider that most nations in the 18th century did not have a standing army. Men were called up, served their time, and left. That means you either need to use skills they already have (in WWII this would be things like being able to drive and maintain a car) or you have to train them quickly only to have them disperse next year. 
+
+Towards the end of the Russo-Finish Winter War, the Finns ran critically low on everything, especially artillery ammunition. At the beginning of the war well sighted Finnish artillery had a field day firing at large masses of Soviet troops advancing across open and pre-sighted terrain. As the war went on, ammunition supply dwindled, and artillery had to choose their targets more carefully. Towards the end of the war, the Soviets could gather in the open for an attack and the Finns could not respond; they were reserving their dwindling ammunition for only the most critical moments. Artillerymen wept at these textbook targets. A week before the war ended the Finnish 2nd Corps had just 600 shells left in reserve for all guns. 
+
+First, because people have been throwing around answers like 350m and 500m (?!) let's go for an upper bound: Olympic archers are the best we'll ever do. They're the best trained, under perfect conditions, and they're using extremely accurate, but combat ineffective, Olympic bows. These have a fairly light draw, 20kg, and very light, very fast, and very narrow arrows. I'm not saying you'd want to get hit by an Olympic archer, it would hurt a lot, but they'd be ineffective in combat. Point is, this is the best we can possibly do. 
+
+Large scale combat is primarily about breaking your opponent's morale. Prior to the 20th century, the primary means for getting people to throw themselves in harms way in a controllable fashion was to organize them into large groups, drill them so it's second nature, and advance in tight formation for mutual defense, concentration of firepower and mutual support. The question is how fast you can effectively throw ammunition into the enemy's tight formations in order to kill or wound as many men as possible as quickly as possible to break their morale and run. Beyond specialist roles such as sniping, considerations such as long range fire and stealth do not apply, nor does the talent of the individual soldier.

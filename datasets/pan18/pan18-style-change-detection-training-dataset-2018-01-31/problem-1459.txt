@@ -1,0 +1,47 @@
+But it works without complaint when I pass the value as a string: 
+
+I was expecting the output to be more like this: 
+
+You'll need the dash at the start Tap OK You should have a bunch of yellow outlines when you run 
+
+Have I gone crazy? Is the output different that it was before? Setting the deployment target to an earlier OS makes no difference to the output. If it's different, when did it change? Is it documented? 
+
+I have some date strings similar to these: 
+
+I don't think region monitoring will work well for such a small radius. Here's how I got this problem: 
+
+Conclusion: Try restarting Xcode. Quit iTunes first if it was open. 
+
+I just got this error with Xcode 4.0.2 and an iPhone 3G running 4.2.1 (the final 4.x allowed on a 3G). I restarted Xcode and it went through the process of collecting debug information, then gave me a green light. Other answers here say that you may also need to quit iTunes for this to work. 
+
+Here's the code I'm using to inspect it: Edit: It's caused by a race condition in the debug server (I hear). 
+
+There's further inside scoop from this post by Kevin McMahon, who asked the Core Location engineers about region monitoring at a lab at WWDC 2012. This info will have changed in the meantime, but the part about region categories is interesting. Here's an edit: Raju, don't forget to mark questions as accepted. 
+
+Here's a fix if you want to keep using LLDB: Instead of clicking Run while the app is already running in the simulator, kill it in Xcode (⌘-.), say "I love Xcode" 5 times and Run it again (⌘-R). It won't crash, I tested it. 
+
+You'll get a URL pointing to the file to open. I think that it's read-only and you'll have to save your own version if you want to change it. 
+
+This is an Apple bug with the table view row height estimation, and it has existed since this functionality first was introduced in iOS 7. I have worked directly with Apple UIKit engineers and developer evangelists on this issue -- they have acknowledged that it is a bug, but do not have any reliable workaround (short of disabling row height estimation), and did not seem particularly interested in fixing it. It still may be wise to continue shipping any workarounds for a while, until the majority of users on iOS 7 have updated their devices to at least 7.0.3 (which may take a couple weeks). Well, that is assuming your workarounds are safe and tested! This is definitely an Apple bug in UIKit that we have to workaround for now (so please do file bug reports with Apple so they prioritize a fix!). How can you work around this issue? 
+
+Clearly, with iOS 8 self sizing cells, row height estimation is critically important, so Apple really needs to address this ASAP. I don't want the map screen view controller's nib and views to be loaded and initialized until the user switches to that screen, however. You can attach this simple sample project to demonstrate the issue. It is based directly on Apple's own sample code. In response to your specific question, PureLayout offers a two primary APIs for distributing views, one where the spacing between each view is fixed (view size varies as needed), and the other where the size of each view is fixed (spacing between views varies as needed). The latter will accomplish what you're looking for without the use of any "spacer views". Declaring a property synthesizes two accessor (getter/setter) methods: These constants refer to two different kinds of data types, string vs numeric. 
+
+You can set the width of the segments (using setWidth:forSegmentAtIndex:) so you can easily make the left and right end segments larger (say 10px larger) than the others and then you can crop off 10px from either end and have square corners. You don't have to make it larger than the screen width, instead put it inside a UIView and use it to crop the ends. 
+
+You don't need to ask the user for permission, iOS does it for you automatically. 
+
+You can make your own with aluminum foil. The openings should be smaller than the wavelength of your data service if that's what you want to block. You should set the purpose string property in the CLLocationManager object so that when the system asks it can also tell the user why you want their location. Is there a better way to do this? 
+
+In the delegate you can implement the method locationManager:didChangeAuthorizationStatus: to know whether the user allowed core location or not. 
+
+When the vertical accuracy is 20 or 30 meters you should expect the altitude to be off up to 100 feet. Expecting it to not vary by 19 feet as you walk around the house in unrealistic. 
+
+An enum declaration is not a struct, the syntax is similar but it simply defines a series of named numbers. 
+
+This works better with an actual device than with the simulator since the Mac is hard to work on when inside the Faraday cage ;-) 
+
+800 Mhz has a 37 cm (14") wavelength, 1900 Mhz has a 16 cm (6") wavelength. 
+
+Use a simple Faraday cage to block or limit the external RF signal level. The named constants in UIApplications are pointers to NSString objects, they have a pointer value and there is also a string constant that they point to (which is in the .m file). Sort of like declaring some string constants like this (except they are extern and the definition is completed elsewhere): 
+
+The elevation derived from GPS satellites is inherently less accurate that the horizontal solution from GPS due to the geometry of the satellites. You should expect the vertical accuracy to be usually about 1.5 to 3 times worse than the horizontal accuracy. That's just a limitation of GPS and why aviation requires WAAS correction before you can use GPS for instrument approaches.

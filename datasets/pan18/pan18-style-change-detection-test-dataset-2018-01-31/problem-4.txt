@@ -1,0 +1,45 @@
+Agile is the term we give to the conglomerate of practices, the body of knowledge and the community built around similar methodologies and practices, including Scrum but also XP, DSDM and others. 
+
+Most trainers have never failed anyone on a CSM course, and not all CST (Certified Scrum Trainers) are good at getting useful learning across. For this reason, I don't put much faith myself in the certificates. 
+
+Edit: Since answering this question, the Scrum Alliance has adopted an exam to go with the course, so it's actually possible to fail. 
+
+Once you've got your CSM, be careful that you don't end up on a project where you're solely responsible for the Agile process with no support. A CSM is not enough. You'll need either some experienced Agilists or a coach around to help you. 
+
+Nobody who's interested in those kind of reports is interested in the fine detail. 
+
+So, the practice of holding Scrum meetings is part of Scrum, as well as part of just about every other Agile methodology (perhaps by another name), and Scrum is an Agile methodology, but Agile itself is bigger than individual methodologies or practices. 
+
+If the Product Owner does not consider the Definition of Done to have been met then technically the Scrum Team have not accomplished the Definition of Done and the PO reserves the right to reject the User Story(s) as not done. 
+
+The Product Owner manages the stakeholders, the business requirements and assumes the risk on behalf of the business entity. Of course, they absolutely must own the Definition of Done. 
+
+Scrum is not wholly suitable for game design and development due to numerous factors. 
+
+If your team cannot even accomplish hours tracking then why on earth should they be released from the task? It's a simple item that takes less than 5 minutes. I am surprised management has not taken more stringent action already. If your team want independence they have to earn it. 
+
+How much documentation would you expect a Scrum Team to produce working within a Multinational Corporation? Current tools in use for administration are Confluence/JIRA. 
+
+Declaration of interest: I'm an Agile coach and make pretty good money sorting out the mess for people who've relied on CSMs. 
+
+Unfortunately, managers in the industry do, so the certificate is valuable. If you can find someone who's recommended, or someone who's actually failed people on the course, then they're probably better than average. 
+
+Nobody who's interested in those kind of reports is interested in the fine detail. 
+
+This will enable you to plan and provide an overview of expected milestones, etc. It's enough to let you talk about integration issues with other teams, budget, high-level feedback, release cycles and the like without having to commit to anything lower-level. 
+
+You can then provide all the tracking based on those capabilities. 
+
+Instead of reporting on stories and tasks, work out what the capabilities of your system are - the things that it allows users to do, or the things that the system delivers to other systems. You're looking for a large-scale overview with business-valuable outcomes (we had about 30 on a 1-year project). 
+
+To illustrate the differences in the team considering using the personal timeline tool. 
+
+I personally do not believe that any new scrum team survives first contact with the process without losing an individual who refuses to accept the new status quo. 
+
+Our Sprint Planning Agenda is as follows (feel free to steal) 
+
+Are there any counterexamples of Agile teams working to strict deadlines and being tracked mercilessly? Sure. The entire Toyota Production System which underpins many of the systems we consider Agile is based on exceptionally detailed metrics tracking. Kanban lives and dies by it's metrics. The Tesla and SpaceX teams, lauded by the Agile community, work to exceptionally strict 100 day product roadmaps with detailed metrics provided to management. 
+
+For Sprint retrosepctives we use a round robin of ideas from Retromat - a retrospective generator. 
+
+In that instance you must take action to instil discipline in the team. A Scrum Master is the master-servant of the team. Most people focus on the servant part to show humbleness but do not forget the master role. Impose your will onto the team to ensure they understand exactly what will and will not be tolerated.

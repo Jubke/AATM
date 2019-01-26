@@ -1,0 +1,55 @@
+Perhaps, for users with very high rep in certain tags, they should be given the opportunity to act as the canon-makers. To their names would be applied a symbol similar to mods and chaos members. Perhaps the omega, to symbolize that they ordain a question as the last question ever needed for a particular subject? 
+
+Me, I'd always be at 20 seconds. 
+
+The problem is that you cannot specify text is a quote via markup. Commonly people will use one of the previously mentioned methods to highlight text as being a quote. I find myself using the code markup to distinguish quotes from italic and bold text. And, frankly, it's weird. 
+
+Ω They are given mod-like powers within a tag to immediately close questions as duplicates and to apply canonical to questions which they deem to be the one true source of knowledge for a subset of similar questions. They would be allowed a dashboard that specifically targets questions flagged as duplicates for their tag, and to quickly review questions closed as duplicates by the common folk so that they may ensure the correct question was selected. From within this dashboard, they would be able to choose among all questions within their tag with canonical for quick access when closing or re-closing a question 
+
+Adding another flag suggestion will lead users to believe that mods should be handling this situation first rather than as a last resort. 
+
+Playing this game with my comments also makes me sad. 
+
+The only problem I can see is how to deal with which tag the canonical tag is associated with. If you have a question tagged 
+
+Also, I'll award the bounty to the best hand-drawn (in mspaint or other digital media--no hand drawn crap on notebook paper) image of a narwhal. I will tineye that bastard, so don't cheat. 
+
+Thinking of ways to make a common task easier for moderators. 
+
+From just this morning (9/19suck it month first yeah), after I had already edited ten or so titles: 
+
+Currently, the search box requires the enter key to start a search. This is a bit hard to do when your device doesn't have one. We can has search button? 
+
+A trusted user would be defined strictly, the emphasis of this trust being based not solely on the user's reputation but on their moderation activity. The following attributes could be used in this measure of trustworthiness: 
+
+CAN WE PLEASE GET THIS? It is SO COMMON that the first word of a title is a tag. All you need to do is check the first word of the title and the tags on the question, and if there is a match, block posting with the comment "Hey, moron, remove tags from your title before we punch you through the intertubes." 
+
+I'd like to request that questions that have three or more deleted answers by users with <50 rep be automatically protected. 
+
+Let's not waste lots of time and effort closing stuff that is obviously unsalvageable. 
+
+Flags should be used to inform moderators that there is something they need to take care of. Cleaning up links isn't one of our duties. 
+
+I'm calling it a Closehammer rather than an Onholdhammer because... well, just look at how odd Onholdhammer looks. 
+
+One of the things that I didn't like about reaching 10k was that my clean, neat interface was now cluttered with trash. 
+
+Please, at a minimum, accept a full URL as the value for the target post. 
+
+The mod edits the answer The mod copies all the text from the answer The mod switches back and deletes the answer The mod edits the question The mod pastes the text to the bottom of the question I'd suggest adding an option to the answer to automate this process. A moderator can click a "Merge with Question" link, which automatically deletes the answer and adds it as an edit to the bottom of the question. 
+
+Can you turn the lights on in the podium so we can see how long until that 30 seconds has elapsed? 
+
+What happens when you're a 10k user who doesn't want to participate in moderation? Your experience on StackOverflow (which we moderators, 10k and diamonds, and other diligent users of SO put much effort into making so nice!) is now ruined. All the crap that is cleared out to make that experience so unique is now dumped right in your lap. 
+
+I can already hear the choruses of "asdfasdfasdfasdfsadfasdf" coming... But understand that these users are the least likely to pull this kind of BS move. And if you do, that's great! Because we can ban you from using the closehammer, as obviously you don't care about what you're doing. 
+
+When you want to merge two questions, the form requires you enter the post number, and only the post number, in order to identify the target post to merge with. 
+
+So, what are the chances this will happen? 
+
+Tags are given a much more prominent position rather than be left as an afterthought You'd have to be a moron to add a tag and then immediately begin your title with it Some of the downsides of this: 
+
+Another twist would be to allow users to apply a canonical-proposed to questions, which the canon-makers would be able to review in their dashboard. They would either ordain a question as canon, or close them as dupes with similar questions. 
+
+Replace "multiple" with the number of incidents at the time of the flag Shorten the links so that more will fit

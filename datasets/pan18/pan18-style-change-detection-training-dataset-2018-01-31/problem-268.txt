@@ -1,0 +1,19 @@
+Crimson Nirnroot + Imp Stool + Slaughterfish Eggs: If you do not care about instant damage, this is probably the highest damage poison you can make in the game with over 500 poison damage. 
+
+So the daedric bow not only does more damage per shot at low smithing but the hunting bow eventually wins out. However, keep in mind the higher damage from the daedric bow is increased by x3 from the sneak attack multiplier for roughly ~150 more damage in the end. 
+
+Using the above formula, here are the total speed it takes to do 1 shot (with no perks): 
+
+Day No Moon Outdoors - 8 damage - charges used Looks like at this point the hunting bow starts winning out DPS wise. 
+
+You want to do as much damage with the initial shot as possible so you won't need a second shot. Because of this, I tend to favor the bigger, heavier weapons over the lighter ones. Final DPS values with an arbitrarily high smithing and arrow bonus (lets say adds 200 damage): As you can see from the screen shot, even hitting Heimskr when there were TWO moons out still only did 8 damage. 
+
+Lets assume smithing adds the same amount of damage to both bows, so we can drop that modifier, we can ignore arrows for the same reason: Once you get past all the speculation, this thread seems to confirm that using console commands do not affect achievements at all. Assuming the target has no poison resistance, this will end up being roughly 384 instant damage. Here are combinations of damage health with other effects: If you are on the PC, there is a way to force an NPC to level up by resetting them: Here is the entire XP curve for Sneak in case you are interested: 
+
+As for whether or not you can gain every perk, the amount of experience required per level is: 1 10.71111111 2 10.83838868 3 11.045287 4 11.33015679 5 11.69186759 6 12.12955919 7 12.642538 8 13.23022354 9 13.89211712 10 14.62778195 First, remove all the gear from the follower (at least the ones that you want to keep). Walk up to them, be as close as possible, open the console with the ~ key Click on your follower. When you do so, a string will appear at the top of your console that represents your follower's reference ID. On your console, type disable, then follow it up with enable After this, your companion will be 'reset' to match what your current level is. Their health and skills should be improved. 
+
+Here are the experience required for the first 10 levels of sneak: 
+
+For example, most people meet Lydia very early on and she'll end up being locked in with 100 health and skills in the 20s, so she won't be as effective as Jordis (the housecarl you get in Solitude) whom you'll usually meet much later on since the house costs 25k gold to purchase. For some reason, crimson nirnroot makes the strongest damage health effect @221, all other combinations do not come close. 
+
+Crimson Nirnroot + Giant Lichen + Jazbay Grapes: The ravage health comes handy since it lowers the max hp of a target so they cannot heal themselves to regain that hp.

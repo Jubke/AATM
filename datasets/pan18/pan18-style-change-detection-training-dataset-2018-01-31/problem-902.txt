@@ -1,0 +1,29 @@
+This is another example of how the PHP community does a fantastic job of curating the tag, thank you all for your efforts. 
+
+I'm not sure why it's displayed in the order that it is, but I actually cast the second re-open vote on that question, so what you're seeing is in fact an artifact of the re-openers not being displayed in the order that they voted. 
+
+In short, the most trusted users don't always find the most urgent issues. We need to fix that. 
+
+I just vaporized a bunch that were copying answers on Stack Overflow to farm enough rep to game the association bonus, and I'm keeping an eye on it. A few of those accounts were initially deleted just on Stack Overflow and not network wide, this was before I realized the scope of what the person was doing. Initially, it just looked like someone rep farming socks on SO, something we see every day. They can try to come back, but they'll have to start from scratch. 
+
+Final edit: I do realize that this system is undergoing changes, in fact many and is coupled with the moderator tools. Please treat this as a 'wish' for when things settle down, if needed :) 
+
+Turns out, that's what happened back on March 28, 2011 - when about 39,000 bogus requests per second started coming from it. This seems to be the case on all beta sites. As a moderator, there's no use case for uploading a custom avatar for a user. There's really not even a support case for employees to do it. The only time mods should be changing a user's avatar is if it's found to be reasonably objectionable, in which case you should just change it to the default identicon and notify the user they're free to upload another (less objectionable) avatar. 
+
+I've contacted our SRE team to look into dropping the rule because it is quite old, and there's strong evidence that a real person is now using it. Hang tight, might take a while. My hope is, we can service flags according to urgency as well as accuracy, which might help cut down on flags in general. Wouldn't most of this be resolved if everything above (and including): 
+
+I edit like crazy. If my answer reaches the top of the list, I edit even more. There is always something I forgot to add, something that could have been said better, a sentence best followed by a code example or refinements based on comments. 
+
+This does appear to be a bug. Everything is backwards and we're all doomed, the world is being rewound as if it were a VHS cassette. 
+
+While we could conceivably fix this, I don't think it's warranted, as this really shouldn't happen to begin with :) Some proposals gain enough traction to prevent that, and the "Sorry, you can't do that" message still relates to SO: Besides, you still earn badges. Since the launch of Careers 2.0, I've been working on actually completing my profile. I have one thing listed thus far under experience, which was a contract position and for various reasons I'd like to remove it. As for the comments, I'm going to have a look now and see what I can do sure any legitimate comments that were spam flagged by this fool are now restored. 
+
+At the time of this writing, there are no styles on programmers.stackexchange.com (or its meta site). Tried with multiple browsers on multiple computers. 
+
+We do not outright block IPs for spamming and bad behavior, we simply prevent accounts coming from them that aren't very established from posting. In order to get an outright block, something from your IP has to be hitting us really hard with abusive requests. 
+
+While I usually refrain from editing other people's posts unless some glaring error remains after leaving a comment to point it out, I edit my own religiously. I've been nailed by the same thing a few times, actually I became rather upset the first time. I'm at 9k something now, I'd be well over 10k if I actually earned the rep from every up vote. 
+
+Now that we know exactly what's going on - this is excruciatingly easy to deal with. They will get tired of trying to farm rep to keep this up way before I get tired of pushing my new favorite button. Additionally, even with the association bonus, they still won't be able to get enough rep to actually vote - so please don't worry too much about it. I don't want to add to 'experience' without the assurance of editorial control (on my part), in the past I've worked under quite strict non-disclosure agreements and people are sometimes fickle. I did one last merge as a few more crept in since you posted, but this is now completed. php5 is now synonymous with php. 
+
+Tagging this as a bug, but it isn't really, I'm just not sure what else it could be tagged. Introducing remnant-from-so-on-area51 seemed kind of silly. While making my moderator 'rounds' today, I found over 300 flags. Granted, that is a bit unusual for many, but I'm the only one in my particular time zone (GMT +8).

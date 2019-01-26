@@ -1,0 +1,19 @@
+I would actually use these forms of wording in my risk or issue register, along with mitigating actions and an assessment of the impact or likely impact, and also (for risks) the likelihood of the risk happening. There is no need for a likelihood for an issue, as it has already happened so the likelihood would be 100%. 
+
+You ask about the roles of the PM vs. the Tech Lead: Assuming the tech lead manages the developers, I would not expect the PM to be communicating with the developers directly - that should be the role of the tech lead. The tech lead should, of course, be able to explain what progress has been made at any point in time, but he should also have the autonomy to allocate work as appropriate within his team. In terms of allocating work to others, I would suggest that the PM discusses this with the individual rather than imposing his own thoughts. 
+
+I use Risk and Issue logs and review them on a strict, regular basis. They are essential tools both for myself as a PM, and for the wider stakeholder community within the project. Why do I say that? 
+
+I have not found many circumstances where I have used Assumption or Dependency logs, except as a way of capturing my thoughts which are then turned into risks (if necessary) once I take time to analyse them (as mentioned by David Espina in his response to this question). 
+
+My take on this is that the PM is trying to establish a sense of discipline into a company that has previously had a "freewheeling" attitude. I don't think he is being too zealous - but perhaps his method is not appropriate. 
+
+It is devious and underhand, and not something that I would normally support, but it may just get you off the hook. And you never know - it may be that when you deliver using this model, the client likes what he gets, asks for changes to the original specification, and is happy to renegotiate accordingly. That would be a win-win situation! 
+
+I do wonder whether the issue is the level of control that is being imposed, or whether it is the means of imposing it. In a small company such as you describe, a daily email to and from the PM sounds very bureaucratic and impersonal. I would prefer to handle the communication face to face, because this allows a conversation to take place rather than just passing on facts and figures. 
+
+I define a risk as "Something that might happen that will have an impact on the project", whereas an issue is "Something that has happened that has impacted on the project". The key is a risk MAY have an impact, where an issue has ALREADY HAD an impact. 
+
+In summary, then, it feels as though the PM is trying to impose disciplines and make decisions for the right reasons, but is not using the appropriate interpersonal communication to achieve the desired outcomes. Get him to talk to people more, and get off his pedestal. But the rest of the team also need to change, and recognise and accept the authority that he was presumably given when he was appointed. 
+
+For me, the role of the PM should be to know what is due to be done, to know whether it remains on target, and to understand and manage the risks around the project. There will be other duties too, probably around project finance and management reporting, and an effective PM will certainly help the rest of the organisation by handling that side of the work, letting them concentrate on what they do best.

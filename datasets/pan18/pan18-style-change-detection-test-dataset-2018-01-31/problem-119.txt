@@ -1,0 +1,47 @@
+One way to find a dungeon which has respawned enemies inside is to accept one of the various kill quests that you can find (from innkeepers, the Dark Brotherhood, etc.), which will lead you to you to these dungeons. These procedurally generated kill-quests will send you to dungeons where the difficulty inside matches your level, which means that taking one of these at higher levels will have a higher likelyhood of taking you to a more difficult respawn-dungeon. 
+
+The only thing that changes is the amount you can carry. As Arkvive pointed out, choosing stamina will increase your maximum carry capacity by 5. 
+
+For PS3, here's a good video guide on how to generally move save games and here's a guide on how to transfer save games from PC to the PS3, although it's possible that this just works with saved games which are originally from a PS3. 
+
+These are the ones that come to mind right now. 
+
+Well, lacking a precise formula (even though there certainly is one, the problem can be nailed down mathematically since the only variables are the weight of items, the value of items, and the total amount that you can carry), all I can do is give you some tips: 
+
+Thus, it looks like you cannot transfer a Skyrim SE save to the original Skyrim. 
+
+Luckily, there seems to be a possible fix for people who didn't want their items duplicated (such as yourself), described in this thread: 
+
+You may have been referring to the quest Destroy the Draugr in Angurvunde. If this is the case and you have indeed killed Medresi Dran, then the key required to progress the quest can be looted off of her corpse, which will then start the quest Discover the Treasure of Angarvunde. 
+
+There's a mod specifically designed to remove the Black Books from your inventory, which you can find here, though I do not know whether you can use this mod on the special edition or not. (As an aside, according to the page for the mod, this mod has caused 0 computers to blow up, so that's a good sign it won't break your game.) 
+
+If you don't want to use a mod, it looks like you could also use console commands to remove them from your inventory (as well as add them to a container). The relevant console commands would be: 
+
+For XBox 360, here's a guide on how to transfer saved games: 
+
+The only thing that changes is the amount you can carry. As Arkvive pointed out, choosing stamina will increase your maximum carry capacity by 5. 
+
+These are the ones that come to mind right now. 
+
+For PS3, here's a good video guide on how to generally move save games and here's a guide on how to transfer save games from PC to the PS3, although it's possible that this just works with saved games which are originally from a PS3. 
+
+The developers said that the old attributes were basically just a fancy way to raise or lower Health, Magicka or Stamina (besides also influencing skills, obviously), so they went for this "choose between the three" plus "perks" system. 
+
+Within a couple of days, there is no respawn. Respawn now takes 30 ingame days, which is longer than in previous ES games. 
+
+For PC to PC, you can go to the "User/Documents/My Games/Skyrim" folder and simply copy the "Saves" folder from one machine to the corresponding folder on the other machine. 
+
+One way to find a dungeon which has respawned enemies inside is to accept one of the various kill quests that you can find (from innkeepers, the Dark Brotherhood, etc.), which will lead you to you to these dungeons. These procedurally generated kill-quests will send you to dungeons where the difficulty inside matches your level, which means that taking one of these at higher levels will have a higher likelyhood of taking you to a more difficult respawn-dungeon. 
+
+If you were talking about Medresi Dran and the Wandering Dead, then based on the information on Medresi Dran's wikia page, it looks like she was supposed to die regardless of whether you chose to help her or not. 
+
+Also, this sort of goes without saying based on the nature of the books, but you most likely want to be completely done with the Dragonborn questline before removing these books from your inventory, or else you might break something. 
+
+When [the Player and Narathzul] try to kill Tyr and Irlanda it is revealed that Narathzul is actually the son of Irlanda and Tealor. 
+
+tl;dr: She's supposed to die no matter what, so killing her prematurely shouldn't hinder you in any way. She doesn't need to be alive to complete her related quests. 
+
+This post is by someone who attempted to carry out the reverse transfer that you described. This is the error message that they received: 
+
+You may have been referring to the quest Destroy the Draugr in Angurvunde. If this is the case and you have indeed killed Medresi Dran, then the key required to progress the quest can be looted off of her corpse, which will then start the quest Discover the Treasure of Angarvunde.

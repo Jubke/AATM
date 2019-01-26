@@ -1,0 +1,55 @@
+So technically you could come up with an average cost per story-point, just make sure you re-evaluate the velocity and costs as teams change this metric will change as well. Also do not re-use old estimates, clear them and use the new info from the last iterations to re-estimate continuously. 
+
+https://www.impactmapping.org/delivering.html 
+
+If it is a larger company, maybe some more traditional teams exists. I would suggest to move this person there. 
+
+We draw this metric unto a graph on our Scrum-board. We also try to take action if we are hitting a low Goal or Bad. 
+
+Some people are open to change, some would rather just see how it works out, but some just push back. My experience with the last group is that is just a waste of time to convince them. They will keep making stupid remarks about the process and Agile principles or ideas. Agile has proven itself over time now. I have no need for people pushing back in my teams. 
+
+Another possible solution for your problem is a branching strategy. 
+
+As a Scrum Master I do not care about the burn down, it is just a signal that we are behind. A trigger to discuss how we can resolve it, not to push the developers todo more. That will only result into sloppy and buggy work. 
+
+Entry level: Can implement the tools and processes, but doesnt have a good understanding why the processes, practises, principles and value's exist. Could lead to cargo-cult Agile. 
+
+Other read about code ownership is this: https://martinfowler.com/bliki/CodeOwnership.html 
+
+I would call your "proxy" just plain and simple Scrum Master and rotate someone in the team. Let the Agile coaches focus on getting the organisation to become truly Agile. 
+
+Also your automation testers will not have the domain knowledge to write good tests, because they will join the project later and did not grow with the product. 
+
+I would use story points to estimate the relative size of the complexity of the task at hand. Read more about estimating with relative sizes in this blog. 
+
+In the end it is just about getting the work done! :) 
+
+Write and extend automated (unit) test-cases coverage Create spikes for upcoming features in the product backlog Improve API documentation Update 
+
+Which tasks that is open for discussion, but I would focus on the typical Scrum Master tasks and add technical excellence focus on top of that. So that the team stays clean and can keep going fast over time. 
+
+Overall I think it gives a more honest feeling about what we are going to complete. It makes the whole team think about where we stand daily. 
+
+If you start pushing, this developer will not make the constant pace. Development goes as fast as it goes. It is done when it's done. Some are faster than others accept it. Unless the developer is deliberately slowing down and slacking what do you expect to do about it? Demotivate him even more by publicly pointing it out at the Daily Scrum? 
+
+The reason Scrum does not detail everything for you is that there is not a single truth for process in Software development. It is different per product, team, company or industry. What the Scrum framework does is to help you inspect and adapt to find your fit the quickest. 
+
+I have done both sides in the past and really its great either way. If you think you can change the organization don't give up after some push backs. Keep repeating and repeating with respect, eventually they will turn around. Change of culture can be a process of years, so you need to have a long breath. 
+
+The acceptance criteria are to verify the new feature is working as expected by the stakeholders. They are better called Business Facing Tests. 
+
+One of the major Dutch web-shops with around 20 Scrum teams (in 2013) did experiments with the length of Sprint planning meetings to get and idea what level of detail is good enough. They told me that doing Sprint planning meetings in 15 minutes (yes just 15 minutes) lead to relative the same average estimations as 4 hours would. Now I think this will lead to a bit of more discussion during the Sprint, but it highlights that details are not the most important thing of a Sprint planning. 
+
+Update 2 We have been running sprints from Wednesday till Wednesday now for a couple of iterations. I have the feeling everyone is pretty happy with it. The teams asked to plan all the meetings on Wednesday, our day looks like this: 
+
+In two weeks Sprints my team currently uses a Sprint speed graph. 
+
+http://www.extremeprogramming.org/rules/collective.html 
+
+Daily monitor progress At the end of the week review the victories Evaluate whats going well and where your family can improve I see no reason why children couldn't follow a plan like this. No need to explain just execute! :) 
+
+There are some challenges, most importantly you need to be able to cut up a story in work items people can work in parallel on. My current team takes the following steps: 
+
+Intermediate: Can work on a team level, but does not yet have the experience to change organizations. Understands principles and value's, but might not yet be the best to teach other Scrum Masters. But should coach teams on Agile practises like technical excellence. 
+
+If the value of the technical tasks is clear I think using a user story format is just waste of time. Question yourself why you want to write it in such a format, what do you gain? Just for writing all tasks in the same format is a invalid reason if you ask me.

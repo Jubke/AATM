@@ -1,0 +1,53 @@
+“The boys are going to the town”. 
+
+At a broader level: in English too the collective “fruit” is the primary form, while “a piece of fruit” is derived from it, though not by suffixation. 
+
+If there is an explicit agent the verb will agree with the agent in person and gender only; that is: it can only be in the 3rd person singular masculine or feminine. Thus: 
+
+What you say about Arabic is a bit confused. ghurfa / ghuraf is a simple singular / plural situation, the plural being formed by restructuring the consonants of the singular (which is not at all "sporadic"). There are, however, words with a three-fold distinction between collective / singularative / plural, where the collective is the primary form, for example: 
+
+However, both thamar and thamara are grammatically singular (masculine and feminine respectively). 
+
+In Latin, and similarly in other languages, the apposite is in the same case as its antecedent, for example "Ego, Claudius" (I, Claudius, both nominative), "Me, Claudium, vidit" (he saw me, Claudius, both accusative.) 
+
+At a more general level, linguists have a tendency to classify this sort of situation as agglutination rather than inflection. By this analysis, the “s” in this example can be analysed as a postposition affecting the whole article+adjective+noun phrase “the old dog”. You will find this in all so-called agglutinative languages (Turkish, Tamil etc. etc.) 
+
+For readings at this stage, I would go to the classics: 
+
+The reading I might recommend at this stage is Stephen Pinker's Language Instinct (although I completely disagree with his conclusions, it is a good initial overview). 
+
+The answer to this question very much depends on who's asking and why. And what stage of your linguistic studies you are at. 
+
+Some authors who addressed this (off the top of my head): 
+
+But today, I would be more interested in discussing with how various linguists' theoretical preoccupations direct what they study and how. For instance, in order to understand the divide between the Chomskean tradition and the rest of linguistics, theoretical concerns are paramount. Like many social sciences, linguistics has a bit of a science envy, which can lead to overcompensating with formal approaches that obscure more than they reveal. 
+
+And if you wanted to get more in-depth: 
+
+It might also be useful to distinguish linguistics from philology - the latter dealing with a description of specific languages and from pedagogic or prescriptive grammar. 
+
+For the lay person, I'd start with James McCawley's "To ask a professional linguist how many languages they speak is just like asking a doctor how many diseases they have." This pointing to the dual meaning of the word 'linguist' in English but also to the fact that theoretical linguistics is concerned with general principles common to all languages. 
+
+The definition I would have parroted back to a professor during my undergraduate studies would have been something like: "Theoretical linguistics is characterized by a concern with general principles governing how language works using methods including corpus analysis, contrastive analysis, psycholinguistic experiments, etc.)." 
+
+Literally: “he goes (3rd singular masc.) the boys to the town”. 
+
+At a more general level, linguists have a tendency to classify this sort of situation as agglutination rather than inflection. By this analysis, the “s” in this example can be analysed as a postposition affecting the whole article+adjective+noun phrase “the old dog”. You will find this in all so-called agglutinative languages (Turkish, Tamil etc. etc.) 
+
+If there is an explicit agent the verb will agree with the agent in person and gender only; that is: it can only be in the 3rd person singular masculine or feminine. Thus: 
+
+Well, first of all there is English, which has three cases for pronouns (he, his, him) and two for nouns (dog, dog’s), and where articles and adjectives are invariable for case (the old dog’s house). 
+
+What you say about Arabic is a bit confused. ghurfa / ghuraf is a simple singular / plural situation, the plural being formed by restructuring the consonants of the singular (which is not at all "sporadic"). There are, however, words with a three-fold distinction between collective / singularative / plural, where the collective is the primary form, for example: 
+
+The Wikipedia “formula” is indeed highly problematic in so far as it assumes that derivation and inflection are effected solely by suffixation, which is manifestly not true in many languages. For example, in Arabic yatakātabūna “they write to each other” the root is k-t-b, the first /ta/ is a derivational morpheme, the prefixed /ya/ and the suffixed /ūna/ are inflectional elements. So what comes before what? 
+
+In classical Arabic in a verbal sentence (a sentence beginning with a verb) with implicit agent the verb will agree with this implicit agent in person, number and gender. For example: 
+
+“The boys are going to the town”. 
+
+“Aorist presents” is a term used by many (but not all) Indo-Europeanists to describe verb forms for the present tense with zero-grade ablaut (like the strong aorist). A classic example is Sanskrit tudati “he bumps into”, which forms its present tense from the zero-grade root *tud-, not the full grade *taud-. In this sense it resembles the aorist. 
+
+At a broader level: in English too the collective “fruit” is the primary form, while “a piece of fruit” is derived from it, though not by suffixation. 
+
+In Latin, and similarly in other languages, the apposite is in the same case as its antecedent, for example "Ego, Claudius" (I, Claudius, both nominative), "Me, Claudium, vidit" (he saw me, Claudius, both accusative.)

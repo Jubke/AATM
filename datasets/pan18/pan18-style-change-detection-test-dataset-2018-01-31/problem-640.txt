@@ -1,0 +1,57 @@
+Check the signing keys used You should double-check which certificates the old APK and new APK contain, with the commands: 
+
+For automated testing (using Hudson) I have a script that generates a bunch of emulators for many combinations of Android OS version, screen resolution, screen density and language. This works fine, except for the language part. 
+
+Firstly, it's unlikely that Google Play is wrong here. Are you sure you didn't use your debug key by mistake? 
+
+I have updated his answer below with the details. 
+
+You can change the input method by long-pressing on an input field and choosing Input Method → Android Keyboard. I think you can also long-press on the bottom-left key on the virtual keyboard. 
+
+If the SHA1 fingerprint value is different between the original and update APKs, then you did not use the same signing key for both APKs 
+
+Can I migrate to a new signing key? No. Even if you do find the original, you can't sign an APK with key A, then sign the next update with both keys A and B, then sign the next update with only key B. 
+
+After the first release of an APK, all subsequent releases must be signed with the exact same key. 
+
+That way, we always have the debug info being output for regular builds and don't have to make any code changes for release builds. ProGuard can also do multiple passes over the bytecode to remove other undesired statements, empty blocks and can automatically inline short methods where appropriate. 
+
+Signing an APK (or any JAR file) with multiple keys is technically possible, but Google Play no longer accepts APKs with multiple signatures. 
+
+Did you sign with the debug key by mistake? Google Play does not allow you to publish an app signed with your debug keystore. If you try to upload such an APK, Google Play will fail with the message "You uploaded an APK that was signed in debug mode. You need to sign your APK in release mode." 
+
+Update (October 2013): When Android 4.4 arrives, it will make changes to the SMS APIs which may affect an app's ability to influence SMS delivery. Check out this Android Developers blog post for some more info: http://android-developers.blogspot.com/2013/10/getting-your-sms-apps-ready-for-kitkat.html 
+
+Can I migrate to a new signing key? No. Even if you do find the original, you can't sign an APK with key A, then sign the next update with both keys A and B, then sign the next update after that with only key B. 
+
+Update (4.5 years later): Nowadays I used Timber for Android logging. 
+
+Any ideas whether this can be done, either via the above methods or otherwise? 
+
+Solution: Thanks to dtmilano's info about the relevant properties, and some further investigation on my part, I came up with a solution even better and simpler than all the ideas above! 
+
+You will lose your existing install base, reviews etc., and will have to find a way to get your existing customers to uninstall the old app and install the new version. 
+
+What can I do? You will have to build your app with a new application ID (e.g. change from "com.example.myapp" to "com.example.myapp2") and create a brand new listing on Google Play. 
+
+Despite some negative reactions to this question, there are legitimate uses for SMS interception. For example: automating phone number verification, services which are provisioned via SMS (though generally this should be done with data SMS), or for applications which otherwise improve the user experience by processing specially-formatted messages in order to show them in a nice Android-specific UI. 
+
+There are two ways to capture network traffic directly from an Android emulator: 
+
+Note that even if the Owner/X.509 values are identical between the two certificates, this doesn't mean that the certificates are identical — if anything else does not match — such as the fingerprint values — then the certificates are different. 
+
+In this example, logging statements will only be written to logcat in debug builds of my app: 
+
+Again, ensure you have backups of the keystore and password you use for this version. 
+
+After the first release of an APK, all subsequent releases must be signed with the exact same key. 
+
+I can't find the original keystore anywhere If you cannot find the original keystore, you will never be able to publish any updates to this particular app. 
+
+Android mentions this explicitly on the Signing Your Application page: 
+
+Search through all the keystore files you can find on your computer, and in any backups you have, until you have the one with the correct SHA1 fingerprint: 
+
+The emulator listens on two TCP ports per instance: 5554 for the telnet interface and 5555 for control communication with tools like DDMS. So you could probably get away with only forwarding port 5555 (though I've only tried it so far with both). Each subsequent emulator takes the next available even+odd port number tuple (up to around 5580, I think). 
+
+Signing an APK (or any JAR file) with multiple keys technically possible, but Google Play does not accept APKs with multiple signatures.

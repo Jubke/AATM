@@ -1,0 +1,39 @@
+Now I mention cheating. You mentioned alternate topologies on which we may define a "straight line" to have behaviors different from Euclid's. This is just a linguistic issue. If Euclid had called it a FribbleMoose, we'd probably invent a new term for the concept in other topologies. But "straight line" still has an intuitive appeal." 
+
+His theory does include some interesting threads to tug on. In CUH (his Computable Universe Hypothesis), he argues that the entire world is computable. Non-deciable things, such as the issue with band gaps being non-decidable are resolved by stating that only the description of things must be computable, not the actual time evolution of it. This implies that he considers reality and the description of reality to be one and the same. He also readily admits that this means that our universe can contain questions which cannot be answered within the universe. Whether this is acceptable in one's ontology or not is one's own business. However, it does give insight into how he would view things. If something in reality existed which was not fully made from a mathematical structure, he would be able to treat it as though it is something which can be described using mathematics but which is not decidable. You would be unable to come up with a logical process to disprove his claim, because his claim is that one cannot prove nor disprove his claim within this universe. 
+
+Originally they were described by Aristotle but were seen as natural and not as Kant saw them as pure concepts of the understanding. 
+
+Joan Robinson, in The Philosophy of Economics writes: 
+
+Did Hume offer a similar argument? I seem to recall something similar offered by Lewis Caroll that was picked up by the Tortoise in Hofstadters Godel, Escher & Bach - but I may (and probably am) mistaken here. 
+
+This tradition should be distinguished from that of Lucretious, which itself derives from Epicurus; and its this tradition that sets its metaphysical face against that of Aristotles. 
+
+It's this all that requires Set Theory; in the sense we can formally manipulate sets according to precise rules in a way we can't by concepts; though of course the concept of a totality - the all - is available. 
+
+Pin your faith to supernatural knowledge and stumble through a darkness deeper still. 
+
+It depends on which kind of mathematical infinity; generally the two infinities to take into account here are the first two: the cardinality of all the natural numbers, and of all the real numbers. 
+
+Now, is there a good physical reason or philosophical reason for this to be dismissed as not sustainable? 
+
+And of the two views on the relation between the transcendental and empirical world; the first being that is there is no relation: the world of empirical facts, of science is entirely distinct from that of human actors, of beings with conscious intent; the second that these two worlds are simply two aspects of the same world; which one predominates in the secondary literature - presumably it being difficult to say which one Kant advocates himself? 
+
+His theory does include some interesting threads to tug on. In CUH (his Computable Universe Hypothesis), he argues that the entire world is computable. Non-deciable things, such as the issue with band gaps being non-decidable are resolved by stating that only the description of things must be computable, not the actual time evolution of it. This implies that he considers reality and the description of reality to be one and the same. He also readily admits that this means that our universe can contain questions which cannot be answered within the universe. Whether this is acceptable in one's ontology or not is one's own business. However, it does give insight into how he would view things. If something in reality existed which was not fully made from a mathematical structure, he would be able to treat it as though it is something which can be described using mathematics but which is not decidable. You would be unable to come up with a logical process to disprove his claim, because his claim is that one cannot prove nor disprove his claim within this universe. 
+
+Did Hume offer a similar argument? I seem to recall something similar offered by Lewis Caroll that was picked up by the Tortoise in Hofstadters Godel, Escher & Bach - but I may (and probably am) mistaken here. 
+
+Whereas and hence: for Husserl, it is 
+
+Chomskys notion of a universal grammar is his way of comprehending that human languages appear to have a deep grammar, and that children appear to learn language as though they are primed for it. 
+
+NB Its probably worth pointing out, for what its worth, that the title of the question is playing with the title of a collage by RB Kitaj. 
+
+It's this all that requires Set Theory; in the sense we can formally manipulate sets according to precise rules in a way we can't by concepts; though of course the concept of a totality - the all - is available. 
+
+So, at bottom; and when considered rightly, they are at the same level; in that they treat fundamental questions in fundamentally incompatible ways; however in the history of ideas, they are intricately interwoven (as pointed out by Hegel in his History) - and thus a dialectic; compare with Hegels notion of the dialectic of Being (theism) & Non-Being (atheism) being sublated into the Becoming of Science & Theology. 
+
+Now, is there a good physical reason or philosophical reason for this to be dismissed as not sustainable? 
+
+This isn't an answer, because it's a difficult question; but there is some interesting qualifications which might posited as part of a genealogical perspective - in the sense that Foucault, and earlier Nietzsche make use of it - on the question that might throw further light on it.

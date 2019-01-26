@@ -1,0 +1,29 @@
+The mod, Better Dialogue Controls is an attempt to fix this. This bug has been previously reported here: http://forums.bethsoft.com/topic/1355973-aspect-of-peryite-dialogue-spam-loop-poss-spoilers/ 
+
+When placed, the rotation of the player is related to how the chest is placed. Looking parallel to the entrance of the room usually results in a completely level box. However, looking perpendicular to the entrance can place the box on its side. It also recommends if a quest has to be done early or be postponed before/until another quest has been finished or another game event has happened, to prevent bugs or a negative impact on other quests, or the game. Note: The images link to their respective character's UESP wiki articles. Night Mother — Oblivion 
+
+As for why it took Bethesda more than a year to fix this, I have no idea. 
+
+Current mods that can allow you to buy horses for your followers to use: From the UESP wiki, "Soul Gem" article: 
+
+* I know. I'm late to the party and just started Dawnguard. 
+
+Does it hit non-hostile enemies? Does it have a priority of any sort when it 'leaps' (e.g. like hitting enemies first, before non-hostiles) or does it simply choose the nearest reachable NPC or creature? From http://uesp.net/wiki/Skyrim:Leveling#Effects_of_Leveling : There is no mention of this bug on the list of bug fixes in the official patch updates. 
+
+and here: http://www.gamefaqs.com/boards/615805-the-elder-scrolls-v-skyrim/62113942 
+
+In the quest, Retaking Thirsk, you need to help a group of Nords kill all the Rieklings in the Thirsk Mead Hall. I was reading the UESP wiki's "Skyrim Glitches" article, when I came upon this gem: 
+
+I was wondering how this will affect or stack with in-game skill rate modifiers, like Standing Stones. For example, if I have The Lover Stone's effects (learn all skills 15% faster) active, how will this affect or stack with the 2x Skill Increase mod? How much total skill increase rate will I get? Based on these descriptions, it is hard to know what exactly the spell will work on. What is a weak dead body? A more powerful dead body? A powerful dead body? etc.? 
+
+I have already finished the quest, 'The Only Cure', months ago (both real-world time and game-time). This bug only happened in the savegame of my oldest character (Level 59) who has finished that quest. I have a Level 20+ and 30+ character - but with the same set of mods, the Aspect of Peryite doesn't haunt them. Elemental Protection, a Block skill perk has a 'Reduce incoming fire, frost, and shock damage by 50% when blocking with a shield' perk. It requires a skill of 50 in Block and the Deflect Arrows perk. 
+
+and here: http://forums.bethsoft.com/topic/1361006-aspect-of-peryite-comes-out-of-nowhere-and-insists-that-you-talk-to-him-forever-bug/page__view__findpost__p__20544773 The Forsworn Conspiracy and No One Escapes Cidhna Mine Notes: ...if you side with the Stormcloaks in the Civil War and if you complete Forsworn Conspiracy before Compelling Tribute and then wait until after Compelling Tribute to start Cidhna Mine, it will become unavailable permanently. It is also possible to have the same effect result from completing Forsworn Conspiracy, then completing Season Unending before Cidhna Mine, even if you have not joined the Stormcloaks. Since the game doesn't state how much 'Absorb Health' effect the Ebony Blades have, I am unsure if both weapons are powered-up. I also would like to know if further Ebony Blades I add through console commands will be powered up as I would like my follower(s) to use the Ebony Blade too. 
+
+Tips to make followers extra-sneaky: from: UESP wiki, "Do Not Delete" article 
+
+The stolen tag can be removed by placing it in an empty chest, then instructing a follower search the chest. 
+
+In the Falskaar quest, A Fortunate Find, I am given the option of either selling the ring to Harold or selling it to Svea. 
+
+From UESP wiki, "Skyrim - Marriage" article: Before the v1.9 official patch was released, the Unofficial Skyrim Patch had a fix for that:

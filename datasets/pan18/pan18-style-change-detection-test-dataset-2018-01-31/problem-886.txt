@@ -1,0 +1,13 @@
+a contradiction or just a truth function that is always false? Either way, you can substitute it into any axiom or theorem of propositional logic to get another theorem. It seems strange but even if you substitute a falsehood (or maybe contradiction, in your terms), you wil get another theorem, a true-in-all-valuations statement. 
+
+So yes you can construct a theorem out of falsehoods or contradictions if you like. 
+
+Yes, but with qualification of your terms. 
+
+That is a theorem (do the truth table) and it is built up out of falsehoods, in a manner of speaking. 
+
+What's great about mathematics is that we learn it all in grade school now. It is almost unconscious and seemingly lame now to even discuss it as a revolution; it's the water we swim through now. I think that it is expressed Fresnel's attitude that in La Géométrie, what we get out of Descartes is not the method at all, but simply some handful of clever results (those applications of the method). 
+
+Carvalho, from your explanation, seems to be interpreting these words non-mathematically, or with an interpretation that doesn't match what either Euclid or Cantor meant. The set of natural numbers can be labeled one way, N, the set of evens another, E. Yes, E is a subset of N (there are things in N that are not in E), but also |E| = |N| because of the mapping n in N -> f(n) = 2n, and so f(n) is in E (and you can go back directly, that is there is a one-to-one onto correspondence between N and E, which defines 'same cardinality'. 
+
+There is a question as to why this problem is even being discussed under philosophy when it is a matter of elementary logic/mathematics. Mathematics is a philosophical exercise, it is a pure mental manipulation of concepts, except it comes out of the scientific tradition rather than the humanistic one. Carvalho's difficulty with the problem is just a mature and well-spoken misunderstanding which in the mathematical tradition is only a minor stumbling block to set theory for newcomers.

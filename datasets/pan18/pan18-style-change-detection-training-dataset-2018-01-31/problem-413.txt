@@ -1,0 +1,17 @@
+The problem is that vegetable oils quickly oxidize and get gummy. Think about the residue that accumulates on the bottom and around the cap of a salad oil dispenser. That gummy stuff accumulates dirt and grime and accelerates wear. 
+
+FINALLY: Note that your trike is pretty much (sad to say) a Walmart BSO. In many cases, these are very poorly constructed and assembled - so your axle/chain noise may also come from it being poorly constructed and assembled rather than a simple lack of lubrication. If lubing it doesn't work, you may want to try to take it in to a real bike shop for an overhaul -- and because of its construction, it may in fact (even with professional assistance) be impossible to tune to the point where it operates without noise/friction. 
+
+I would have that bike shop take the crank apart, make sure that the threads are all still intact and then to tighten it to the proper tension and perhaps using the appropriate threadlock if applicable. 
+
+It's very painful -- both at the moment as well as later when trying to get the grease and grime out of the puncture wounds... 
+
+Note that it's very hard to get the requisite torque with an Allen key. I have to use a hex bit in my torque wrench and use some force to get to the right torque. 
+
+Rohloff does have replacement parts but Rohloffs rarely break. Here's one person's take-apart of a Rohloff hub: 
+
+If that doesn't dissuade you, then you should know that Shimano doesn't generally sell replacement parts**. About the only thing that Shimano lets you do is change the oil and the bearings. If the hub is still under warranty, then Shimano will replace it in its entirety rather than trying to fix it. If it's broke out of warranty, then Shimano says: "Sorry, you should have bought a Rohloff." 
+
+For example, my local part supply store has this kit for $14. Just walk into a car parts store and ask for the tire-inflation attachment for your compressor. 
+
+Update: You've clarified you have a Microshift shifter, which is commonly used on Shimano IGHs. Follow Sheldon's instructions on adjustment first before attempting repair. Another valid option is to pretend that your bike just doesn't have those gears and to live with it.

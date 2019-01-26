@@ -1,0 +1,37 @@
+You may want to start with an excellent review by Leonid Kulikov. 2011. Voice typology. In The Oxford Handbook of Linguistic Typology, ed. J. J. Song. Oxford: OUP, esp. pp. 374-380. 
+
+a1400–50 Alexander 5551 And oþir sellis he saȝe at sai wald he neuir. Here's how I would analyse your sentences. 
+
+The authors of CGEL give the following three tests that help us distinguish between adjectives and determinatives in English (note that these tests may not work in other languages, esp. the first test). 
+
+"Doing" in your examples is what Huddleston and Pullum 2002 call an "gerund-participle" since they decide not to distinguish between participle I and a gerund. For instance, from the point of view of generative syntax, in both of your examples, we can see complements. 
+
+Your question is methodologically misconstrued - any hypothesis can be verified or refuted only within a certain paradigm/framework, cf. 
+
+Quirk et al. 1985: an adverbial clause of time, reason etc. 
+
+Determinatives cannot combine with articles (*a this book). Determinatives can be used with a single count NP (one book). Determinatives can be used in a partitive construction (one of them). Note that a word doesn’t need to pass all of those three tests to be considered a determinative – e.g. “one” doesn’t pass the first test (the one problem that remains). 
+
+Yet this is not the case in Chinese. Let's look at where the major lexical categories fit: 
+
+To understand the for-complement clause, it is necessary to look into a bit of history. For was not originally a complementiser in English. Sentences like (1a) originally arose: Whenever you introduce a node in a syntax tree, you should ensure that the material it dominates form a constituent. In your tree, it's not at all clear that 'the founder of' is a constituent. The canonical clause isn't construed as being under modal scopes: I figured I'd give an answer with respect to the languages mentioned 
+
+You wrote about the claim 'that Chinese words can mostly be used as any part of speech.' While the claim is untrue, I can see why people fall for it. Many complex predicates are historically derived from serial verb constructions. This is not only true of the Sinitic family. For example, in Saramaccan (Byrne 1987, as cited in Givón 2009): and thus, since [for + NP + to-infinitve VP] is now a nominal constituent, we can have sentences like this: (3) Restrictions on number: *The latest research on dieting always warns people about the dangers of too much cholesterol of too little sleep. (Can't have more than one complement) 3) Certain fixed constructions: 何 (interrogative word) + Object + 之 (meaningless particle) + 有 (exist), 惟 (only) + Object + 是 (meaningless particle) + Verb 
+
+Cleft: *It is [the founder of] that he is the Church of England. Here are some examples of constructions that would not be allowed in English: There's also a related phenomenon: PPs are often placed after the verb in Classical Chinese. 
+
+2) Negative sentences with pronouns in object position: For example, there is 莫之能禦 (nothing him can stop), meaning nothing can stop him in Mencius and 莫我肯顧 (nothing me {be willing to} {look after}) in the Classic of Songs. As a side note, 之 and 我 are both accusative in Classical Chinese. (This differs from Modern Standard Mandarin, where even pronouns lack case marking.) We start with the following 'Numeration'/'Lexical Array'. I've only included featural specifications (which are given in square brackets) where they will be relevant to the derivation. Note that i'm also going to ignore subject-auxiliary inversion in the derivation. I also use bare phrase structure labelling, so no distinction between maximal projections and intermediate levels. It's not that everything in English is nominative, it's simply that English doesn't have productive morphological case at all - although there are some remnants of the old English case system, such as in the pronominal system, and the who/whom distinction. Lack of m-case is hardly unusual typologically - neither Chinese not Dutch has it, for example. 
+
+(6) [No one] attended the meeting yesterday [but John] 
+
+Since the subject is closer to interrogative C than the object, it counts as an intervener to wh-movement of the object, as attested by the ungrammaticality of (b). (5) ? [No one] attended [but John] [the meeting we all said we would go to] 
+
+English does indeed rely much more on things like word order - generally speaking, languages with rich case morphology are 'non-configurational', which means that they display more flexible word order. English is conversely 'configurational', so it has a more rigid word order. As an aside, languages like Chinese are an exception - it has no case morphology and free word order. We call these 'discourse configurational' languages. 
+
+Note that the exceptive phrase can't appear between the verb and it's object. It can appear here, however, if we just make the object a little heavier, licensing heavy NP shift: 
+
+These variations sound a little odd if not sentence initial: 
+
+Next we merge the subject, 'you', which satisfies the external theta-role of 'invite': 
+
+The derivation of the string aabbccaabbcc is as follows: (i) [Everyone] [except Sally] jumped into the swimming pool (ii) [No one] [except Sally] jumped into the swimming pool (iii) [All boys] [except John] jumped into the swimming pool (iv) ?? [Each boy] [except John] jumped into the swimming pool. (iv) ? [Most boys] [except John] jumped into the swimming pool (v) ?? [Some boys] [except John] jumped into the swimming pool (vi) ? [The team] [except John] jumped into the swimming pool (vii) ? [A group of boys] [except John] jumped into the swimming pool

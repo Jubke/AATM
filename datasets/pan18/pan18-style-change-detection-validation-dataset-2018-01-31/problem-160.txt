@@ -1,0 +1,29 @@
+Lastly, weight is very important when riding over hilly terrain but less important on the flats. However, you stated that you are riding over hilly terrain, so reducing overall bicycle weight might actually make a big difference for you even if it doesn't improve actual mechanical efficiency much: Humans are extremely complicated machines and we only have a very narrow power band, quickly becoming exhausted once we leave this particular "sweet spot" of cadence and load: If your cadence is too high you run out of breath but if your load is too high your body starts using anaerobic power and builds up lactic acid in your muscles, which wears them out. 
+
+TL; DR If you have the money, go look for a decent used road bike (even if it's old, it's likely going to be more efficient than a fancy new mountain bike)-- if not, go look for decent road tires for your current bike. However, no matter what you do, ride your bike at a casual pace because you'll go further without getting worn out. 
+
+However, on some other bikes, the rear rack is merely "clamped" onto the frame: 
+
+Maintenance/repair Although many bike components are more or less standardized to some extent, might I still not need to get some components which are "exotic" to my location, given that the bikes themselves are not sold here?-- having to mail-order a replacement for something which broke unexpectedly would be a tad annoying. 
+
+So, is there a reasonable non-local solution here for me, or might the best solution to simply be to do as the Romans do? 
+
+In the pictures above, the retaining spring is highlighted in red. While the derailleur is stuck in its "open" position, if I gently push the derailleur arm forward with my hand, it then "snaps" closed, keeping the chain properly taut: 
+
+Cycling community What is the atmosphere like in most cycling clubs and at larger competitive events?-- are people in pelotons generally friendly, supportive, etc. or does everyone basically hope the others get hit by a bus so they end up winning? Do people e.g. go for a drink together afterwards? I don't know anyone who cycles as arduously as me, so I'd have to "find" some "cycling buddies", and am not sure how much of the "buddy" part I can expect. 
+
+How feasible is it to install a rear rack and fenders on common vintage road bike frames (e.g. Peugeot PX-8, Raleigh Record/Super Course etc.), and how can it be done, exactly?-- on my "true" randonneur from Motobecane (which is now sadly dead), the frame had eyelets to allow a rack to be installed: 
+
+The second biggest contributor to the bicycle's lost efficiency is rolling resistance, as you seem to already realize; Therefore, getting a bicycle with proper road tires will drastically improve your riding speed and efficiency over riding a bike with heavy-tread mountain bike tires. As a real-life example, I can easily handle 50+ km in a few hours on a 40-year-old ten-speed without really "pushing" myself past my limit but on a mountain bike this would probably kill me. 
+
+What could be causing the derailleur to get stuck in this way, and how do I fix it? 
+
+Bicycles, like many machines, are efficient, but a large amount of energy converted by them is not in fact used for their "intended" purpose: The largest energy sink is air/wind resistance, which you can only very marginally improve on a "normal" bike†. However, wind resistance squares in relation to your speed, so maintaining a more leisurely pace would improve your efficiency. For example, people riding on cross-continental tours actually ride pretty slowly compared to e.g. people riding a road bike for training: They do this so that they can put in longer distances over the whole day rather than pushing themselves as hard as possible for e.g. 5 hours and then being destroyed for at least a day. 
+
+After a very lengthy period of research, I came across what seems to be the only two proper purpose-built luggage racks for road bikes without eyelets which are not light-duty "seatpost racks" (at least on the part of the Web which is in the languages I understand): 
+
+What is a good method for finding a bike which matches my riding style, body measurements and bank account size when not able to actually go and try the given candidate bike model(s) in-person? 
+
+I don't want to quit my day job-- I just want to have some competitive fun with other cyclists, and I don't know if "fun" in itself is a realistic expectation for official competitive events-- is this achievable, or is competitive cycling only for the most gung-ho? 
+
+Fit/sizing However, even after finding a potential choice for me, how can I even know if it fits me?-- I'm not a freak or anything (180cm and ~67kg), but I do know how differently even different road bikes "feel", and so the idea of ordering a bike online sounds like a bad idea to begin with.

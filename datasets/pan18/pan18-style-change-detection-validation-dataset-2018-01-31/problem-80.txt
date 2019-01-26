@@ -1,0 +1,31 @@
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+I just found this which answers all questions! 
+
+Edit: As a side note, I tested Dbemerlin's idea and it does work to right click (Move) all infestors to start getting into range. Basically put: SCVs can repair any Terran structures or any mechanical units. "any" isn't in the original quote but I want to put emphasis on the fact it does not narrow down mechanical units to a specific race. 
+
+And for Infested terrans, you can have those Infestors burrowed and spam the "T" button and left click on the map where you want it. You again, don't need to select the control group again and again and shift clicking will not help at all. Simply T-Click, T-Click, and repeat. Do this very fast to spew out terrans. If burrowed you can move without getting hit typically. Even if they have detection I have noticed they don't seem to target burrowed units until there are no other attacking units in range. So just T-Click very rapidly. Rather, to answer your question, the only way for you to play this map is to either find it in the search engine for custom games online or to publish it yourself. Ideally, you can find it in the search engine online, but there are a limited number of maps that appear in that, so if the map you want to try is unpopular, your only option is to publish it yourself. 
+
+Often the answer to a question of "how do I counter X high tier unit?" isn't so much about countering that unit once it's built, but preventing it from coming out at all. 
+
+What about burrowed Roaches? Will the Sensor Tower still sense those even if it can't sense cloaked units? This Team Liquid forum post goes into great detail about the shortcomings of the current custom map system and the workarounds for it. 
+
+So just use what works for you, but pay attention to when you play and watch replays from when you lose, and if you notice that maybe you used an extra scan that didn't help you learn anything, or if an extra MULE would give you just enough minerals to turn the tide of battle, try to remember those moments for future games. 
+
+Actually, the way Blizzard has custom games working at the moment, it is not as simple as navigating to a folder to select the map. Many view this as a downfall in their current system, but this site is not the place for such arguments. Everyone develops their own style, so you can't exactly say what is the "better" use. It depends on how you use them. 
+
+For example, TLO, a high caliber professional player, uses supply add-ons fairly often, even when not supply blocked, to get the extra 100 short-term minerals to get out an attack just a few seconds earlier. If I see my opponent has a Sensor Tower up, is it still safe to attack with Dark Templar or cloaked Banshees? Will he see them coming on the minimap? 
+
+And for Infested terrans, you can have those Infestors burrowed and spam the "T" button and left click on the map where you want it. You again, don't need to select the control group again and again and shift clicking will not help at all. Simply T-Click, T-Click, and repeat. Do this very fast to spew out terrans. If burrowed you can move without getting hit typically. Even if they have detection I have noticed they don't seem to target burrowed units until there are no other attacking units in range. So just T-Click very rapidly. 
+
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+I just found this which answers all questions! 
+
+Also, you don't need to keep selecing the control group again for multiple fungals you can simply F-Click, F-Click, and repeat. As for triple clicking that is simply something you need to work on. 
+
+I think that covers everything, but I might be missing a thing or two. 
+
+At the same time I also start more unit focus instead of economy focus, and depending on how early I find the proxy (is it still building or is it done and pumping out units) I'll either try to destroy it before units come out, or try to get a bigger army and then kill it. When proxying you are going to be about 15-30 seconds behind in production to get your probe up there, and if I see it early enough, or I was already doing an aggressive build I will have a slightly bigger army than you (assuming our macro abilities are on about the same level) I think you under estimate the amount of micro for Zerg though 
+
+Also for SC2 if you set the graphics setting to "Windowed (Fullscreen)" it will let you instant-alt-tab. It says it may cause a drop in performance but I personally haven't noticed it and the ability to alt-tab instantly is worth any small performance drop unless you're on a really low end system. (I browse the web when searching for matches, and just have "Play in background" turned on for the sound so I can hear when one is found).

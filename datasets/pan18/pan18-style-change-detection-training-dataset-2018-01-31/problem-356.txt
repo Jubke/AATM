@@ -1,0 +1,35 @@
+After talking through the issue with Stephen, and looking at new and more direct photos, it is clear that the derailleur cage or body is misaligned, as discussed in option #1. 
+
+Bent dérailleur hanger, or Bent derailleur cage. (Your derailleur hanger looks straight, but the cage appears slightly twisted in the upper photo. Could be the angle of the shot, though.) Edit: This turned out to be the correct answer, after all. Bent, twisted, or sticky chain link. Badly worn dérailleur pulley wheels. This means there is not enough tooth left to hold the chain on the pulley wheel. (In my opinion this is most likely, but I'd need a photo of the derailleur side on to confirm.) Worn chain. A badly worn chain will slip off the pulleys in this manner, sometimes. Usually, you would also experience slow and noisy shifting in the rear gears. Worn cassette. Usually, you would also experience slow and noisy shifting in the rear gears, not just the pulley derailment, and usually it would be preceded by a worn chain. But it is possible, especially if the chain has recently been changed. You've checked the derailleur hanger, so #1 is less likely. Although I would look at the derailleur cage or body. It really does appear bent in the second photo, unless the derailment is putting outside pressure on it. 
+
+If the chain starts to come off the gears, check the chain at the point where is is coming off. 
+
+A stiff or broken link should jump as it goes through the derailleur. 
+
+Get off the bike, and very slowly pedal backwards while looking at the chain as it passes through the rear derailleur. 
+
+By the way, Shimano refers to it only as a reinforced connecting pin, or replacement connecting pin. 
+
+3) Check that tour derailleur cables are clean and lubes. This can cause a derailleur to sit slightly out of alignment with the cogs in some gears. 
+
+Edited to include troubleshooting steps and conclusion: 
+
+There are a few possibilities here: 
+
+You would see and feel #2 on the repair stand, so I assume that is unlikely, although it's easy to check and eliminate. 
+
+The SRAM chains are designed to work with a master link. If you use that one, it's not reusable, but it comes in a pack of 4, so you can open and close it a few times for cleaning. 
+
+Most likely, you will need to replace the chain. If the chain is new, the link where it was joined may be the issue. In that case gently flex the chain side to side (against the link plates, not in the direction they pivot) at that point and it may free the stiff link. 
+
+A worn cassette is usually preceded by a worn chain, so if your chain is badly worn, you may need to change the cassette as well. Worst case, you may need new chain rings as well, but that is less likely. 
+
+First, chain wear tools are notoriously inaccurate because they rely on very specific conditions, including proper placement in the chain, and a user who is educated on how to use them. They can be used accurately, but commonly are not.Here is an excellent discussion of chain wear and how to measure it accurately. 
+
+Yes, you can, but it leaves the chain weaker on that link. 
+
+Second, Shimano recommends 800-1000 miles on a chain as the point to start looking at replacing it. 
+
+1) Cleaning the cassette took away the gunk keeping a slightly worn cassette from showing. If you use the middle gears most, they may be more worn than the rest. Unlikely, but not impossible. 
+
+Derailleur hanger is confirmed straight by my own DAG. Cage might be twisted. I'll check, and upload a pic with a dead-on shot. It's carbon fiber, though — will CF bend? No sticky chain links. I'll put a new chain on to rule out #2 and #4, though. How would a worn cassette cause the issue, given that this is happening before the chain enters the cassette? – Stephen Touset 42 mins ago A worn cassette can cause the chain to be out of line with the derailleur slightly. It's less likely, but possible. That's why it's at the end of the list. – zenbike♦ 34 mins ago A CF derailleur cage isn't likely bent, but the derailleur body might be. In the photo, it looks twisted to the outside, so check whether the pulleys run parallel to the cogs when there is no chain on it. Only your outer plate in carbon.If the inner plate is bent or twisted, the CF plate has enough give to move with it. – zenbike♦ 32 mins ago More pics uploaded. In the rear pic, the chain on the bottom derailleur looks a bit to the right, but this seems to be that the chain is just pushed all the way to one side of the teeth. There is about +/- 3˚–5˚ of play in the jockeys. Normal? – Stephen Touset 21 mins ago Actually, the play is normal, especially in th upper pulley. But that derailleur cage is not aligned correctly. The cog of the gear it's in, and both pulleys should make a straight line, as perfectly vertical as possible. In that photo, ignoring the chain, the upper pulley is twisted slightly toward the frame, and the lower is even farther out of line. It is still possible that it is the angle of the photo, but it doesn't appear to be. You're also showing wear on the derailleur pulleys, if not nearly as bad as in the photo I posted. I'd say it's time for a new rear dérailleur. The cage itself should be parallel to the cogs, and that isn't the case either. – zenbike♦ 13 mins ago One question: Have you recently disassembled the derailleur? Is there more float side to side in the lower pulley than in the upper? – zenbike♦ 8 mins ago No to disassembly. Much more float in the upper pulley than the lower. Looks like you're right with the alignment. New derailleur time. Anything I can do in the meantime to minimize the chance of problems this weekend? As in, what should I try and bend to correct the misalignment as best I can? – Stephen Touset 8 mins ago Ok. Well, you can try to bend the cage back in to alignment. If you take the photo you posted last, and lay a ruler through the cogs, it should pass through the points of the teeth of both pulleys. That's the goal. If its the derailleur body, trying to bend it back may make it worse, but given the problems you have, I'd try. Worst case, hit your LBS for a new one before the race. – zenbike♦ 3 mins ago Thanks a bunch. If you'll edit your answer to include the latest conclusions, I'll be glad to accept. – Stephen Touset 1 min ago

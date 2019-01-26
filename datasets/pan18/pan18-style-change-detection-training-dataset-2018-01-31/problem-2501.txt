@@ -1,0 +1,19 @@
+In the case of quartus, -t- is an adjectival suffix. It is possible that at some point a form *kwat(w)rtos existed in Proto-Latin. If so, dissimilation may have been the main cause of the metathesis: a t sound twice, especially combined with a w sound twice, tends to disappear or transform in Latin, as in many other languages. 
+
+There are two theories about the origin of the Germanic word, which is still uncertain: 
+
+Alternatively, it may just be that the consonant cluster *-t(w)rt- was too "difficult" to pronounce, i.e. not conforming to Latin phonology, and hence transformed/simplified into -rt-. But I do not know the intermediate stages. 
+
+Latin nepa was borrowed from an African language (according to Festus, p. 163): 
+
+The Latin suffix -men is related to Greek -ma as in comma, stigma, telegram[ma], etc.. It is quite common in Latin, as in limen, gen. liminis (English sub-lime), omen, nomen. It probably existed in Proto-Indo-European already, since it also exists in Germanic and Slavic; the ancestor of semen was probably formed in Proto-Indo-European, not in Latin. 
+
+It is true that opse was used as a preposition meaning "after", even in Antiquity, if we are to believe Liddell-Scott-Jones, which is a highly reputable source: 
+
+So it was an idiomatic development in older Latin. Because uncia was mainly the smallest unit of weight in early Republican currency, perhaps the smallest unit was simply called "one-ness" or "unit". 
+
+Brouillon du texte paru in Françoise Bader (éd.), Langues indo-européennes, Paris, Éditions du CNRS, 1994, 43-64: p. 53: 
+
+A chart of the history of the evolution of Proto-Indo-European, with approximate/hypothetical dates. 
+
+Note that uncus is apparently related to unguis "claw" (v. Meillet) and to English ungulate, anchor, and angle (all from Latin), and to English "nail" (from Proto-Germanic, v. Walde). The Proto-Indo-European root was apparently something like **-nk-*, "bend" (Oxford English Dictionary); in some languages, a "vulgar" vowel like u- was prefixed (Meillet: "populaire"), resulting in uncus etc.

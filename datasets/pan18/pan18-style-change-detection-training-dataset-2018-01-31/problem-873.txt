@@ -1,0 +1,13 @@
+Provide commenters with feedback on deleted comments - perhaps a system message in the inbox detailing which comment was deleted: 
+
+Friendly comments are perfectly fine IMO. No reason to get rid of them. The team has a way to track how the solution works, and what kinds of comments are being emitted this way. Permanent comments could be highlighted slightly. To avoid bloodshed, when introducing this feature, make all existing comments permanent; apply the new rule to new comments only. Show banners and warning messages to inform users about the new behaviour. 
+
+Flagging is great for truly offensive content, but not an effective tool against snark. What if I don't want to destroy what's being said, just express my discontent with it? In addition to the standard Markdown, please also accept an alternative notation for linkified text, for example This functionality does not add anything dangerous that you can't do already. It just helps automate a terribly, terribly dreary task and this is needed! Let's face it: We have 4,000 new questions a day, and not enough users, time, nor the inclination to deal with every one on an individual basis. That includes comments about frequent mistakes in posts. Either we use an automated tool to deal with the most common patterns (like in PHP, the eternal "you are not escaping your mySQL data. Use prepared statements or escape your input using ....."), or many mistakes will simply go uncommented. 
+
+The collection of usage data and the possibility to do queries like "how often did users insert the xyz pro-forma comment?" can be helpful for future UI decisions, or for fine-tuning the FAQ. 
+
+Like the number of total comments, the number of permanent comments per day could be limited to prevent abuse of the "make permanent" feature, especially in heated discussions. 
+
+Start writing a comment somewhere on a SE site. (Tested on Meta and SO.) 
+
+If that's the case and you guys are drowning in comment garbage, then make yourself heard and complain. As it stands, this looks like one moderator's take on the issue. That is of course incredibly valuable insight in itself, but do the other mods feel the same way? If they do, they should all chime in and say, "this needs to change."

@@ -1,0 +1,21 @@
+For anybody who might care about how dependable this kind of coding can be: if you make a phone call to, from, or through almost any part of Europe, there's a pretty good chance that it's being handled (at least in part) by code that does exactly this. 
+
+It is possible, of course, to create instances with different values though -- you (for example) pass a value when you create the object, so two different objects can have two different values. If, however, you try to do something like swapping them, the const member will retain its original value instead of being swapped. For example, let's assume I'm writing a generic algorithm: 
+
+Given an iterator, is it possible to retrieve/use the correct comparison function for the collection that this iterator refers to? Some consider this a nasty hack, and tell anybody who will listen that it should be avoided. One commonly cited problem is the difficulty of ensuring that objects of the class are only ever allocated dynamically. Others consider it a perfectly reasonable idiom, and use it all the time. Personally, I'm somewhere in the middle: I rarely use it, but don't hesitate to do so when it seems to be the right tool for the job. You cannot forward something more than once, though, because that makes no sense. Forwarding means that you're potentially moving the argument all the way through to the final caller, and once it's moved it's gone, so you cannot then use it again. *) as long as one of the involved types is user-defined, I suppose. 
+
+Assume that every line consists of two numbers and read token by token: About the only real use for pointers is direct memory manipulation. Since Java doesn't want you to do that (and in fact its garbage-collected memory management would actively interfere with and be broken by manual memory manipulation), there's no need for explicit pointers. 
+
+Does the standard have to say anything on this matter? Portability and serialization are orthogonal concepts. 
+
+Use it like your first example: 
+
+In general, you should pass the shared pointer as a straight copy. This gives it its intended semantics: Every scope that contains a copy of the shared pointer keeps the object alive by virtue of its "share" in the ownership. Check you are including all the source files within your solution that you are referencing. 
+
+Also, if anyone knows how _ftime works please let me know. UPDATE: To clarify, I am asking why this is the case. I'd suggest implementing a method that formats the contents of the object as a string. Then you can log it using any number of mechanisms. 
+
+I was rather surprised to learn that I couldn't forward declare a class from another scope using the scope resolution operator, i.e. 
+
+Without an extra signalling mechanism using something like named pipes, there is no way of safely signalling that a shared memory block is In my MFC program I am using a splitter to create two panes. I now want to split one of these panes in half again and put in another view, can someone talk me through how to do it or point me in the direction of some code? 
+
+If you are looking for something that dynamically creates a format string you can do that in any number of ways. You can't just dump an arbitrary object if you want it to be human readable.

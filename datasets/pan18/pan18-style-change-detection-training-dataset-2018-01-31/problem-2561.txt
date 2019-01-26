@@ -1,0 +1,23 @@
+The same phenomenon is observable with floating quantifiers, e.g. 
+
+That the phenomenon is left over from Proto-Indo-European is doubtful, since Indo-European languages with rich case systems do not have the division. One way to understand presuppositions is to consider the predicates that sentences contain. Sentence (1a) contains two predicates, each associated with a separate proposition: 
+
+Part of the/a explanation to the question is provided in librik's comment and part in Jlawler's comment. The disappearance of morphological case from English and French has led to the divergence of the two groups of pronouns. Languages with rich case systems do not have the division, e.g. German. 
+
+I therefore think one can be confident about the following statements: 
+
+The situation is no different in other areas of grammar. The inventory of semantic roles (thematic roles) assumed varies from one grammarian to the next. The inventory of adjunct categories (causal, concessive, temporal, manner, etc.) also varies from one grammarian to the next. Why should it be any different for the inventory of aspects that the grammarian posits? 
+
+The plural demonstrative pronouns (these and those) behave differently. They can take postdepndents (=postmodifiers, i.e. a modifier that follows them), e.g Concerning examples with what, I think what often functions basically just like which, e.g. What apple do you have? = Which apple do you have?, What ideas is he promoting? = Which ideas is he promoting? In these examples, both what and which are functioning as interrogative determiners. On an NP analysis of noun phrases, they are predependents of the nouns that they introduce. 
+
+The scope of logical elements (including modal verbs and adverbs) is, in my view, one of the least understood areas of the syntax and semantics of natural language. As TKR points out in his comment, word order is not necessarily decisive for determining scope relations. The interrogative word how is often a predependent of an adjective. It is asking for the relevant degree associated with the property expressed by the adjective, e.g. how big, how loud, how helpful, etc. These are relatively straightforward adjective phrases (APs), as pointed out in the question. I do not see anything mysterious or unusual about them. 
+
+It sounds to me like you are not yet near being in a position to select a dissertation topic in linguistics. Locating a good dissertation topic depends on a number of factors. In particular, it should be something that your/a thesis advisor and dissertation committee have at least some understanding of. A good dissertation topic will fascinate you. To know what fascinates you in linguistics, you will have gained exposure to a number of subfields. You then probe for a good topic in the particular subfield that you find most interesting. 
+
+In sum, acceptability judgments are often not black-and-white, but rather two or more principles of subject choice can be in competition, reducing acceptability to a greater or lesser extent. Someone who has mastered the language knows how to avoid the competition by using alternative formulations or how to use it to his or her advantage in order to create the desired effect of unusual or marginal language. Whoever wrote the question is valuing the one criterion more than these others. They are taking the fact that found modifies the noun whale like an attributive adjective would as decisive. In so doing, they are shortsighted and ignoring the verb-like qualities of found. 
+
+In sum, keep is an aspectual (subject-to-subject) raising verb that expresses iterative/durative meaning. 
+
+An appropriate umbrella term that subsumes both resultative adjuncts as well as depictive adjuncts is participant-oriented adjuncts: clean, silly, into a mediative state, drunk, and angry are all participant-oriented adjuncts because they assign a property to one of the participants in the sentence. But the analysis of examples like what a beautiful child are indeed more challenging. They are challenging because it appears as though the noun child takes two determiners, what and a. This seems to be a particular idiosyncracy of what. Other interrogative determiners are incapable of doing the same, e.g. *Which a beautiful child. 
+
+The combination plural demonstrative pronoun + restrictive relative clause can actually be viewed as a particular construction in English and related languages. That is, it is a combination that occurs relatively frequently and has therefore been lexicalized. German has a very similar construction, e.g.

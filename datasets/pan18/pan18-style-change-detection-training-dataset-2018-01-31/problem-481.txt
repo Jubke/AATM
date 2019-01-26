@@ -1,0 +1,37 @@
+Have a look at Crowdspring. They have several categories for crowd-sourcing Writing Projects. 
+
+First, consider the opening paragraph. It is a good example of "purple prose"; as you suspect, it appears to be far too descriptive and flowery. Let's break it down: "The sun peeked out", "he watched the first rays of sunlight grace the Earth", "the clouds become lit with a fabulous, warm light", "the lush mountain vegetation", "lit up brighter than a fiery inferno", "His nostrils filled with the sweet smell of fresh dew", "his ears with the sound of happy twittering", "autumn leaves in the street dancing around in the air like wild butterflies". 
+
+Forgetting something like that is a huge deal. Reporters will be throwing questions at him like, "Is the Economy not important to you, Mr. William?", or "Do you not care about people struggling to make ends meet, Mr. William?" Maybe there's protesters shouting out pithy slogans. If you focus on showing these things, the reader gets a better understanding of what's happening: they'll see it went wrong, they'll see there's a huge angry crowd. The way you've written it, I know nothing of the speech, and nothing as to why the crowd were angry. 
+
+Orson Scott Card answers your question precisely and eloquently in his excellent Character and Viewpoint, under the heading One Name Per Character. Go, read. 
+
+There is a lot of nuance to "show, don't tell," and it's certainly a guideline that can be misunderstood or abused. (The idea that you should "show, don't tell" for everything is a common misinterpretation; knowing what to show and why is an important skill.) But, this question isn't asking for a full explanation of "show, don't tell," it's asking why it's such popular advice. 
+
+And the answer is, because it's one of the major things beginners get wrong. 
+
+But, when the problem is not "This is wrong", but rather "something's missing," then you get a refrain that's in common use. 
+
+My tip here is to set up such questions clearly and explicitly - make the reader anticipate the answer before he gets it (if he gets it), rather than giving it to him in the expectation that he will appreciate the added complexity. 
+
+In the first part, you mention "He sat silently, thinking about his upcoming speech", something else that Palahniuk picks on, namely don't leave your characters alone: 
+
+First, consider the opening paragraph. It is a good example of "purple prose"; as you suspect, it appears to be far too descriptive and flowery. Let's break it down: "The sun peeked out", "he watched the first rays of sunlight grace the Earth", "the clouds become lit with a fabulous, warm light", "the lush mountain vegetation", "lit up brighter than a fiery inferno", "His nostrils filled with the sweet smell of fresh dew", "his ears with the sound of happy twittering", "autumn leaves in the street dancing around in the air like wild butterflies". 
+
+Forgetting something like that is a huge deal. Reporters will be throwing questions at him like, "Is the Economy not important to you, Mr. William?", or "Do you not care about people struggling to make ends meet, Mr. William?" Maybe there's protesters shouting out pithy slogans. If you focus on showing these things, the reader gets a better understanding of what's happening: they'll see it went wrong, they'll see there's a huge angry crowd. The way you've written it, I know nothing of the speech, and nothing as to why the crowd were angry. 
+
+And the answer is, because it's one of the major things beginners get wrong. 
+
+The point I'm making here is: "show don't tell" is hardly the only tool in writing teachers' arsenal; it just stands out disproportionately, because it's a single solution/guideline for many, many unrelated issues. 
+
+Orson Scott Card answers your question precisely and eloquently in his excellent Character and Viewpoint, under the heading One Name Per Character. Go, read. 
+
+My tip here is to set up such questions clearly and explicitly - make the reader anticipate the answer before he gets it (if he gets it), rather than giving it to him in the expectation that he will appreciate the added complexity. 
+
+There is a lot of nuance to "show, don't tell," and it's certainly a guideline that can be misunderstood or abused. (The idea that you should "show, don't tell" for everything is a common misinterpretation; knowing what to show and why is an important skill.) But, this question isn't asking for a full explanation of "show, don't tell," it's asking why it's such popular advice. 
+
+But, when the problem is not "This is wrong", but rather "something's missing," then you get a refrain that's in common use. 
+
+Complexity Evolves: The longer you spend in a single mileau, the more details and history you build up, even if it begins simply; complexity can easily evolve by continuing to extrapolate past elements into new stories, and playing existing elements off against each other. 
+
+A good example of this is the honored tradition of science fiction detective stories, like many of Asimov's robot stories. Science fiction introduces new worlds, with imaginary concepts with imaginary rules, that the author might desperately need the reader to understand completely. If the story is an investigation story, why then, the protagonist is exploring the world by his very job description. All he does in the story is explore the world; understand the rules; figure out how everything works. That's a great way to take a lot of details that might not interest the reader - e.g. how the Laws of Robotics work - and make them interesting - e.g. by having a murder investigation hinge on clever manipulations of the Laws. This is also basically what Dan Brown does - it's not an art&history lesson, it's a treasure hunt for a dastardly conspiracy! WE MUST DISCOVER THIS INFORMATION! IT'S REALLY IMPORTANT AND INTERESTING etc.

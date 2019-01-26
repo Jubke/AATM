@@ -1,0 +1,29 @@
+It's not directly part of answering your question, but the next paragraph from the WUSTL's page is also interesting (emphasis mine): 
+
+“We did not develop evidence of that,” the F.B.I. director said. 
+
+Basically, unless the ability of other people to marry has some detrimental affect on your legal rights, you have no standing to sue. 
+
+States would be able to use funding to increase academic opportunities for students, hire new faculty, and provide professional development opportunities for professors. 
+
+The Articles of Confederation had, as clause XI: 
+
+Presuming this is an accurate transcription of what Comey said, it's clear that he believes that there was no intent (or at least not enough evidence to show it), and that demonstrating that there was intent would be required to successfully prosecute. Likewise, Clinton herself is not subject to any form of discipline other than prosecution, as she is no longer a State department employee and (presumably) no longer has an active security clearance to be revoked. 
+
+“They better not – that’s one of the reasons I’m talking about this,” Mr. Comey said. He added, “There will be discipline from termination to reprimand and everything in between for people who mishandle classified information.” (ref) 
+
+The only time this would get weird is if the current Vice President ran for President, won, and the current President died between the election day and the VP's inauguration day. In that case, following the rules of succession, the VP would be sworn in as President immediately (without a formal inauguration), to serve out the remainder of their predecessor's term. Then they would be sworn in again on their own inauguration day. (This would not prevent them from running for a second term in their own right, since the few weeks would be less than the "more than two years" specified in the Twenty-second Amendment. 
+
+Update 7/7, after a Congressional hearing As of yet, I haven't seen an official transcript to cite from, but this live blog from the New York Times appears to have two relevant direct quotes (emphasis mine): 
+
+It's a matter of opinion as to whether or not you agree with him on these points, but those are his stated, official reasons. Likewise, he was not asked to recommend sanctions (presumably because she is no longer a government employee) - he was only investigating whether there was enough evidence to support filing charges. 
+
+Anything beyond that could spark a constitutional crisis. These tend to be resolved by whoever is most dedicated to their interpretation or who can apply the most force. It's possible it would end up before the Supreme Court, but unless someone's proposed solution was wildly outside the implied default of the VP acting as or becoming President, that's unlikely 1. 
+
+As for addressing it, in Hollingsworth v. Perry SCOTUS decided that you don't have standing to sue the government for its decisions simply because you voted for or championed a given cause. The details are on that wikipedia page, but it boils down to this (my interpretation): "If you can't show how you, personally, were or will be harmed by the law, you can't sue to stop it. 
+
+So in other words, the Chief Justice always decides who will write the opinion for the side he favors, but he doesn't always write it himself (that would be a lot of opinions for one person to write), and he also doesn't decide who writes the other side's opinion. 
+
+Mr. Hurd, like other Republicans, raised the question of precedent, asking whether the decision not to punish Mrs. Clinton sent a message to others in the government who handle classified information. He asked whether an employee of the F.B.I. should have a private server. 
+
+(2) An individual acting as President under this subsection shall continue so to do until the expiration of the then current Presidential term, but not after a qualified and prior-entitled individual is able to act, except that the removal of the disability of an individual higher on the list contained in paragraph (1) of this subsection or the ability to qualify on the part of an individual higher on such list shall not terminate his service.

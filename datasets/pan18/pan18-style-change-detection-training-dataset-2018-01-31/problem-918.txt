@@ -1,0 +1,35 @@
+Viewing the stars tab for Tavern on the Meta, the first item is a link to Jeff's blog about his leaving, but it doesn't get linkified like it does in the normal list. It should display as: 
+
+I've drawn a single 1px line through both sides using the other side's color. Can you see it? ^_^ 
+
+So an edit to the question is made and the edit includes a title change. When I click the little grey box that pops up, it loads the edit. When it's on a question and there is a change in title, should it not also load the new title? This is especially annoying when the only edit that was made was the title. Clicking the box loads... nothing new... why did I have to click the box again? Here's an image, since apparently this is not an issue for everyone: 
+
+Perhaps this will make it easier to see how close together the colors are: 
+
+…d enthusiast programmers</b>. It's 100% free, no registration required.</p></p> This error is the only one preventing the front page of Stack Overflow from being "valid" HTML5. There are several things that could cause an item to not show up for you in review, but still show up in the total per-site count. It could be that you've already reviewed the item and it's still waiting to be completed, you could have skipped it, or you could have previously taken action on the post in question that prevents you from being able to review it. 
+
+It won't, at least not always. The review indicator in the top-bar is not calculated on a per-user basis, but on a per-site basis. The counts in the review queue itself are calculated on a per-user basis. The top-bar indicator also won't always be accurate because it's cached. 
+
+This seems to be somewhat specific to the font used on Android, it is still bold for me but less noticeable than on other sites (this might look different on your computer, though). To actually remove or edit the expression we need an SE employee. Suspension is the only option moderators have available to stop someone from abusing flags. So they should certainly stop a user from flagging, else there would be no defense at all against abusive flagging. I suspect that there might be some error in the calculations here. 
+
+The review page for the suggested edits at 
+
+The absence of the Biology site there goes a long way to explaining why nobody subscribes to the newsletter. 
+
+The percentage of users that committed to the proposal and then joined the beta, displayed in the right sidebar on Area 51, shows 0% for all the older proposals. I was looking at some other proposals to compare the statistics to the recently failed proposals and noticed that some values looked pretty unrealistic. I just noticed that questions appear multiple times in my tag filter on stackexchange.com: Is that page disabled on beta sites or am I missing something else and I am not supposed to see it? 
+
+Unlike the other places where the user mail address is shown, it is shown by default without moderator interaction here. Usually there is an explicit second click required to show PII. 
+
+There's really no reason to show the mail address here at all for regular moderators, so it might be the easiest way to just not show it at all. Otherwise it should have the same click-through like everywhere else. 
+
+Viewing the stars tab for Tavern on the Meta, the first item is a link to Jeff's blog about his leaving, but it doesn't get linkified like it does in the normal list. It should display as: Am I expected to actually copy-paste a link? That's a lot of effort, you know. It won't, at least not always. The review indicator in the top-bar is not calculated on a per-user basis, but on a per-site basis. The counts in the review queue itself are calculated on a per-user basis. The top-bar indicator also won't always be accurate because it's cached. Perhaps this will make it easier to see how close together the colors are: I've drawn a single 1px line through both sides using the other side's color. Can you see it? ^_^ 
+
+There are several things that could cause an item to not show up for you in review, but still show up in the total per-site count. It could be that you've already reviewed the item and it's still waiting to be completed, you could have skipped it, or you could have previously taken action on the post in question that prevents you from being able to review it. 
+
+Here's an image, since apparently this is not an issue for everyone: 
+
+…d enthusiast programmers</b>. It's 100% free, no registration required.</p></p> This error is the only one preventing the front page of Stack Overflow from being "valid" HTML5. 
+
+So an edit to the question is made and the edit includes a title change. When I click the little grey box that pops up, it loads the edit. When it's on a question and there is a change in title, should it not also load the new title? This is especially annoying when the only edit that was made was the title. Clicking the box loads... nothing new... why did I have to click the box again? I just noticed that questions appear multiple times in my tag filter on stackexchange.com: Is that page disabled on beta sites or am I missing something else and I am not supposed to see it? There's really no reason to show the mail address here at all for regular moderators, so it might be the easiest way to just not show it at all. Otherwise it should have the same click-through like everywhere else. 
+
+Unlike the other places where the user mail address is shown, it is shown by default without moderator interaction here. Usually there is an explicit second click required to show PII. The review page for the suggested edits at The percentage of users that committed to the proposal and then joined the beta, displayed in the right sidebar on Area 51, shows 0% for all the older proposals. This seems to be somewhat specific to the font used on Android, it is still bold for me but less noticeable than on other sites (this might look different on your computer, though).

@@ -1,0 +1,17 @@
+Combat itself is relatively straightforward - single tap repeatedly to perform your Pokémon's basic attack and to charge up your secondary attack, and then long-tap (hold down) to use your secondary attack once it is charged. You can also swipe to the left or right to dodge the enemy's attack, although this is a bit finnicky and the timing can be a bit tricky to get right. Beyond this, the results of a Pokémon battle differ depending on the two types of gyms: 
+
+The two separate cases I used to come to this conclusion are as follows- 
+
+Obviously this is only two cases, so drawing conclusions based off of such a small sample size isn't ideal, and I will try to find more examples that can help shed light on this relationship. If anyone has any contradictory examples please post them, as it would definitely help clear this up. 
+
+The tests I conducted showed that yes, weight (and possibly height) are relevant to a Pokémon's stats. From what I saw, for two Pokémon of the same CP, the one with higher weight will have higher HP. This means that it is more important to hold on to Heavier (XL) Pokémon and place less emphasis on raising XS Pokémon. I did not focus on height when I pulled my sample together, but there is no clear trend across the two examples I used, its effects will need to be looked into further. 
+
+The amounts shown for HP differences may seem small, but keep in mind that this is at very low CP levels, so I expect the effect to be more noticeable at higher levels. 
+
+Freekvd's answer covers the basics of gyms, but I think leaves out some important details with regards to Gym mechanics, I have tried to be more thorough in this answer. 
+
+Edit: I'll post the additional cases tomorrow, but I have found four more examples where a higher weight Pokémon of equal or lesser CP has a higher HP than its smaller cousin. 
+
+I don't believe that you can receive Lures, Incubators, Lucky Eggs, or Incense from Pokéstops, and that you must either purchase them from the store or receive them as a reward for leveling up. I don't have any evidence other than anecdotal at level 20 with 1000+ visited Pokéstops. If anyone has any counter-evidence please post it! 
+
+Second Case: I had one sparrow of CP level 77 and another at a lower CP level, but with an (XL) tag for it's weight. I upgraded the lower one to CP 75, and discovered that the (XL) Pokémon had more health than its smaller cousin (who was two CP levels higher). This certainly offers more support in favor of weight factoring into a Pokémon's HP. Interestingly in this example the height increased along with the HP/weight, arguing against a negative correlation.

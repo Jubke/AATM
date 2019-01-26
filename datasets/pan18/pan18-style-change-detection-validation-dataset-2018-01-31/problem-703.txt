@@ -1,0 +1,39 @@
+The library/test is small, so I don't have require much other than a lot of main memory. I would like to be able to flush any pending data in a DeflaterOutputStream and read it in a InflaterInputStream. However, it appears that flush(), doesn't do this. Is there another way? 
+
+From com.sun.org.apache.xml.internal.serializer.Version; Do you have any suggestions on how I could do this testing without buying my own server with 96 or 192 GB? Memory barriers guarantee that the data cache will be consistent. However, does it guarantee that the TLB will be consistent? 
+
+I am seeing a problem where the JVM (java 7 update 1) sometimes crashes with memory errors (SIGBUS, SIGSEG) when passing a MappedByteBuffer between threads. 
+
+I wouldn't use a List in the first places as an EnumSet is more approriate but you can do Can anyone confirm if this is true? The differences are listed in the Javadoc for ListIterator For performance, it usually best to make the code as simple and clear as possible and this will often perform well (as the JIT will optimise this code best). In your case, the simplest examples are also likely to be the fastest. 
+
+For those interested I used the following options. 
+
+I feel like I am missing something. I can only assume this is generated code. ;) 
+
+A good example of this casting is using *= or /= 
+
+BTW: It is hard to find a simple example, if you try 
+
+If you want these bad keys/elements to hang around you can use a static field like 
+
+Note: the offsets are incorrect by a factor of 8. As the heap size was small, the JVM doesn't multiply the reference by 8 like it does with a heap which is larger (but less than 32 GB). This follows from the idea of Project Coin From the Javadoc for XMLGregorianCalendar I came across this method in the JDK Has anyone come across this problem? Are there any guarantees about TLB and memory barriers? Performance wise, the first is best. If you know for sure that you won't get an overflow you can use 
+
+Can you add comments if you have a reference on why this is a bad idea or a good idea if you have one? Enum is Comparable which means you can have 
+
+I have looked at Apache Commons Compress and the only stream which flushes the data is XZCompressorInputStream but in doing so, the data is about 50% larger than not compressing. I have an open source library which is designed to support very large collections efficiently. I have tested it on my PC with 24 GB but would like to test it on much a larger system, up to 1 TB. Most hosting solutions don't support this sort of memory sizes and I only need access for brief periods of time. 
+
+I have found the problem. It was a memory layout issue but I could see a simple way to resolve it. ByteBuffer cannot be extended so you can't add padding so I create an object I discard. Does anyone know why the numbers 0.001 to 0.009 are rendered to a String with a trailing 0 but other numbers do not. e.g. numbers 0.01 to 0.09 do not. 
+
+In the following example, one thread is sending "messages" via a ByteBuffer which is the consumer is taking. The best performance is very good but its not consistent. 
+
+Is there anything which might give the higher performance more often? It looks like a cache collision but I can't see where this could be happening. I am using Oracle JDK 8 update 112. My dev machine has 16 cores and 128 GB of memory. 
+
+EDIT: Using synchronized with wait and notify makes the result much more consistent. But not faster. Loops are also very useful to learn about, esp When using arrays, I am building a Javadoc for a module with 2,509 classes. This currently takes 7 min or 6 files per second. 
+
+What I have tested is a collection of 500 million objects with 12 fields the full GC time is below 0.11 seconds. I have another test were it stores 128 billion elements with just one bit. The Enum collections have O(1) access times, but are not Navigable 
+
+Can anyone help me with some references on this topic? 
+
+It doesn't run forever. Each stack overflow causes the code to move to the finally block. The problem is that it will take a really, really long time. The order of time is O(2^N) where N is the maximum stack depth. 
+
+In the following example, if I have multiple types in the list it compiles ok, but if I have one element, it chooses a different type which is no longer assignable. I have written a page here on using arrays as proper objects with their own methods instead of relying on helper classes like Arrays, Arrays and ArrayUtils.

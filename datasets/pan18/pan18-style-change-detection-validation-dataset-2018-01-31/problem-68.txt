@@ -1,0 +1,23 @@
+As of Patch 2.0.1, the below answer is out of date. Rare items no longer need to be identified. Legendary items still do, though. Just right click them to reveal which item you've discovered. 
+
+From the Blizzard Auction House FAQ: For example, if there is a base 5% chance to find a magical item off of a normal creature, +3% is a nice boost but nothing worth writing home about. However if the base chance is only 1%, I can easily quadruple my chances of getting magical loot with a simple +3% shield. 
+
+This does have some downsides, including that upgrades can feel a little sparse between the latter levels before cap (66-69). However, in this situation, we felt the benefits outweighed the detriments and it keeps the element of randomness that we feel is core to the Diablo experience. We want to ensure there is a chance to find an amazing top tier item the moment you ding 61 and get to hold on to it for hours if fortune smiles upon you, though that may mean it takes a little longer to find an upgrade for that particular slot. 
+
+I tried to paraphrase this so it was a little more understandable, but here's the explanation in the words of a blue poster over on the diablo forums: The one notable exception to this rule is "meta-achievements", the criteria for which are to complete a group of other achievements that are typically related to one another. These are usually worth more than 10 points. If the latter, what qualifies as bonus experience? Just +XP per kill? What about NV stacks? What about a ruby in your helm? 
+
+Ghom - will begin spawning 'Gas Clouds' more frequently after four minutes. This question is ultimately down to how much you play, there are already answers both for and against you making back the cost of Diablo 3 on this question. 
+
+Fundamentally though, the cheat-death effect of Spirit Vessel is more of a proc than a cooldown. This is backed up in the many build discussions around the use of these abilities together, including this quote: The following skills are Signature spells: 
+
+Contact Phone - 1 (800) 592-5499 Your only solution in this instance will be to contact Blizzard support via phone - they will need to verify who you are and then they'll be able to update these details on your account so you can regain access. In terms of the achievements, not getting hit means not taking damage. Using abilities like Smokescreen (pure immunity) counts, Diamond skin (absorption) also counts, dodging counts. Block does not count. In the case of block you're only reducing the damage taken rather than avoiding it. In version 1.0.2 (current at the time of writing) with a full five stacks of Nephalem Valor, you are guaranteed two rares from a "Boss" (superunique) kill in addition to greatly increasing the chance that others will drop due to the additional magic find bonus. From the best I can make out of this blue post via MMO-Champion the contact details you need to use will be one of the following; However these critical hits do not appear to trigger the effects of the Night Stalker passive. 
+
+It varies from recipe to recipe. Level 60 legendary recipes will be item level 60+. Level 60 rares from recipes will also have an item level within this range. The items you learn while levelling blacksmithing are lower than this range so without collecting recipes you will not be able to make any worthwhile end game gear using your blacksmith. You can make a very strong case that for the majority of users buying gear from the AH will put you further ahead as opposed to levelling up the blacksmith. 
+
+Further into the game, during Act II, he again mentioned books about his order and a willingness to share them. However, this relies on the prices in the auction house remaining low. This should be a safe, long term assumption as the supply should outpace the demand assuming people resell items they purchase. 
+
+Are they strictly a plot device and don't actually relate to any game items? 
+
+In the long term, dependant very strongly on your luck in crafting equipment with the stats you are hoping for, the blacksmith may become your better source of equipment as the best Legendary items will almost certainly be absurdly priced. 
+
+The advice to use an authenticator was repeated in a cut and paste response a few hours after the original post, and again a day later. The assertion that no authenticator enable account has been hacked was reiterated in a response to a user here. Crafting equipment has always entailed some risk. In Diablo 2, the best players would hoard perfect rubies to try to create "Blood" gear (items with strong life leech). If your build calls for such a piece then it may be the small advantage you need to start succeeding in Inferno.

@@ -1,0 +1,25 @@
+One assumes that the “actuality” you refer to is the completed “totality” of an infinite collection. 
+
+EDIT (Sep 11, '13): When I say that the diagonal argument is a method of proof and so does not conclude anything, I mean to point out that the diagonal argument is an argument used to prove dozens, if not hundreds of mathematical results in many areas of mathematics. 
+
+Cantor's result can be proven in ways that employ neither diagonalization nor the reductio-ad-absurdum method. Diagonalization is the popular method of proof because it is the most elegant and intuitively clear. Cantor originally proved the result using an different reductio argument involving nested intervals. An example of a non-reductio proof is given by what is called The Measurement Argument. 
+
+The subjective interpretation of probability implies that there are no objective facts about probability, only what people believe. For example, I could say that there is a high probability that the big bang model of creation is true, while you could say that there is a low probability that it is true. Neither of us would be right or wrong. We are simply stating how strongly we believe the statement. This interpretation of probability is not saying that there is no objective fact that determines the truth of the statement, only that there is no objective fact about how probable it is. It is in this context that, as you say, “it makes no sense to assign a probability”. 
+
+Regarding Aaronson’s apparent non-Platonist comeback, it is possible to read this in another way. Not as a non-Platonist statement, but as a request to the ZFer to justify her objection. We know that LEM is not applicable within the confines of ZF (i.e., Godel’s Incompleteness result, undecidability of CH, ..?.. etc). 
+
+Let’s say our ZFer says : OK Scott. I accept that God is not a deceiver and that GC is independent of ZF. But maybe God is not telling you the whole truth. Maybe God knows that GC is fully ZF-undecidable and is only telling you half the story in order to test your capacity to reason. Maybe ¬GC is also ZF-independent. Since I am only willing to accept ZF-provable propositions, I reject your argument. 
+
+When considering a mathematical result it is important to place all terms in the correct context. Cantor's diagonal argument is a method of proof, so it does not "conclude" anything. It is neither a paradox nor a theorem. 
+
+I have probably misunderstood both the question and Aaronson's argument. My mathematical knowledge is not very deep. I am also not entirely comfortable with his claim that our intuition concerning integers is somehow stronger than our intuition concerning transfinite sets, but that's another question. 
+
+The concept of probability is certainly problematic from a philosophical point of view. This is because there appears to be two distinctly different ways of defining probability; either as a logical concept in terms of frequency, or as a subjective concept as the strength of personal opinions. 
+
+A typical folk notion would be "lacking pattern". When someone sees a "pattern" of what they consider too many heads or too many tales, either in consecutive sequence or in aggregate, they will automatically make the judgement that the sequence of coin tosses is not random. 
+
+So my naive reading of your question leads me to the answer YES, I think it is fair to say that most mathematicians would agree with the idea that there are two different mathematics in philosophy. 
+
+Here is one possible defence for the ZFer. 
+
+According to the paper I have referenced (above) the term “totalize” means to “count as one”, or “count as a set”. If this is a correct interpretation of “totalize”, then Brassier is plainly incorrect in the context of set theory. It is not clear if Brassier is expressing his own opinion or interpretting that of Badiou. The original naive statement of set theory (as per Cantor), which is based on set as predicate, runs into inconsistencies which imply problems with unrestricted “totalization”. However, these problems are removed by the axiomatic formulation of set theory which followed - i.e. ZF Set Theory. This is reflected in the statement :

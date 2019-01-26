@@ -1,0 +1,37 @@
+Note: you can only have one larva inject on a hatchery at a time, so 2 queens on one hatch do not increase the larva spawn rate any more than one does. 
+
+With burrow, spread a few groups on likely attack paths. Ramps work especially well. This forces your opponent to bring detection or use a lot of scans to advance safely. If they don't, unburrow in the middle of their forces and detonate. Edit: If you aren't comfortable in your ability to keep a good eye on your minimap, you can also activate autocasting on unburrow as Tzenes mentions, although this will usually do less damage than a manually unburrowed baneling. 
+
+Spreading creep is vital for zerg as it provides vision as well as a speed increase to all zerg units on it, so creep tumors are a necessity. 
+
+In general with banelings, unless you have them in the enemies mineral lines or something of that sort, you want to do a regular move rather than an attack move with them. They still explode when killed, so letting them get as much of a surround as possible before blowing up is almost always better than just blowing them up as soon as they hit the front unit. 
+
+Playing as Terran, do you need to keep your barracks attached to a tech lab in order for research to complete? 
+
+And for Infested terrans, you can have those Infestors burrowed and spam the "T" button and left click on the map where you want it. You again, don't need to select the control group again and again and shift clicking will not help at all. Simply T-Click, T-Click, and repeat. Do this very fast to spew out terrans. If burrowed you can move without getting hit typically. Even if they have detection I have noticed they don't seem to target burrowed units until there are no other attacking units in range. So just T-Click very rapidly. 
+
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+Edit: As a side note, I tested Dbemerlin's idea and it does work to right click (Move) all infestors to start getting into range. 
+
+Edit for example: Corrupters start with 2 armor, if your air armor upgrade is one ahead of the carriers' air attack upgrades then each wave of interceptors will do a mere 32 damage (80 - 16 * 3). If their attack is 1 ahead of your armor, your corrupters instead take 64 damage per wave. 
+
+In general with banelings, unless you have them in the enemies mineral lines or something of that sort, you want to do a regular move rather than an attack move with them. They still explode when killed, so letting them get as much of a surround as possible before blowing up is almost always better than just blowing them up as soon as they hit the front unit. 
+
+You can save more than 10 replays if you actually hit the save replay button on the game. There is no limit on the number of saved replays you have. The 10 is how much of a history it automatically saves for you. The 10 history limit was included near the end of the beta. I have not heard of any way to increase this limit, but there are some alternatives. 
+
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+Also, you don't need to keep selecing the control group again for multiple fungals you can simply F-Click, F-Click, and repeat. As for triple clicking that is simply something you need to work on. 
+
+I have been told that when playing as Protoss, I should upgrade attack and armor from my two forges. But wouldn't shield upgrades prove more effective as they regenerate while armor doesn't unless your playing a team match with a Terran whom has a medivac. 
+
+I just found this which answers all questions! 
+
+EDIT- As a side note, this is the fully updated version. This is completely legit and I do not run third party software that would mess with the replays. 
+
+And for Infested terrans, you can have those Infestors burrowed and spam the "T" button and left click on the map where you want it. You again, don't need to select the control group again and again and shift clicking will not help at all. Simply T-Click, T-Click, and repeat. Do this very fast to spew out terrans. If burrowed you can move without getting hit typically. Even if they have detection I have noticed they don't seem to target burrowed units until there are no other attacking units in range. So just T-Click very rapidly. 
+
+So, which upgrade is more effective? Armor or Shield? 
+
+Lately, I have been seeing in Professional games and streams that Zerg players when in a ZvZ mid game battle where they have mainly roaches and infestors vs the mirror composition, they sometimes use fungles and other times spawn infested terrans. Whenever I play I typically randomly choose between the two. When a Bronze league friend of mine asked the other day, I was dumbfounded on what to tell him. Logically I always spawn infested terrans when I don't have enough energy left to Fungle. But pro games tend to not only spawn them when out of fungles. How should I differentiate when to use fungles vs terrans, etc.

@@ -1,0 +1,69 @@
+In brief, whether speech error data is relevant to the question of derivational order in syntax depends on just how much explanation syntactic theory owes to a theory of linguistic performance. 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+Al gave Mary a ring in a year. 
+
+I am wondering if there are any verbs/phrases that qualify both as ditransitive, and as atelic. The following shows the relevant tests. The satisfying verb/phrase should have the same * patterns as give w.r.t. ditransitivity, but * patterns with sleep and watch in the telicity tests. A complete answer will provide the evidence that the proposed word passes the test in these ways. 
+
+Al watched TV a lot last night. 
+
+Single-event compatibility with "a lot": 
+
+As you can see, identifying the head isn't always straightforward, and that's why linguists disagree on whether NP dominates DP or DP dominates NP, or whether complement clauses are CPs or Ss, or whether sentences are IPs or TPs or Ss or something else. Zwicky (1985) lists five different 'head-like notions': 
+
+My question is, has there been any literature that explains these phenomena under the GB framework? If Koopman's analysis is correct, how do these guys pass the Case Filter? If not, can I be pointed to literature regarding similar phenomena in other languages? 
+
+(The elements in {} represent, in the word-to-word translations, concepts that take more than one word in English but only one in Classical Chinese.) 
+
+(3) Restrictions on number: *The latest research on dieting always warns people about the dangers of too much cholesterol of too little sleep. (Can't have more than one complement) 
+
+Many complex predicates are historically derived from serial verb constructions. This is not only true of the Sinitic family. For example, in Saramaccan (Byrne 1987, as cited in Givón 2009): 
+
+and the test therefore does not apply to it. 
+
+Cleft: It is [of the Church of England] that he is the founder. 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+*Al gave Mary a ring for a year. 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: 
+
+Al watched TV a lot last night. 
+
+By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): 
+
+Single event compatibility with "for"-adverbials: 
+
+Single-event compatibility with "in"-phrases: 
+
+*Al gave Mary a ring a lot last night. 
+
+In brief, whether speech error data is relevant to the question of derivational order in syntax depends on just how much explanation syntactic theory owes to a theory of linguistic performance. 
+
+Whenever you introduce a node in a syntax tree, you should ensure that the material it dominates form a constituent. In your tree, it's not at all clear that 'the founder of' is a constituent. 
+
+In traditional Chinese grammar, the Chinese sentence is made up of six main components: 
+
+I figured I'd give an answer with respect to the languages mentioned 
+
+Compare: I tied my shoelaces in the washroom/at school/during recess. 
+
+Because 'him' and the subject of 'exercise' co-refer, sentences like (1a) were naturally reanalysed as something like this: 
+
+(The elements in {} represent, in the word-to-word translations, concepts that take more than one word in English but only one in Classical Chinese.) 
+
+3) Certain fixed constructions: 何 (interrogative word) + Object + 之 (meaningless particle) + 有 (exist), 惟 (only) + Object + 是 (meaningless particle) + Verb 
+
+The accusative form him thus reflects its earlier status as the complement of the preposition for. 
+
+Assuming that you're unsure as to whether it's a complement or an adjunct, standard tests can be applied: 
+
+As you can see, identifying the head isn't always straightforward, and that's why linguists disagree on whether NP dominates DP or DP dominates NP, or whether complement clauses are CPs or Ss, or whether sentences are IPs or TPs or Ss or something else. Zwicky (1985) lists five different 'head-like notions': 
+
+According to Koopman (1983), there is an explanation for why Chinese, despite being a head-final language, has SVO and prepositional features. She suggested that Chinese assigns Case to the right but theta-roles to the left. Thus complements of PPs and VPs are left of their heads at D-structure, but move to the right at S-structure for Case assignment. 
+
+Harris, A. C., & Campbell, L. (1995). Historical syntax in cross-linguistic perspective (Vol. 74). Cambridge University Press. 
+
+You wrote about the claim 'that Chinese words can mostly be used as any part of speech.' While the claim is untrue, I can see why people fall for it.

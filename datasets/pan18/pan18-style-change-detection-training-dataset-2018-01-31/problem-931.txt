@@ -1,0 +1,39 @@
+There is currently no site in the network that is geared for questions like: 
+
+And, well, making unicorns yodel is pretty awesome too. 
+
+There are times, however, when people on the community team use the network-wide penalty box as a tool to help contain something raining down disruption on several sites, think of it as a metaphorical lasso. Still, new systems in place are making this less and less common. 
+
+You participate in site / community building activities. When you do that, you get loot: 
+
+Just remember, moderation is up to us. Also, I'm not an employee of Stack Exchange, so a subsequent answer from someone that IS an employee takes precedence over this answer. 
+
+Remember, even moderators can not see who voted for what, we can only see a very high overview of patterns that the system thinks might be abnormal. If you work in an office with 100 SO users that sometimes vote for your posts, that's a lot of digging and cross referencing. We have awesome tools, but the process does require a lot of human thinking. Our findings influence the potential destructiveness of the action we take, so we make absolutely sure before doing anything. When the patterns check out to be anything but benign, we do take action with ready proof to deal with the 'but I never ..' replies, which quickly lead to 'sorry, I won't do that again!'. 
+
+But, there are some left over that were handled a long time ago, and having this discussion tells me that I need to make time to write a query to fish these out and review them. They might not all require action, but they should be reviewed in light of changes that we've made. 
+
+Once in a while some take the opportunity to reach out as an emissary of the site, typically by helping an open source project better utilize Stack Overflow. 
+
+This isn't because people aren't interested in helping someone get a start, it's because the Q&A format of Stack Exchange as a whole is not well suited to entertaining these types of questions. Our engine rather depends on the majority of questions asked receiving an answer that can be considered the most technically sound, well written solution. 
+
+When you build respect and trust with your peers, good things tend to happen. Sometimes, they involve monetary rewards or a means to them, such as a job where your peers once again decide if you are worth your salt or not. 
+
+I would not say any individual comment there, if taken out of context of the entire 'conversation' is flag worthy. All of the comments together, however, are flag worthy and we need that kind of stuff brought to our attention. 
+
+If your flag was marked helpful, we're working on it, but you might not see results for a week, or perhaps more. That doesn't mean we forgot about it or didn't take any real action, it's just that this type of flag requires quite a bit of work and collaboration when it's accurate. 
+
+In some instances, our findings lead us to other sites, when users in question have accounts on several other sites in the network. That requires a bit of collaboration, and eventually involving a Stack Exchange employee. To give you an example, a single flag once led us to a voting ring that spanned four sites. 
+
+We process approximately 1500 flags per day, in an effort to keep the signal on the site much higher than the noise. A typical day: 
+
+In order to issue a suspension longer than a year, you now must have developer access, and that suspension must be network-wide, there's no other way to do it. Yet, some long term suspensions issued two years ago are still in effect - so you might see some inconsistencies. 
+
+Stack Overflow is for Professional programmers and programming enthusiasts. We expect a certain level of skill from people that ask questions, but the bar is not really that high. 
+
+If you can do just that, then noise like 'read a book' is just that, noise. If you honestly feel that you aren't using the site to avoid doing the work that makes us all better at what we do - then take it with a grain of salt. 
+
+Given the size of our community, you will sometimes encounter a crotchety Sanka-drinking neckbeard that can't stand whipper snappers on their lawn. That's not at all exclusive to Stack Overflow. You know if you've done your research. If you haven't - then don't ask until you have. It's pretty simple :) 
+
+It's rare, but an account can be suspended for a protracted amount of time when all other attempts at reasoning have failed when it comes to a certain type of behavior. It's not always behavior, though; There's a few things I need to explain to really lead up to a proper answer to your question. 
+
+The time we put in is broadly up to us. Being a moderator on SO means that you're expected to show up occasionally and handle some flags. On average about thirty minutes a day on at least a few days per week is the norm for an active moderator. Everyone basically gives what they can. The work itself isn't like 'work', but the environment is a very warm and supportive 'working' environment. We treat each other as colleagues.

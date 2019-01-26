@@ -1,0 +1,35 @@
+Moreover claiming to vote based on utilitarian principles (as one of the professors quoted in the article says) is in a sense disingenuous: we don't know what the majority wants until after the vote had been tallied, that is the whole purpose of voting, so how can we claim to be voting to maximize the greatest good or the greatest happiness? 
+
+If saving the species is to be done at all costs, then the scenario you present does't really present a dilemma. Even after the last male Gorilla is killed, certain steps can be taken to preserve the genetic material of the Gorilla. His sperm can be collected and used to impregnate the remaining females, and his DNA can be preserved for cloning purposes. 
+
+This would leave us with non-religious deontological ethical systems as our only system for figuring out whether incest is wrong or not. I can only think of two such approaches: 
+
+An answer was provided by Harvard political philosopher John Rawls, with his concept of the veil of ignorance, also explained in his idea of the original position. As described in this blog: 
+
+There are two assumptions you are making here: 
+
+Your reasoning is valid. However, the consensuality of the union is not the premise that defenders of same-sex marriage are basing their argument on. 
+
+A secular response to this is that religious people subconsciously don't really believe in God, even if superficially they think they do. Freud, in "The Future of an Illusion" argues that religious belief is a neurosis, that belief in the supernatural and in an afterlife is just mankind's neurotic reaction to the fear of nature and death. People fool themselves into believing, but only because deep down inside they don't. 
+
+I would add to Sigma's comprehensive answer one more case: in many 3rd world countries (including the one I grew up in), a person or group will become the leaders of the country because they lead the struggle against an oppressive system or a colonizer, etc.. Their legitimacy is not really written down in any laws or constitutions, but it is understood that they "deserve" the leadership of the country because of the sacrifices they made for their people's freedom. 
+
+Most importantly, in a utilitarian system, utilities would have to be assigned numerical values. To see why this is dangerous, consider the following situation: A utilitarian AI is faced with the scenario where it can increase the happiness of 1000 000 people each by 1%, but only at the cost of imprisoning an innocent orphan child for life, therefore reducing the happiness of that child by 100%. An AI using purely quantitative measures of utility is very likely to fall into such a scenario. The only way to avoid such a scenario is introduce some hard non-quantitative rules: "You can increase the happiness of everyone, but only as long as nobody is killed, no innocent is harmed, nobody is enslaved, etc..." - so deontological ethics are unavoidable. 
+
+The point here is to show that there are considerations that are higher than the numerical calculation of the good that a given course of action can provide. 
+
+A proposition is objective if its truth value is independent of the person uttering it. A fact is objective in the same way. 
+
+So ultimately the choice comes down to voting for principles, not outcomes, anyway. 
+
+You can argue that the harm of slavery is incomparable to the harm caused by the lack of such a building, or that even if it was numerically comparable, it so much greater that it counts as infinitely greater harm, and therefore can never be justified. See Alastair Norcross, “Comparing Harms: Headaches and Human Lives”, Philosophy and Public Affairs, 1997. Sections I and II. 
+
+You can argue along the lines of G.E. Moore's ideal utilitarianism("Principia Ethica", 1903), that although a small amount of slave labor does allow us to achieve a greater good from constructing the building, there is a scenario of even greater good, where the same outcome is achieved without using slave labor. Per Moore, if such a scenario is possible, then using slave labor to complete the building is immoral. You can then argue that there will always be situations where the outcome is achievable without resorting to slave labor, hence the scenario you describe is immoral. 
+
+Now given (a), from an atheist point of view, there's nothing that privileges human life over other forms of life. A theist might be able to claim, like Descartes did, that only humans have souls, or some other such human-centric worldview. An atheist on the other hand, has no such grounds for privileging humans over other living beings. The difference between Einstein and an amoeba is merely one of degree, not kind. 
+
+As a starting point, a system of AI morality would have to be deontological, because for it to be something you can implement as a program, it would have to be a clear cut set of rules, as opposed to a utility measure. 
+
+Moral statements are basically statements of value. Some value statements are clearly subjective: "Tabasco flavored ice cream tastes good" can be true for me, but false for you. 
+
+The technical problem here is that machine algorithms are already inherently performing utilitarian type calculations. Algorithms like Neural Nets, Random Forests, Supports Vector Machines, etc..all base learn how to solve problems from example by minimizing an error or risk metric, or maximizing a profit metric etc...to make them ethical, we would need to counter-balance that with some rule based considerations, not muddy the waters by making them even more utilitarian. In response to Nir's point number (2) - In an ideal world, I agree, such machines should remain nothing but sophisticated tools, providing people with objective facts while leaving the ultimate decision making to humans. In real life, complicated software systems are already making decisions on their own, for example approving loans and credit applications without human intervention, filtering job applicants and deciding which resume get seen by the hiring manager, Google will soon have self-driving cars, etc...the issue is not whether such system should be treated as moral agents in terms of crime and punishment, but the fact that such systems are already making decisions that have an ethical impact on people's lives, so how should such a decision making process be regulated.

@@ -1,0 +1,33 @@
+As a moderator I would rather see atomic flag groups -- a way to indicate that several comments are part of the same "incident", with mods able to handle them together. (This is what you suggest in your last bullet.) 
+
+That ordering makes a lot more sense to me. It's also consistent with the tour. (Maybe "how do I ask a good question?" should also be "above the fold", in the top five somewhere.) 
+
+It would be best for the revision history to be available (like on other posts and help topics), as a check against too much unintentional drift from the original point of the message. It could be editable by a single moderator, like certain pages in the help center, or require a second to concur, like custom off-topic reasons and redactions -- either would be fine. 
+
+But I can't find this out unless I click through to the user's profile (unless I already know this user, of course). Would it be possible to get the flagger's reputation in a tooltip, like what's already done for comments? 
+
+On the moderator side, we need a way to view the whole comment thread but with the flagged comments being marked somehow. We don't have this now, and it's a real hassle -- we can see the list of flagged comments, or click through to see the whole thread (necessary for context for all but the rudest of comments) without the flagged ones being marked, but we can't easily see everything. (The flagged comments are listed at the bottom of the page, but try managing a 15-comment thread with 6 or 7 flags.) In either the current interface or the atomic-flag-groups interface, we don't want to show just the selected comments and ask for a judgement; in addition to needing context, too often I've seen people try to weaponize flags to suppress the other side of an argument. 
+
+Post-split, Meta's moderators are (we've been told) the CMs and maybe a few other employees. And, sure enough, those folks have diamonds. 
+
+At the moment, we are using a version of Elasticsearch that makes mixing commments with posts difficult/impossible. It's possible that when we upgrade to 2.x this feature could be implemented. But that's a ways off. So I'm declining this feature request until then. 
+
+I noticed that the format of the user page changed today. In the old format, next to the "reputation" and "response" headers there would be a number (highlighted in red) telling you the number of new entries, so it was easy to notice that somebody had addressed a comment to you. The new format does not include this and I don't see anything else that provides that information visibly. 
+
+As with any other deleted post, reputation changes from the vote, for both the recipient and voter, take effect only if the post is undeleted. This is not a proposal to do additional reputation damage to somebody whose post is already deleted. 
+
+On a lot of sites, the first section of the Help Center looks like this: 
+
+This list you see now contains up to 10 items, which is why I propose up to 10 "picks". That would use the space already allocated to showing a selection of posts. 
+
+1 Non-answers, yes, via flags, but not wrong ones. That's what downvotes are for. One of the specific flag-rejection reaasons is: flags should not be used to indicate technical inaccuracies, or an altogether wrong answer. 
+
+1 Maybe by adding a "My Picks" tab to the "Top Posts" section (next to All, Questions, Answers, etc), like this: 
+
+If I want my badge progress on my current site it's one click away. I guess the theory is that this might get the attention of people who aren't paying attention to badges, but how many of them are going to start just because they started getting a persistent notification? 
+
+It's not always like this, though; here on MSE we get this, which I've seen on some other sites too: 
+
+Encourage participation on meta Most users never venture onto per-site metas. This year there was a secret had that had to do with posting (once) on meta, and there was a non-secret hat that was earned by voting once on a specific day. I'd like to see a non-secret hat (so it's a more-obvious prompt) that encourages more meaningful meta participation -- not just a single post or vote, but something that encourages activity over several days like some of the hats this year did. I'm not sure what the exact criteria should be -- maybe something like voting or posting on meta on five different days, or earning a Nice (Question/Answer) on meta? (Voting can be abused, so maybe not just voting.) 
+
+Also, while I'm here, see the underlined text -- I know it's boilerplate, but since Meta doesn't have elections, you might want to change that. (Lest you say that per-site metas have that text too, at least their associated sites have elections. Lest you say that betas don't have elections, at least they can aspire to do so in the future.)

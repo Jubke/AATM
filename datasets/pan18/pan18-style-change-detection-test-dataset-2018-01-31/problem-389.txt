@@ -1,0 +1,29 @@
+Not a big deal, but I just flagged two comments on the same thread, but I only got the "Really flag?" question on the first flag; the second one went right through. 
+
+That said, the reasons we upgrade the jQuery version are usually one of these: 
+
+Well, I'm kinda paraphrasing... Anyway, we'll give a couple of hours for blacklists to be updated and then switch back to regular sstatic. 
+
+Update, one year later: For Winter Bash 2014, we switched to using SVG images, and you can now rotate and scale your hats. 
+
+Sorry, but I have to decline this. The main problem with this is that I want to keep the hat image files used on the major pages – in other words, the question pages – small, because every visitor has to load them. But in order to make scaled or rotated hats (where sub-pixels start to matter) not look horrible, the base image size would have to be much bigger. 
+
+In case you're doing A/B testing – put me in the "against" column. 
+
+See http://en.wikipedia.org/wiki/Unicorn for more info which will. 
+
+There is no evidence whatsoever of any problems on sstatic.net. I have requested a review on StopBadware.org; I have no idea how long that usually takes. 
+
+On a broader view: It seems that many people, even regulars, aren't getting the "Every question should be on Stack Overflow" policy. That's the intention of the site makers, and so that's what the community should enforce. Maybe this policy should be made clearer somehow? 
+
+Now, when/if the deprecation warnings start appearing all over the place, that will probably be a good reason to upgrade. It's not like we don't like using the shiny new stuff; it's just that such an upgrade always comes with maintenance costs. 
+
+If that's of importance: I was a little too quick, so the first time I tried to flag the second comment, I got the red 5-second box. 
+
+I don't have an actual idea as to the means for doing that; I am just throwing it out there... 
+
+The standards (different browser, clear cookies, etc.) didn't help. 
+
+As of recently, the notification bar also tells me when one of my posts has been edited. 
+
+Now that Joel had to be the grown-up and spoil the fun, here's what the home page looked like:

@@ -1,0 +1,31 @@
+I would prefer a crowdsourced approach, because I fear a purely algorithmic solution will never cover enough dead content to actually make a difference. 
+
+All lawyers always lie. I am a lawyer. 
+
+When closing a question as a duplicate, the goal obviously is to find not just some identical question, but the one that has the best answer. 
+
+If showing both votes is impossible due to layout reasons, then just show the answer score. There are two things about the new vote messages that I don't like: 
+
+Possible advantages to having this integrated in SO proper include: 
+
+Also, adding this as an automatic filter may lead to unexpected consequences (say, when trying to use mathematical notation). 
+
+I just happened to click on the all-time rep leagues. I seem to be there twice. 
+
+it admittedly looks a bit misleading, but everything is in order here. That could be achieved simply by hosting the blog outside the rest of the network (at a physically different location) so it is available even if everything else goes down. (If that's not the case already. I didn't check whether it was affected by the outage as well, but the IPs look like they're in the same data center.) 
+
+it might even be an idea to show the question's tags in the list, because that may be relevant information to an employer. 
+
+A: Yes. CC licenses are nonexclusive. Licensors always have the option of entering into different, separate arrangements for the sharing of their works in addition to applying a CC license. 
+
+I logged in to Stack Overflow by clicking on the Google OpenID logo 
+
+It goes without saying that the comment rate limiting mechanism would be completely unaffected by this. alt text http://media.kuechengoetter.de/media/105/12216445942780/waffeln_zutat.jpg The request: please hide the answer body. Show the question titles only, in a neat list; show the full answer body on click. I'll be the first to admit my state is not the most beautiful, clean, nor wealthy among the states of Germany, but is living in North Rhine-Westphalia such an embarrassment that it needs to be hidden completely? Fears of comment spam can be mitigated by limiting the tool to 2k+ users. Also, it's not like comment spam wasn't possible before. Well, for one, it helps make it more obvious that there is a possible duplicate. Until now, dupe suggestions were often buried in long comment threads, and easy to overlook. I like this change. Also, doesn't it distort greatly all voting stats, especially when looking at candidates for moderator elections and such? The collection of usage data and the possibility to do queries like "how often did users insert the xyz pro-forma comment?" can be helpful for future UI decisions, or for fine-tuning the FAQ. Seeing as the idea behind the public display of total votes you've cast is to encourage voting, is this really fair? 
+
+The normal rep count would continue to be displayed as an integer; for those who really need to know, the exact number could be displayed privately on the profile page, much like flag weight. However, when editing a room, the option doesn't appear on the host list: Screenshot of the above http://mrozekma.com/so-chat-reverse.png If you try and flag two comments in a row, you run into the vote rate-limiter: 
+
+Screenshot of Unix public beta start mouseover http://mrozekma.com/so-a51-unix-beta-public-hover.png 
+
+Screenshot of the host list http://so.mrozekma.com/chat-modify-room-host.png It's going to take users a minimum of two weeks to hit 2000, and past betas have shown that a massive number of questions get asked when the private beta starts at 0 days and when the public beta starts at 7 days. There are hundreds of new questions just on those two days, plus the early questions tend to define the style of the site, and nobody can edit them until weeks after they've been posted This happens even if the public beta hasn't started yet; the "in X days" text has the same mouseover timestamp as the private beta one: Screenshot of Unix private beta start mouseover http://mrozekma.com/so-a51-unix-beta-private-hover.png On Area 51, the timestamps on the right-side of a proposal that show the starts of each phase show the exact same time for public and private beta starts. For example: 
+
+I mangled a convert to comment earlier and needed to undelete the post so I could redo it. When the post was converted a second time, I noticed it suddenly had a single undelete vote (it said "undelete (1)" on the link, and showed up in the 10k list). When I undeleted and converted it again it had two votes, and so on:

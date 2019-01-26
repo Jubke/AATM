@@ -1,0 +1,27 @@
+c1390 (1350) Joseph of Arimathie (1871) l. 70, I am not worþi to seyn moni of his werkes. 
+
+Now, I asked you earlier about your theory/definition of the determiner. It is important to know such things because some linguists understand determiners as a lexical category (determiner1 in Chalker and Weiner 1998). There are linguists who understand determiners as a functional category (e.g. the authors of CGEL, determiner2 in Chalker and Weiner 1998), and that is why they also have determinatives. Under the latter proposal, which I happen to agree with, a determiner is not necessarily a determinative. 
+
+†8. To speak of, mention, enumerate, describe. 
+
+I'm not entirely sure what exactly you're interested in: 
+
+Secondly, you grossly misrepresented it. There were two options, V-raising or I-lowering (other variants: Agr-I, AGR-I, Agr-T etc.). French was considered a V-raising language (i.e. with overt verb raising): V moves to Agr, and then it all moves to T. English, on the other hand, was a I (Agr-T) lowering language, which means T lowers to Agr and then T-Agr lowers to V. 
+
+At first, this represents how generative syntax was done in the late 80s-early nineties. Many of those ideas were abandoned a long time ago. 
+
+Denis Bouchard has consistently argued that in French there is a difference in semantics between Adj+N and N+Adj (e.g. homonymous "grand" as in ce grand homme 'this great man' vs. "grand" as in cet homme grand 'this tall man'); see, for example, Bouchard 1998 or Bouchard 2002. His proposal is that variation in the Adj+N order is caused by "choices" languages employ to express Number (D or N). Laenzlinger 2000 is also a very good paper. By the way, I would read Baker's book with a degree of healthy scepticism; see, for example, Larry Trask's review 
+
+their incredible story (specifier; your "modifier") 
+
+c1540 (1400) Destr. Troy 5204 The same yle I said you, Cicill is calt. 
+
+cf. Berwick 1998's observation that recursive generative capacity is an inherent property of Merge (p. 332). They are both concatenative (or combinatorial) operations; however, Merge involves hierarchy. 
+
+see also Carnie 2008: 18 "we will find many instances where these [constituency - Alex B.] tests can give false results and results that are contradictory with the output of other tests." 
+
+Note the key word "conceptual," because this is very different from other formal syntax theories. 
+
+Incidentally, all of the nine examples in the OED do have a determiner before “said”. The tenth example is the absolutive use of “said”, as in 
+
+There is one important thing to remember about legalese. As Garner argues, “It is a convention in legal writing to omit both definite and indefinite articles [emphasis mine - Alex B.] before words such as plaintiff, defendant, petitioner, respondent, appellant, and appellee. It is almost as if these designations in legal writing become names, or proper nouns, that denote the person or persons referred to. The convention is a useful one because cutting even such slight words can lead to leaner, more readable sentences” (Garner 2011 :79).

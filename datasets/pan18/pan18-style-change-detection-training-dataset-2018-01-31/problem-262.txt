@@ -1,0 +1,45 @@
+It includes a jar downloader that can download about 20 versions from early Alpha to Release 1.1 (including many snapshots). I expect 1.2 to be added soon, as they seem to do a very good job keeping it updated. 
+
+I wasn't fast enough to screencap the chickens, so just trust me when I say, chickens are definitely small enough. 
+
+This is my first foray into decompiling, but if I understand this right, the new initial spawn code does not mention sand at all. 
+
+Dig a pit at least 2 deep and preferably not higher than 3 deep so you won't take damage jumping in, then, place a single ladder along the side on the bottom row (middle if you made it 3 deep). With a combination of W and jumping, you should be able to get out easily, while leaving your animals trapped. 
+
+As of 1.8, you do not always spawn on sand. I'm afraid I don't have source code to post, but in all of several worlds I made, I did not spawn on sand. 
+
+The Minecraft Version Changer Tool. 
+
+Pigs, both big and small, can. 
+
+In order for the changed setting to take effect, the server must be restarted. until restarted, monsters will still spawn. After a restart, there should be no monsters. 
+
+Upon further research, this attribute appears to be the same as the parent. 
+
+Little sheep also cannot. Try as I might, I could not get this little guy to pass under, although he looks short enough. 
+
+In addition, the spaces in and around the fencing can give you enough room to place the glass against the sides of either a fence post on the edge of the scaffolding or a previously-placed block of glass. This means you can still build your glass tunnel even if you can't reach a nearby wall, floor, or ceiling of the lava pool to place the block against. This is very handy if you hit a lava pool that is very wide and/or deep. 
+
+I just tested these two options in my village right next to an Iron Golem, and he didn't bat an eye... 
+
+A boat, minecart, or bed: You can jump and place these outside the hole, then jump again to right-click on them, which will place you inside/on them and safely out of the hole. If you don't have any of these, but you do have the materials to craft them (along with a crafting table), then you can jump up to place a crafting table outside, jump up to right-click on it, and then make what you need. 
+
+Well, Creepers can blow up stone and cobblestone, both of which have blast resistances of 30. Since a spawner has a lower blast resistance of 25, it can certainly get taken out by a nearby Creeper blast. 
+
+I suggest closing off side tunnels and keeping the area very well lit while you are nearby doing any mining or construction so that Creepers can't spawn. Then remove the lighting near the spawners when you are done (so they can start spawning again). 
+
+Sticky pistons can't move certain blocks, such as extended pistons. I'm guessing your second level of pistons aren't retracting early enough and are therefore not completing their retraction before the sticky pistons try to pull them. 
+
+In my experience, sprinting while jumping around depletes the hunger bar more rapidly than anything else I do. This is confirmed by this Exhaustion Level chart taken from the wiki: 
+
+That sounds like the Rediscovered Mod. You get there by right-clicking on a bed (the fact that you were holding a thaumometer doesn't matter). It is a Sky Dimension with Giants and Pigman Villages, among other things... 
+
+If you're not dying often, then one of the mods must be adding this feature in. I know skeletons and zombies have been seen with high-end equipment like nanosuits, which appears to have been a Halloween prank included in the IndustrialCraft2 mod. The IC2 config file would probably be the first place I would look for an answer. 
+
+NOTE: Any action not listed here will not increase exhaustion level. For example, the player can travel several days by boat and the food bar will not decrease. 
+
+Strategy for "Hard" Difficulty On "Hard" difficulty, zombies are able to break down wooden doors, which means they can get to your villagers during a siege if your Iron Golems can't intercept them first. They can't break down iron doors, but your villagers can't open them either, so that's a wash (unless you are fine with trapping your villagers inside their homes). The Siege Defense wiki entry suggests the following: 
+
+You could place a beacon nearby that would give them a regeneration buff. Starvation causes a loss of 1 point every 4 seconds, while a level 1 regeneration buff gives 1 point every 25 ticks (or 1.25 seconds), so you should be able to keep them at full health even when their hunger bar is empty. 
+
+It should also be noted that these same techniques are useful if you hit an underground pool of water, although in that case regular flammable fence would do just fine too.

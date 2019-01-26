@@ -1,0 +1,19 @@
+Yet, you seem to have completely ignored that part of the answer. Perhaps you were too distracted on the inaccurate representation of your question as a one-liner after you edited, but whatever. The unedited question is still lacking in those expectations, so it makes sense that both versions would be closed. Most interesting, though, is that you accepted an answer that doesn't even answer your question. It doesn't say anything about the topicness of your question at all. Let me summarize that for you: 
+
+So, who will actually win? We will be awarding at least 30 users with the swag of their dreams, ordered by top-scoring answers right here on this question. If we really love the stories you all came up with, we may award even more (maybe even everyone who made it to a score of 10). Those who win their beloved dream prize will be contacted via email by myself for their shipping details. Can I sign up for the private beta? You absolutely can! You can fill out this form to get on the list to be considered. As stated above, those who have reported vulnerabilities to us before will receive precedence in joining the private beta. We’ll then be selecting users who have identified that they have security research background, followed by any other users. Given the short period of time the private beta may be running, not everyone who fills out the form is guaranteed to get into the private beta before the program ends up going public. 
+
+Of course this would also have the inverse effect for a post which was deleted that had downvotes and you actually gained reputation, showing a positive amount, with the same restrictions for the daily reputation cap. 
+
+What do I get? Also, a few things about certain types of items we have available: 
+
+I think that this will have a big impact on quality, as I am sure many people are reluctant to hit that down arrow because of the -1. 
+
+Either add a "Looks Good" button that increments the review count or make the "Not Sure" button increment the review count, but not count to removing the post from the review queues for anyone else. There needs to be a way to let people say: 
+
+http://www.guardian.co.uk/technology/2009/jul/02/delphi7-windows-vista 
+
+This coupled with notification of comments should give people enough time to correct the post (if it is salvageable) while still having it off the site. We'd have to change the requirement for the badges though - a simple increase in the numbers (500 and 2000 for silver and gold) might be enough, or have the requirement be that you must have > 50% of real actions (edits, etc.). 
+
+Make it easier for people to remove bad and incorrect answers. Some possibilities for discussion: If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+The Stack Exchange shop is currently closed and they are not selling merchandise at the moment. "What!" I hear you say, "people are reluctant to lose one point of reputation when they see something bad?!?!. That's just crazy". It may be crazy but I fear it's true, especially for low rep users who are struggling to reach the next privilege threshold.

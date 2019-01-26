@@ -1,0 +1,31 @@
+Those who think a contribution deserves a flag, will add their own flag or close vote to the pile. Those who think the flag is unjustified, can do nothing except maybe upvote the contribution - which may not be at all what they really want to do. 
+
+Closevote using the appropriate reason, often as "Off-Topic" > "Questions asking for code must demonstrate a minimal understanding of the problem being solved." 
+
+Users would have a "I trust this person" / "I do not trust this person" button when they visit another user's profile. A trust vote is an important thing and people would have to be encouraged to use their votes wisely. Maybe through a total limit that you have to manage carefully, and that grows very slowly (say, five new votes a month). 
+
+Yeah. And there's a lot more wrong with that ad than just that. As to how to get this whole thing started: at first, give, say, 50 trust votes to a limited circle. The ideal circle would be the people who have undergone the most scrutiny by the community, and are best equipped to have a good impression of users' activities: the moderators. 
+
+I've thought about the same thing often. Answering lazy questions enables help vampire behaviour and is usually counter-productive. If their lazy request finds a good answer, they will come back with the next lazy request because they learned they can get away with it. 
+
+Still, if a new platform arises that has the goal of producing "chickens" in the sense you mean it, being less focused on shallow reputation points, I'll be very interested to see it. 
+
+Now, machines and algorithms can always be gamed. The best detectors of dedicated users who are "for real" would arguably be - you and me! The dedicated, veteran users. In our everyday interactions on SO and maybe Meta, we come across fellow users and, over time, reach some judgement of them and their actions on the site. I could probably name fifty users right away who I would absolutely trust using the review queue. I could also find fifty users who I would absolutely not trust using the review queue. Should SO create a new, mostly invisible, social layer of trust? A way for a user to tell the system whether they trust a user or not. Obviously implemented in a way that doesn't break the basic SO idea of "it's about the content, not the users". 
+
+The recent problems with the review queue show that there should be a better way of telling apart users genuinely concerned with quality from those just hanging out to earn rep and badges. 
+
+Maybe mark them with a message like Only if we can have a hard hat, too. 
+
+As a sub-question, do people use the "hot" tab on Meta, and want to see it stay exactly the way it is? 
+
+What will happen next? How is a merge decision reached and executed? Does Robert Cartaino scan the discussions and initiate merges that are uncontested? Or will each participant in a proposal that is about to be merged with another be asked to join the conversation and vote on the decision? If yes, how will that happen? On the other hand, there are very many famous examples of awesome companies that use our reputation points-based profiles to recruit top developers, for example Facebook, Skype, Tumblr, Amazon, Moo, Coursera, etc. Atheists find offensive any talk about the origin of the universe which is in contract with the scientific view. I, as an atheist, certainly find any such talk offensive, but I hold my breath constantly trying to respect everyone's right to be wrong. Should I be allowed to go around and delete such content as offensive? ...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+I find no fault in the current standard, as I don't see any valid reason to change it. 
+
+Unofficial extended version (over character limit) 
+
+In this case, we had one moderator who let us know they could no longer be active as a moderator. The SO flag queue has been hovering near the 2k mark, so I decided that we should ask two people to step up. Both of the newest mods were contacted to see if they were still interested in stepping up before being diamonded. We'd never just diamond folks who were runners up without asking if they still want to help. Do we want to reward a person who posted one answer and then never came back? what's the worst-case that could happen? 
+
+As far as answering on Meta, I do tend to answer more questions there, mainly because we get a lot of questions about moderator actions, and about the site in general. I'll answer based on my perspective as a mod, or based on my experience as a user of the site. 
+
+There were no 20k users involved in the deletion of it, it was deleted by a member of the community team.

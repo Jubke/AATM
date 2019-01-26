@@ -1,0 +1,17 @@
+First step - Presume the rim is contaminated with something slippery. Clean the rim presuming its either oil or silicon based. Use an degreaser/solvent first to attack an oil based contamination, the use an abrasive cleaner and scrub well with a steel wool or aggregative nylon scrubber and plenty of soapy water to remove non-oil based contaminants. Don't worry too much about damaging the rim - if you can't get the brakes working do you want you son riding on it? 
+
+Assemble them with a bit of toe in (front of pad hits rim first). Put them together. (Look here for good instructions). Now the brakes need to bed in. Go for a ride, and give them a dozen of so max effort stops from high speed (careful you don't do anything silly) 
+
+As a result, "Lawyer Lugs" are pretty much mandatory on Disk equipped front wheels (Unless a through axle is used). The problem with Lawyer Lugs is they somewhat defeat the advantages of a the QR, in that to remove the wheel, you have to unscrew the nuts quite along way. 
+
+Now the pads - presume these, even if new, have been contaminated by the rims. Ideally buy new ones (Come to that later), second best and worth a try is to clean them with degreaser, soapy water then file or sand the top layer off. 
+
+This may not be an answer but it was too long to comment. 
+
+When you compressed the pads did you open the system? Meaning uncapping the reservoir, or did you simply push them back without doing anything else? Sounds like air has gotten in the system and it will need to be bled. 
+
+Pulling the brake while there is no pad or bleed block in there is also a no no and will lead to having to bleed the system. 
+
+One of the steps of bleeding is creating a vacuum to pull air out of the fluid that isn't normally visible in bubble form. If the caliper pistons are pushed back without opening the system you may have done the opposite in a way and pressurized the system, then upon pulling the brake level you may have recreated a vacuum that pulled air from the fluid and caused an air bubble internally. That's the best way i can think to explain it anyway. 
+
+Bottom line, bleed it or pay to have it properly done and i bet you're back in action. Also don't get fluid on the rotors or your new pads. and follow a proper bed in/burn in process.

@@ -1,0 +1,19 @@
+Riot will likely never create a completely unique seasonal rune in terms of stats; players generally frown upon any game-changing mechanic that is only available to purchase for a limited time, and Riot has been very conscious of that. 
+
+You really don't need to build a whole lot against him - Ninja Tabi are sufficient or get another armor item. Build as normal and you'll continue crushing him in lane. 
+
+If you don't build a tanky AD carry, then your team will lack the typical top bruiser who starts team fights or shuts down squishies. You will have to have someone else on your team engage, but you still serve the role of shutting down their squishies. Be extra careful when engaging! Farming should be easier because you have range, just make sure you can trade damage so their top will think twice about fighting you. Avoiding ganks is easy if you have a dash or a way to push champions off of you, especially since you will be closer to your tower of safety with the added farming range. My Messy and Poorly Organized Thoughts 
+
+Champions like Heimerdinger and Soraka do well in 5s because they both have great lane control. Heimerdinger's turrets and passive heal allows him to push a lane very well and stay in good shape, meaning he doesn't need to leave the lane for a heal and spend a minute running back out. Soraka can heal herself and replenish mana, so she almost never needs to leave a lane. 
+
+Sion serves a role much like Nasus. His sheer life gain turns losing battles into colossal victories. He only has a little cc with his stun, but he can still kill key players on the other team while largely ignoring damage, especially with Mercury's Treads and Banshee's Veil. Also, his ability to be full AP or AD makes him versatile, meaning no matter the enemy team makeup you will be useful. Given team composition these days Sion fits many roles well. 
+
+If you're ever having trouble top lane, don't be afraid to ask your jungler for assistance. If you don't make the jungler aware of a problem they likely won't see it and help you out. 
+
+Nonetheless, figure out if Doran's works for you. Watching streams will teach very little about playing at your level - the best way to learn is to try it! 
+
+Bad situation: You - Sivir, Them - Well, lots of people 
+
+Most of winning top is counter-picking appropriately. Counter picking with an AD carry is easy: 
+
+For this purpose, number 1 on my list is Phage, as it's a gold efficient health buffer to reduce burst potential on you and boost your AD. Most importantly it gives you movement speed after you auto attack and kill or assist. Although the movement speed bonus is halved on ranged characters, 10 flat movement speed is still extremely helpful for kiting and chasing. In most situations as an ADC you should be dealing damage as you're running away in order to dissuade your opponent from chasing you and to lifesteal, and this is especially important on ADCs who have escapes that depend on auto-attacking (Vayne's Tumble is great for kiting but doesn't reset cooldown until you auto-attack) or casting spells that apply on-hit effects (Ezreal's Mystic Shot procs Phage and also reduces the cooldown on Arcane Shift to help him escape). Constant kiting/stutter-stepping is key to success as an ADC, and no defensive item other than Phage helps an ADC do this better.

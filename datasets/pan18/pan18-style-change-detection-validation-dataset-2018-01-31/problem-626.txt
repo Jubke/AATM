@@ -1,0 +1,9 @@
+Requiring voters to register explicitly is a simple way to manage these lists. You could imagine other solutions, especially with electronic voting systems, but, e.g., writing down the details of every person who shows up to vote and then cross-checking those lists after the fact would be much more cumbersome than checking the details of each voter against a pre-existing list. 
+
+The way I understand your proposal, the mandates would not be “direct” at all but you would instead have two different list of candidates to choose from to fill seats (the new nationwide list and the regional lists that already exist for all the regular “non-direct” mandates). It's not clear to me why something so complicated would make sense. 
+
+It's to ensure the person votes at the right time, there is no ambiguity about the fact that she voted and that the procedure has generally been followed. In particular, someone could be tempted to put the ballot in the box before their name has been found in the electoral roll or the officials are ready to record the fact that she voted. 
+
+Presumably, it's to prevent the army from influencing the political process at the behest of the “Central People's Government” or from gaining control of the region's institutions by having members of the military elected to important positions. For example, one concern would be that soldiers could be ordered to support specific candidates and vote as a block. 
+
+Summary: (Near-)equality between pairs of party is not a problem at all, it just means you need three of them instead of just two. If either A or B can bring C and D together, it will be able to lead the government. On the other hand, if there are rigid blocks like A+C and B+D and none of them has an absolute majority, it might be more difficult to form a cabinet, even if either A or B emerged as a clear winner.

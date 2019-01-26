@@ -1,0 +1,55 @@
+I ran into this problem with Nvidia and had the same experience, or sometimes complete crashes. 
+
+This was changed from 3 to 4 but not sure when as mojang don't publish changes to account details in changelogs. 
+
+Following is the tool requirements for mining blocks, 
+
+Less intensive shaders would be 
+
+These wood blocks are - Dark Oak - Acacia - and of course the planks and leaves for these. and what wasn't mentioned was the hardened clay with all of its colour types. 
+
+This happened to me with a different host, oddly enough you need to sign in to your host's website and chances are they need you to agree to the updated EULA system, THis was from 1.7.10 onwards and applies to all servers. 
+
+An alternative to using redstone to do this, would be to line up the chests and use a hopper minecart to run over the top of the chests to move back and forth over the top of the chests, this will fill up all of the chests over time. and then you just can put the brewing stand on top of another hopper to feed the cart. Ignore the repeaters in this picture, the same thing could be accomplished with comparitors and normal redstone. 
+
+I understand this is not an ideal solution as 1. bedrock is annoying and 2. players could remember where diamond was and just get unlimited. 
+
+Now that the "Infiniobsidian" obsidian generator method has been patched as of the more recent snapshots, what is the most efficient way to generate and mine obsidian? 
+
+EDIT Also to note is that any unloaded chunks from the map will end up have ugly world boarders as the world gen changed drastically causing this issue. 
+
+It may seem invasive but most of the features can be turned off and on as you require. 
+
+An old alternative(pre-Hoppers) is to use water but this is not a great choice as items will despawn if they have to travel too far or left for too long. 
+
+What i prefer to do is actually have the animal showing, either by using glass or glass panes this also allows you to see the name a lot clearer 
+
+-When OptiFine is installed, try toggling "Options > Video Settings > Performance > Smooth FPS:". "ON" gives more responsive input and more steady fps, but likely lower maximum FPS. 
+
+This definately works for 1.7.10 servers and if you haven't already done it this will be your issue. 
+
+This is the only completely Vanilla way of doing it that i know of. 
+
+Also worth noting is maps in frames will not work the same when backdating if this was used in the mega build 
+
+and Paulo's Lagless shaders - which are much better performance but don't look as good. 
+
+Your performace will also depend on which shaders you are using, if you are using the unbelievable shaders these are very intensive. 
+
+RudoPlays shaders - Still look really nice but much better performance 
+
+Hide a named mob (or wither skullas mentioned by Quentin) in the wall, normally something not very noisy. if you hide it one block back the name will appear through the wall, just make sure that the mob can't move very much. 
+
+Iron Pickaxe - Gold, Redstone, Diamond & above 
+
+Alternative The only real alternative to this is to block Java itself from connecting to the internet, this is not highly recommended due to the fact this will block all java applications from accessing the internet, but it will force play offline mode. 
+
+once accepted you will be able to access it fine. 
+
+There is a mod called Joypad mod This allows you to play splitscreen upto version 1.7.10. With one person using keyboard and one person using a controller. 
+
+The config is good and allows you to choose which ores or blocks this applies to, and the creater is looking to change the bedrock replacement. 
+
+Press F11 :-), this is the toggle for full screen 
+
+I used to have a modification that slowed the game down and recorded it frame by frame. I haven't used it since 1.2.5 and so unfortunately can't remember what it was called.

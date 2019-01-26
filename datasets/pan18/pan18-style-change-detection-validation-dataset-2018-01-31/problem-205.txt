@@ -1,0 +1,59 @@
+With the exception of fatbikes, the widest bike tyres are narrower than the narrowest motorbike tyres. I'll ignore fatbikes as somewhere between too specialised and a novelty. 
+
+I haven't yet patched the tube (I do them in batches to save the glue drying up on the shelf) but there was no visible damage (or hissing with everything still on the bike). The tyre had held pressure for a week before feeling low on Saturday and being confirmed on Sunday, so I'm not inclined to blame grit in the valve. 
+
+It looks like it's been cut too short so can't be tucked out of the way. But you may be able to cut it still shorter and use a smaller end cap/ferrule, or just part of one, or a blob of glue to stop the end fraying. 
+
+Bending the cable may work too -- you might not have enough length but a sharp bend away from the tyre might work. Use longnose pliers. This stopped my front derailleur cable irritating my leg, for example. 
+
+I occasionally put one of my bikes in a rack narrow enough that it takes some pulling to get it out. The bike (including tyres) doesn't appear to have suffered at all. 
+
+In summary: motorbikes can have bigger tyres because they've got more power, and they need to because they're faster and more powerful. 
+
+If your current tyres are knobbly right out to the shoulders and your new ones much smoother you might get away with it. But you won't know until you try it by which point you've bought at least one tyre. 
+
+The tyres only have ~1000km on them, last winter and some of this winter. They've lost a few studs but the tread looks as new. They've only been used on tarmac (a few spots on my route are prone to black ice). They've also only been run close to the max pressure, as recommended for hard surfaces. 
+
+Update 2017: I've now tried to park a bike with even wider tyres in the same rack and the only solution is to put the front wheel next to where it's supposed to be, which means the locks have to hold the bike upright and access to unlock is tricky is the next slot is occupied. If I only had a mountain bike for commuting I'd run a commuting wheelset; as it is I can generally choose another bike. 
+
+I had to change my back tube yesterday and couldn't find anything by eye or by feel on the inside of the tyre, by eye on the outside (it's a schwalbe winter so you can't find anything except its own spikes by running it through your hands). The rim and rim tape were also clean. 
+
+Also don't forget to unweight the saddle on bent legs as you go over rough stuff (potholes etc.). You might of course just have been unlucky. 
+
+Keeping cars off a bike path is easily done with bollards. Good solid posts 1-1.5m apart will completely block cars, and the middle one can be a removable, lockable version to allow service vehicle access. Alternatively a gate can be provided next to the bike gap. This also permits horse riders. Where the primary concern is horse riders but bikes are permitted, a gate that a horse can step over is sometimes fitted. A cyclist has to dismount and lift the bike over - one thing on a lightly loaded MTB, another touring with a trailer. Here a picture of one (CC-by-SA David Hawgood via Geograph.org.uk): In this case it would also be possible to get a bike round the gate. 
+
+If the mud is viscous like clay and maybe leaves mixed and a fat tire can float and still get traction then the bigger tire is better. 
+
+Mountain bikers like to run at lower pressure for more contact (traction) and to absorb roots and rocks. If you are running at a lower pressure then be aware and don't bang on roots and rocks as hard. 
+
+It takes a volume of air to seat a tubeless. Even if you lube the tire it takes a volume of air to get it to pop onto the seat. Cannot deliver that volume with my floor pump. At the shop they remove the core to the presta and have this conversion tube they put over the open stem with a compressor on the other end. 
+
+And something else to consider is putting some 35mm touring tires on your XC. 
+
+Race tires naturally have the shortest life. 
+
+Look for city or touring tires. Road in bicycle means more of a racing tire. 
+
+Exact center of the outside of the tube (and no debris) indicates a pinch flat. Why do you assert not a pinch flat? 
+
+My guess is that this is either for a child's toy bicycle or for a bike trailer, since those are really the only products that would use a solid tire (ouch ouch ouch) in that size. 
+
+take your bike inside. When they complain, complain back about the parking stand 
+
+Note that if your bike has a presta or dunlop valve, you'll need either an adapter or a different head. 
+
+I'm going to call herniated sidewalls: a "criggie" from now on. 
+
+For example, my local part supply store has this kit for $14. Just walk into a car parts store and ask for the tire-inflation attachment for your compressor. 
+
+What's their sealing mechanism? 
+
+So try to keep it in a dry area out of the sun, and not near any ozone sources (mostly electric motors such as an AC unit). 
+
+the 'glue' has to dry absolutely before you patch (as it's not 'glue' in the sense we know it) 
+
+Since the Little Big Bens are 38-40mm in width, you should be ok with them on the Space Horse ... except .... 
+
+The webpage for http://allcitycycles.com/bikes/space_horse clearly indicates that your thickest tire is a 700c x 42. 
+
+What becomes a problem is if you store the wheels near a DC electric motor that uses brushes. These produce a small amount of ozone, which contributes to the premature destruction of tire rubber. Most AC motors are brushless, so are fine.

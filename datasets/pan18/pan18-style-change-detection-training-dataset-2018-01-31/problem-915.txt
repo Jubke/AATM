@@ -1,0 +1,27 @@
+Then again, the mobile site is supposed to have limited functionality anyway[citation needed]. 
+
+So this is probably bydesign, and will probably be declined if you make it into a featurereq. 
+
+If the problem still persists, it's a bug 
+
+At first, I thought that people were VTCing as "to broad" due to the absence of the "too localised" option (and was about to superping them to to give a quick overview of the new system), but then I checked the review queue dates. Turns out that all old outstanding TL votes have been converted to "too broad". This makes no sense, and may lead to other closevoters voting as too broad (due to the red circles in the VTC dialog). 
+
+Could those requests be batched up or something? 
+
+This is a site for Scientists, academics, teachers and students. 
+
+Could someone please fix this in the Area 51 emails? Since a lot of the Area 51 commiters are SE newbies, this sort of makes a bad impression. Sort of. 
+
+I noticed that posts in the mod queue seemed to be getting a blue "show more comments" link. 
+
+As one of 204 people who committed to the site, we need your help! 
+
+Another thing that it does is make it hard (no message reply button) to reply to the chat message that you've edited, while the original owner can. Ditto for starring; the original owner can star it but you can't. 
+
+I checked back later to see how well the election was going, and I see that my votes for minitech, Lix, slugster, Neal, TheifMaster, and Lucifer have been reversed (No, I'm not telling you what they were initially). Also, I'm quite sure I voted for Brad and that vote had disappeared too. 
+
+A vote for jcolebrand had appeared out of nowhere. 
+
+Instead, in the spirit of "too localized is off topic", why not just convert them to unspecified1 "off topic" votes? This will encourage users to check out the off topic menu. 
+
+Is this SE's implementation of a George Bush factor?

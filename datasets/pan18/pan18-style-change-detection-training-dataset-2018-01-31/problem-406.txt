@@ -1,0 +1,27 @@
+** Your mileage may vary. As krzski notes, some Shimano dealers in some countries may have spare parts. 
+
+Also, be careful when using an electric air compressor to inflate your tires. Your bike tires are very low-volume and it's easy to over-inflate and burst them. Set the pressure on the compressor as low as you can and don't trust the low pressure cut-off to react quick enough to save your tire. 
+
+But before you give up hope, take your bike to a bike shop. It may be as simple a matter that your indicator spindle or shifter cable needs adjusting. Sheldon Brown has very good instructions on how to adjust this (e.g., for Shimano Nexus) but we'd need to know which unit you had for us to give you details here. 
+
+It's just a standard schrader head. Locking heads are only needed for hand- or foot-pumps as you can't secure the head on while pumping the pump manually. 
+
+In your case, it does sound like maybe the spring that forces the dynamo onto onto the tire sidewall isn't apply enough pressure. I'd put some oil on the spring and hinges and work the hinge back and forth a few times. The dynamo may have also rotated (fallen) off its mounting bracket slightly, you may need to rotate it back into position and tighten its screw more tightly. 
+
+Internal gear hubs are full of sproingy bits. This is what a Shimano gear hub looks like inside: 
+
+If you don't have a chain and don't have a chainguard, you're almost guaranteed to slip at some point and dig your chainring into your shins or ankles. 
+
+Tl;dr it won't damage the bike but it might damage you. 
+
+It sounds like you have a bottle dynamo. Many are constructed poorly and have matching short lifespans. 
+
+Note that if your bike has a presta or dunlop valve, you'll need either an adapter or a different head. 
+
+Vegetable oils such as "olive oil, castor oil, or peach kernel oil" are entirely inappropriate for lubricating anything except your salad and steak (or in the case of castor oil, your digestive system). 
+
+But any of the bottom brackets can be installed in the same type of frame (the "default"/ISO 68mm wide, 1.37in diameter, 24 TPI). 
+
+If you decide you'll keep it and service it yourself, I'd recommend purchasing some grease/oil (check which you'll need for your specific model) that's made specifically for bike suspension. A lot of lubricants I've inadvertedly used in the past contained some sort of adhesive (to stick to the metal surfaces and protect them), and the lubrication became gluey as soon as the bike hit some dusty path. On the other hand, fluids intended for suspensions or hydraulic systems tend to expel impurities and keep flowing nice over time. 
+
+So, answering your question, I propose this "plan" to extract every kilometer a drivetrain can give, with the least money spent. Some tips might require boring manual labor, so you should measure this cost, too. In the other hand, I feel "wrong" throwing away a part which I know is still usable. The planet thanks.

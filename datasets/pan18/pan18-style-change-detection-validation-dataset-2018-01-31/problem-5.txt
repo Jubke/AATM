@@ -1,0 +1,23 @@
+We'll then estimate those chunks in weeks of effort giving a ranged estimate and noting any assumptions we're making. Where the range given by the team is large we'll drill further into risks to try and uncover where the uncertainty lies. 
+
+unless you have a really big screen where you have your standup, a physical board makes a great point to gather, discuss what's in progress and any blockers and talk about risks. 
+
+A few approaches you might consider: 
+
+We also colour coded the broken out stories that were part of the big story so we made progress of the whole feature visible on our board. 
+
+Rather than undertaking several projects for one requester, would it be possible to focus efforts on the most important one and deliver that before moving onto the next? The requester will be able to focus better on just one project rather than juggling several which in turn should improve their availability for answering questions and reviewing work. Equally, the people who will be using the software will get value quicker as your developers are able to complete work more rapidly. 
+
+It communicates to other stakeholders more easily. 
+
+An initiative we've started recently is a fortnightly award called 'Achievements in Agile' where teams can win a prize (usually a night out or toys like Nerf guns) for stuff like trying innovative process improvements. This is peer nominated which means teams need to actively promote what they are doing. 
+
+It creates a focal point for standups. 
+
+The total range as well as the assumptions and risks can then be presented back to the committee. If there is too much uncertainty (the range is too big) for them to commit to the project, you can then ask for time to investigate some of the risks and assumptions to see if you can get some more certainty. 
+
+Finally, you might want to see how amenable the committee would be to changing the process slightly. We now ask the people who sign off budget for work to tell us, based on the expected benefits of the work, what the maximum they would be willing to invest would be. 
+
+We still had a couple of large chunks with no verifiable outcome though. To get round this, we created a web page within our app that would output things like user IDs, user roles etc that are passed to the 3rd party so the PO could see the app was doing something and getting the right information out, even though it wasn't doing anything with the data yet. 
+
+Customer service team agrees that the infrastructure team will provide an API that allows them to pass a customers email address in and will return some data about the customer account, conforming to an agreed schema that contains information about the customer account allowing them to route the ticket to the right internal team.

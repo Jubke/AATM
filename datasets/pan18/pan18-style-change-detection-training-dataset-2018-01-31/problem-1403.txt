@@ -1,0 +1,13 @@
+The reason that conditional branches are slower is that they cause the instruction execution pipeline to stall. Branch prediction is about avoiding the stall by predicting which way the branch is going to go and speculatively choosing the next instruction based on that. If the prediction fails, there is a delay while the instruction for the other direction is loaded. 
+
+1 - The reason these tricks are (IMO) dangerous and foolish is that they affect the values of strings that are potentially shared by other parts of your application via the string pool. This can cause chaos ... in ways that the next guy maintaining your code has little chance of tracking down. (This is intended to be a canonical Q&A for a very specific compilation error message that often confuses new Java programmers, not a tutorial on the various different "type conversion" problems that one can encounter in Java.) This could be a bit tricky in the most general case. 
+
+EDIT: Obviously the actual answer(s) will be JVM dependent, but general observations are also welcome. 
+
+What does the Java compilation message: 
+
+(FOLLOWUP - The Lombok developers recognize that not generating javadoc comments for synthesized getter and setter methods is an issue. If this is a major problem for your project(s), then one alternative is to create and submit a Lombok patch to address this.) 
+
+Make sure that you haven't put a semicolon in the JAVA_HOME variable2. I'm ignoring the issue that your benchmarking might be flawed, and taking the result at face value. 
+
+A Google search found me an old benchmark that reports a thread creation rate of ~4000 per second on a Sun Java 1.4.1 on a 2002 vintage dual processor Xeon running 2002 vintage Linux. A more modern platform will give better numbers ... and I can't comment on the methodology ... but at least it gives a ballpark for how expensive thread creation is likely to be.

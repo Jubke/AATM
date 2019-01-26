@@ -1,0 +1,31 @@
+Yes, a few: https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_Sumerian 
+
+[Pardon the seeming equation of languages with current political entities] 
+
+It is not common unbroken Indo-European legacy - Latin habere and Germanic haben are not actually cognates, and classical Latin and Greek made little use of auxiliaries anyway. Many Indo-European languages outside of Western Europe - Armenian, Iranian languages, Slavic languages beside Macedonian - use the copula as an auxiliary, but most do not use any translation or cognate of habere or haben as an auxiliary for the past tense. 
+
+The use of have, haben, avoir, avere etc as an auxiliary for the past tense is an example of an areal feature. The areas where languages use this auxiliary correspond roughly to former Celtic-speaking areas and to those where language was heavily influenced by Vulgar Latin, including deep in the Balkans. I will not speculate on the ultimate source and exact mechanism here. 
+
+See also: https://en.wiktionary.org/wiki/Category:Russian_terms_derived_from_Turkic_languages 
+
+It is only in East Slavic that the Russian meaning occurs - not in Iranic, not in Turkic nor in South Slavic. 
+
+Both South Slavic and East Slavic borrowed this Persian word via Turkic languages, but separately - ie long after the Slavic languages branched. 
+
+Loans can also be in either direction, see https://en.wiktionary.org/wiki/Category:Latin_terms_derived_from_Proto-Germanic. The Latin word for shirt is from Latin, but the Germanic tribes did not bring shirt technology to the Romans. 
+
+They were mostly borrowed via Akkadian, and into other major classical languages of the Eastern Mediterranean beside Ancient Greek - Aramaic, Armenian, Persian, Hebrew... 
+
+If we can observe a tendency in Russian borrowings from Turkic, I would ascribe it less to conflict - there were Russian conflicts with the French and Germans too, and the South Slavs had plenty of conflict with the Ottomans - than to Russia's colonial relationship with the Caucasus and Asia generally. 
+
+Loans observe network effects. Latin was a lingua franca for a time, like English is today. We all understand that just because many cultures took a word like shorts, boxing, canyon, clan or cybersex from English does not imply that the cultures had no such concept before, or that the concept was originally invented by the English. 
+
+Areal features develop when languages from different groups or branches are in contact with each other. There are a few main mechanisms - common substrate, common superstrate, parallel development. 
+
+About the feature in question: 
+
+One well-known example is the emerging Russian neo-vocative: 
+
+Loans can exist because of substrate not superstrate. Germanic languages had not yet expanded to their present area at the time in question, it could be simply that people in, say, the Alps had streets, wine and cheese when they were speaking Celtic, Romance or Slavic languages. 
+
+So, although there is a correlation between loaning words and loaning technologies, in the case of a specific technology like wine it is better to read ancient reports, find evidence of grapes actually being grown north of the Alps and so on - ie out of the scope of this sub.

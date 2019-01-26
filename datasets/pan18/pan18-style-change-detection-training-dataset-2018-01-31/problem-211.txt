@@ -1,0 +1,29 @@
+It would also be a huge balance issue to negate Rek'sai's Tremor Sense just by picking a champion that floats such as Malzahar or Nami. Champions aren't allowed to simply ignore rules and should all be affected by abilities the same way. 
+
+Further testing in a custom game I've noticed that the -50 armor and magic resist persists after the CC ends (seen by clicking on the crab and checking its resists before, during and after the effect), but the 25% extra damage does not. It can however be reapplied multiple times after ending without killing the crab. 
+
+Once towers start falling the laning phase is over or soon will be. You should have a sightstone by now, and a red sweeper trinket. While everyone on the team can help with vision, the support has the most tools to contribute. While you aren't warding you should be sticking with your team. What you do then will largely depend on the champion you play. So again just general rules to apply. However I haven't found out how to disenchant anything in the client yet. I have a couple cores and some cache fragments myself and don't see a disenchant option. EDIT 2: It is now enabled, you can disenchant leftover PROJECT items for 2 orange essence each. Most supports now have their utility scale with AP. Should I build like an AP mid to strengthen utility and damage, or maybe that is best left to the actual mid? The only items I ever generally get on all supports is boots, one gold item and a sightstone then whatever looks good after those. My favorite support is Lulu if you have a good answer for a build to use on her. The only time to consider a GP/10 item on a carry is if you're getting less than 2 minion kills a minute. 
+
+The cooldown on Karthus's ultimate ability Requiem is 180/150/120 seconds. If I buy a CDR item like Morello's Evil Tomb, how does that affect the current cooldown? 
+
+Sometimes I'm forced to ignore someone on my team for some reason. Can a player I've ignored still see my chat/pings? Can I see their mini-map pings? Edit: Another image to help visualize this: If Sona grants an aura to an ally that gets a kill, will this count as an assist? I'm assuming she hasn't changed her auras during the fight. The immediate exploit I can think of is destroying Teemo's mushrooms. Since they last for 10 minutes, a spectator could direct a player with an oracle's where to go to clear them. It's more important to build items that counter your opponents abilities. If you notice them build early magic resist, buy magic penetration! 
+
+Yes, per win IP boosts and timed boosts stack together. If I last hit a tower and destroy it, what rewards (if any) do I receive? 
+
+Do critical strikes vs thornmail count for the owner? Though not directly useful, a spectator can watch a player's play-style and make best guesses about future moves. Any pattern they see could potentially be used against that player. 
+
+Once towers start falling the laning phase is over or soon will be. You should have a sightstone by now, and a red sweeper trinket. While everyone on the team can help with vision, the support has the most tools to contribute. While you aren't warding you should be sticking with your team. What you do then will largely depend on the champion you play. So again just general rules to apply. 
+
+Mid to late game focus switches to: The very reason there is a duo lane bottom is to keep early pressure on dragon. So keeping the river and/or dragon pit warded both reveals possible ganks and prevents the enemy from sneaking in a dragon kill. This also goes for baron in the mid to late game after laning phase is over. You might be surprised how often people neglect to keep track of neutral objectives. Having someone on the team to give guidance can help keep everyone on the same page. 
+
+Turrets start with 40 armor which equals about 28.6% damage reduction. 
+
+Rek'sai's Tremor Sense isn't a constant detection either and most dashes/jumps are quick and last maybe a second if not less. This means even if you weren't detectable while in the air, it would be for such a short time that it would make a difference anyways. 
+
+It would also be a huge balance issue to negate Rek'sai's Tremor Sense just by picking a champion that floats such as Malzahar or Nami. Champions aren't allowed to simply ignore rules and should all be affected by abilities the same way. Auto Attacks after the root wore off dealt 60 damage 
+
+Auto Attacks before casting any spells dealt 42 damage. 53.7 * .714 = 38.3 damage per auto attack. 38.3 * .568 = 21.8 DPS to a tower. No there is no way to change A's attack move command to only target champions. The default key "tilde" does not target the same way the "a" key does. The cooldown on Karthus's ultimate ability Requiem is 180/150/120 seconds. If I buy a CDR item like Morello's Evil Tomb, how does that affect the current cooldown? 
+
+Sometimes I'm forced to ignore someone on my team for some reason. Can a player I've ignored still see my chat/pings? Can I see their mini-map pings? If I last hit a tower and destroy it, what rewards (if any) do I receive? The only time to consider a GP/10 item on a carry is if you're getting less than 2 minion kills a minute. Do critical strikes vs thornmail count for the owner? Yes, per win IP boosts and timed boosts stack together. The immediate exploit I can think of is destroying Teemo's mushrooms. Since they last for 10 minutes, a spectator could direct a player with an oracle's where to go to clear them. 
+
+The images tell it much better than I can, but here's a rough list of where to ward: If Sona grants an aura to an ally that gets a kill, will this count as an assist? I'm assuming she hasn't changed her auras during the fight.

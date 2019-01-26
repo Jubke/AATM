@@ -1,0 +1,39 @@
+As wolf-revo-cats points out, your question is so broad as to encompass the entire fields of epistemology and philosophy of science. 
+
+I recently found myself unable to respond to the statement "But the big bang theory is just another creation myth!" during a science vs. religion argument. I found it very difficult to explain the difference between the big bang theory and creation myths without going through a crash course in Newtonian and then Relativistic mechanics. 
+
+Our mind plays an important role in the way our sense data is organized. My questions 
+
+This is not what Carnap and the Positivists are saying, their claim is much stronger: They think that (b) is just as meaningless as (a), because the concept "unlucky" cannot be verified empirically. What does it mean for someone to be "unlucky"? Can you measure "unluckiness" or observe it with a microscope? Can you perform an experiment to prove that Sam is unlucky? No, and hence the term unlucky doesn't carry any meaning, and hence (b) is just as much gibberish as (a). 
+
+How would it be possible for such a person to distinguish scientific facts from religious dogma? How can we convince such a person of the validity of ideas like those of modern cosmology or evolutionary biology, without first having to teach them enough biology and physics to understand those concepts? 
+
+One approach is to extend the computational theory of mind, as Cort Ammon points out, and consider any form of neural activity as a from of computation. The answer becomes trivial: Animals think because thy process information using neurons. But we can do better than that. 
+
+If a field starts providing objective, accurate answers, doesn't it just become a subfield of science? 
+
+A similar form of interventionism might be implemented via statistical mechanics and thermodynamics, with the deity intervening, Maxwell's demon like, to cause statistically improbable but still mathematically possible outcomes and stir the universe in that fashion. 
+
+To put it more simply: Science has all the answers, because science IS anything that can provide objective and useful answers to a question. 
+
+This had me thinking of the following scenario: Consider a person who for various reasons never got a formal education beyond basic reading and writing. He/She doesn't know any science or math, and was never exposed to any scientific reasoning and experiments. She/He is however an open minded, level headed, and rational person (I've met more than one such person myself). 
+
+That (a) is meaningless even though it is grammatically correct is uncontroversial, most people would consider (a) to be meaningless, while both (b) and (c) are meaningful sentences. 
+
+In particular if such a person were to heed the advice of the Kalama Sutra: 
+
+Following the Buddha's advice (ironically himself a religious figure), such a rational but uneducated person would have just as much reason to doubt the various results of scientists as to doubt the dogmas of organized religion. 
+
+Similarly, in logical atomism and logical positivism, there seems to be no difference between knowing and understanding. It is enough to map sensory data, facts about the world to proper logical (and hence linguistic) structures. There's no way to differentiate between understanding a concept and simply being able to state its definition (along with its components) correctly. 
+
+One would assume that no matter how neutral an investigator tried to be, her theoretical presuppositions are informed by her values and the ethical system she operates within. It would become impossible not just to draw the boundary between science and metaphysics, but between science and axiology (the study of values and ethics) as well. The is/ought problem is turned on its head because no matter how hard one tries, they are always influenced by their "oughts". 
+
+A clarification based on some of the answers I've received: I'm not looking for the psychological factors that cause people to hold such beliefs, or a pragmatic method of dealing with them. I am asking about the epistemic grounds for refuting them and considering their views invalid, given the underdetermination of data, although obviously there could be overlap between such epistemic justification and the pragmatic solution to dealing with them. 
+
+The processes are similar in principle, the only difference is the degree of accuracy, i.e. it is a quantitative difference. Yet they are considered to be entirely different qualities of evidence: The witness's reliability (even assuming good intentions) will be questioned and disputed by any prosecutor or lawyer. The digital photos will not be disputed in most cases, and would require an image processing specialist if they wanted to make the claim that it was digitally tampered with or photoshopped or something. 
+
+Wittgenstein proposed in his later philosophy the concept of family resemblance to describe groups which cannot be defined by a single (or simple set) of common features but instead display (from the SEP): 
+
+How would such a person differentiate science from religion? As far as he/she is concerned science has the exact same structure as religion: 
+
+I have seen work done on generating hypothesis from data mining the texts of large databases of biomedical papers in the bio-medical filed. The idea is pretty straight forward: Establish correlations between medical conditions on one hand and certain substances/enzymes/proteins etc... on the other hand, based on connections found in the literature that a human researcher wouldn't have time to discover systematically and could only stumble upon by accident. This allows researchers to search for previously unknown potential causes and/or cures for these conditions.

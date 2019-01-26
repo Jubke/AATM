@@ -1,0 +1,57 @@
+The bigger one is that it lets the programmer be lazy and not care about memory resource lifetimes and certain other resources you don't mind delayed cleanup on. When you don't have to care about certain kinds of problems, you can care more about other problems. This lets you focus on the parts of your problem you want to focus on. 
+
+It implicitly converts to-from C style strings like so: 
+
+Allow clients to request memory from it in FILO manner (stack-like). (this mimics how it works in C VLAs; and it is efficient, as each request/return is just an integer addition/subtraction). 
+
+I'm going to design a pathological computer1. It is a multi-core, high-latency, single-thread system with in-thread joins that operates with byte-level instructions. So you make a request for something to happen, then the computer runs (in its own "thread" or "task") a byte-level set of instructions, and a certain number of cycles later the operation is complete. 
+
+Another example I've seen is when we had to register a callback with a poor C API that just took a function pointer. We'd create a function (compiled without optimization), copy it to another page, modify a pointer constant within that function, then mark that page as executable, allowing us to secretly pass a pointer along with the function pointer to the callback. 
+
+Sometimes a change to an unrelated compilation unit, or far away code in the same compilation unit, can cause previously "working" UB to not work; as an example, two inline functions or methods with different definitions but the same signature. One is silently discarded during linking; and completely innocuous code changes can change which one is discarded. 
+
+The lambda in question actually has no state. 
+
+Data will be not as local as the C VLA data is because it will be effectively on a separate stack. You can use SBO (small buffer optimization), which is when locality really matters. 
+
+Create a large buffer (MB+) in thread-local storage. (Actual memory on heap, management in TLS). 
+
+My first attempt looks somewhat like this: 
+
+So I have an existing library that provides a string type. 
+
+Or, in a more general case, if you have multiple overrides of a function, one of which takes a function and others take some other type at the same location. 
+
+Impossibly Fast Delegates competes. It is faster in some situations, slower in others, and is compliant with the C++ standard. 
+
+Now, we can get around this via perfect forwarding and SFINAE, allowing you to write a single constructor or function template that takes 10 arguments, does SFINAE to ensure that the arguments are of appropriate types, and then moves-or-copies them into the local state as required. While this prevents the thousand fold increase in program size problem, there can still be a whole pile of functions generated from this template. (template function instantiations generate functions) 
+
+The code that is working in one context can suddenly stop working in the same compiler, OS and hardware when you use it in a different context. An example of this is violating strong aliasing; the compiled code might work when called at spot A, but when inlined (possibly at link-time!) the code can change meaning. 
+
+Note that in the end, neither where added in C++14. 
+
+NRVO failure When NRVO (named return value optimization) fails, in C++03 it falls back on copy, on C++11 it falls back on move. Failures of NRVO are easy: 
+
+The downside is that without RAII, managing resources whose lifetime you want constrained is hard. GC languages basically reduce you to either having extremely simple scope-bound lifetimes or require you to do resource management manually, like in C, with manually stating you are done with a resource. Their object lifetime system is strongly tied to GC, and doesn't work well for tight lifetime management of large complex (yet cycle-free) systems. 
+
+Note that my attempts to remove the double-nested nature of the loop seem to make the problem go away. 
+
+Both @Barry and @KerrekSB first illustrated these two principles in their answers. This is simply an attempt to highlight the two issues in one answer, with wording that aims at the problem rather than being example-centric. 
+
+Wouldn't you want something, you know, simpler? 
+
+Now, this only works because we know, when the function (in this case, a constructor) is called, that we will be wanting a local copy of that argument. The idea is that if we know that we are going to be making a copy, we should let the caller know that we are making a copy by putting it in our argument list. They can then optimize around the fact that they are going to give us a copy (by moving into our argument, for example). 
+
+Suppose you had a metafunction whose output was a class or alias template instead of a type. The current method is something like this: 
+
+The same is true when you construct an object from a temporary -- the operation is implicitly a move (as it is binding to an rvalue) and it can elide away the move completely. 
+
+Second, you can get types wrong. In some cases, the wrong type will work seemingly perfectly, but will cause a copy. 
+
+This is a relatively strange corner case. 
+
+Now with move-data-from-rhs, append-array-to-container, append forward_list-to-container, move-container-from-lhs, thanks to @DyP's help. 
+
+N3639 proposes to add local runtime-sized arrays with automatic storage duration to C++. 
+
+Meanwhile, the main thread of execution continues:

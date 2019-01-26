@@ -1,0 +1,41 @@
+Your query also includes questions, which do not contribute to tag badges at all. So if a user only ever asks questions in that tag, they could get a score higher than you with zero progress towards the badge. 
+
+For example, I have a score of 36 in the Java tag (more than a third of the progress for the score requirement), but have only posted two answers in that tag (a mere tenth of the requirement). Sometimes simple or common answers in a popular language attract a high number of votes that skew one part of the badge way out of proportion to the other. 
+
+Please do not fill the flag queue with tag requests. Here is a much better and quicker alternative: 
+
+Include a note at the bottom of your question, or leave a comment after posting, specifying that a tag you wanted to add did not exist yet and it should be added by someone who has the privilege to do so. If it is deemed that the tag should be created, the person who creates the tag will also edit the message out of your post. If they don't agree, they can either leave the message for someone else to judge, or remove it if they know it should not exist. 
+
+I am ok with the tag being used for this purpose, but I think the tag should be renamed copyright-display. 
+
+As a result of the above, I've merged corner with corners 
+
+I'm not a fan of this, it really doesn't add anything to the question and while not ambiguous, there are other tags which when used together make it much easier to search. 
+
+I've also kept a list of the questions that were retagged. If we really want them back or tagged differently, it's easily done. 
+
+Note, I've also removed the const-char-pointer and retagged as above. I have that list as well. 
+
+Of the 33 questions left with rounded, I removed the rounded tag, or replaced it with rounded-corners or number-rounding where appropriate. rounded no longer exists. 
+
+I'll update this as I make my way through the rest. 
+
+The blacklist could then be applied. 
+
+As an aside, I'm also thinking the const-char-pointer tag questions (nine of them) should be retagged const, string and pointer. 
+
+Retagged the 9 questions with rounded and corner to rounded-corners 
+
+Once the queue is cleared again (which should be quick, because we'll have all of the people who use that queue, not just people who are always on meta and willing to do something about it), the tag can be nuked from orbit, knowing that all the questions with the tag had been properly vetted. 
+
+I don't know if it makes sense to actually blacklist the tag. A copyright is an actual thing, so I'm not sure that I have an issue with it, as long as there's something that's on topic for Stack Overflow. 
+
+The tag won't be blacklisted; 331 questions is nothing compared to say the books or homework question, which is a consistent problem. 
+
+The important thing here is to place the emphasis on getting rid of the bad questions, not on removing the tag. 
+
+The tag wiki for copyright states: 
+
+Here's an idea, why don't we ask SE to tweak the new review queue and route all the homework questions through there (note, I'm not asking for a tool that let's moderators do this, that opens the door to abuse, but rather, I want them to manually tweak the algorithm/flags/whatever to run that set of questions through the queue)? We'll certainly get the closures quicker and ensure coverage of all those questions. 
+
+To that end I've gone and retagged the questions marked char-pointer with both pointers and string, as every question in that tag was dealing with not a pointer to a single character, but multiple sequential characters, which are... erm... strings.

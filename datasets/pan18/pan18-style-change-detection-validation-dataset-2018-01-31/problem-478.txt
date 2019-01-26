@@ -1,0 +1,61 @@
+If you want to have a look at recently closed questions, just do a search for: 
+
+Then, while our error rate so far has been extremely low (less than 1%), it is a concern. The idea of this system is to interfere with sincere use of the sites in the most minimal way possible. 
+
+Think of it a bit like email, where you see a sudden surge of spam, then your filters learn and stop more from coming in. You've still got some in your inbox that you have to throw out, and that's what you're doing when you see this. 
+
+What we should be looking at is why we can't take any of the rather good suggestions here and go with them, which comes back to the fact that we don't deal with comments as well as we should. 
+
+If you see this message, the origin has been, or will very shortly be blocked (99.9% of the time, they have been). The system is just alerting you to the fact that you're probably looking at spam, so make sure to review it extra carefully. 
+
+Still, in most cases, if you know something is wrong you can probably edit it yourself and fix it. 
+
+What I propose is simplifying it. Let anyone with a registered account leave a comment until n comments left by them have been flagged and deleted. If that happens, back to waiting for 50 rep they go. I know this is a little complicated, but enabling this softens one of the first sharp edges folks hit when deciding to engage. 
+
+Users with low reputation can post answers on unprotected questions without any limit. 
+
+No, only explicitly pressing the "Skip" button cause actual skipping of the item. (i.e. the item will no longer be displayed for you, unless you browse it directly.) 
+
+TL;DR - no official policy, so I'll share my own opinions as a veteran user. 
+
+Editing this to fix the grammar is just pointless. 
+
+Actually, reputation is not relevant when it comes to posting answers on the great majority of the questions, which are not protected. User with 1 rep can post an awesome answer that will get to score of +1000 eventually, and user with 100000 rep can post really bad answer that will get to score of -100/deleted/etc. 
+
+Sometimes fixing some typos and/or grammar mistakes in a totally broken post is pointless. It's also known as "polishing turds". In those cases rejecting the edit is justified, as the post should be deleted, not edited. For example: 
+
+Editor should make sure the edit summary reflects the edit, and not just vague "fixing formatting". 
+
+Better have short and simple button caption, and those who want extra details and guidance, can go to the help center and the per meta site to read the review faq. 
+
+Also, important to mention that as of April 2015, review items are temporary locked. So if you enter a review item, nobody else (including yourself) will get that item for several minutes when going to the review queue. Trying again after several minutes should "fix" this. 
+
+"Remove From Review" might be technically correct, but less intuitive. It can be also changed "Vote to Remove From the Close Votes Review Queue" but as you might figure, it just becomes too long. 
+
+If you want to have a look at recently closed questions, just do a search for: 
+
+Then, while our error rate so far has been extremely low (less than 1%), it is a concern. The idea of this system is to interfere with sincere use of the sites in the most minimal way possible. 
+
+It's always (or almost always) accurate, why not just delete it when you block them? 
+
+If you see this message, the origin has been, or will very shortly be blocked (99.9% of the time, they have been). The system is just alerting you to the fact that you're probably looking at spam, so make sure to review it extra carefully. 
+
+If you think an answer needs one of the above notices placed on it, flag the answer as 'other' and indicate which notice it needs with a brief explanation of why it should be applied. 
+
+Still, in most cases, if you know something is wrong you can probably edit it yourself and fix it. 
+
+"Remove From Review" might be technically correct, but less intuitive. It can be also changed "Vote to Remove From the Close Votes Review Queue" but as you might figure, it just becomes too long. 
+
+Editor should make sure the edit summary reflects the edit, and not just vague "fixing formatting". 
+
+And how exactly will SE know the reviewer language skills? Have them pass exams? Really, this isn't feasible at all. 
+
+You see a different review item because the system is showing a review item in random. 
+
+Without seeing examples it's hard to judge, and judging by your first paragraph, you don't really want us to share those examples anyway, so I'll just give my two cents as a general note. 
+
+As for protected questions, this is a totally different thing and might deserve a totally different discussion. They are rare, and usually protected for good reasons. This answer in NOT about protected questions. 
+
+TL;DR - no official policy, so I'll share my own opinions as a veteran user. 
+
+No, only explicitly pressing the "Skip" button cause actual skipping of the item. (i.e. the item will no longer be displayed for you, unless you browse it directly.)

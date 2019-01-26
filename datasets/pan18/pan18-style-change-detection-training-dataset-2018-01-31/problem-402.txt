@@ -1,0 +1,21 @@
+Given that you can't shift up (to a higher/bigger front chainring) and that the shifter feels that it's disconnected, my guess is that it's the shifter (#1 below) that is frozen since the symptoms of #2 and #3 are that shifts down to a smaller chainring are slow/harder; and/or that the shifter feels hard/stuck when shifting up, not loose which is what you're experiencing. 
+
+The simple fix for housing freeze is to try to use an injection of WD-40 (water-displacing formula #40) into the cable housing to expel all of the water and leave a thin film of very light lubricant. I would try to do this when it is warm (or your bike is inside the house) to give yourself the maximum chance of expelling the water. They sell cable lubrication widgets to put on your WD-40 straw, but I find it's sufficient to take the housing nipple off, aim the straw at the raw cable, spray, and then work the shift lever in and out -- keep repeating until you're either tired or there's some lubricant coming out the other end of the cable. This is very messy. Do not wear your favorite shirt and lay down newspaper or cardboard over your spouse's favorite rug before doing this. 
+
+Baked on grease can look yellow or the manufacturer might have coated it with something. In this case, it looks like the manufacturer gave it a light coating. 
+
+My derailleur won't reach to the lowest cog because of frame interference from the seat stay. So instead of a 11-34, it's effectively a 14-34. That's ok. If I really wanted the 11-cog, I'd dremel down the rear seatstay but this is just a commuter bike so I don't really feel the loss. 
+
+Many ebay and other online vendors advertise the long-reach Shimano BR-650 brakes as being "Ultegra" series. 
+
+Fineprints: But (along the lines of what @Criggie points out) it might be cheaper to buy a new freewheel than a can of Boeshield... Another side note is that using an acid to strip rust can be a bad idea because it leaves the exposed metal in a particularly vulnerable state for corrosion. Because rust on the sides of the sprockets really doesn't hurt you, I would have just degreased with a citrus degreaser and left the rust alone -- or bought a new freewheel. 
+
+If you have an indexed thumb shifter, then these are known to have lubrication problems and will eventually freeze up in the way that you mention (shifting up doesn't work, it feels like the cable is disconnected). The simple fix for this is to shoot some WD-40 or other light lubricant into the thumb shifter body and to work it in while shifting up and down. If you can, taking off the top of the housing will work better. This is only a partial fix as eventually the lubricant will stiffen again. You can then do an overhaul of the shifter, or just get a new one from your local bike shop. There are numerous intertubes videos on how to do this, just youtube "[name of shifter] DIY fix" 
+
+I did this with my 1975 Peugeot UO18 to turn it from a 2x5 into a 2x9 speed (actually 2x8, as the frame interferes with the smallest cog). Even losing the smallest cog, I expanded my rear cogs from 14-26 five speed to an effective 13-34 on the rear. Made going up hills so much easier! 
+
+There are three places to explore: the shifter, the cable housing or the front derailleur. 
+
+Normally the lube from your chain (especially if you use a tacky lube) is enough to prevent corrosion. But if you're worried, why not just give it an extra coating of silicone oil. 
+
+If that doesn't work, then I would unhook your front derailleur from the shifting cable and leave it overnight to "freeze." In the morning, I would dry shift the cable and see if it is moving properly. I would also pull and push on the front derailleur shifting mechanism to see if that is also moving correctly. This is step #3 since steps #1 and #2 doesn't require unhooking, hooking up, and readjusting your front derailleur.

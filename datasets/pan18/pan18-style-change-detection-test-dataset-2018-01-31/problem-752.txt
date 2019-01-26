@@ -1,0 +1,33 @@
+The words without form and void correspond to תֹהוּ (tohu) and בֹהוּ (bohu) respectively. bohu is traditionally translated by religious scholars as desolation or emptiness. and the Shaman then tells you "son, there is no further trick to explain — what you saw was surely some kind of illusion." 
+
+The bible does not state that in the beginning there was nothing. Genesis begins with: 
+
+Indeed, some people insist that true "levitation" is possible, and others insist it is nothing but an illusion — a bag of tricks — I belong to the former camp, and believe that explaining the mystery of consciousness with loops is silly. I think that the word void in King James Version is meant in the sense of emptiness, not nothingness. Here is the Hebrew source: Consider this quote by Feynman from page 10 of QED: The Strange Theory of Light and Matter: 
+
+3) We do not know the nature of the soul. 
+
+It naturally includes no metaphysics, but it does in my opinion include a lot of philosophy. 
+
+1) It is one way to create something from nothing; see this relevant critique of a book by Lawrence M. Krauss by professor of philosophy David Albert. 4) In particular we do not know if the soul can cease to exist. Reasons to be confident in opinions you formulate: 
+
+Suppose you go to your village Shaman and tell him "oh master, I have seen a person sitting in the air as it were, levitating. how is this possible?" 2) It increases your chance of an interesting chat with Socrates. But much of Big Bang cosmology is based on extrapolating what we observe to the entire universe, in other words it is based not on the Copernican principle, but on its non-sequitur. The whole reasoning is uncomfortably reminiscent of Kant's antinomy of space and time, where one gets a contradiction by applying forms of experience to categories that go beyond any possible experience, such as 'universe as a whole'. Similar reasoning is also used when talking about the "wave function of the universe". 
+
+"The substantial form in a human being may likewise be introduced as being, truistically, that by which a man is a man, or that which makes a man a man. In each of these cases the ‘makes’ is the ‘makes’ of formal causality, as when we say that it is a certain shape which makes a piece of metal a key... If the soul is a form in this sense, then it is no more a concrete object than a shape or a structure is. But besides the abstract notion of form, there is a notion of form as an agent. In these passages it is clear that Aquinas thinks of the human soul as being causally responsible for the various activities which make up a human life." (Kenny) 
+
+See also What makes Leibniz's definition of perfection unintelligible? on problems with perfections, and Is there a suppressed premise in Anselm's Ontological Argument? on another Plantinga's reconstruction of the argument. 
+
+Indeed, its because of the formalisation of paraconsistent logics that a physicist like Doering can say he's lost his fear of inconsistency. 
+
+Now, is there a good physical reason or philosophical reason for this to be dismissed as not sustainable? 
+
+They have also left their mark in popular culture - from Zen & the art of motobike maintenance, Yoda in Star Wars, the Beetles taking up with a guru, the films of Bruce Lee & Kung Fu the 70s TV serial. In high art through the paintings of Rothko and some of the short stories of Salinger. 
+
+Or is this an indication that there are in fact more than one Set Theory in the same way that denying the parallel postulate in non-euclidean geometry resulted in several different geometries: elliptic and spherical with the euclidean geometry occupying a special place because it is flat. 
+
+Certainly there is a similar picture in Topos Theory as a categorification of Set Theory (this is different to what is discussed above) where there are many Toposes but again the category of Sets occupy a unique place (I forget the characterisation of its uniqueness). Aristotle when he contemplated the infinite distinguished between actual infinity & potential infinity, and stated that actual infinities cannot exist but that we can imagine a potential infinity. So, even in Platos Heaven, we cannot find the infinite. 
+
+I don't have an answer for you; it certainly seems to me though that this ought to be, and probably is, one of the tasks of the philosophy of science. 
+
+Or one can take a Spinozan perspective. If God exists as the solely neccessary self-subsistent sunstance, and the world is his creation, then supposing nothing can come from nohing, the world itself is a part of God, for this Spinoza was denounced as a Pantheist; further he said that God had an infinite number of modes, with only two being cognisant by us - extension and thought. So again when world is considered as a whole, the larger part of the world, that is God, is beyond us. Now if a physical system is modelled intuitionistically, and suppose every physical event is modelled intuitionistically; then dually it must be also modelled paraconsistently. 
+
+Now, I've only recently understood that the dual of intuitionistic logic is paraconsistent. It doesn't seem a priori plausible to me that we must interpret the logic of these new constructions intuitionistically, why not paraconsistently? What does it mean that Deleuze "develop[s]... a metaphysics in which the concept of multiplicity replaces that of substance"? To my understanding, substance is a philosophical concept dating from antiquity. In what ways might it be metaphysically problematic? What does "multiplicity" mean here?

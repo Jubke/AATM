@@ -1,0 +1,23 @@
+The first theorem proves that all consistent axiomatic formulations of number theory which include Peano arithmetic (or stronger) include undecidable propositions. 
+
+2. The practice of reasoning in practice Your second goal, namely to "improve the [your?] practice of reasoning" is addressed by another major domain of informal logic called "critical thinking", another intersection where the tools of informal logic are applied with an inclusive educational goal in mind, not just limited to academe. You might have come across discussions about e.g. atheism referring to informal fallacies. This is a good example of notions pertaining to early phase of the field of informal reasoning, where a theory of fallacy was predominant, that slowly trickled down from the ivory towers of academe into pop culture and can be found today in every other Reddit thread. (This SE gets its own share by hosting many questions about fallacies by people otherwise not interested in philosophy.) 
+
+the supporters of SOL wouldn't deem the loss of completeness etc. as fatal. They see set theory not so much as a foundation of mathematics. Instead, set theory should be more a description of mathematics, i.e. the more adherent to mathematical practice, the better (=more precise) the description becomes. 
+
+The assumption that de facto candidates for such a foundational theory of mathematics (ZFC plus some other axioms) are consistent is not a simple convention. Logicians apply ampliative reasoning usually found in the science and think they have some good measure of inductive support to believe that they these candidates are consistent: they have been working with ZFC for almost a century and have never encountered an inconsistency. (Cf. this with the discovery of the inconsistency of Frege's system, which was discovered by Russell while Frege's publication was still in press.) 
+
+These two solutions are commonly regarded as expressions of two different "strains" within logic, the Peano-Frege-Whitehead-Russell tradition and the (Peirce)-Schröder-Hilbert-Zermelo tradition. 
+
+This seems a garden variety of questions and indeed most question might be legitimate topics in vastly different disciplines: cognitive bias -> psychology; argumentative exchange in different social contexts -> sociolinguistics; etc. 
+
+Classics in this field are (in chronological order): 
+
+First, to dispel false conceptions: 
+
+Have a look at the SEP entry on Informal Logic 
+
+(IMO, the most interesting studies are not these big volumes - with the exception of Toulmin because of his clarity - but single papers produced in the field. So reading the Handbook might be a better idea than starting with these classics.) 
+
+The long answer It seems trivial today, but in order to adopt first-order logic (FOL), one has to be able to isolate it from second-order logic (SOL) or higher-order logics. And this possibility was itself an important conquest. Up to Principia Mathematica, several versions of second-order logic (including infinitary logic) were commonly employed by logicians without much care. FOL and SOL were not really distinguished (distinguishable?) until the relative merits and vices of each one were investigated. Or, to state it the other way around: It was the foundationalist quest which lead to study not only the expressibility, but also the properties of various fragments and it was through this venue that FOL and SOL were discerned. 
+
+Indeed, informal logic as a field has many contributions obtained using formal methods (see as a random example this application of Bayesian methods to everyday arguments). Also - I have never seen an explicit mention of this - the whole (highly formal) discussion in philosophy of science about the viability of inference to the best explanation is essentially a discussion pertaining to informal logic.

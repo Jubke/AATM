@@ -1,0 +1,35 @@
+There was also another research by Manuel J.A. Eugster, Jan Gertheiss & Sebastian Kaiser (2010) LMU Munich 'Having the Second Leg At Home – Advantage in the UEFA Champions League Knockout Phase?', where they analyzed only 304 individual matches from the UEFA Champions League (1994 - 2010) also using UEFA club coefficients for removing seeding system disturbance and they concluded that: 
+
+4. Where goals resulting from penalties are concerned, the player who is fouled in the area receives an assist point (unless, that is, the player who is fouled subsequently executes the penalty himself.) 
+
+It's worth to mention that Real Madrid's 2013/14 CL campaign delivered an outstanding result with a whooping average goal difference of 2,38 per game, as compared to average 1,21. Moreover, with this run Real Madrid is the only CL-winner side that achieved an average goal difference greater than 2 per game. 
+
+The corner kick taker is #4 Mahir Shukurov, the 1st player who jumps over the ball is #7 Vagif Javadov, and the 2nd player jumping over the ball is #17 Vüqar Nadirov. As you can see from the stats in official match report from UEFA, the corner kick taker #4 Mahir Shukurov is awarded the assist, not one of the jumpers. (Which makes sense to me, because simply you can't distribute the assists to all of the players jumping over the ball: imagine 9 players doing that). 
+
+2. In the event that the penultimate pass may have decisively influenced the play leading up to the goal, the player who executed this pass may also be allocated an assist point. 
+
+Details Defining the assistant of the goal is up to specific tournament and organisation that holds this tournament. Mostly, only if number of assists matters, the assist stats are kept officially by the organisers. (e.g FIFA World Cup Golden Boot award is awarded to the top goalscorer, and assists play a role when two or more players are equal on goals scored). 
+
+As "Group of Death" is not something that is well defined, we can use the sum of UEFA club coefficients of the clubs in the same group to determine the "Group of Death", as was suggested in this TheGuardian post. After using this method, it turns out that the group of death (more or less) is: 
+
+Now, if we consider Borussia Dortmund and Tottenham Hotspur as "mid-ranking teams" (as bookmakers consider them 12th and 13th ones who're likely to win the tournament), we can compare then their average Champions League winning coefficients by bookmakers before and after the draw to answer your question: 
+
+Counterexample Before going deep in details I would like to give a demonstrative counter-example from the goal scored in UEFA Euro 2012 qualifiers match Azerbaijan 1 - 0 Turkey, where 2 players jump over the ball and leave the shot for the third player. This specific type of corner kick set play is very famous in Azerbaijan and is called "5 qəpik" (5 cents). 
+
+3. The player whose shot led to the rebound that enabled the goalscorer to successfully complete the action is also granted an assist point. 
+
+What this paper shows us is that there is a very small second leg home advantage in the ties decided without tie-breakers and a significant advantage in the ties where tie-breakers were used. 
+
+But, why people do believe in this phenomenon despite poor statistical evidences? Well, perhaps, because when the tied teams are equal they choose "defend away, win at home" strategy, and mainly because of the away goals rule. Probably, the general reasoning, as Patrick Kluivert stated, is that: 
+
+I used the numbers from bookmakers 2017/18 Champions League winner predictions before and after 2017/18 Champions League group stage draw, in order to answer your question. Why? Because Champions League has almost the same format as the World Cup (32 teams, 8 groups, first two to advance), except that teams face each other twice instead of once. 
+
+These rules are old and in modern competitions even the rules from 2nd, 3rd and 4th paragraphs mentioned above tend not to be applied. In the official report of the 2014 FIFA World Cup Brasil it's only dryly stated that: 
+
+5.For goals which are the result of solo efforts (dribbling runs, etc .) no assist points are given. 
+
+*Note that only the games starting from the group stages were taken into account. 
+
+This question has been addressed in the paper by Lionel Page and Katie Page (2007) 'The second leg home advantage: Evidence from European football cup competitions', Journal of Sports Sciences, 25: 14, 1547 — 1556. 
+
+I've spent a good part of my day analyzing the matches documented in individual CL tournament wiki pages and RSSF, and here are the results of the greatest/smallest goal differential (per game) stats through 1992/93 - 2016/17 Champions League seasons* (unfortunately the most/fewest minutes leading stats are not included, as they were too hard to count):

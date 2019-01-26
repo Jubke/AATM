@@ -1,0 +1,21 @@
+Hero (~$600) - Playing mostly tight aggressive. Won a couple big pots; one was textbook and the other I caught runner-runner against a "normally super-aggressive but that hand passive" opponent. 
+
+Flop (~$30 dollars) is 9♥ K♥ 9♠. Villain bets $20. (Unfortunately, I don't recall if I checked to him or if I was in late position. I suspect the latter.) My read was that this opponent could be on the draw based on my perceptions from other hands he played. QQ, AA, AK or the fourth 9 were also reasonable for him. If you're wondering why QQ, this opponent seemed to over value his pocket pairs sometimes, playing very aggressively against passive and not-passive opponents alike. He typically won (with the opponent folding to his bet) but occasionally would get action and then usually lose. If you're wondering why not KK, my read was that he would have re-raised pre-flop with KK, especially with two other people in the hand. 
+
+I'm looking for some advice on a particular hand I played last night. 
+
+Hero is dealt 10♣ 9♣. and bets $10. There are 2 callers. 
+
+Villain (~140) - Seems like a good TAG player; plays few hands and plays them aggressively. Seems like a strong player; but not infallible. Looks a little like Gus from Breaking Bad FWIW. Hero gets KQs and raises to $10. There were a couple callers before reaching the villain, who raised to $25. Action folds around to hero, who decides to call. Other callers fold so it's heads up to the flop. My thinking is that if villain missed, $30 is enough for him to fold. Villain thinks for about 30 seconds and then calls. This makes me think he either has KQ, KJ (so debating whether his kicker is good enough) or is hollywooding (but he didn't seem that type of guy). 
+
+Turns out our villain made his 1-outer on the turn, making a set of Queens. 
+
+Hover over the block below to see what happened to our hero: 
+
+The flop is K 5 2 (rainbow). Hero is thrilled with top pair and good kicker. He can beat pocket 10s, Js, and Qs, although he's dead to pocket As, Ks, and AK. Hero decides to bet $30 - doesn't want to get over-committed but enough that villain takes notice. 
+
+I thought about it for a minute and decided to call as I still figured the villain having the case 9 was unlikely, and I expected him to show two hearts (giving me a 70% chance to win, although I didn't know the percentage at the time). Turns out he had Ad 9d. Fortunately, all was no lost for the hero as another K hit on the turn and we ended up splitting the pot. However, this still makes me wonder if I had any business calling $160 in the first place. My experience is that, typically in small stakes NL, big raises mean big hands. Should it have been obvious to me that he had the fourth 9 with a strong kicker? Thus, the question: Would you make the call? Also, would you have played the hand differently as hero? The turn is a Q. Hero is doing mental gymnastics, having turned two pair. Bets $70. Villain again pauses, noticing he has $85 left. Waits about 10 seconds and goes all-in. Hero confidently calls the remaining $15. Should Hero have called villain's pre-flop raise, re-raised, or folded? If you were the villain with QQ on the flop, how much would hero have to bet to get you to fold? Taking the above into account, I figured I could beat most hands and raised to $60. My desire was to win the hand right there, although I probably should have better more in retrospect. The villain, after thinking for about a minute, then decided to raise me another $200, making it $160 for me to call. 
+
+Hero is in early position; Villain is in late position. 
+
+Villain (~$350) - Playing loose aggressive and seemed like a reasonable/good player overall. Definitely raises more pre-flop than his "fair share" of good cards. Also, has oddly called a couple river bets with only high card; he didn't expect to win either but could have saved about $50 each time.

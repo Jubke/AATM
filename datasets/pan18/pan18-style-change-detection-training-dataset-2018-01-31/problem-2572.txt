@@ -1,0 +1,59 @@
+I have a two-part question about the pronunciation of hygiene in English. The usual pronunciation, as shown by a variety of online dictionaries accessible from OneLook Dictionary Search, is /ˈhaɪdʒiːn/ (Merriam-Webster also lists /haɪˈdʒiːn/). This is interesting because I know of no other English word of Greek origin where ie represents /iː/ (setting aside plurals ending in -ies for people with happy-tensing). 
+
+I found this exception mentioned in the fourth edition of John Walker's "Critical Pronouncing Dictionary" (1846), but there is no explanation given. The Oxford English Dictionary entries for these three words also don't explain the pronunciation. 
+
+However, English speakers often pronounce words like this with penult stress instead: 
+
+I'm afraid I can't say much about the linguistic aspect of this question. 
+
+Both "poor" /pʊər/ and "doom" /duːm/ represent regular developments of pre-GVS /oː/ in modern standard English. The difference is in fact the context. The vowel /ʊə/ is the normal reflex before an /r/, and the vowel /uː/ is the normal reflex in other contexts (in fact, when dealing with a dialect that still retains syllable-final /r/, it's possible to analyze [ʊə] as simply an allophone of /u/). 
+
+However, the OED does record some OE spellings of onginnan with the letter y instead of i (e.g. ongynnan) which according to my understanding usually represented /y/ in Old English, a vowel which was not usually preceded by a palatalized consonant. 
+
+However, /ʊər/ has historically been unstable as a phoneme; there are a wide range of possible realizations, and for many speakers in many dialects it has merged with other phonemes. The tricky part is that which phoneme it merges with depends on the dialect and on the particular word. It may merge with /ɔːr/ as in "more", or disyllabic /u.ɚ/ as in "doer", or (especially after /j/) with /ɝ/ as in "nurse." For more details, you can look at the Wikipedia article on "English-language vowel changes before historic /r/". 
+
+This quotation and the OED entry both seem to agree that the word in its modern form entered English from French. The OED also gives the following indications of the timing of this loan: 
+
+Ruddell gives the following examples: 
+
+Wikipedia says about stress in Latinate English words: 
+
+Preverbs seem to have been treated strangely in Pre- and Proto-Germanic, being unstressed and not wholly bound to the verb; for example, clitics could intervene between preverbs and verbs. I'm not really certain about the specifics, but you can see the same development in *bi(-⁠), originally *h₁pi, from PIE *h₁epi. Anglom (talk) 23:34, 17 October 2015 (UTC) 
+
+However, I've also noted this stress pattern with other examples (the links are to Youtube videos): 
+
+If this stress pattern is something more than just ordinary contrastive focus, references would be appreciated (but not strictly necessary ;) 
+
+In English adjective-noun combinations the noun commonly carries the main stress: 
+
+Semantic parsing is an area of active research, and the Stanford parser is not the only around. An alternative is the UCREL Semantic Analysis System. 
+
+The MOP says that as many consonants as possible should belong to the second syllable (i.e., the onset of the following syllable should be maximised). What is possible is determined by the phonology of English. For example, there are words like 'road' that begin with an /r/. Hence, we know that /r/ is a possible onset. Therefore, /ˈvɛ.ri/ is the correct syllabification. 
+
+< Middle English disport(en) < Old French desporter < from des- 'away' + porter 'carry' (from Latin portare) 
+
+The maximum onset principle (MOP) 
+
+Example: Should /r/ in very belong to the first, hence /ˈvɛr.i/, or the second syllable /ˈvɛ.ri/ 
+
+The most widely used reading passage in research on English phonetics and phonology is The North Wind and the Sun. It includes most English phonemes and is used, for example, in the Illustrations of the IPA (translated where necessary, although it is then not guaranteed to include all phonemes of the language in question). 
+
+I ran some of your sentences in the demo, and results are mixed. The verb live seems to be recognised only in the sense of *Live*1 = to reside. The adjective is treated as something different from the verb. Phrasal verbs and idioms such as live it up seem to be beyond the current abilities of the parser. 
+
+First of all, let's look at English word order (actually it's the order of constituents, not words): 
+
+You can also check the Grammar section in this page, or these documents: "Copula Variation in African American Vernacular English" and "African American vernacular English: features, evolution, educational implications". 
+
+Apart from the "present tense" rule you mentioned, I found this page where you can see a rather good explanation about AAVE and its rules. I'll paste the part regarding the copula (as usual the * indicates something ungrammatical): 
+
+Classifiers are not really present in European languages (English included), but you can have constructions that support such a feature, for example with uncountable nouns: five heads of cattle. 
+
+Japanese has classifiers for cylindrical things, flat, long thin objects, small animals, birds, mechanical, etc. You can see more in the table for Japanese counters. 
+
+1: As also Mark reminded me in the comments below this answer, the text is cohesive if Ali is a man. Since Ali is also a female's name, the text might lose its cohesion if the text talks about an "Ali = woman". 
+
+(Rule 6) The copula in the special AAVE habitual aspect (not found in Standard English) is never omitted: 
+
+(Rule 4) The copula is never omitted when negated: 
+
+1: As noted in the comments, this is not an infinitive, but an imperative. However, I guess the author was referring to the form and word "be" in general and not to the particular tense.

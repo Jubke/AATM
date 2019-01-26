@@ -1,0 +1,41 @@
+* I've crossed 2k, and now I have the unified Edit menu you're all missing out on! 
+
+This manual ban is useful for just making someone stop what they're doing now, so we can pick up the pieces, regroup, and send a 'real' message to them later. 
+
+Also, the audit is passed if you reject with any reason - not just vandalism 
+
+Unlike the other queues, suggested edit audits are, well, obvious. Random phrases inserted at random points - you have to be a robo-reviewer to not see them. 
+
+So, my feature-request is that we get more granular search options for score. 
+
+So, my feature-request is that for us 500 < Rep < 2000 users (all 51,000 of us), to kill the Retag option on questions. It's great that the button is there, but it clutters up the question view. There is no reason the Retag option can't be merged with the Edit option. 
+
+I'm <10k on SO. I can't see deleted stuff. 
+
+However, this brings with it a problem when flagging link-only answers. Relatively often, a link-only answer will have a positive score - the link is useful. If the score is just +1, I downvote it, flag, and move on. If it's +2 or above, though, I'm kinda stuck. 
+
+Good idea, hard to implement How would the site know where to send it? Mind-reading? Is SE going to make a database of all users and their WP blogs? How would it know your username and password? 
+
+Bad idea. Actually, it's a good idea - with some bad consequences. 
+
+Opinions? Huge, gaping holes in my reasoning? 
+
+I can now see any deleted post I know the URL to just by making a one-letter link on meta. 
+
+I could use a custom flag, but 10kers don't get to see those - meaning the mod workload just got that much heavier. I could flag it as NAA, but it is an answer. It's just very low quality. 
+
+Other than these drawbacks, it's a great idea. 
+
+The other that we need to consider is that not everything is SO/F/U. The people over at ELU aren't exactly the most tech-savvy. Therefore, we need to be carefully how we word things. Using words like 'cache' and millisecond time stamps probably aren't recommended. 
+
+In response to your edit: Ask a 10k'er to post a screenshot, if it's that urgent. Otherwise, go answer some more questions and get that 10k rep. 
+
+Yes. Open the site you want to see your favorites on, tap 'More' and then 'Favorite Questions.' 
+
+So, my request: Allow moderators to manually ban users with >2000 reputation from suggesting edits, just like we can with users <2000 reputation. 
+
+But it doesn't. It gives all the posts >=-1. Greater than? 
+
+So, I propose that the VLQ flag option be reneenabled on positively-voted posts for users with x helpful flags - maybe 500? 1000? 50? The details can be worked out. 
+
+First, you won't ever be able to get a bounty back. That's kind of an important part of keeping bounties meaningful.

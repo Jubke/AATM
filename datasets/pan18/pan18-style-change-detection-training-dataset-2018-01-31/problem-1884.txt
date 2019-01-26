@@ -1,0 +1,27 @@
+Clearly "direct perception" is unlikely, and from a scientific perspective would be likely to be viewed as anecdotal unless the observation was controlled, etc.,-- in other words, unless you were functioning as a scientist, which you stipulated was not the case. 
+
+So, to summarize: the ontological existence of "energy" may be as poorly founded as the ontological existence of "god"; however, the explanation of the effects of energy are clearly adequate to the phenomena, and can be epistemologically justified with a great deal more certainty than can be brought to bear on most religious issues. 
+
+Fortunately, this doesn't make much of a difference, since there is no need to believe in a cause at all, properly speaking. You make a comparison to the statement "God is the cause due to which the universe exists"-- and that's a good analogy, because what we have here is simply a definition, not a proposition-- it adds no new knowledge. It's like saying "A shape with 3 sides, we call a triangle." The interesting (and challenging) thing comes when we wish to attribute more predicates to that definition. 
+
+It's difficult to answer this question the way it is currently framed, but I'll give it a shot, and re-write if you refine the question. 
+
+"The language of physics is mathematics" is true only in the sense that mathematics is the language used by physicists to model the empirically observed effects measured in the physical world. This does not mean that all physical systems can necessarily be modeled mathematically, or that any set of mathematical formulas will completely describe the functioning of the physical world. 
+
+We can say that baseball statistics is the language of baseball, and can expect that the formalisms of the statistics will form a coherent system (in that the numbers balance, and there are no conflicts or contradictions.) 
+
+But, since you are asking in a Philosophy forum and not a Physics forum, we can safely focus on the properly philosophical aspects of your question. 
+
+EDIT: Since the question has been supplemented, I'll supplement my answer a bit. The question described in the comments seems to actually be a bit broader, the task of "trying to separate seductive aspects of language from model building." This is not limited, on the one hand, to physics or natural science, nor limited to post-structuralism. Rather, the question comes down to the relationship between the map and the territory, between the explanandum and the explanans. Most (non-Platonist) philosophers recognize that the correlation between the two will never be perfect, and that a better question is if the description is adequate to the phenomenon. To answer whether the description in the four papers referenced is adequate for its intended purpose is beyond my knowledge or interest-- I scrupulously avoid anything with the word "Quantum" in it-- but I would hope that a careful reading of the texts would allow an ideal reader to ascertain whether the authors have been able to overcome the seductions of their own formalizations, and recognize the necessary leakage referred to above. 
+
+The relationship between mathematics and physics is approximately the same as the relationship between baseball statistics and baseball. (Substitute "cricket", or some other local sport if necessary.) 
+
+For me, the most useful way of framing this issue is via Fictionalism. We can treat "energy" as a fictional entity, and continue to use "energy" as a provisionally useful concept, without making any ontological claims about "energy" whatsoever. 
+
+This is actually a very interesting epistemological question. 
+
+Second: the role of objective reality and its relation to mathematical abstractions is a difficult and complex one, and has been the subject of much work in the phenomenological tradition, so to the extent that some of the "post-structuralists" are also phenomenologists, you'll see some overlapping concerns. 
+
+The "self-consistent whole" and "theory" in steps 3 and 4 is a map. No amount of further manipulation will teach us much about the territory we have not already explicitly put into the map. 
+
+First of all, I would caution you against using definitions from Wikipedia when considering serious issues. I'm not a physicist, but I'm sure that the appropriate people could give you pointers to places where serious physicists have weighed in on the proper definition of "energy" and "force." (I seem to vaguely recall Feynman dealing with this in his lectures, but my memory is hazy, so don't trust me on that.)

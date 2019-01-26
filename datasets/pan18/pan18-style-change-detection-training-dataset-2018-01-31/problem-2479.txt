@@ -1,0 +1,43 @@
+Now let's imagine a street dialogue between the same characters: 
+
+Judge: Se você cuidar do carro pra mim, na volta te dou um trocado. 
+
+Also, there is some confusion between semantics and grammar almost always when speakers of English try to understand gender in other languages: a word can be grammatically of one gender, but semantically refer to something of the opposite sex - or with no sex at all. And such confusion tends to get politicised in English, with misguided attempts to root patriarchy into linguistic features of modern European languages, usually through anachronisms or false etymologies. 
+
+The other is that people speak in different registers in different contexts. Anyone, from a beggar to a Supreme Court justice, speaks differently when in court than when among friends in an informal context. 
+
+Since the context is informal, they may call each other informal pronouns (você and its popular contraction cê). It would be more respectful of both to use formal pronouns, but it is optional. 
+
+In Romance languages, anyway, the whole masculine and neutral genders of Latin collapsed into what is called the masculine gender, but is perhaps closer to Latin's neutral. 
+
+To take into account the comments below, Spanish Alemaña derives from Latin Alemannia, either through Frankish -> Old French -> Spanish or through Frankish -> Iberian Romance -> Spanish. The Arabic word must be a borrowing from Iberian Romance or Spanish (because a literate borrowing from Latin would result in word similar to Germania, which was the Classic Latin most common name for the region and its people), and the Turkish word must be a borrowing from Arabic (because if they acquired the word via Eastern Europe instead, they would most likely borrow from either German Deustcheland, Greek Γερμανία, or some slavic language, in which case it would ressemble something like Njemačka). 
+
+One is that a stratified society has different degrees of formal education for different people. There consequently is a tendency for the upper layers of such society to speak a different "sociolect" than the lower layers. 
+
+One very important thing to remember - as Durkin reminds on p. 192 
+
+Leumann 1977 adds that Anlaut *sn, *sl, *sm were retained in the Sabellian (or Sabellic) group (para 194), i.e not in Latin: 
+
+"Here are the numerals from 1 to 10: mi, erku, erekc, čcorkc, hing, vecc, ewtcn, utc, inn, tasn. Although this is not obvious at first sight, their forms are inherited from PIE (*smi-yo-, *dwoh1, *treyes, *kwetwores, *penkwe, *(k's)wek's, *septm, *h3ek'toh1, *newn, *dek'm)." 
+
+(this is meant to be a comment but it's too long so I posted it as an answer.) 
+
+I strongly recommend chapter 16, Armenian, in Fortson 2010 textbook, esp. parts "The Introduction" and "From PIE to Classical Armenian", pp. 382-393. It's a good idea to read it thoroughly! 
+
+OE gyllan – geal – gullon, cf. PDE yell (yelled) 
+
+Obviously, as David Crystal puts it, "the incomers had no interest in preserving the distinctive Anglo-Saxon letters" (Crystal 2012: 60). Moreover, the West-Saxon educated elite that was responsible for developing and maintaining the WS standard gradually lost power and by the end of the 12th century their spelling practices were abandoned (Blake 1992). 
+
+In Sanskrit grammatical tradition, vowels are svara meaning "sound", and consonants are vyañjana, meaning "ornamentation" (also "sauce" and a bunch of other things). So the view that you're pointing to probably originates with Aristotle, with terminology supplied by Dionysius. 
+
+The same problem afflicts appeal to linguistic "sibling", which would probably be taken to be "a closely related language descended from a single earlier language". Well, it turns out that "American English as currently spoken in the Pacific Northwest" ("Y") isn't entirely uniform – there are documented dialect differences (east of Cascades / west of Cascades being prominent; there is an Enumclaw dialect). No two people speak the exact same language (i.e. have the exact same grammar and lexicon, even setting aside cases where one person knows a word that the other person doesn't know). The significance of that is that there is no clearly-defined boundary between language and dialect. There seems to be a feeling that Scots is not a dialect of English, and certainly I can't understand it at least the bit of it that I've heard. So by the mutual intelligibility test, most people would say that Scots is a distinct language from English. I don't think there is much support for thinking that [Geordie][1] is held to be a separate language, but it is completely unintelligible to me. Indeed, a number UK dialects are unintelligible to me, and some US dialects are too. 
+
+With *gn, there is actual written evidence coming from Old Latin, e.g. gnosco (nosco) or gnatus (natus) (para 220); cf. Meiser "Anlautender Velar schwindet vor n." This process must have happened by the second century BCE (Meiser 1998, Weiss 2009), cf. still gn- in GNATEIS (122 BCE), as opposed to the very first n- NATVM (117 BCE). Presumably, the change was gn => ŋn => nn 
+
+NB! by Scandinavian Durkin means "the ancestor varieties of both West Norse (Norwegian and Icelandic) and East Norse (Danish and Swedish), but at a time earlier than our earliest substantial surviving documents for any of the Scandinavian languages, and at a time when the differences between West and East Norse were still very slight" (p. 175). 
+
+I strongly recommend chapter 16, Armenian, in Fortson 2010 textbook, esp. parts "The Introduction" and "From PIE to Classical Armenian", pp. 382-393. It's a good idea to read it thoroughly! 
+
+OE gyllan – geal – gullon, cf. PDE yell (yelled) 
+
+Upward and Davidson argue that by the 14th century "spellings with QU had become the norm" (p. 149). For more details, see http://www.historyofenglishspelling.info/

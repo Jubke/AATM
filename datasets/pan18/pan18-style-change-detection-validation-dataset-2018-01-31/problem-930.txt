@@ -1,0 +1,27 @@
+So knowledge is not only holding something to be true as phenomenal fact, but also subjectively sufficient, that means the judgement is validly grounded on objective grounds (rational) from my standpoint as well as, the way I read it, every other rational being coming to the same judgement because my standpoint is true, which together with valid judgement makes certainty. 
+
+Stage two: Material philosophy as either of freedom or nature So what does it mean that material philosophy is 'twofold'? For Kant, there are basically two realms of objects: Freedom and Nature. The corresponding branches of philosophy are Ethics and Physics. This means that for him, ethics is (or should be) a real science with scientific methods inquiring its objects just as physics does with objects in nature. And, of course, that there are real relations between real objects in the realm of freedom we can examine scientifically in the first place, i.e. he is a moral realist: 
+
+It seems to be worth a look for a first understanding of the text and seminar work, but I'd say that for more academic work (essays, papers, dissertations), it may not be recent and extensive enough. 
+
+It is a good compromise between length, readability and academic quality. 
+
+Second section Here, basically the argumentation is more clean, and includes all the explicit definitions that make the argument of the first section easier to understand. 
+
+Stage three: Empirical vs. a priori This is the most tricky one to understand correctly. In very short: although a priori literally means something like 'before all experience', this is not meant to be understood in terms of time, but in terms of inference; Philosophy dealing with objects a priori deals with objects and relations necessary for any of the actual experience we have, i.e. of course we need to have experience first before we can even think about its necessary conditions. 
+
+From Kant to Hegel Förster has some four chapters on that, and I cannot refer to all the content discussed. The main core points of Kant prevailed, and it had been a major criticism that he presented several principles (for each faculty of knowledge one), trying to show how these can stand side by side without contradiction. 
+
+CPR here is really an exception as it is usually cited by the pagenumbers of the original A and B edition, not by Akademie-Ausgabe. That is to be able to make a difference between A and B, because there have been severe changes in some parts of the book. Sometimes the Critique of Practical Reason is also cited by the pages of its A edition, though. 
+
+My personal opinion: I think that Meillassoux cannot answer the question how subjectivity (the subject-object divide) is possible at all (both genealogical and transcendental) - the main question for Kant's contemporaries after being left with the task to find a common foundation for his system. His whole project therefore kind of misses the (sceptical, fundamental) point of the problem it wanted to tackle in the first place. 
+
+In order to fully answer the question, there have to be three aspects adressed, while the points 2 and 3 some kind of lay ground for the statements of the first one, as section 59 is rather late in the book and many aspects are just reformulations and clarifications of former arguments and conclusions: 
+
+There is "holding a thing to be true" [Fürwahrhalten]. It is the subjective part: 
+
+In his Metaphysical Foundations of Natural Sciences Kant restates this strict sense of knowledge, saying that knowledge [Wissen] that is founded in empirical findings is not to be called knowledge [Wissen] in a strict sense (Ak. 468). He destinguishes once more between knowledge [Erkenntnis], that is apodictically certain and systematically gained by principles a priori, and experience [Erfahrung] that is founded by empirical facts and/or gained through empirical principles. 
+
+Something can directly be a thing, i.e. object of experience, and therefore real. This is clearly not the case for things in themselves as I have shown. Something can be a necessary condition of the possibility of objects of experience (either in general or in particular). This is what Kant thinks is true for things in themselves and the categories (and freedom! in practical philosophy). That means that things in themselves are definitely 'real', but only in an indirect way, as their immanence is only through logical means. This also means that although we have to assume their reality because of the way we think, we cannot possibly be sure of it, i.e. achieve no knowledge about it. 
+
+He is in this sense a service provider (to translate it into a modern term) and closer to a day labourer - offering nothing more than his labour power - than an artist/craftsman. This is also coherent with the difference between a wood cutter and a tailor.

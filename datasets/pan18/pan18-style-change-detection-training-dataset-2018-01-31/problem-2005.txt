@@ -1,0 +1,53 @@
+In his late philosophy Plato starts some speculation about numbers. Possibly a lecture "On the Good" existed dealing also with numbers. Aristotle refers about Plato's conception of numbers in Metaphysics (Book 1, 987b15): Numbers are considered a third type of entities, between the sensuous entities and the forms. In addition, Aristotle refers: Numbers come into being by participating in the One (987b21f). 
+
+It is an insight of the last 200 years that axioms cannot be derived from any foregoing insights, neither intuitive insights nor from results of scientific discoveries. Which axioms to choose may depend on observation. But axioms do not derive from observation like theorems derive from axioms. 
+
+Mathematics is the main tool to formalize physical theories, capturing their content in an unambigous way. Mathematics is the prerequisite to make any quantifiable and precise prediction or retrodiction about the events from the physical world. 
+
+Formal reasoning is an important tool to make subtle differences transparent and explicit. This can be a prerequisite to assess the validity of certain argumentations. E.g., the correct definition of continutiy of a function "f" at an argument "X_0" is 
+
+By definition, the set of all numerals and the set of all natural numbers map bijectively to each other, hence they have the same cardinality. 
+
+And the probability of 80 heads is accordingly (1/2) ** 80, which is about 10 ** (-24), a decimal with the ciffer 1 at position 24 after the decimal point. 
+
+Jungian psychology spreads this notion of shared, underlying structure beyond mathematics and into other realms like the patterns that underly recurrent religious sentiments and story structures, as the genetic component of our collective unconscious experience. 
+
+Although there are strong survival forces toward correctly interpreting your environment, and those can favor a lack of objectivity on their own, social benefits and anthropomorphism of nature can more readily explain irrational biases of many kinds. http://www.sscnet.ucla.edu/comm/haselton/webdocs/HaseltonNettle.pdf?q=paranoid 
+
+If it is to some degree arbitrary, why should any particular part of its structure be less so? For instance, the length of a diagonal in flat space is just as irrational and no more regular than pi. 
+
+For me, the argument for 'not cutting' this concept out of our thought is that this mode of thought is inescapable. It is the one we fall into with the habits of childhood, which is how most of us approach most problems we meet fresh. We need more sophisticated ways of reigning in childish impulses, but we should not lose them, as they are the basis of our thinking, and always will be. 
+
+That depends on what you think math is. 
+
+From a genetic point of view focussed on group psychology, humans are not evolved to deal directly with nature. They are evolved to live in groups of people that selectively isolate them from nature. http://apa.org/science/about/psa/2011/11/human-evolution.aspx 
+
+There are lots of ways to embed notions of infinity into the real numbers (or any other number system) to make differentiation work more easily (or to inject its equivalent and simplify reasoning in the domain), but they are basically linguistic tricks to encode the outcome of a process (global limit-taking) into a word with specific grammar (an infinitesimal variable) that keeps it from getting you in trouble by contradicting the assumptions that hold up the process. The magic that proves that that grammar is clear and tells you how to derive different versions of it for different applications, is called L̸os's theorem, and it is the cornerstone of one of the approaches to Nonstandard Analysis. 
+
+I do not consider complex numbers artifically defined. And for me it is not necessary to legitimate complex exponentiation by reduction via exp(iz) = cos z + i sin z to trigonometric functions. I consider it a deep insight of Gauss that solely by introducing a single imaginary number 'i', complex numbers derive as z = x + iy and each polynomial gets as many zeros as the degree of the polynomial indicates. 
+
+Equivalence is a fundamental concept of mathematics, possibly even the most elementary fundamental concept. Taking equivalence relation is used for abstraction: 
+
+A point is an idealized object. The single property of this idealization is the point's position. But a point has no extension. 
+
+do not handle these questions on the basis of a formal language with clear-cut definitions 
+
+The base is the physical model, not the mathematics. 
+
+Mathematics is the main tool to formalize physical theories, capturing their content in an unambigous way. Mathematics is the prerequisite to make any quantifiable and precise prediction or retrodiction about the events from the physical world. 
+
+Wigner's paper amazes any reader, notably any philospher or mathematician, see https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html 
+
+In general, it is neither necessary nor desirable to formalize the whole proof of a mathematical theorem. But sometimes it is helpful to formalize a distinguished passage, in order to write down a precise statement. 
+
+In his late philosophy Plato starts some speculation about numbers. Possibly a lecture "On the Good" existed dealing also with numbers. Aristotle refers about Plato's conception of numbers in Metaphysics (Book 1, 987b15): Numbers are considered a third type of entities, between the sensuous entities and the forms. In addition, Aristotle refers: Numbers come into being by participating in the One (987b21f). 
+
+Hence one passes from the infinite set of integers to the finite set FF_2 by introducing an equivalence relation. And this equivalence relation respects addition and multiplication. 
+
+Like every game mathematics has strong and clear-cut definitions and rules. 
+
+Logic is not fundamental in the sense that there is excatly one calculus of logic. But it is fundamental in the sense that every rational argumentation, in particular any scientific theory, presupposes a certain calculus of logic. 
+
+Conerning the reality of mathematical objects: 
+
+One has a set ob objects and wants to group them into classes, with all members of each class having the same property. All members of one class are equivalent concerning the given property, but they are not equal.

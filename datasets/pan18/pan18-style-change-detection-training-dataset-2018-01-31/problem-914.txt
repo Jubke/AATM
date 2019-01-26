@@ -1,0 +1,27 @@
+Since quite recently, the blog sports the shiny Stack Overflow favicon :) 
+
+What's up? Why names are running away from their owners? Why this whitespace? 
+
+In comments, moderators have their diamonds in the OP rectangle: 
+
+Of course, it Doesn't Really Matter At All, but it is a small discrepancy (I am not saying that in the review, OP rectangles have a bigger padding). 
+
+The colour of the text hasn't changed, instead, the background colour of the box became transparent (happened to the all the SE sites which recently got the new design), but used to be sort of grey: 
+
+That's ridiculous in any way seen. Try to execute my answer-form-adding JavaScript: 
+
+The high-res icon set: http://sstatic.net/img/favicons-sprite32.png 
+
+I don't know whether it is a bug or by design... But as you see, I have just migrated this question from http://cs50.stackexchange.com. Should it be allowed? 
+
+SO, ru.SO, ja.SO are svigified: 
+
+There is no difference. !?!. Should be. As, for example, on Apple.SE, Oded is an employee, he has a diamond, so he can see where the downvotes have affected the rep of Stéphane Martin. The screenshot he posted: So it was because of redesigning profile page!.. 
+
+If there was shown following message While any of other sections of "Edit Profile & Settings" does work normally. No accounts shown except Area 51 (there used to be a list of the accounts) I fully support your request - the background color should be returned, otherwise this link looks... ill. Not only this new graph behaves this way to hide the downvotes, this is also the default old behaviour of the rep tab: 
+
+It seems to use semi-old design (can be seen by looking at the logo). 
+
+(The black background on the low-res is possibly related to the resizing bug which converts transparent background into the black one; this bug was already reported) That's also strange because pt.SO is older than ja.SO or ru.SO, but still not svgified. I doubt very much you can lose a hat. Having also said that you don't appear to have pinged Jon anyhow (in order to fulfill the hat requirements), so you couldn't have got it. 
+
+So, you have to check "show removed posts" in your reputation tab and you'll see them. Then just go and flag (with "other", providing the explanation) - I see no other option.

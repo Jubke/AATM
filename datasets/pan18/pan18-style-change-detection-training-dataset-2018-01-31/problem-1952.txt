@@ -1,0 +1,23 @@
+The tone of your question seems to imply that there should be issues with recruiting. I can only see this as a problem if the very fact of standing up a military is the ethical issue; if so that issue is prior to any of the detailed issues in this question. 
+
+You've provided the answer in your question: in practice the law does (still) include retribution as a consideration, even though many philosophical theories of how the law should work would remove that feature from consideration. This is one aspect of how legal is not identical with moral (or illegal with immoral). Reconciling the retributive and consequentialist bases of law is part of its ongoing evolution. 
+
+I'm looking for information that addresses this question: 
+
+This line of thought can be extended to other types of situations, e.g. we have social obligations to conform to the social norms of our community. These social norms may or may not have any moral aspect to them. For those that don't, e.g. some aspects of table manners, there is no moral imperative to conform. 
+
+To more directly answer your question: I'm not convinced that secular morality is in ever in conflict with enlightened self interest. The enlightened aspect include features like, considering the long term consequences, considering what would happen if your actions were a general rule (akin to rule utilitarianism), considerations of others (e.g. the veil of ignorance) etc. 
+
+(1) By descriptive I mean describing/reproducing what some people assess as the correct moral decision. If a purported ethical theory did not have any particular relationship to the common sense use of the word ethics, we'd hardly call it an ethical theory. 
+
+Now, for some topics the "taboo" is actually not just arbitrary but instead reflects a reasoned basis for eschewing certain research topics. 
+
+Thus, in your own presentation you have indicated that (a) sufficient empathy for the victims will prevent someone from committing a crime, even in the absence of other punishments, (b) even supernatural promises of punishment is insufficient to deter all people from committing crimes. So my take away from your presentation is that ethics is hard. 
+
+Where I see the intersection is that these legal/social forces are a coercive force that can affect an individual's moral assessments. The usual example is when a criminal threatens you (or other individuals) with bodily harm unless you do something immoral. Most moral systems account for this type of external coercion by reducing your moral responsibility in these situations. I'd say that you can apply this same approach in order to account for the coercive effects of legal/social strictures as well. 
+
+Michael, you've noted in a comment that legal and moral obligations are distinct, so the obvious answer to your question is: 
+
+One approach is to claim "process objectivity" as opposed to "outcome objectivity" -- the legal system is organized in such a way that all involved know what the rules are -- legislators get to draft and enact laws, judges get to make decisions in court cases, the lawyers present cases on behalf of people in the courts etc. All of these processes are regulated in terms of rules, laws and regulations, that are objectively specified, e.g. written out; at least in those places where there is the "rule of law". The (written) laws and regulations provide an objective framework within which the legal process plays out, even if individual aspects of that process do allow for subjective judgment calls. The picture I have in mind is that the subjective aspects of the process allow for some wiggle room in the exact outcome within (what should be) a rigid set of objectively specified constraints. 
+
+For example, if you made a promise to keep something secret, and then the other party dies, you still have an ethical obligation to keep that promise, if if there was only an implicit expectation of privacy. Even if the other party's death mitigates some features of the promise, e.g. he/she will not be directly hurt by violating that trust, there is still an ethical requirement to keep the promise, at least for ethical systems where there is an intrinsic moral value in keeping your promises.

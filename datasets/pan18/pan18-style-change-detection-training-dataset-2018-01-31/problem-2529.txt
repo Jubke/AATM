@@ -1,0 +1,51 @@
+cf. Berwick 1998's observation that recursive generative capacity is an inherent property of Merge (p. 332). They are both concatenative (or combinatorial) operations; however, Merge involves hierarchy. 
+
+Ladd, D. R. 2011. Phonetics in phonology. In John A. Goldsmith, Jason Riggle, and Alan C. L. Yu. 2011. Handbook of phonological theory. Oxford: Wiley-Blackwell. 
+
+Nevins et al. argue that Merge is recursive because it can combine “lexical items and phrases” of any type (p. 367, n.11), cf. Zwart 2011 “[t]he operation Merge is standardly taken to be recursive in that the output of Merge may be subject to further operations Merge” (p. 116). 
+
+"People speak in set phrases, rather than in separate words, hence the crucial importance of set phrases. At the same time, set phrases, or PHRASEMES, represent one of the major difficulties in theoretical linguistics as well as in dictionary making" (Mel'chuk 1998: 24). 
+
+Thus, a single diphthong in English represents one phoneme. 
+
+(my slightly incoherent ramblings on recursion, Merge, and embedding) 
+
+lexical collocations (heavy rain); idioms (spill the beans); irreversible bi- and trinomials (bed and breakfast); similes (swear like a trooper); compounds (black hole); grammatical collocations (depend on); phrasal verbs (make out). textual phrasemes 
+
+It is also the most usual term in language acquisition studies (see curiousdannii's post above with a quote from Paul Nation). 
+
+Less common terms: derivational family, lexeme family. 
+
+It denotes a unique entity at the level of established linguistic convention to make it psychosocially salient within a given basic level category [pragmatic]. 
+
+a phonetically similar/same base 
+
+Willy van Langendonck (2007) argues that a proper name has the following characteristics: 
+
+For a very readable, recent and succinct discussion of wordhood see The Oxford Handbook of Word (2015), esp. Wray 2015. 
+
+In some generative theories of syntax, recursion is usually understood as self-embedding, in the sense of putting an object inside another of the same type (Fitch 2010, Kinsella 2010, Tallerman 2012). However, Tallerman 2012 argues that HFC 2002 used recursion in the sense of phrase-building or the formation of hierarchical structure generally (p. 451). 
+
+For example, the dominant of the synonymic series "strong, stout, sturdy, stalwart, tough, tenacious" is strong. 
+
+When alpha and beta are Merged, either alpha or beta projects its property (N, D, V, v, T, C etc.) onto this whole new phrase. This is what Horsntein 2010 calls Label (and Chomskyan Merge is Concatenate under his proposal; also notice that some generativists don’t do labels, like Chris Collins). However, this information about the head isn’t necessarily preserved through several instances of Merge, e.g. V selects a DP and we end up with a VP. What makes Merge truly recursive is that “the output of one derivation functions as a single item in the next derivation” (Zwart 2011, p. 116). I think this is very important, otherwise Merging gamma with [alpha+beta] will lead to simple iteration. [alpha+beta] must be treated as a single unit when it is Merged with gamma. 
+
+Everything else is supplied by the multiple inflections or derivations, rather than by auxiliaries and articles, prepositions and particles, like English. 
+
+Or, as I like to put it, Ontology Recapitulates Physiology. 
+
+Fillmore's linguistic work on Deixis, for instance, is clearly ontology, as is his concept of Frame, programmed as Framenet. 
+
+Nothing much. The distinction is a more or less artificial one. 
+
+And I agree with Jim. There's no reason to believe that humans consistently distinguish one kind of information from another, and in fact plenty of reasons to believe they differ greatly in what they take for granted; so the null hypothesis has to be that there is no clear, definitive difference, though certainly there are exemplary cases of one or the other. 
+
+And why we use body-part metaphors so often. Protagoras got it right: 
+
+It's also an example of Extraposition from NP, since the pied-piped relative clause without which you can't finish the report has been moved from a position following book, which it modifies, to one following the VP did you return, at the end of the sentence. 
+
+English and French (as well as many other langugages) do not make a distinction between inclusive vs exclusive or (lexically at least, we can ignore obviously available hints like prosody for this purpose 1): 
+
+The linguistic relation between the lexical items resembles (!) one of hypernymy and hyponymy: The word jacuzzi would be a hyponym to the word hot tub and the word hot tub would be a hypernym to the word jacuzzi - if one regarded "hot tub" as a word, which is not entirely accurate because it actually consists of two words, so this terminology which is defined on words doesn't apply here that nicely. A more straightforward example would be something like cat being a hyponym to animal and animal being a hypernym to cat (every cat is an animal, but not every animal is a cat). 
+
+It is the most natural case that languages have word categories that do not behave precisely the way that they do in the classical understanding of the terms motivated by IE. Given the huge variety of languages across the world, it would be extremely surprising if every language had their nouns, adjectives etc. behave precisely the same way as English does. However, within an individual language there will be several clearly distinguishable catgories, where ascribing properties such as "adjectival" and "nominal" is indeed not too unjustified, because such a categorization accounts for how different jobs are distributed across catgories in a language. Every natural language will have some way of expressing events, entities, properties, etc., and every language will use a minimum of different categories for these functions. Whether this distribution is precisely the same as in a prototypical IE language (if there is such a thing as a "prototypical IE language") is questionable, but most primitive notions like "verb-like" or "noun-like" are something that every language exhibits. So, even though the resulting pattern might be im some way "shifted" with regard to the precise nature of the individual components as compared to how we understand them in English (because linguistic terminology is hardly ever language-independent), in a more liberal understanding of these classification devices, Japanese "adjective" and "nouns" do fulfill the roles as we undertand them in an abstract sense, i.e. w.r.t. how gramatical functions are realized by different word categories within a language.

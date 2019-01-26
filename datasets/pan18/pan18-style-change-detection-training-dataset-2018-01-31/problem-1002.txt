@@ -1,0 +1,33 @@
+Phase one of this (collecting reasons) should be out soon, then we need some time with the data we get. 
+
+Sometimes these things take time. When we investigate flags reporting possible voting irregularities, there's a lot of data that we have to examine, and it can sometimes lead us to examining 20+ users in great detail. The one thing we don't want to do is pull the suspension trigger on someone that doesn't deserve it. Perhaps their dorm or office mates cast votes without knowing any better. 
+
+Yes, new users are often problematic, but I don't think classifying them as the cause of a codified repellent in our venerable FAQ is appropriate. That is hardly a welcome mat, especially given how often the FAQ on any given site is cited. 
+
+If the answer to that is yes, then: 
+
+Everything else such as 'me too', 'thanks', 'asdfgh', 'hi mom!' etc are cut and dry enough to not need explanation. If you think a one line answer is useful enough to keep around, but doesn't constitute an answer just flag it as other and indicate why it should be a comment. 
+
+No content was defaced, though several posts were removed in the recent past. But, that's not exactly uncommon. No votes were targeted (minus the loss of the acceptance bonus) No other signs of the user being angry, at all. In other words, I sincerely doubt that rage was any kind of motive for this. 
+
+If changes to a post raise an argument over its content, or who has the strongest right to decide what it contains, it's time to involve a moderator. Don't get into a rollback war with anyone even when you have the best intentions. Flag the post as 'other', let the moderators know what you find objectionable and why, then move on. 
+
+That means if you entered, and didn't delete your submission, you're going to get something. 
+
+When this is implemented, we have a much easier time querying across the network to better visualize these fools as they move from site to site, occasionally changing origin. This makes the data that they inadvertently leave behind much more valuable when it comes to automatically reacting to, and subduing these sorts of spam floods. 
+
+Don't scroll when the post length is less than or equal to the height of the voting controls. 
+
+... May contain a solution, but unless it answers the question completely within the answer itself it's not very useful. Link only answers are also removed, as we know. Barring exceptional cases, I delete these. 
+
+Humor that is clean, clear cut and evident without context that only a specific area might have can be okay, I don't think we can come up with blanket guidelines on what is and isn't acceptable when it comes to simple jokes. What I can say is, if a joke is likely to offend certain groups of people, or is just more than our steely, business like smiles can take, then it probably needs to come out. 
+
+Fortunately, we didn't make any hard hats this year, so my head injury is your gain. 
+
+Watch out for quicksand - don't let the user make it your responsibility to improve the question. You're there to coach and help, not do their work. If you must exit - do so, but do so politely. 
+
+I'm quite convinced that successful web apps should be measured in dog years. Stack Overflow is now 28 by that measure and taking care of itself. Shoo, shoo, go enjoy your family. I'll see you in a few years when you scratch another itch. If it's something I know something about, you can count on my help. 
+
+What use would the data have, you ask? 
+
+It could simply be that upon realizing that the metric was no longer displayed, they elected to reverse the acceptance they had to keep the ratio up .. but on every answer? I'm also baffled. However, the user didn't do anything technically wrong:

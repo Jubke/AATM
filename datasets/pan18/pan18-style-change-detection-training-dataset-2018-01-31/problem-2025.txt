@@ -1,0 +1,33 @@
+Concerning the first alternative, I assume that the rational person remembers several unlikely cases which eventually got a rational explanation. Possibly he even sets out to investigate the case and to find out the rational explanation. And as long he has not found it, he abstains from any pseudo-explanation of the situation. 
+
+I pick out some details from your question - unfortunately I did not understand all. 
+
+First, I would ask my opponent: Tell me the arguments which support your claim. I would try to convince him of the weakness of his arguments. 
+
+The fact that there are so many exceptions related to killing external(!) enemies in war confirms, that the commandment aims at peace inside the society but does not proscribe killing in general. 
+
+ad issue 4: "Religious beliefs ..." 
+
+After characterizing metaphysics as a knowledge of causes (aitiai) and principles (See sophia, 982a2), Aristotle aims at presenting his own doctrine of four causes (causa naturalis, efficiens, formalis, finalis). Apparently, these four causes are independent from the list of the Pythagorean principles and are talking on completely different levels. 
+
+Note. The linked English translation of the German text contains an error. I tried to correct it above. 
+
+What is absurd concerning the statement referring to the singular coordinates on the sphere? A sphere is a differentiable manifold and corresponding coordinate patches are free from singularities by definition. Covering the sphere by two coordinate patches - as the textbook of Wheeler et al. shows - avoids the problem of singular points. 
+
+Of course, we cannot check whether Greek gods really exist and if yes, whether they actually have this capability. In addition, today there are no followers of Greek gods any longer, who would support the claim about predictive power :-) 
+
+Note. Apparently these are different mental activities. Do you ask whether one can detect different brain activities by imaging techniques relating to "I think employing modus ponens" versus "I know that snow is white"? I doubt that neuroscience has already reached that degree of selectivity. In addition, it seems difficult to prepare two groups of probands who focus themselves on the corresponding mental activity. 
+
+Secondly, it depends on both the object and the light which strikes the surface, which mix of wavelenghts is reflected into our eyes. 
+
+Assume that you and your opponent agree that the positive claim, e.g. "Bigfoot exists", is unprovable. And assume that you consider it a false claim, but you do not know how to disprove it. 
+
+All three conditions are necessary: True belief without argumentation as well as false belief with argumentation are no knowledge. 
+
+See the comment of Dave concerning contemporary followers of antique Greek gods. 
+
+If the opponent retorts in the end "Nevertheless, it could be possible!", I would reply: It is also possible that little green men exist - but we just did not detect them. At least, that's my pragmatic method. 
+
+Firstly, according to science the inherent property of the object is the reflectance of its surface. 
+
+In mathematics reductio ad absurdum is a sound method of proof as long as one operates on the base of 2-valued logic with the axiom "not (A and not-A)". On this base nearly all "working" mathematicians operate - notably exceptions are mathematicians in the wake of Brouwer.

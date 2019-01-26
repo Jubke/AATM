@@ -1,0 +1,31 @@
+If you follow links around the Armenian and Old Armenian entries you will find some other words. "To be" is a pretty fuzzy word over time in most languages and can float around concepts such as existence on one hand, a mere syntactic copular on another hand, and then there are can be senses like "there is" which can blur into words that also mean "stand", "lie", etc. 
+
+I requested entries for all of the words listed by the OP on the English Wiktionary. 
+
+According to Wiktionary the ultimate origin of the Armenian word for to be "լինել" (linel) is unknown. 
+
+Old Armenian had such forms as լինիմ, լինենամ, and back to the earliest known *լէնիմ (lēnim) - which looks to be a hypothetical form from its asterisk. 
+
+My Armenian friend in Yerevan who contributes Armenian and Old Armenian to Wiktionary and has an impressive collection of Armenian etymological dictionaries has now made (or added etymology to) the entries on every word plus provided these notes which I've copied verbatim thanks to both Vahagn and Wiktionary: 
+
+I think you can find a fairly reliable (more reliable than the Ethnologue, I would say) and pretty much consensual (meaning that even long-rangers would not object to it other than go much further in their speculations, hypothesizing deeper links between them) information in the Glottolog catalogue, as its authors generally tend to avoid controversial classifications that have not gained wider acceptance yet. It does not mean that at least some of the families and isolates are not related, but their relationship may be too deep to ever discover, or the research carried out so far has not met methodological standards, or, perhaps, no particular research into their relationship has been carried out yet. 
+
+Primarily, I would like to use the tool to find out which of the scripts or writing systems compared make it possible to represent a given [set of] language[s] in writing more unambiguously, especially, though not exclusively, with respect to phonetics and phonology. 
+
+(a) Loosening the constraints If there are no or only very few known cases like that, I'm willing to loosen the constraints and extend the range to any later loanwords known to have replaced any other loanwords irrespective of their origin. 
+
+Old Armenian had such forms as լինիմ, լինենամ, and back to the earliest known *լէնիմ (lēnim) - which looks to be a hypothetical form from its asterisk. 
+
+If you follow links around the Armenian and Old Armenian entries you will find some other words. "To be" is a pretty fuzzy word over time in most languages and can float around concepts such as existence on one hand, a mere syntactic copular on another hand, and then there are can be senses like "there is" which can blur into words that also mean "stand", "lie", etc. 
+
+My Armenian friend in Yerevan who contributes Armenian and Old Armenian to Wiktionary and has an impressive collection of Armenian etymological dictionaries has now made (or added etymology to) the entries on every word plus provided these notes which I've copied verbatim thanks to both Vahagn and Wiktionary: 
+
+I requested entries for all of the words listed by the OP on the English Wiktionary. 
+
+(a) Loosening the constraints If there are no or only very few known cases like that, I'm willing to loosen the constraints and extend the range to any later loanwords known to have replaced any other loanwords irrespective of their origin. 
+
+Primarily, I would like to use the tool to find out which of the scripts or writing systems compared make it possible to represent a given [set of] language[s] in writing more unambiguously, especially, though not exclusively, with respect to phonetics and phonology. 
+
+I also wish there was a better online tool, and if I had some time, I would be happy either to create one, or help start it, at least. 
+
+Since we may not have access to native users of the scripts, any psycholinguistic testing would have to be carried out only indirectly, on a group of speakers of a different, but typologically similar, language and, perhaps, using romanization/transliteration to avoid having to teach them new graphemes and face literacy/familiarity issues.

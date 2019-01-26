@@ -1,0 +1,27 @@
+I think NastyMinder has an easy defend. Folding is way too tight and 3-betting would be very bad, considering the stacksizes around the table. 
+
+Caecilius check it back again, which is again pretty standard. He just has showdown value and is looking to check it back on the river. 
+
+You can make an argument for calling some of your AK's and folding others. There is a small chance villain had a backdoor flush draw on the flop and now turned it into a bluff. There wasn't a spade on the flop so AsKs is the only combination perfect for a call. AsKs HAS to be in your calling range. I would never fold AK here, but you have to call with all of your AK's containing at least one spade. 
+
+When you open, the big blind is shoving / 3-betting 55+, AT+, KQ for sure, whereas he should fold some of these hands to your shove. He can still 3-bet bluff you with a weak suited ace or a weak suited connector. You can stack many hands where they hit top pair on boards that are Q high or lower. Shoving QQ allows your opponent to not make any mistakes and you will lose a lot of value. 
+
+A minus sign "-" denotes a spread limit. For example 2-6 means you can bet 2,3,4,5 or six. If the game had a couple of blinds I would write it like 2-6 1/2 blind for clarity, if written just 2-6 limit you could assume the blind was 1/2 or less like a single 2 blind. 
+
+The notation I used was mostly for a way to describe cash games. NL 200/400/75 would not be clear describing a cash game with an ante, it would mean there were three blinds. No limit used to frequently be played with the third blind on the button. if the 75 is an ante it should be preceded with an "A", 200/400/A75, otherwise it would be assumed the 75 was a button blind. If I was advocating a standard for NL notation it would be 200/400/75 means blinds of 200,400, 75 and 200/400-75 would mean 200 and 400 blinds with a 75 ante. 
+
+Going over this thread some months later (7-17), I have some thoughts. 
+
+When you open, the big blind is shoving / 3-betting 55+, AT+, KQ for sure, whereas he should fold some of these hands to your shove. He can still 3-bet bluff you with a weak suited ace or a weak suited connector. You can stack many hands where they hit top pair on boards that are Q high or lower. Shoving QQ allows your opponent to not make any mistakes and you will lose a lot of value. 
+
+BrynKenney brilliantly breaks the hand down and shoves the river. He knows his opponent is weak. And he can credibly represent a flush, which could have checked the flop and slowplayed the turn and river. BrynKenney blocks caecilius from having a weird flush or straight, so this is pretty much the best hand to do it with after Kh7x. 
+
+NastyMinder now has an interesting decision. Should he call or shove? In my opinion he just has to shove here. Think about all the good hands NastyMinder wants to shove: 64s, 43s, 86s, 75s, 88, 66, 33, 44 that is a total of 22 combinations. You can slowplay some of these hands, but generally this will not be a good play. How often is 88maca88 going to bluff this board on the river? How often is he going to value bet this board with on overpair. Not that often. You don't want to see a club roll off. With the majority of your good hands you want to be shoving. Now obviously you need to pick some bluffs as well. You need to pick the hands that have the most equity when called, but have the least amount of showdown value. Other than 9c7c I can't think of a better hand than NastyMinder is holding. I think he just has to shove here to play a balanced strategy and I really don't understand why he did not. 
+
+If my stack was much smaller, I fold. 
+
+A minus sign "-" denotes a spread limit. For example 2-6 means you can bet 2,3,4,5 or six. If the game had a couple of blinds I would write it like 2-6 1/2 blind for clarity, if written just 2-6 limit you could assume the blind was 1/2 or less like a single 2 blind. 
+
+For a limit tournament, Limit 200/400/75 is not the blind size but the size of the limit, the blinds are 100/200 
+
+The notation I used was mostly for a way to describe cash games. NL 200/400/75 would not be clear describing a cash game with an ante, it would mean there were three blinds. No limit used to frequently be played with the third blind on the button. if the 75 is an ante it should be preceded with an "A", 200/400/A75, otherwise it would be assumed the 75 was a button blind. If I was advocating a standard for NL notation it would be 200/400/75 means blinds of 200,400, 75 and 200/400-75 would mean 200 and 400 blinds with a 75 ante.

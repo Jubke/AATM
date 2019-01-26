@@ -1,0 +1,23 @@
+According to Click to Loot's combat guide: 
+
+So, what is the difference between the clients? Which should I install? 
+
+The only permanent choices you can make are item-related ones - if you salvage an item, for example, it's gone forever. 
+
+The blessing from Brother Malachi, as well as from other healers in other acts, simply completely heals you if you are wounded. 
+
+Edit specifically regarding Monks, there is one important difference here - Spirit-generation from skills depends on attack speed only, not on damage done or any other affixes. Since dual-wielding means +15% attack speed, a dual-wielding Monk will generally generate Spirit faster than a Monk using only one weapon. 
+
+By the way, because of this, there is practically no reason to create two different characters of the same class if you just want to experiment with a different build - unless you want to experience the game again from the start as a new character, or want to play a different gender, or want to create a hardcore character. 
+
+If you're having trouble with large groups, consider what defenses you have. Is your armor spell always up? Keeping up Ice Armor can make a tremendous difference - when they hit you, they get frozen. Similarly, area-of-effect radius spells can be very effective - I'm still using Frost Nova at level 34. Wave of Force has a Stun ability at level 15, too. You'll get even better versions of these, though - Slow Time and Blizzard can be very effective slows, to bottleneck enemies so that you can deal some more damage and hopefully kill them before they get to you. 
+
+Rock Giants apparently have an ability that puts up a swirly shield that will reflect projectiles away from it, and cause said projectiles to damage you and your party. This is especially dangerous if you have large projectiles and/or lots of friends playing with you. 
+
+Don't give up Intelligence if you can bear it. Non-stat abilities (especially Magic Find) this early in the game are not your friend - you will be tempted to give up good equipment for them, and it isn't worth it. Intelligence will increase your damage and resistances, and should be well above all your other stats. I don't care if those rare boots have 9% Faster Run walk and 10% MF - you use those +20 Int boots over them, any day of the week. That being said, if it isn't a big damage hit, Vitality is also critically important for staying alive. 
+
+As mentioned by @Hurda in the comments, when all co-op players leave, the game will prompt you with the option to re-hire your previous companion, who will join you again without having to go back to town. 
+
+The boss fights in the Nephalem Rifts often drop multiple blood shards. They show up in bright purple and it says "Blood Shards (X)" where 'x' is the number I received from that fight. It seems like every time I fight one of these rift bosses, I get a different number of blood shards. And, when I play with some of my friends, they usually get a different number than I do. What determines how many blood shards are dropped from Nephalem Rift boss fights? 
+
+In the Nephalem Rift instances, players usually only play until the minion quota is met and the Rift Guardian is spawned and defeated. Afterwards, the player can talk to someone in town to initiate a countdown and closes the Rift. What happens if you never fill the minion quota and just continue running through the Rift? Or, say you kill the Rift Guardian but then continue on as opposed to returning to town and shutting the Rift? Will the Rifts go on forever or are there a set number of levels? Is there any reason or benefit to continue exploring a Rift once the Guardian is defeated?

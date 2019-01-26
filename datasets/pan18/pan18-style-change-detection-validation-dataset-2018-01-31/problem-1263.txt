@@ -1,0 +1,27 @@
+According to this Wikipedia page, it's similar to the English dark L (as "ll" in ball). 
+
+Other texts I've consulted are "Variation and change in Spanish" by Ralph John Penny, "A history of the Spanish language", always by R.J. Penny, "Historical romance linguistics: retrospective and perspectives" by Randall Scott Gessa and Deborah L. Arteaga, and "Historia de la lengua española" by Rafael Lapesa, but none of these talked about the causes, although they confirmed that passage from [ʃ] to [χ]. 
+
+For now, I haven't found other clear references but there are some hints that confirm the process described above. If you want, I can find some other references to further back up this process. 
+
+Spanish did have Arabic influence but it seems that the jota (the name for the letter j in Spanish) came from Latin, going through some variations. 
+
+When treating phonetic changes or evolution, we must take into account that there never is a single reason, rather some that "act together". Among the causes, linguists distinguish between internal and external causes, [...]. In this case, linguists believe that the loss of those voiced sounds was due to a spanish-basque bilingualism [...], while others think that it was an internal simplification due to structural causes. 
+
+Regarding the Polish one, it has a "w" sound, such as in mały (small) and łaska (grace) in the Consonants section, see the table called "Example words". 
+
+An hypothesis, provided in "Introducción a la historia de la lengua española" by Melvyn C. Resnick, at the page 38 (Scroll down until you read «Podemos postular...» going onwards) explains the path from ōcŭlu to ojo: 
+
+1: I think postónica refers to post-tonic. 2: "Ensordecer" literally means "to deafen", but I think here it's mean as "to devoice/to become voiceless". 3: [š] = [ʃ] 4: The original title of the article is "Reajuste de las sibilantes del idioma español". 
+
+You're absolutely right - the choice is completely arbitrary. Generally, before the publication of The Sound Pattern of English (Chomsky & Halley 1968), whichever underlying representation required the fewest number of rule derivations to produce the output forms was chosen, i.e., whichever was the most elegant. 
+
+To perform this kind of analysis, first you must determine which sounds are constrastive in the output. For example, in English, [pʰ] and [p] are not contrastive, because [pʰæt] and [pæt] "pat" are judged to be "the same" word by (most) native speakers (even though [pæt] would be ill-formed). However, in Hindi, [kapʰi] "coffee" and [kapi] "copy" are two separate words. The generative hypothesis is that each set of non-contrastive sounds is stored as a single unit in the brain, called a phoneme (in slashes), which is transformed into a final form (in brackets) passed to the articulators by a series of serially-ordered rules or simultaneous constraints on the possible output forms. 
+
+Square brackets ([fubar]) are generally used for what is known as narrow transcription - this includes as much detail as the transcriber feels is necessary. Slashes (/fubar/) represent the broad transcription, which does not include "predictable" information. 
+
+For example, in English, voiceless plosives are aspirated word-initially and in stressed onsets. Thus, a narrow transcription of "cool" might be [kʰul], while a broad transcription would be /kul/. Similarly, "lack" could be represented as [læk] and /læk/ - note that broad /k/ can become narrow [k] or [kʰ], depending on its position in the word and surrounding sounds. Because this information is predictable by the above rule, the aspiration is left out of the broad transcription. 
+
+For example, the following rule set describing (simplified) Korean stop allophony: 
+
+In linguistic description, the "broad" and "narrow" designations are defined somewhat loosely, generally according to whatever convention the linguist reporting the language feels is most useful. Under the Generative Phonology framework, however, these are assumed to represent two distinct stages of phonological processing, each with a psychological reality. Square brackets denote the final stage of processing (which is sent to the articulators), called "phonetic transcription", while slashes denote the form stored in the mental lexicon (stripped of all predictable information), called "phonemic transcription".

@@ -1,0 +1,73 @@
+No, I'm very strongly against this. 
+
+I decided to break this up in three parts, each with proposals highlighted within a blockquote. 
+
+It seems the "First Answers" and "First Questions" tabs were moved into "First Posts". 
+
+Then it should have been the duty of the OP to make sure the question has a proper context. They could have included a small explanation, like: 
+
+What can be done about this? Leave "stats" as the landing page, it's very useful. But make it the first element in the navigation list. The reason being that when you go through the tools, it would make more sense to go from left to right, rather than "stats", two tabs left to "review", one tab right to "links", et cetera. 
+
+So basically, it says: Please vote! But you can't vote. Sorry 'bout that. 
+
+The solution is simple: If reviewing is a different part of the site (as opposed to the "tools"), it should be made a proper top navigation element. 
+
+The Search box, which lets me search for a particular string only, without wildcards. It'd also be easy to have it search for all messages, or alternatively only by specifying a certain time range to prevent excess. 
+
+In the way I use it, I don't really have to read the body again. I know it is a duplicate because I already got the link to it. I don't need to read the duplicate's body again because in order to get its link I visit the duplicate's site before. 
+
+What would be the best way to convey that message earlier and more clearly? 
+
+This makes it necessary for them to enable line numbers as well, even if they don't want it, because they have no other means of understanding what you're referring to. 
+
+Here's why the queue is important: First answers are very likely to be: 
+
+Even if this message were optional, why would your posts need more edit attention than others? Of course, I'm happy if people are open to edits and say: "I'm glad you fixed my English!", or if they admit that they have difficulties with the language, but the whole point of a community-edited site (with no restrictions in this regard) is that anybody should edit anywhere if they feel like it. 
+
+… and if you are below 2000 reputation, you are even rewarded for it, which is an encouragement too. 
+
+Proposal While this may seem like "not a big thing", from a point of user interface design it is unexpected behavior. It obviously would be better to have the button stay in its place, for example here: 
+
+Generally, changing something to cw is a one way street, and changing that would probably lead to confusion, but removing reputation that has already been accrued would appear pretty hostile to users, not to mention making it so down votes still count. 
+
+How do we tell when a question has been definitively answered, such that we can put it in a bottle and say, "There will never, ever be anything new to be said on this topic."? 
+
+While it's nice of Area51 to allow someone to meet their commitment well after the site is public, the reality is that they made a commitment to help the site at the very beginning, and they failed to do so. 
+
+Given that deleted content is licensed CC just as the regular content is, it exists in the current SO database, and it is accessible to over 400 (10k+ rep) users, it should also be exported as part of the regular data dump. 
+
+This primarily benefits experts - the people who are able to answer those questions. 
+
+Further, users that can't vote to open or close can continue to show their support for the question, or against the question, by voting on it. It's something we allow so that people still feel as though they can have input in the whole process. 
+
+Once you sign up you will be able to choose to display this recommendation on your profile. 
+
+I just discovered prism: http://prism.mozillalabs.com/ 
+
+Chat gets its own icon in the taskbar. Chat gets to run in its own process without the slew of plugins I have installed in firefox. We can have a sys-tray notification on @mentions Now (1) and (2) are pretty easy, however the systray stuff would require a custom javascript file in the bundle that interacts with the exposed xul api 
+
+So, if I am chatting to TimStone, auto complete him first. 
+
+Sometimes I typo in my comments, I look at it a few days later and see something that screams to be fixed. But to fix it I would have to get rid of all my up votes and lose continuity. 
+
+This is now implemented, moderators can convert posts to comments. They can also choose to retain the comments on the posts. 
+
+Can you change careers to show how many employers would even consider hiring me. 
+
+NOTE: This is a moderator only feature that we do not think will be used on many sites, the main consumer of this feature is skeptics.se 
+
+Additionally, we could restructure our voting badges a bit to account for the new pools. 
+
+The way I see it, getting a generic invite to careers is way less impactful then getting a personalized message. I should be able to include my recommendation as part of the invite. 
+
+So, it appears, answers are favored when it comes to voting. 
+
+Our quality filter is incredibly effective, it catches so many of these automatically. 
+
+The answerers of the duplicate question are also diluting the value of the site, because good and valuable information becomes splintered and harder to find. 
+
+Should the asker of a duplicate question gain reputation for asking the duplicate question? 
+
+For example: if we find that lots of people are missing out on good tiny edits cause of the new system we may add a UI that notifies you of the change allows you to work it in your edit. 
+
+Should we add a new badge (silver):

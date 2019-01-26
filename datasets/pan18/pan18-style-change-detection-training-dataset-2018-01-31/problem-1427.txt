@@ -1,0 +1,35 @@
+Ability to run on shared web hosting would be ideal (no binary installations / packages required) However, the mySQL driver supports native prepared statements since mySQL 4.1 anyway, so this shouldn't apply. Using 
+
+Is there a way to do this using PDF forms? I am creating the source documents in OpenOffice 3. 
+
+Is there any open service that does that, like Akismet does for spam? Or is there a PHP project that is dedicated to recognizing spiders and bots and provides frequent updates? 
+
+I need to provide a end-user friendly way to update those translations quickly and easily. Ideally, to minimize the risk of breaking stuff, users would not edit the CSV files directly, but be shown a nice form with fields. There is no direct security risk, but as David C notes, exposing an outdated (and possibly vulnerable) version of PHP may be an invitation for people to try and attack it. I am interested to know whether there are any robust, clean PHP 5 frameworks / libraries that are specialized in doing this quickly. 
+
+According to the manual, there's more to do: 
+
+However, a situation where this is necessary smells a bit wrong to me, anyway. If you want to discuss it: What do you need this for? 
+
+They should be able to quickly build a skeleton web back-end to an arbitrary data structure with the basic functions: The manual link has a full working example on how to do that. Stolen from there: Is there any PHP PDF library that can replace placeholder variables in an existing PDF, ODT or DOCX document, and generate a PDF file as the end result, without screwing up the layout? 
+
+I have been tasked with building a simple web based system for managing a list of vehicles. However, these uploaders all bring their own logic of how to handle uploads on the client side. I am looking for an unobtrusive way to "fancify" existing, classical file uploads, i.e. introducing a progress bar to normal file upload forms. 
+
+Something like Python's/Django's Rosetta but in PHP? Rosetta does exactly what I need: 
+
+SimplePO looks like it goes in the right direction, but is too simple - it doesn't seem to be able to handle multiple languages and catalogs, and plurals. The thing connecting a session to a client browser is the session ID, which is usually stored in a cookie (see the comments for exceptions to that rule). This ID is, and should be, the only thing about your session that is stored on client side. 
+
+Due to the architecture of uploading files, this is most likely not possible without some tweaking on the client side. You would declare a class like this: 
+
+Alternatively, is there a great PHP application that you would recommend looking into to modify to suit my needs? To clarify: I'm not looking to block bots. I do not need 100% watertight results. I just want to exclude as many as I can from my stats. In know that parsing the user-Agent is an option but maintaining the patterns to parse for is a lot of work. My question is whether there is any project or service that does that already. I am aware most big frameworks provide tools and helpers for this, but would prefer a standalone, light-weight solution that is easy to get into. They're a good thing to disable, as they are going to be removed from PHP 6 onwards anyway. You should also be able to disable them inside your script: set-magic-quotes-runtime You can't deactivate the part of magic_quotes responsible for escaping POST data during runtime. If you can, disable it in php.ini. If you can't do that, do a check whether the magic_quotes are enabled, and do a stripslashes() on any content you fetch from POST: 
+
+PHPDOCx claims to be able to do exactly what I need - but they don't offer a trial version and I'm not going to buy a cat in a bag, especially not when there seems to be no other product on the web that does this. I find it hard to believe they can do this without problems - if you have successfully done this using the product, please drop a line here. 
+
+You all know the new generation of fancy, mostly Flash-based file uploaders like SWFUpload that can show a progress bar while uploading - a great improvement especially for shaky and low-bandwidth connections. 
+
+You probably have magic quotes enabled on the Linux server: magic_quotes 
+
+Mind you, a library that is able to load an existing PDF file and insert text programmatically at a specific position is not enough for my use case. This is not exactly what all the Flash-based uploaders do: They can use data from a form, but they do not provide possibilities to submit the form as is, what is what I'm looking for. I am looking for a (probably) Flash based upload function taken a step further. Also, as @Paul Dixon points out, it is not very efficient, and is costlier than using a temporary variable. Possibly of note in a very big loop. 
+
+FPDI can read existing PDF templates, but can only add contents programmatically (no template variable replacement) 
+
+As far as I can see in the manual, it is not possible to call functions inside HEREDOC strings. A cumbersome way would be to prepare the words beforehand: The only major obstacle on the road, as far as I can see, is telling human visitors apart from bots. I would like to have a solution for that which I don't need to maintain on a regular basis (i.e. I don't want to update text files with bot-related User-agents).

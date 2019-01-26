@@ -1,0 +1,15 @@
+But first a couple of points of opinion: I suggest ejecting the "CFG" part of the question. Attempting to produce a typology of predicates based on a CFG backbone is going to be difficult and convoluted. Predicate-argument structures are much easier to deal with using a dependency-based model. I can back this claim up with my own research (if anyone is interested). 
+
+Now on to actual predicate-argument structures. A typology of predicates would have to be able to accommodate the following data: 
+
+Concerning the example sentences in the question, linear order is apparently not impacting the scope of the modal elements in relation to each other in a clear way. What is impacting the relative positions of the modal adverb and modal verb is intonational prominence. Modal adverbs prefer to immediately follow an intonationally weak auxiliary verb rather than immediately precede it. Thus the order in the first sentence in the question is fine because have to is not an auxiliary: 
+
+There are many many further challenges facing any attempt to produce a typology of predicates. A third example: 
+
+Again in my view, a much more plausible account of the sentence ejects the X-bar analysis and allows n-ary branching, i.e. it allows relatively flat structures. On such an analysis, the VP is flat; it views Jessica and a gift as sister constituents. Such an analysis is consistent with the results of the named tests for constituent structure. 
+
+USD is contrary to most work in theoretical syntax in this regard. In effect, USD is denying the existence of nonfinite verb phrases and prepositional phrases. Apparently, USD is being widely adopted in many computational circles. Given my background in theoretical syntax, it is difficult to understand how USD can be taken seriously concerning its analysis of hierarchical structures. 
+
+seated is the first example is an adjunct, but a particular type of adjunct, namely one that functions as a predication over the object. Such adjuncts are sometimes called participant-oriented adjuncts, since they function as predications over one of the participants, i.e. over one of the arguments. We know that such expressions are adjuncts because they can be dropped from the sentence entirely, e.g. Peter painted Mary. 
+
+sentado in the second example is also a participant-oriented adjunct, but this time it is functioning as a predication over the subject. We know that it is adjunct because it too can be dropped from the sentence entirely with little change in meaning: Peter painted Mary. The same is true of the third example.

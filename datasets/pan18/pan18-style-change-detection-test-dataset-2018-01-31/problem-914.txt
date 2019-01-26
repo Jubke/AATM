@@ -1,0 +1,61 @@
+Finally, with regard to the drawings, Watson also notes that 
+
+One point to consider here is how vacuous a dictionary would be without any form of external reference. It could only be used to decode another language once you had some other means of translation; it's nothing but a map of words to other words. 
+
+What are the major points of Quentin Meillassoux's critique of correlationism? 
+
+The first sort of thing we know about the teapot is owing to the logical constraint of inaccessibility: we know we can't know it, that any instance of learning associated with it must be causally disconnected from us and anything we can conceivably learn. It's absolutely external to our configuration space; there isn't a straight pathway through the world to such a teapot. But what does this mean? 
+
+Already in his notes for Anti-Oedipus, Guattari senses that Peirce's diagram is somehow special, that it unleashes "deterritorialized polyvocity," that it must be understood as distinct from the image because the diagram is a site of production (AOP 72, 214, 243-255/97, 308, 346-349). He continues reflecting on the powerful, productive diagram in Revolution moleculaire [Molecular Revolution] and L'inconscient Machinique [The Machinic Unconscious], concluding that diagrams "are no longer, strictly speaking, semiotic entities." Their "purpose is not to denote or to image the morphemes of an already-constituted referent, but to produce them" (IM 223, 224). In other words, diagrams do not represent thought; rather, they generate thought. Diagrams abound in experimental science, he says, because it is "a sphere where signs have a direct effect on things," involving "both material technology and a complex manipulation of sign machines" (MR 166/RM 303). The diagrammatic consists precisely in this conjunction between deterritorialized signs and deterritorialized objects. 
+
+A scientific belief simply cannot be justified by any other means than the various evidences produced by scientific analysis and experiment. I'm not sure it's fair to demand that a theory be absolutely true; rather it should predict things, solve problems, teach us to build things -- and ideally indicate further directions to explore. 
+
+Finally, there is certainly at least a sense in which a dictionary formulates a 'description' of a language, inasmuch as a dictionary is by definition a standard for usage and pronunciation. (However, even in this sense standard dictionaries perhaps fall short, as they usually don't include a complete grammar.) 
+
+While I am definitely a believer in clear formulations of concepts, it is undoubtedly the case that "reason" is often a likely mask for other interests. What is said to be "rational" may turn out upon critical analysis merely to be a precept of common sense without justification, or indeed someting more sinister -- a rationalization for social or psychic repression. And underneath this sort of "rationality" there is only drift; and as at the very least it is difficult to conceptually define what "pure reason" might mean (though cf. Kant) there is a certain sense in which the ultimate meaning of our "reason" may merely be a series of long errors. 
+
+When Einstein came up with GR, the notion of an eternal universe was the prevailing opinion which is why he chose a static spacetime; it was Hubbles evidence that the universe was expanding - to be more specific every star was moving away from every other star that helped tip the balance towards the Big Bang theory. 
+
+This tradition should be distinguished from that of Lucretious, which itself derives from Epicurus; and its this tradition that sets its metaphysical face against that of Aristotles. 
+
+Pin your faith to supernatural knowledge and stumble through a darkness deeper still. 
+
+As evidence that the Anthopic Principle is taken seriously in science with as Schellekin notes 'palpable reluctance' the following quote may help: 
+
+So, at bottom; and when considered rightly, they are at the same level; in that they treat fundamental questions in fundamentally incompatible ways; however in the history of ideas, they are intricately interwoven (as pointed out by Hegel in his History) - and thus a dialectic; compare with Hegels notion of the dialectic of Being (theism) & Non-Being (atheism) being sublated into the Becoming of Science & Theology. 
+
+Since Robinson didn't know the physical sciences - its worth pointing out that the Newtonian conception of space as homogenous, absolute and everywhere the same, sounds quite close to the adoption of a Parmenidian monism in this physical context; and the historical development of atoms (adopted by Newton for his corpuscular theory of light) by Democritus was forced by the challenge that Parmendian monism had on the conventional understanding of change in the world. 
+
+This implies two strong conditions on what can be the object of scientific knowledge: 
+
+ii.Scientific knowledge is knowledge of causes 
+
+Consider nowe the set N wich include an "initial" element, call it 0, and for each element n, it includes also its "successor", call it S(n). 
+
+where A is the conjunction of the axioms of your theory and T is a theorem. 
+
+(ii) S believes that P is true, and 
+
+You can see: Ian Hacking, The Social Construction of What ?, Harvard UP (1999). 
+
+Also : Dov Gabbay (editor), Inductive Logic (volume 10 of Handbook of the History of Logic, 2011). 
+
+The core of this definition is the notion of “resulting of necessity” . This corresponds to a modern notion of logical consequence: X results of necessity from Y and Z if it would be impossible for X to be false when Y and Z are true. We could therefore take this to be a general definition of “valid argument”. 
+
+In a nutshell, we can say that according to Aristotle, science, i.e. true knowledge, is what we can deduce from true premises with a valid argument : 
+
+Bertrand Russell, The Philosophy of Logical Atomism (1918); see also Russell's Logical Atomism and Wittgenstein's Logical Atomism. 
+
+It seems to me that the "tricky" word here is knowledge. 
+
+You can see in SEP The Problem of Induction 
+
+The verb translated with "belief" is nomizein (νομίζει), nomizo, directly derived from nomos : law, custom. 
+
+Human being has a sort of "innate propensity" to believe in regularities and in causal connections. 
+
+(iii) S is justified in believing that P is true. 
+
+Also : Ian Hackintg, An introduction to probability and inductive logic (2001) 
+
+In mathematics, when we assert the equality: 1+1=2 we are not asserting that the two strings of symbols 1+1 and 2 are equal, but we are asserting that the objects named respectively with "1+1" and "2" are the same object: the number two.

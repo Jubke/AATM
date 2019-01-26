@@ -1,0 +1,97 @@
+3) If you are integrating AdMob check custom parameters like ads:adSize, you need 
+
+How can I test all of the following methods code? I want to play scenarios when all of them are happening to see if my code works for save/restore process of an activity. So what should I do in the Emulator to get all methods tested? 
+
+You should always have the new table creation query at hand, and use that for upgrade and transfer any existing data. Note: that the onUpgrade methods runs one for your sqlite helper object and you need to handle all the tables in it. 
+
+4) If you are using LinerLayout you might have to define tools 
+
+So what is recommended onUpgrade: 
+
+I moved my Android project to a laptop and now I get this when I hit Debug. Sounds like this is a bug? This shouldn't happen via Eclipse as far as I know. 
+
+A couple of reasons that this can happen: 
+
+The only way I got the arrow to turn white is to add the spinner programatically and not in xml so it looks something like this 
+
+here is my Manifest permissions 
+
+Check and make sure that you do not have another values folder that references theme.styled and does not use AppCompat theme 
+
+any intent you make to a service, activity etc. in your app should always follow this format 
+
+in my app i let the user select an image from the gallery and had no problems doing this pre 4.2 but now when I select an image that is synced from my google+ account which i guess is a Picasa image I get this error 
+
+this means that the version of google play service you included in your app is higher than the one currently installed on the users device. the user needs to update their google play services in-order for your app to work correctly. 
+
+again this is all in the link you supplied 
+
+v7 includes the v4 support library so there is no need to have it in there again 
+
+basically when adding a marker to the map it returns the new marker and you can gets the marker id from it like so 
+
+I tried changing the style of the spinner using this 
+
+if the result comes back with that error you can simply call this method to alert the user they need to update and it will take them there. 
+
+I have never been good with command prompt stuff so I dont know if that was just a noob mistake or what but just in-case anyone else runs into the same problem 
+
+so just update with the values 
+
+There is no material based theme for a dialog in AppCompat yet, see here 
+
+to change the text to white all you have to do is change the theme. 
+
+I've just tried solutions like: 
+
+The gradle-plugin 0.9.0 works with Gradle 1.10 or Gradle 1.11 
+
+The problem is that Gradle seems to use a cached version of these libraries and doesn't redownload the new updated snapshot version. 
+
+Android Studio 0.5.0 requires gradle-plugin 0.9.0 
+
+At the same time there isn't a method to change the color dynamically. 
+
+Due to this change, make sure to double check the layout parameters of your item views: previously ignored layout parameters (such as MATCH_PARENT in the scroll direction) will now be fully respected. 
+
+If you have a maven with authentication you can use: 
+
+I am using Crashlytics (now known as Fabric) in my app. 
+
+Also there is a relation between gradle-plugin and the IDE version. 
+
+I would like to retrieve the name of the wear device connected, as "Gear Live 02xx". 
+
+In your item layout you have to change: 
+
+It can be fixed using the command: 
+
+I am using Android Studio 0.8.1. This is the log when I am trying to install and debug the app. 
+
+With the new experimental plugin (0.2.1) you have to use: 
+
+To change the navigation icon you can use: 
+
+If you are using AndroidStudio 2.1 you will find these folders: 
+
+About the accent color. You are using a AppCompat theme so you should remove Android from the namespace inside your theme. 
+
+You can force the annotation library in your test using: 
+
+There is a relation between gradle-plugin and the gradle version. For example 
+
+I tried to use something like this in my gradle script, but it doens't work. 
+
+4) If you are using LinerLayout you might have to define tools 
+
+I moved my Android project to a laptop and now I get this when I hit Debug. Sounds like this is a bug? This shouldn't happen via Eclipse as far as I know. 
+
+So what is recommended onUpgrade: 
+
+3) If you are integrating AdMob check custom parameters like ads:adSize, you need 
+
+A couple of reasons that this can happen: 
+
+You should always have the new table creation query at hand, and use that for upgrade and transfer any existing data. Note: that the onUpgrade methods runs one for your sqlite helper object and you need to handle all the tables in it. 
+
+How can I test all of the following methods code? I want to play scenarios when all of them are happening to see if my code works for save/restore process of an activity. So what should I do in the Emulator to get all methods tested?

@@ -1,0 +1,29 @@
+Here is another potential solution - one I would try after the above: 
+
+Your devices carrier could be potentially causing the problem. Besides switching carriers, there's not a whole lot you can do to fix this, nor is it really possible to tell if its because of the carrier or not. 
+
+Update: The IGN Wiki states that you cannot hatch a Ditto from an egg under the "Additional Ditto Catching Techniques." 
+
+If you watch this video around the 1 minute mark, you can see that for the Dragonite, it turns green and a boxing glove appears next to the CP. The CP is also reduced. But, for the rest of the Pokémon in the gym, it still turns green with a boxing glove, but none of the CPs reduce for those pokémon (this rules out the question of if it has to do with the scaling or not). You can also see that in the bottom right, the button to initiate the fight is a boxing glove. 
+
+Gyms are the only locations (currently) where Pokémon battles can occur. When you are battling at a Pokémon Gym, you are either battling an opposing team, using a full roster of six Pokémon that you have selected, or battling ("training against") your own team, using a single Pokémon that you have selected. 
+
+Purchasing a Pokémon storage upgrade will not increase your egg capacity beyond the initial nine that are allowed (I have purchased several Pokémon capacity upgrades). Unfortunately there is currently no way to increase your egg capacity, although it is possible this feature will be added in the future. 
+
+First Case: I captured two Pidgeys of the same CP level (93) in a very short time. Comparing their weights, I found that one had higher HP, and realized that this was positively correlated with weight. Interestingly, in this case the Pidgey with the larger height value was the one with less HP, which I thought may thought might indicate a negative correlation, but this was not consistent with the next case. 
+
+Enemy Gyms These are gyms that are currently controlled by players who are not on the same team as you (i.e. Instinct (Yellow), Mystic (Blue), or Valor (Red)). When you engage in battle against these gyms, you must pre-select a roster of six Pokémon to fight with. Then you will fight the Pokémon in the gym one by one from weakest to strongest until you have beaten them all (or not). For every enemy Pokémon that you defeat, the prestige of that gym will be reduced. If the prestige is reduced enough, that gym will lose a level and the weakest Pokémon will be kicked out and returned to its trainer. If the gym loses enough prestige and falls below level one, it will turn white (neutral) allowing you to install a Pokémon of your own and claim this gym for your team. 
+
+Update: It appears that the conclusion below is false, and as of now we are unsure of the correlation between Weight/Height and any other of the Pokémon's stats. I have seen several counter-examples to the trend I observed, both from personal experience and from other people and so I am no longer confident that there is a relationship. Once more information, incorporating moveset and other variables (such as - "was it caught at this CP level or did you raise it to this CP level?"), comes to light, hopefully we will have a more definitive explanation for the variability of HP vs CP. 
+
+Allied Gyms These are Gyms that are currently controlled by players who are on the same team as you. When you battle at these gyms, you must select a single Pokémon to fight with, and then combat proceeds as normal against the Pokémon in that gym. Winning these will result in an XP reward, and the prestige of that gym will be increased; however, any Pokémon that you defeat will remain in the gym, unlike battles against enemy gyms. You can also install your own Pokémon in a friendly gym provided there is enough space, which is based on the gym's prestige level (e.g. Prestige 2 gyms can hold two Pokémon). Installing your own Pokémon in a gym can be beneficial because it allows you to collect a reward of Pokécoins and Stardust once every ~20 hours for each Pokémon you have installed in a gym. The maximum any player can have in any singular gym is one Pokémon. 
+
+According to this article, there are 9 ways: 
+
+You're using a rooted device. Based on the comments on the other answer and your edit, you're aren't. So no need to worry about that. 
+
+Credit to Vemonus - as accented characters must be used in searches in order to find Pokemon with names that contain such characters. You can also search using ascending or descending order when filtering by ranges. 
+
+According to one Reddit, you are forced to transfer a Pokemon from your box before you can capture the Raid pokemon, or you can upgrade your space via purchasing upgrades. You will be exited from the gym, and will have to enter it again to fight the pokemon (as stated in the comments and other answer). 
+
+The permissions that are set for Pokemon Go on your device are blocking something. It sounds like you've fiddled with this already, but you may want to look into it again. If you have multiple Google Accounts, its possible that the game is using a different one on your phone to log in, causing the error. To fix it, remove all Google Accounts from your device, and put the one you want to use to for Pokemon Go on it only.

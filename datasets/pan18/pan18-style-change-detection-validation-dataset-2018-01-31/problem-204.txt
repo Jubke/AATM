@@ -1,0 +1,55 @@
+I've used this kit as a race mechanic professionally. 
+
+The last thing is number of gears. Typically any derailleur is designed to be used with a particular number of gears. In some circumstances, the derailleur can be used on a bike with a lesser number of gears, (i.e. a 9 speed derailleur on an 8 speed bike.) I don't know of any circumstance where an 8 speed could be used on a 9 speed bike, however. 
+
+Cables should be lubricated with a light oil, like Brunox. 
+
+As they move out of the piston, they push past the caliper seal. The flex in the caliper seal acts as a retraction spring, to pull the piston back into the caliper by just enough to clear the rotor. 
+
+A spacer to convert an 8/9 speed freehub to 7 speed freehub goes behind the cassette, between the hub shell and the cassette. Most cassette lock rings will not bind on the spacer, they will go inside it if you place it on the outside. 
+
+To keep it simple, any place where one piece of metal touches another needs grease. 
+
+Since the seal that acts as a retraction spring is always in the same place relative to the piston, the pad wear is automatically compensated for because the pad is always pressed out of the caliper until it contacts the rotor. 
+
+It's made by Morningstar tools, and works very well. You will also need the proper lubricant, and new exterior seals for the freehub. Both can be purchased from Morningstar tools as well. 
+
+If you want the ultimate kit, I'd swap out a fair number of the included tools with the lightweight versions made by Abbey Tool Works. Not needed for the everyday mechanic, but a great option for those needing to minimize their carry on weight. 
+
+Does anyone have real world experience with them to relate? 
+
+They also have a number of sizes of empty tool cases including a backpack version. 
+
+The other option is to simply replace the freehub, which should be readily available at your LBS, for about $20. 
+
+Edit: 10 and 11 speed drivetrains are often not backwards compatible for either front or rear derailleurs. 
+
+Slippage of seat posts and handlebars in the frame was why we were originally told not to grease carbon parts. The grease reduced friction, which meant higher torque and more broken parts. 
+
+I was trying to find any formal service interval information, but both SRAM and Shimano say that aside from cleaning off the external parts, the hubs are "well sealed" and the service interval should be "long". 
+
+With the dropout style you posted in your image, the alignment is actually set with two things. 
+
+Titanium frames get copper paste in place of regular grease, with special care taken where aluminum and titanium might touch. 
+
+It works in a very simple fashion. Each time the lever is pulled, enough fluid to move the pistons, and therefore the brake pads, is pushed out of the caliper far enough to contact the brake rotor. 
+
+The best traveling tool kit I've found is made by B&W International. 
+
+The photo shows the Freehub buddy, next to a freehub with a cutaway so you can see the rows of bearings I mentioned earlier, a tube of soup lube, and 2 new reusable seals. 
+
+FYI, my mod was successful, but was very risky. I literally had to cut a large hole of a very specific shape and position in the BB shell. I also had to drill a hole through the pre-molded cable stop section at the head tube, as well as through the chainstay by the rear derailleur. 
+
+How would you measure it? Does it require it to be every bearing in the drive train, or will each set of bearings replaced improve performance? 
+
+Hairspray, btw, is not permanent. It's just difficult to remove without a compressor or damaging the grip. 
+
+You may need to swap the bottom bracket axle to get more perfect chainline, in order to solve this issue. Assuming the bike has not had the BB replaced by you, it may be wise to ask the shop where it was purchased whether it is the original BB, and whether they will help with any chain line issues under warranty status. 
+
+The high alcohol content is what makes hairspray effective, and using isopropyl alcohol cuts out the sticky residue of the hairspray that is made up of its remaining content. 
+
+The rear derailleur is less complex, only really requiring an equal or greater number of gears than the original, and the correct length of cage to engage all the excess chain length on your bike. Most MTB's and all triple crank bikes that I am aware of use a long cage rear derailleur. It may not be possible to use a new 10 speed MTB derailleur on a 9 or 8 speed bike, but I would have to verify that in person. I know that Shimano says it is not functional, but that may only mean that it's not perfect enough to give their seal of approval. 
+
+The Rohloff is a ridiculously burly hub. The Alfine, or the i-Motion9 would do well to match half that performance. But I'd say based on people I've sold bikes with Nexus or Alfine hubs, and how rarely we see them for service, and how much more rare it is that they need major service, that 20000 miles is not too much to expect. 
+
+A grip left on its own will bond to the bar after some time, even if installed completely without any additives, so you still may need to cut them loose when it's time to change them.

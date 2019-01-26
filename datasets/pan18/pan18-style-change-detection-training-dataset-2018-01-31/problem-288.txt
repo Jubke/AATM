@@ -1,0 +1,19 @@
+So assuming your hands are on the tops of the bars when that car pulls out in front of you, you want the set of brakes that actually work to work when you squeeze them. 
+
+When you release the brake cable, the brake arm should rotate outwards. Use this opportunity to try to loosen it up by shooting in some WD-40 to flush the rust/grit and rotating it in and out a few dozen times until it's loose. Once it's loose, you might want a final shot of a telfon lubricant as WD-40 dries up. 
+
+Side-Pull You're used to the side-pull. There, the cable comes to one side and squeezes the arms together. Because it's not symmetrical, it uses the pressure of the brake shoes when full-squeezed to center itself around the single mounting pivot. By design, the entire brake can pivot around that mounting bolt: 
+
+The brakes are making a horrible grinding or scraping sound and/or aren't working efficiently (note: they might be just glazed so you should take them apart and see if the brake surface is glazed; if so, deglaze it with sandpaper) The brake drum lever arm is almost all the way forward and is limiting your braking performance There's a little arrow or other indicator on some brake drums by the brake lever arm which indicates that the brake lever arm is fully extended and worn You've taken the outer housing off and you can visually see that the brake surface is worn down. The brake specifications should give you the minimum brake bed material that you need, otherwise I'd use about ~2 mm as a general rule. Because of their larger surface area and because they are in the rear, drum brakes tend to have a longer life compared to front brakes. When brakes are new they may have to be adjusted frequently (until the shoes have become properly bedded in). 
+
+The cons are that if you're a newbie, the front brake is harder to modulate. The easy solution is to gain more skills in that area. 
+
+This would only make sense if you were replacing the wheel and brakes anyway. Normally discs on the rear are pretty senseless because most of the braking is from the front, but it might be the easiest, cheapest, and most powerful solution here -- if you're already replacing the wheel. 
+
+Drum brakes (hand actuated types) themselves don't need grease. If there's contaminants on the drum or shoe, you should just get some "drum brake cleaner" from your auto supply shop. However, more than likely the 'noise' you're experience may be from the wear indicator on your drum brake, indicating you need a new brake shoe. Given that you don't know the manufacturer of your brake, this replacement may be hard to obtain but a new drum brake itself is cheap. 
+
+Then release the brake cable by unscrewing the hex bolt on the very top of your stuck arm. 
+
+It's called a barrel adjuster. Why do you need a Campagnolo one? If it fits, it works. As far as I know, there's no commercial solutions. Part of this is the technical difficulty of braking both trailer wheels equally and in proportion to the main braking force. It's conceivably easier with BoB style single wheel trailers but most trailers are dual wheel with single-sided hubs, which adds further complexity. Are you sure you have the right size wheels (or fork)? My guess is that the bike was originally 27" but someone replaced with a 700c which is slightly smaller. Or that the fork is for a 27" or larger. I warn against trying to remove the brake arm itself from the frame. There's a spring that keeps tension against the frame and when that goes sproing, it's a bit of a pain getting it back on. 
+
+I have a 1975 Peugeot UO18 that I turned into a commuter. I replaced the wheels with 700c contemporaries. The UO18 is the mixte version of your UO8 road bike, so almost all the components are almost the same.

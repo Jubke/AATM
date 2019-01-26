@@ -1,0 +1,21 @@
+So then, is the issue bad network code or are you being punished because of your (good/bad) connection? In reality, it's a feature of the game. The people who design and write these games are well aware of the limitations of current network architecture. They choose to make a fast paced game that is frequently unfair because we will buy it and play it. Until we're all connected via zero latency links to one another, or we decide that we don't really like games where a kill takes tenths of a second, we're going to have to deal with this frustration. 
+
+After you are done watching the message, you have to take the cartridge back out of the playback machine. This must be done before you enter the skimmer. It's small, but if you watch carefully when Roger inserts the cartridge in the machine, you'll see where it sticks out of the control panel. Use the "hand" to take it. 
+
+Beyond that I'm afraid I don't know - there's so many tiny things that can go terribly wrong with a recent game and an individual PC setup that I'm not sure how to advise you in your current situation. 
+
+If you remember to pick it up again, you can carry it with you to the end of the game. 
+
+The character might be Private Carrera: 
+
+This FAQ has a complete list, (search for "cheats") but they're not in the same order as on the menu, so I can't verify that the ones I've picked out are correct. That said, I'll take a crack. 
+
+The first thing I want to say is - if you are experiencing pain, go and talk to a doctor. Keep talking to doctors until someone acknowledges that wrist pain is a serious condition and they take you seriously. This kind of pain does NOT go away, and it will NOT get better without work on your part. 
+
+You can also get fancy, and make it so that it only effects the accent grave key when BF3 is running/has focus, but that's an exercise left to the reader :) 
+
+For your uses, you might want a simple script like: 
+
+To use the cheat codes, start a career mode level and pause, and then hold Numpad 7 while you enter the code. More codes for PC are here. 
+
+In a system where you can't choose the server (or the architecture is peer-to-peer) there's a greater chance that the latency of the various clients will be uneven. In a peer-to-peer scenario (which the CoD franchise uses almost exclusively on consoles) there is always one player who is hosting the game, and he experiences minimal latency compared to every other client. Since the game is trusting one of the peers to host, there's also a chance that that peer could be tampering with the system to gain an advantage.

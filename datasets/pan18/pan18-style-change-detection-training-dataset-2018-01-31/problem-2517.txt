@@ -1,0 +1,25 @@
+Using a period to stand for syllable boundary, in your example 
+
+Marking stress with a tic preceding the stressed segment, your example is /'B 'R 'OW 'K AH N/. The stress of consonants works something like other features; for instance here there is the possibility of regressive assimilation, where the stressed /'K/ assimilates in stress to the following unstressed vowel. Then we get phonetic ['b'r'owkahn]. Unstressed (i.e. not syllable onset) [k] is subject in some dialects to lenition: ['b'r'owxahn], or, marking syllable boundaries with a dot and omitting predictable stress, we go from /.B R OW . K AH N./ to [.br'owx.ahn.]. 
+
+An obvious problem with Saussure's version of this theory is that aperture does not uniformly increase at the beginning of a syllable, nor uniformly decrease at the end. So my revision is to substitute stress/unstressed for Saussure's explosive/implosive. This is the SPE feature stress, which is defined for consonants (honest -- I checked), but not actually used for consonants, so far. We could identify it with the fortis/lenis difference, which is sometimes used for consonants. 
+
+Your idea about it appears to be a version of the analytic view, similar to that of Daniel Jones'. And if you take the opposing psychological view, it is indeed an error. But some would agree with you. 
+
+Unfortunately for this particular example, another plausible account is available. May.a might have the diphthong /ai/. 
+
+A more intuitive term for the stressed/unstressed distinction might be fortis/lenis. 
+
+The division of opinion in linguistics is reminiscent of the controversy in mathematics on whether mathematical objects are created by mathematicians or discovered by them. The latter position is called Platonism. 
+
+In the case of intervocalic voicing of obstruents, it may be that the assimilation winds up taking more articulatory energy, since the natural tendency of obstruents to devoice has to be overcome. 
+
+Personally, I take the realistic side, which I take it is the side argued by Edward Sapir in The Psychological Reality of Phonemes. A version of that view is that of David Stampe, in various publications, and in the unpublished paper "Yes, Virginia ..." (... there is a phoneme). 
+
+A syllable consists of a longest sequence of stressed nonsyllabics followed by a syllabic, followed by a longest sequence of unstressed nonsyllabics. So if you know the stress and syllabicity of all segments, you can count the syllables and tell where each syllable begins and ends. 
+
+There has been a conflict among linguists since, well, forever, about whether phonemes are analytic devices created by linguists, or whether phonemes actually exist, in some sense, and are discovered by linguists. Whichever side you choose, you'll be in good company. 
+
+The first person to make theoretical use of feature orthogonality, so far as I know, was William Holder in Elements of Speech. Holder argued that there must be a velar nasal consonant in the series [m, n, ...] to match the places of articulation of [p, t, k]. 
+
+Stress is phonemic in English, so of course [ə] and [ʌ] are different phonemes, since only the latter is stressed.

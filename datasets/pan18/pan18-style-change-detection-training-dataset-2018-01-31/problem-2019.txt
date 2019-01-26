@@ -1,0 +1,49 @@
+How would a set of fundamental mental laws or dual substance laws be any different from physical laws? If an idealist reductionism is as atomistic as a physicist one, then how is it any different? Would it have to include intention and teleology? 
+
+This is the same conclusion that Wittgenstein and others arrived at. Wittgenstein started out as holding views very similar to Carnap and the Logical Positivists: Logical statements and empirical statements are the only meaningful statements. But then he abandoned those views and in his later philosophy subscribed to the view that meaning is use: Statements derive their meaning not from the way correspond to empirical facts, but from the way we use them. The term "unlucky" is used in a certain way when we communicate and that is enough to give it meaning. See Ordinary Language Philosophy and Pragmatism. 
+
+There are some caveats: When I spoke to the researchers working on this in 2009, it was still a work in progress - no actual cures or solutions had been discovered using this method yet. 
+
+The Philosophy Stack Exchange and other humanities SE's are obviously more subjective and hence more susceptible to opinion/consensus biases. But ideally, we are dealing with philosophy (and other fields) as academic disciplines for which a certain amount of objectivity is possible. It is my experience that objective questions (Such as "Is Derrida considered an analytic philosopher?") tend to result in objective answers ("No, he isn't"). The onus in Stack Exchanges like the philosophy SE is really on the askers to ask the right questions, more so than on the users to upvote the right answers. 
+
+See among other things, Logical Positivism and why many considered it to have failed, Quine's Holism, non-overlapping magisteria, and Pragmatism (as Philip Klöcking ♦ said: Dewey and others). 
+
+But, a zombie has no qualia, so...? 
+
+you might also enjoy the following very funny video of Feynman explaining nature's craziness to students - https://youtu.be/eLQ2atfqk2c?t=24m2s - the lectures themselves are very interesting - after watching them two years ago I realized for the first time how holograms actually work. 
+
+I guess it would probably insist there is no such thing as that silly thing philosophers call qualia, but that is OK since most of my good friends insist the same. 
+
+and then you tell him "oh master, this loop is really philosophically mind blowing — we are all sitting on each other's laps without any chairs, in the air as it were. but we are not levitating." 
+
+If so, then in what sense is the sharpness of the boundary interesting or relevant? 
+
+I wonder if such a zombie could conclude cogito ergo sum since I believe Descartes really meant (inner) experience entails existence, and that the purpose of I in that statement is simply to point out that first person, direct inner witnessing, rather than some concept of a self. 
+
+If you resort to older definitions of philosophy, when the natural sciences were considered part of philosophy, then the answer would be different. Questions in physics and mathematics might - emphasis on might - be independent of the human observer, but not questions of philosophy. 
+
+I asked can it be applied to other sciences besides the biomedical domain and was told that the format of biomedical publications was much more amenable to such procedures than other fields. Presumably at some point text mining technology will be advanced enough to be able to do this for domains such as physics or mathematics, etc..... 
+
+For possibility (2) one can start from James and Russell's neutral monism. From what I understand, Russell arrived at this position from the idea that relations are more fundamental than substance. 
+
+Kuhn also adresses this in his book. Per Kuhn, science has multiple phases (see section 3 of this answer for details), and one of the main phases is the puzzle solving phase, when researchers just spending their time confirming already existing theories by solving minor puzzles, instead of truly questioning them and coming up with new ones. 
+
+My understanding was that Kant was mainly refuting Hume, why wasn't he concerned with Locke's results? 
+
+My question is the following: Would a statement that is otherwise easily verifiable using empirical means, but is located so far away in space, that a light signal from earth could never reach its location in time to test its truth or falsehood be considered meaningful by logical positivists? 
+
+Consider for example the problem of free will - one can imagine two philosophers who hold opposing views on free will, and who for many years reject each other's view using reductio ad absurdum; is that not absurd? 
+
+1) It is one way to create something from nothing; see this relevant critique of a book by Lawrence M. Krauss by professor of philosophy David Albert. 
+
+you might also enjoy the following very funny video of Feynman explaining nature's craziness to students - https://youtu.be/eLQ2atfqk2c?t=24m2s - the lectures themselves are very interesting - after watching them two years ago I realized for the first time how holograms actually work. 
+
+If so, then in what sense is the sharpness of the boundary interesting or relevant? 
+
+Anyway, the entire philosophy of mind grows from your question as it were, and there is no answer, only a mountain of fascinating books and ideas to read through — and you can start by googling around — the wikipedia and the online Stanford Encyclopedia of Philosophy are good sources. 
+
+I guess it would probably insist there is no such thing as that silly thing philosophers call qualia, but that is OK since most of my good friends insist the same. 
+
+I think we can suppose a lower than 100% accuracy for non-trivial problem domains. Say it is 97% accurate, then what about the remaining 3%? it would appear that some members of the community of speakers disagree with the machine. will it learn from them or even teach them as it interacts with them? will said boundary change over time? 
+
+Indeed, some people insist that true "levitation" is possible, and others insist it is nothing but an illusion — a bag of tricks — I belong to the former camp, and believe that explaining the mystery of consciousness with loops is silly.

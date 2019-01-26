@@ -1,0 +1,33 @@
+One caveat- You'll never get to 100% Commit to Done. Any team that does is gaming the system. 80% is probably the highest you'll ever see consistently. This is because as a team finishes work, they will reach into the backlog to pull in new work. 
+
+I gave Sergey's answer a vote, solid ideas. 
+
+The product owner is part of the team. They are the direct connection to the business and the person who signs off on stories as done. You absolutely want the PO there so they know what's going on. 
+
+So if i was your coach, I'd tell you to start with the "by the book" only the developers talk. Then use your retrospectives to decide if that works. 
+
+When a Scrum Event is not working, start with asking why. They exist because of decades of experience that they work. 
+
+So it would go, Release Planning - Backlog Refinement - Sprint Planning 
+
+The main reasons I've seen for not having a Review: 
+
+The second is a constant challenge. However, without the stakeholder feedback, you can easily fall back into the Waterfall trap of "That's not what I asked for" when they finally see the product. Instead of not holding the meeting, try adjusting when and how you hold it. Maybe go for every other sprint or try a science fair type model. 
+
+1- Decompose: You need to take your higher level, less detail stories and decompose them down. An Epic is almost always many user stories. This is a classic story splitting exercise and I recommend starting a new question if you want tips on this. 
+
+In the end, I think the agile transition comes down to adoption benefits vs agile phobias. 
+
+I've just finished running a retrospective of a team I doesn't manage usually (they don't have a dedicated ScrumMaster), and it appears that there is a conflict of opinions in the team (which is relativelly small in members). 
+
+Possibles suggestions includes: provide training, promotion, create dissatisfaction with the status quo, creating the sense of urgency, addressing individual fears, let time run its course, fire the saboteurs, praise the right behaviour, involve people, etc, etc... 
+
+Any advice on how to solve such a case? 
+
+The majority of the team rate themselve as doing poor in term of synergy and collaboration. They think it's their main weakness and think they should take actions on that. 
+
+But from my experience business executives are often really tied to management executives. So it's a 2 versus 1 situation where Scrum teams often stay undercover as you described. You might want to look closely at your situation if you're not mistaking the business resistance with what's really behind: management resistance. 
+
+It's obvious to me that the synergy of this team is indeed bad, and this case is an obvious example. So I'd like to address that without hurting the feelings of anyone. But during the retro I couldn't come up with a quick and elegant solution. 
+
+So yes, if you don't address those mistaken belief about agile or Scrum from the management, than eventually the adoption will fail.

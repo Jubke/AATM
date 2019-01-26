@@ -1,0 +1,41 @@
+Obviously, as David Crystal puts it, "the incomers had no interest in preserving the distinctive Anglo-Saxon letters" (Crystal 2012: 60). Moreover, the West-Saxon educated elite that was responsible for developing and maintaining the WS standard gradually lost power and by the end of the 12th century their spelling practices were abandoned (Blake 1992). 
+
+See the quote below from Lass and Anderson 1975: 
+
+At first, this represents how generative syntax was done in the late 80s-early nineties. Many of those ideas were abandoned a long time ago. 
+
+So, the remark by darkgamma that "the etymology is off and the chronology is wrong by a few hundred years" is irrelevant. 
+
+What happens is that in connected, fast speech function words get unaccented and "show reductions of the length of sounds, centralization of vowels toward /ə,ɪ,ʊ/ and the elision of vowels and consonants" (Cruttenden 2014: 273). 
+
+Quirk et al. 1985: an adverbial clause of time, reason etc. 
+
+OE gyllan – geal – gullon, cf. PDE yell (yelled) 
+
+Lexical aspect includes telic/atelic (and sometimes bounded/unbounded) dichotomy. It is determined by the verb itself, the verb phrase, and even the whole sentence. Not everyone makes a distinction between telicity and boundedness but imho Ilse Depraetere has convincingly shown why it's important (e.g. Depraetere 1995). 
+
+This is a really old problem and a lot of research has been written on this. 
+
+The low tone (in the initial pretonic position): Ivanov 1999 (and earlier). He suggests that "the Indo-European particle/adverbial element *kom could be used both as an enclitic or as a proclitic." 
+
+It is possible that the -ilis part in -bilis is related to the separate suffix -ilis as used in habilis, but I cannot find a definitive etymology for -bilis. 
+
+In traditional grammar, the word doing is a participle in all your examples. It modifies the subject, I. This can be made more visible by reversing the word order, which results in a somewhat artificial but transparent sentence with identical meaning: 
+
+The Latin roots of the English word able are: 
+
+One could add a preposition in your first example: 
+
+The (unattested) Latin form was *habibilis, as mentioned by Sihler and noted by Tom Recht below. In classical Latin, this had been shortened to habilis, as it often happens with double syllables (called haplology). The h- had disappeared in certain French forms and dialects by the time the word was borrowed by English, and -lis regularly evolved into -le in French, resulting in English acquiring the word able. 
+
+The fact that my homework is also felt to be identical to the thing you feel good about is accidental, it is a red herring: the construction is exactly the same as in I hurt my hand repairing the car, where repairing the car is in no way the thing you hurt your hand about/in/whatever. 
+
+A participle often expresses the circumstances in which the subject performs the action of the finite verb; that is why you can often replace it with a while or because clause, an adverbial constituent of time or cause: 
+
+Your construction is the same as in these sentences: 
+
+But this elliptic clause is still quite different from the participial construction in your examples; notice how the ellipsis is not possible with because. 
+
+But that doesn't prove anything: the word about cannot normally be left out in English, so this is an entirely different construction. The fact that there is little change in meaning is, again, a coincidence rather than a structural feature. In this construction, doing is a gerund (not a participle), because it functions as a noun. Only things that function as nouns can be the object of a preposition. You can see that it is not possible in other instances of the same construction, which shows that doing is no gerund here: 
+
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this:

@@ -1,0 +1,33 @@
+Note that both upgrading a rare and rerolling with the law of Kulle can result in getting an ancient legendary. However this works both way and rerolling an ancient can transform it into a regular legendary 
+
+Toughness is a balance between Vitality, Armor and All Resistance. To reach Higher Torment difficulties (and especially Torment 10), you will need at least about 800+ All resist, 15 000 Armor and a life pool of ~600 000. With a Demon Hunter, you can boost up those stats with your companion Boar and with the passive skill Perfectionnism. Last but not least : the more Life you have, the less the healing stats will be effective, that's what I'm going to explain in the next section 
+
+1) Use the Receipe : Hope of Cain to upgrade a level 70 rares items into legendaries until you get the legendary you need. If you need rares items you can either : 
+
+Note that this method has been nerfed, the monsters still spawn but no longer gives XP or loot. 
+
+The healing stat is the game's estimation of how much life you can regenerate over a period of 1 second depending on what healing affixes you are using on your gear. The exact calculation is unknown but it's safe to assume that Life on Hit is more efficient with a high attack rate. 
+
+Reroll attack speed if you already have more than 2.5/2.6 Attacks per Second. At this rate you generate hatred fast enough and the difference between a 1.6 APS weapon and a 1.7 APS weapon won't be that much. 
+
+You now understand that healing can be very powerful, you should use : 
+
+With the new difficulty system I was wondering for Torment 6 if it was worth putting a Ruby in my helm instead of increasing my survivability with an Amethyst. How does the bonus from the ruby interact with the new XP bonus from Torment level ? Is it : 
+
+The Flail has a much faster attack speed so you benefit more from Life on Hit if you have any on your gear. Thus getting 12.5% bonus healing. 
+
+The best you can achieve is 150% (30% for you) with Eirena (the enchantress) : 
+
+Let's assume both are being hit by a monster that deals 500 000 damage per second. It's 1/10th of their toughness which translate into them losing 1/10th of their life pool per second. For A this represent 50,000 HP and for B 30,000. However, both heals for 30,000HP per second... see where I'm going ? Indeed, in this situation B will never die while A loses 20,000 HP per second and die after 25sec. Of course in the game you are facing way more factors than just one monster hitting you but you get the general idea. 
+
+Healing and synergy with an optimized Toughness Healing affixes are : Life on Hit, Life after kill, Life per second and Life per resource spent (The latter exists only for melee classes). Why are those affixes important ? It's easy to overlook the healing stat by thinking that health potion and health globe are enough. While they offer you some good sustainability, the drop rate of globe and the cooldown on the health potion doesn't make them as reliable as other Healing affixes. 
+
+So when luck on drop is not on your side you can try... 
+
+The scoundrel can't achieve much (only amulet and rings) since I don't remember any crossbow or bow giving gold find 
+
+1. Movespeed : The movespeed bonus you get from Parangon point + items is capped at 25% . Putting your point in movespeed first will free an affix on your boots to get something like +15% to skill damage. Usually you want boots with Main Stat/ Vitality/All Resistances/Skill Damage. Also movespeed helps a lot staying alive in Greater Rifts. 
+
+So The first one is far better. However I recommend to NEVER put vitality on a weapon. Your weapon is your main source of DPS (as every stats is based on the DPS of your weapon). This means that you need only DPS stats on your weapon (Socket for emerald, Crit chance, Crit damage, Dext). Furthermore, if you ever need to replace your Manticore, you'll loose 100 vitality and will have to find it elsewhere. 
+
+There are no other restrictions or penalties for changing a skill.

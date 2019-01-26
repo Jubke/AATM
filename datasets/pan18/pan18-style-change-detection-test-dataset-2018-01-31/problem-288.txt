@@ -1,0 +1,23 @@
+What is your basis for a dead hand? How would an up dead hand prevent chip dumping? 
+
+It is a cheap call. I think just call here rather than put my whole stack at risk. Based on small bets they are not putting you on a draw so you might get paid off. You have position. 
+
+Flop a royal in hole'em = 1 / 649,740 
+
+River Trip fives is a nice hand here but it is not getting called by a worse hand with an over bet. A small bet might get a call from a pair but it opens you up to a bluff. An 8 should have bet the flop and an over pair would have raised pre. Just check it back and it sucks you take down a small pot with bottom trips. Good bluff by BrynKenney but caecilius put himself in a spot to be bluffed. Bryn could have been up against a flush or straight so I think he put too much at risk to take down a small pot. Yes I think you fold here. 
+
+There is one possibility for improvement if your opponent is playing aggressively preflop: If that's the case, you should just call here, with the intention of check/raising all-in. That's only a good option if he is very likely to raise when you limp. 
+
+That said, to play tournaments at the expert level requires balancing a lot of variables that can be mostly (or completely) ignored by play at the average level. There are a huge array of subjects when you start looking at ChipEV vs $EV considerations and many many complications created by differing stack sizes (both for you and your opponents) and by the state of the tournament. Many of these complications have no equivalent in cash games (though expert-level cash play has its own set of complications). Which leads me to the conclusion that moving into the expert level puts the two back onto a fairly even footing. 
+
+Ignoring the fact that he called with 75o (as that does prove your point), what makes you conclude that this opponent is a weaker player? Often in Heads-up tournament play, the best strategy is to play A LOT of hands and play them very aggressively. It sounds like this is what he was doing. 
+
+Yes talking to influence action is done but it needs to be more subtle than that. 
+
+58 villain would not have even called preflop 
+
+Even if you smash the board then just lead out for like 40% of the pot - don't bet it different than if you miss. You are hoping for a raise. If they just call consider just checking the turn hoping for as bluff. This lets you check some of your misses for pot control. 
+
+Don't be relaxed when you look at you cards. No bigger tell than someone that sits up straight when they look at their cards. Count your stack down before you look at you cards. 
+
+On the flop 40 into 105 is strange as it is not big enough to fold out draws. JJ TT would not just limp pre. BB likely hit a pair. If UTG had a J they should have raised. So they could have a T or a 3 or two overs.

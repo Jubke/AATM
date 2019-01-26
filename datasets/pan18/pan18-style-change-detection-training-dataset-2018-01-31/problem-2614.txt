@@ -1,0 +1,21 @@
+Perhaps the most widely discussed type of examples where one can see that word order is not determining scope possibilities occurs with quantifiers, e.g. Every boy has a crush on some girl. Sentences like this one are ambiguous despite the fact that the one quantified expression precedes (and c-commands) the other. The universal quantifier every can take wide scope, which means we are talking about numerous girls, or the existential quantifier some can take wide scope, which means we're talking about just one girl (she must be very desirable indeed). 
+
+The examples given in the question are not examples of resultative adjuncts. Resultative adjuncts give the result of an action, e.g. 
+
+All syntactic structure is right branching. 
+
+A second example should further illustrate the challenge of establishing a typology of predicates: 
+
+The dependency parse contains 7 nodes and 6 edges, whereas the constituency parse contains 13 nodes and 12 edges. Compared to constituency, the pasimony of dependency is undeniable. This parsimony reaches through the entire theoretical apparatus. If dependency can do everything that constituency can do, Occam's Razor requires that constituency be ejected in favor of dependency. 
+
+The dependency vs. constituency distinction is addressed in the following two Wikipedia articles: https://en.wikipedia.org/wiki/Dependency_grammar and https://en.wikipedia.org/wiki/Phrase_structure_grammar. 
+
+Note that one can distinguish between participant-oriented adjuncts and participant-oriented complements. The following sentences illustrate participant-oriented complements: 
+
+All syntactic structure is binary branching. 
+
+I've now read the relevant section. I indeed find the quote on my page 11. The quote appears in Section 1.5, which presents the "Theoretical Framework" employed in the book. This framework is a highly idealized version of syntactic structure that builds on some very specific presuppositions about the nature of syntax. 
+
+I do dependency grammar (DG), and my personal view is that dependency gets the job done more efficiently than constituency by far. The average constituency parse (= phrase structure parse) contains almost twice as many nodes and edges as your average dependency parse. Automated dependency parsing is significantly faster than automated constituency parsing. The point is illustrated with the following trees taken from the article on DG in Wikipedia: 
+
+Hence Rowlett appears to be stipulating two basic types of dependencies:

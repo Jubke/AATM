@@ -1,0 +1,47 @@
+Setting the Formula for "Pessimistic Dur" as an example: 
+
+If all you're changing are task durations (i.e. no different tasks, changed predecessors, successors, etc), you could use the DurationX columns (Duration1, Duration2, etc) to represent the other durations. 
+
+On an existing number column (e.g. Number1, etc), right-click and choose "Customize Fields" then select the individual field by name. Then, at the bottom of the form, click "Graphical Indicators" and set up ranges for each color icon, then choose the color icon itself. 
+
+Here's what it looks like (using Project 2007) when you update the "Standard Dur" field -- the Optimistic and Pessimistic fields are re-calculated automatically. 
+
+Optimistic, Standard, and Pessimistic Duration columns 
+
+Creating a script to update Duration values for all tasks would be trivial to write. 
+
+Here's what it looks like in practice. Color coding: 
+
+Under Tools | Customize | Customize Fields..., set the display to "Graphical Indicators." Set it to "Nonsummary rows" and add the following tests: 
+
+I found the best approach is to use small colored icons in a number column: blue/green/yellow/red. 
+
+For example, I wrote a custom formula (see below) that sets the value of Number1 based on the current date and the Finish date of each task. Then, using that value, I set up the Graphical Indicators to show a blue dot for complete, yellow for in progress, green for future, and red for overdue. Unfortunately, it's a bit of setup, but once it is done, it updates automatically. No macro or coding needed. 
+
+Set the resource's max units to 85% and don't worry about the small overallocation created by the assignment at 100% to meetings. (Assuming the meetings are fairly short in duration. You'll need to review allocations regularly to make sure that you are not ignoring more serious issues. Set the resource's max units to 100% but assign them to most tasks at 85%. The problem this will cause is the potential of having the resource truly be overallocated (assigned at 100%) to those non-meeting. tasks. You may also want to set your leveling calculations to week by week to ignore minor overallocations. 
+
+When the milestones are widely spread (as your example) the span between the milestones is not counted as duration. Although task 140 spans from end of February to early July unless there are additional tasks with duration > 0, the % complete will always be 99% complete. 
+
+Although your formula is accurate for subtasks - summary task % complete is not as straight forward. See:https://support.microsoft.com/en-us/kb/101495 for a detailed discussion, but in brief it is a "weighted" percent complete based upon the duration of the subtasks. Although the article references much older releases of Project, I believe the same concepts hold for current releases. 
+
+Under Tools | Customize | Customize Fields..., set the display to "Graphical Indicators." Set it to "Nonsummary rows" and add the following tests: 
+
+Here's what it looks like (using Project 2007) when you update the "Standard Dur" field -- the Optimistic and Pessimistic fields are re-calculated automatically. 
+
+Optimistic, Standard, and Pessimistic Duration columns 
+
+I found the best approach is to use small colored icons in a number column: blue/green/yellow/red. 
+
+Here's what it looks like in practice. Color coding: 
+
+If all you're changing are task durations (i.e. no different tasks, changed predecessors, successors, etc), you could use the DurationX columns (Duration1, Duration2, etc) to represent the other durations. 
+
+For example, I wrote a custom formula (see below) that sets the value of Number1 based on the current date and the Finish date of each task. Then, using that value, I set up the Graphical Indicators to show a blue dot for complete, yellow for in progress, green for future, and red for overdue. Unfortunately, it's a bit of setup, but once it is done, it updates automatically. No macro or coding needed. 
+
+Creating a script to update Duration values for all tasks would be trivial to write. 
+
+Paste the following into the Custom Attributes / Formula for any Number field (make sure it's all on one line): 
+
+Although your formula is accurate for subtasks - summary task % complete is not as straight forward. See:https://support.microsoft.com/en-us/kb/101495 for a detailed discussion, but in brief it is a "weighted" percent complete based upon the duration of the subtasks. Although the article references much older releases of Project, I believe the same concepts hold for current releases. 
+
+Set the resource's max units to 85% and don't worry about the small overallocation created by the assignment at 100% to meetings. (Assuming the meetings are fairly short in duration. You'll need to review allocations regularly to make sure that you are not ignoring more serious issues. Set the resource's max units to 100% but assign them to most tasks at 85%. The problem this will cause is the potential of having the resource truly be overallocated (assigned at 100%) to those non-meeting. tasks. You may also want to set your leveling calculations to week by week to ignore minor overallocations.

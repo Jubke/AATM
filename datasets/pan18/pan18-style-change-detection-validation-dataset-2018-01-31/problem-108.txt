@@ -1,0 +1,15 @@
+Question is straight forward. I have this in "profile -> leagues -> my leagues -> see more stats": 
+
+Guardian Angel : if you're carrying the game (meaning you're dealing most of the team's damage and perhaps being the only hope of the game), with proper positioning in teamfights you can either turn the fight in your favor or save yourself, which makes this item the best option. Succesively I wonder, how does League calculate the sell values? Now here's the thing. So far the item provides you 1 extra gold per each minion killed, and for a total of 100 minions, it rewards with an extra 300 amount, which makes it 400 gold reward, which is almost the same amount of money to buy this item. 
+
+I'll name the items that favors the most for Yasuo and explain why and when you must have them. 
+
+Are there exceptions with certain items/champions? There're certain moments where I start asking myself... Would it be more benefical in all situations to get even more AP, or is void staff still the best option even if almost no one buys magic resistance? However I always feel safer to get void after rabadon, as it guarantees there's less chance of survival for them against my champ's spells. Now, what if you sell it? How much is it worth selling? Would it be even less or more than the memorable early game item Doran's Blade? (440g buy cost - 176g sell cost) Say you have Orianna in your side, she ults the 5 of the enemies so you can ult them during airborne, but someone cc'd you to deny that possibility: Mercurial Scimitar's active removes all debuffs, so you can ult without a problem. 
+
+I'm Bronze I with around always 50-60LP, I had a winning streak and a losing streak. I'm going to answer by only paying attention to the title: (Not sure if I understood correctly your question...) 
+
+I know that when I press A my champ does the attack move. Say I go Katarina and I have Deathfire Grasp, then I go all in, and after I start the ult I try to activate the item. Will my character have to cancel the spell to use the item? Is there a way to attack move your ghost? 
+
+Mercurial Scimitar (let me explain you with an example): 
+
+You can record your point of view by using video recorders (helps you to explicitly know where you were looking at, where did you point your mouse, etc.), such as Open Broadcaster Software (OBS) which is free or Fraps (not recommended for editing purposes though). The downside is that you need a computer with better specs to do the recording while playing, without affecting game's performance negatively (to not run it slower). Record the entire game as a demo to play within the client. There are many options, I'd opt either for: Not necesarily has to be one of two, you can do both. The first one does cost your fps in-game whereas the second one doesn't.

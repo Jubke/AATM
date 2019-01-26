@@ -1,0 +1,39 @@
+Effective stacks remaining are around $420. Hero checks. Villain instantly shoves all in. 
+
+I couldn't find a listing of Merge network's rake structure. Also note that a rakeback deal can lower the effective rake that you pay. 
+
+I think my betsizing was a bit small here. I do well on the flop (IMO), but I think that in general, I tend to go too small on the turn. I end up leaving > a PSB on the river for both of us. 
+
+Generally, as stacks get shallower, cards matter more. As stacks get deeper, game dynamics and player tendencies matter more. 
+
+Hero bets $50, villain calls without much hesitation. 
+
+In general, below a $0.25 big blind, PokerStars seems to have the best rake structur. Higher than that, it used to be that Full Tilt + rakeback was the best. I don't know the current best for $0.25 and above. 
+
+Cake Poker rake. This is a bit harder to figure out - the Rake column says how much rake is taken out, per amount in the Per Pot column that is in the pot. For instance, if rake is $0.01 and Per Pot is $0.15, there is 1 cent taken out per 15 cents in the pot. You can divide Rake by Per Pot to get the percentage. Right now, there is a 6.7% rake with a $0.50-$2.00 max, depending on the number of players sitting at the table. 
+
+Having said that, I agree with Toby, the operator of your game saw enough of your hand that he knew that he could not beat what he saw. He should of just gave you the pot. I would quit playing his game, he is a bit of a sleaze ball. 
+
+I do not know if you call, I do know that you do not automatically fold. The majority of boards in hold'em like this have cards that are connected enough and suited enough for someone to hold a hand better then yours. 
+
+So there you go the floor person has to decide what is going to happen with this pot when no player at the table has a legitimate claim to the pot. The really bad thing in this situation is that there is no totally correct ruling. The ruling is totally a judgment call. The rules cover the conditions under which a player may be awarded the pot, very little is said about what should happen when no one qualifies to win the pot. Here is what the floor person can do. 
+
+In a public card room the rule is in place for good reasons. Someone loosing to you should see the whole hand your playing with and it is a basic security measure to make sure the hand your winning with is a legitimate hand not containing something like two aces of spades or a card on the board. A floor person is obligated to rule against you in this scenario. 
+
+The ruling I made was simple, it was a small pot and nobody really cared how it was ruled. I did however pause for a bit before I ruled and seriously considered leaving the pot in the middle. The two players involved were father and daughter, experienced and just simply ignoring the rule. I just took the path of least resistance and controversy and let it be split, and gave a warning that it would not be split again if this happened. 
+
+Technically, under the rule that a player only has a claim to a pot if they table their card face up at showdown no one at the table has a claim to the pot. Under the rules, no one has a claim to the pot! 
+
+The villain may also made two pair or is just bluffing, because he figure the board is very wet and you would lay down a lot of hands here. The range of hands he could put you on do not generally involve draws. 
+
+Generally, as stacks get shallower, cards matter more. As stacks get deeper, game dynamics and player tendencies matter more. 
+
+In general, below a $0.25 big blind, PokerStars seems to have the best rake structur. Higher than that, it used to be that Full Tilt + rakeback was the best. I don't know the current best for $0.25 and above. 
+
+Cake Poker rake. This is a bit harder to figure out - the Rake column says how much rake is taken out, per amount in the Per Pot column that is in the pot. For instance, if rake is $0.01 and Per Pot is $0.15, there is 1 cent taken out per 15 cents in the pot. You can divide Rake by Per Pot to get the percentage. Right now, there is a 6.7% rake with a $0.50-$2.00 max, depending on the number of players sitting at the table. 
+
+I couldn't find a listing of Merge network's rake structure. Also note that a rakeback deal can lower the effective rake that you pay. 
+
+Effective stacks remaining are around $420. Hero checks. Villain instantly shoves all in. 
+
+I think my betsizing was a bit small here. I do well on the flop (IMO), but I think that in general, I tend to go too small on the turn. I end up leaving > a PSB on the river for both of us.

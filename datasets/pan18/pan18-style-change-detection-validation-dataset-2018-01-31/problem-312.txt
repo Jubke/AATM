@@ -1,0 +1,35 @@
+Let's say you are 1/3 to hit the flush. 
+
+Having: combin(10,2) / combin(45,2) = 0.0454545455 = 1/22 
+
+Yes you should shove the turn. You are short stacked and you are only loosing to a flush draw or a bigger set draw. If they don't hit you probably cannot get any more value on the river. If they have a bigger Q you are dead but 4th queen is not likely. 
+
+I like 1 gapper as if I have 57 and the board hits 689 it is not likely someone was playing 7T. Plus it 1 gapper is MUCH better disguised. yxyxx xyxyx xxyxy You can only lose to a larger if they are playing 2 gapper 
+
+If you hold one of the flush cards then their odds are down to 8:36. Bet closer to that 1/3 pot to not chase them as you are making money on a 1/3 pot bet. But if you are holding a flush then less chance they are on the flush draw. Your premise is they are on a flush draw. Putting a player on A hand is very dangerous. What if they are on trips and you bet 1/2 the pot and you get a turn call? What do you do when they push on the river? 
+
+"Having made the assumption stated". You absolutely positively put him on AA or KK. 
+
+You get to run the bets knowing one card and decide if their story makes sense. 
+
+They will not let you use a poker calculator at a live table. 
+
+ATo is a hand they could be playing from mid to late position and in the blinds. They could even be playing ATo light from early position. It tells you the other card could be an ace. 
+
+If you held back and drew AA the next hand you are not even getting 4:1 against two random hands. 
+
+You have 3 pots $40 - player1, player2, player3, player4 $120 - player2, player3, player4 $100 - player3, player4 
+
+First to act Are ahead is not really the issue. Are there hands they could call with that you beat. So you need a pretty dominant hand like a straight that could get called by a trips or two pair. If the board is paired for sure you are getting called by a boat. 
+
+A problem is if you hit your ace you could be out kicked and lose a big pot. 
+
+Flop Not enough behind to protect bottom pair on a wet board. Brynn has outs. I could go with taking a stab at the pot but he is the short stack so I would just check. 
+
+If he was at less than 20 BB he might be shoving his entire range and I think you can call. 
+
+If you are short stacked then you need to look at it as you are getting 4:1 and you are not going to get a better chance to get your money in. 
+
+I think it is marginal to play that from the BB 8-9 suited would be been (maybe) OK Preflop you were getting 3.5 : 2 A flush has the chance of stacking an aggressive player You would be playing it for the implied odds But since you only started the hand with like $65 you don't even have that great of implied odds 
+
+But it is information. If it is the 7 of clubs and they opened early, called a big raise, or raised then you can factor in playing A7o is not as likely.

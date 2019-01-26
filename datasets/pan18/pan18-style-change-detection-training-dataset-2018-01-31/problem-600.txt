@@ -1,0 +1,51 @@
+Flop: As Xs 3s (all spades) - Hero has second nut flush 
+
+Should Hero have called villain's pre-flop raise, re-raised, or folded? If you were the villain with QQ on the flop, how much would hero have to bet to get you to fold? 
+
+Pre-Flop: Hero (in late position) has Ah Kd. Raises to $10; has $450 behind. Three players call. 
+
+Thus, the question: Would you make the call? Also, would you have played the hand differently as hero? 
+
+The Players: Seat 1 (early position - villain #1): $95 (won some, lost some) Seat 6 (villain #2): ~$300 (doesn't play many hands) Seat 7 (Hero - late position): $130 (been having a rough night) 
+
+Pre-Flop: No raises - our 3 players call $3. 
+
+Hero is in early position; Villain is in late position. 
+
+I thought about it for a minute and decided to call as I still figured the villain having the case 9 was unlikely, and I expected him to show two hearts (giving me a 70% chance to win, although I didn't know the percentage at the time). Turns out he had Ad 9d. Fortunately, all was no lost for the hero as another K hit on the turn and we ended up splitting the pot. However, this still makes me wonder if I had any business calling $160 in the first place. My experience is that, typically in small stakes NL, big raises mean big hands. Should it have been obvious to me that he had the fourth 9 with a strong kicker? 
+
+My thinking is that if villain missed, $30 is enough for him to fold. Villain thinks for about 30 seconds and then calls. This makes me think he either has KQ, KJ (so debating whether his kicker is good enough) or is hollywooding (but he didn't seem that type of guy). 
+
+Hero thought about it for a little while. With $102 left and a flush, he loses to a boat or Kx spades. And even if both players have flushes, only one could have the K spades (if either have it). Hero decides that Seat 1 has an ace but no boat - otherwise, Seat 1 probably checks to let the other players bet. Seat 6 is tricky but Hero doesn't want to give up the hand. Turns out the river is a 5 (not spade). Seat 1 had A-5 so made a boat, and Seat 6 indeed had Kx spades for the better flush. While Seat 1 got lucky, our hero wonders if this was just bad luck or if the min-raise on the turn made it obvious that Seat 6 indeed had Kx spades (or a boat) and hero must lay it down. 
+
+I'm looking for some advice on a particular hand I played last night. 
+
+Hero (~$600) - Playing mostly tight aggressive. Won a couple big pots; one was textbook and the other I caught runner-runner against a "normally super-aggressive but that hand passive" opponent. 
+
+Seat 1 bets $5 Seat 6 calls Hero raises to $25 Seat 1 calls Seat 6 calls Turn: Another Ace Seat 1 goes all-in for $67 Seat 6 min-raises to $134 (which is more than hero has) Should hero call (thereby going all-in)? Here's what happened: 
+
+The Situation: Our hero has Qx spades. 
+
+Hero is dealt 10♣ 9♣. and bets $10. There are 2 callers. 
+
+Hero (~315) - Been playing TAG; up $115. Played villain in one earlier hand; villain folded on river (I filled a straight, which he may have discerned). 
+
+Game is 1/3 NL Hold'Em at Encore Las Vegas. 
+
+The flop is K 5 2 (rainbow). Hero is thrilled with top pair and good kicker. He can beat pocket 10s, Js, and Qs, although he's dead to pocket As, Ks, and AK. Hero decides to bet $30 - doesn't want to get over-committed but enough that villain takes notice. 
+
+Taking the above into account, I figured I could beat most hands and raised to $60. My desire was to win the hand right there, although I probably should have better more in retrospect. The villain, after thinking for about a minute, then decided to raise me another $200, making it $160 for me to call. 
+
+The turn is a Q. Hero is doing mental gymnastics, having turned two pair. Bets $70. Villain again pauses, noticing he has $85 left. Waits about 10 seconds and goes all-in. Hero confidently calls the remaining $15. 
+
+Player 1 acts first. Is all-in for $60 Player 2 thinks for a bit (maybe 10 seconds) and calls. Has $900 behind. Player 3 thinks for a couple seconds and raises to $160. Has $140 behind. What do you do? 
+
+Hero gets KQs and raises to $10. There were a couple callers before reaching the villain, who raised to $25. Action folds around to hero, who decides to call. Other callers fold so it's heads up to the flop. 
+
+Villain (~$350) - Playing loose aggressive and seemed like a reasonable/good player overall. Definitely raises more pre-flop than his "fair share" of good cards. Also, has oddly called a couple river bets with only high card; he didn't expect to win either but could have saved about $50 each time. 
+
+Hover over the block below to see what happened to our hero: 
+
+Hero chose to fold here; only in for $20 with just TPTK. What ended up happening is Player 2 pondered more and called. Turned out Player 1 had Ac 5c, Player 2 had 4d 3d, and Player 3 had Kc Jc. In the end, no straight or flush landed. 
+
+Flop (~$30 dollars) is 9♥ K♥ 9♠. Villain bets $20. (Unfortunately, I don't recall if I checked to him or if I was in late position. I suspect the latter.) My read was that this opponent could be on the draw based on my perceptions from other hands he played. QQ, AA, AK or the fourth 9 were also reasonable for him. If you're wondering why QQ, this opponent seemed to over value his pocket pairs sometimes, playing very aggressively against passive and not-passive opponents alike. He typically won (with the opponent folding to his bet) but occasionally would get action and then usually lose. If you're wondering why not KK, my read was that he would have re-raised pre-flop with KK, especially with two other people in the hand.

@@ -1,0 +1,37 @@
+It seems like a bit of a backtrack to limit users to only a certain number of moderation flags in the day. I understand why the limit is in place, so people can't "spam" moderators with useless flags (is this even the reason?). But those of us who use them appropriately should be able to continue flagging things that we find to be inappropriate. I've used all of my flags for the day, at least the normal, non-spam-offensive flags. So now if I see something which is not an answer, etc I am unable to flag anything further until the magical reset point at midnight UTC. Also, linking to the revision history when it's loading an edit from within the 5 minute grace period would be completely useless, as there would be nothing but the original post there! Change it to: How the visited color looks around other text, not blending in so much: 
+
+Personally, I was on a quest to try and clear out all the posts in a single tab before it started showing me the same things over and over (and over) and then it got frustrating because I wasn't even making progress. Quest denied. :( 
+
+I don't read my emails 24/7, and today read an email that was sent 2 days ago: This also applies to unread inbox items notification: 
+
+Same top bar. But different colors! Consistency broken. 
+
+I would like to see the following information: Also worth to mention that unlike the timestamps on the site itself, in the email they have no tooltip with the absolute time. 
+
+Total hats being actively worn all across the network: grand sum and maybe even how many of each type and for how long. (Kind of "popularity meter") 
+
+From what I see, the points are the economy of SO sites so people who ask, get answer, and don't accept (on regular basis) are like people buying something without paying - and they should somehow be notified this is the situation. I think the most fitting candidate for the link is the question time stamp: 
+
+Well, you can also remove it from within the box itself by clicking the highlighted star: Lately I've noticed a massive build-up of unreviewed posts. When the review panel was first implemented, there would only ever be maybe 50 unreviewed posts at a time (in a given tab) for my monthly view. Now I log in and there's a thousand or two thousand pending. I think a lot of people quit reviewing after the first badge, so having a gold badge with a high threshold would really improve activity in the review panel and keep people going to improve the community. 
+
+How this makes inline code blocks stand out when they're linked: I just multiplied both numbers by 20. Think those numbers seem challenging? Is anyone up near those numbers or should it be multiplied by 10 instead? I prefer the higher amount because it would be gold and something harder to work for. :) But we also have to consider the longevity of when all these posts are eventually reviewed and it's only new posts being created. 
+
+For edge case, it became pretty thick edge. This is not just minor hassle: enough rejections, and the user is banned from suggesting for a whole week: and remember we're talking here about good edits made by good users. The above used to count for the ban, but no longer do. Thanks Gilles for requesting such a change! I don't read my emails 24/7, and today read an email that was sent 2 days ago: Can you please put the actual date and time in those emails? 
+
+Worth to mention that previously (before the overhaul of the email notifications) there was no timestamp at all. 
+
+Winter Bash seem to attract lots of attention and I see many users wearing all kinds of hats. When it's over, the hats will of course disappear however I think that adding usage statistics to the official blog post will be a good thing just to... well, just to have statistics. I'm not talking about adding live stats like already asked before, but rather adding this after there are no more hats so that we can reflect on that and tell our friends "See, we were part of this!". Also worth to mention that unlike the timestamps on the site itself, in the email they have no tooltip with the absolute time. I know it was already suggested to lock edits and similar solutions, but I suggest whole different approach: instead of auto rejecting the suggested edit, dismiss it, i.e. cancel it like it never existed same way a bounty can be revoked by moderator. I've just noticed the suggested edits count on Meta: I think the most fitting candidate for the link is the question time stamp: 
+
+This also applies to unread inbox items notification: 
+
+Leaderboard showing all sites with more than 100 hats and top 10 users on each of those. 
+
+Same top bar. But different colors! Consistency broken. I would like to see the following information: 
+
+The time stamps were correct in the time when the email was sent, but now they are pretty much useless. From what I see, the points are the economy of SO sites so people who ask, get answer, and don't accept (on regular basis) are like people buying something without paying - and they should somehow be notified this is the situation. 
+
+Well, you can also remove it from within the box itself by clicking the highlighted star: 
+
+Black on black, I can see just a floating number - really confusing and out of any context. Start a bounty on the question he answered and give it to that answer, there is even a bounty reason "Great Answer". For many people on Stack Overflow 500 rep points taste better than any beer. 
+
+Is it possible to show alert (on top, like the alerts for new badges for example) for users with 0% accept rate when they log in, with text like "Please improve your accept rate" and link to page explaining how and why?

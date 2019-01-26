@@ -1,0 +1,41 @@
+The Ground of Being You are going to instantiate UITableViewController by hand (that is, by calling its initializer in code). And you want to subclass UITableViewController because you have instance properties you want to give it. 
+
+I can skirt the issue by limiting the range of drawn glyphs to those that fit into the text container: 
+
+This works because a computed variable has a getter function, so the function you were implementing before simply turns into the getter function. And these are read-only properties, so you won't need a setter. 
+
+EDIT 2: In seed 4, we now have access controls! Plus, in one of my apps I have an embedded framework and sure enough, everything was hidden by default and I had to expose all the bits of the public API explicitly. This is a big improvement. 
+
+NOTE This bug is fixed in iOS 9, so the entire matter will be moot at that point. The discussion below applies only to the particular system and version of Swift to which it is explicitly geared. 
+
+PhoneGap doesn't produce one app that can run on different platforms, instead it is used to create an app per platform (each app contains the same version of your HTML5 code). Thus you will have to create an iOS specific version of your app using PhoneGap. This is very quick to do, however you will need a Mac and XCode in order to build the app. 
+
+If this question is not how to write a call directory extension, but how to get the number of an incoming call, which I think is what the question is, then its not possible. 
+
+However after they register they could potentially change their sim. 
+
+The call directory extension is not involved when there is an incoming call. All it does is register numbers that get stored in an internal SQL database that is private to the phone app. The call directory extension does NOT get run when there is an incoming call and therefore it and your app are not able to identify the number of an incoming call, this is the same as it has always been, it has not changed in iOS 10. 
+
+Apple apps also need to be signed with certificates, so you will need to sign up as an iOS developer with the Apple web site and create the necessary certificates. 
+
+Documentation example The Error Handling documentation has an example like this 
+
+Hopefully more documentation will be coming soon. 
+
+How to draw a Bézier path in a custom view These are the main steps: 
+
+Further study I really recommend looking at the following materials. They are what finally made Bézier paths understandable for me. (And taught me how to pronounce it: /ˈbɛ zi eɪ/.) 
+
+Given the flowing layout where yellow is the superview and red, green, and blue are sibling subviews of yellow, 
+
+At this point I am only surmising from the information given, so please correct me if I am wrong. 
+
+That's it. You should be able to run it now and have all three tabs work. Watch the video that I linked to for more details. 
+
+Hmm, that's a little small because I hardcoded all the numbers in. I can scale the path size up, though, like this: 
+
+Here is the revised code for our custom view: 
+
+This is kind of an old question. I tried a few of the other answers here but couldn't get it to work. Sometimes it is just easier to watch someone do it in action. Here is the video I watched that taught me how to do it: 
+
+At the time of this writing I was having trouble adding @IBDesignable to the code, so the views don't show up in IB but they do when you run your app.

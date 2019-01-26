@@ -1,0 +1,29 @@
+I'd even go further, and allow players leaving the table to declare "all-in" out of turn, but only when there is a heads-up situation (i.e. only two players active not counting all in players). Acting before your turn with more than two players advantages some players and hence disadvantages others, and so shouldn't be allowed with 3 players, but I think with 2 it's ok. 
+
+When it comes to calling pushes, I will call at 2BB based on the same conditions that an opponent would push on (assuming they're me), with 3BB I'll call if my hand is one better score than what my opponent would push on, and with 5BB or greater I'll call if my hand is two better than what my opponent would push on (always assuming they're using the same table). So if my opponent pushes from early position and I've got 10BB, they'd push on 13 so I'll only call on 15, which is JJ or AKs. The effective stack size here is based on how committed I could be to the pot, if someone pushes with a small stack but I've got a large stack AND I've got people to act after me I'm generally more cautious and push up the effective stack size depending on the stack of those after me. I also generally 1 for each flat caller, and with a few callers and late position with marginal pushing hands I'll sometimes call instead. 
+
+I push in the small blind (assuming no antes) in these situations based on stack size: 
+
+I think players leaving the table should follow these rules: 
+
+A = 10 K = 8 Q = 7 J = 6 T = 5 9-2 = Face value / 2 
+
+2BB: 8 3BB: 9 5BB: 10 10BB: 11 
+
+This is an interesting question. 
+
+My suggested rules perhaps are overly nice, but I think reasonable, particularly for a private game. 
+
+Pairs are just twice the value number + 4, i.e. TT = 14. 
+
+On second thoughts, I've forgot about the antes. With the antes, I think your preflop raise is too small. I have a habit of raising the pot pre-flop. There's no evidence I've got that this is the best way, but anything less seems to let drawing hands cheaply call. In this case, raising the pot is betting 1900. Now, it's worth thinking what you'd do if someone comes over the top with an all-in (lets say the button). The pot will contain 10775 in chips, you'll have to invest your 5875 to call. This is a hard fold to make. You only need 35% odds to call here (ignoring bubble factor). You're slightly behind a pocket Tens to Kings (30%) and you're a bit more behind Ace King-Jack (25%). On King-any other you're in front (60%), and you're still getting better than your odds against pockets lower than 9 (45%). I tend to think if you're in a situation where you're struggling to fold to a reraise, you might as well be the one that goes all in, lest your opponent has the advantage of determining the size of the pot. 
+
+Flop comes J42 rainbow. BB raises 20000 (pot is 45000 at this point). I call. 
+
+Anyway, I know this is just a guideline, and I've made these numbers by plugin some scenarios into the Nash generator, but I've been noticing some situations where my numbers are a bit off. I was wondering if anyone else has a easy to remember and calculate during a live game push/fold/call table/formula, because I feel mine is far from perfect and there's probably one out there that's either easier to remember, more accurate or both. 
+
+I push on the button on the above, but add 3: 
+
+All these tables assume a final table situation with a 50/30/20 payout. Take away 1 if you're heads up or in the money in a three way 50/30/20 situation. Be more cautious as approaching the bubble (perhaps add 1), particularly when calling. If your opponent understands the bubble, don't be more cautious pushing, but if they don't (and are likely to call) don't push as much near the bubble. 
+
+4 if the next highest card is one lower than the highest card (and at least 4). 3 if the next highest card is two lower than the highest card (and at least 3). 2 if the next highest card is three lower than the highest card. 1 if the next highest card is four lower than the highest card.

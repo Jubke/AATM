@@ -1,0 +1,15 @@
+However, it's different when they are outdated (i.e. the OP has indeed worked on the accept rate). Then they are just noise, or even create a wrong impression. That's why I always mention the actual percentage I'm referring to when leaving such a comment ("You have a very low accept rate of 7%. I would recommend, blah, blah") 
+
+Using the favourites function for keeping track of crappy questions sucks. So does manually crawling through the own "activity" page. Why does the potential answerer have to go through this? 
+
+The standard response to this feature request is The possibility to have a list of community-curated comment templates, leading to overall higher quality - creating a good comment template (with a polite greeting, an explanation of the issue, and some helpful links) isn't completely trivial. (This would complement the existing functionality of having your own comment templates, not replace it.) 
+
+Newbie OP asks question User posts comment asking for clarification Newbie OP posts clarifying reply but doesn't add @username User never finds out that a reply has been made. Can't "Facebook style" notification (that is, notification on all replies in comment threads I've contributed to, without the need for @username) be introduced at least for comments to the actual question? That would probably solve 99% of the problem. If the tone on SO is supposed to become friendlier, flagging should become a public process. It would help streamline the flagging itself, and flags cast by the community would show to the drive-by Googler that rude comments do get challenged around here. 
+
+As the feature is not completely easy to discover, and differs from the old behaviour, creating permanent comments would become a privilege reserved to those who know how to use the sites. That is arguably a bit unfair, but could be remedied e.g. by showing a message before the user posts their first comment under the new rule. 
+
+Comment flagging could be a community tool against the often rough tone on SO. However, the current comment moderation system isn't suitable for the purpose. It's not useful for anything but the removal of really outrageously offensive stuff. That's because it's almost completely opaque: 
+
+The reason why that question was closed has nothing to do with its being humorous. Also, you would introduce a potential problem: putting a user's name underneath something that they haven't written. Which can lead to all sorts of trouble. 
+
+When Stack Exchange analyzed user comment friendliness using Amazon's Mechanical Turk during the Summer of Love, was any research done on whether the OP's Gravatar and/or use of a real name influences the friendliness of comments on your contribution?

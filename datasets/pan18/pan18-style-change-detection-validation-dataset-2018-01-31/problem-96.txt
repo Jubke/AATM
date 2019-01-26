@@ -1,0 +1,29 @@
+I'm confused about how Elo could work properly in a game such as League. The Elo rating system was originally developed for 1 versus 1 chess games as I understand it. So, how could it properly show you your skill level in a game where your victory or defeat hangs on the additional requirement of the skill levels of people other than just you and your opponent? (Meaning that the skill levels of the team mates matter as well.) 
+
+Several other heroes might also fit the bill but these ones seem to do it the best, good luck! 
+
+You might also have noticed that each hero has a recommended item loadout displayed when you open up the in-game shop during a match, to help players such as yourself with quick and easy item recommendations until you get the hang of things enough to make your own educated choices. 
+
+This question is difficult to answer definitivly as the condition of death effecting each champion's on-going abilities is handled by the game on a 'case by case' basis. Some effects persist after death, such as Jarvon IV's Cataclysm, others do not such as Fiddlesticks' Crowstorm, and even others change from time to time such as Heimerdingers H-28G Evolution Turrets. (Previously Heimer's turrets did not persist after death, now they do.) 
+
+sources: http://leagueoflegends.wikia.com/wiki/Elise/Ability_Details 
+
+In League of Legends, your character is in fact a CHAMPION who has been SUMMONED to do battle in the arena of the League by a powerfull magic user dubbed a SUMMONER (who is supposed to be you as a person). The minions of the arena we know, are mindless soulless constructs. The champions however, are real living breathing people in the games lore. 
+
+How do these heroes counter Jayce? 
+
+In short, No there is no current compensation, or any plans of a system to do so. However, the system is not completly without forgiveness or mercy and as such Riot has implemented a 'Leave Buster' system, which punishes players for leaving matchmade games early. So no, you wont be compensated, but they will be punished for leaving. 
+
+It also lists the description for Elise's Rappel skill as; 
+
+Irelia,Renekton, Tryndamere, Olaf, and Jax all use mechanics that in one way or another make them stronger as combat prolongs. This means the longer of a combo Jayce wants to employ to you, the stronger you become, increasing your chances of coming out of the skirmish on top. 
+
+This is not the only option one has, as I've already mentioned, the best thing to do is get your team to react fast and counter-steal the enemy team's blue. Another tactic is to simply duo top for a short while until your strong enough to jungle without needing blue so badly. 
+
+http://leagueoflegends.wikia.com/wiki/Spirit_Visage has just about all the information you could want about it. 
+
+In addition, the easiest way to counter a blue steal (aside from counter stealing), is to spam Mana Potions. You'd be amazed how much 5 mana pots and a Faerie Charm helps your mana. 
+
+As I understand it Darius jungles just fine, so you may want to look up some guides on Mobafire or your site of preference as your probably doing it wrong if your having that much difficulty. 
+
+Irelia, Poppy, Alistar, Renekton, Jax, and Tryndamere all have some sort of jump or dash skill which can get you back into the fray when Jayce attempts to knock you out of it with his E-skill.

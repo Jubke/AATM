@@ -1,0 +1,33 @@
+For example, the following rule set describing (simplified) Korean stop allophony: 
+
+Square brackets ([fubar]) are generally used for what is known as narrow transcription - this includes as much detail as the transcriber feels is necessary. Slashes (/fubar/) represent the broad transcription, which does not include "predictable" information. 
+
+To perform this kind of analysis, first you must determine which sounds are constrastive in the output. For example, in English, [pʰ] and [p] are not contrastive, because [pʰæt] and [pæt] "pat" are judged to be "the same" word by (most) native speakers (even though [pæt] would be ill-formed). However, in Hindi, [kapʰi] "coffee" and [kapi] "copy" are two separate words. The generative hypothesis is that each set of non-contrastive sounds is stored as a single unit in the brain, called a phoneme (in slashes), which is transformed into a final form (in brackets) passed to the articulators by a series of serially-ordered rules or simultaneous constraints on the possible output forms. 
+
+In linguistic description, the "broad" and "narrow" designations are defined somewhat loosely, generally according to whatever convention the linguist reporting the language feels is most useful. Under the Generative Phonology framework, however, these are assumed to represent two distinct stages of phonological processing, each with a psychological reality. Square brackets denote the final stage of processing (which is sent to the articulators), called "phonetic transcription", while slashes denote the form stored in the mental lexicon (stripped of all predictable information), called "phonemic transcription". 
+
+How much of a functional load must a phone carry to be considered its own phoneme? 
+
+Standard Russian vowel reduction 
+
+Slashes — /ˈkæts/ — phonemic transcription 
+
+Indicates a linguistic entity, like a word or grapheme, written according to a language's orthography. Alternatively, the orthography is often given in italics or quotes, or simply not indicated. 
+
+In the standard (Moscow-based) Russian accent, five vowels /i　e　a　o　u/ are distinguished in stressed syllables, but at most three /ɪ~ɨ　ɐ~ə　ʊ/ in unstressed syllables. /i　e/ reduce to /ɪ/, /a　o/ to /ɐ/, and /u/ to /ʊ/. Russian also has word-final obstruent devoicing and assimilation of voicing and palatalization. Russian orthography is roughly morphophonemic. Examples: 
+
+In addition to slashes and square brackets, sometimes also used are double-slashes, pipes, and angle brackets. Their uses are: 
+
+Indicates a transcription that records only information asserted to be contrastive. This records a sequence of phonemes (as well as any phonemic suprasegmental features like stress or tone), ignoring allophonic differences. In this example, the fact that the initial /k/ is pronounced aspirated ([kʰ]) is ignored, because /k/ and /kʰ/ do not contrast in English. 
+
+Q: Are there marked or "hard" phonemes that are acquired even later in First Language Acquisition? 
+
+(Note that the latter spectrogram is wide-band and the first in Praat narrow-band, but changing wide-band to narrow-band doesn't solve the problem in Audacity). 
+
+In fact, the eminent phonetician John Wells argues in his blog that it already has been (thanks to @Sumelic for the link). His case in point is the pair century - sentry. 
+
+There is a range of computer programs that can represent acoustic energy graphically in a spectrogram. I usually use Praat, which uses a black and white gradient to represent the intensity of energy at specific frequencies and time points. Here's an example: 
+
+English-speaking children frequently do not acquire /θ/ and /ð/ until age 5 or later. 
+
+I have found literature on marked phonemes in a rage of languages, but not much on the age of acquisition of marked phonemes in different languages. Also, I have heard that the trilled /r/ present in Spanish and other languages is acquired very late and that some teachers think children often need help to properly acquire this sound - but this seemed rather unlikely to me if only for the reason that trilled /r/ appears to occur in a good number of languages and claims that children need "help" in acquiring their first language sound more like a difference between dialect and standard and teachers' desire to make their students use standard language.

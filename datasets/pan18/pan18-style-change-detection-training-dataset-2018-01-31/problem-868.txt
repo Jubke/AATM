@@ -1,0 +1,53 @@
+Ctrl + Alt + 8 and Ctrl + Alt + 9. 
+
+The question you link to could have been asked in a good way (with a specific issue). It would have still been humorous, but guaranteed to stay open then, so that's the way to go! 
+
+Possible advantages to having this integrated in SO proper include: 
+
+So how about letting comments decay by default, with the option of making selected ones permanent? This is not my idea; it has been thrown around repeatedly, for example in this conversation between Shog and Rich B. 
+
+It's sometimes messy, but people will occasionally post answers as comments - because they have no time to post an answer, they are too lazy to do so (like me!), or because they don't trust their suggestion will work. 
+
+Why not emphasize that more clearly, and leave figuring out what needs to happen to the team. Otherwise the complaint will be watered down by just another round of well-meant ideas from us Meta users, and discussion that will lead nowhere. 
+
+Many comments become noise over time. At the same time, some comments add valuable information to the question or answer and should be preserved permanently. 
+
+This has been bugging me for months and I always thought it was just me not paying attention. 
+
+Edit the question to fix anything that you can. It's rare that missing information is the only thing wrong with a question. Show the user through action that we take ownership as a community in all of the content that we curate. 
+
+Comments copied to chat remain under the post so that can happen, and are (typically) flagged/marked as obsolete and removed afterwards. If we just moved them to chat, the useful bits might be overlooked and not made a part of the parent post. 
+
+I usually flag them, they aren't appropriate at all. The more questions we have, the more traffic we get. If the question is on topic and does not duplicate another, it should be welcomed. 
+
+I have restored your comment, and the author's single reply stating that your suggestion is outside of the scope of the answer. I did that because you're not going to be the only one to suggest that, and this at least leaves evidence that the conversation was raised, in an effort to avoid duplicating what just happened all over again. 
+
+I really can't stand the RTFM attitude, especially on a Q&A site. Besides, it's hard enough to get people to search SO prior to asking :) 
+
+Except when an entire conversation on a post needs to be purged. If you want that, a single flag on the post will suffice. 
+
+Maybe this really needs to be reconsidered. Allowing comment downvoting might be the simplest and most painless way to encourage a friendlier athmosphere on SO. 
+
+When the author of the comment clicks on that link, the comment becomes permanent immediately. For other users, "Make permanent" could be a 2k+ feature or a vote that needs two votes (not sure about that part - would have to be throught through separately) 
+
+So far, all efforts to conceive a clean-up feature that makes it easy to distinguish worthy comments from noise have failed. When seeing a comment thread that should be deleted, the current modus operandi is to flag for moderator attention. That is arguably not the ideal way to go about it in the long term. It is work intensive and moderators will often be unable to judge the value of a domain-specific comment. 
+
+How about a downvoting feature that complements the existing flagging feature. It could be a system in which a comment downvote of -5 hides the comment from the general public, and makes it visible to users of a certain rep only, much like deleted questions and answers. (the exact threshould would be something to be discussed.) 
+
+I usually flag them, they aren't appropriate at all. The more questions we have, the more traffic we get. If the question is on topic and does not duplicate another, it should be welcomed. 
+
+Edit the question to fix anything that you can. It's rare that missing information is the only thing wrong with a question. Show the user through action that we take ownership as a community in all of the content that we curate. 
+
+If you don't have the time, inclination or patience to help the person, then avoid commenting altogether. As Yannis points out, this doesn't say anything bad about you. Just use your flags and votes and contribute positively on other questions. 
+
+Lasting information belongs in answers, and we're not going to relax that, we simply can't. Part of our appeal is our extremely high signal to noise ratio, and we can't lose that. 
+
+For stuff that isn't fun-poking, it should be part of the question if it's going to last. There are some exceptions like "Buyer beware - this answer will produce code that works, but it's dangerous" as a compromise to a disagreement that didn't reach editorial consensus. These, however, are rare enough that they can be treated as exceptions. 
+
+I really can't stand the RTFM attitude, especially on a Q&A site. Besides, it's hard enough to get people to search SO prior to asking :) 
+
+Most people would just start screaming at the wall, or, worse, each other. 
+
+If the answer to that is yes, then: 
+
+Comments are intended to be short ephemeral conversations that discuss the points of a parent post. They should not, under most circumstances, become lasting beacons alerting people to possible problems with the content of the parent post - because that would mean that the change was never made. That's an unsettled discussion lingering under an answer with no consensus - that's not useful.

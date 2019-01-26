@@ -1,0 +1,17 @@
+Of course, some teams are much older than others. The Bears (currently in third place) have played 1,389 games from 1920-2016, and the Buccaneers have only played 659 games since 1976. 
+
+The clock doesn't stop a play; if the clock runs to 0, the half ends when the play is over. So if the clock runs out before the third-down play begins, then no third-down attempt has occurred. If the clock runs to 0 while the third-down play is taking place, then it will count as an attempt, and it will be a successful attempt if it ends in a first down or a touchdown, and a failure if it does not. 
+
+A third-down conversion attempt occurs when a team runs a third-down play and either succeeds in getting the first down (or a touchdown), or fails and goes to fourth down. 
+
+Wikipedia has a list of NFL win-loss records for each of the current 32 NFL teams. The tables on the page include all games that each team has played in, including regular season and playoffs. Sorted by win percentage, combining the regular season and post-season tables, through Super Bowl LI (2017), the best team is the Dallas Cowboys, with a win percentage of .572, and the worst team is the Tampa Bay Buccaneers, with a record of .389. 
+
+The NFL treats this statistic slightly differently, described in the NFL Guide for Statisticians (PDF). First, they specify that the return does not start until the "impetus of the kickoff ends and he is able to initiate forward progress." Second, they do not have the exception for balls caught in the endzone, so it is possible to have kick returns longer than 100 yards. (Thanks, New-To-IT, for reminding me of this in the comments.) 
+
+A kickoff return begins at the spot where a receiving team player first gains possession of the ball, and then attempts to advance the ball. 
+
+Normally, the back foot at the point of the catch is the starting location for the return measurement. If the ball is caught in the end zone, the goal line is the starting point for the measurement. As a result, 100 yards is the maximum length of a kick return in college. 
+
+These stats only include teams that are currently in the NFL. However, in the early years of the NFL, there were lots of teams that no longer exist, many of whom ended their NFL franchise with a lower percentage than the Buccaneers currently hold. 
+
+If a kickoff is caught by a receiving team player, the spot of his possession is the point at which the impetus of the kickoff ends and he is able to initiate forward progress. This includes the end zone area. For example, if a player catches the kickoff at the 1, runs back to the -2, then advances, the spot of possession is the 1. If a player catches the kickoff at the 1, but retreats to the -2 because the impetus of the kickoff requires him to do so, the spot of possession is the -2. (NOTE, “spot of possession” is defined differently here than in the playing rules.)

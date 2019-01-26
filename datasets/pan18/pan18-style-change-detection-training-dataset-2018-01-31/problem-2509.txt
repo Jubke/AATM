@@ -1,0 +1,35 @@
+An hypothesis, provided in "Introducción a la historia de la lengua española" by Melvyn C. Resnick, at the page 38 (Scroll down until you read «Podemos postular...» going onwards) explains the path from ōcŭlu to ojo: 
+
+Regarding the Polish one, it has a "w" sound, such as in mały (small) and łaska (grace) in the Consonants section, see the table called "Example words". 
+
+1: I think postónica refers to post-tonic. 2: "Ensordecer" literally means "to deafen", but I think here it's mean as "to devoice/to become voiceless". 3: [š] = [ʃ] 4: The original title of the article is "Reajuste de las sibilantes del idioma español". 
+
+For now, I haven't found other clear references but there are some hints that confirm the process described above. If you want, I can find some other references to further back up this process. 
+
+Spanish did have Arabic influence but it seems that the jota (the name for the letter j in Spanish) came from Latin, going through some variations. 
+
+Hope this helps. Judging from what I found, we know fairly surely how we got this sound "out of nowhere" but we don't know the causes for sure yet. If you don't feel satisfied, I can try to make a deeper research. 
+
+Andrew Sihler (Sihler 1995) argues that Greek is "the only centum language [...] attesting a contrast between reflexes of ḱw and *kʷ". In Greek "two distinct sounds *ḱw give a double consonant medially, while the unitary *kʷ gives a single consonant" (p. 159). For example, 
+
+Basically, when you're not sure which linguistic units you're dealing with (be it phonemes, morphemes etc.) or it is irrelevant to your research, you use the word "segment". Sometimes, it is used for style, to avoid repetition. 
+
+"The concept of the phoneme was central to the development of phonological theory. In the early twentieth century, phonological theory was all about the phoneme: how to deﬁne it, how to recognize it, how to discover it (see, for example, the articles selected for inclusion in Joos 1957 and Makkai 1972). The American structuralist term for phonology, phonemics, indicates to what extent the ﬁeld was considered to be about the phoneme. 
+
+Naturally, other analyses have been proposed, too. For example, a diphthong is treated as a vowel plus a semivowel or another vowel (McCarthy 1952). Thus, you end up having a diphthong consisting of two phonemes under those approaches. Peter Roach (2009) mentions that this view was "almost universally accepted by American (and some British) writers from the 1940s to the 1960s, and still pervades contemporary American descriptions" (p. 104). Roger Lass (1984) argues that analyzing a diphthong as a vowel plus a semivowel /j/ or /w/ is a "shaky position" (p. 138). He also convincingly dismisses the approach proposed in SPE (Chomsky and Halle), characterizing it as "seem[ing] close to lunacy" (p. 138). Bruce Hayes (2008) concludes that the "fewer-phonemes-the-better" analysis is not an iron-clad argument and that the segment/sequence problem is still "an unsettled one in phonology" (p. 57). 
+
+The only place that mentions the (possible) causes is the wikipedia article about the "Adjustment of the sibilants in Spanish" 4, but I haven't found anything that confirms or denies the information being found there, although I think they are a good starting point if you want to further investigate. 
+
+[...] Taking into account the fact that the /s/ was an apico-alveolar, there wasn't much difference between that and /š/. For this reason, Spanish speakers, in order to keep the two phonemes distinguished, started to bring "back" the place of articulation, transforming the latter into a velar. [...] 
+
+According to this Wikipedia page, it's similar to the English dark L (as "ll" in ball). 
+
+For now, I haven't found other clear references but there are some hints that confirm the process described above. If you want, I can find some other references to further back up this process. 
+
+Hope this helps. Judging from what I found, we know fairly surely how we got this sound "out of nowhere" but we don't know the causes for sure yet. If you don't feel satisfied, I can try to make a deeper research. 
+
+"The concept of the phoneme was central to the development of phonological theory. In the early twentieth century, phonological theory was all about the phoneme: how to deﬁne it, how to recognize it, how to discover it (see, for example, the articles selected for inclusion in Joos 1957 and Makkai 1972). The American structuralist term for phonology, phonemics, indicates to what extent the ﬁeld was considered to be about the phoneme. 
+
+Andrew Sihler (Sihler 1995) argues that Greek is "the only centum language [...] attesting a contrast between reflexes of ḱw and *kʷ". In Greek "two distinct sounds *ḱw give a double consonant medially, while the unitary *kʷ gives a single consonant" (p. 159). For example, 
+
+As for the contrast PIE *kw - PIE *kʷ, I think the evidence also comes from Greek (and Mycenaean): e.g. the so called boukolos rule states that "a labiovelar lost its labial element when adjacent to the vowel *u" (Fortson 2010: 70). For example,

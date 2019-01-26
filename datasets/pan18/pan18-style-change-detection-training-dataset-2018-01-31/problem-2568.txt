@@ -1,0 +1,33 @@
+If this stress pattern is something more than just ordinary contrastive focus, references would be appreciated (but not strictly necessary ;) 
+
+The Oxford Dictionary of English (sport, disport), the Online Etymology Dictionary, and the Grimm Brothers Dictionary of German all give variants of 
+
+The maximum onset principle (MOP) 
+
+Example: Should /r/ in very belong to the first, hence /ˈvɛr.i/, or the second syllable /ˈvɛ.ri/ 
+
+In English adjective-noun combinations the noun commonly carries the main stress: 
+
+First of all, let's look at English word order (actually it's the order of constituents, not words): 
+
+However, I've also noted this stress pattern with other examples (the links are to Youtube videos): 
+
+< Middle English disport(en) < Old French desporter < from des- 'away' + porter 'carry' (from Latin portare) 
+
+acattle's comment that there is a trade-off between inflectional complexity and strict word order is a good answer to your question. I think it would really help to illustrate this with some examples. 
+
+I think, more often than not, it's a matter of convention rather than of phonetic distinctions. For example, I know one phonologist who sticks to [ɝ] and [ɚ] for transcriptions of American English, and by convention she uses [ɝ] in stressed positions (as in 'sir') and [ɚ] in unstressed positions (as in 'ulcer'). It's true that the formants of the vowel in 'ulcer' are going to tend to be a bit less extreme (i.e., a bit more centralized) than those of the vowel in 'sir', especially at faster speech rates. But they aren't always, and yet she lets phonology, not phonetics, dictate which symbol she uses. This follows the convention of transcribing the vowel in the unstressed syllable of 'submit' as [ə] and that in the stressed vowel of 'substance' as [ʌ], even if instances of those respective words can be found in which the formant values of the vowel are identical in the two cases. 
+
+To discuss the transcriptions in terms of a concrete example, some speakers pronounce dew as if they are pronouncing the word yew with a [d] sound before it. That pronunciation would be transcribed as [djuː ]. Some speakers of the dialect (or dialect group) to which you are referring pronounce it like the word juice without the [s] sound at the end of it, i.e. it is indistinguishable from the word Jew. We can consider these pronunciations to be at opposite ends of a sort of spectrum, where the first pronunciation comprises a [d]-[j] sequence and the second one comprises a single sound (considered a coalescence of two separate phonemes /d/ and /j/). Yet other speakers might pronounce it somewhere in the middle, which would be transcribed with one of the other variants mentioned above. (I myself do none of the above; I pronounce it just like the word do, which some would analyze as yod dropping.) 
+
+This phenomenon is one of a family of phenomena known as Canadian Raising. "Traditional" Canadian raising involves the systematic vowel quality distinction made for the diphthongs /aɪ/ and /aʊ/ when they are followed by a voiced vs. a voiceless consonant. Generally they are realized as [ʌɪ] and [ʌʊ], respectively (or some similar variants), before a voiceless consonant. 
+
+The job of a dictionary transcription is to serve as a guide to the pronunciation of the word, not to provide a phonological analysis, although in giving a phoneme-level transcription it is implicitly assuming one. Since different dictionaries use different phonemic schemes, the user has to be wary when interpreting a given dictionary's choice of symbols. If a dictionary gives /shərt/ for shirt, for example, the /ər/ sequence should not be interpreted as a sequence of /ə/ plus /r/ any more than /sh/ should be interpreted as /s/ plus /h/. More than likely the two-symbol string is being used to represent a single sound. Sometimes this can be confirmed by listening to the recorded pronunciation that often accompanies transcriptions in online dictionary entries. Indeed, if you downloaded one of these sound files and examined a spectrogram of it, you'd be hard-pressed to segment the vocalic portion of the word into two separate vowels. 
+
+acattle's comment that there is a trade-off between inflectional complexity and strict word order is a good answer to your question. I think it would really help to illustrate this with some examples. 
+
+Most linguistics can agree that (in English) the nucleus ("core") of a syllable must be vowel (an exception is made for nasals in certain contexts). If we consider a word with more than one syllable, the next question is whether the consonant(s) between the first and the second nucleus should belong to the first or the second syllable. 
+
+The most widely used reading passage in research on English phonetics and phonology is The North Wind and the Sun. It includes most English phonemes and is used, for example, in the Illustrations of the IPA (translated where necessary, although it is then not guaranteed to include all phonemes of the language in question). 
+
+Example: Should /r/ in very belong to the first, hence /ˈvɛr.i/, or the second syllable /ˈvɛ.ri/

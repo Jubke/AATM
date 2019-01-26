@@ -1,0 +1,19 @@
+L.E.J. Brouwer and other intuitionists for Truth-Value Gaps 
+
+Formally this all gets modeled using centered possible worlds. These were popularized (first discussed?) by David Lewis in his 1979 "Attitudes De Dicto and De Se". Centered worlds are possible worlds which come with privileged individuals and times. You can see why they'd be useful: context supplies some centered world as the world relative to which the utterance is to be evaluated (the "evaluation world") and this centered world privileges certain individuals and times in a way that makes them the default referents of indexical expressions (in that context). Location gets fixed because the privileged individual (assuming they aren't scattered individuals) occupies a location at the time of utterance in a way that makes them the default referents of indexicals (in that context). 
+
+Finally (and boy did it take a long time to get to "finally"), let F denote the formal contradiction, and Con(S) = is the formalized statement of the consistency of S. 
+
+A quote from Russell's Principles of Mathematics seems appropriate here: 
+
+Finally, some have hoped that a plural account of quantification could be use to avoid set-theoretic paradoxes that result from quantification over all sets if the domain of quantification is itself a set. On this question, see the subsection on Set Theory at the SEP article on Plural Quantification. Boolos originally mentioned this idea in passing in his "To be is to be the value of a variable (or some values of some variables)". The main proponent of this view is Timothy Williamson, who staked out the position in his 2003 article "Everything". (He has expanded on the view in subsequent works as well, such as his book Modal Logic as Metaphysics.) 
+
+This informal argument does utilize the notion of "truth", but it isn't explicit that it is concerned with model-theoretic truth. I suspect, however, that it is. The reason I suspect this is because he appeals to the soundness of the theory. Generally soundness is stated as the conditional and I don't know how else to interpret the double turnstile other than as the model-theoretic notion of truth. This bears on your initial point of confusion: 
+
+Hartry Field on the semantic paradoxes (gaps) 
+
+Capable of representing primitive recursive functions (at the very least the arithmetical ones). Having a recursively enumerable axiom set. Once those two hold (modulo my concern that I might be forgetting something), incompleteness applies to that system. 
+
+The main motivation for proponents of plural logic — why they want plural quantification instead of singular quantification over sets or properties — is ontological/conceptual. Their thought is that representing, e.g., the cereal on your spoon as a set distorts what’s intuitively the case: you’re eating bits of cereal, not a set of cereal. 
+
+To the right branch: at line 14r we have the right conjunct negated (representing the case in which the right conjunct of 13r is false). 15r exploits the interdefinability of the quantifiers once more. Again, universal instantiation requires branching and so we have another pair of branches.

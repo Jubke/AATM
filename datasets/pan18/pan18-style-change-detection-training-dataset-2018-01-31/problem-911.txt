@@ -1,0 +1,41 @@
+I like screenshots, so here are some to illustrate this. This is the Plone section on my Open Source projects section: It would be almost impossible to distinguish automated use of the API data from interactive use, so I don't think this will ever change. 
+
+So that's issue #2, I am now confused; was I closing or did I pick the flag option by accident? 
+
+However, there is no easy option to copy a link on posts. You can: 
+
+That's not a bug, however, as there is no standard delay set in the SMTP RFCs. The MX is free to pick a re-delivery time, even if that is days later. The 15 minutes mentioned on the sign-up page is aimed at normal email delivery delays, not accounting for graylisting. I can confirm there is a validation error in the feed: 
+
+You most likely received some points that were retracted again. You briefly did receive the required reputation points, then lost them again. This can happen when someone upvotes one of your posts, then retracts that vote within the grace period. The 10 points for an answer vote would have been sufficient to see the behaviour you described. 
+
+To the post options: Close found, and a dialog pops up that asks me to pick the usual options, pick duplicate, and the dialog tells me I am flagging, not voting: 
+
+I now can boast nearly 2 decades of experience in this field, having helped build Zope and Plone, using these tools to build large-scale websites such as Boston.com and intranets for multinationals with thousands of employees. In short, I can make your web tech fly. There are three two problems here: 
+
+and here is the preview for the PDF generation for this section: Unfortunately, I discovered that the print view uses the raw Markdown text, without processing the formatting. Except that whitespace is being collapsed because it is rendered as HTML text instead. Here is what my personal statement becomes: 
+
+Either way, this is status-bydesign; privileges are tied tightly to your reputation points. If you drop below the required level, you lose them again. 
+
+Original answer, December 2012: 
+
+The print preview reveals contact information (email address) breaching the privacy of those posting profiles. The print preview (linked from public CVs) should not include the email address; as the careers page promises that street address, phone and email are only shown to employers you approve. - only when logged in and already given access (like on your own profile). 
+
+There is a mystery hidden link present on the new revision layout (nice btw): 
+
+Looks like the sprite offsets are out of sync again: 
+
+I don't know if this applies to just me as redactor, or every moderator. Sorry, no screenshot. I was a little flustered at being called out like that. 
+
+It used to be that access through a mobile app would not count towards the badges, see the old answer below. 
+
+I am eternally grateful for the generous contributions your CPU time has made to my Unicoin wallet! Please let me see the "other" flags on the post and in the queue even when a redaction approval flag is active. 
+
+This applies to both the flag queue (where the filtered "other" list contains the redaction flags, for some odd reason), and the post page itself (where the flag details banner only includes the redaction flags). 
+
+As for your update: no, there is no way to recover the days lost. Update: Martin Smith provided one: 
+
+I love the new little printer icons on the Careers 2.0 site, and I had occasion today to point someone to it. 
+
+Where are my paragraphs? Why are the URLs so ugly? This is what it should look like: 
+
+Looking at the inbox or achievements drop-down marks those events as read. However, when you visit a Stack Exchange site on mobile, the mobile notifications box still shows all of these events as unread. The same is also true in the other direction, looking at the notifications on mobile first leaves the same messages unread on the main site. So? I use graylisting too, I see plenty of mail servers use longer delays, you did just tell that MX that your server is 'overloaded' and to come back later.

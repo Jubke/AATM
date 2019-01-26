@@ -1,0 +1,21 @@
+The cable is in the process of fraying apart somewhere. 
+
+Overfill per se is not usually the problem, although it is possible to overfill a brake using an incorrect bleed block. What usually gets mistaken for overfill is DOT fluid expanding due to absorbing water that makes it past the seals, because it absorbs water out of the air very readily. Most or all DOT fluid brakes seem like they do this to some extent over time, or at least can. (Mineral oil doesn't do this, which is one of its advantages). It's extremely common, for example, that a new bike that's been sitting warehoused halfway through a model year has this symptom when unboxed for assembly. When Juicy 3s were one of the most commonly specced brakes it seemed like half of them had this out of the box. 
+
+The reason brake pad design moved away from being cheap, thick blocks of rubber is 100% that you can't make any but the most trivial amount of money producing and selling them. They last too long and are too effective for how cheap they are. Only the most hardcore of cyclists become repeat buyers. 
+
+Facing a rear post mount on the chainstay, where they often are now on road/cross bikes, usually requires an offset facing tool to reach in and do it without bonking into the seatstay. If all manufacturers and dealers were well equipped and did their jobs right, this wouldn't make a difference for consumers. As it is I feel like there's a relatively high proportion of bikes like this sent out into the world still in need of rear post facing, but I don't have any proof. 
+
+If you observe that the pistons can't be pushed back in fully on a DOT fluid brake, fluid expansion due to water contamination is the first thing to suspect. 
+
+It seems like some old heads seem to think that a machined sidewall was a marketing gimick made to stop brake squeal on new showroom bikes. Rivendell sell a lot of rim brake wheels without a machined surface. 
+
+Zipp recommends the following pads for their rims: Zipp Tangente Platinum Pro Zipp Tangente cork pads Bontrager cork pads Zipp carbon/carbon pads SwissStop yellow pads 
+
+Leonard Zinn (author of Zinn and the Art of Road Bike Maintinance and owner of Zinn Cycles) recommends against using regular pads on carbon rims. See the following from the article in velonews: 
+
+Follow WTHarper's solution and use travel agents with short pull drop bar levers and regular cyclocross interrupter levers. 
+
+Mountain bike brakes (like v-brakes, or mtb disc) typically pair with "long pull" levers, which pull more cable. This is also known as "linear pull" 
+
+So, if you use a BMX lever with V-Brakes on a mountain bike, you likely won't be able to pull enough cable to work properly. You'll probably be able to stop somewhat, but they will feel off and will have to be setup so the pads are very close to the rim. You're better off getting MTB specific levers.

@@ -1,0 +1,39 @@
+The goal of C++ standardization is high level programming with zero overhead over hand-crafted C code. 
+
+We have two signatures we are considering: 
+
+For the full effect of the above, you need a compiler that synthesizes move constructors and assignment for you. 
+
+OS changes, innocuous system changes (different hardware version!), or compiler changes can all cause previously "working" UB to not work. 
+
+I cannot find where in the standard the phrase user-defined type is defined. 
+
+This is possible, which is as far as I'm going to get into here (either with a smart adapter, or via SFINAE techniques). However, you are probably better off just creating two different named functions, because the techniques required are way too heavy weight. 
+
+Next, many kinds of undefined behavior are inherently non-deterministic. Accessing the contents of a pointer after it is freed (even writing to it) might be safe 99/100, but 1/100 the page was swapped out, or something else was written there before you got to it. Now you have memory corruption. It passes all your tests, but you lacked complete knowledge of what can go wrong. 
+
+I say go with TLS as that removes need for synchronization overhead while allowing multi-threaded use, and mirrors the fact that the stack itself is implicitly TLS. 
+
+This does not occur in VS2013 update 1 or update 0. 
+
+If you want performance, pass by value if you are storing it. 
+
+Unfortunately, doing so at any reasonable scale is difficult. There are lots and lots of ways information can leak from a C++ program. So relying on such optimizations (even if they happen) is not going to end well. 
+
+Now, all I did there was result in an unspecified value. We haven't crashed the system. But the compiler would be free to make it completely undefined -- maybe sending two such requests to the memory controller for the same address in the same batch of instructions actually crashes the system. That would still be a "valid" way to compile C++, and a "valid" execution environment. 
+
+It has come to my attention that clang does not treat this as an unknown warning: 
+
+There is currently an open defect on this problem. 
+
+So, I write up this traits class: 
+
+My inclination would be to write a partial order on function signatures with respect to a given set of arguments, then sort the type list of function signatures, then grab the best (with possibly a compile-time assert that the best one is unique). To pull that off, I'd have to have a solid partial order (with respect to a set of arguments passed in) on function signatures... 
+
+Assignment Stolen from @Jarod42's answer below. 
+
+To be fair, resource management in C++ takes a lot of work to do properly in such large complex (yet cycle-free) systems. C# and similar languages just make it a touch harder, in exchange they make the easy case easy. 
+
+This gives it two advantages. First, there are going to be certain types of problem that RAII cannot solve. These are, in my experience, rare. 
+
+MSVC aggressively COMDAT folds functions, so two functions with the same implementation can be turned into one function. As a side effect, the two functions share the same address. I was under the impression that this was illegal, but I cannot find where in the standard it is made illegal.

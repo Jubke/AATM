@@ -1,0 +1,43 @@
+Military bases are considered no-spawn zones in order to keep the base secure and to keep trespassers from having motivation to enter a base. If you're upset about this, it's probably best to ask your commanding officer to ask Niantic for an exception to this rule for your base. 
+
+Most (if not all) of the problems listed in the question are related to the Pokemon GO servers being offline, slow to respond, or overloaded with requests. 
+
+In the meantime, nobody likes not playing the game. Fortunately, there are a few things you can do: For whatever reason, they decided that your tablet does not "work" with the game for whatever reason, and have since blacklisted it from being used on those tablets (even though they meet/surpass the actual requirements for running the game). 
+
+You may still use Incense to force a Pokemon to spawn, but your rates and quality of spawns are likely to be low. 
+
+I changed my Java XMX to have 2GB of RAM because I hate the lag I'm getting, but I get a strange error message: 
+
+Upon further testing, this only happens with the Minecraft exe file. When lanuching the Launcher JAR, it works perfectly. 
+
+Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free Some instances of this error can be avoided by allowing Steam to fully exit by clicking Steam ▸ Exit or by right-clicking on the Steam icon in the System tray and clicking Exit, rather than forcing the process to end. 
+
+The solution is to ask your son to remove the culprit mod. He might be able to figure out which one it is by reading through the install instructions for each mod he has installed. The culprit mod will say clearly somewhere in its documentation that Forge is required by the mod. (The way I remember the difference is that "composite" combines all the information in one cable [that's what composite means, sorta], while "component" splits the components into separate cables. It's not a great mneumonic, but it works for me.) 
+
+It's easy once you actually start looking in the files, though it may take some time to read through all the fields and get an idea of what does what. The best way to learn is to just change things that look likely, and see what happens – that's how all the tweak guides were written. Just make backups of the original INIs before you start tweaking, and you have nothing to fear. 
+
+Put simply, a Yellow/Red/White cable does not connect to Green/Red/Blue ports because Yellow (Video) and Red/White (Audio) do not match the signals for Green/Red/Blue (all Video). (For a full explanation, read on; or for the fix, just skip to the bottom.) 
+
+(Note that installing mods is a legitimate thing to do and not cause for alarm. Mods are generally benign, usually adding new features created by the community of players. However, when someone takes it upon themselves to start adding mods to the game, they are also preventing anyone else from helping them fix the problem if it goes wrong — so it's their responsibility to learn how to install and troubleshoot mods themselves. Mods are also created by the community, not Mojang, so they carry no guarantees that they work properly.)

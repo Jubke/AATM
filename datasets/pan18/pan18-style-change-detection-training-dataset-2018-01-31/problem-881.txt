@@ -1,0 +1,23 @@
+I just noticed that the dialog is now displaying the combined reputation that I gained yesterday and today (3.5 hours into a new day). 
+
+Looking through their answers, many of them did win bounties. You can tell when a bounty is collected by the yellow outline around the checkmark. If you hover your mouse over the checkmark, it even tells you how much the bounty was. 
+
+It seems to be okay for these guys. 
+
+In your case it's the deleted answers that are causing the ban. (I don't know the algorithm, but there's nothing else I can see that would be causing it.) In particular, do not post questions in the answers section. Those will be deleted every time. Once you get 50 reputation you'll be able to leave comments, which is where follow-up questions and clarifying statements belong. Until then, improve your other answers and try to ask good questions that will get upvotes so that the answer ban will be lifted. 
+
+First, the vote to close mechanism is democratic. Experienced users of the site can vote to close a question that they think isn't a good question for the site, or they can vote to reopen one they think has been wrongly closed. You don't honestly expect us to wait until tens of thousands of users have voted to take action on each individual question, do you? 
+
+To answer your question, no, I don't think famous names get more upvotes because they are famous. It's the other way around. You get a famous name on Stack Overflow by providing lots of great answers that get lots of upvotes. 
+
+There is evidence that this is not the case. 
+
+Here's the reasoning posted as a comment to that answer: 
+
+The user activity overview dialog that you see when you mouse over your user name at the top of the page normally displays the reputation that you gained on the current day. This was handy for telling if you were close to the reputation cap. 
+
+Frankly, that's stupid (no offense to you personally, but the idea itself...). If the guy's answers are quick and always perfectly correct then why would anyone think it's a good idea to discourage that? 
+
+Update: I went through and deleted all of the sock-puppet accounts that were used to create bounties won by this user. There were around 20 sock-puppet accounts (I lost count), and over 5000 points of bounty awarded. There were over 1000 points of free reputation gained (because the system adds a free 50 to every bounty), which I assume was the whole point of this experiment. 
+
+I think they're mostly about knowledge, otherwise they wouldn't work. Sure, some people are influenced by another user's reputation or name recognition, but I've posted enough wrong answers to know that people will jump on me with both feet when I do, despite reputation, badges, or even the ♦ next to my name.

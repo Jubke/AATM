@@ -1,0 +1,37 @@
+Through some rudimentary testing, Barrier (as expected) also takes armor and magic resist into account. 
+
+Player Attack Move Click (default Shift+RMB): Like PMC, this will move you to the location under your cursor. However, as soon as an enemy (note: does not include neutral monsters, aggroed or not) comes within auto-attack range, your champion will begin attacking it. This results in a red targeting indicator (orange in colour-blind mode). 
+
+Aatrox's passive is Blood Well. It's a revival passive, much like Anivia's. It has a 225 second cooldown. Whenever Aatrox expends HP by casting a spell, it gets added to his secondary bar, which is also named his Blood Well. 
+
+Noticeably, since MR Reduction (also known as MR shred) actually reduces an enemy's Magic Resistance, an MR shred item will benefit anyone on your team who deals Magic damage. Magic Penetration, on the other hand, will benefit only yourself. 
+
+So yes, assuming both shields are entirely depleted, a shield on a 200 armor Malphite will last longer than a shield on a 90 armour ADC. 
+
+edit 2: Since this morning I only get the Tribunal in Recess Message, so I guess they are currently working on the changes mentioned in the Patch announcment. 
+
+Riot: We want to encourage players to decide these boundaries. Just use your best judgment and we'll take care of the rest! 
+
+And do not forget: erveryone can have a bad day and play sub-par from time to time ;-) 
+
+What do the buffs affect in detail (preferring concrete numbers)? 
+
+Screenshot from the video @4:43 
+
+Since the Patch V1.0.0.113 revive effects trigger in this order: 
+
+There will be a Tribunal ladder named Hall of Justice, too! 
+
+Also after the Tribunal changed you do not get IP Boosts anymore but only some Influence Points (IP) are added to your account. 
+
+edit: In the Patch announcement video for the World Championship Hotfix, Riot announced to change the Tribunal again. In the near future there will be a list of your cases along with some stats. 
+
+This means if you would die as a Tryndamere with Guardian Angel and your Ultimate is available, your ultimate would trigger first - goes on cooldown, gives you fury and GAs passive is still available. This means if you get the Chrono Shift Buff at the right moment (when Undying Rage ends) Tryndamere could technically drop to zero health 3 times before a kill is awarded. 
+
+Talon is as I've said before a burst assassin. He bursts and then runs off. So if anyone ever tells you to built attack speed on him. DON'T. Build pure AD and armor pen on him. You shouldn't have to stay and autoattack because any tanky AD DPS can kill you in a toe to toe fight 
+
+If somehow the ganker was very sneaky and comes undetected, Caitlyn's 90 Caliber Net is a great escape tool. It shoots a net at the enemy to slow them AND shoots Caitlyn backwards. This in addition to flash(if she has that as a summoner skill) will widen the gap between the ganker and Caitlyn. 
+
+A common trend that I noticed is that the tower can only be brought down with physical damage. Towers appear immune to any other types of damage, namely magic and true damage. Of course as we all know, we can't cast spells that deal magic damage on towers. And any on-hit procs that deal magic/true dmg is also negated when using against tower like teemo poison(magic damage), twitch poison(true damage), etc. 
+
+This is mainly because when Sona heals, her animation shows a green energy going towards the ally. However some champion's heals don't have targetable animation(such as Alistars heal) and will not reveal the location of an invisible ally.

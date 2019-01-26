@@ -1,0 +1,41 @@
+Beyond this, matters have become highly theory-bound and answering your question in a way acceptable to the profession as a whole is probably impossible. The earliest 'modern' theories of 'roles' (mid 1960's), roughly those that coined the terms 'thematic roles' (Gruber's) or 'Cases' (Fillmore's), aimed rather at accounting for syntactic alternations than at defining LF and the syntax-semantics interface, and, with such an aim in view, only 'participants' (= arguments of the main predicate) were supposed to discharge 'thematic roles'/Cases. However, as linguists, from the late 1960's onwards, shifted their focus of interest from syntax sensu stricto to semantics/LF and the syntax-semantics interface, things changed substantially. 
+
+Concerning the nature of as, as Bowers cogently argued first in his important 1993 paper 'The Syntax of Predication' (LI 24.4, pp. 591-656), it acts as the 'functional' (= Pred) head of a Predication Phrase whose complements are APs (in this case), and whose specifier is initially empty (since Spec Pred is a non-thematic and Case-less position), although it must subsequently be filled by the ascending DPs his candour/her ideas, as they raise from their initial position inside AP to become 'subjects' of the Predication Phrase. Bottom-up, then, the second layer of structure in your 3a, 4a is, therefore, [PredP: [DP: his candour/her ideas] [Pred’: as + [AP: ‘trace/copy’ of his candour/her ideas [A’ excessive/far-fetched....]]]]. 
+
+Whether you choose to label it 'I/Infl[-Tense]', or 'Inf'(initival), or anything similar does not really matter, but you should certainly not label it either 'Aux [Verb]' or 'Complementizer'. 
+
+The dire fact is that, at the time being, even professional syntacticians do not really agree as yet as to the fine details of ‘sentential’ structure, including such key aspects thereof as the number, labels, and hierarchical disposition of sub-sentential phrases, the syntactic and semantic properties associated to each of the by now innumerable heads and specifiers postulated, or crucial semantic issues like what level(s) within current ‘sentence’ structure are ‘propositional’ (the ‘saturated’ VP?, the higher vP node?, PolarityP?, TP?, Agr-S-P?, CP?...), to name but a few and avoid going into the movement-related issues that follow from such uncertainties. 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+*Al gave Mary a ring a lot last night. 
+
+Al gave Mary a ring in a year. 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x 
+
+Al is watching TV. => Al has watched TV. 
+
+Entailment from the progressive to the perfect: 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: 
+
+I am wondering if there are any verbs/phrases that qualify both as ditransitive, and as atelic. The following shows the relevant tests. The satisfying verb/phrase should have the same * patterns as give w.r.t. ditransitivity, but * patterns with sleep and watch in the telicity tests. A complete answer will provide the evidence that the proposed word passes the test in these ways. 
+
+Single event compatibility with "for"-adverbials: 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+Alright, Greg hit the button before me. But, case is a morphological modification of a word -- not necessarily a suffix, so it could be a prefix, infix, or "mutation". 
+
+That would be a mistake, IMO. "Case marking" has a specific meaning, and presupposes that a language has case (e.g. "nominative", "accusative" or whatever). There is some relationship between case and thematic rule / grammatical function, but they are not the same thing. 
+
+The biggest impediment that I see to answering the question is distinguishing "article" on functional grounds from similar kinds of words. 
+
+[Furthermore....] The primary concept that is relevant here is, roughly speaking, about how some nominal element relates syntactically to other elements of the sentence -- I'm being deliberately open-ended. One example is the relationship between "Bill" and either "cat" or "sold a cat" in "Bill sold a cat". That relationship can be indicated by word order (as in English), by some kind of abstract featural property realized as morphological affixation of some kind (as in Russian or Kipsigis), or by a seriously complicated system of gender agreement patterns in Khoekhoe; and there are other ways. In English, certain syntactic relations are primarily signalled by word order (and there is very little, though not no form-changing as is the case in Chinese). In Sanskrit and Walpiri, these relations are signalled via affixation (and not so much with word order). 
+
+Those are, perhaps, the simplest 'zeugma tests' lexicologists can use to determine whether any two tokens of a given 'form' are manifestations of the same lexeme or not, but there are other such tests, applicable to verbs as well as nouns (e.g., modification by adjuncts that may selectively apply to different 'facets' of a lexical concept represented by a unique phonetic-orthographic form). It would be too long to illustrate them all here, and it would lead us away from your question, but if you apply such tests in a systematic way, in principle you should always be able to decide whether an apparently unique 'verb' alternatively takes an argument explicitly and implicitly or, on the contrary, what happens is that the English lexicon contains two (or more) homophonous verbs with different adicity and more or less prominent differences in meaning. 
+
+Unsurprisingly, therefore, between 1970 and 1979, TG grammarians, too, seriously considered adopting the V-centered view of the sentence as the obvious way to make S comply with X-Bar Theory, and, as a matter of fact, one of the most important monographs on X-Bar Theory ever published, Jackendoff's X' Syntax (MIT Press, 1977), did analyse S as an extended VP phrase (V''', in his notation). The fact that in many languages the subject seemed dispensable, whereas the finite verb was not, seemed to support that traditional view, and until about 1979 several other influential Chomskian linguists proposed similar, V-centered, analyses of the sentence. Or rather, of the ‘core sentence’ (= the 'predication'), since, as early as 1972, Joan Bresnan had already offered compelling reasons to analyze real speakers’ sentences as structures containing S preceded by a ‘complementizer’ category C lodging certain subordinators and expressing the sentence’s crucial ‘illocutionary’ properties (assertion, interrogation, command, etc.), a view that, under X-Bar theory, first suggested treating sentences, rather sloppily, as ‘S-bar’ phrases with the internal structure [Comp + S] (e.g., in Chomsky’s Lectures on Government and Binding 1981), or as Comp + V’’’ structures (in Jackendoff’s earlier work), and eventually as CPs, i.e., as projections of the C category (e.g., in Chomsky’s later, and extremely influential book Barriers, 1986).

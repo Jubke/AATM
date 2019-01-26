@@ -1,0 +1,25 @@
+Unfortunately, the game needs an active internet connection to grab new data depending on your location. Edit: Alright so there seems to be certain icons/logos for each faction that represent one of the legendary birds (Zapdos for Instinct, Articuno for Mystic, Moltres for Valor). Maybe in the future some change or patch will come that will do something with the birds. 
+
+Update: Germany and UK also seems to be out now. Be warned anywhere boasting to get you the game now(before it is available normally for you) could lead to you potentially downloading Malware on your phone or (less likely but still a possiblity) being banned from ever playing the game on your device. So just be patient, the game should be worldwide soon. 
+
+Valor is pursuing training and improving the 'strength' of Pokémon. 
+
+Update: Italy and The Netherlands should be out now too. Check this website for future updates: https://www.ispokemongoavailableyet.com/ The only way it could work like you suggested is if the game would cache the entire map (inclusive of pokémon locations and encounter triggers) and handle this entirely client side. The game is highly likely not to work this way, as the predecessor that this game was based off of didn't either (Ingress). In addition, something like that would make the game easier to cheat as the servers would have to completely trust the client. What factions are dominant in the area you play in most? The map should be the same scale as real life, so 1:1 (if we take the km noted in the Egg Incubator) - as it uses data from Google Maps. Your avatar is pictured huge in comparison. Do you prefer to play for the dominant side, or would you rather play for the underdog? Edit2: I've been playing Pokemon GO for about 3 hours outside now, according to my Android OS it has used about ~5MB (MegaBYTE, not bit) of data. Depending on your own play style, your mileage may vary of course. 
+
+Niantic has warned against using high value items during times of server instability.. but eggs we can't really control. Your best bet would be to contact support. Click the Pokeball at the bottom of your screen, choose Pokedex, then select a Pokemon: 
+
+Yes! Beginning with the August 8th update, you can change your name once. 
+
+But the caveat is you also see how many you've let escape :-) 
+
+I have a great spot in my city where I can sit with 4 overlapping Pokestops. It's great to pop a few Lure's and every 5 minutes collect from 4 stops. I would consider this a high priority issue and use the "Report High Priority Issue" button. But I've noticed something.. I seem to only get 3 items from each Pokestop every time. Whereas if I was moving around from Pokestop to Pokestop - I would have more variety, at least 4-6 items dropping every once in a while. Download the app here: iOS or Android Remember it must be between 4 and 15 characters long. 
+
+Does the length of time you spend at one or more Pokestops decrease the yield of items? You most likely could have got your Pokemon. Open it and you'll see a screen that says "Sign up with". You can then select either to sign up using your Google account or make a Pokemon Club account. 
+
+I already have 4 Raticates (one of which is powered-up to 325cp). And right now, I have 120 bits of Rattata candy to evolve even more of them. And every day I'm catching more Rattata. 
+
+The appraisal did say his best attribute was HP... 
+
+notes: There is a very bright full moon low in the eastern sky. here is a photo of what these gyms looked like. When in motion they seem to sparkle to me. As a static photo, not so much sparkle: How should I put all this "potion" and "revive" to use? Could it actually help me win a battle? It is critical to know at what prestige level your Pokémon will be kicked-out of a gym so that you could launch a counter-offensive to increase prestige. How do you calculate this number? For sure, adding an extra guy requires 10,000 prestige. But by that math, my gym should have been 90,000 prestige. 
+
+In the next photo, notice that the circles near me, that indicate a pokemon exists, do not have a pokemon at the center. This seems to prove the pokemon icons were just not being loaded.

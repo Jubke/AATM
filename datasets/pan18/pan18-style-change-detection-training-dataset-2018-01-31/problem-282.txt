@@ -1,0 +1,31 @@
+As we can see from opening 2x Skill Increase in TES5Edit, that's exactly what this one is... er, waitaminute... 
+
+Either reload a previous save, or use console commands (if on PC) to either walk through the floor or spawn in a replacement. 
+
+Armed with these two numbers (save first! always make a new save first), open the console (~ on US keyboards) and type: 
+
+The mod needs to work properly first, though. 
+
+Long answer Yes, percentage increases should apply to the effects of mods on your skills, assuming they're changing the rate in the sensible, straight-forward, native way that Skyrim already uses to determine improvement rate. 
+
+Unfortunately, no. The gameplay mechanics aren't compatible with that sort of control scheme, and it's likely impossible to change that kind of fundamental aspect of the game's design and programming. 
+
+(Emphasis mine.) Looks like you're not a true brother or sister of Skyrim. 
+
+We've found a bug! And a novice modder who hasn't done their research. 
+
+At this point, PC players who want to "buy" it back can simulate this with the console with two commands. You'll first have to find the internal item ID of the mask and its gold value, which you can look up at Skyrim Artifacts (beware spoilers!) in the "ID" and "coin" columns. 
+
+Yes, the attacks do end after finishing the main quest. 
+
+Internally, Skyrim has a number attached to each skill so that the developers could tweak the rate at which they improve on a per-skill basis. These numbers are in the data files rather than the engine. This allowed them to set a rate for, say, Alchemy's improvement, see how it affected gameplay over time, and tweak it up or down without having to recompile the entire game from scratch. The various bonuses you can get from Standing Stones and other sources are designed to layer on top of these to give the advertised increase, no matter what the number. 
+
+As soon as the merchant restocks, anything you've sold them disappears. 
+
+For example, to get Volsung back, you would type: 
+
+One of the footnotes on Joining the Stormcloaks (UESP) reads: 
+
+You can get around this by paying attention to the item highlight: when it won't follow the mouse properly, use the keyboard to adjust the selected item until it agrees with the mouse. It should stay in sync for a while then. 
+
+To kill other NPCs who have the temerity to annoy you with their immortality, you can use the same command, but replace the hexadecimal number with their BaseID instead of Balgruuf's BaseID. You can find an NPC's BaseID on their individual Unofficial Elder Scrolls Pages Wiki entries. Note that you need the BaseID, not the RefID, when reading those pages.

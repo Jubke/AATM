@@ -1,0 +1,19 @@
+Wont have items also need to be documented and assigned a status of closed, so that we dont loose sight of those and can be tracked. These items can be those feedback items which are not relevant to the product or are not cost effective to implement at this time. 
+
+Being a PO needs frequent engagement with both the client and the team so that everyone has aligned vision of what needs to be delivered when. PO has to be available to answer questions coming from the team. If your time is divided between engagement and development it is bound to have a negative effect on efficiency for both dev and PO roles. 
+
+Here is what Roman Pichler has to say on Scrum Alliance, The product owner is required to: 
+
+In case of stories being carried over to future sprints, the Scrum team should not be held responsible for stories which were not part of the sprint backlog to begin with. 
+
+Draw a line that represents the rolling average over that period, then draw lines that represent upper and lower control limits at 1, 2, and 3 sigma. Then analyze again. Your Y axis goes from zero to 1,000 which can make normal variation look extreme and volatile. 
+
+Surveying here will not get you either reliable or valid results. It will only reveal unsubstantiated biases. Your likely best indicator for this relatively new credential is job advertisements in your area and industry. Scan for those and see if anyone is asking for this credential. In my industry and area- it is pretty much unknown. 
+
+This is a time and materials contract. This is not debatable. A FP contract under these circumstances is unfair to both the seller and buyer of services. For the seller, you are taking on a degree of risk that is unacceptable and unmitagable. You would have no choice but to load the price with a ton of contingency, which in turn makes it unfair for the buyer by cause the price to be two, three, or four times what it could have been under another arrangement. 
+
+The value from the first stage in the example would be that a list of top paying clients is now available to marketing. But it would only be once the second stage is completed that they would be able to send out gifts to them. 
+
+Another approach is to write your stories on cards and sort them in to size order. So that the biggest story is at the top and the smallest story is at the bottom. Then you decide where the boundary points are in the list between the various story point sizes. For example, say you had 20 cards sorted in order and you decide the bottom three cards are 1 point, the two cards above that are 2 points and so on. 
+
+Using a Behaviour Driven Development (BDD) or Acceptance Test Driven Development (ATDD) approach means that the code is self documenting. So introducing functionality beyond the original requirements would be obvious to anyone who paid attention to the code base.

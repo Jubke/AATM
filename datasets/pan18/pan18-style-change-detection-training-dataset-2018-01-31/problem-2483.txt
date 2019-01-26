@@ -1,0 +1,33 @@
+So, is there any reasonable alternative in historical linguistics? By reasonable alternative, I mean a competing method capable of achieving the same results by different means. Or perhaps, capable of going further into the past to reconstruct larger language families? 
+
+Update: As Cerberus pointed out, it may not be a good idea to try to understand this phenomenon from a modern speaker's perspective. But I hope that historical linguists have an objective way of measuring and evaluating the process of change in a certain period, as well as making comparisons between different historical periods. The anecdotal evidence above was intended merely to show the motivation for the question, so please don't get much distracted by it. 
+
+Background: I have observed that in both English and Portuguese, the language used in literary texts changed significantly during that period. Chaucer's Middle English is very different from Shakespeare's Early Modern English, which, by contrast, can be reasonably well understood by today's English speakers. Similarly, Gil Vicente's Old Portuguese clearly contrasts with Luís de Camões's Modern Portuguese. 21st century Portuguese speakers can understand Camões's language with almost no difficulty. This is just anecdotal evidence, so feel free to challenge these assumptions, as well. 
+
+As far as I can tell, the comparative method is the most accepted and widely used method in historical linguistics. Often used in conjunction with the internal reconstruction method, it has proved to be very successful ever since the 19th century. There are, of course, alternatives, such as the mass comparison method, defended by Merritt Ruehlen and others. But such methods are, to say the least, very controversial. 
+
+However, most of these are universal by virtue of being axiomatic because without them communication or reasoning would be impossible. For instance, if we found a language that did not use categories - we would find ourselves in an alien world beyond anything imaginable. 
+
+However, some basic universal semantic processes could be formulated relatively easily: 
+
+Leonard Talmy outlines some universals in his chapter on Universals of Semantics but they are very much linked to broader universals of cognition or conversely more constrained combinatory universals from morphology. There are also many broad but not universal tendencies such as the use of space to model time, etc. Some of these were proposed by Emmon Bach in his reaction to Everett. 
+
+The closest linguistics (in its broadest sense) comes to this is a search for universals. There are many debates about what is and can be universal in linguistics - most of them happening in the realm of syntax (with some phonetics). But even the most formal of these universals (as represented by Universal Grammar) do not claim the status of a 'law' with the same predictive modeling power as laws of thermodynamics. 
+
+I am looking for data that either confirm or refute the following statement: 
+
+As far as I can tell, the comparative method is the most accepted and widely used method in historical linguistics. Often used in conjunction with the internal reconstruction method, it has proved to be very successful ever since the 19th century. There are, of course, alternatives, such as the mass comparison method, defended by Merritt Ruehlen and others. But such methods are, to say the least, very controversial. 
+
+Update: As Cerberus pointed out, it may not be a good idea to try to understand this phenomenon from a modern speaker's perspective. But I hope that historical linguists have an objective way of measuring and evaluating the process of change in a certain period, as well as making comparisons between different historical periods. The anecdotal evidence above was intended merely to show the motivation for the question, so please don't get much distracted by it. 
+
+Background: I have observed that in both English and Portuguese, the language used in literary texts changed significantly during that period. Chaucer's Middle English is very different from Shakespeare's Early Modern English, which, by contrast, can be reasonably well understood by today's English speakers. Similarly, Gil Vicente's Old Portuguese clearly contrasts with Luís de Camões's Modern Portuguese. 21st century Portuguese speakers can understand Camões's language with almost no difficulty. This is just anecdotal evidence, so feel free to challenge these assumptions, as well. 
+
+Leonard Talmy outlines some universals in his chapter on Universals of Semantics but they are very much linked to broader universals of cognition or conversely more constrained combinatory universals from morphology. There are also many broad but not universal tendencies such as the use of space to model time, etc. Some of these were proposed by Emmon Bach in his reaction to Everett. 
+
+However, some basic universal semantic processes could be formulated relatively easily: 
+
+The short answer is, there are no laws formulated for linguistics that could be analogous to some of the laws of physics that would be constant through time and space. The last attempt at this were the sound change laws in the 19th century and those do not take us very far. 
+
+However, most of these are universal by virtue of being axiomatic because without them communication or reasoning would be impossible. For instance, if we found a language that did not use categories - we would find ourselves in an alien world beyond anything imaginable. 
+
+In semantics, universals are viewed with suspicion. Perhaps the most stark statement of universality would be the semantic primes theory which posits certain core meanings that are shared by all languages - based on empirical research of a large (but still limited) sample.

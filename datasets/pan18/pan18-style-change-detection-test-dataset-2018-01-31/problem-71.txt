@@ -1,0 +1,29 @@
+Additionally, massive ground units can't be picked up by the Phoenix's gravity beam (thanks, Nick!) 
+
+So as soon as you receive the surrender offer, you should accept it, as it gives you exactly the amount of XP you would get from destroying all the remaining units / buildings. 
+
+'Massive' is also an armor type (like 'armored' and 'light') and two units (Voidrays and Corruptors) deal bonus damage to massive units. 
+
+The problem is, these popups are usually hidden by the victory screen itself. 
+
+Playing the second campaign mission in Heart of the Swarm, I ran into Nova, who off-handedly remarked that "Things might have been different if you had helped me with my Tosh problem", apparently still bitter that I liked the Spectres more than her ghosts on my last playthrough of Wings of Liberty. 
+
+However, it's entirely possible to own Wings of Liberty and not have played the campaign (or otherwise have no campaign data). In that case, what is the presumed outcome of these missions? Or, alternatively, does Starcraft not actually pass this along to the expansion, and assumes you sided with Tosh, etc? 
+
+All cloaked units distort the graphics a little bit, even burrowed moving infestors/roaches will show up as slightly darker spots on the terrain. 
+
+As far as community created multiplayer maps, there are numerous survival types of maps out on the custom games list that players play versus an AI, some are story driven, some are survival. Select join a custom game, then in the category drop down select "Co-op vs. AI" 
+
+Tempest The Tempest is a long ranged siege ship, mostly in an offensive capability. It has a massive attack range and does heavy damage against massive air units (Carriers, Battle cruisers, Brood lords, etc.). Again this is a slow unit. The usage behind this would be much like using brood lords or siege tanks (or guardians from Brood war if you want to go back farther). They have a slow fire rate as well so you want to ensure they are protected while they rain down damage from the skies. The biggest benefit of this unit is that it can hit both air and ground. Because of its massive range the unit can attack farther than it can see. You will need other units leading the way to ensure this unit has maximum benefit. 
+
+Lost units in general? No. Probes? Sometimes. Any time a worker (probe, drone, scv) is just sitting around doing nothing, he is considered an "idle worker", and the logo of the worker appears in the bottom left of the view area, with a number telling you how many idle workers you have. Clicking on it (or pressing F1), will cycle through them. 
+
+If you don't do it manually, statistically, you'll have one who is walking to gather (A), one who is walking back with minerals in hand (B), and one who is in the middle of gathering (C). (As they spend about a third of their time on each task) 
+
+Note) Reapers are nice, but they are most effective against buildings, or exploiting terrain (hitting a weak side up a cliff), they work okay in a group with marines. 
+
+It does depend on how urgent you need to get back to the battle, but if the battle is so important that it can't be delayed by a couple seconds, the gas can probably wait. 
+
+The most commonly played maps (and the best maps to learn if you want to play multiplayer) are the ladder maps. They're the maps that are used the most because most multiplayer games played online are ladder games. 
+
+I was able to completely eliminate the enemy's bases, and got the "Scenic route" achievement.

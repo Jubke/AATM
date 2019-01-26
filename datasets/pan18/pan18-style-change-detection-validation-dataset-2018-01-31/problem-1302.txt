@@ -1,0 +1,67 @@
+Al watched TV a lot last night. 
+
+Entailment from the progressive to the perfect: 
+
+Al gave Mary a ring in a year. 
+
+Single-event compatibility with "a lot": 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+I am wondering if there are any verbs/phrases that qualify both as ditransitive, and as atelic. The following shows the relevant tests. The satisfying verb/phrase should have the same * patterns as give w.r.t. ditransitivity, but * patterns with sleep and watch in the telicity tests. A complete answer will provide the evidence that the proposed word passes the test in these ways. 
+
+*Al gave Mary a ring for a year. 
+
+Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x 
+
+Single-event compatibility with "in"-phrases: 
+
+In brief, whether speech error data is relevant to the question of derivational order in syntax depends on just how much explanation syntactic theory owes to a theory of linguistic performance. 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+Single event compatibility with "for"-adverbials: 
+
+Al is watching TV. => Al has watched TV. 
+
+*Al gave Mary a ring a lot last night. 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+These are not two different types of parsing in HPSG (or anywhere else, AFAIK), but two (of the many) aspects of parsing with a rich grammar like HPSG. 
+
+The official documentation for PTB tags is this weird PostScript file; you might prefer this quickref. 
+
+I saw Otavio's comment only today. Here is the course description: 
+
+When you write down the semantic representation of a sentence (lambda calculus) you see that the determiner "consumes" the noun. Hence, it is the semantic head of a noun phrase. SEOP has a comprehensive overview of the phenomena that led to this, but Wikipedia is not bad either. 
+
+My answer is partially motivated by Dominik Lukes's answer and some of the things I read in the comments that follow it. 
+
+Leaving aside the fact that it's my own fault that I know nothing about Dependency-Based Compostional Semantics1, constituency-based parse analyses map fairly easily to compositional semantics. I believe this claim applies equally well to deeper grammars (LTAG, HPSG, CCG, etc.) that are the intellectual children of the simple Phrase Structure Grammar. After all, the parse trees don't change much between one of these formalisms and another. 
+
+Given this, if you were to apply the object over the verb, and then apply the subject over the resultant, you'd have the man and the woman each visiting a garden, that may or may not be the same garden. However, if you were to apply the subject over the verb, and then apply the object over the resultant, you'd have them both visiting the same garden. 
+
+The underlying syntax tree for this sentence can be represented as: 
+
+I'm focusing only on "open" compounds (not idiomatic ones) formed exclusively by nouns. As Molly mentioned, this might be related to the Adj/N word order in the language. This hypothesis is quite reasonable, since in the Germanic languages the head in these compounds comes at the end, whereas in Romance languages, they come at the beginning, matching the Adj/N word order. 
+
+Here, the suffix -s (that indicates third person, singular, present tense) has been taken from its original position and then attached to the end of the verb, producing the form kicks. 
+
+Prof. John McWorther, in his course on Linguistics, said, in a lecture about principles and parameters: "if a language is pro-drop, the verb attraction parameter is always set on. If a language isn't pro-drop, then it could go either way." Using his examples: 
+
+Beso normalmente Maria (Spanish, pro-drop: on, verb-attraction: on) 
+
+Jean embrasse souvent Marie (French, pro-drop: off, verb-attraction: on) 
+
+Both operations involve moving a head from one position to another. But affix hopping is assumed to occur at a different level (or different "mind component") than head movement. What is the fundamental difference that makes linguists classify these two apparently similar kinds of movements as two very distinct operations? 
+
+What determines how noun compounds are formed in a language? Is there something like a parameter (as in the principles and parameters theory) that explains this? 
+
+In English and other Germanic languages, noun compounds are formed simply by “appending” the nouns in a certain order. For example, phrases like this are very common: 
+
+But even if this correlation does hold cross-linguistically, how does it relate to the need for prepositions? Maybe prepositions help avoiding ambiguities when the adjectives are postnominal? Could it be related to processing preferences? 
+
+This piece of evidence seems to contradict the hypothesis above. In Portuguese, the subject pronoun can be omitted (pro-drop), but the verb does not have to move (although you could also say "beijo normalmente a Maria"). How can this be explained?

@@ -1,0 +1,55 @@
+The referenced posts were undeleted and locked by an SE employee. That is their prerogative. 
+
+Also, do you really want to open the door for any question that states "I have this life problem," and make it on-topic by slapping the word "algorithm" on it? 
+
+Questions that can be answered with identical verbiage are extremely rare. Either the questions are duplicates, or the answerer is carpet-bombing. 
+
+Shopping questions are off-topic throughout the Stack Exchange network.. As Bobby points out, these questions are just proxies for using Google. 
+
+To find out the genuine value of a question like this, march down the close reasons, and see how many fit: 
+
+But Stack Overflow is not a "tool-finding" service. I'm not sure how well asking questions with no current solution scales, although it seems to have worked out well in your specific example. I'm inclined to think such questions are too localized. 
+
+Questions asking for code must demonstrate a minimal understanding of the problem being solved. Include attempted solutions, why they didn't work, and the expected results. Well, it doesn't ask for code, but the principle is the same. Why are you stuck? Have you tried anything yet? What were the results? 
+
+So if you find that your comments are being interpreted as rude or hostile more often than not, simply refrain from commenting. 
+
+Put your actual question in the title. Make it the kind of title that will be meaningful to people searching for your question in Google. 
+
+The pecking order goes like this: 
+
+There are either too many possible answers, or good answers would be too long for this format. Please add details to narrow the answer set or to isolate an issue that can be answered in a few paragraphs. The number of answers this question has attracted seem to confirm this suspicion. Further, the answers do not appear to coalesce into some fundamental principle of croissant purchase selection. How is this ever going to be useful to future programmers, other than as a mental masturbation exercise? 
+
+Stack Overflow raises somewhere between 1000 and 2000 flags per day During any given time, only about 25% of the mods on Stack Overflow are actively moderating (we currently have sixteen mods, which means our active base is four). The period of maximum productivity for new mods seems to be the first year. After that, a certain degree of burnout sets in (let's be honest). It takes about an hour to handle 100 flags, once you gain some experience. The top performers handle 200 to 300 flags per day. Currently, we need to be processing about 200 more flags per day, and there are three open moderator slots. Would you be able to make such a commitment? 
+
+Yes, we do have a few book tags like sicp. But these are notable books. Unless you can demonstrate that "Learn C the Hard Way" is in the same league as, say, Kernighan and Ritchie, allowing such tags opens the door for a tag for every possible book title, and the shoddy questions that follow ("What does this sentence in this book mean?"). 
+
+Note that the first answer I encountered on your account was to a question that is almost two years old. 
+
+Tags are not designed for this. Tags are meant to categorize questions, not to identify specific artifacts like book titles, motherboard part numbers, or even specific software versions except under certain narrow circumstances. 
+
+In the absence of any effort to learn what the site is actually about, and make an attempt to provide some content that could be of value to others (other than being an advertisement), we generally just delete such accounts. 
+
+Additional note: These kind of questions attract a lot of attention from the Reddit and Quora crowd, who don't know how to use their votes properly. They think they are still on Reddit. Or Quora. 
+
+Because you created an account, did a search for questions that might have some relevance to your product, and pasted your advertisement there. 
+
+If you really have a question about something in a particular book like "Learn You a Haskell," just put the book title in the question. 
+
+Three of your answers were identified as cut/paste duplicates by the system. 
+
+As to why the decision was made to undelete these posts, it would appear that, in SE's judgement, the value of their content outweighs their negative characteristics. 
+
+Also, titles are important. The title of your question suggests a mundane issue with Paypal API knowledge, and doesn't really get to the heart of your specific problem. Check out the edit I made to the title of your question, which states specifically what your problem is. 
+
+It's these kinds of problems that are the reason that I vote to close questions without comment nowadays. 
+
+It's almost certain that your question isn't really "teach me how to use 'stdin' with fread," which would be off-topic anyway. 
+
+The new close reasons are clear, specific, polite, and tell the OP exactly what they need to do to improve their question so that it can get reopened. They are standardized; everyone gets the same message. Additional narrative beyond that is simply not necessary. 
+
+Based on my experiences and observations as a mod, I believe that a new mod should prepare to commit to devoting one hour per day, 5 days per week to handling flags in the flag queue, for the first year. Here's why: 
+
+I undeleted your cited answer, and closed the other two questions as duplicates of the highest voted one. 
+
+Questions asking for code must demonstrate a minimal understanding of the problem being solved. Include attempted solutions, why they didn't work, and the expected results in your question.

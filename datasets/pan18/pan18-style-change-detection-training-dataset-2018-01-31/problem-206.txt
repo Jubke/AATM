@@ -1,0 +1,43 @@
+At the expiration of the spell, any bonus HP you received will stay. The exception to this is if your current HP would be greater than your regular, unbuffed max HP. If this is the case, your HP will be reduced to your max HP. 
+
+However, if you're at 1500/1500 HP and you get Wild Growth'd for 300 HP, you'll be at 1800/1800. Suppose you take 200 HP of damage. This time, when the spell expires, you'll lose your extra HP. The 1600/1800 HP you have just before the ult wears off will become 1500/1500, since you cannot have more current HP than maximum HP. 
+
+Aatrox's passive is Blood Well. It's a revival passive, much like Anivia's. It has a 225 second cooldown. Whenever Aatrox expends HP by casting a spell, it gets added to his secondary bar, which is also named his Blood Well. 
+
+Mana-based champions expend Mana, a secondary bar, to cast spells. Mana can be increased by various items, runes, and masteries. Mana regeneration may also be increased. Mana-based champions have a base amount of total Mana and Mana regeneration, and they tend to gain more total Mana with levels. 
+
+Player Attack Move Click (default Shift+RMB): Like PMC, this will move you to the location under your cursor. However, as soon as an enemy (note: does not include neutral monsters, aggroed or not) comes within auto-attack range, your champion will begin attacking it. This results in a red targeting indicator (orange in colour-blind mode). 
+
+Note that in Premade, the pick order is still determined by individual Premade MMR and not the MMR of the team. 
+
+So yes, assuming both shields are entirely depleted, a shield on a 200 armor Malphite will last longer than a shield on a 90 armour ADC. 
+
+Flat Magic Penetration vs. Percentage Magic Penetration It's also important to note the difference between Flat Magic Penetration and Percentage Magic Penetration (as well as Flat Magic Resist Reduction and Percentage Magic Resist Reduction). 
+
+This has a downside though: whenever you get messaged, the AIR client will flash on the toolbar, which can be distracting. (Obviously, this does not apply in fullscreen.) In addition, you'll hear the new message sound. You can mitigate the former by minimising the AIR client to tray if you don't need it through a utility such as PowerMenu. 
+
+The role of a roamer is to enable the other lanes to get kills either through a combination of CC and the carry's damage, or by having enough burst/surprise damage to effect a kill. The basic idea is that, in combination with the jungler, there are so many ganks going down that the other team is going to fall behind in their lanes. Thanks to the experience advantage, merely damaging a lane or forcing them to blue-pill can generate an advantage. 
+
+The downside is that you need to roam with someone who fits the role, which is not a lot of champions. Low-risk roamers are those who don't need a lot of levels or gold (since you won't have much of either) to still be effective. Alistar and Taric are good examples of this, though Alistar is by far more common in the roaming role. High-risk roamers are champions who do need the gold (but not necessarily the experience) and are usually assassin-style character. Twitch is a good example. Talon can also work, but his lane power is so strong I can't recommend doing it. 
+
+Having a roamer and a jungler allows you to effectively have three solo lanes, which gives your carries faster experience gain. But that's really just a side-effect of the roaming strategy. The roaming strategy is mostly defined by having a non-jungling champion with no "home" lane. That distinguishes it from simple ganking. 
+
+Sometimes you'll need to roam even when you haven't specifically selected for it. This is usually because you've either destroyed your opponent's turret or because your lane is truly hopeless. However, before choosing to roam, make sure you read everything above... an ineffective roamer is just an exp leech and is rarely a threat in the other lanes. 
+
+Finally, there's the situation where you have a champion who can leave their lane unguarded. This is usually because they can either push the lane toward the opponent's turret, and thus have some time to roam, or because the opponent isn't capable of pushing very hard (or both). Nunu is fairly effective here because of the speed boost from blood boil: He can make it another lane quickly and has decent CC. However, it's rare that Nunu will spend the inordinate amount of time outside lane to be truly considered "roaming." 
+
+League of Legends has four commands relevant to attack: Player Move Click, Player Attack Move Click, Player Attack Only Click, and Player Attack Move. All four bindings can be found in Hotkeys → Additional Hotkeys → Player Movement and can be rebound as you like. Note that although the commands ending in Click are bound to mouse buttons by default, they may be rebound to keys without change in functionality. 
+
+It should still be noted that Abyssal Scepter requires that you be very close to the enemy to apply its effect. This can be much riskier for you if you're not built as a tanky AP or if you don't have Zhonya's Hourglass; for this reason, buying Void Staff is usually preferable for AP mids, while Abyssal Scepter is usually preferred on AP junglers and AP tops. 
+
+As of Season 3, the order in which penetration is applied is as follows: 
+
+If his Blood Well is active (i.e. not on cooldown; it will be red) and he "dies", he will heal based on how much he has stored in his Blood Well. This isn't temporary health though; it's a heal. I am not sure if this is affected by ignite; that probably should be tested. I also am not sure if it will drop buffs and debuffs, though if it's like Anivia's passive, it will only drop buffs. 
+
+Note that in Premade, the pick order is still determined by individual Premade MMR and not the MMR of the team. 
+
+Therefore, from a pure damage standpoint, Muramana is slightly superior, though as hammythepig mentioned, Seraph's Embrace has an extremely attractive defensive component. 
+
+Flat Magic Penetration vs. Percentage Magic Penetration It's also important to note the difference between Flat Magic Penetration and Percentage Magic Penetration (as well as Flat Magic Resist Reduction and Percentage Magic Resist Reduction). 
+
+So yes, assuming both shields are entirely depleted, a shield on a 200 armor Malphite will last longer than a shield on a 90 armour ADC.

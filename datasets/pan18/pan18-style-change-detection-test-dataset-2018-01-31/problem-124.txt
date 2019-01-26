@@ -1,0 +1,47 @@
+If your bike had the middle stays, like a mixte frame then this would be ideal. Using the existing caliper too. As per @robokaren idea, this might work down at the chainstays, given enough washers. 
+
+Web site says "To use our Travel Agent as a friction reducing roller simply route the cable on the outer edge of the wheel and it is smooth sailing for your brakes around tight bends" 
+
+Short answer - no, not easily. 
+
+I am researching for a new road bike for myself, trying to identify the must-haves from the nice-to-have features. 
+
+He's activating the brake by pedalling backwards. So don't do that. Instead encourage him to push off with pedals level instead of optimal angle. That will discourage the rear brake from kicking in. 
+
+My question is: Are there any compelling downsides to running a sintered brake pad and a resin brake pad inside the same caliper/calliper? 
+
+So I surmise (And some of this may be wrong) 
+
+Not ideal, but here's a lady's frame used with cantilever brakes and a pulley hanging off the seat clamp, to give some ideas. This would not really fix your problems because the cable still faces upwards. 
+
+Worth doing? Only as a learning experience - don't expect it to turn out as good as a modern bike. 
+
+I suggest you price up a new fork, wheel, caliper (both cable and hydraulic) rotor and see what the total parts cost is for both sorts. Then go try some new bikes in a real shop, and calculate the difference in price. You can even subtract whatever you'd get for selling the old bike, or revel in becoming a cyclist whose N value is now 2. 
+
+There are solutions that add mount points, but they're pretty bad idea and have never taken off. Plus an adapter would probably cost more than a used bike with disks. 
+
+Just remember rule 12 (http://www.velominati.com/the-rules/#12) 
+
+If you can get the parts for nothing, then by all means its a good project. However it'll never be modern - instead its mutton dressed as lamb. 
+
+Based on these images from http://surestop.bike/ 
+
+The inner brake cable could simply be super long and run all the way through the entire system and be terminated at the front brake, but that's too simple. I suspect there's some secret sauce in the rear brake that moderates the cable tension to the front brake, but their website photos don't show that area of the bike. 
+
+To answer the question - consider using a dual pivot caliper with a travel agent like this, to get the cable around 90 degrees of the bend. I couldn't find one with "more turn" 
+
+Method: Unwind the bar tape carefully, reposition the brakes, then do up the bar tape again. You'll probably put one, maybe two turns of bar tape below the brake hoods that were above the hoods when you started. 
+
+Do you have any emotional attachment to the old canoodle ? Modifying it can be a bad idea and spoil your connection with the old bike. 
+
+If you weld, hopefully its a rigid fork because welding anything onto a suspension fork is incredibly hard, plus the risk of damaging the suspension. 
+
+Finally consider running full housing down, up, and down into your dual pivot caliper. The friction will be higher, but if you use non-compressible housings with teflon then it will help. A couple of cable clamps to hold the outer in place could be useful too. 
+
+For the sake of consistency, I'd do the same thing on both sides of the wheel, but even if they were opposite I doubt you could notice a difference. 
+
+Here's what I did in testing - while the picture is rough and the angle is exaggerated, both ways of stacking the washers works fine. Theres a third way where both the grey concave washers press against the arm, and a fourth where the orange washers are both on the right side (ie a mirror of the left image here) 
+
+Can Mister Four ride a 2 wheeler or is he on training wheels? Has he had time on a balance bike? He might benefit from "scootering about" on a two wheeler with no pedals first. 
+
+Dual pivots tend to be more speed orientated, which means racing frames and cables that go in the top. A mixte or ladies frame is not speed focussed. So a bottom-entry dual pivot rear brake caliper would be a rare duck.

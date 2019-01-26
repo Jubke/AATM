@@ -1,0 +1,27 @@
+Both, Area 51 and stackexchange.com display the total number of users as one of the statistics available for each site. Area 51 additionally displays the number of avid users defined by meeting a certain threshold of reputation on the site. There is also a graph of new users in the moderator tools. 
+
+A failed migration like that is very confusing to the user asking the question in the first place, and also unnecessary work for the moderators of both sites, as they have to coordinate to clear the migration history and delete the migrated question. 
+
+Make the minor edit detection automatic, not a checkbox The determination which edits are minor should be entirely automated, avoiding the additional clutter of an extra checkbox on the edit page. I think it should be possible to define a few simple rules that determine whether an edit is minor. 
+
+Another reason I'm proposing this is that the exact way that sock puppets are dealt with has changed over time, and I suspect that many moderators are not aware of the current SE policy on that subject. Most moderators (except for SO and maybe trilogy mods) don't have to deal with sock puppets often. Making the sock puppet removal an explicit option removes the need to educate all users about the process and all the potential dangers and reduces the chance of mistakes. 
+
+The guidelines from SE used to be that we moderators should wait for 24 hours and not immediately delete the account. This is supposed to give the users some time to reconsider, as the request for deletion is often made during some heated dispute. And deletion is not reversible, SE developers can piece together most parts of a deleted account, but that is a manual and incomplete process. 
+
+However; rep opens up increasingly more tools. First convenience tools like comments and posting images then voting and then increasing levels of moderator tools. 
+
+(That's flags on the left in blue, and pending suggested edits on the right in orange-ish.) 
+
+Let me know if you see any issues. 
+
+When someone votes to close a question as a duplicate, they provide a link to the potential duplicate and the system auto-generated a "possible duplicate of ..." comment. 
+
+Users who can't yet vote to close can flag the question as a duplicate instead. They also provide the link to the possible duplicate, but there's no auto-generated comment in that case. I think there should be - it would allow others (especially those with enough rep to vote to close) to avoid having to hunt down the link. 
+
+This came up in the mod chat earlier today. Would it be possible to add RSS feed support for the /review page? 
+
+The fact that you think it's insulting users is part of the problem. It's not - it's insulting a user's post. If someone downvotes me, that doesn't mean they disrespect me - it means that on this particular occasion, they think I'm wrong. They may have just upvoted another of my answers elsewhere. 
+
+It's perfectly possible for wrong answers to get upvotes - downvotes are necessary to provide a counterbalance, IMO. Yes, I may have already written or upvoted the correct answer - but I still want to be able to say that a given answer is just plain wrong. It's even better now that you can click on the aggregate to get the separate upvotes/downvotes tally. 
+
+If you don't have a thick enough skin to either gracefully accept criticism when you're wrong or defend yourself when you're right, Stack Overflow is not the place for you. As Jeff has said many times, there are people for whom Stack Overflow is not appropriate (in terms of posting answers). People who want to be able to write dross and not be accountable for it fall into that category, IMO.

@@ -1,0 +1,27 @@
+This post has been locked due to the high amount of off-topic comments generated. For extended discussions, please use chat. 
+
+Side effect on intentional bumping As Adam Davis mentioned in a comment, using edits to bump your question in order to get some more attention for it is a common practice. This would obviously be affected significantly by this change. 
+
+Only undeleted answers should be counted for this, to prevent non-answers and spam from taking up spots. 
+
+I'd remove the ability to CW questions entirely, it is used pretty much exclusively for the reputation denial. To support the sites that still use CW this way I'd propose to add a differently named mechanism with the only purpose to remove any reputation gain from the question and its answers. This would avoid confusion for new users, and it would enable some useful corrections to the behavior like e.g. removing the reputation gain retroactively. 
+
+The automatic community wiki conversions are also a rather blunt instrument, and they often affect users that didn't do anything wrong. A user that substantially updates their posts over a long time frame will hit the auto-CW at some point, and not that many users know that they can flag for a moderator to remove it again. Also users that provide a good answer to a too popular question are likely to get hit by the auto-CW that triggers when too many answers are posted. 
+
+If the user base of a site is shrinking, it would be useful to see this problem as soon as possible to be able to take countermeasures. This is where a better statistic for the number of active users would be very handy. This would be especially important on beta sites, to better gauge the health of the site. 
+
+The automatic CW conversion after 10 edits is not a good solution to preventing excessive bumping, it's more an ugly hack that misuses a feature meant for something else entirely. If minor edits wouldn't bump a post and also wouldn't count against the CW threshold, it would drastically reduce the number of times the automatic conversion would kick in. It might even obsolete it as a mechanism against excessive bumping entirely. 
+
+Some sites appear far more often in the hot questions list than other sites. I don't have any hard data on that, as that kind of data is just not publicly available, but I'm pretty sure my subjective impression on that is reasonably accurate. 
+
+Those locking reasons shouldn't only be a text attached to the lock, but they should also change the behaviour of the locks: 
+
+I'm not convinced yet that the grace period should actually be removed, but if it is I would strongly suggest to have some exception for very minor edits. Else the revision history gets easily cluttered with very small edits. 
+
+Pubmed provides a webservice to query their database. 
+
+I'd like to make merges consensual in all cases, moderators should only merge users if the user themselves request it. This means that we need a different tool for dealing with obvious sock puppets. 
+
+This is also confusing for new users as they get the impression that reputation denial is the primary purpose of community wiki. 
+
+The big problem with disabling the automatic bumping of questions to the frontpage when they are edited is that this would mean that destructive editing would become far harder to detect. Any solution that involves disabling the automatic bumping would have to present a convincing alternative way of ensuring that bad habits can still be detected.

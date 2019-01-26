@@ -1,0 +1,67 @@
+There are several types of trees in Minecraft and every tree has different growing conditions. I recommend looking at this page on the wiki for information on the love and care needed for each tree. 
+
+There is no way to disable these effects in the settings. This is because these effects change game-play and it wouldn't be fair if some players had it turned off and some had it turned on. 
+
+You need to add space around the trees for them to grow. 
+
+Amount of Bookshelves This table shows the amount of bookshelves required to get higher level enchantments: 
+
+There are 3 easy steps you need to take to move Minecraft to your SSD. 
+
+This 'feature' is sometimes used to purposely lower the level of the enchantments, without having to break the bookshelves. 
+
+I ended up using a mine-cart to pick up my rabbit and transport him to his new home: 
+
+Source: Enchantment Table, Enchanting and Enchantment mechanics 
+
+Sheep will never naturally spawn in any other colour than listed above. 
+
+Calculation Time = Distance / Speed 
+
+I have not been able to test world borders in the end. 
+
+I finally closed off the cage where he sat quietly: 
+
+When you collect experience orbs your are rewarded with experience points. 
+
+The Killer Rabbit of Caerbannog still is currently still in his cage, and I can roam about the world without worry. The killer rabbit is also worry free, as Holy Hand Grenades cannot breach his cell. 
+
+According to the "Experience Orb" page on the wiki, you collected 12,000 experience points from killing the Ender Dragon: 
+
+You have switched on the "wobble" experimental shader by clicking the Super Secret Settings button. 
+
+Pink sheep can spawn naturally without dye, very rarely: 
+
+Notes We have calculated that it would take you approximately 35 days to walk to the far lands in Minecraft: Pocket Edition. But it is unlikely you would make it this far, according to the "Far Lands" page on the wiki, there a few things that will happen before you make it to the Far Lands: 
+
+As you probably know, hardcore mode is the same as hard mode but when you die your world is deleted. 
+
+Open the profile page on the Minecraft website and login. 
+
+I recently came across this screenshot on the Minecraft wiki: 
+
+To receive an enchantment level higher than 8, you will need to properly place bookshelves around the enchantment table: 
+
+Click Save Profile and your done! Minecraft will now be loading from your SSD. 
+
+Your world should return to its previous state, before you died. 
+
+The most simple way of doing this is by surrounding the enchanting table with a one block high border with a gap anywhere in the perimeter (15 bookshelves): 
+
+From reading the wiki I have gathered that: 
+
+Exactly how much faster is jumping while running (preferably in meters/second)? 
+
+More block updates theory Usually block updates are triggered by some player or mob action, but there is also another source of updates - the game schedules a special kind of update (different from normal update) for randomly chosen blocks each tick. Some blocks react to these random updates - for example crops can decide to grow on this random update. If they decide to grow, they then schedule regular updates to their adjacent blocks. Another example is water can choose to turn into ice if it is in a cold biome or high above the ground. 
+
+To fix that, write down the coordinates of the portal in the overworld (use F3 to get them) and divide them by 8. Enter the Nether, go to the calculated coordinates and create a portal from the Nether. You don't have to be exact, as long as you are within 16 blocks from the calculated coordinates (you need to match only x and z, y is irrelevant). Then the game should find the original overworld portal. Or: Move the overworld portal using the above logic. 
+
+Once a fire is created it behaves like a normal fire and can spread further according to fire spread rules. 
+
+Actually, you are mistaken. I have run 1 million enchantments for each level from 1 to 30 and counted the number of times I got each particular enchantment. Here are the results for diamond helmet: 
+
+But if you place any flammable block inside this structure, it will catch fire eventually. 
+
+However, sometimes the game will put the Nether portal far from the starting point, if it can't find other suitable place. Let's say it puts the Nether portal at x=80, y=60, z=110 (this is still in the +/-128 bounding box). When you enter that portal the game will search the corresponding space in the overworld: starting from x=640, z=880, it will search the +/-128 blocks - from x=512, z=752 to x=768, z=1008. As you may notice, the original overworld portal is well outside this box. So the game will create a new portal in the overworld. This is what is happening in your world. 
+
+For example, consider what happens if the player breaks the bottom of grown reed: the block is removed (replaced by air) and a reed item is created in its place. It then notifies all adjacent six blocks to update themselves. The middle reed 'realizes' it is not supported and deletes itself and creates a second reed item. The adjacent water 'realizes' it can flow in the free space where the bottom reed was and places flowing water there. Finally the top reed updates, scheduled by the second reed - it 'realizes' it is not supported and deletes itself and creates a third reed item. The rest of the adjacent blocks are air or ground, and they don't change, so they don't notify any more adjacent blocks to update themselves.

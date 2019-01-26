@@ -1,0 +1,33 @@
+The reality is, we all have key resources. Ideally, we would have none. Try to move in that direction. 
+
+The probabilistic distribution of any task is created by a plethora of random variables that can both favorably and unfavorably affect that task. Resource things make up some of those variables. These things include having less resources than planned, having a skill set gap you did not anticipate, and having a higher than normal attrition. Other things could also be favorable, like having an experienced team who are used to working together and have performed this task 20 times before. Most of these variables are considered stochastic where it is unwise and wasteful to try to chase and control. 
+
+EDIT: Re. "Text book PM scenario..." It may very well be. Projects and ongoing operations rarely grow their capabilities much above level two of a five-level maturity scale. This is because most organizations do not know how. The only recourse is to rely on the heroic efforts of a few key resources, and if one of them leave, it sends a ripple effect across the organization. So my advice might be ideal and rarely achieved...so try anyway. 
+
+Part of your PM responsibilities is to build project capabilities that have redundancies and no single point of failure. This means you have capabilities that are running smoothly, predictably, and, if something unplanned happens, you can remove and replace the capability component--human in this case--and keep going with nothing more than a blip on your performance. 
+
+You need to build an integrated master schedule. You need to pull in all your separate projects' schedules into one schedule and link them. You can link the work packages from different projects directly or you can create major and minor milestones within a sub project and link those, or a combination. 
+
+So, the target time you ended up choosing for this task, which falls somewhere on that distribution, already has built into it time to handle these unplanned things that will hit you from time to time. Where you fall in that distribution is a function of your risk appetite. Therefore, if you have some concern for this, move your target time to the right a bit. 
+
+This is an organic risk of projects, i.e., it is always there, it has always been there, and it will always be there. Trying to dissect this and calculate some type of contingency or buffer is a HUGE waste of your time. 
+
+Based on Mark's comments below, I do need to add as part of my answer here that building and maintaining an IMS is not for the faint of heart. It requires capability and resource commitment and you need to have someone who knows what they're doing run it for you. A large IMS can become very complex quickly and subject to error. When that error surfaces, you will lose stakeholder confidence in the tool and that is very hard to get back. Not only this, but even when correct, your team members will accuse it of being incorrect when it begins to exhibit bad news. This is a lot of work but necessary work. 
+
+How much effort or how long a task really takes is not deterministic (10 hours) but follows a probability distribution you have to account for. Think of your daily commute: does it take exactly the same amount of time each day? By taking into account the worst case, you can work out a margin, but you manage against the most likely (because Murphy does not always pays a visit and to prevent student's syndrome (take all the time allotted)). 
+
+Don't forget to add any material costs, licences, ... to complete your budget. 
+
+Don't use single point estimates, but a range (Most likely - Worst Case). 
+
+Next make your network of all work packages (this is the plan you are going to follow) and schedule the tasks and assign people or profiles to each of them, so you also know the cost estimate and the delivery time. 
+
+Next each work package needs to be estimated. Ashes has given some typical methods for getting a valid estimate. As estimating seems to be a problem, I would advise to develop each work package (or lowest level WBS element) into all the tasks required to complete the deliverable (= task definition). Each task is then separately estimated into ideal work hours or days. Meaning that if someone would work uninterrupted on this task it would take him x hours. Again, estimating is done by subject matter experts and/or the people who will perform them. 
+
+The reality is, we all have key resources. Ideally, we would have none. Try to move in that direction. 
+
+You need to build an integrated master schedule. You need to pull in all your separate projects' schedules into one schedule and link them. You can link the work packages from different projects directly or you can create major and minor milestones within a sub project and link those, or a combination. 
+
+This is an organic risk of projects, i.e., it is always there, it has always been there, and it will always be there. Trying to dissect this and calculate some type of contingency or buffer is a HUGE waste of your time. 
+
+The probabilistic distribution of any task is created by a plethora of random variables that can both favorably and unfavorably affect that task. Resource things make up some of those variables. These things include having less resources than planned, having a skill set gap you did not anticipate, and having a higher than normal attrition. Other things could also be favorable, like having an experienced team who are used to working together and have performed this task 20 times before. Most of these variables are considered stochastic where it is unwise and wasteful to try to chase and control.

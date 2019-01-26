@@ -1,0 +1,15 @@
+Here's how a proof could proceed. We have a meaning postulate, a convention that states that: 
+
+                                                                             §1 
+
+The truth of CH is a semantical matter and has no business in independence proofs. CH may be believed to be true by experts, for reasons I cannot hope to understand. Some might even believe that it has to be true, but whether CH is true or not, the important result here is that: if ZF is consistent, it is compatible both with CH and with its negation. 
+
+because while "¬(¬p ∧ ¬p′)" belongs to Lo, "(p + p′)" is not part of the object language, which is defined explicitly by (Definition 1) as the smallest set containing 'p' and closed under 'tallying', negation and conjunction. But '∨' is available as a symbol to us at the meta level, so following Teller's convention about using boldface letters for metavariables, we could express (2)* correctly as follows: 
+
+The point of corner quotes here was to replace the metalinguistic A with the expression "snow is white", which unlike A is also found in the object language. Once the replacement is done, the corner quotes are replaced with ordinary quotation marks, and from there the usual Tarskian definition does its magic. 
+
+Informally, this means that n-ary relation is a set of n-tuples of elements selected from a bunch of sets. A special type of relation used often in introductory logic courses is that of the predicate, which is simply a 1-ary or unary relation over the domain of individuals. In single-sorted logics such as classical first-order logic, the domain of individuals is some set D, so we have a simpler definition of relations: 
+
+2) ∃x(Dx ∧ ∀y(Dy → x=y)) There is a dog and every dog is identical to it. 
+
+First, there is Frege's concept horse problem. It has been a topic of much discussion and there is no one way of explaining exactly what the problem is. If I could summarize in a few sentences, I'd start by saying that Frege is committed to the idea that:

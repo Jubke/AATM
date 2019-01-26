@@ -1,0 +1,35 @@
+Set up a flip chart for each team and put a dotted line about 1/3 of the way up (so the top section is 2/3 of the chart). Explain definition of done (I also provide examples like "X% test coverage with all tests passing" and "merged to trunk") and ask them to brainstorm what they want on their DoD with sticky notes. The top section is for the things that they can do for each backlog item every sprint. The items in this section will be the team's Definition of Done. 
+
+Multiple Projects: I've seen teams add stories done for work outside of the project into their burnup, but leave the scope line the same. For obvious reasons, it messes up your chart. Either increase your scope line when you add extra stuff in or don't include it in your burn-up line. 
+
+Obviously being able to give the PO and stakeholders some idea of how the overall project is awesome, but there are some other things it's great for too. 
+
+You may have a difficult conversation to have with the stakeholder. To be perfectly blunt, work with no pressure or stress is called a hobby. I don't recommend you lead with that. What might help is this: 
+
+That is not to say that nothing like this can work. I worked in one department where the teams nominated an MVP each month and in the course of the month, there was usually someone who stood out as having really pulled more than their weight. 
+
+It's also important to remember how much Agile stresses sustainable pace. People working nights and weekends has a massive cost to it that is often hidden. You don't want to accidentally encourage cowboy heroics for a monthly reward by sacrificing the long-term health of your teams. 
+
+Prioritization: Let's say something is lower on the backlog and I don't need it done right now, but I need it done before New Years. I can use these lines to know how far up the backlog it needs to be in order to be certain it's done in time without having to throw it to the front. 
+
+Who am I measuring? Scrum encourages teams to succeed or fail together and often times calls for multiple people to swarm on work. How do you measure this work separately? Will you be separating work that should be together just to gain a measurement? 
+
+We can also plot lines assuming every future sprint is as good as our best sprint and one assuming every future sprint is as bad as our worst sprint. This gives us a window of when I'll reach an expected scope. I am very unlikely to be done by my optimistic date and very unlikely not to be done by my pessimistic date. 
+
+Finally, if you have multiple teams, have them walk around and look at the other teams' DoDs to see if they came up with something that they like and want to use. 
+
+Agile (and it sounds like Scrum would be particularly helpful) focuses on getting work complete through small increments. You start with a foundation idea and build on it. Each piece is complete and shippable. Because each part is completely done and ready to go, you have absolute freedom about what piece you want to do next. This lets you make significant changes in direction down to the very last moment before the deadline. That approach he dismissed is what will give him the freedom he wants. 
+
+Some Things That Throw Them Off 
+
+Poor Definition of Done: If you don't have a strong Definition of Done, you don't know if you're really done or if you're piling up technical debt. If you leave a lot of testing, release, or other work until the end of the project, your forecasts will be meaningless. 
+
+There isn't anything inherently wrong with the idea, but there are some places that you may find problematic. This isn't really a scrum problem, but Scrum can exacerbate the problems. 
+
+Yes/No/Maybe Scope questions: It's easy to plat a particular amount of work or particular feature on this chart and say that it will, will not, or might be done by a certain time. 
+
+For those not familiar, when we use a burn-up chart to track work toward some scope marker, like a release, on a project, we can take the average velocity and plot a line forecasting when the total amount of work complete will meet expected scope (when it'll be done). 
+
+Optimistic / Pessimistic line shows behaviors (you might say this is just team/project smell): Different trends may mean different things. A large cone of uncertainly (difference between Opt and Pes lines) with the average near the middle suggests that the team has a fairly even number of highs and lows and probably carries a lot of work between sprints. If there's a large cone of uncertainty with the average closer to the Opt line, something is occasionally sabotaging or crashing sprints. Maybe business is changing it's mind mid-sprint or they're being plagued with environment problems. If the reverse is true (average is near Pes line) then the team is occasionally having amazing sprints. The team is probably capable of a lot more, but something slows them down most sprints. You should target those opportunities. 
+
+How you implement agile is a much broader issue than we can'y really handle here, but if you get your stakeholder on board with it being the avenue for the freedom he's looking for while still meeting deadlines, that's probably a fantastic first step.

@@ -1,0 +1,25 @@
+Does anybody know how Ingress themed the map on Android? Is this a feature only available to Google, or can we use it in our apps through the standard maps library? 
+
+Also, you will need to enable Mock Locations from Settings -> Applications -> Development (Nexus S, may vary on other devices). 
+
+EDIT: As per duffymo's suggestion, I check the class path for the existence of this class by adding the following to my splash screen: Does anybody have any idea as to why this would happen? The class is exists as surely as I exist, but Android disagrees. I've been working on a game for a few months now, and have suddenly encountered a problem. You need three things in order to make sure this update goes smoothly: My paints are setup as follows in a {} block so that all constructors use it: As of Build tools 19, Java 7 is now supported. 
+
+AFAIK, you cannot protect the files in the /res directory anymore than they are protected right now. 
+
+You can only fight back, but never win. 
+
+Other classes like the splash screen and loading screen, which are launched before BlueBoy work fine. Android can find them. 
+
+I recently managed to get an Ingress invite, and love the way the maps are themed in that. I'm trying to draw an arc to overlay on top of some part of an existing circle. Both of my circles draw perfectly fine, but neither my drawArc() call or my drawRect() call seem to do anything. The app does not crash, there is no exception. It just fails silently. 
+
+You can check the screen density with: Try adding this to the layout attributes for the parent LinearLayout: The main thread (a.k.a. UI thread) in an Android application is set up as a handler thread before your application instance is created. 
+
+I'm occasionally getting a very strange exception: With resources, there's built-in support for providing alternatives for different languages, OS versions, screen orientations, etc., as described here. None of that is available with assets. Also, many parts of the API support the use of resource identifiers. Finally, the names of the resources are turned into constant field names that are checked at compile time, so there's less of an opportunity for mismatches between the code and the resources themselves. None of that applies to assets. 
+
+If the user deletes the word "a", the result will be: As discussed in the Android tutorial Keep the Screen On, you can do this in a few ways. You can set the FLAG_KEEP_SCREEN_ON on the activity's window: You are using the same notification ID (the value is always 1) for all your notifications. You probably should separate out the notification ID into a separate singleton class: Most of the Android UI framework likes to work with Drawable objects, not Bitmap objects. A View can accept any Drawable as a background. An ImageView can display a foreground Drawable. Images stored as resources are loaded as Drawable objects. Is this standard behavior or a bug? If it's standard, is there any documentation about which extensions are stripped and which are preserved? 
+
+In at least one report, the user added a message indicating that the crash only happens when returning to the app after it had been paused for a significant amount of time. I should mention that we have not (yet) been able to reproduce this problem on our own test devices. P.S. It might be sufficient to simply delay the scrolling until after the current iteration of the UI loop. I have not tested this theory, but if it's right, it would be sufficient to do the following: 
+
+Aside from the class docs, there's a nice discussion of all of this here. Is there any better way to deal with this? We are receiving crash reports like the following: 
+
+Thanks, Raykud, for the pointer! I think there's a timing issue. Layout isn't done when a view is added. It is requested and done a short time later. When you call fullScroll immediately after adding the view, the width of the linearlayout hasn't had a chance to expand.

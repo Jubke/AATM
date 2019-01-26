@@ -1,0 +1,41 @@
+If this is possible how would I define this folder? 
+
+If there is no good reason to download the image yourself then I would recommend to use Picasso. 
+
+I want only the ad based version to depend on the admob SDK. 
+
+the splash image has its own version in the first three of them and is displayed properly. Removing the src property from the ImageView removes the image but not the exception. 
+
+You can do this through an Intent. 
+
+My build file looks like this: 
+
+If you are using the terminal to create a keystore and you have Java SDK installed there should be a program called keytool in /usr/bin (on a unix based system). On Windows the SDK should also come with the keytool but the install location may be different search for keytool.exe on your computer if keytool is not in your path already. With this tool you should be able to create a key in the following way: 
+
+I wrote if you Image is not that big because this will result in the task having a implicit pointer to the underlying activity causing the garbage collector to hold the whole activity in memory until the task is finished. If the user moves to another screen of your app while the bitmap is downloading the memory can't be freed and it may make your app and the whole system slower. 
+
+I want to write some debugging output to the log to review it with logcat. 
+
+If I write something to System.out this is already displayed in logcat. 
+
+How can I change the color of the progressbar? A darker grey would be great. 
+
+If the image is not that big you can just use an anonymous class for the async task. This would like this: 
+
+What is the clean way to write to the log and add levels and tags to my output? 
+
+With this approach you don't need to override a View or use a Canvas yourself just simple and clean add the line in xml. 
+
+I used a WebView and loaded the image from the memory via 
+
+/res/drawable-hdpi /res/drawable-ldpi /res/drawable-mdpi /res/drawable-nodpi 
+
+Picasso saves you all the problems with downloading, setting and caching images. The whole code needed for a simple example is: 
+
+As explained by the programmers that did the listView in this video from GoogleIo never put a ListView inside a scroll View. If your list should not scroll use a ViewGroup like a linear Layout and add all the items to this ViewGroup in a loop in your code. If you want a whole row to be clickable you have to use another ViewGroup as the root node for each row and add the OnClickListener to this View. 
+
+I am converting one of my apps to Gradle and would like to use the new build flavor features to have a paid and a free ad based flavor. 
+
+If you have problems with the drawing of the line on small screens consider to change the height of the line to px. The problem is that on a ldpi screen the line will be 0.75 pixel high. Sometimes this may result in a rounding that makes the line vanish. If this is a problem for your layout define the width of the line a ressource file and create a separate ressource file for small screens that sets the value to 1px instead of 1dp. 
+
+I'm a little bit lost with where to look for the cause of the exception. I even don't know if this is really an issue in this layout file etc.

@@ -1,0 +1,41 @@
+When a blog article appears in the 'community bulletin', there is no way to know which section the article is posted under. And when you click through to read the blog post, the blog UI doesn't tell you which section it is posted under either. 
+
+That doesn't guarantee that all sites will work — you can never really take 100% of that sting out of losing an experiment that just didn't work out — but when you know up front, "If you can do {this} by {x} date, you move on", communities are remarkably resilient and understanding when the "agreement" is known up front. 
+
+There are two groups of people who vote on these things; the inclusionists (keep them open) and the exclusionists (close them). See the problem? Right now, if a question is open, you can only vote to close. If it's closed, you can only vote to reopen. 
+
+Why highlight a user's own comments? 
+
+It would be nice if I could go through and highlight my best posts specifically to be linked with my resume profile (sort of a best-of). This link would be available for employers to peruse my most relevant posts without having to wade through a bunch of irrelevant fluff. It might also show tags I've participated in, average number of up-votes, and other information that might make me look good. 
+
+This restriction will make that clear. 
+
+I had considered something similar, but it might better be implemented by asking the user what their role/interest is in the site rather than asking "Are you an expert?" 
+
+Besides, you don't want all the questions and comments from that old proposal. If the original proposal received absolutely NO activity — not one question, not one vote, not one comment — for an entire month, you don't want to start pulling anything from that old proposal. I'd rather clean them out to let someone else propose them with a completely fresh start. 
+
+Both the blog post and the announcement should show which section the article is posted under. 
+
+Careers.Stackoverflow.com has one benefit for me. If an employer happens to find my resume, they can then browse through my SO answers to see how I work and how I think. I work very hard on my Stack Overflow answers and I would like employers to see what I can do. 
+
+Implementing any sort of "don't bump" functionality would also delay accountability and transparency for those edits. 
+
+The Stack Overflow blog is broken up into five sections; each serves a different purpose. I may be interested in posts about what the 'Company' is working on (for example) but may have no interest in their 'Engineering'. Even when I'm reading an article, I don't have that context of what the post is about. 
+
+Right now, each question in the 'Active' tab is followed by the text "Modified [n] minutes ago by [author]". 
+
+It sounds so easy: "Just keep it open." The problem is people have a bias one way or the other and these "let's leave it open/let's leave it closed" solutions always expose that bias... not the actual voting. 
+
+Notifying users of edits in the system allows them to take a look at the content and make sure there isn't something fishy going on. Imagine if people could make changes to the system without anybody noticing. That is very exploitable. 
+
+Comments are designed to be second class. 
+
+Comments are supposed to be a bit Twitter-like; a light-weight way to add a few hundred characters as an annotation to the answer. Comments provide just enough functionality to point out issues or add any sort of mini "meta discussion" you want to have about the answer. 
+
+A set of completely objective criteria would all but remove the Community Team from that adversarial role of judge and executioner. There would likely have to remain a thin editorial layer to account for process-gaming and other crazy sh—, but challenging communities to work towards very specific goals puts us back in that role of counselor and community advocate. 
+
+I'm pretty sure I have been on both StackOverflow and ServerFault for more than 30 days in a row. 
+
+Proposals should be recreated with renewed energy and, hopefully, better resources to bring them to commitment. You don't want a bunch of naysayers pointing to an ill-conceived first attempt as a reason not to try again. 
+
+Each answer is supposed to stand on its own and voted on by the community. It's not supposed to become a long diatribe to add alternative code or different points of view by a bunch of users. That type of protracted discussion is avoided, by design.

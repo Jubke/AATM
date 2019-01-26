@@ -1,0 +1,33 @@
+In general, if there is a side pot (as in this hand, where there would be 500 from each of A and B on the side for a total of 1000), the last player remaining in the hand who is eligible for that side pot will win the side pot. So, if A and B remain in the hand (with C already all-in) and A bets and B folds, A will immediately win the side pot. If B mucks his hand for whatever reason, the side pot would be awarded to A, given that A now has the only live hand that's eligible for the side pot. The hand will then play out between A and C and the best hand between A and C will win the main pot. 
+
+Either way, the side pot should belong to player 1. 
+
+This incident really underscores the importance of announcing your raises either by saying "raise" or declaring a number of chips that you wish to bet as you place your chips. This lowers your exposure to both angle-shooters and the overzealous busybodies that think they know the rules! 
+
+When the short stack shoves all-in from the button, here are the possible outcomes (I'm assuming approximately equal SB and BB stacks, that they both cover the short stack by a reasonable margin, and that any reraise from SB or BB will be an all-in raise here. I'm also assuming a really low stack-to-pot ratio, since that's how these small tourneys work at the end.): 
+
+Furthermore, the last sentence really seals it: 
+
+The intent of the BB here is obviously to signal to the SB that he is no threat in the hand. That's a big deal. This is a tournament right at the cash bubble, and this all-in from the short stack is a pivotal point in the game. Communicating like this at this time in the game is 100% collusion, and that should result in some kind of penalty from the hosts. 
+
+The rule hound at your table would have a point if your player pushed in two hypothetical $750 chips without declaring a raise. In this case, the removal of any single chip would cause the amount to fall below the calling limit, and the case would be identical in spirit to the example at the end of rule 43. 
+
+Player 3 should never, ever be awarded the side pot, since he didn't have enough money in the pot to earn that from the other players. He was all in for less than the others had, so he should never be able to win more than his pre-hand stack from any other single player. 
+
+Also, to remark on your question title... there is always an eligible winner, and that winner is either the side pot participant who has the best hand at showdown, or it's the player who held the last live side pot-eligible hand. 
+
+My point is that this is not just some random jerk talking about his hand during the hand. This is a player trying to put the short stack at an unfair disadvantage by giving extremely valuable and inappropriate information to another player. 
+
+No matter the subsequent actions of player 1, as soon as player 2 folds, player 1 should be awarded the side pot, even if his cards are never seen by anyone. 
+
+If the player calls the 200 and has no remaining chips in his stack, then he is indeed "all in." Assuming no other player is already all in on this hand, 200 chips from all callers on this street will be placed in the main pot and that main pot. Side pots will be created when any additional bets or raises are made. The all in player will not be eligible for any of the side pots. 
+
+I can't find details about specific penalties that have been applied for collusion, and you don't really provide enough info that might point out mitigating circumstances (for example, if the SB had a huge stack and the BB just barely covered the all-in, he doesn't really pose the same existential threat to the SB as he otherwise might), so it's hard to tell how severe the penalty should be. The WSOP rules on collusion (#39-A and E, and #102) include topics like this, though they leave the penalties to the discretion of the tournament director. 
+
+If this was a tournament, the dealer should have, upon player 2's fold, told the remaining two players to show their hands during the all-in. If the cards are shown, the cards speak for themselves. In a cash game, I guess it's a little more gray area as to whether player 1 actually folded his hand. 
+
+If you want to post a new question here for each more specific concern you have, that might work out best, and you'll probably be able to get some good helpful explanations. 
+
+This behavior from the big blind is illegal collusion and deserving of a penalty. 
+
+Both SB and BB fold, and short stack gets the blinds, about a 50% increase to the all-in's stack here. Potentially also a reasonable hit to the SB and BB stacks. SB folds and BB calls. SB calls and BB folds. SB calls and BB and goes all-in. SB is faced with a stack decision and possible elimination. SB goes all in. BB is faced with a stack decision and possible elimination. SB is next to act, so he's faced with a decision. He has two threats: the all-in short stack and the BB to his left. Even if he thinks he will fare well against the short stack, he must still fear the potential of a shove from the BB to his left. This is potentially a huge threat and may tip the scales toward outcome 1 or 2, and might also reduce the likelihood of outcome 5. Before the BB's comment, the lack of information protects the short stack somewhat. In fact, good short stacked tournament players will often rely on this very effect to enable more effective short stack play.

@@ -1,0 +1,37 @@
+As far as the smell of roses, Kant did, in fact, refer to the conditions of sensibility as a priori as you said: 
+
+"Now all intuition possible to us is sensuous; consequently, our thought of an object [Gegenstände] by means of a pure conception of the understanding, can become cognition for us only in so far as this conception is applied to objects [Gegenstände] of the senses." (Critique of Pure Reason, B146) 
+
+Since judgement is a spontaneous act of the understanding, error arises in the misapplication or lack of application of judgement. Kant addresses the subject of error as follows: 
+
+The second part of his argument is based on the idea that this type of determination is irreflexive. That is to say that this determination is different from that which is determined. If our existence is determined by something permanent, and this type of determination is a irreflexive, it follows that that which determines our existence as being in time must be external to us. 
+
+The first part of his argument is based on the idea that our perception in the time is only possible in relationship to something permanent and external to us. This idea is more fully elaborated in the First Analogy of Experience: 
+
+The following might be helpful. It was made in response to the comment of James which you cited: 
+
+"That is to say, the categories serve only to render empirical cognition possible. But this is what we call experience. Consequently, in cognition, their application to objects of experience [Gegenstände] is the only legitimate use of the categories." (Critique of Pure Reason, B146) 
+
+"Kant held to [the soul] while denying its fruitfulness as a premise for deducing consequences verifiable here below." (The Principles of Psychology, p. 211) 
+
+In response to your questions: 
+
+When Kant is speaking of objects as they are independent of our senses, he often distinguishes them by speaking of them as things in themselves rather than as objects. He makes it clear that the application of the categories to things in themselves is inadmissible. He refers to such applications as transcendental as opposed to the legitimate empirical application to objects of experience: 
+
+The idea that the predicate of an analytic judgement is thought to be contained within the concept is somewhat confusing unless it is understood in the context of the following: 
+
+However, the following reference to the intuition of objects seems to be an exception: 
+
+is not due to Kant, but presumably to Warburton or some other interpreter. It alludes to the a priori knowledge of our human mind as identified in Kant, Immanuel: Critique of Pure Reason (CpR): 
+
+The concept of mind-space seems a risky term in this connection. Better calling the domain of experience mind-space. Because it is result of our constructive experience. The outer world of the thing-in-itself is sometimes named reality. But one has always to check how the author in question defines his terms. 
+
+Hence both concepts live on different levels. But one can use the veil of ignorance when a group votes, whether a certain action adheres to the Categoric Imperative. 
+
+The results of vision and thinking in each of the 4 sections are classified as 
+
+In the field of mathematics you are free to create arbitrary ideas as long as they are free from inconsistencies. Mathematical concepts do not necessarily relate to the real world. The empty set is a clever concept from set theory. E.g., it is useful to define the intersection of two sets even when they are disjunct. Moreover the empty set is the basis of von Neumann's construction of natural numbers. Different from the things-in-themselves there exists only one empty set. 
+
+Those familiar with the architectonic nature of Immanuel Kant's philosophy argue about the difference between the three critiques (Critique of Pure Reason; Critique of Practical Reason; and the Critique of Judgment) and his popular writings and lectures completed after 1790. While Calvin O. Schrag suggests that Kant's transcendental or critical philosophy is not complete without Religion within the Bounds of Reason Alone, neo-Kantians like Ernst Cassirer contend that Kant should have written a fourth critique providing a phenomenology of culture. Cassirer associates his paramount Philosophy of Symbolic Forms as fulfilling this role. Is Kant's critical philosophy fully articulated with the third critique where his later works are just regurgitation or should we infer a deepening of his thought by incorporating a philosophy of religion or culture? How are we to judge and situate the character of Kant's architectonic, which seems to be systematic but not prone to the confines of system-building? 
+
+Understanding presupposes judgments or subsumption. The analysis of determinative judgment (particulars under generals) in the first critique presupposes the other cognitive powers (reason, imagination, judgment) treated in the second and third critiques under the domain of action and the purposiveness of reflective judgments (particulars in search of universals). Kant asks how we could even be aware of intuitions and synthesizing of the sensible manifold without reflective distance. Further, aesthetic judgments of taste (feelings) are pre-cognitive and non-cognitive. Kant addresses this in sections 39 and 40 of the third through the notion of sensus communis and universal communicability. So although the cognitive powers conform to the lawfulness of the understanding, they each have an independent legislative function. But more importantly, it seems that computers and other technologies can perform the mental operations laid out in the treatment of the understanding in the first critique. I have understood the transcendental philosophy accounting for the fuller human context when he gives shades of a philosophy of culture in section 83 of the third critique and the anthropology. So I am more inclined to accept that the critical philosophy does not arbitrarily favor or subordinate any of the cognitive powers, but they are posited as equiprimordial.

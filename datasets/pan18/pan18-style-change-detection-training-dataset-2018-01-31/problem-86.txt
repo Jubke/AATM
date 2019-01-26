@@ -1,0 +1,29 @@
+So, my opinion (altho I may be considered biased!) is that Kanban should be a great solution for you. 
+
+To your question about defining workflow stages as columns on the Kanban board or as labels on each work item, having the Kanban board allows you to visualize your workflow like no other tool. It then provides you a powerful information radiator of where (what stage of the development cycle) your overall body of work is, where there may be overloading, etc. So, if you use Kanban, the columns as workflow stages is the best option. 
+
+How many projects do you typically have active at any point of time? How long do customer projects run, on average? Do people work on multiple projects at a time (I believe the answer to this last question is yes.) Would you let your customers see the Kanban boards, if you were to set up Kanban boards? But, in any case, based on what you have said, let me respond. Two main things you have said you are trying to solve make Kanban a really good choice - 
+
+Additionally, you should think about using 'blockers' on cards your team is currently working on to show that some card(s) got blocked when the people working on those cards got diverted to working on the Expedited card. This can provide some great analysis on your team's interrupt driven work and its impact on regular work. 
+
+The process typically favored is the second option, since it has the following advantages - 
+
+The second one is, where the User Story is 'blocked' wherever the issue or bug was reported and a new issue or a bug is created as card and taken up for work at the earliest stage it needs to be taken up in (including perhaps in a completely separate swim-lane with its own workflow for fixing such issues or bugs. In the picture below, cards with the red square represent blocked user stories - which are then linked to their associated defects. 
+
+When Nothing Else Works When necessary, you can also gently remind stakeholders of the following unpleasant (but unavoidable) reality: 
+
+Fixed, cross-functional teams that work on different projects, but only one at a time. Product-based teams, where the teams are formed around each product. Note that each product will have its own separate Product Backlog, and each team will work from exactly one Product Backlog. Feature-based teams, where teams are formed around features (rather than projects), who may either share a single Product Backlog or have one backlog per feature team. How you delineate projects, products, and features can complicate this, but the distinction between a single product with many features and multiple products should be your guiding principle. A great deal depends on correctly conceptualizing the project, and not being afraid to split off related projects when they no longer fit within the bounds of a single product or team. 
+
+TL;DR The Scrum Guide was designed to be a structured, portable framework that could be lightly customized for each implementation. The Kanban Method is closer to a set of principles, and doesn't even mandate a set of common artifacts—not even the uniquitious board and cards that many people consider synonymous with Kanban! 
+
+You Must Address Resource Constraints. In all cases, you can't really do what you seem to be trying to do, which is spread the peanut butter ever thinner without adjusting your resource constraints. Specifically: 
+
+Three Simple Rules for Preserving Your Sanity Rule 1: The client doesn't get to dictate your internal processes. This should be made clear by the client/vendor relationship, your contract, and the collaboration process you hammer out jointly. 
+
+The Kanban Method The closest you're likely to get to a succinct guide is "The Principles of the Kanban Method", although it's more akin to the Agile Manifesto than the Scrum Guide in terms of its level of detail. 
+
+Refactoring - why and when "Refactoring is risky. It requires changes to working code that can introduce subtle bugs. Refactoring, if not done properly, can set you back days, even weeks. And refactoring becomes riskier when practiced informally or ad hoc." - from a Foreword by Erich Gamma to Refactoring: Improving the Design of Existing Code by Martin Fowler et al. 
+
+How do you determine which product to push and which one not? In general, you will push those products that give you the most contribution margin. If you do that though, you may be up against some bottlenecks also known as "constraints" in accounting jargon! For example, in a job shop that I worked for earlier, our vertical boring machine was the constraint. It was the most expensive, required the most skill and could also be the most profitable. So, you want to maximise the contribution margin from such a constrained resource. You have to figure out which is the constrained resource in your shop. Once you do, here is a good article that shows you how to model that. 
+
+Arms length contracts fail: I am not saying that you don't estimate/plan at all. I am saying that you cannot do arms length contracts on the lines of: "You give me the scope, I will give you a firm estimate. You approve it. I go away and build the software and come back to deliver it when ready." That model is known to fail big time for software.

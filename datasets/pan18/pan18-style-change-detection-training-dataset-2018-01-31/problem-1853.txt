@@ -1,0 +1,49 @@
+Boethius, following Aristotle, said the "Speculative sciences may be divided into three kinds: physics, mathematics, and metaphysics.": 
+
+Mach was a positivist, so in a way it is strange that right before what I quoted, he mentioned Lagrange's "concise disposal of the problem" being "only possible to the practised mathematical perception." Yet, Lagrange's argument seems no different from Archimedes's. 
+
+Physics [i.e., natural philosophy] deals with that which is in motion and material. [ens mobile or "mobile/changeable being"] Mathematics deals with that which is material and not in motion. [∵ mathematical objects, "mathematicals," do not move or change] Metaphysics* deals with that which is not in motion nor material. *in the Aristotelian sense: the study of "being qua being;" more properly called "metascience," it is what today is called the "philosophy of science" because metascience/metaphysics studies being in general, whereas the particular sciences study specific beings (e.g., biology studies living beings, etc.). Ancient & Modern Classifications Compared Modern, mathematical physics is a "mixed science" or "intermediate science" (scientia media), taking its material principles from physics (natural philosophy) and its formal principles from mathematics. The science in Aristotle's time that did this was astronomy; thus, 
+
+This discussion of hylemorphism and modern science might help. 
+
+Those who uphold it must, to avoid contradiction, hold fallibalism as dogma. 
+
+In the same spirit, see C. De Koninck, "The Unity and Diversity of Natural Science," in The Philosophy of Physics, ed. V. E. Smith, pp. 5-24; W. A. Wallace, "St. Thomas's Conception of Natural Philosophy and its Method," in Studi Tomistici. La philosophie de la nature de saint Thomas d'Aquin, ed. L. Elders, pp. 7-27; idem, Causality and Scientific Explanation [cf. idem, Review of Metaphysics 27:3 (March 1974)]. 
+
+Hence, the only time which is not illusory, and which he regards as real, is the heterogeneous time, or succession, which accompanies the development of our conscious states. Such development is purely qualitative, and its parts can only be qualitatively, never quantitatively, distinguished, so that they are absolutely heterogeneous; for it is clear that all our psychic acts are unextended — it is impossible to have a yard of thought — and so if distinct their distinction can be qualitative only. 
+
+As a side note, if you want to give them a non-scientific, intuitive argument, try this one. There's an every increasing number of people in the world, using up an increasing amount of resources and energy. It's irrational to think that can continue indefinitely without creating some kind of environmental disaster of some kind --not necessarily climate change, but something. 
+
+If that evidence was less than sure, it would reduce the probability of your theory being true by the same amount as your theory was committed to E. 
+
+There are two claims here: 1 - Intelligence is what makes human life valuable. 2 - The potential for intelligence is as decisive as the actuality of intelligence. 
+
+Historically, immortality has been a major topic of interest for philosophers such as Plato, the Buddha and Bishop Berkeley. As a topic, it would be strongly associated with idealism. The exclusion of topics such as this is the defining characteristic of what are known as verificationist philosophies, of which logical positivism is the best known. 
+
+For a real world example, many schools are shifting to a data-driven approach to learning, based on statistical analysis of educational outcomes. However, one might argue that the really important things to pay attention in education to are the outliers --the successes or failures that lie outside the realm of statistical probability. 
+
+Is the "New Essentialism" simply a return to Aristotelianism masked in new terminology, or is it a novel contribution to modern philosophy? 
+
+For example, the equations modeling the motion of a double-pendulum, , are relatively simple compared to the "chaotic" consequences of these equations: 
+
+Another example: There are myriads of consequences of Euclid's axioms. Are all of these consequences not virtually present in the axioms themselves? If so, this would violate the principle "one cannot give more than one has," unless something is added to the axioms in deriving proofs from them. Is that the case? 
+
+Are mythological stories scientific explanations? 
+
+Classification of the Modern Sciences C. S. Peirce (1839-1914), the greatest American philosopher-scientist IMHO, did some excellent work on the classification of the modern sciences (cf. this). 
+
+Philosophical Physics by Vincent Edward Smith discusses (ch. 6: pp. 181 or PDF pp. 98 ff.) how elementary particles have less being than, e.g., a human; hence, they are more indeterminate. 
+
+{It would seem so because the Big Bang theory, for example, is a story about the development of the universe.} 
+
+Boethius, following Aristotle, said the "Speculative sciences may be divided into three kinds: physics, mathematics, and metaphysics.": 
+
+The principle of least action was founded on the principle of the law of the lever. For example, Lagrange in his Analytical Mechanics (cf. its introduction), decided to base his entire physics off the principle. Least action and virtual velocities/forces were consequences of it. 
+
+J. Weisheipl proposes a return to St. Thomas and St. Albert for "a unifying physical theory" that would include both the philosophy of nature and the empirical or experimental sciences. For Weisheipl these constitute one specific discipline, both materially and formally. However, he regards the sciences employing mathematical principles as really distinct from natural philosophy. See J. Weisheipl, The Development of Physical Theory in the Middle Ages; "The Relationship of Medieval Natural Philosophy to Modern Science: The Contribution of Thomas Aquinas to Its Understanding," in Science. Medicine and the Universities 1200-1550. Essays in Honor of Pearl Kibre (= Manuscripta 20 [1976]), pp. 181-196; idem, Introduction to The Dignity of Science. Studies in the Philosophy of Science Presented to William Humbert Kane OP (= The Thomist 24 [1961]). 
+
+Those who uphold it must, to avoid contradiction, hold fallibalism as dogma. 
+
+{It would seem so because Zeus, for example, was as early explanation of lightening.} 
+
+The laws of physics are symbolic relations. His definition of physical law (ibid. p. 168): "A physical law is a symbolic relation whose application to concrete reality requires that a whole group of laws be known and accepted." A law of physics is, properly speaking, neither true nor false but approximate. Every law of physics is provisional and relative because it is approximate. Every physical law is provisional because it is symbolic. The laws of physics are more detailed than the laws of common sense. cf. also ch. 10 "Physical Laws" of The Physical System of St. Thomas by G.M. Cornoldi, S.J.

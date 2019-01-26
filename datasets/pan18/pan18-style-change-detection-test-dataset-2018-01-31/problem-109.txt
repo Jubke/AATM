@@ -1,0 +1,49 @@
+I should note that sometimes villagers CHANGE their options, which means a trade you really want may not always be available, even if it previously was. The good news, is that villagers only change options or add options when you make trades. So if you have a trade that is too valuable to loose, it would be best to save as much currency (whatever the villager wants) as possible and make a single or few large transactions rather than many small ones. 
+
+TL:DR: You play Pixelmon by downloading and installing it. You will find the install file and instructions to install it in its forum thread on the Minecraft Forums. 
+
+The simplest and most effective way to build a shelter for your first night, is to chop down about 20 blocks of wood. 
+
+Can Zombie Pigmen spawn on soulsand? 
+
+I think this is everything you would need to know. Let me know if I missed something in comments and I'll be sure to add it in or clarify it. 
+
+You can see there that at level 50 you actually have a Greater chance to get two enchantments than you do to get one. And only 16.10% chance to get three. If you want to get three your best chances are at level 50, and they are still not very good. 
+
+This is what I did to the Spider Spawner: 
+
+I had the same problem (needed melons) and the same quesion (how do I find a mineshaft?) about a week ago. I spent about 3 days cave delving hoping to find one without any luck and started to browse through wikis. SUCCESS!! Apparently, for whatever reason, there is a near certainty of abandoned mineshafts being generated underneath desert biomes. Sure, they show up other places as well, but for some darn reason desert biomes almost always have one. 
+
+Trading is random. Period. If one wishes to trade with any kind of reliability (and I use this word extremely loosely) they need to expand and defend a town to mammoth proportions and trade with everyone. 
+
+You can use that file to now run minecraft with your name changed. (you may have to go into your folder options and enable the viewing of system files to see the customname.bat after you have saved it depending on your current windows settings) 
+
+I'm curious because this could effect things such as crop growth, or breeding downtimes... 
+
+If you carry a bucket of water around (most vets do) you can use the bucket of water to put yourself out. 
+
+Please note the setup is for a SIX CHAMBERED REACTOR not six reactors. 
+
+This part is somewhat less tricky because the wiki provides us with a wonderfully easy to read graph. I however, suck at Microsoft Paint, and cannot make a sexy.jpg of it. I'll do my best here. (Modified Enchantment Level in parentheses) 
+
+Silk Touch Enchantment Level 1 (25-75) 
+
+The Nether can also be convienently used to travel great (overworld) distances in a short amount of time. 
+
+Here's an excerpt for clarity: 
+
+Which keys off of this formula: 
+
+Position your flat walking areas of the staircase so that if you break an 'eye-level' block of the tower wall you will be looking at the feet of anything that happens to be inside. Additionally the stone 'base floor' of the ground-floor of the tower should rise that floor up by the one neccesary block so you will be looking at their feet there as well. 
+
+Ores and coal can be crafted into blocks, 9 of an ore\coal makes one block which can later be broken back down into it's respective peices. 
+
+Well, every hostile mob in the game gives 5 experience upon death (also wiki sourced info). That being said, 8925 divided by 5 is 1785. 
+
+Once you have your tools and roughly 10-20 additional wood blocks, simply dig into the dirt anywhere you want, a 2 block deep, six wide by six long hole should be more than sufficient. 
+
+Modified Enchantment Level All that stated, you're going to need to know how to get your MEL. Which is easy. 
+
+The formulae for unbreaking is (100(level+1)) % chance for a use to use a durability. 
+
+PixelMon is a mod for minecraft. Mods are add-on files that change how minecraft is played or how it looks or usually both to some extent. They can be difficult to install if your not computer savvy, and sometimes they are difficult to install even if you are computer savvy, but usually it's not too big of a problem if you pay attention and follow the instructions properly. The instructions to install a mod are almost always included in the forum thread dedicated to the mod. (linked above) The forum thread is also where the download link for the mod can usually be found.

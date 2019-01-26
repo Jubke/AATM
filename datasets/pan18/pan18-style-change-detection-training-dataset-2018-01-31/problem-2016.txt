@@ -1,0 +1,23 @@
+Various utilitarians and pragmatists (including, to some degree Karl Popper) have proposed such an approach, but they then focus elsewhere and fail to address this question. 
+
+We have to work into that definition from the outside, and we have no choice but to start from a naive idea of definition, or of idea. To force later problematic results back onto the original consideration is just circular. We have ideas, whether we want to or not. So 'how do we gain access to ideas' is not a real question, unless it is about the process of realization, rather than about access. 
+
+Randomness encountered in physical processes does not proceed from mathematical or philosophical principles. Nor is it ensured by testing, as your test has a definite likelihood of coming out in various misleading ways. 
+
+Mathematics never predicts how nature is, only how it might be. As @JoWehler pointed out, physics then has to select from the ways it might be the ones that have anything to do with what it appears to be, and refine those into approximations of what it is. 
+
+We live on a sphere, so, in fact, none of the circles we actually see on the globe have pi as the ratio of their circumference to their diameter. Circles on a sphere do not have this as a fixed ratio. 
+
+Sure, the graphs have nodes, and you could count them. The descriptions often contain numbers and the most basic ones amount to things like "draw three points on the left and two on the right and connect each point on one side to all of those on the other." But even here, arithmetic is just used as part of language, not as the main actor. In general graph-theoretic computations are seldom numeric -- they are about handling symbols that represent nodes and edges. (In this way it is kind of like propositional logic. They are both parts of the general field of "Symbolic Logic and Combinatorics".) 
+
+Kant theorized that space and time are not aspects of reality, but instead are formats that our perceptions are fitted into because of the nature of human intuition. It would then be impossible for them to be empirical, because they are necessary parts of the mind that underly our ability to accumulate data. They are, in his terminology, synthetic, a priori facts. 
+
+Initially intuitionism was motivated by an approach to exploring the weakness in negation that causes Russel's paradox. The approach was to take negation itself as a psychological habit, and not a law of nature, or simply an aspect of grammar, and to look at other forms it takes in naive interpretations, in the hope of finding an improved habit that might be less audacious, but evade the defects. 
+
+None of our other experimental sciences have failed to go through what Kuhn identifies as a 'revolution', where some underlying model is completely replaced by a different one -- we moved from Alchemy's four elements to Chemistry's limitless number, from Substance Theory to Atomism, from Aristotelian notions requiring direct contact to transmit effects and presuming inherent rest to Newton's laws, from Ptolemaic geocentrism to Copernicanism. In each case, we lost a little ground to the new insights. (e.g. Alchemy had reasons why liquids puddle and freezing water expands -- Chemistry didn't, for quite some time. Ptolemy's math was way better than heliocentric models until Kepler realised orbits are elliptical.) 
+
+Another answer is that you are not a formalist at all, but an intuitionist. 
+
+By admitting that there is some unknown but monotone function, variable by situation, between possibility and probability (like that between utility and investment value) you can actually get some handle on vague intuitions not clear enough to translate directly into probability, for use in places like expert systems, besides simply having a reasonable model of day-to-day usage. 
+
+I would also propose that both of these layers of partial reasoning are forms of aesthetics. Mathematics is based upon its own feelings of consistency and clarity, sometimes referred to as essential elegance, and morality is based upon its own feelings of propriety and order, sometimes referred to as essential humanity.

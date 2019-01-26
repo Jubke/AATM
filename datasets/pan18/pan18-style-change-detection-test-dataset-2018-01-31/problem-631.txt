@@ -1,0 +1,83 @@
+I've implemented a simple non-consumable in-app purchase mechanism by following the Ray Wenderlich tutorial book. 
+
+How can I find out which object or variable is affected? 
+
+I'm getting lots of console outputs like this without my application crashing: 
+
+The Ray Wenderlich book doesn't mention I must do anything else besides this. 
+
+Is this required prior to being able to test In-App Purchases? 
+
+Before switching to atlas, I had all @2x images in a group and loaded them with: 
+
+Now with atlas and RGBA8888_COMPRESSED, I get the SKTexture and the image is way too large. Exact same nodes and configuration. Only using SKTexture from atlas instead. 
+
+Only once I saw a -didFailWithError: call to my delegate on the Device, but it never again appeared. My delegate doesn't get called both on device or simulator. I let it run for minutes with no response at all. 
+
+However, I cannot find any "Compile for Thumb" setting in my build settings. Did they rename it? Or is this unavailable now with Xcode 4? 
+
+Am I missing something or is the documentation wrong? 
+
+I'm trying to track down a confusing xcodebuild issue. I have a carthage dynamic framework project that includes another dynamic framework. When I do a debug build (which seems to be what carthage does) 
+
+2) I guess I could write a swift file into my Objective C app - that adds the extensions to the class - would that be the way to go? 
+
+Is it possible to use XCode6 beta with an IOS 7.1 SDK? The new tools are much nicer but I need to build for IOS7 
+
+I've gone ahead and solved my problems here. What I did was create an ObjectiveC implementation of a c implementation of fortran code to do what I needed. The original c can be found here: http://sourceforge.net/projects/egm96-f477-c/ 
+
+UPDATE iOS8 or Greater As of IOS8 This code might not work correctly. You may need to change how the bundle is loaded: 
+
+Do some googling or add a comment here. 
+
+Available at: https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocationConstantsRef/Reference/reference.html#//apple_ref/c/data/kCLLocationAccuracyKilometer 
+
+I'm trying to setup different fonts or some sort of font scaling in my Size Classes in Xcode 6 as listed by this page: 
+
+I'm sorry this question is a little open ended but does anybody have any ideas what settings I should be looking at in my build file? 
+
+You would need to download the project from source forge in order to access the input files required for this code: CORCOEF and EGM96 
+
+However, I cannot find any "Compile for Thumb" setting in my build settings. Did they rename it? Or is this unavailable now with Xcode 4? 
+
+Before switching to atlas, I had all @2x images in a group and loaded them with: 
+
+Is this required prior to being able to test In-App Purchases? 
+
+I'm getting lots of console outputs like this without my application crashing: 
+
+When a project only has @2x images because it only targets retina display devices, atlas Sprite Kit atlas gets the scale wrong with the RGBA8888_COMPRESSED setting to use with PVR textures. RGBA8888_PNG (the default) sometimes works ok. 
+
+I tried setting a symbolic breakpoint like this but it never halts: 
+
+I've implemented a simple non-consumable in-app purchase mechanism by following the Ray Wenderlich tutorial book. 
+
+Here's what they say in the iOS App Development Workflow Guide: 
+
+When my app starts, I initiate a product info request: 
+
+Apple is recommending to compiling for ARM rather than thumb if there are many floating point operations going on. My whole app is almost one big floating point operation. 
+
+I'm trying to setup different fonts or some sort of font scaling in my Size Classes in Xcode 6 as listed by this page: 
+
+UPDATE iOS8 or Greater As of IOS8 This code might not work correctly. You may need to change how the bundle is loaded: 
+
+My objective-c implementation is as follows: 
+
+You would need to download the project from source forge in order to access the input files required for this code: CORCOEF and EGM96 
+
+I'm sorry this question is a little open ended but does anybody have any ideas what settings I should be looking at in my build file? 
+
+Available at: https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CoreLocationConstantsRef/Reference/reference.html#//apple_ref/c/data/kCLLocationAccuracyKilometer 
+
+Am I missing something or is the documentation wrong? 
+
+I've gone ahead and solved my problems here. What I did was create an ObjectiveC implementation of a c implementation of fortran code to do what I needed. The original c can be found here: http://sourceforge.net/projects/egm96-f477-c/ 
+
+I'm trying to track down a confusing xcodebuild issue. I have a carthage dynamic framework project that includes another dynamic framework. When I do a debug build (which seems to be what carthage does) 
+
+1) I could put this extension into the framework but is there some way to "hide" swift from being able to call it? 
+
+Do some googling or add a comment here. 
+
+2) I guess I could write a swift file into my Objective C app - that adds the extensions to the class - would that be the way to go?

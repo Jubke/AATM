@@ -1,0 +1,57 @@
+Overload resolution takes into account the function signature. A function signature is made up of: 
+
+polluting the translation unit with symbols you don't need 
+
+There are no downsides to forward-declaring classes, but I can think of some downsides for including headers unnecessarily: 
+
+EDIT: I know what compilation, linking and preprocessing do, I'm mostly interested in the others and the order. Explanations for these are, of course, also welcomed since I might not be the only one interested in an answer. 
+
+You're returning by value. What would lead to undefined behavior is if you were returning by reference. 
+
+I think this is the most important distinction you can make. Understand this and the rest, as well as remembering it, should come easy (not addressing @Tony directly, but whoever might read this in the future). 
+
+Static storage duration means that the variable resides in the same place in memory through the lifetime of the program. 
+
+Is this a compiler-imposed restriction, or is it somewhere in the standard? 
+
+If you want to divide a number by 2, go with the second one. 
+
+It gives namespace-scoped variables internal linkage. It gives members and local variables static storage duration. 
+
+The forward-declaration method is almost always better. (I can't think of a situation where including a file where you can use a forward declaration is better, but I'm not gonna say it's always better just in case). 
+
+Related to a lot of questions and answers on SO, I've learned that it's better to refer to objects whose lifetime is managed as residing in automatic storage rather than the stack. 
+
+Are the stages of compilation of a C++ program specified by the standard? 
+
+Linkage is orthogonal to this. 
+
+That answers the question. Alternatives: 
+
+You shouldn't. You should avoid dynamically allocated memory when possible. 
+
+I ran a sample program and indeed destructors for stack-allocated objects are called, but is this guaranteed by the standard? 
+
+Disclaimer: I know the function doesn't actually transpose the matrix because of the double swap of elements, but it makes no difference. 
+
+If you want your colleagues to hate you, or to make your code hard to read, I'd definitely go with the first option. 
+
+I'm talking about preprocessing, tokenization, parsing and such. What is the order in which they are executed and what do they do in particular? 
+
+I get that there is automatic, dynamic and static storage, but never really understood the difference between automatic-stack and dynamic-heap. Why are the former preferred? 
+
+Why is it attempting to call the copy constructor in addition to the direct conversion constructor? 
+
+Depends on what you mean by best. 
+
+you might need to recompile source files that include that header if it changes (@PeterWood) 
+
+No there isn't. You can't overload methods based on return type. 
+
+I'm not asking what stack/heap mean or how memory management works. I'm asking why the terms automatic/dynamic storage are preferred over the terms stack/heap. 
+
+This option is perfectly valid. It's a matter of choice. In general, you do this if you want to return something else from the function, while modifying the original struct. 
+
+In my environment (MSVS 2010, full optimizations), the difference is similar : 
+
+I was wondering what the size limit for a class is. I did a simple test:

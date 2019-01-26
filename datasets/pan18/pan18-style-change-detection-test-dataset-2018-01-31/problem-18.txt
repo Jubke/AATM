@@ -1,0 +1,33 @@
+A PM's responsibility in this situation is to push back, educate, and help the business cut scope instead. 
+
+Chris Matts and Steve Freeman came up with a lovely analogy. "It's not like a credit card. It's like an unhedged call option. It's like you've promised to sell all these chocolate Santas at Christmas, and then suddenly one year the price of chocolate is really high, and you have to sell the Santas anyway because you made that commitment, and now you're bust." As long as nobody makes the call, technical debt doesn't matter. 
+
+(Every project is also difficult to estimate for this reason; you can't estimate something you've never done before.) 
+
+I'm going to pick on @jmort253's answer, because I disagree. 
+
+If you don't have trust of the stakeholders, deliver something to them to show that you can make progress, and gain their trust. If you have their trust, show them something that's likely to need their feedback. It will probably be something new that's not been tried before (or not been tried by very many people). 
+
+You can then provide all the tracking based on those capabilities. 
+
+I worked with one company that had a single class of 10,000 lines that took Visual Studio 5 minutes to load. When the business found out what poor quality code had been produced, they said, "Why would you ever do that? We expected you to push back if we were making you do that!" 
+
+This will enable you to plan and provide an overview of expected milestones, etc. It's enough to let you talk about integration issues with other teams, budget, high-level feedback, release cycles and the like without having to commit to anything lower-level. 
+
+Technical debt only happens in the face of time pressure (or as a result of bad habit or lack of skill, which are a different problem, solved by having time to learn how to do the job well... so, time pressure). 
+
+It's not done for the benefit of the user. There's a moderator of the site somewhere who needs this so that he doesn't have to manually wade through a ton of spam. Similarly, some requirements are there for security, or for legal reasons, or auditors, or advertisers, or for performance, or for another 3rd party system, or because the legacy system we're talking to is a pain. 
+
+Educate the business about the cost of technical debt 
+
+Technical Debt is, and should be, a PM's concern 
+
+This unstated goal is also, usually, the core goal of most projects which are replacing legacy systems. The legacy systems have become too unwieldy, and can't be changed to meet new requirements and architectural demand, so a new system is created. If I had a shiny English pound for every time I've seen a replacement system team abandon the core goal in order to meet some arbitrary deadline, I wouldn't need to work again. 
+
+Consider CAPTCHA boxes as an example. 
+
+Edit: We had a much easier time on that project after we invited someone from the PMO to come and see how we were working and decide what kind of tracking he'd like. He liked the atmosphere in our team area so much he ended up sitting with us most of the time! PMO people are human, too... 
+
+A lot of projects also simply provide options for the future. These are often very hard to price, but very, very expensive if they're not done. 
+
+By keeping track of the growing cost of the debt and making the business aware of it, you can help to show them the value of the options they're losing. This could include things like your best developers leaving, and the cost of re-hiring; how much extra time the devs reckon it took to create a new feature as a result of technical debt; how much more effective the team is when they're given the chance to take pride in their work instead of bowing to business pressure.

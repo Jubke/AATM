@@ -1,0 +1,37 @@
+This prints the exception message: The simplest way to manipulate the GIL in Python C extensions is to use the macros provided: 
+
+UPDATE: pickle has been suggested, and it's a good idea, but pickling doesn't canonicalize dictionary key order: I can avoid the issue by not using the macros and doing it all myself, but I'd rather not. 
+
+It also looks like a timing issue between two threads or processes, but there is no concurrency here either. What Javascript code does JsLex lex incorrectly? I'm especially interested in valid Javascript source where JsLex incorrectly identifies regex literals. 
+
+A line like this in your pylintrc file will quiet the warning: No other form of underscores have meaning in the Python world. This page http://pylint-messages.wikidot.com/messages:w0141 indicates the problem is that filter and map have been superseded by list comprehensions. The problem is when I compile this with gcc, I get: Is there some simpler way in Python to achieve this? I have a Python test suite that creates and deletes many temporary files. Under Windows 7, the shutil.rmtree operations sometimes fail (<1% of the time). The failure is apparently random, not always on the same files, not always in the same way, but it's always on rmtree operations. It seems to be some kind of timing issue. It is also reminiscent of Windows 7's increased vigilance about permissions and administrator rights, but there are no permission issues here (since the code had just created the files), and there are no administrator rights in the mix. I want to compute an md5 hash not of a string, but of an entire data structure. I understand the mechanics of a way to do this (dispatch on the type of the value, canonicalize dictionary key order and other randomness, recurse into sub-values, etc). But it seems like the kind of operation that would be generally useful, so I'm surprised I need to roll this myself. 
+
+(And if you can wait for Python 3.4, it looks like PEP 341 is likely to make it into the final release, which means all of the stuff J.F. Sebastian and I were talking about in the comments should be doable with just the stdlib, and working the same way on both Unix and Windows.) There are a few ways to set environment variables permanently—the easiest is in the System Control Panel in XP, which is of course different in Vista, different again in 7, and different again in 8, but you can google for it. 
+
+Alternatively, just create a virtual environment out of your 2.7 (or separate venvs for different projects), and do your work inside the venv. Here's a quick and dirty example: If you don't know which is appropriate for your program, usually it's the first. 
+
+If you need 500MB of temporary storage for 5 minutes, but after that you need to run for another 2 hours and won't touch that much memory ever again, spawn a child process to do the memory-intensive work. When the child process goes away, the memory gets released. 
+
+For a quick&dirty solution, you can use the shell to pipe through it. Something like this: 
+
+No! The whole point of iterators and generators is that you don't build actual lists and append them together. 
+
+I'm guessing the question you really care about here is: But it's only 30% slower. How did the OP get 2x as slow? Well, if I repeat the same tests with 32-bit Python, I get 1.58 vs. 3.12. So my guess is that this is yet another of those cases where 3.x has been optimized for 64-bit performance in ways that hurt 32-bit. Since this has come up a dozen more times since this answer, I wrote this blog post which explains a bit more. Python doesn't make any such guarantees about garbage collection. However, all those allocations, copies, and deallocations aren't free—it's much faster to not do them than to do them. 
+
+You probably don't really want to sort those elements as strings, but as numbers (so 4.918560000 will come before 10.277200999 rather than after). Obviously, that requires reading reading and decompressing the entire file, and building up an absolutely gigantic list. On top of that, having your strings scattered across a large swath of memory instead of reusing the same small chunk of memory over and over hurts your cache behavior. 
+
+The Python equivalent is something like (if you don't mind mixing two levels together and ignoring a lot of other cases—tildes, env variables, command substitution, etc. that are possible at the shell): 
+
+If we make a pathological potato like this: 
+
+At the moment I rolled my own naive one: Because of octal arithmetic, 013 is actually the integer 11. 
+
+Is there an integer square root somewhere in python, or in standard libraries? I want it to be exact (i.e. return an integer), and bark if there's no solution. 
+
+note: Of course we can use a generator expression instead, but I'm more interested seeing how hackable python is in terms of the grammar. Ah, the incomprehensible "nested" comprehensions. Loops unroll in the same order as in the comprehension. 
+
+This is possible using fancy indexing: Note: this behaviour was changed in python 3. Here is a particularly appropriate quote from PEP 3127 Here is a demonstration of the usage: /dir/subdir1/some_executable /dir/subdir2/some_script.py 
+
+You could just use a regular sort, and then bisect the list at 0: Another option would be to use a tuple as a sort key, and rely on lexicographical ordering of tuples: 
+
+I'm not counting the trivial 'empty' program, and I'm not counting Terry Reedy's submission which is sus because of the double quotes (if that's allowed, is "hello world" a quine? or "'" for that matter?)

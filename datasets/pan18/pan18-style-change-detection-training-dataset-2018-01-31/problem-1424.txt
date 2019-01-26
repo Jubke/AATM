@@ -1,0 +1,33 @@
+Human readable wall clock time is more complicated, and it's even more complicated by the fact that it's abbreviated and parts of it omitted in daily use. 02:54:35 means almost nothing on the timeline pictured above. Jan. 27 2011 02:54:35 is already a lot more specific, but could still mean a variety of different points on this line. "When the clock struck 02:54:35 on Jan. 27 2011 in London, Europe" is now finally an unambiguous absolute point on this line, because there's only one point in time at which this was true. 
+
+Following Dennis' hunch, I did this test: So, timezones are a "modifier" of "wall clock times" which are necessary to express a unique, absolute point in time using a calendar and hour/minute/second notation. Without a timezone a timestamp in such a format is ambiguous, because the clock struck 02:54:35 on Jan. 27 2011 in every country around the globe at different times. 
+
+In the remaining cases, let's say a template where you're outputting values that may or may not be set by a controller, you'll just have to check: 
+
+In effect you're usually dealing with (a mix of) these concepts when handling times: Is there a way to prevent the PHP GD image library from running out of memory? If too large an image is uploaded, GD tends to run out of memory, terminating the script. I'd like it to throw a catchable exception or something to that extend, but alas it doesn't. 
+
+Like wise, plain SQL (or that generated from AR's) seems to be much more useful for 80% of the queries used, which on most sites are a single SELECT not to be repeated again that page load (I'm speaking about scripting languages like PHP here). Why would I make my over-taxed DB prepare a statement that it is only to run once before being removed? 
+
+Nowadays, "Prepared statements" seem to be the only way anyone recommends sending queries to a database. I even see recommendations to use prepared statements for stored procs. However, do to the extra query prepared statements require - and the short time they last - I'm persuaded that they are only useful for a line of INSERT/UPDATE queries. When using prepared statements... the data are sent in a native binary form, which saves the conversion-CPU-usage, and makes the data transfer more efficient. Obviously, this will also reduce bandwidth usage if the client is not co-located with the DB server. 
+
+Or wait, I forgot you can't do that either since each requires the namespace prefix! In addition, I am not aware of any large projects which use PHP's gettext. I would appreciate any links to well-used (and therefore tested), systems which actually rely on the native PHP gettext extension. 
+
+...The variable types are predefined, and hence MySQL take into account these characters, and they do not need to be escaped. It dawned on me that I am assuming new connections for each script. I would assume that if a persistent connection is used then these problems would disappear. Is this correct? 
+
+This method is identical to the GET method, with one difference - the server will not return the requested document, if will only return the headers that would be included in the response. This is useful for determining, for example, if a particular document exists without having to transfer and process the entire document. Is there a more intelligent way to do either of these tasks? Multiple users will not experience this issue, as they will use different session IDs. This does not mean that you don't have a problem, because you may conceivably want to access the site whilst a file is downloading, or set multiple files downloading at once. 
+
+Configure a firewall to block connections from other machines: 
+
+It's quite simple actually. First a bit of code to demonstrate how it can be implemented. If you don't understand anything about what this code is doing or how it works, feel free to ask additional questions in the comments: 
+
+To demonstrate the right way to do it, let's imagine we have the following array, nice and simple: 
+
+If you explain what the client is (a browser, script on other server, etc) then I can help you take this further. As it is, the appropriate request method for the request body that you depict is POST, not PUT. 
+
+A request message includes a METHOD, a URI and optionally, a number of HEADERS. The request METHOD is what this question relates to, so it is what I will cover in the most depth here - but first it is important to understand exactly what we mean when we talk about the request URI. 
+
+More information on the standard streams can be found here. RFC 2616 (HTTP/1.1) defines 8 request methods. The way the keys are being created above is not great and in retrospect it is the wrong way to do it. 
+
+HTTP was originally designed as a mechanism for retrieving HTML documents from remote servers. At first it effectively supported only the GET method, whereby the client would request a document by name and the server would return it to the client. The first public specification for HTTP, labelled as HTTP 0.9, appeared in 1991 - and if you're interested, you can read it here. This provides an application-layer level mechanism to allow clients to inspect the request it has sent as it looks by the time it reaches the destination server. This is mostly useful for determining the effect that any proxy servers between the client and the destination server may be having on the request message. 
+
+Almost all firewalls block every incoming request by default, and you have to explicitly allow open ports and/or applications to accept incoming connections. If you don't want other machines to be able to access your server, don't open the port allowing the application. Many firewalls will allow you to be more selective about these rules, by allowing incoming requests from certain IP addresses but not others.

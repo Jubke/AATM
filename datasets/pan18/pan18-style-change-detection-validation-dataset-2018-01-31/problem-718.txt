@@ -1,0 +1,63 @@
+It is being said that "static methods are death to testability". If that is so, what is a viable alternative pattern for the below? 
+
+In my application I need to read it twice, once for authentication purposes and once for actually processing the content, and both functions are handled by different, independent modules. The crazy thing is: it works. 
+
+All the caller of this function sees is this: 
+
+To reset the keys of all arrays in an array: 
+
+Is there a way to prevent the PHP GD image library from running out of memory? If too large an image is uploaded, GD tends to run out of memory, terminating the script. I'd like it to throw a catchable exception or something to that extend, but alas it doesn't. 
+
+For those interested, I have expanded this topic into a small article, which provides the below information in a somewhat better structured form: The Definitive Guide To PHP's isset And empty 
+
+Following Dennis' hunch, I did this test: 
+
+In effect you're usually dealing with (a mix of) these concepts when handling times: 
+
+So, timezones are a "modifier" of "wall clock times" which are necessary to express a unique, absolute point in time using a calendar and hour/minute/second notation. Without a timezone a timestamp in such a format is ambiguous, because the clock struck 02:54:35 on Jan. 27 2011 in every country around the globe at different times. 
+
+You should avoid using the global scope in any way as much as possible; most certainly you should not be "pulling" variables out of the global scope into a local scope. 
+
+What is the xpath expression to select all nodes of a document? 
+
+Update: I've added more examples to show some of the edge cases. 
+
+List of iconv encoding and aliases (Feb 2013; gist): 
+
+Lets see a first code example before writing any other sentence with the I-word: 
+
+If your plugin needs the dictionary object, it has to ask for it: 
+
+Whatever I try, I have problems to describe the overruling nature of an ancestor with the matching predicate over an ancestor with a non-matching predicate. 
+
+Split it apart and get the last element: 
+
+Does not apply but might be of interest: 
+
+I'm looking for a simple way to obtain the next numerical index of an array for a new element that would have been chosen by PHP as well. 
+
+Take a directory listing as an example. Consider you have got the following file and directory tree on disk: 
+
+I'd like to merge two arrays with each other: 
+
+I have got a large file in PHP of which I would like to replace the first 512 bytes with some other 512 bytes. Is there any PHP function that helps me with that? 
+
+Right now PHP complains about an array to string conversion using the common setup: 
+
+While a iterator with linear order just traverse over the toplevel folder and files (a single directory listing), the recursive iterator traverses through subfolders as well and list all folders and files (a directory listing with listings of its subdirectories): 
+
+As far as my research shows, there is no library that can do this: 
+
+I am looking for a solution that keeps the tweaking to an absolute minimum, e.g. a component that adds itself to the onsubmit event of a normal form, performs the file upload, displays a nice progress bar, puts the resulting temporary (server side) file path into the form, and submits it. On the server side, I just have to modify my script to use the file path provided by the flash uploader, instead of $_FILES and consorts, and think about security for a moment. 
+
+There are various DOCX/ODT template libraries out there but they don't output PDF 
+
+If you delete the cookie in the browser, the connection to that session is lost, even if the file on the server continues to exist for some time. 
+
+I am looking to roll my own simple web stats script. 
+
+There's no function I know of, but there is a one-liner courtesy of Pete Graham: 
+
+but I would very much like to stay with PHP here for server setup reasons. 
+
+Update II: I will be looking the pdftk approach soon, but I am also starting another bounty for one more round of collecting additional input. This question has now seen 1300 rep points in bounties, must be some kind of a record :)

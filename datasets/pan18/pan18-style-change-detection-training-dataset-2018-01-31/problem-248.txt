@@ -1,0 +1,31 @@
+The world data, which also includes player inventories, is saved to a folder in the current working directory of the server. (Note that if you're playing Tekkit Lite, this block does not exist. However, you have access to several engines that can indirectly be powered by sunlight. Namely, the 4 different Electric Engines that run off EU – effectively replacing the one from Forestry – and the Blulectric Engine from RedPower that runs off blutricity.) 
+
+If you're on Minecraft 1.8 (or the development snapshots leading up to it), you can remove the dragon fairly easily. This actually won't kill the dragon, but rather delete it outright (which means it will not drop a portal). It is intentional, does happen in SMP, and cannot be disabled on a vanilla server as far as I know. On a Bukkit server, the DisableIt plugin can disable any type of explosion, including beds. I discovered my base is in an area with very low background magic, which is unfortunate. 
+
+Are there any solid blocks that snow cannot stick to? 
+
+Try placing a cobblestone block on a slab, same thing: Melee crits These occur when the player strikes a mob while moving downwards. Jumping and being stuck in a cobweb count, but moving down a ladder or sinking in water do not. Additionally, you can't do critical hits while blinded. Although, notch has toyed with a sprint mechanic, so it's possible that this will be added in a future update. 
+
+Another thing about it is that you can give the Energy Link a Redstone signal, which makes it stop converting energy. This allows you to turn the quarry on and off (with some delay though, the quarry has an internal energy storage). So no, you cannot get water into the Nether using ice blocks. 
+
+In past updates, biome changes have been retroactive. I logged into my original singleplayer world recently to find it was now a snow biome. It will grow even in complete darkness, and does not need water. 
+
+If you really want all the latest terrain everywhere, use MCEdit to copy your base and export it as a schematic. Write down the world seed. Start a new world in Minecraft using the same seed, then exit Minecraft and use MCEdit to import your old base into the new world. Can only be acquired with a Silk Touch enchanted tool, or Do not drop themselves or 100% of their components when broken, so Silk Touch is still useful, even if the block can be built or acquired without Silk Touch? Cactus must be placed in sand, and not adjacent to another block. Diagonally adjacent is okay. 
+
+You can use a map editor (such as MCEdit) or a game mod (such as Bukkit WorldEdit plugin) to delete the chunks you haven't built anything in. When you explore them again, they'll regenerate using the most up-to-date method. 
+
+Ta-da! The smashed ice blocks are now water source. 
+
+There's a new solution to this that requires Creative mode in multiplayer, and even works underwater. It used to be possible to get water into the Nether with this, but as of Minecraft 1.3.1, ice blocks in the Nether simply disappear when they're broken (or when they melt from a light source). Melee crits These occur when the player strikes a mob while moving downwards. Jumping and being stuck in a cobweb count, but moving down a ladder or sinking in water do not. Additionally, you can't do critical hits while blinded. So no, you cannot get water into the Nether using ice blocks. There is another block that does this, though! It's called an Energy Link, courtesy of the Power Converters mod, and it's a bit expensive. 
+
+(Note that if you're playing Tekkit Lite, this block does not exist. However, you have access to several engines that can indirectly be powered by sunlight. Namely, the 4 different Electric Engines that run off EU – effectively replacing the one from Forestry – and the Blulectric Engine from RedPower that runs off blutricity.) If you're on Minecraft 1.8 (or the development snapshots leading up to it), you can remove the dragon fairly easily. This actually won't kill the dragon, but rather delete it outright (which means it will not drop a portal). 
+
+Double slabs are a different block entirely. Their height is exactly one block, so snow can exist/will fall on it. 
+
+Minecraft's data files are in a proprietary file format called NBT (named binary tag). 
+
+It's not possible for snow to exist on slabs/half steps. A slab is only ½ blocks high, but as far as the game is concerned, it inhabits an entire block. The same goes for the snow layer, which is also a block — except other blocks you place can go through and replace the snow layer block. So snow on a slab would have to float half a block above ground. It is intentional, does happen in SMP, and cannot be disabled on a vanilla server as far as I know. On a Bukkit server, the DisableIt plugin can disable any type of explosion, including beds. 
+
+It is a special "Notch power" not available to players — it was used by the Minecraft developers for debugging. It was accidentally released in the first pre-release of Beta 1.8, but was taken out for the second one and the "stable beta" release. 
+
+Try placing a cobblestone block on a slab, same thing:

@@ -1,0 +1,31 @@
+At the end of the event, it will tell you how many monsters you have killed before the timer runs out. Monsters killed after the timer has stopped do not count. But you have to kill them to 'complete' the event to get the chests to spawn. 
+
+My secondary is a ~750 dps 850 life on hit 97% critical hit chance axe. 
+
+1000 - 1500 armor (double that if you use deadly reach) 70-140 resist all (70+ res all and another element of choice for stacking) 30-40% block (high block shield with JL + HoC) for 3k damage (note this is after reduction!) 1 free passive slot (you don't have to take guardian's path so you can devote 1 more passive for defense, such as resolve) Overall, you gain HUGE damage reduction benefits for 1 equipment slot. If you are trying to be a tank this is almost a no brainer. 
+
+The mystic is the only way to add a socket to a ring or amulet. Sometimes you get bad luck and take a lot of rolls, that's why its the RNG. 
+
+So in a sustained fight, you should not use SS in scenario 2 but use SS in scenario 1. However, also keep in mind SS gives you a huge damage spike at the beginning of every fight (guaranteed crit for 200% damage for 1 hit). I'd say for normal monster fighting (almost all the time on inferno) SS is great. For sustained fights such as with bosses, then SS is not as useful and then you'd go with cull the weak. 
+
+My primary weapon right now is a ~850 dps 250dex 250vit 500 life on hit axe. 
+
+From my experience, a shield is extremely necessary in late game inferno and ponies (the 1.03 damage nerf has made shield even better by reducing the spikiness of damage). Lets compare and contrast: 
+
+Remember, these are considered full boss fights. Don't hit that resurrect button (if you are playing with friends) as you'll be kicked out of the battle. Try to get a res if possible. 
+
+Old Answer This answer is still applicable since having 2 great weapons is really really expensive compared to 1 and a shield. 
+
+Yes you can. I just tested this by buying and equipping 2 cheap uniques. Even though I could not equip both on my character, I was able to equip one and give the other to my follower. 
+
+If your crit chance goes up, say to 50% (very hard to achieve and you'll either sacrifice a lot of dex/life or gold to buy the godly stuff), then on average you'll be critting every second, so SS only gives an additional 3% crit, meaning its only a 6% damage boost. 
+
+If you do succeed in killing 100 monsters before the timer runs out, a second chest will spawn. Each has a pretty high chance to drop 1 rare or better (this is with almost no MF). 
+
+Specific portal boss strategies: 
+
+Also, this map on diablowiki on festering woods should help you reach 3 NV stacks as fast as possible: 
+
+For barbarians, its not about the DPS value that matters, but the average damage of the weapon. Their primary source of damage is from tornados, which does damage as a % of the listed weapon damage. Even though most echoing furies have really high DPS, their average damage is actually quite low due to the fact that they have such high attack speed. 
+
+I've found that doing rifts with a good party is the fastest way. The rift guardian has a pretty high chance of dropping a soul and legendary drops are boosted while in rifts. There is no other good way really of getting souls other than rifts.

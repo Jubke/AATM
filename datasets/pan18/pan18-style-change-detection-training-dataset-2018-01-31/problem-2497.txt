@@ -1,0 +1,31 @@
+There seem to be similar examples of this sound change in Spanish. Using the Diccionario de la lengua española online, I found the following two examples of a Vulgar Latin sequence -ndin- becoming modern Spanish -ndr-: 
+
+aorist: there was historically a spiritus asper /h/ as shown by the related word ὅρος horos "boundary." 
+
+Question B: How did the usual modern pronunciation originate? I can imagine at least three possibilities: 
+
+Besides the fact that Londres and so on originate from Latin Londinium, I unfortunately have not been able to find any dictionary entry that explains the etymology of this word and the sound changes that occurred. 
+
+landre < glandinem (V. Latin *glando, *glandinis) 
+
+–the article "Proto-Germanic grammar" on Wiktionary 
+
+According to the Perseus online dictionary of Ancient Greek: 
+
+Yard, bard, computer, paradise are all considered to be English words. You can find each of them listed in an English dictionary, non-italicized, with no usage note saying they are words in another language. 
+
+EDIT: I kind of found the answer, so I guess I will post it in case anyone else has this problem later on. I may have follow-up questions. 
+
+Even if nobody knows about these specific words, I would appreciate any more general information on the stress patterns of words ending in -ence or -ance in Middle English, and how they may have changed in the development to present-day English. 
+
+I have a two-part question about the pronunciation of hygiene in English. The usual pronunciation, as shown by a variety of online dictionaries accessible from OneLook Dictionary Search, is /ˈhaɪdʒiːn/ (Merriam-Webster also lists /haɪˈdʒiːn/). This is interesting because I know of no other English word of Greek origin where ie represents /iː/ (setting aside plurals ending in -ies for people with happy-tensing). 
+
+–Lexical Template Morphology: Change of State and the Verbal Prefixes in German, by B. Roger Maylor, from 2002 
+
+The phrasing "inherited word from a Celtic substrate" is weird. "Bard" would just be called a borrowed word, not an inherited word. (Of course, Modern English has inheritited the word from Middle English, but Middle English would not be said to have "inherited" this word from Celtic, because Middle English is not descended from Celtic). 
+
+But in other words, there is no *s reconstructed for the PIE form. Are there any historical linguistics hypotheses about the source of the rough breathing in these words (e.g. a prothetic *s- prefix that later weakened to a rough breathing, a shift [w] > [v] > [f] > [h], a sound change inserting /h/ before all word-inital /u/ at some point in Ancient Greek (that seems phonetically unmotivated to me, although I guess it's the most straightforward option), something like that). 
+
+If a substrate influence was far enough back, the word might have been in the language already at some reconstructed proto-language stage. In that case, we might consider a word to be e.g. "inherited" from Proto-Germanic, but "borrowed" since the language developed from Proto-Indo-European. A possible example like this is "path", which has cognates in other major Germanic languages but is considered to have been borrowed into Proto-Germanic, not descended from PIE. This borrowing is not thought to be from a substrate (as far as I know, we don't know much about any substrates of the Germanic languages) but it's kind of comparable. 
+
+the pronunciation with /ɪiː/ listed in the OED is older, and it was simplified to /iː/ over time, as in the word medi(a)eval or caries. This seems unlikely to me, since /ˈhɪdʒɪiːn/ > /ˈhɪdʒiːn/ requires another step to change the /ɪ/ in the first syllable to /aɪ/ before we get the modern pronunciation the pronunciation with /iː/ was a direct anglicization of the French pronunciation by analogy with the vowels used in word pairs like English piece /piːs/–French pièce /pjɛs(ə)/ or English relief /rəˈliːf/–French relief /rəljɛf/. The /aɪ/ in the first syllable is based purely on the spelling. the pronunciation with /iː/ was a direct anglicization based purely on the French spelling (by analogy with the use of the digraph "ie" to represent /iː/ in various English words, not only French-derived ones like piece and relief but also field, yield etc.) The /aɪ/ in the first syllable is based purely on the spelling. I know the last two are fairly similar, and probably hard to distinguish based on evidence. In fact, if I had to guess, I would say the modern pronunciation most likely originates from a mixture of 2 & 3. However, I'm just an amateur. I'd love to know if any professional etymologists or linguists have said anything about the development of this word.

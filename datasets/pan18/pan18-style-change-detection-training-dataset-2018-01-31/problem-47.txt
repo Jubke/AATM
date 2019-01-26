@@ -1,0 +1,25 @@
+This is very controversial, but can you degrade the quality and call things finished before you may otherwise have? Many would have an issue with this suggestion but I think it is done all the time. 
+
+Get them to the table, tell them your troubles framed that you are protecting their interests, and see where it goes. There's a solution to everything...just have to find it. 
+
+If you don't have the capability resident, you need to buy it. Then do the estimating as you would normally do. If that is not possible, then the answer is, the project is not viable. Keep your client in the long term and let them hire a more capable firm for this gig. 
+
+So using "D" as an example, my formula was (7/41)/(2/32)*100 = 273. 
+
+Are there different methods available to you for the work? For example, if your method is to move five tons of dirt with five laborers, five shovels, and some wheel barrels, several backhoes and dump trucks may speed things up. (You'll have to translate this to the type of work you're doing, of course.) 
+
+In order to do the estimate, and the work, you need the capability to do so. You need the right materials and people--those with the requisite knowledge, skills, and experience--in order to have an acceptable amount of risk and to do right by the client. No customer deserves to spend its dollars for a product it wants to a seller of services who are experimenting and learning, unless that customer is pursuing cutting or bleeding edge stuff and everyone is experimenting and learning. 
+
+If you have a product owner (PO), he/she should negotiate the deliveries with the customer based on your progress and delivered user stories. The PO should figure out which user stories are must for your customer to start his business. It is a subset of the whole product backlog, and therefore the formula above should provide a better estimate, because the uncertainty is lower than for the whole backlog. 
+
+The wisdom of the crowd is the process of taking into account the collective opinion of a group of individuals rather than a single expert to answer a question. A large group's aggregated answers to questions involving quantity estimation, general world knowledge, and spatial reasoning has generally been found to be as good as, and often better than, the answer given by any of the individuals within the group... (from wikipedia) 
+
+Do a couple of sprints, but keep the eye on the size of the features in the batches and how they got implemented. Use this data during the next planning meetings. The ultimate goal would be to have the same size for the features - of course you can break down features during the planning meeting. 
+
+Are there different methods available to you for the work? For example, if your method is to move five tons of dirt with five laborers, five shovels, and some wheel barrels, several backhoes and dump trucks may speed things up. (You'll have to translate this to the type of work you're doing, of course.) 
+
+So using "D" as an example, my formula was (7/41)/(2/32)*100 = 273. 
+
+Whether you are providing an estimate for something to happen in the future, or reporting your actual costs/time, the only way to address the value judgment that it seemed too "long" is to understand the comparison group against which that judgment is being made. So your first question to them is, 'based on what?' 
+
+I assume the surveys will yield a score each macro area, say like from 1 to 9, 9 being very high interest. I'd attach an ordinal scale to your t-shirt size estimates, 1 through 5. To make things relative, I'd take the user score for each macro area and divide it by the total user scores and do the same with the size estimates. Then I would simply divide the relative user score with the relative work size. This will bubble up the priority of those macro areas that score high for the user and will discriminate between two high scoring macro areas with different size work estimates where the lower work estimate will bubble up higher.

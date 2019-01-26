@@ -1,0 +1,25 @@
+Having reached 10k on Super User a few days ago, I've been heavily using the moderator tools. They are great for efficiently helping the mods and the community. 
+
+I decided to break this up in three parts, each with proposals highlighted within a blockquote. Many merges would need an additional cleanup before the actual process, and I haven't really seen that. Many users don't even care to clean up duplicates, make answers consistent, flag obsolete content for removal, etc. As merging is an even more complicated process, at this point I don't trust the community to do it. This makes it necessary for them to enable line numbers as well, even if they don't want it, because they have no other means of understanding what you're referring to. No, I'm very strongly against this. 
+
+So basically, it says: Please vote! But you can't vote. Sorry 'bout that. 
+
+Proposal While this may seem like "not a big thing", from a point of user interface design it is unexpected behavior. It obviously would be better to have the button stay in its place, for example here: 
+
+But at the same time, the tools seem very inefficiently designed. In my opinion, they need a partial redesign, because 
+
+By posting a link to another question you are saying: 
+
+commuters who need to have a bright idea on the way home from work. If they are deleting high scoring posts or hitting the delete limit on successive days then that is possibly indicative that they are trying to quit the site or otherwise deface useful content. People answer questions on Stack Exchange because they want to, not because they have to. 
+
+BTW - mine's about 11% (28 ish / 264) - it's ish because I gave up counting and didn't want to count my answers to my questions that I'd accepted. Because of the consequences of something being deleted through offensive flags - a 100 point reputation hit - we have to take these flags seriously and spend some time checking out the post to make sure that we're not missing something. 20K users should have enough about them to know when a question should be deleted rather than leaving it closed. 
+
+You can already create a second account - using a different OpenID - but that does require that you either use different browsers or continually log in and log out to post on the relevant sites. Not ideal and prone to error. This would mean that there'd be no requirement to coordinate all the moderators on the various sites or with the community team (who have better things to be doing). 
+
+In the migration window, a link to a target site's FAQ page would be more useful than a link to the site itself. This would give closers a better idea of whether the question would be acceptable on the target site. 
+
+which, being in the text, might be easier for readers to spot than some flag or tag on the post. 
+
+Another solution would be to allow users to create their own site groups. So (for example) SO, UX, Programmers and Game Development could be in Group A, while Gaming, SU and AskUbuntu were in Group B and DIY, Cooking and Mechanics were in Group C. Each would only show the other accounts in that group to the public. 
+
+Why not make it official and close as a duplicate? I'd suggest something along the lines of this: Indicate whether the post being deleted is a question or answer. Actually I'd question the need to raise this flag on questions. If the question can be deleted (no answers or only one zero scored answer) then should we really be bothered that the user is deleting them? Show the score of the post being deleted (for both questions and, more importantly, answers) and/or discount negatively scored answers. Show how many competing answers there are (for answers only, obviously). It's less of a problem if someone is deleting one of 10 answers, but if their's is the only answer then it's potentially more serious. Only raise the flag if the combined score of the posts deleted is greater than some threshold - possibly 5. Only raise the flag if this is the second time in as many days that they've hit the delete limit - regardless of the score of the posts. This will help the moderators as then we'll know that there is potentially something serious going on. It will also help users who are genuinely just trying to clean up the site by removing unnecessary content as they'll know that they're not going to attract the attention of the moderators.

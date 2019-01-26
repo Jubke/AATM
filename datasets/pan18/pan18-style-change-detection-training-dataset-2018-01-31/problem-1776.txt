@@ -1,0 +1,19 @@
+Now as far as Logicians are concerned this is only a fragment of a logic. There is no mechanism for inference, nor its truth-functionality. That is we cannot say whether the logic is complete or sound - which to Quine was a serious argument for taking FOL as logic. 
+
+More formally, we have a premise and a rule by applying that rule to the premise we get a conclusion; but why should we apply this rule and and in this way? Of course these are the rules of the deductive game; but it remains true, I think, that they do not neccessarily apply. 
+
+Assuming the Continuum hypothesis one gets a sequence of cardinalities like we get the sequence of integers. But of course it has proved a very useful kind of fiction to assume that between these integers lay the real numbers. 
+
+These are easily seen to be satisfied by the usual notion of equality. The last two properties are so self-evident to Euclid that he doesn't mention them. But it is in fact useful to do so. The property that Euclid mentions is the following 
+
+Contemporary Consensus is hard to come by in Truth given its broad interest, but the philosophical literature around it is very much motivated by Paradox phenomena following from truth as a component of language. If Truth is taken to have a semantic character, such that it indicates a "real" property in a baseline metaphysics, then we might read proposed strategies for avoiding paradox as an attempt to give a more refined definition of this property. If Truth is more syntactic, such as conceptions of it as a system or algebra of those sentences which we might reasonably call True, then we can read paradox resolution projects as characterising these systems through a combination of axioms and inference rules, which may or may not point to any "real" metaphysical property. 
+
+In any case, I think it's accurate to note that the question of the substantial nature of Truth is in some sense treated as an afterthought to the current philosophical work being done. The richness of theories of Truth in contemporary treatment is very much mathematical, following on from papers by Alfred Tarski [1], Saul Kripke [2] and others, where we take it that the mathematics used to frame the theory may or may not be suitable to a given metaphysical framework but this shouldn't hold us back from exploring the theories in abstraction. 
+
+Did Hume offer a similar argument? I seem to recall something similar offered by Lewis Caroll that was picked up by the Tortoise in Hofstadters Godel, Escher & Bach - but I may (and probably am) mistaken here. 
+
+Wittgenstein might say that we're using the word 'truth' in many different and significant ways, and each one should be labelled ie truth-1, truth-2 etc. As truth-for-me is different from truth-for-you in subtle ways for the same concept, one should label these truths by individuals which multiplies them endlessly. Truth as language in this sense ramifies spectacularly. Despite this, one might suppose that he did think truth was one but chose to remain silent about it. 
+
+The same argument it seems can be targeted to logical deduction itself - intuitively seeing deduction temporally, and the premises being the 'cause' of the conclusion. 
+
+Each topos has an associated internal language, this is intuitionistic rather than classical (so the law of the excluded middle doesn't hold), and higher-order. This holds because each topos is a heyting category, which means that its poset of subobjects for any object is a heyting algebra. (Note while classical propositional logic is modelled algebraically as a boolean algebra, intuitionistic propositional logic is modelled by a Heyting algebra). Its higher order because each topos has exponentiation, and this translates via its internal language that predicates of predicates (and so on) are available.

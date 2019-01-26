@@ -1,0 +1,27 @@
+Put your actual question in the title. Make it the kind of title that will be meaningful to people searching for your question in Google. 
+
+You may have experience with other "forum" style websites, where you can pretty much post anything you want. StackOverflow is different; we encourage quality by adopting a "question and answer" format. That means that your questions should be questions, and your answers should be answers. 
+
+Those kinds of questions are also off-topic on the Programmers and Game Development SE sites as well. 
+
+In addition to what Cody said, 
+
+This may feel a bit constraining, but how well have those other forums really worked out for you? Perhaps one of the reasons you are here is because you have grown tired of all the useless information you see on those other sites. 
+
+You assert that "while we are hiring, we’re not doing it fast enough to make a real difference for New Yorkers who want to learn to code," but none of the job openings you have are for entry-level people. Should experienced developers, who clearly are capable of doing the work but are perhaps not up to speed on the latest bleeding edge technology or interview expectations, be pursuing some sort of mentorship as well? 
+
+In short: when nobody gets elected and your vote is counting for the weakest candidate, your vote gets transferred to the next candidate on your priority list. 
+
+I don't consider this abuse. "fuction" -> "function" is definitely an improvement, and nothing spammy or offensive is being added. Things would be better, though, if the user in question would edit entire posts, rather than just fixing titles and ignoring other problems. 
+
+Example time. Let's say that 100 voters select candidate A as their first choice. Let's also say that the threshold is 25. At the end of the first round, candidate A is considered elected. Since the threshold is 25, candidate A only keeps 25/100, or a quarter, of the votes he got. But this doesn't mean that 75 of the people who voted for him transfer their votes to their second choice! 
+
+I posted this as a comment under @Bill's answer a few minutes ago, but I guess it deserves to be expanded into its own answer since the question is a feature request. 
+
+A: wa B: (1 - wa) wb C: (1 - wa) (1 - wb) wc excess: (1 - wa) (1 - wb) (1 - wc) 
+
+Alright, so how is that threshold calculated, anyways? It's a lot harder than it is in older STV methods; actually, it's the reason the algorithm requires a computer. Meek STV is the only method to change quota mid-process. The quota generated at the start of every round by this expression: 
+
+Thinking about it some more, it's possible that there was just a non-native speaker/language barrier issue and what the OP meant was that the code he was working on was in use at the target website. That would make it not-spam, but still not very useful. Looking again now. 
+
+The election pages' sidebars state that Stack Exchange elections use the Meek STV vote-counting method:

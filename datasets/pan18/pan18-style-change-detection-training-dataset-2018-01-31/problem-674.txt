@@ -1,0 +1,27 @@
+or roughly 0.000224%, or 1 in 446,985. 
+
+Personally, to list from strongest to weakest, I would just sort by Win% (descending) and then Loss% (ascending), so your hands above would be ranked the same way you arrived at with your "0.5 points for a Tie" approach: For someone to get the same quads on another hand is: 
+
+As always, my math might be wrong, but this is my understanding! :) 
+
+For someone to additionally then get any other 4OAK on the 3rd hand: 
+
+Your instinct to multiply is not incorrect, but I think there are some subtleties to the calculation which you might have missed. 
+
+so for example your 45% Win, 40% Loss, 5% Tie hand has 47.5% equity/EV in the pot: 
+
+To be any more accurate, we need to model player behaviour and figure out chances that particular hands get to showdown etc, which makes the calculation non-trivial. 
+
+Ranking these hands based on their EV seems perfectly reasonable to me. There are 35 possible ways to make quad sevens. They are all equally likely. You can get this number by writing out all possibilities like this: 
+
+I ran the numbers on hand 1: A♥A♣3♠2⋄ versus hand2: 6♣7♣8♥9♥. Turns out aces have 46.82% equity. Significantly less than 50! 
+
+I will have to get technical, sorry. If you dont want to do the math yourself, there is a quicker and easier way to calculate odds and probablity. Use propokertools.com, it is a great site. Not only can you calculate one hand versus another. But also one hand versus a certain range of hands. Just put in your hand, the board and the range you expect your opponent(s) to have and you can calculate your odds. I chose this matchup, because hand 1 can only make two different straight, however on both straights hand 2 will end up with the better end of the straight. Hand 2's suits are the same as the aces. I don't know why but this results in higher equity for hand 2. So my side question: why do hand 2's suits to be the same as the aces cause higher equity for hand 2? 
+
+This just represents the EV of the hands though, you could equally arrive at the same result by scoring each hand as: Ranking these hands based on their EV seems perfectly reasonable to me. 
+
+Personally, to list from strongest to weakest, I would just sort by Win% (descending) and then Loss% (ascending), so your hands above would be ranked the same way you arrived at with your "0.5 points for a Tie" approach: 
+
+For someone to additionally then get any other 4OAK on the 3rd hand: 
+
+or roughly 0.000224%, or 1 in 446,985. Assuming that everyone goes to showdown every hand (which is obviously a massive and unrealistic assumption, but makes the calculation much easier), the chances of at least one player in your 7-handed game makes quads on any given hand is: Your instinct to multiply is not incorrect, but I think there are some subtleties to the calculation which you might have missed.

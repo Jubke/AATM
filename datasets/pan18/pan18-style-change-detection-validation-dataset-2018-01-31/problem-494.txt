@@ -1,0 +1,41 @@
+Thankfully, there's no problem with serial close voting, so in the not uncommon case where a user has left behind a trail of close-worthy, as opposed to merely downvote-worthy content, I can still do something useful. 
+
+Would diamonds rather I did my tiny bit of voting to delete a few bad answers per 24-hours, or are they happen enough to get my additional ring on the bat-phone calling for them to delete? 
+
+The subject matter is on topic. Some people seem to learn from them. They sure don't have a single acceptable answer, but, isn't that one of the less offensive uses of CW? 
+
+I find myself wondering if us janitors should really be on a campaign to eradicate CW questions entitled 'hidden features of X.' 
+
+I know that some havoc was wreaked early on with too many deletes, but perhaps 20K users or some other threshold should be given more latitude on answers with one or more not-an-answer flags? Edit by waffles This is now implemented with the following caveats Would mods like flags in cases like this? Is there any appetite for a rep level at which one might be exempted from the serial voting rule? Not every type of unwelcome activity is enumerated, but when you see a user flogging a feature or exploiting some use case wildly outside how it was intended to be used, it is abusive. And when that activity needlessly irritates users or becomes generally unpleasant, it's trollsome. 
+
+The "Everything's in Order Here" Syndrome 
+
+Bonus points if it has marketing flair. The next round of Area 51 improvements are likely to address the need to have an existing, ACTIVE audience to build a site quickly. That might mean raising the bar on what it takes to keep a proposal on Area 51; too many proposals are simply drifting through the process waiting for someone else to build them. When those failure modes are so easy to spot, it becomes really painful to sit and watch year-old proposals amble into proportionately weak sites, or to watch folks work on proposals that are running down the clock waiting to be shut down. Hopefully between them you have something that better conveys the sentiment you are driving towards. ~207,000 people searching this site 
+
+~207,000 people through this site. 
+
+The key difference is that each answer posted has to stand on its own. Stack Exchange neither supports nor encourages a "forum-style" of open, free-for-all discussion (many-to-many conversations). This is by design. 
+
+123456789012345678
+1 StackOverflow.com
+2 Dedicated to the
+3 tireless effort of
+4 expert programmers
+5 making this brick
+6 [status-complete] Almost all Christianity questions are on-topic for Judaism. If [a subject for] Judaism already exists, it already has a tag for Christianity, and nobody is complaining You’re not creating such a big group that you don’t have enough experts to answer all possible questions There’s a high probability that users of Judaism would enjoy seeing the occasional question about Christianity. The missive above doesn't sound workable to me, but whether you agree or not with that technical assessment, there is still one incontrovertible problem: Users seeking answers to their deepest "expert" questions on Judaism (or Christianity) are not going to show up on a generic "religion" forum — And site is not much good to a group of users if they will not show up. 
+
+Of course, many of those social mechanisms break down in a virtual environment. Folks either miss the subtle cues and either fail to change course or go elsewhere… or they willfully become spoilers emboldened by their anonymous persona. Moderators can handle the spoiler case when things go wildly out of control, but calling in the authorities every time some blowhard gets too loud or someone starts veering off topic doesn't help them not get there in the first place. 
+
+There is some potential for loss of functionality there, since right now it is possible to edit the post to either include additional related links or remove obsolete/incorrect ones. That could be addressed by making the "duplicate field" editable at a certain reputation level (10k?) and enabling others to suggest edits for it that'd go through the usual approval/rejection process. I'm sorry to hear that Michael's experience was bad. Some folks love us. Some do not. We aren't perfect, we have a number of problems - some technical, some social. Our community-driven moderation model is both one of our strengths and one of our weaknesses. 
+
+For sites that don't make it through beta, the content snapshots taken at the time when the site was shut down are available from their corresponding proposals on Area 51. We've tried to help you with getting the Stack Overflow question ban lifted, and I'm sorry if we didn't come off as helpful as we'd tried to be. However, it does look like you're no longer blocked from asking questions on Stack Overflow, so something must've worked out right. :) 
+
+Seriously though, we already provide (mostly) regular data dumps of all of the content from Stack Overflow and other sites. You can find them here. 
+
+Regarding your ban here on Meta Stack Overflow... I personally think a year was way overkill, but I wasn't aware of it at the time. That was before my time as a moderator/employee here. For what it's worth, the meta suspension wasn't automatic, but at least it's done now. You're free and welcome to ask questions about Stack Overflow (but not Tomcat :)) here. 
+
+Voting is crowd sourcing. By definition, a crowd includes your crazy uncle Joel Earl and the professor from down the street. It works because, on the whole, it adds up to something sensible. Expecting individual votes to make sense is unrealistic. Expecting that every single downvote will come with an explanation is unrealistic. If you get an unexplained downvote, you shrug your shoulders and go on. If your post was a good one, someone else will wander along and upvote it. You Will Get Downvotes. If, contra Jeff's answer, the sites demanded an explanation, plenty of the explanations would be aligned with the 'tinfoil hat' crowd, and wouldn't make any difference to what you post. If you believe that many really good posts are languishing in negative numbers, go set an example and vote them up, and others will follow the example and vote for yours. 
+
+There's a fairly constant stream, or at least dribble, of spam and offensive flags being applied to questions which are merely poor. They certainly aren't selling things. They aren't generally flagrantly off-topic -- just weak. Heck, of late, they aren't even particularly subjective. 
+
+The subject matter is on topic. Some people seem to learn from them. They sure don't have a single acceptable answer, but, isn't that one of the less offensive uses of CW?

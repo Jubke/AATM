@@ -1,0 +1,63 @@
+When we stop people from asking questions, we stop them from asking questions; we do not put them in a virtual reality sandbox. 
+
+During this process we are tweaking stuff so handling the proposed edits is super easy. We are also adding some more restrictions to edits, such as you must enter a substantive comment for any suggested edit, edits must not be no-ops, etc. 
+
+We brought it back in a format very similar to the activity stream, clearly you can only see your votes. You can see deletions/undeletions/closures and reopens as well as up/down votes. 
+
+Take Hans for example, where the complaints are directed at: 
+
+Voting drives the economy of Stack Overflow, this trend of decreased voting can not be helping. 
+
+Once this "shadow community wiki answer" shows up it can be subject to voting and being accepted. 
+
+The trouble was that these are the easiest flags for us mods to deal with. The trickier ones to deal with are all the rest. 
+
+And it is now full fledged. We can see different vote casts. 
+
+It is ... complicated but this is what it looks at: 
+
+For these shadow answers, editing should be locked (and only accessible on the original question, so we do not create fragments) 
+
+We just made a change that gives visibility to all the moderator flags that come with canned messages and stripped out comment and spam flags. This means that if a post is flagged: 
+
+We can also use this to give people "badges" for finding lots of great canonical answers and so on. 
+
+"I like waffles" is just not going to cut it. 
+
+I'm adding this for everyone's amusement. 
+
+I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days. 
+
+I think we can stop the flow of crap by improving our existing systems, while being transparent about what it is we are doing. 
+
+One slight open question is how to add a filter that allows you to see stuff that you downvoted in the past and now is no longer vote locked. For the time being you can trawl through your downvoted list. 
+
+The vast majority (like 95%) of edits are approved/rejected by the team during the test runs. 
+
+If it is accepted by the OP clearly the question is a duplicate, so the system can close it. 
+
+Instead of just the OP seeing why an edit occurred, others benefit from explicitly seeing both that a post was edits and why it was edited (and implicitly how it was improved). 
+
+So, this site is about the Christian religion. 
+
+So, this site is about the text of the bible as a work of literature and its study. 
+
+If a "How to ask a good question" FAQ were to be compiled, what do people here think are the top issues that it should address? 
+
+Personally, I don't see an issue with such comments. 
+
+They gain an immediate satisfaction of a green +10 (or however much) notification and a much delayed loss of reputation when the question gets deleted (if within 60 days). This reinforces the behavior that is bad for the long term health of the site. 
+
+In short - this is the battle between the core people of the community - those few who care for the long term health of the community vs the greater numbers of people who are only in it for themselves (whether spammers, give me teh code, answering bad/off-topic questions etc...). 
+
+All of that makes me consider this "not a real question" or perhaps rather "too localized". As such, I would vote to close it or flag it if I didn't have the privilege to vote. 
+
+The characters "OP" stand for "Original Poster", the person originally asking the question. 
+
+As for pointing out to users that they should not beg for acceptance or upvotes, I'd usually just leave it. Flag as not-constructive and move on. The last thing we need is a big kerfuffle in the comments. Should this be a user who does it time and time again, you could leave a comment. Or perhaps point it out to a moderator, who could then leave a comment. But I'd only do that for severe cases. 
+
+I get what you're going for here, and it's a noble idea. But we're already doing a lot, and it's simply not feasible for moderators, nor the community, to fix everything. Most of the effort required will have to come from the OP, by reading the FAQ, reading Meta posts and by trying to improve all the time. 
+
+As for the badge, that is status-by-design. Badges are not revoked once conditions for it are no longer met. They won't receive the badge again the next time they might qualify for it though. 
+
+In your question, you posted (ad verbatim) the full problem. You did not attempt to solve it. Or at least you did not tell us about it. The problem is stated and you ask others to solve it.

@@ -1,0 +1,15 @@
+All of the philosophy of mind courses I've seen seem to follow a basic pattern: 
+
+DesCartes ontology is twofold because of his mind-body dualism: DesCartes held that the mind and the body were made of fundamentally different substances that can never be reduced to one another. 
+
+From a strictly materialist point of view, Hofstadter's concept of strange loop, and self-representational and higher order theories of consciousness would allow for a machine to reflect upon itself. Broadly speaking, these types of theories assert that conscious arises (or is possible) in systems which have the ability to monitor themselves, or store and process representations of themselves. If a system's repertoire of symbols is complex enough that it can store and manipulate symbols corresponding to itself, then it should be capable of self awareness. All the issue comes down to is the level and complexity of representation that the system is capable of. 
+
+In a book on Aristotle's metaphysics I read a passage on the differences between his and Kant's categories. It says that the concept of categories, in both Aristotle's and Kant's case, wasn't conceived by observation of the outside world but is a reflexive concept. Then follows this sentence (my translation): 
+
+Justice, as a term of rights [Recht] is established by the implementation of a legal situation. As not having one is worse that having a bad one, revolution is prohibited. There is simply no justice in the state of nature. There is no way to guarantee "Mine and Thine" - thus to get into a legal situation, even coercion is allowed. To leave the state of nature has such a high priority for Kant, that to overthrow the legal system is simply not an option. If leaving the state of nature is a must, then returning to it must be prohibited. 
+
+I'm not surprised by that statement, I'm just wondering if that's really an established dilemma, as it's depicted here, and if somebody knows of any papers addressing it in more detail, so I can do some reading on that. 
+
+Where Kant would diverge from those who adopt the the self-representational theory of consciousness, is that he sees our self-awareness, or reflexiveness, as leading to free-will, whereas the self-representational models don't require or imply freewill at any point. Indeed many from that school believe that we don't have freewill in the traditional sense at all, they are all either compatibilists or hard determinists. 
+
+From a strictly materialist point of view, Hofstadter's concept of strange loop, and self-representational and higher order theories of consciousness would allow for a machine to reflect upon itself. Broadly speaking, these types of theories assert that conscious arises (or is possible) in systems which have the ability to monitor themselves, or store and process representations of themselves. If a system's repertoire of symbols is complex enough that it can store and manipulate symbols corresponding to itself, then it should be capable of self awareness. All the issue comes down to is the level and complexity of representation that the system is capable of.

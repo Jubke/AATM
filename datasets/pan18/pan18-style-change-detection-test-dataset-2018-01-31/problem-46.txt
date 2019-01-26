@@ -1,0 +1,63 @@
+Then, I unplugged the external drive and restarted Steam. The game was listed as uninstalled. After plugging in the external drive, the game remained as uninstalled, and launching it would prompt installation (in addition to creating a new Steam library on the external drive). Installing to the same directory at this point immediately installs the game and it starts working again. 
+
+I wrote this AutoHotkey script to generate shortcuts (no icon images though) 
+
+I have the soundtrack for The Binding of Isaac: Rebirth installed through Steam: 
+
+As long as the SteamApps folder layout is the same for all systems you'll be using, there will be no problems with installation. Possible problems with this include savegames inside the game folders, patching from multiple computers at the same time and that installing and deleting games requires you to restart Steam on other computers. 
+
+Also note that not all games support this system, or have only partial support. For example, you cannot participate in CS:GO's competitive matchmaking while borrowing the game from another account. Most games with 3rd party DRM, such as Uplay, will cause issues and might not even show up on the list. 
+
+The problem is some games check with Steam that the currently signed in user has bought the game. DRM biting you in the backside. 
+
+Per game option You can now tell Steam to continue downloading updates/games while playing games from your games' properties. Note that this setting is not available for non-steam games, which will always use the global setting. 
+
+Short Answer Install game on external Unplug external > error (missing executable) Plug in external > game works Unplug external and restart Steam > game offers & requires installation Plug in external > game offers & requires installation Restart Steam > game works Installing to the same directory when it offers & requires installation detects the game and the game will work. 
+
+All you had to do is wait! Answering your questions: 
+
+Games like TF2 and DoTA 2 will work fine, but other titles such as Counter-Strike: GO will require a repurchase (for his account) or family sharing licenses. 
+
+A Steam Wallet code purchased in any country can be used in any country's store. However, if your wallet code provides value in a different currency, you will be prompted to convert the funds into your store's respective currency. 
+
+For your case: Note: Just to not confuse with who is who, let's say your friend who owns CS:GO and isn't playing is Friend 1 and the one who doesn't own but wants to play is Friend 2. 
+
+To install skins on Steam, you simply drag the skin's folder into the skins folder in your Steam install directory. 
+
+On Steam, there are no multi-seat licensing. Although Valve does do this for cybercafes and education institutions, it is essentially the creation of multiple accounts (one account per computer) with licenses applied manually by Valve that are simply logged in automatically when the computer starts, which is the same as multiple single-user accounts. 
+
+When I open Garry's Mod, it seems to be downloading even more things, and both stages uses bandwidth as far as I can see. As in: Garry's Mod does not use the files downloaded by Steam. Does it? 
+
+For example, if you're shipping from US to Australia (or Russia), there won't be any issues. But, shipping from Russia to US with a Russian Steam account is a different story. 
+
+Create a steam account for each person (or workstation) you would like to play. Purchase the game that you would like to play for every single account. At each workstation, log into a different Steam account that you have created for this reason. As for maintaining updates, there are many solutions for that. What I typically do is have the files sync from a central computer/server. For BYO computers, I put them in a network share and ask everyone to copy from there (as opposed to having everyone download altogether*). 
+
+You don't need to do this. See your question 1. 
+
+You can read the list of command-line options here. 
+
+Steam officially released Big Picture Mode today, for navigating Steam with a controller. They claim it can be used from the computer, without the need to hook up to a TV. 
+
+Users on this page have confirmed that DayZ does indeed work with ARMA II Free. 
+
+The author was referring to the steam holiday gems. 
+
+When this question was asked, Steam Family Sharing was in beta. However, as of March 3rd 2014, Steam Family Sharing is out of beta and available to everyone. 
+
+On Steam, you have a Library and an Inventory. Your Library is the list of games you own and can play, but can't trade; your Inventory is the list of games you can trade but can't play. 
+
+They are a new feature (released yesterday) in which a steam user can turn their extra junk cards/backgrounds/emotes into "gems." These gems can be used to buy more cards; or, during the upcoming holiday event only, to bid on games. 
+
+Short Answer Install game on external Unplug external > error (missing executable) Plug in external > game works Unplug external and restart Steam > game offers & requires installation Plug in external > game offers & requires installation Restart Steam > game works Installing to the same directory when it offers & requires installation detects the game and the game will work. 
+
+You simply need to enable Family Sharing on the computer you want to use: 
+
+As long as the SteamApps folder layout is the same for all systems you'll be using, there will be no problems with installation. Possible problems with this include savegames inside the game folders, patching from multiple computers at the same time and that installing and deleting games requires you to restart Steam on other computers. 
+
+The problem is some games check with Steam that the currently signed in user has bought the game. DRM biting you in the backside. 
+
+I wrote this AutoHotkey script to generate shortcuts (no icon images though) 
+
+I have the soundtrack for The Binding of Isaac: Rebirth installed through Steam: 
+
+Also note that not all games support this system, or have only partial support. For example, you cannot participate in CS:GO's competitive matchmaking while borrowing the game from another account. Most games with 3rd party DRM, such as Uplay, will cause issues and might not even show up on the list.

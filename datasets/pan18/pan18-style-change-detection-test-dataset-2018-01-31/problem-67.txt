@@ -1,0 +1,31 @@
+My question is, when do resource-generation skills actually generate resources when attacking an object? 
+
+But either way I was able to 100% verify that Mighty Blow is obtainable from channeled skills, but only when you kill the monsters quickly enough. 
+
+What is "graveyard zerging", and how is it done? 
+
+A second difference is the choice for the secondary hand - with a hand crossbow it's either another hand crossbow, a shield or a quiver, while with a bow or crossbow the only option is a quiver. 
+
+Caltrops remain on the ground for 30 seconds if they are not activated. 
+
+In another, later post they mentioned "death zerging", which I assume means the same thing. 
+
+I've noticed that when attacking an object (e.g. a barrel) with a fury-generating skill as a Barbarian, I generate fury as if I would have attacked a monster. Attacking a barrel with a spirit-generating skill, however, does not generate spirit. 
+
+Blizzard has said so many times and many people have found incredible loot in otherwise lowly containers. Of course, a rare monster has a much higher chance of dropping good loot than a barrel, but there's a chance nonetheless. 
+
+In my experience with a Monk, going with a 2-handed weapon would typically get me 10-20% more DPS, which is significant, but often not worth it if I got a great shield or a good secondary weapon. 
+
+In a blog post by Blizzard they mention some practice called "graveyard zerging", for instance: 
+
+Also, only five caltrops can be active at a time—laying a sixth caltrop makes the oldest one disappear. 
+
+You can get a Mighty Blow when you use a channeled skill, but only if you kill enough monsters fast enough. The fact that you use a channeled skill to kill enough monsters does not qualify for Mighty Blow unless you kill them quickly enough. 
+
+Do different weapon types have different reach? e.g. if I use a regular attack with a polearm, will I be able to strike enemies further away than if I use a regular attack with a dagger? 
+
+The most obvious difference is that the Archery passive gives you a different bonus depending on your weapon type of choice. 
+
+Yes, as of a recent update there is an equivalent for Diablo III. Once you log into the battle.net Diablo III site, you can click the "profile" link under your chosen account to display your career and individual heroes, as well as visit your friends' career / heroes pages. 
+
+I think it's a pretty general question of 2-handed weapon versus two 1-hand items (weapons or shields). With 2-handed weapons you usually get less affixes, because you're basically throwing away an item slot. 2-handed weapons tend to have a better damage (and DPS), though.

@@ -1,0 +1,29 @@
+The cutoff seems to be around 90 days, all older proposals show 0% signed up, the newer proposals show a proper value. What is going on there? Are some results mixed up between different SE sites? 
+
+For Programmers.SE it shows more than 100% of committed users signed up for the beta After refreshing the page the old-fashioned way this emtpy question dissapeared. 
+
+Nothing against four times Jon Skeet in a row, but this seems to be a bug in the tag filter, as these questions only appear one time on the SE sites themselves. It seems to only affect newer questions, the older questions are unaffected in the same tag filter. 
+
+Suspension stops you from doing anything, because pretty much ever action you can perform could be abused. 
+
+For example, voting on both a question and a self-answer to it is something the script shouldn't regard as serial voting, you are still voting on the same page. Or if a user posts multiple answers to the same question, voting on all of them is again legitimate voting behaviour. 
+
+The script should simply count multiple votes on posts of the same question as one, no matter how many are voted on. It is natural behaviour to read through a question and its answers and potentially vote on all of those posts. 
+
+The following regular expression is the culprit: I went to http://stackexchange.com/newsletters and looked for the Biology site under the Science category, but there is no Biology site listed there. I checked all of the other categories as well and even used the search, but the Biology site is nowhere to be found on the newsletter page. You're using three asterisk on that post which results in italic bold text, which looks a bit thin on the Android site. You can just use two asterisk with result in plain bold text, which looks okay on the Android site. 
+
+and for Sharepoint.SE it shows only 3.8% of committed users signed up, which sounds unbelievably low. 
+
+Viewing this tab also doesn't lead to an entry in the user history about a moderator accessing the email address, unlike all other actions on the user profile that would expose PII. 
+
+Check some other posts if you can see the edit link there, the usual reason you don't see one is that there is already a suggested edit in the queue. If there is already a suggested edit on a post, sub-2k users don't see the edit link. 
+
+As you don't see the edit link anywhere, I checked on another site myself and also don't see it. I expect that this is a bug, as I can't imagine they removed suggested edits for registered users. I just refreshed the question list here on meta by clicking on the new "X question with new activity" link and got the following result: I took a look at the newsletter subscription statistics for Biology.SE and to my suprise, not a single user was subscribed to it. To make sure that this is a bug and to exclude the possibility that maybe just nobody want to read the newsletter, I tried to subscribe to it myself. 
+
+I added a system message according to the template Grace Note provided, the source code of the message is the following 
+
+The filter for getting questions from all meta sites seems broken; every time I try to use it the resulting list of questions is emtpy. Here is one example filter for getting all questions tagged discussion on all meta sites, which does not return any question for me. If I change "All Meta Sites" into "All Sites" it returns questions as expected. When accessing the preferences tab of a user profile from another user as a moderator, I see the following: 
+
+This used to work some days ago, and suddenly stopped working. 
+
+Serial voting is about deliberately seeking out posts from a specific user and voting on them, so multiple votes on the same page should not count towards it. In most common cases this just doesn't make much of a difference, but the evaluation posts highlight this weakness of the script.

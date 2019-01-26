@@ -1,0 +1,47 @@
+So, if you use a BMX lever with V-Brakes on a mountain bike, you likely won't be able to pull enough cable to work properly. You'll probably be able to stop somewhat, but they will feel off and will have to be setup so the pads are very close to the rim. You're better off getting MTB specific levers. 
+
+With the consumer reports and CDC recommendations in mind, I would probably choose a combination of Picaridin on skin and pre-treat some of my gear with Permethrin to kill ticks/mosquitos that get on my gear 
+
+SE Stout is a single speed mountain bike that runs relatively cheap. 
+
+Permethrin - CDC Also Noted that use of Permethrin on clothing and gear can be effective in repelling and actually killing ticks and other insects (which other repellents do not).** 
+
+Without using manufacturer specific parts: 
+
+Oil of lemon eucalyptus (OLE) or PMD (chemical name: para-menthane-3,8-diol), the synthesized version of OLE. Products containing OLE and PMD include, but are not limited to, Repel and Off! Botanicals. This recommendation refers to EPA-registered repellent products containing the active ingredient OLE (or PMD). “Pure” oil of lemon eucalyptus (essential oil not formulated as a repellent) is not recommended; 
+
+Riding in the northeast US, I find myself encountering a lot of overgrown mountain bike trails in the spring. Many of these trails are bordered by briars / brambles / jaggers. I can't totally avoid them, so what can I do to protect my legs from them while not subjecting myself to overheating in hot weather with high humidity? 
+
+Can I use a wheel with a thru-axle hub on a standard quick release fork or frame dropouts (with an adapter)? 
+
+Clothing, hats, shoes, bed nets, jackets, and camping gear can be treated with permethrin for added protection. Products such as Permanone and Sawyer, Permethrin, Repel, and Ultrathon Permethrin Clothing Treatment are registered with EPA specifically for use by consumers to treat clothing and gear. Alternatively, clothing pretreated with permethrin is commercially available, marketed to consumers in the United States as Insect Shield, BugsAway, or Insect Blocker. 
+
+The problems I would see would be that the disc rotors wouldn't line up on the 29er. Could I use spacers to make the hub fit on the 29er or would I need to use a 135mm hub and spread the chainstays on the cross bike? Would either of those options work? 
+
+You'll need to check and be sure you have the frame clearance as well, but if you can fit 29x2.4 tires, you should be good using a smaller tire like the wtb trailblazer which is 27.5x2.8 and should work well with a lot of frames. 
+
+If you're confident in your ability to put it together properly, you can find them at bikesdirect for around 350. http://www.bikesdirect.com/products/se/stout.htm 
+
+One thing you may want to consider is getting wider 650b rims and going for 650b+ (aka 27.5+) tires as they will fit a lot of existing 29ers and will not alter your geometry significantly. 
+
+I'd like to build a wheelset that would work on my cross bike or my 29er, assuming I had disc brakes on the 29er and rim brakes on the cross bike, is there any way I could use a 130mm hub (that fits the dropouts on my cross bike) and make it work on the 29er with 135mm spaced dropouts? 
+
+A Consumer Reports Insect Repellant Buyers Guide said that A 20-percent picaridin product was their top repellent overall—and the only one to ward off both species of mosquitoes plus ticks for at least eight hours. 
+
+UPDATE: EWG mentions that IR3535 can also melt gear like Deet. So would not recommend for use with technical gear. 
+
+Anything from a 650x2.8 to a 3.0 will be in about the same range of tire size as a 29er wheel/tire combination, but will have a wider / rounder tread profile. A wide rim will be needed, 35mm to 50mm rims are typically used for a 650b+/27.5+ setup. 
+
+Can I use a wheel with a quick release hub on a thru-axle fork or frame dropouts (with an adapter)? 
+
+Permethrin is a highly effective insecticide-acaricide and repellent. Permethrin-treated clothing repels and kills ticks, chiggers, mosquitoes, and other biting and nuisance arthropods. Clothing and other items must be treated 24–48 hours in advance of travel to allow them to dry. As with all pesticides, follow the label instructions when using permethrin clothing treatments. 
+
+Standard Avon Skin so Soft also seems to be popular among Scottish mountain bikers against biting midges, though might not be as effective as the ones containing IR3535 specifically. This is not endorsed by the CDC. 
+
+It's still important to check your chain for wear and replace as needed. Keep in mind, a worn chain is going to keep wearing down your drivetrain. However, it's not going to really suffer much in terms of performance degradation until everything is really worn. 
+
+Also, see Sheldon's comments on extending single speed chain land sprocket life by using even numbered cogs and chainrings. 
+
+If you're not using brifters and have separate brake levers and shifters, you can buy linear pull drop bar levers like Tektro RL 520 that will work with your v-brakes without buying separate travel agents. 
+
+We may also want to consider that there are also different thru axle sizes, commonly 12mm, 15mm and 20mm. I think the most common size of thru-axle currently is 15mm

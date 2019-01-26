@@ -1,0 +1,21 @@
+These are systemic issues. The entire organization (including the project management team, the developers, and senior management) should work together to fix a clearly-broken process. At this stage, it is also likely the company needs an outside agile coach to help identify all the process problems, and help your company formulate new solutions. 
+
+Getting Consensus Sometimes getting consensus is hard. That's why planning poker uses time-boxing, so that consensus-building doesn't take infinite time. Remember, you can also call on the Product Owner to clarify stories, decompose stories, or swap out stories for something else on the Product Backlog. Some level of consensus should always be possible. 
+
+If a story is accepted into the sprint, at the end of the time box the team must record an estimate. This estimate may be: 
+
+Lewis Carroll Does Scrum Consider a story like: 
+
+Common problems that can cause this smell include, but are not limited to: 
+
+There can certainly be other reasons as well. The important thing is to clearly identify why the team (or more likely the stakeholders) need or expect this level of tracking or status reporting. That's the real problem to be solved, and is most likely a communications or transparency problem within the current Scrum implementation. 
+
+Whether or not your company fixes the underlying problems is ultimately the responsibility of senior management. Project managers and developers can only recommend; the executives must take ownership of strategic decisions for the company. 
+
+You (collectively) didn't do those things. You are now apparently surprised that the project team delivered the wrong thing, and that the release date must move to accommodate large post-hoc changes. 
+
+During a round of planning poker, the programmers on the team might estimate this story at only two points, since adding a tooth-count column to a database table is a minor change for them. However, the testers might estimate this story at 13 points, since getting close enough to count a Jabberwock's teeth to gather accurate fixture data is a dangerous (and potentially fatal) task. 
+
+Fixed, cross-functional teams that work on different projects, but only one at a time. Product-based teams, where the teams are formed around each product. Note that each product will have its own separate Product Backlog, and each team will work from exactly one Product Backlog. Feature-based teams, where teams are formed around features (rather than projects), who may either share a single Product Backlog or have one backlog per feature team. How you delineate projects, products, and features can complicate this, but the distinction between a single product with many features and multiple products should be your guiding principle. A great deal depends on correctly conceptualizing the project, and not being afraid to split off related projects when they no longer fit within the bounds of a single product or team. 
+
+The average (or mean) of the estimates. The median of the estimates. The worst-case estimate. The best-case estimate (but please don't do that). Failure to estimate properly will become obvious during the sprint, and will provide good grist for the mill during your next retrospective. Continuous process improvement is the name of the game, after all.

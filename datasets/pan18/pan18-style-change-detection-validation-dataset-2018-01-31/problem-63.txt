@@ -1,0 +1,21 @@
+Is the collapsed/expanded state of the achievement. If this icon is absent, the achievement cannot be expanded. 
+
+means that this achievement is worth 10 points. 
+
+If the latter, what qualifies as bonus experience? Just +XP per kill? What about NV stacks? What about a ruby in your helm? EDIT: As @Wikwocket pointed out, magic find is multiplicative. This makes the above example less relevant, but the question is still the same: He's out in the back, past the Mayor's cart, out toward where the ferryman is. I had the same problem when I first faced these critters on my Monk. They are the first enemy that caused me to change my skill loadout. Achievement "Points" are an arbitrary number by which you can measure your awesomeness. Nearly all achievements are worth 10 points, regardless of their difficulty. 
+
+My best advice is to keep moving. The attack moves pretty slow and if you see it coming, it's not too hard to dodge. But as you said, all too often you are distracted by other foes. So here are a few tips and tricks to deal with those pesky flies as a monk. Or is the affix read literally to mean it increases only your bonus experience? I.e., with a 30% ring and you have +100 xp per kill, the effect increases that to +130 xp per kill. Other resistances are entirely useless. They will provide no benefit whatsoever, unless it goes higher than your chosen. In which case, why are you diluting your equipment choices to that extent? You might as well focus exclusively on Resist All, then. 
+
+I was poking around the blacksmith's recipe's, and realized: Inferno has an extra salvage! Using the same source, Inferno class gear results in the following: 
+
+Inferno – Act II iLvl 61: 23.3% iLvl 62: 18.6% iLvl 63: 9.3% 
+
+Intelligence will boost your resistances, and that's never a bad thing. Your chosen resistance is better, though, as it takes 10 Intelligence to match a single point of resistance. Description: You want gear. If you punch a demon, you want it to explode with gear. If it's not raining gear, it's because that demon you're eyeing just hasn't exploded yet. Better change that... 
+
+Description: You want gear. The more stuff it gives you, the better. Doesn't matter if it's useful or not. You want the glowing sword that sings, so you can show it off to friends. Blizzard has also published the general drop rates for the highest level equipment: Yes. There are lots of dead soldier corpses, and as you noted, the distinction is that the one holding the Bloodstained Letter is a Dead Soldier, not a Dead Guardsmen. I have always found him on the Keep Depths Level 1. I've found it extremely rare that it doesn't drop. My last run had the Dead Solider a couple rooms in. Usually, he's in a little alcove dead-end. I've noticed I get the Bloodstained letter almost every run. Now that I'm paying attention, the Dead Soldier has (so far) dropped the Bloodstained Letter every time. Damage absorbed by the enemy does not count for aggro purposes (for example, hitting a shielded enemy will not pull aggro off of someone who has it via proximity only) 
+
+I know it's not just based on Armor value, since I've seen this value higher on pieces of armor that contain lower armor values, and see it on non-armor pieces such as rings and amulets too 
+
+As a helpful tip to avoid dying, when Diablo gets to really low hp (not sure of the exact %, but its less than 5%) in the final fight, he will stop attacking and simply sits there. The three attacks each seem to do 1/3 of 140% weapon damage each, so your 5-hit combo is around 9.3% weapon damage per hit, which results in an extra 3 hits giving you another 28% damage. 
+
+Everyone has the ability to resurrect their allies, however once the dead player clicks [Respawn at Last Checkpoint], the option to resurrect them is gone.

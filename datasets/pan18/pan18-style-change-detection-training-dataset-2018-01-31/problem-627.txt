@@ -1,0 +1,33 @@
+This is pretty quick to calculate in my head. 
+
+I'm on the button, with AJ unsuited. Blinds 3000/6000. Folded to me, I raise the pot, BB calls. My stack before the start of the hand is around the 110000 mark, slightly lower than the caller. 
+
+2BB: 9 3BB: 10 5BB: 11 10BB: 12 
+
+With 1100 in the pot pre-flop, and a stack of 7775, you're probably in push fold territory. Push here and steal the blinds. If there was no ante, a raise to 1400 to steal 600 still gives you room to fold to a 3-bet whilst being strong enough to make the BB think seriously about calling. If they do call, you're in push/fold on the flop. Raising to only 1000 pre-flop I think makes the button assume the BB will call, so entices the button to call with drawing hands. 
+
+I think you've played right pre-flop. 
+
+I think the continuation bet is right post flop usually, but your stack size I think means you need to either push all-in or check-(call/fold). 
+
+Perhaps also relevant is that I'm in a tournament starting with 22 players or so and down to 10 players. Top three are paid 50/30/20. 
+
+Turn is a 6. BB raises 30000 (pot is now 85000). Calling here would have pretty much put me all in on the river, I was concerned about a BB special of two pair or worse still, drawing dead against a low set or even a hit straight. 
+
+I'm not sure if is in any official rules, but I think one should be as nice as possible to players suddenly leaving the table. With that much money in the pot, it's quite possible that they've left for a medical emergency. 
+
+Against one opponent I would push in this instance. Considering the second opponent here is the BB-special, I'd probably still push. It's unlikely they've hit the Queen, and you've just got to hope your caller on the button isn't sitting on high pockets or has hit the queen. Perhaps the button caller has a wideish range because they've got position and are unlikely to be re-raised in this spot. 
+
+I understand adjusting to your opponents is important, but I feel it's really important to have a baseline. I've made one up myself which is easy to do during a live tournament but I have a feeling I'm re-inventing the wheel and someone has probably done a better job at it than me. 
+
+I remember (8,9,10,11) for the button. Before each hand is dealt, I look at my stack size, and pick either 8,9,10,11 depending on that. I then take away 3 if I'm small blind, or add 1 if I'm cut off or 2 otherwise. That gives me a number. I can then look at my hand and quickly calculate it's number to decide whether to push or fold. 
+
+Do people think this was a correct fold here? Should I have folded on the flop, or perhaps re-raised? Perhaps calling on the flop was a bit silly, the only chance I have of improving my hand is one of the two Js or one of the three As, and an A may not even be enough anyway. 
+
+I PokerStoved this range against your AA: 
+
+With the half pot amount that you bet, he's not getting terrible odds to keep going even if he doesn't have a made hand and he knows exactly what you have. His turn bet seems to be eliminating the overcards and maybe the pure draws, but he could still make this bet with anything else. Betting after the 2♣ came out doesn't have to be a show of great strength here -- it could also be some level of relief that any of the possible draws didn't improve, and since you'd checked here you showed some level of weakness. 
+
+If they happen to only be folding when you have a really strong hand, though, you might ask yourself if you're subconsciously providing clues regarding your hand strength. Maybe you have bet sizing tells. Maybe your timing changes when you have a strong pocket pair. Maybe you start grinning uncontrollably. (Maybe the cards are marked and others at the table know what you're holding.) 
+
+A: Action out of turn is subject to penalty and is binding if the action to the OOT player has not changed. A check, call or fold does not change action. If action changes, the OOT bet is not binding and is returned to the OOT player who has all options including: calling, raising, or folding. An OOT fold is binding.

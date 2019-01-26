@@ -1,0 +1,41 @@
+The reference image above shows the targeting indicators and the cursors. In order from left to right, they are PMC, PMC (colour-blind), PAMC, PAMC (colour-blind), PAM, and PAM (colour-blind). The first four are animated indicators shown on the ground, and the last two are cursor replacements. 
+
+Once the AIR client closes down and you begin to load, go into your tray and find the Riot Games icon. (In the image above, it's the leftmost icon.) Click it and the AIR client will come back, allowing you to interact as usual and scroll up as well. 
+
+Riot now uploads login screens to YouTube. (Finally!) 
+
+I'll give a short description of each with their Windows bindings. 
+
+Once you've found the theme, you'll find several files and folders: 
+
+One thing to note, by the way, is that all the current sources of bonus HP actually increase your maximum health (temporarily), meaning that % max HP damage sources will do slightly more damage than if you had unbuffed health. 
+
+Bonus HP acts exactly like regular HP. It is subject to the same damage reduction/amplification from resists. In addition, it is added to both your current and maximum health, but the additional max HP is only temporary. 
+
+Player Attack Move (default A): This changes your cursor to show a red diamond cursor icon (yellow in colour-blind mode). After you click (with LMB in Windows), it acts exactly like PAMC, including displaying the targeting indicator. 
+
+Shields (or more formally, absorption shields) provide temporary health to a champion which is capable of mitigating damage dealt, sometimes granting an additional bonus effect as well. Since they act as extra health, they are affected by the champion's resistances. 
+
+For example, if you're at 400/1500 HP and you get Wild Growth'd for 300 HP, you'll be at 700/1800. If you proceed not to take any damage, you will be at about 700/1500 at the end of the 7 seconds. 
+
+As of writing, this is missing those from before the Hecarim patch. You can find them here: 
+
+HP-based champions like Aatrox expend some of their Health Points to cast spells. They tend to have no secondary bar (although Aatrox is one that does), and the health costs may be flat or, more often, a percentage based on their current or total health. HP-based champions cannot die by casting a spell. 
+
+Solely considering which item will allow you to pass through more Magic Resist: 
+
+Blood Well currently has only one other purpose: for every 2% that his Blood Well is full, his Attack Speed increases by 1%. 
+
+Let's do some calculations now. 
+
+It is in fact very common for players in lower divisions to have higher MMR and thus pick before players in higher divisions. This is most notable in each tier's Division I, as those players tend to have MMR similar to or above that of players in the next higher tier. It is also fairly common to see players in the upper divisions of a tier pick above players in a tier's Division V, as some players in a Division V may be stuck there due to the inability to drop tiers. 
+
+Void Staff Void Staff provides +35% Magic Penetration to the wielder. 
+
+Season 3 introduced the concept of Leagues and League Points to mark progression in Ranked. Elo still exists as a hidden value called MMR, standing for Matchmaking Rating. In Season 3, the pick order in Ranked, both Solo/Duo and Premade, ignores Leagues/LP, and is entirely dictated by MMR. Therefore, a Platinum I player can pick before a Diamond IV player, and a duo between a Gold II player and a Bronze III player will always* make the Gold II first pick and the Bronze III last pick. 
+
+Two allied champions both wearing Captain boots walking toward each other will, however, both receive the bonus. 
+
+League of Legends Christmas 2011 Lunar Revel Lulu Older instructions below, and in revision history. 
+
+In Ranked Solo and Duo queue, the pick order is by Solo/Duo Elo. Thus, if you have 2nd pick, you have the second highest Elo on your team.

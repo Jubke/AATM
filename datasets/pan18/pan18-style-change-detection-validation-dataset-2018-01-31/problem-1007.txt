@@ -1,0 +1,41 @@
+Another piece of evidence that Toposes are a natural context is the remark made by Bentham & Doets in HOL 
+
+(Choice is generally useful when dealing with properly infinitary objects, which is why I've asked with reference to ZFC, rather than ZF); 
+
+This is asserting the existence of a potentially infinite set, and not a completed one; it is saying for example, there is the set: 
+
+Continental philosophy is much more catholic in its influences - it permeates & is permeated by marxism, literature, anthropology, psychoanalysis & sociology. Its detractors say that its obscurantist and mystifying. Its much less marked by mathematics and formal logic; however Badiou, a contemporary french philosopher has tried to inaugurate a turn towards mathematics as an ontology based on ZFC - or as Hilbert put it Cantors Paradise, the place where he tamed the infinite by inaugurating the arithemtic of the transinfinite, and where von Neumann constructed his model of ZFC from 'nothing'. Its definitely based within the continental tradition. But quite how Badiou has overcome objections to the finitude of mathematical infinity (which was clear to Cantor but perhaps not to his impetuous followers) and the emerging sense that there is pluralism in Set Theory & Logic is not clear to me. 
+
+But why restrict to just possible worlds? Why not all worlds, that is include the impossible worlds; and then one can say that at the limit of the possible worlds lie the impossible ones - they are it's boundary. 
+
+How about 2nd-order Peano Axioms, I suspect here it can (but am not sure), as in the introduction of the previous article we have: 
+
+Mathematics goes through periods of accumulation of facts of interests and axiomitisations which orders and organises these facts. Although traditionally in European curricula mathematics is held to have begun properly with Euclids axiomitisation of Plane Geometry, this would not have been possible without the prior accumulation of facts about Plane Geometry, or even that figures in the plane are of interest. 
+
+Structuralism is a theoretical paradigm that emphasizes that elements of culture must be understood in terms of their relationship to a larger, overarching system or "structure." In other words, Structuralism posits that discrete cultural elements are not explanatory in and of themselves, but rather form part of a meaningful system and are best understood with respect to their location within (and relationship to) the structure as a whole. 
+
+But ironically, Cantor himself worried about that too, he had mystical tendencies towards the absolute infinite (perhaps he too had read Hegels doctrines). Aristotle, believed in a potential infinity, but not an actual one. Cantors theories of the infinite, far from disproving this claim, only affirmed them. It kind of leads one to suspect that Kronecker never spent the time to understand Cantors theories. 
+
+Kant, said the prestige of mathematics (within the right circles) led to fallacious attempts to prove Gods existence. They're metaphysical truths that do not admit such proofs. 
+
+Now, I've only recently understood that the dual of intuitionistic logic is paraconsistent. It doesn't seem a priori plausible to me that we must interpret the logic of these new constructions intuitionistically, why not paraconsistently? 
+
+In your own example a certain philosophy has to be established first. There is a school of thought that allows only facts that are demonstrable - they are called the constructivists. In particular they disallow proofs by contradiction. For example, if one asserts that primes are finite in number and from that derive a contradiction - this proof would be disallowed. One needs to directly prove that there are an infinite number of primes. 
+
+Can professional mathematicians/physicists actually assimilate how problematic mathematics/physics is, if they are to do their work, if they are too see the concepts they handle with concrete clarity, rather than as misty illusions. Rather than liberating, it may be disillusioning. Like piercing the veil of maya. 
+
+Having only the a very cursory knowledge of Structuralism, there does appear to be some points of coincidence: 
+
+Finally, to complete the circle, by using this definition in the category of finite sets (which have no internal operations given), we find that we re-invent the integers. 
+
+Badiou is returning to this tradition but it relies on a tradition of philosophical thinking of mathematics that is distinct from the Anglo-American tradition. 
+
+This is what Felix Klien had to say (he was a mathematician famous for formulating the Erlangen programme amongst others): 
+
+In the integers:1,2,3... we can say that there isn't a largest number; but it turns out with the advent of set theory we can posit a largest number omega that doesn't lie within the integers and yet bounds them. In mathematical terms we can say that it is a limit to them. 
+
+After Godel published his famous incompleteness theorems in formal logic, Tarski, a logician, showed that truth was undefinable using the same formal apparatus. 
+
+Zero is used as a placeholder in the decimal/Arabic number system, but for the purposes of the argument I'm developing here, the more important 'positive' virtue is that it allowed the invention of negative numbers. Without zero they wouldn't be possible. 
+
+The question then is what kind of logic does this quantum phase space support. Von Neumann & Birkhodd showed that this is non-distributive lattice, and by interpreting the join as or, and the meet as and they had a logic which they christened Quantum Logic. Its main drawbacks is that its difficult to interpret as a logic because of the failure of distributivity:

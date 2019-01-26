@@ -1,0 +1,33 @@
+Just now i have referred one Article Here in which i found some useful information as follows: Update: I want to change the Background color. 
+
+Scala is also supported. For having examples of Scala, refer these Example link-1 , Example link-2 , Example link-3 . So Please suggest me, how do i cancel the AsyncTask forcefully ? 
+
+I would like to read XML on my web page (Where i have to pass username and Password) from Android with HTTP GET. This library adds support for the Action Bar user interface design pattern. This library includes support for material design user interface implementations. I have tried to search on HashMap in Android, but getting problem: (In other words, I want to find the difference between CURRENT DATE - yyyy/mm/dd formatted date) 
+
+What is maximum size of the apk that can be supported by the android ? When we install any apk file in real phone, where does application installed (in SD-card or other memory) ?? I have referred this link: http://groups.google.com/group/android-developers/browse_thread/thread/7965885da4d1a03a and also searched lot. 
+
+Updating this answer as Lollipop OS is officially released with support libraries, which you can use inside your project to provide compatibility to older versions. 
+
+I am working on Android since last 7 months....Also knowing brief about I-phone application. Support library: v7 appcompat library 
+
+Currently i am developing an application whose name is long , so i would like to display name in two line same as "Quick Calendar" and "Search People" in an attached home screen widget: so I want to find the difference between date in number of days, how do I find difference in days? 
+
+In Android, There is a bad layout editor in Eclipse, but it's neither good nor User Friendly as I-phone Interface Builder is. 
+
+Let me come to actual point: in application, i am having an imageview for displaying image (Image resolution is 320*480), now imageview is displaying image in full-screen perfectly, but when i am trying to test it on HTC EVO 4G (having resolution 480*800), image gets stretch. 
+
+But there is for REST XML and i need to test it. How can I apply color on the various states(focused, pressed, enabled) of the TextView? 
+
+So, what i like to do is want to display 320*480 resolution image in all screen-resolution mobile ? i means to say,if the mobile is of higher resolution(i.e. 480*800 , 480*854, or else) than the image should be displayed in "Center" portion of the screen. 
+
+I need to explore for my project use of web services on Android. I know that there is no official library for XML - RPC web service. 
+
+Is there any visual designer that would be on par with the iPhone "Interface Builder" ? 
+
+Ya, DroidDraw is there but not that much user friendly as Interface Builder of I-Phone... 
+
+Right now, i am developing Android Application using SDK 1.5 and testing application on HTC Hero, its firmware is Android 1.5. 
+
+I have already referred this: http://developer.android.com/reference/android/content/res/ColorStateList.html , but do not know how can I apply color state list to the TextView? or is there any other way to do so ? 
+
+So please help me know and solve the problems: I am going to install first application in my android phone, but having some doubts related to Android Memory (Maximum size of APK).

@@ -1,0 +1,91 @@
+Also, the font size appears a smidge bigger, at least for the title. 
+
+UPDATE 2017-04-08: If what you want is to return to normal mode when the user clicks the X button to exit picture-in-picture mode, you can do something like this: 
+
+In one of my code samples, I have the following method: 
+
+This really needs to be added to the documentation, which is why I filed an issue about it a few months ago... 
+
+AFAIK, fragments cannot hold other fragments. 
+
+Quoting Streets of Boston from his adt-dev post: 
+
+However, even with them, I get this: 
+
+For changing the text of the "Done" button to a custom string, use: 
+
+In Android 3.0, the concept of "checked" can be rendered using an "activated" background. This gives you the persistent bar you see when you tap on a list fragment, providing context for the fragment to the list's right (e.g., tapping on a folder in Gmail highlights that folder and opens up another list fragment to show the conversations in that folder). 
+
+http://developer.android.com/reference/android/Manifest.permission.html 
+
+Edit : From your comments i assume you need to set the adapter o listview 
+
+As soon as you type "a" inside the quotes you get a list of permissions and also hint to move caret up and down to select the same. 
+
+Needs Emulator of Google API"S 
+
+If you add multiple changes to the transaction (such as another add() or remove()) and call addToBackStack(), then all changes applied before you call commit() are added to the back stack as a single transaction and the Back button will reverse them all together. 
+
+The order in which you add changes to a FragmentTransaction doesn't matter, except: 
+
+You can type them manually but the editor will assist you. 
+
+http://developer.android.com/google/play-services/setup.html 
+
+Sorting Based on Title. How can i search the listview based on Title?? 
+
+Define background.xml in drawable folder 
+
+I have made a small demo of NumberPicker. This may not be perfect but you can use and modify the same. 
+
+The rest of the code looks alright 
+
+I prefer testing on a real device which has google play services installed 
+
+So you have commit at the last. 
+
+I have a Custom Listview. I have to display data from the webserver. I need to implement search based on input from EditText. Each row in ListView Contains Image, Title and Message. Image Changes based on response from WebServer. Have a Look at the code. 
+
+Right click on your android project. Goto properties. Choose Android on the left panel. Click on Add and browse the library project. Select the same. Click ok and apply 
+
+AFAIK, fragments cannot hold other fragments. 
+
+In one of my code samples, I have the following method: 
+
+For example, the fragment samples show stuff like: 
+
+Give this a shot and with luck it will solve your problem. 
+
+Quoting Streets of Boston from his adt-dev post: 
+
+Also, the font size appears a smidge bigger, at least for the title. 
+
+UPDATE: The code in question is from the LunchList tutorials out of my Android Programming Tutorials book. It's a bit spread out and not terribly suitable for posting directly in SO. You can download the code for that book from the above link if you want to take a look at it. I do not recall exactly which edition of the tutorial the student was working on at the time, though it was in the Tutorial 12-Tutorial 16 range. I was mostly hoping to run across somebody who had tripped over this problem before and had a likely culprit. I'm fairly certain my database is open. Thanks again! 
+
+UPDATE 2017-04-08: If what you want is to return to normal mode when the user clicks the X button to exit picture-in-picture mode, you can do something like this: 
+
+Edit : From your comments i assume you need to set the adapter o listview 
+
+Well since you said it is not working i tried it myself 
+
+Also have a look @ Dialog Attributes in the below link 
+
+http://developer.android.com/reference/android/Manifest.permission.html 
+
+I have a EditText field in android. The password should contain minimum 4 characters and maximum 20 characters without spaces at the start or in the middle. Example blankspaceRaghu and RaghublankspaceRaghu should not be alllowed. 
+
+The rest of the code looks alright 
+
+Right click on your android project. Goto properties. Choose Android on the left panel. Click on Add and browse the library project. Select the same. Click ok and apply 
+
+Define background.xml in drawable folder 
+
+Sorting Based on Title. How can i search the listview based on Title?? 
+
+http://developer.android.com/google/play-services/setup.html 
+
+It need not be null it can be a string. If you don't want just pass null 
+
+The red X means its a broken link path. 
+
+I have a Custom Listview. I have to display data from the webserver. I need to implement search based on input from EditText. Each row in ListView Contains Image, Title and Message. Image Changes based on response from WebServer. Have a Look at the code.

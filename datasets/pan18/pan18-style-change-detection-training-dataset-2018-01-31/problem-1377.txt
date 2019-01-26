@@ -1,0 +1,45 @@
+unique_ptr is a smart pointer which owns an object exclusively. It's not in boost, but it will likely appear in the next C++ Standard. It's non-copyable but supports transfer-of-ownership. Some example code (next C++): 
+
+may be assumed by the implementation to terminate. [ Note: This is intended to allow compiler transfor- mations, such as removal of empty loops, even when termination cannot be proven. — end note ] 
+
+Yes, it is a non-type parameter. You can have several kinds of template parameters 
+
+So my second question: Now, why do the implementations say that the second template is more specialized? What point did i overlook? 
+
+I've done a turing machine in C++11. Features that C++11 adds are not significant for the turing machine indeed. It just provides for arbitrary length rule lists using variadic templates, instead of using perverse macro metaprogramming :). The names for the conditions are used to output a diagram on stdout. i've removed that code to keep the sample short. 
+
+(In the following, the striked-through things are stuff that does not apply anymore to C++11, but did apply to C++03. C++11 makes almost no differences anymore (if there are, they are just language lawyer differences which I can't recall).). 
+
+In C++11 the act of "assignment", i.e. the side-effect of modifying the LHS, is sequenced after the value computation of the right operand. Note that this is a relatively "weak" guarantee: it produces sequencing only with relation to value computation of the RHS. It says nothing about the side-effects that might be present in the RHS, since occurrence of side-effects is not part of value computation. The requirements of C++11 establish no relative sequencing between the act of assignment and any side-effects of the RHS. This is what creates the potential for UB. 
+
+Note that in accordance with the above rules in 
+
+Well, this is basically a straight copy-paste from the standard 
+
+It has little to do with rank of the type defined in 4.13. 4.13 defined internal rankings used to describe integral promotions and usual arithmetic conversions. They by itself do not directly affect overload resolution. Rankings relevant to overload resolution are defined in "13.3.3.1.1 Standard conversion sequences" and then used in "13.3.3.2 Ranking implicit conversion sequences". 
+
+For one simple example, this function 
+
+For example, if class has virtual functions, it will require some extra hidden initializations when objects of this class are being created (initialize virtual method table and such), so the constructor for this class will not qualify as trivial. 
+
+However, it is not even remotely limited to that. In general, the optimization opportunities enabled of inlining are significantly more far-reaching. For another example, when the function body is inlined into the specific caller's context, the compiler in general case will be able to propagate the known aliasing-related relationships present in the calling code into the inlined function code, thus making it possible to optimize the function's code better. 
+
+(Updated to take into account @John Bollinger's comments.) 
+
+It is like a room in a hotel. Different people live in it for non-overlapping periods of time. These people never meet, and generally don't know anything about each other. By properly managing the time-sharing of the rooms (i.e. by making sure different people don't get assigned to one room at the same time), a relatively small hotel can provide accomodations to a relatively large number of people, which is what hotels are for. 
+
+Here's a little bit of additional research. Consider this code 
+
+For some reason, this original purpose of the union got "overriden" with something completely different: writing one member of a union and then inspecting it through another member. This kind of memory reinterpretation (aka "type punning") is not a valid use of unions. It generally leads to undefined behavior is decribed as producing implemenation-defined behavior in C89/90. 
+
+(In the following, the striked-through things are stuff that does not apply anymore to C++11, but did apply to C++03. C++11 makes almost no differences anymore (if there are, they are just language lawyer differences which I can't recall).). 
+
+http://llvm.org/bugs/show_bug.cgi?id=14995 
+
+Is this still true today and on what compilers? Can you please give an example? The author states 
+
+The reason is, some of the people I have to program with just can't use "const", so in the end I get lots of warnings about that particular string literal abuse. I would like to ignore those thousands of warnings coming from their code, so I can concentrate on the mistakes in my own code and fix them. 
+
+While reading another question, i came to a problem with partial ordering, which i cut down to the following test-case 
+
+Basic properties of smart pointers It's easy when you have properties that you can assign each smart pointer. There are three important properties.

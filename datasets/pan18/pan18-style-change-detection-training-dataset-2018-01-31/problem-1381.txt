@@ -1,0 +1,51 @@
+After the first couple of answers have appeared I think I must clarify, as I might not have used the most appropriate words. Basic simplification of the article: 
+
+From C++03, 12.1 Constructors, pg 190 This is one of those frequently asked questions that have different approaches that are similar but not really the same. The three approaches differ in who you are declaring to be a friend of your function --and then on how you implement it. 
+
+The typename is required by the standard. Template compilation requires a two step verification. During the first pass the compiler must verify the template syntax without actually supplying the type substitutions. In this step, std::map::iterator is assumed to be a value. If it does denote a type, the typename keyword is required. There are even more interesting or confusing cases, like: Question 2: If a constructor must be specified in a base class, then that class cannot be part of a union. 
+
+The subtle difference between this third option and the first is in how much you are opening to other classes. An example of abuse in the extrovert version would be someone that wants to get access into your internals and does this: 
+
+I have not been able to identify where in the standard this is allowed, and I find it slightly confusing that two of the compilers warn that it is required, shouldn't it be an error if the typedef-name is required but not present? 
+
+From C++03, 9.5 Unions, pg 162 In my opinion performance should be ignored (not really, but micro optimizations should) until you have a reason for that. Without some hard requirements (this is in a tight loop that takes most of the CPU, the actual implementations of the interface member functions is very small...) it would be very hard if not impossible to notice the difference. I'd imagine it is a compiler misgiving. You are in nested scope and the compiler is probably checking for a return statement in function scope. 
+
+I have found an interesting issue in windows which allows me to cause the Windows clock (but not the hardware clocks) to run fast - as much as 8 seconds every minute. I am doing some background research to work out how Windows calculates and updates it's internal time (not how it syncs with an NTP servers). Any information anyone has or any documents you can point me to would be greatly appreciated! I'd suggest implementing a method that formats the contents of the object as a string. Then you can log it using any number of mechanisms. 
+
+This is just a general question - I was sitting and waiting for a bit of software to compile (we use Incredibuild here but can still take 10/15 mins) and it got me wondering, does anyone know how long it took to compile Windows XP or Vista? Also, if anyone knows how _ftime works please let me know. 
+
+You can't just dump an arbitrary object if you want it to be human readable. 
+
+UPDATE: To clarify, I am asking why this is the case. 
+
+I did some googling but didn't really find any useful information 
+
+If you are looking for something that dynamically creates a format string you can do that in any number of ways. 
+
+I was rather surprised to learn that I couldn't forward declare a class from another scope using the scope resolution operator, i.e. I would prefer to code it myself so I am not interested in custom derived classes unless they are extremely basic. 
+
+Without an extra signalling mechanism using something like named pipes, there is no way of safely signalling that a shared memory block is ICC x64 with no vectorization: 
+
+But it turns out that the overhead of vectorization happens to outweigh the benefits of vectorizing. See page 102 of Agner Fog's manual: Denormalized numbers are generally rare and thus most processors don't try to handle them efficiently. Output (8 threads, 10000000 iterations) - Compiled with Visual Studio 2010 SP1 - x64 Release: Here's where the 4 sums are recombined: http://www.agner.org/optimize/microarchitecture.pdf 
+
+Getting a True Measurement of Time: 
+
+As mentioned in the comments, there's a boost library that does this. But if you can't use boost, this should work: 
+
+This can be done by touching all the arrays before the benchmark. In both cases, the result of the zeroing is used only 3 instructions later. So it's very possible that this could be on the critical path of execution. No Pre-Faulting: http://coliru.stacked-crooked.com/a/1df1f3f9de420d18 So trigraphs were added to allow the programmer to access the functionality of these characters when they didn't exist (either in the encoding or from the keyboard). What you're trying to do is very difficult - to the point of being impractical for the following reasons: 
+
+Here's a copy-paste solution that works on both Windows and Linux as well as C and C++. 
+
+To fix that, we need to shrink the dataset so that it fits into cache. To compensate for this, we loop over the same data multiple times. 
+
+The behavior that you are seeing is the result of expensive state-switching. 
+
+Warning: If you decide to compile and run this, pay attention to your CPU temperatures!!! Make sure you don't overheat it. And make sure CPU-throttling doesn't affect your results! 
+
+Long Answer: In the manually inlined version, the "core" of one iteration looks like this: While I'm not an Intel engineer, here's my guess: The following code goes into an infinite loop on GCC: 
+
+tl;dr: What you're seeing here seems to be ICC's failed attempt at vectorizing the loop. 
+
+Nowadays, they are obsolete and are more effective in confusing the reader than in getting around old standards. Therefore, I would have expected it to wrap on overflow - despite the fact that it is undefined behavior. But that's clearly not the case. So what did I miss? 
+
+Welcome to the world of denormalized floating-point! They can wreak havoc on performance!!! The Intel compiler is trying to vectorize the loop. But the overhead added seems to outweigh the benefit of vectorizing it in the first place. Hence why it's slower.

@@ -1,0 +1,35 @@
+After an egg begins incubation, it may not be removed from the incubator. The only way to clear the incubator is to actually walk off the remaining distance. 
+
+When a building is eligible, you'll notice that Pokéstops will "expand" out, and the action circle will leave a trace mark on the ground. 
+
+Note 2: As of Pokemon GO Version 0.30.1, the Footstep indicators have been removed. The game will show all Pokemon within 200 meters of your current location, with the nearest being anywhere in the list. 
+
+Overall, you'll still be using fewer candies because you're doing most of your evolution on the lower side of the scale, and using the Evolution mechanic to sharply spike the Pokemon's CP. 
+
+In the meantime, nobody likes not playing the game. Fortunately, there are a few things you can do: 
+
+These steps represent the distance from the Pokemon currently. 
+
+There are, in fact, a couple ways to detect a Ditto: 
+
+For example, one footprint means the Pokemon can be 51-100 meters away in any direction. Three footprints means the Pokemon is at most 200 meters away. 
+
+Most (if not all) of the problems listed in the question are related to the Pokemon GO servers being offline, slow to respond, or overloaded with requests. 
+
+You can verify this yourself by sorting all Pokemon by capture time. All the blue Pokemon will be at the top. 
+
+I have no idea how I did this, and would like to know how to replicate this for the future. 
+
+Please see wondercricket's answer for the new way of using a charge move. 
+
+As a result, it really doesn't matter in which order you boost a Pokemon. However, you should keep a few points in mind: 
+
+You need to have the PokéStop or Gym inside your "action circle" -- the pulsing circle that will sometimes spawn. This circle's radius at its widest point is 40 meters, so you must be within 40 meters of the building you want to interact with. This radius is set to the same as Ingress'. 
+
+Each footprint represents 50 meters of distance, starting with zero footprints means the Pokemon is no more than 50 meters away. 
+
+After depleting the bars by using the second attack, you may re-charge them to re-enable the second attack. 
+
+For example, if a Pokemon's max CP was 515 and it is currently at 425, it would make sense to power it up to 500 or more. At that point, you should evolve it, provided you have the candies. 
+
+In order to be eligible for this, you must have Pokemon stationed on Gyms. Each Pokemon confers 10 Pokecoins / day, up to a limit of 100 / day.

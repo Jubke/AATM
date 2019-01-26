@@ -1,0 +1,25 @@
+Let me know if you see any issues. On the upside, we are killing the site redesign backlog, so hopefully these issues won't be coming up ever again before too long. Profit. Note that this is a one time copy, not an ongoing sync. If you want to update your profile on stackexchange.com after making changes on your Q&A site of choice, you'll need to repeat this process. So I suggest we change the default for new users to be a generic (either static or randomly generated) avatar and leave it up to them to switch to Gravatar if they're into that sort of thing. Description: An application error occurred on the server. The current custom error settings for this application prevent the details of the application error from being viewed remotely (for security reasons). It could, however, be viewed by browsers running on the local server machine. I think it would be better to have tag merges behave the same way as other merges and conversions. Still... is this a defect or by design? 
+
+However, after 5 seconds the flag button no longer works; instead you get: Screenshot of Unix private beta start mouseover http://mrozekma.com/so-a51-unix-beta-private-hover.png Screenshot of the above http://mrozekma.com/so-chat-reverse.png 
+
+When a mod converts a post to a comment, if the post contains a link of this form: 
+
+It's going to take users a minimum of two weeks to hit 2000, and past betas have shown that a massive number of questions get asked when the private beta starts at 0 days and when the public beta starts at 7 days. There are hundreds of new questions just on those two days, plus the early questions tend to define the style of the site, and nobody can edit them until weeks after they've been posted Screenshot of the bug http://so.mrozekma.com/chat-title-bug.png If I delete normally it works fine; it's only converting to comment (and probably edit, although I didn't try) more than once that leaves behind undelete votes I mangled a convert to comment earlier and needed to undelete the post so I could redo it. When the post was converted a second time, I noticed it suddenly had a single undelete vote (it said "undelete (1)" on the link, and showed up in the 10k list). When I undeleted and converted it again it had two votes, and so on: 
+
+So I suggest we change the default for new users to be a generic (either static or randomly generated) avatar and leave it up to them to switch to Gravatar if they're into that sort of thing. 
+
+Let me know if you see any issues. 
+
+3) Do a double-take, copy the tag from the "new tag name" field into "old tag name", and proceed from there. 
+
+Right now, looking up the specific decline reason requires going to the flagger's profile and looking at their flag history to find the record of the flag there. 
+
+I think it would be better to have tag merges behave the same way as other merges and conversions. Still... is this a defect or by design? This seems counter-intuitive, since when we merge X with Y we usually assume that X will be going away (i.e. user X merged into user Y, post X merged into post Y, etc.). Tags seem to have this backwards. 
+
+When someone votes to close a question as a duplicate, they provide a link to the potential duplicate and the system auto-generated a "possible duplicate of ..." comment. 
+
+Screenshot of Unix private beta start mouseover http://mrozekma.com/so-a51-unix-beta-private-hover.png It's going to take users a minimum of two weeks to hit 2000, and past betas have shown that a massive number of questions get asked when the private beta starts at 0 days and when the public beta starts at 7 days. There are hundreds of new questions just on those two days, plus the early questions tend to define the style of the site, and nobody can edit them until weeks after they've been posted 
+
+I mangled a convert to comment earlier and needed to undelete the post so I could redo it. When the post was converted a second time, I noticed it suddenly had a single undelete vote (it said "undelete (1)" on the link, and showed up in the 10k list). When I undeleted and converted it again it had two votes, and so on: 
+
+However, after 5 seconds the flag button no longer works; instead you get: If you try and flag two comments in a row, you run into the vote rate-limiter:

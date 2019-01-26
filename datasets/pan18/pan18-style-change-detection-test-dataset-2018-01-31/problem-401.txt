@@ -1,0 +1,41 @@
+I was trying to add an image using Google Chrome, but when I click on "Add picture" no picture is added. Actually, no Markdown markup is added to the post. 
+
+It's not a bug. The bonus applies for both the sites, but you get the bonus once for each site. The next time you associate your Stack Overflow account to another Stack Exchange site, you will not get any bonus, on Stack Overflow. 
+
+As side effect, if you click on the second screenshot, you are redirect to http://api.stackapps.com/1.1usage; the URL is missing a slash between "1.1" and "usage." 
+
+The page title is correct: All flagged messages for kiamlaluno. 
+
+I checked the HTML output, and effectively the parenthesis is missing. It is not hidden by two HTML elements that are overlapping each other. 
+
+This happens on Meta Stack Overflow, and other sites. 
+
+I also tried with the first comment on this very question: I clicked the arrow to vote it, and without to wait 5 seconds, I clicked the arrow again. The result is the following one: 
+
+The other sites allow you to login using Facebook as OpenID provider. 
+
+The content of the "How to Ask" block contains a typo, in some meta sites; the following two screenshots show what appears in meta.drupal.stackexchange.com, and meta.cooking.stackexchange.com. 
+
+If you are suggesting that users could understand "What if I see problems?" as referring to software problems, once they click on the link they will notice the topic is not bugs, or issues with the software being used to run a Stack Exchange site. 
+
+It is just facebook.stackoverflow.com that handles Facebook in a different way; in fact it's the only site that has a Facebook login button. 
+
+To obtain the result you wanted to obtain, you should: 
+
+When I set them to automatically appear based on mouse or trackpad, this is what I see, when I hover the snippet. 
+
+It doesn't happen with the "close" link, for which the closing parenthesis is present. 
+
+This is actually what happens for different sections too. It seems that only in few cases, the block on the right shows a title that exactly match the title used in the page. 
+
+If you make tag-2 a synonym of tag-1, you are not removing tag-2 from questions. Future questions using tag-2 will automatically have tag-1, but that doesn't change already asked questions. tag-2 and tag-1 are still two separate tags, if you make them synonym, and there are already questions using tag-2. 
+
+I have taken the screenshot from Google Chrome, but I get the same with Safari. 
+
+The number you see to the left of tools, or review is the number of pending suggested edits. 
+
+Update The error message has been changed as follows: 
+
+I got the screenshots with Google Chrome, which is set to pre-fetch the page (and show it) every time I change the URL on the browser bar; that is why I was able to show the second screenshot without being redirected. 
+
+If you try to visit a page that doesn't exist on api.stackapps.com, the site doesn't return the "page not found" page; it returns the "we are offline" page. (The screenshots are links to the URLs they show.)

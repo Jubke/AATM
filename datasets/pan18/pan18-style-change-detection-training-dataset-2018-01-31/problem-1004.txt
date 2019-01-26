@@ -1,0 +1,53 @@
+What can we do to encourage people to use the "@" more? It's for the good of the whole community, as people respond to comment, expecting reply but get none because nobody was notified. 
+
+Such suggestions should be rejected and even edits rolled back unless done by official Stack Exchange employee. (Who will usually erase the original revision itself leaving no trace of the code) 
+
+Classic ASP has its place of honor, but these days it's rarely used — 130,000 is way bigger than 4500. I am subscribed to the asp-classic tag and see people putting it instead of asp.net almost daily. 
+
+Such requests should be done in private with the team, not like this. 
+
+One option using the current design as-is is make the "Explore our sites" link to http://stackexchange.com/sites: 
+
+It does work on per-site metas, i.e. bug applies to all main sites. (including MSE) 
+
+Now I can't find direct link anywhere. 
+
+I always switch between "main" and "meta" using it, now I'm at a great loss. 
+
+There used to be direct link to http://stackexchange.com/ when opening the Stack Exchange™ MultiCollider SuperDropdown™: 
+
+This is fine, in my opinion, in case the user decided to leave Stack Exchange, and instead of just going and never visiting again, or rage quitting, they decide to "donate" all their reputation first in the form of bounties. 
+
+Observed both when adding a comment and when editing a comment. 
+
+Can this please be added somewhere? 
+
+Enter key no longer submit a comment when pressed, as it used to do before. 
+
+Browser: Chrome latest stable (53), Windows 10. 
+
+If anything, such scenario is actually good for Stack Exchange. There is no need to limit amount of active bounties across the network, as this is quite easy to detect and if done in abusive way (e.g. using the bounty to give reputation to sock puppet accounts) can be handled by a CM. This specific case proves it: the harmful behavior was detected, and Community Manager suspended the user network-wide for the time being. 
+
+Can you PLEASE put the "main" link back on top? 
+
+So what should we do with such posts? Should we flag anyway and ask moderators to send warning to the author, or just edit the NSFW content out and move on? 
+
+But still, I have to perform a full mouse click to reach it! :( 
+
+I just saw an answer with highly NSFW content, that was deleted by its owner shortly after being posted, before it even gathered any downvotes. 
+
+While they might choose questions randomly, I can't see any harm in that as long as they don't pick bad/downvoted answers on purpose, and as long as it's not on the same user's questions, it's not a fraud as well. 
+
+John Doe posts a question. The question is either not clear enough or missing some code. People post comments asking to clarify and/or post his code. The OP post comment back or edit his code and comment about it, but put no @namehere in the comment so those who commented never see it and the poor OP get no help. Personally if I post comment and not answer I usually add the question to my favorites thus "follow" it to see such comments, but looks like I'm the only one who is doing this. 
+
+Having the auto complete list sorted by the tag usage will help to prevent such newbie errors plus looks more correct to me. Might need some tweaking, e.g. don't put synonyms first but I think the general idea is clear. 
+
+I will explain using an example of what I mean. Suppose I now start a new question on Stack Overflow and start typing in the tag editor textbox. I type "asp" and this is what I see: 
+
+I keep seeing the following scenario: 
+
+If there is really copyright violations, DMCA request should be submitted directly to the team as described in the terms of service in section 15, "Copyright Policy". 
+
+Edit by Undo: For the time being, I've created a nice little userscript to add the main link back in. It's available on GitHub here. 
+
+Of course that while not deleted we should flag those as "rude of abusive", but since it's deleted it's not possible any more, only to use custom moderator flag.

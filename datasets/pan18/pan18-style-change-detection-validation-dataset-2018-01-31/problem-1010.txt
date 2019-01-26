@@ -1,0 +1,27 @@
+This (apparently) follows from the fact that the continuum, R, and therefore the plane R2 of geometry, is formalizable as a recursively enumerable theory that is incapable of defining integers as real numbers. I'm not entirely clear on the details of these results, but this is what I have read. 
+
+On the surface the answer would appear to be no. However, it is possible to make a case for yes. 
+
+In practice, I do not believe that any unevenness in the coins composition - i.e., the coin having anything other than the ideal centre of gravity - would have any real effect on the predictability of the outcome of an individual toss or a sequence of tosses. This is because other factors, such as the force of the toss and the binary nature of the outcome, would overwhelm any bias attributable to unevenness. The outcome would be completely determined by the original orientation of the coin, the net initial forces exerted, and the characteristics of the landing surface. For any unevenness to play a role in determining the outcome, we would require a near-astronomical number of rotations of the coin, which, of course, is not the case in practice. 
+
+A contradiction is presence of two hypotheses that have opposite truth value. A proposition is not itself a possible contradiction, it's just the collection of all its valuations. 
+
+There was a revolution in mathematics because of Descartes, back in the 1600's. He invented the method of using the mapping from geometric objects to coordinates and algebraic equations, where a quicker rote symbolic proof was possible in comparison to many synthetic proofs (like those in Euclid). 
+
+is a theorem, and substituting P^-P in for A and Q^-Q for B, you still get another theorem (if you can read through all the parentheses): 
+
+Euclid and Cantor, whatever they are saying, are using a refined and stipulative vocabulary: 'set', 'whole' 'greater' 'part' mean something very exact to them ('greater' has a different meaning between them). Euclid uses 'greater' like the more modern (actually Cantor's) definition of 'subset'. Cantor interprets 'greater' not as the subset relation, but as the 'cardinalilty' relation. (actually, Euclid's notion is somewhat underspecified, but like most of his mathematics, is not wrong at all, just in need of the slightest clarification, which is presumptuous to say since it took more than two thousand years to get that clarification via Cantor (for sets) and Hilbert (for pure axiomaticity). 
+
+Carvalho says Cantor is 'confusing numbers with their mere signs'. I think Carvalho is misunderstanding how labeling of mathematical objects works; he is confounding the proof of cardinality with the construction of the objects at hand. The ordinal nature of the naturals (and the evens) is irrelevant to the proof. 
+
+The coin toss example is an interesting example. The statistical distribution of the digits of the expansion of π is another. To make this analogous to the coin toss, let's consider the binary expansion of π. This is statistically random. However, it can be shown that sequences of consecutive zeros or consecutive ones of length n occur for any value n. Thus, for example, there exists a sequence of a trillion, trillion, trillion consecutive zeros in the binary expansion of π even though there is a statistically random distribution of 0's and 1's. If such a sequence occured near the beginning, the most non-mathematicans would assume non-randomness. 
+
+There are no doubt further restrictions, but that's all that come to mind now. 
+
+p = 2n - 1 is prime p' is the first prime larger than 2n - 1 For small values of n, most people would say that both p and p' are known since we can readily compute the value of p'. However, as your example shows, this is not the case for larger values of n. 
+
+I'm still not sure that your question is clear enough to answer, but I'm willing to give it one more go. 
+
+The notion of compactification you describe in your question is strongly Euclidean and so does not readily apply to the ordinals in general. However, because it is tempting to view the ordinals as a line in the plane, there are number of nifty pictorial representations of infinite ordinals, drawn in a compact region of the Euclidean plane. Here is one I found via google images of the limit ordinal ωω as a spiral : 
+
+ASIDE I appreciate that this may be a pretty crappy argument, but "hey", I'm not trying to make a thesis of it. It's the best I can do with the time at hand.

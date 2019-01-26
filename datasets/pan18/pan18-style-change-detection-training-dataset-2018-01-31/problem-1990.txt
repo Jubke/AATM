@@ -1,0 +1,45 @@
+In the case of the coin toss example, unless one is familiar with the concept of statistical randomness it is this folk concept that will be applied, or possibly some alternative definition of randomness such as that used by the information theorist. 
+
+Scott’s argument relies on the inference from the ZF-independence of GC to the ZF-provable existence of a counterexample. Is this inference valid in all possible cases? I say no. 
+
+Your question is : Are there two different mathematics in philosophy? 
+
+In your comment following my answer, you state that Brassier goes on to say : 
+
+I think the problem is that randomness is a folk concept. Everyone believes that they understand what is meant by randomness and that their understanding applies to all cases of perceived randomness, including statistical randomness. 
+
+EDIT : When one considers the class of all ordinals, compactification seems wholly inappropriate. Re-reading this post, I think that most of what I've said, after the initial mathematical statements, is waffle. Probably just a shameless excuse to squeeze in a pretty picture. The whole idea of closure is contrary to Cantor's formulation, as suggested by @Conifold 's comment below, even if it is well-defined from a topological point of view. 
+
+Intuitively, this type of Euclidean pseudo compactification would only work for countable ordinals such as ωω, pictured here. One can (almost) imagine extending this picture to a higher countable ordinal by replacing each ordinal in this depiction with a copy of ωω to obtain something like ωω2 perhaps(?) (I'm not sure). Imagining further substitutions beyond that, things become less clear. The first uncountable ordinal ( ω1 ) would be at the "limit of the limit of the limit ..." of this process - if that makes any sense. 
+
+Here we are assuming the natural "order topology" is used. The result for cardinals follows from the result for ordinals since an infinite cardinal must be a limit ordinal. 
+
+Another confusion appears to be the assertion that a model says nothing about the nature of that which it is modelling. Plainly, anything that can be modelled as counting is mathematically isomorphic (equivalent) to counting. There is not getting around it. 
+
+One could argue that since arithmetic cannot be both complete and consistent we have big problems with Plato. Even with a complete and consistent form, such as Euclidean Geometry, we have problems. I shall spare you the details and choose a more economically expressed issue. 
+
+I am having a hard time pinning down Aaronson's argument, both philosophically and logically. 
+
+The logical interpretation of probability rejects this interpretation. It says that the probability that the big bang model is true is objectively true or false according to a specified body of evidence. In other words, a statement’s probability is a measure of the strength of evidence in its favour. In the case of the big bang model, the evidence consists of such objective evidence as the observed uniform expansion of the universe, the cosmic background radiation, etc.. The logical interpretation of probability asserts that a probability can always be assigned based on the available evidence. (This contracts with the subjective interpretation where "it makes no sense to assign a probability".) 
+
+Everyone has a naive / folk idea of what they think constitutes randomness. 
+
+NB: I shall leave this edit in for comic effect. It is totally ridiculous. 
+
+This seemingly paradoxical situation is normally associated with vague predicates (wikipedia link). (For a more philosophical treatment see Vagueness (wikipedia link)). 
+
+Our formalization of (classical) logic may not be ideal but our theorems are surely valid. 
+
+Plato's world must itself be an ideal form. That is to say, it must, by conception, be a member of itself. (Boy, I really am getting sophomoric now.) This leads to all of the obvious paradoxes associated with self-reference, rendering Plato's world either inconsistent or incomplete. 
+
+I have managed to locate this paper which discusses Brassier’s Nihil Unbounded. 
+
+If λ is a limit ordinal, then λ+1 is a "one-point compactification" of λ which we might loosely express as : 
+
+Yet mathematics contains many examples of how simple ideas and elementary arguments can lead to profound, beautiful, and even shocking results. Here, mathematicians often believe they have glimpsed an ideal form. It feels very real. So although Plato's vision of a unique, well-define world of ideals appears to be inconsistent, the notion of an ideal form does not seem to be problematic in a given context. 
+
+This more selective acceptance of Plato's vision is consistent with the views expressed in your question and highlights how engrained Plato's ideas are in our own modern view of mathematics. One is happy to accept the ideal expressed by Occam's razor for example, while perhaps feeling uncomfortable with the full implications of an idealized mathematical world. 
+
+Perhaps the best we can hope for is that our mathematical universe is in some sort of entanglement with a restricted form of Plato's vision. 
+
+If you take a Platonist view of the subject, which I believe would be the majority view amongst mathematicians, then mathematics exists independent of ability to articulate its truths. So from this point of view, clearly there are two different mathematics - the real and the human. Although we have articulated some of the truths, it is not clear that we have done it correctly. When I say "correctly", I don't mean we have made errors, I mean that our articulation may not be a true representation of the subject.

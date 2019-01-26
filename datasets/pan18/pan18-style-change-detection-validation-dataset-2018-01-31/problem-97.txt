@@ -1,0 +1,31 @@
+As a sort of bonus, Infinity Edge also increases the chances of scoring a critical strike by 25%. 
+
+Graves - Graves enjoys carrying around an Infinity Edge because of his high attack damage ratios on Buckshot and Collateral Damage and he gets a free attack speed buff from Quick Draw. These factors combined with defense bonus from True Grit means that there isn't much Graves needs to be a threat. He doesnt have to spend gold on a lot of health or defenses thanks to true grit and quick draw lets him skip an early attack speed purchase. Infinity Edge gives graves everything he doesn't already have except for life-steal which becomes more important later in the game. Infinity Edge as the first major purchase on Graves is almost always the right move. 
+
+All of the above is worth nothing if you aren't aware of what is going on in your game. What lanes are being pushed? What allies are in distress and in need of assistance? Where are enemy champions? Is the Dragon minion available to kill? Is the enemy team currently killing Baron? 
+
+If you DO NOT have a healer in lane, the argument for a second Doran's Blade becomes much stronger. Since you are relying on your passive regeneration, potions and life-steal to keep you in lane every individual hit-point you have at your disposal becomes more important. 
+
+cause her attacks to deal 150% of their normal damage when the ability procs. As Infinity Edge offers the highest bonus to attack damage in a single item (source above) it is an obvious choice. This attack can also score a critical stike (but the bonus damage is not increased by the critical strike damage increase stat). With an attack damage stat of 100 and an Infinity Edge in hand Caitlyn's Headshot attack would deal 300 damage (100 base * 150% headshot + 100 base * 150% critical strike damage). Caitlyn also has the benefit of having one of the longest natural attack ranges in the game which allows her to auto-attack enemy champions from beyond their maximum range. Source Since Caitlyn's attacks are her main source of damage she really benefits from having critical chance and critical damage increase, which are stats that abilities (except for Gangplank's Parrley) do not benefit from. 
+
+Your first major purchase as an AD carry should be BF Sword. Sometimes circumstances don't let you farm as much as you would like and you are forced to return to base earlier than you would like. Let's look at the following scenarios (all assume Doran's Blade is first purchase at the start of the game, though this is not required): 
+
+Tristana - Right from her own Wikia Strategy Page: 
+
+That leaves us with a list of champions that... 
+
+Teemo - Teemo's Toxic Shot is easily his best "DPS" ability and it scales off of ability power and attack speed. With an argument similar to the one given for Kog'Maw above, Teemo just doesn't have the need for an item like Infinity Edge. Another option for Teemo, including those items listed under Kog'Maw, is Frozen Mallet. It gives him some needed durability and the slow on-hit really aids his chasing/finishing power. 
+
+Miss Fortune - Miss Fortune has a 50% attack speed buff through her Impure Shots ability and good attack damage ratios on her Double-Up and Bullet Time abilities. These abilities combined with the movespeed bonus from Stut and her aoe slow (Make it Rain) Miss Fortune makes good use of Infinity Edge when chasing enemies and when well protected in a team-fight. 
+
+You are chasing an enemy at low health but there is a Teemo on the enemy team. Odds are the champion you are chasing will lead you on a trail through Teemo's mushrooms in hope that they will slow you enough that they get away or kill you if you are at low health. As the leader on your team it is your goal to remind your allies of this and minimize losses through overextension. 
+
+Map Awareness So Now lets break this down a little further Diplomacy 
+
+While Infinity Edge can be bought by any of the above champions as carries, it shines on some a little brighter than others. We will first dismiss Infinity Edge on the following Champions from the above list (brief description to follow): 
+
+Caitlyn - Caitlyn's innate ability Headshot described below 
+
+Champion Knowledge - Enemy Champions 
+
+Ezreal - Ezreal is not as much of an Attack Damage (AD) Carry as an AD Caster. That isn't to say he can't do a lot of damage or he shouldn't build AD but his damage comes primarily from his spells, not his auto attacks. This means that you wont be getting the full benefit from Infinity Edge as you are mostly going to end up wasting the Critical Strike Chance and Damage Increase it offers (his Q applies on-hit effects but it does not crit). Ezreal tends to do more damage with items like Bloodthirster, Black Cleaver, Sheen/Trinity Force that offer additional effects on top of flat damage.

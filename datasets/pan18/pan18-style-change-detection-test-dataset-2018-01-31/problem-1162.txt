@@ -1,0 +1,21 @@
+Basically, when you're not sure which linguistic units you're dealing with (be it phonemes, morphemes etc.) or it is irrelevant to your research, you use the word "segment". Sometimes, it is used for style, to avoid repetition. 
+
+For some discussion based on the material of English dialects (the so called goat test), see Wells, J. C. 1981. Accents of English. Cambridge: CUP. 
+
+"Segment: A result of linguistic analysis that attempts to isolate minimal linguistic units, such as phones, morphs, syllables, from a language or speech continuum." (Routledge Dictionary of Language and Linguistics) 
+
+This is traditional phonology, not generative. 
+
+As for function words that start with h, the following words get affected: had, has, have, he, her, herself, him, himself, his (Cruttenden 2014: 274). In their weak forms, they may all lose h. 
+
+At first, you misquoted Wikipedia. What it actually says (the current edit) is that "in the north of the Netherlands and in North Central American usually diphthongized to [oʊ]." The same Wikipedia article has lots of examples when it "stands just by itself." 
+
+Thus, a single diphthong in English represents one phoneme. 
+
+In structural linguistics, you would start with segmenting some linear language continuum into chunks (segments) by applying different operations such as substitution etc. 
+
+Naturally, other analyses have been proposed, too. For example, a diphthong is treated as a vowel plus a semivowel or another vowel (McCarthy 1952). Thus, you end up having a diphthong consisting of two phonemes under those approaches. Peter Roach (2009) mentions that this view was "almost universally accepted by American (and some British) writers from the 1940s to the 1960s, and still pervades contemporary American descriptions" (p. 104). Roger Lass (1984) argues that analyzing a diphthong as a vowel plus a semivowel /j/ or /w/ is a "shaky position" (p. 138). He also convincingly dismisses the approach proposed in SPE (Chomsky and Halle), characterizing it as "seem[ing] close to lunacy" (p. 138). Bruce Hayes (2008) concludes that the "fewer-phonemes-the-better" analysis is not an iron-clad argument and that the segment/sequence problem is still "an unsettled one in phonology" (p. 57). 
+
+For a comprehensive list of minimal pairs in English (RP) compiled by John Higgins, see http://myweb.tiscali.co.uk/wordscape/wordlist/index.html 
+
+An important addition. Cecily Clark (Clark 1992) argues it is incorrect to ascribe such changes solely to "widespread scribal ignorance of the English language."

@@ -1,0 +1,35 @@
+In my experience, the questions which are in need of protection are those which have many deleted answers, as stated in the privilege page. 
+
+I think that currently we only need one reviewer per post. On SO, at least, this number can be raised significantly. Up to 3 or even 5. Since the FP queue is usually empty, we won't have any problems with more reviews needed per post. 
+
+I have passed 3500 reputation on a beta site, so I have both access to the 10K tools and the ability to protect things. 
+
+On posts with a positive score, the very low quality flag option isn't enabled. This is great for many instances - if a post is +7, it's most likely high quality. We don't want unexperienced users flagging those. 
+
+The Edit option already knows when you are only performing a Retag - and it pops up an annoying message like "use the Retag option instead". If it's already that smart, why can't it automatically reroute the retag through to the right action? - and have them instantly applied, just like the old Retag option would. 
+
+I commented on this also, although not from the point of view of startups. 
+
+Location seems like something worth adding here. 
+
+Now as much as I hate recruitment agents (95% of them are utterly useless and actually impede getting the right person) they do do something: they filter candidates (often badly but still...), act as an umbrella (for insurance purposes and payroll) for contractors and the like. 
+
+Obviously Jeff and Joel think they've got a fairly lucrative audience (for employers) with tie-ins to the already successful Joel job boards. I think they may be overvaluing the association with SO because ultimately that association is simply a URL to your profile. I haven't seen the employer's search but if it also includes searches that use your contributions against different tags as some kind of criteria then obviously that isn't something easily reproducible elsewhere. 
+
+Consider the Joel on Software job board, where you pay ~$350 for an ad and nothing as a candidate. Will the market on SO Careers be sufficiently bigger or better? I have my doubts. After all, what does SO Careers offer really? A link to your profile? I can put that on my CV in any case. 
+
+Why don't we make the Reject button on audits automagically pass the audit? That would bring us down to only 2 clicks - much better. 
+
+This could be improved even further by making the check for: 
+
+I would expect it to give all the negatively scored posts - there is a minus sign in there. 
+
+That's 4 clicks. On the other queues, it only takes one click minimum to pass an audit - usually a downvote. 
+
+I recently found a guy mass-plagiarizing tag wikis. The problem is, he had more than 2,000 reputation and thus a moderator couldn't manually ban him from suggesting edits. 
+
+There are other potential problems associated with questions generating many deleted answers: 
+
+Second, part of your request is kind of already in place. If you don't explicitly award the bounty after 8 days, then the system will award half of the bounty to the highest voted answer posted during the bounty period (as long as it has a net score of at least +2). 
+
+The Edit option already knows when you are only performing a Retag - and it pops up an annoying message like "use the Retag option instead". If it's already that smart, why can't it automatically reroute the retag through to the right action? - and have them instantly applied, just like the old Retag option would.

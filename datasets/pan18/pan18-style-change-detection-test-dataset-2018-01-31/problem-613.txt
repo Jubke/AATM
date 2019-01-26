@@ -1,0 +1,69 @@
+I want to follow the process outlined in this article to pick up environment variables. 
+
+Firstly you don't need to use an iterator to populate the array you can call the .toArray() method on the keyset like so: 
+
+Any help would be appreciated. 
+
+UPDATE Sorry This is running under windows (7 on my Dev machine 2003 on client server) 
+
+Are you sure you aren't making a mistake in formatting the strings? 
+
+IF you just need to know when it changes put a conditional break point and have the expression be something like: 
+
+Here is an FAQ about conditional break points: http://wiki.eclipse.org/FAQ_How_do_I_set_a_conditional_breakpoint%3F 
+
+I cant find any reference to Tomcat v6.0 in my build path, there is a reference to the servlet-api.jar of tomcat 5.5 though... 
+
+I can't however seem to find where the reference is to runtime 6.0 to remove it. 
+
+I need to pass a couple of JVM arguments to the JVM which Tomcat is running in so that my application can pick them up. 
+
+On reflection you can also you the toArray Method that actually returns a typed array: 
+
+I've got a project I've been building on Eclipse Ganymede targetted at tomcat 6.0, I've imported it into Europa and I need it to run on apache Tomcat 5.5 
+
+References to the JLS are appreciated. 
+
+A first attempt (without synchronization) could look something along the lines below 
+
+The method is kept in the API for backward compatibility for an unspecified period of time, and may in future releases be removed. That is, no, it's not wrong, but there is a better way of doing it, which is more robust against API changes. 
+
+A better workaround: You can write your own utility class with a static method instead: 
+
+The example at http://www.java2s.com gives you some code examples. 
+
+This post has been rewritten as an article here: Java: Why wait must be called in a synchronized block 
+
+First of all, there are two types of initialization blocks: 
+
+Furthermore, it is easy for a compiler/JVM to detect "unread locals". In the program below for instance, Eclipse notices that "The local variable t is never read". 
+
+To initialize an list with 60 zeros you do: 
+
+That is, a shutdown hook keeps the JVM running until the hook has terminated (returned from the run()-method. 
+
+The can part: (*) Java itself doesn't support macros. On the other hand, you could pipe the source code through the C pre processor (CPP for short) just like the C/C++ compile chain does. 
+
+This code should illustrate the use of them and in which order they are executed: 
+
+I've tried using XStream, but it expects me to write tags such as: 
+
+Most likely no. It will continue to work as before the deprecation. The contract of the API method will not change. If some internal data structure changes in favor of a new, better method, there could be a performance impact, but it's quite unlikely. 
+
+I've got a project I've been building on Eclipse Ganymede targetted at tomcat 6.0, I've imported it into Europa and I need it to run on apache Tomcat 5.5 
+
+Here is an FAQ about conditional break points: http://wiki.eclipse.org/FAQ_How_do_I_set_a_conditional_breakpoint%3F 
+
+I need to pass a couple of JVM arguments to the JVM which Tomcat is running in so that my application can pick them up. 
+
+I can't however seem to find where the reference is to runtime 6.0 to remove it. 
+
+I want to follow the process outlined in this article to pick up environment variables. 
+
+I cant find any reference to Tomcat v6.0 in my build path, there is a reference to the servlet-api.jar of tomcat 5.5 though... 
+
+Are you sure you aren't making a mistake in formatting the strings? 
+
+How would I go about doing this? 
+
+IF you just need to know when it changes put a conditional break point and have the expression be something like:

@@ -1,0 +1,29 @@
+Zúñiga, F., & Seppo, K. (Eds.). (2010). Benefactives and malefactives: Typological perspectives and case studies (Vol. 92). John Benjamins. 
+
+Sorry I've got nothing on the diachronic question. Totally not my forté. Sorry also that I haven't read the later article by Ritter & Rosen (1997) - I'm not sure if they stick with their 1993 analysis, or change it. 
+
+Ritter, E., & Rosen, S. T. (1993). Deriving causation. Natural Language & Linguistic Theory, 11(3), 519-555. 
+
+The set approach, I am not as familiar with, but think it is one where the singular noun 'dog' again denotes the set of singular individual dogs {a, b}, but there is no new type of individual introduced to the ontology. Instead, the plural form 'dogs' denotes the set of all the possible sets of dogs (the power set), {{a}, {b}, {a, b}}. (again, I guess some people would argue that it is this set minus the singleton set members). (Schwarzschild 1996 is what I ought to have consulted previous to answering this, but...) 
+
+As for (morphologically) irregular plurals, Link introduces this * notation. So the plural 'dogs' would be semantically represented as *dog, where this *-operator is what maps from a singular's denotation to a plural/sum denotation. This * need not be confined to the presence of a specific plural morpheme, however, so even forms which have suppletive plural forms would be represented with the *, i.e., the denotation of 'children' would be *child. So I think morphological plurality, in English at least, differs from semantic plurality. (And of course we have pluralia tantum like 'pants' and 'scissors', which really suggest against having no difference between morphological and semantic plurality, as noted by Knitter above). 
+
+They also observe that the "causer" reading is not possible with unaccusative verbs. (This relates to your observation that there is an agentivity requirement.). So all unaccusative verbs in the "have" construction will be interpreted as introducing an "affected" argument. (Or be unacceptable). 
+
+Link 1983 introduces the notion of a sum to the ontology. So in addition to having individual objects in the ontology, eg. b which stands for the dog Bingo, and a, which stands for the dog Angel, you have sum, or plural individuals, which correspond, eg., to a+b, the sum of Bruno and Angel. So the singular word 'dog' would denote the set of singular dog individuals, {a, b}, and the plural form 'dogs' would denote then set of singular AND sum/plural dog individuals, {a, b, a+b}.(Well, some people would say it denotes the set of just plural/sum individuals, {a+b}, but this is a controversial issue.) Usually you would have more individuals in your model, eg. a singular noun could denote {a, b, c, d}, and the pluralized noun denotes {a, b, c, d, a+b, a+c, a+d, b+c, b+d, c+d, a+b+c, ..., a+b+c+d}. When you have what you are calling class-uses of the noun (Carlson called this a kind-use), eg. "The bear is a carnivore", the noun is often formalized as denoting the maximal individual in the set, i.e., the individual that is the sum of all of the elements in the set, a+b+c+d. 
+
+As for 'forest', I think most approaches would not say that it is the semantic plural of 'tree' (which would be 'trees') - but that there are singular individuals in our ontology which correspond to things that we would call a forest. So 'forest' would have a denotation like 'dog', but a corresponds to The Black Forest, b corresponds to The Haunted Forest, etc. There might be operations (like Landman's Group operator) that map plural individuals in the denotation of 'trees' to the singular individuals in the denotation of 'forest', but these are still represented as distinct individuals semantically. 
+
+(b) Have + Predicate: CAUSATIVE: Extend initiation 
+
+(c) Have + Predicate: EXPERIENCER: Extend result 
+
+I can maybe answer some of the questions raised above. Although I probably won't provide the kinds of examples you are looking for. There are at least two ways that people go about representing the semantics of plurality, sets or sums. 
+
+I can try and provide an answer for questions 1 & 3, based on Ritter & Rosen 1993's paper "Deriving Causation." The answer to 1 is more syntax-semantics interface than semantics though (given that Ritter & Rosen do more syntax-semantics-interface style analyses.) 
+
+As I understood their analysis, they aimed to account for this fact by arguing that "have" can only extend event structure, not introduce new event structure. And because unaccusatives don't underlying have causation/agentivity, "have" in an unaccusative construction can only extend the event's endpoint, so the introduced argument must be interpreted as the experiencer/affectee. (I don't know if this quite gels with your observations about awareness. Except maybe that "ignorance is bliss" and in order to be an experiencer/affectee, you have to know about your misfortune?) 
+
+Gerdts, D. B., & Kiyosawa, K. (2003). Psych predicates and applicatives in Salish. In annual meeting of the Canadian Linguistic Association, Halifax, Nova Scotia. 
+
+So Ritter & Rosen 1993 argues that "have" is a "functor predicate" which means that (i) it can introduce an argument (like a lexical predicate) but (ii) it lacks lexical semantic content (like a functional predicate), and thus does not encode a particular theta role for the argument it introduces. Rather, the "theta role" of the introduced argument is derived from the event structure that "have" introduces/modifies. This is meant to account for the observation (which you made above) that the argument "have" introduces can sometimes be introduced as a causer, or as an experiencer/affectee.

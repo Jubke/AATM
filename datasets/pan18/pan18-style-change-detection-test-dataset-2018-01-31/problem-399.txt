@@ -1,0 +1,41 @@
+This is the result of the association bonus being completely on the fritz. Honestly I couldn't figure out what's going wrong with it after 2 hours of investigation, so I stopped. 
+
+This was my fault, a backwards null check was doing the opposite of what's intended...it will be fixed in the next build and counts will sync themselves tonight. 
+
+We've completed most of this, but need to test and I need to write some backfills to fix people both affected in the last few days, and affected from wayyyyyy before that (as I said, it's always been buggy). I hope to roll this out this afternoon/evening after we give it a good thrashing in the dev environment. 
+
+Ultimately, we need this to work and work well for so many use cases that it's rather complex, some examples: 
+
+Edit: If you're wondering why I had to address this quickly on the SQL Server front, here's the effect it was having and you can guess when the fix went out: 
+
+I'm sorry this ever showed up on our website. We'll be adding checks to, I sincerely hope, prevent this from ever happening again. 
+
+Update: deployed, badge counts will sync tonight (a sync actually runs every night, just in case) 
+
+We just did a major revamp of how badges are awarded behind the scenes to drastically reduce the load on SQL Server. It now takes advantage of some pre-compute work we're doing to track badge progress in the profile. 
+
+This is bad data coming from CrunchBase - I am working to address it now. 
+
+Update: I have done a huge amount of cleanup from the data source and just deployed a new Elastic indexing using it. Here's the old vs. new: 
+
+There's a x2 factor of replication, which means there were 59,494 entries removed from the index. Here's a current test: 
+
+So here's the deal. Our image path code sucks. It's bad. It's no one's fault, it's just the result of years of special cases and new use cases that never got a full rewrite of love they need. I know this code pretty well and still spent today git reverting my changes getting nowhere. This is such a great example of tech debt it's ridiculous. 
+
+Now for the bad news: I'll be running a much sadder job tomorrow to clear up a few thousand duplicate awards from the old system, which suffered from some race conditions, so a few illegitimate +200 bonuses will become +100. 
+
+Note there's still a crap entry there, so I did a good purge but far from perfect. We wanted to address this as soon as possible though, so a quick first pass it is. Hopefully this removed most of the immediate spam. Please feel free to comment here on additional finds and I'll take another pass Monday at cleaning this up further. 
+
+Apologies this is taking more than a day to fix, it's just not a simple thing to do. In addition to the core Q&A engine, it requires changes in: StackExchange.com, Area 51, Careers, StackAuth, and API v1. 
+
+Tomorrow morning I won't be writing any code. Instead, I'll be documenting all of the above and the walls and edge cases of each scenario so we can hopefully come up with something far cleaner and DRYer than exists today. Maybe we can just share that document out to everyone since it's an interesting case of crazy. 
+
+Sorry for the breaks today, we'd never do such intentionally. I'm backing away and we'll do heavy analysis before pushing any more code simplifications here. I've already got developer views comparing all of these path variants across all of the tiers as a starting point. 
+
+On a personal note: I pushed for this. I pushed to buy a clean data source to prevent duplication and have a good user experience with developer stories. This is not what we intended to do and I'm pissed. We also should have checked this further before indexing for developer story and that's on me - I failed here. 
+
+Apologies for all the bad grants here - that certainly wasn't the intention. Due to how badges get tested, it's also not a symptom that shows up locally. If I can change this to a param exclusion passed by the code then things like this become far less likely to happen going forward. 
+
+We did a lot of network account work several months back which means how association bonuses work can be much simpler all around (from a high level: we don't need to track network level things on each user). We can now enjoy the benefits of that earlier effort in other network-level things like association bonuses. 
+
+Update: The new system for dealing with association bonuses is now deployed across the network. It's more reliable, faster, and simpler. I also ran a backfill of association bonuses that should have taken care of anyone who should have one anywhere on the network (please comment here if you find an exception - I'll take a look).

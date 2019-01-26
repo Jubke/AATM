@@ -1,0 +1,43 @@
+While you cannot use revives and potions during fights like you can in the traditional Pokémon games, you need them to heal and revive your Pokémon after fighting at a gym. Any Pokémon hurt while training/defending at a friendly gym will need to be revived and healed before being used again, and any Pokémon who faints while fighting at an another teams gym will also need to be revived and healed to full. If a Pokémon is only hurt while attacking, it will only need to be healed and not revived. 
+
+If you get too many revives you can always dump them to make more room to hold other things. 
+
+Yes, you can keep attacking a gym as often as you wish, provided you have the Pokémon with health to do it. I think there is a limit to how much prestige you can have and the level of the gym, but you can train at a gym as much as you want without a cooldown, and you will get experience from it every time. 
+
+This picture here depicts these tiers. 
+
+When a Pokémon has two types, normally the weaknesses are multiplicative, however Pokémon GO does stuff just a little differently than other Pokémon games. If an attack is normally effective to one of the target Pokémon's types, and super/not very effective against the other, the move will do 1.25x and .85x damage respectively (Note: type immunities are considered not very effective in Pokémon GO). If an attack is super effective against one of the target's types, and not very effective against against the other type, it will do 1x damage (the super effectiveness is countered by the not very effectiveness). If an attack is super/not very effective against both of the targets types, the attack will deal the same amount of damage as if it was only super/not very effective against one of the types (there is no double bonus modifier). 
+
+With the new update, we now have "Sightings." However, there is no indication of how this differs from "nearby Pokémon", though in the patch notes, it states they are testing a variation of "Nearby Pokémon" which appears to be the "Sightings." How do "Sightings" differ from "Nearby Pokémon"? 
+
+Update: a change to gyms may have changed how this works. According to this reddit post, 
+
+Based on the link @MatthewCargille provided, these are all of the different evolution costs. 
+
+To receive the defender awards, you must have at least one Pokémon in an allied gym. 
+
+In conjunction to the other answers, it does appear that you can get 2km Pokémon from 5 or 10km eggs and 5km Pokémon from 10 km eggs. A number of people have stated that they have gotten lower tier Pokémon from higher tier eggs. Here are a few such examples. 
+
+however, this is the only source I can find noting this change, and have not been able to confirm this myself. 
+
+Note: like @wax eagle said, saving candy and rats to evolve at once with a lucky egg is a good strategy to level faster. 
+
+Given that so many people have reported this happening, it appears that there are tiers of Pokémon from eggs, however lower tier Pokémon can be hatched from higher tier eggs. 
+
+For each Battle Won, it means that your Pokemon was responsible for them losing the fight. That means their final attacking Pokemon was defeated by your guy. -source 
+
+TLDR: Evolve Raticates for experience, save your stardust for your best Pokémon, and turn the rats into candy when you get too many of them and need room for other Pokémon. 
+
+While I wouldn't bother using stardust to level up your Raticates, I would definitely use up your candy evolving them. They give 500 experience each time you evolve a Pokémon (1000 when using a lucky egg). Therefore, while they may not be the best Pokémon out there, they give you a nice influx of experience. 
+
+To collect the rewards for having a Pokémon at a gym, you have to go to the shop while at least one Pokémon of yours is still defending at an allied gym. Thus it is best to capture as many gyms as possible (up to 10) and then collect before any get taken down. To get to the shop, from the home screen tap the Pokéball icon, then tap "Shop". Then inside the shop, there is a button in the top right where you can collect rewards for having Pokémon in a gym. Note that you can only collect once per 21 hours. 
+
+This designated how many battles this Pokémon has won. In other words how many times it has successfully defended an attacker. 
+
+Also, as pointed out by Virusbomb, "the rewards for defending a gym are 10 Pokecoins (which can also be bought with real money and are used to buy in game items) and 500 stardust. You can get a max of 100 coins and 5000 stardust every 21 hours with Pokemon in 10 different gyms." 
+
+For further clarification, based on personal experience, I have only seen it pop up for Pokémon that took down my last Pokémon in my party when I was attacking a gym. 
+
+From personal experience, the first evolution of a Pokémon that has 2 evolutions costs 25 candy, and the second evolution costs 100 candy, though there are 3 exceptions; Weedle, Caterpie, and Pidgey which cost 12 and 50 candy for first and second evolutions respectively. For Pokémon with only one evolution, the cost to evolve is 50 candy, except for Magikarp who costs 400 candy to evolve, and Eevee and Rattata who cost 25 to evolve. 
+
+Yes, after training at a Pokégym, if your Pokémon takes any damage, they will need to be healed. Note, if your Pokémon loses, he will faint and need to be revived.

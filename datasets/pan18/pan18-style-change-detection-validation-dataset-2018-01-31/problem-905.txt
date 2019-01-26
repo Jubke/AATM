@@ -1,0 +1,33 @@
+The real challenge to classical logic from Quantum Mechanics comes from the uncertainty principle, which leads to situations where: 
+
+A friend of mine who works as a car sales person recently explained to me how she and her colleagues are paid. They get a very low base salary and make most of their money of off commissions and bonuses. They get 25% of the profit that the dealership makes on each car they sell, an additional 500$ if they sell more than 5 cars per month, a free car lease if they manage to maintain a steady rate of more than 10 cars per month (they have to pay for the lease if they fall below that rate of sales), and a bonus for the top seller at the dealership each month. They keep a score board in the office of how many each person sold per month. 
+
+Although Quantum logic is still an active field of study up to the present day, it does not get much attention from most philosophers and has been abandoned completely by physicists. The only people who are paying attention to it are pure mathematicians who study different types of logic as mathematical structures (Quantum Logic's relation to Orthomodular Lattices and its relation to Fuzzy Sets), without paying any attention to the semantic or epistemic value of such non-classical logics. See for example "Quantum Logic, M.L. Dalla Chiara, R. Giuntini, arXiv:quant-ph/0101028". 
+
+Von Neumann, Birkhoff and Putnam all seemed to have moved away from this position in later years. Quantum logic didn't really solve any physics problems or provide any new insights into the epistemic challenges posed by Quantum Mechanics. 
+
+You will occasionally come across the term "Quantum Logic" used in the quantum computing literature, but by that they do not mean the QL of Von Neumann and Birkhoff. Instead, what is meant by that is classical Boolean logic applied to quantum states and quantum bits. 
+
+There are many resource, but a good informal one which accessible to mathematicians and non-mathematicians alike is Douglas Hofstadter's "I am a Strange Loop" Chapter 10 - Gödel's Quintessential Strange Loop. 
+
+Consider the following scenario: There are two sales people, one very experienced and the other a beginner. Two customers walk in at the same time, one is still shopping around and hasn't made up their mind, while the other is decided and is ready to sign a lease on the spot (In real life, they can tell these two types of customers apart from experience, and they call the second type spoons). 
+
+This isn't just theoretical, she has relayed all sorts of stories of back stabbing and selfish behavior among the team. Nor is it limited to her car dealership, it is the norm across dealerships, at least in our part of the US. 
+
+Those non-classical logics which have been successful (fuzzy logic, modal logic, intuitionistic logic) are those that extend classical logic, as opposed to replacing it, or at least respect classical truth tables in the limiting case. 
+
+From a game theory point of view, isn't the second scenario more beneficial for the dealership? In particular isn't this scenario similar to the prisoners dilemma, where even though it is possible to maximize individual profit by being selfish, the group as a whole benefits more from cooperation than from selfishness? 
+
+The point here is that any set of true facts about the world can always be reconciled with a given theory, as long as you are willing to include additional hypotheses and assumptions to bridge the theory with the fact. So to answer your question: Yes, logic can be used to prove any belief, as long as a person is willing to add additional assumptions to support their belief. 
+
+Quine, in his paper "Two Dogmas of Empiricism" questioned the analytic-synthetic distinction, and suggested that even analytic propositions were dependent on empirical evidence. Since the rules of logic were analytic propositions par excellence, they too, were ultimately dependent on empirical data, and were not absolute laws. 
+
+So then, how can one settle such arguments? 
+
+The part that surprises me is that the system is setup such that all the sales people are in direct competition with each other. Although the dealership profits either way, from the sales person's point of view it is a zero sum game, an additional sale closed by a colleague is one less sale for me, assuming that the number of potential customers walking through the door is predetermined. 
+
+Hilary Putnam discussed this in depth in his paper "Is Logic Empirical?", later republished as "The Logic of Quantum Mechanics." ("The Logic of Quantum Mechanics" in Mathematics, Matter and Method (1975), pp. 174-197). In it, he argued that, just as empirical physical results - relativity - forced us to abandon Euclidean geometry, so it is possible that the results of quantum mechanics will force us to abandon classical logic. 
+
+Birkhoff and Von Neuman proposed in the 1930s that the paradoxes of Quantum Mechanics can be explained if we abandoned classical logic and used some form of Quantum logic instead (Birkhoff, Garrett; von Neumann, John. "The Logic of Quantum Mechanics". Ann. Math. 37 (4): 823–843.). Such a Quantum logic would change or abandon all together some of the rules of classical logic, and would be a perfect case of logical axioms arrived at by observation. 
+
+The current president of the United States has 2 daughters. The current president of the United States has 5 sons. The current emperor of the United States has 12 children. The current ruler of the Unites States is a blue dragon. The current cheddar of the United States has polynomial engines. 1) is a true statement (As of March 2015). 2) is not true, but could have easily been true if the 2012 elections had a different result. 3) is not true, and is very unlikely, but it doesn't violate the laws of nature, and is possible in some far fetched alternate reality 4) is not true and could never happen in reality, but is still a meaningful sentence, and could happen in the context of fantasy or sci-fi story. 5) doesn't make any sense what so ever, even though it is grammatically correct.

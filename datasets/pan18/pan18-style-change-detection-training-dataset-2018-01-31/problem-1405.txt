@@ -1,0 +1,57 @@
+And my computer is AMD Athlon X2 4000+, 4G DDR2 667 ram, with windows xp sp3. 
+
+The server and client programs were both on my own computer, a single computer. The network card will limit the speed or not? 
+
+We are using "TDD" in our development, so the testability of a class often is the most important concern for us. 
+
+How can I understand it? It's great if there is some code example to demo it. 
+
+If I have a writing thread, and many many reading thread, which mode is better to use? If I use non-fair mode, is it possible the writing thread has little chance to get the lock? 
+
+But if the "import" statements are clear, I think it's possible, but maybe no one will write such a tool 
+
+I've looked at Mongoid(in rails), and morphia(in Java), not found the answer. 
+
+Suppose I have some objects in MongoDB: 
+
+My friend said it was slow, and should be faster. But I don't know how can I improve them, or is there any other libraries I can try to get a better speed? 
+
+At first, I thought we can create some stubs for the missing dependencies, that's easy but boring. Since we can create the stubs without missing stubs to make the compiler happy, why can't we make a tool do it automatically? The tool doesn't need to create stubs, but reads the java file, collects informations, and then builds the .class files. 
+
+(OS: windows xp sp3, java: jdk1.6u27) 
+
+ReentrantReadWriteLock has a fair and non-fair(default) mode, but the document is so hard for me to understand it. 
+
+I tested the performance of transferring data from a program to another over socket on a single computer, and the speed is 120MBytes/s, is it normal? 
+
+There is a java file, which has some dependencies jars. But now, I don't have those jars, and I have to compile it to a .class file. 
+
+But if the "import" statements in the java file contain "*", that will be a problem: 
+
+It seems impossible to create such a method, thank you all very much! 
+
+My server and client programs are both extremely simple. 
+
+And when to use static methods? Or just avoid using it as much as possible? 
+
+Once everything has been sent, do one last check for an error response. 
+
+If you try to send a large number of notifications in a high frequency (lets say hundreds per second), you can't stop after each message to wait for responses from Apple (even if you wait for a response only for 20ms, that would limit you to 50 messages per second, and you have no way of knowing how long it would take Apple to write the error response, so a short wait may not be enough). If you don't stop to read possible errors after each message, you risk your connection being closed during the sending of messages to Apple, in which case you won't be able to get the Id of the message that caused the connection to close. 
+
+I am researching server side development of Apple Push Notifications in Java. I am using the enhanced format, in order to detect failed messages and resend messages that follow bad messages. I know that Apple to not guarantee the delivery of Push Notifications, but I wish to be able to know whether Apple received my messages and whether the contained any errors. 
+
+After seeing all the traffic this question got, I thought it would be worth it to expand the answer a little. 
+
+It can take a while for the dropped connection to make its way from APNs back to your server just because of normal latency. It's possible to send over 500 notifications before a write fails because of the connection being dropped. Around 1,700 notifications writes can fail just because the pipe is full, so just retry in that case once the stream is ready for writing again. 
+
+Recently Apple modified their Technical Note TN2265 - Troubleshooting Push Notifications. They added a section about throughput and error checking. 
+
+I noticed that when I try to send an invalid message (invalid device token, too large payload, etc...) to Apple, I can send several more messages before the socket is closed. When the socket is closed it's too late to read the error codes from Apple, so I have no idea which message was the bad one (or even if there was a bad message, since Apple say the connection may close occasionally even when there is no error). 
+
+My question - Is there a way to reliably read the error responses from Alpha before they close the connection, without sacrificing performance? Is it possible somehow to read input from the socket after it was closed by the server? 
+
+Both variants would cause the following series of recursive calls : 
+
+The third phase (§15.12.2.4) allows overloading to be combined with variable arity methods, boxing, and unboxing. 
+
+All of the above described behavior of the APN Server was learned while attempting to send push notifications to Apple's sandbox server. I'm not sure if the behavior of Apple's production server is better, and I'm not sure it's a good idea to perform my tests on the production server.

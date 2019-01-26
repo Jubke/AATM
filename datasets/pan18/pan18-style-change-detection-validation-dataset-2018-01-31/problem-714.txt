@@ -1,0 +1,57 @@
+Projections can be specified as any type of callable: as strings, arrays, or anonymous functions. A projection is assumed to accept one argument and return its projected form. 
+
+Original answer Write the access like this: 
+
+It's probably better to use another mechanism for this. 
+
+This was harder to write than it should have been. My formal proofs are definitely getting rusty... 
+
+Original answer (applies to versions earlier than 7.2.0) PHP has its share of dark alleys that you really don't want to find yourself inside. Object properties with names that are numbers is one of them... 
+
+The only trouble is that my (naive?) expectation that there should be some such filter implementation floating online appears to be wrong! I don't mind writing the filter myself, but maybe there is something available that I just didn't manage to find? 
+
+Introducing: a very generalized solution for PHP 5.3+ I 'd like to add my own solution here, since it offers features that other answers do not. 
+
+The answer is yes and no. Yes in that it is indeed possible, but no in the sense that the semantics of what happens will have to change. 
+
+What you can do Option #1: do it manually 
+
+If it did, the change would hint to a corresponding significant change in the internal implementation of arrays and that would in turn be likely to break lots of other code too. I don't see it happening any time soon. 
+
+What they never told you Fact #1: You cannot access properties with names that are not legal variable names easily 
+
+In cases where the (now improved) default behavior is undesired, curly braces can still be used to override it as shown below. 
+
+Since the docs do not guarantee the ordering then technically the correct answer would be "no, you can't count on that". 
+
+One less thing to be confused about! 
+
+Therefore the algorithm will work for any N. 
+
+How to implement composable queries: the 10k feet view It's not difficult to realize that in order to achieve this the methods being chained must incrementally set up some data structure which is finally being interpreted by some method that executes the final query. But there are some degrees of freedom regarding exactly how this can be orchestrated. 
+
+Updated for PHP 7.2 PHP 7.2 introduced a behavioral change to converting numeric keys in object and array casts, which fixes this particular inconsistency and makes all the following examples behave as expected. 
+
+Advanced features More advanced features are available if you specify a sort column as an array instead of a simple string. This array should be numerically indexed, and must contain these items: 
+
+This is the correct order that we wanted. 
+
+Is it worth it? Quite likely. That's because this kind of solution offers: 
+
+Now as a practical matter, we know that the current implementation honors the ordering -- PHP arrays are ordered containers (there is a linked list of values among other things) -- and this is something you wouldn't ever expect to change. 
+
+An alternative approach would be to write a function that converts objects to arrays recursively: 
+
+An alternative of the previous option is to use the built-in JSON functions: 
+
+The drawback of this approach is that you have to be very careful to reject all possible "bad" inputs while not emitting a notice under any circumstances. Here's how: 
+
+Fact #4: Well, unless the object didn't come from an array in the first place. 
+
+The following discussion assumes that we are talking about code structured as in the example above: no matter which alternative is chosen, an exception will cause the method to logically stop doing whatever it was in the middle of. 
+
+Assumes PHP 5.3, otherwise you 'd have to write the callback as a string. 
+
+The golden rule The number one thing to do when you encounter (or expect to encounter) memory pressure is: do not read massive amounts of data in memory at once if you intend to process them sequentially. 
+
+I need to debug a socket connection that my PHP frontend makes to a backend service on another host, and I need to do this as close to the metal as possible. I 've already abstracted the connection at various levels, which among others gives me the capability to easily attach stream filters to the connection. So the problem should be very easy to solve: package a stream filter into a class which allows arbitrary callbacks to be executed when data is sent or received, and then for example append these to a couple of log files.

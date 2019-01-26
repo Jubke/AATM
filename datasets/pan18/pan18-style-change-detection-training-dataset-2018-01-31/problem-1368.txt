@@ -1,0 +1,51 @@
+Finally, you can provide a constructor for your union: 
+
+Question 1: Default constructors do initialize POD members to 0 according to the C++ standard. See the quoted text below. 
+
+Calling a polymorphic function from a constructor is a recipe for disaster in most OO languages. Different languages will perform differently when this situation is encountered. 
+
+[*] Everything is not an object. 
+
+The problem is that templates are processed in two passes (according to the standard, VS does otherwise). In the first pass, before the type substitution, everything that does not depend on the template arguments is looked up and checked. Dependent names are then left to resolve in the second pass, once the type has been substituted. 
+
+Extensibility in C++ is achieved by means of free functions, not by ways of adding new methods to existing objects. 
+
+The implicitly-defined default constructor performs the set of initializations of the class that would be performed by a user-written default constructor for that class with an empty mem-initializer-list (12.6.2) and an empty function body. 
+
+To zero-initialize an object of type T means: 
+
+A constructor is trivial if it is an implicitly-declared default constructor and if: 
+
+I see it as many metaprogramming tricks that are there not because of what they do at compile time, but rather for what it forces the compiler to do for you. 
+
+All of the above is hand waving, and it is falling on the opposite direction as the other answers (i.e. there are some imprecisions could make it seem as if the difference is smaller than it really is, but reality is closer to this than it is to the general answer dynamic dispatch will make your code slower. 
+
+From C++03, 8.5 Initializers, pg 145 
+
+Different languages approach development in different ways. In particular C# and Java have a strong point of view with respect to OO that leads to everything is an object mindset (C# is a little more lax here). In that approach, extension methods provide a simple way of extending an existing object or interface to add new features. 
+
+UPDATE: I have checked removing the name of the enum and the results are the same: 
+
+From C++03, 12.1 Constructors, pg 190 
+
+In a given domain will contain a set of actual objects that can be modeled and operations that can be applied to them, in some cases those operations will be part of the object, but in some other cases they will not. In particular you will find utility classes in the languages that claim that everything is an object and those utility classes are nothing but a layer trying to hide the fact that those methods don't belong to any particular object. 
+
+UPDATE: I have checked in C with the same compilers. Clang and comeau yield the same output, gcc gives a warning: "warning: useless storage class specifier in empty declaration", which seems even more confusing. 
+
+To default-initialize an object of type T means: 
+
+Regarding the performance that other answers claim, they are somehow right, but most miss the important points. The main advantage of choosing templates over dynamic dispatch is not the extra overhead of the dynamic dispatch, but the fact that small functions can be inlined by the compiler (if the function definition itself is visible). 
+
+The basic problem is that in all languages the Base type(s) must be constructed previous to the Derived type. Now, the problem is what does it mean to call a polymorphic method from the constructor. What do you expect it to behave like? There are two approaches: call the method at the Base level (C++ style) or call the polymorphic method on an unconstructed object at the bottom of the hierarchy (Java way). 
+
+This can be done in two ways, the simple way being as @Emery Berger proposed, which is inlining the operator --which is also a good idea for other reasons: 
+
+There are no extension methods in C++, nor are they needed. When developing C++, forget the everything is an object paradigm --which, by the way, is false even in Java/C# [*]. A different mindset is taken in C++, there are objects, and the objects have operations that are inherently part of the object, but there are also other operations that form part of the interface and need not be part of the class. A must read by Herb Sutter is What's In a Class?, where the author defends (and I agree) that you can easily extend any given class with simple free functions. 
+
+The third version is more cumbersome. Without inlining the code, and with the use of a template, you can declare a single instantiation of the template a friend of your class, without opening yourself to all other instantiations: 
+
+In real life there are different optimizations that provide performance advantages but would complicate the answer. The type could use small object optimizations, the dynamic dispatch can be replaced by a free-function pointer that takes the functor as argument to avoid one level of indirection... but the idea is basically the same. 
+
+In C++ the Base class will build its version of the virtual method table prior to entering its own construction. At this point a call to the virtual method will end up calling the Base version of the method or producing a pure virtual method called in case it has no implementation at that level of the hierarchy. After the Base has been fully constructed, the compiler will start building the Derived class, and it will override the method pointers to point to the implementations in the next level of the hierarchy. 
+
+A union can have member functions (including constructors and destructors), but not virtual (10.3) functions. A union shall not have base classes. A union shall not be used as a base class.An object of a class with a non-trivial constructor (12.1), a non-trivial copy constructor (12.8), a non-trivial destructor (12.4), or a non-trivial copy assignment operator (13.5.3, 12.8) cannot be a member of a union, nor can an array of such objects

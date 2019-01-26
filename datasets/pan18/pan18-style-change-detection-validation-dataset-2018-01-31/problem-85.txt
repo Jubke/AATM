@@ -1,0 +1,39 @@
+I understand that the Sensor Tower is not a detector and will not give vision of the units. I am inquiring as to whether it will alert the player to the PRESENCE of them, even if you still can't target them without an additional source of detection. Everyone develops their own style, so you can't exactly say what is the "better" use. It depends on how you use them. 
+
+What about burrowed Roaches? Will the Sensor Tower still sense those even if it can't sense cloaked units? Actually, the way Blizzard has custom games working at the moment, it is not as simple as navigating to a folder to select the map. Many view this as a downfall in their current system, but this site is not the place for such arguments. 
+
+For example, TLO, a high caliber professional player, uses supply add-ons fairly often, even when not supply blocked, to get the extra 100 short-term minerals to get out an attack just a few seconds earlier. 
+
+If I see my opponent has a Sensor Tower up, is it still safe to attack with Dark Templar or cloaked Banshees? Will he see them coming on the minimap? 
+
+Often the answer to a question of "how do I counter X high tier unit?" isn't so much about countering that unit once it's built, but preventing it from coming out at all. 
+
+This Team Liquid forum post goes into great detail about the shortcomings of the current custom map system and the workarounds for it. 
+
+The main problem with carriers only really arrives if you allow your opponent to build a ton of them. Alone, like Carl Clover said, they're very weak. 
+
+You have to open the map in the map editor and publish it just as you would any of your own maps. Unfortunately, this will create a copy on their server, and anyone found playing your copy will be counted differently from the original author's copy, which means that the stats for determining popularity will treat them as separate maps even though they are the same. It is very difficult for a new map to make its way up through the popularity list with this system. 
+
+One of the best ideas to counter a protoss dead-set on going carriers is to scout and provide early pressure if you see him teching quickly to a fleet beacon. He's probably spending so much money on those buildings that he has a comparatively weak army, and you should be able to do a good deal of damage. 
+
+The first energy is wisely used on a MULE to get the OC cost back, it would be too early after your last scout to gain enough additional information which would be a waste. But let's look at the second time you get energy to use your OC for scouting purposes, this looks like the ideal time to throw down a scan to reveal more... 
+
+Overlord to drop his units in the mineral line, or a Nydus Worm (but not on this map). Before we talk about "how to harass" you first need to know why... 
+
+You can confirm this yourself looking at the modified times of the files, the only other things you might encounter that have recently changed (but not when entering the league) are the news images... 
+
+Don't ask yourself "how" to defend but ask yourself "why" that he plans a medivac drop. If he would hide one of his first production facilities (Starport), you should see that his armies are smaller because for every Void Ray he bulds his army will have less units. If you suspect, it's important to get some kind op map vision at key locations. 
+
+If you really have to, you could opt to create a Flying Scout Rax or send in a Marine. But those might give you less or too late information... 
+
+Build up your defenses and go for a counter attack. Terran: Bunker + 3 Rax, build MM and focus on Marauders to counter the Roaches. Then Fac + Star, create medivac(s) and do a drop near his mineral line. 
+
+This is where a harass comes into play: You essentially prevent your opponent from performing a part of his plan. By placing your Bunker at the bottom of his ramp, you delay him from performing an Fast Expand and sending Zerglings towards your base / expansion / ... 
+
+So, together with scanning his creep for buildings this perfectly answers the questions! Why does an attack I planned fail? Turn your opponent crazy! But secure your expansions against a counter attack... Take a look at Jungle Basin for example. If you were the top player, where would you hide your technology? Not at the right side of the map, my opponent will see your productions right away when he comes to attack you. Instead, you would run out your base with your Probe and run straight to the left, go upstairs and start building a Starport right there. 
+
+No expansion past natural, if he had one he would have more resources, units, ... 
+
+Protoss: Cannons are possible, but are bad for your economy. You have better options: How can I keep the pressure up? The law of diminishing returns: Putting too much effort into something specific isn't worth it. So, if you don't want to be overwelmed, you will have to deny your opponent from spreading out. 
+
+But I don't know what units he has after my initial scout? Ugh... What went wrong at Protoss' side?

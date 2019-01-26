@@ -1,0 +1,51 @@
+In Python 2.7, I define an empty new-style class: 
+
+This is implementation-specific, but your interpreter is probably interning compile-time constants but not the results of run-time expressions. 
+
+If you know for a fact that the string contains an underscore, you can even unpack the LHS and RHS into separate variables: 
+
+Python dictionaries don't support duplicate keys. One way around is to store lists or sets inside the dictionary. 
+
+As to your general question about constructors, Wikipedia is a good starting point: link. For Python-specific stuff, I highly recommend the Python tutorial. 
+
+If you eliminate the effect of constant folding, there's little to separate multiplication and division: 
+
+There is no function overloading in Python, meaning that you can't have multiple functions with the same name but different arguments. 
+
+edit: The list is short, so efficiency is not a concern. Also, the elements are immutable. 
+
+Any suggestions for speeding this up? 
+
+How do I go about figuring out what this is exactly? 
+
+For the avoidance of doubt, the result is 1000 x 1000. 
+
+On Python 2.6.5, the following code: 
+
+The simplest I've been able to come up with is: 
+
+Assigning to a slice requires an iterable on the right-hand side. 
+
+If you run the following, you'll see for yourself: 
+
+You are correct in that your list contains a reference to the original dictionary. 
+
+Is it? Are there any potential side effects of doing so? 
+
+You could copy every element that does match the condition into a second list: 
+
+In what follows I use CPython 2.7.3. 
+
+edit: It is imperative that the method produces a Fortran-ordered matrix directly (due to the size of the data, I can't afford to create a C-ordered matrix and then transform it into a separate Fortran-ordered copy.) 
+
+For example, your code is equivalent to: 
+
+In Python 2.2 (don't ask), what's the neatest way to sort a list and remove duplicates? 
+
+This popular meme is incorrect, or, rather, constructed upon a misunderstanding of (natural) language levels: a similar mistake would be to say "the Bible is a hardcover book". Let me explain that simile... 
+
+The classical implementation, CPython, is often called just "Python" for short -- but it's just one of several production-quality implementations, side by side with Microsoft's IronPython (which compiles to CLR codes, i.e., ".NET"), Jython (which compiles to JVM codes), PyPy (which is written in Python itself and can compile to a huge variety of "back-end" forms including "just-in-time" generated machine language). They're all Python (=="implementations of the Python language") just like many superficially different book objects can all be Bibles (=="copies of The Bible"). 
+
+It's quite possible that a typical printing of the Bible would indeed be in hardcover binding -- after all, it's a book that's typically meant to be read over and over, bookmarked at several places, thumbed through looking for given chapter-and-verse pointers, etc, etc, and a good hardcover binding can make a given copy last longer under such use. However, these are mundane (practical) issues that cannot be used to determine whether a given actual book object is a copy of the Bible or not: paperback printings are perfectly possible! 
+
+So, before diving in and spending a day or two of precious development time "rolling my own" simulations of GAE subsystems for unit testing purposes, I thought I'd double check with the SO crowd and see what y'all think of this... or, if there's already some existing open source set of such simulators that I can simply reuse (or minimally tweak!-), and which I've just failed to spot in my searching!-)

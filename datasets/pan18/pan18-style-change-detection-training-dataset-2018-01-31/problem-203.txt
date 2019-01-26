@@ -1,0 +1,15 @@
+Now that we have an understanding of the item in question lets look at the different types of R-DPS champions (Cr Type Sort and find R-DPS). For your convenience the same champions are listed here: Ashe, Caitlyn, Corki, Ezreal, Graves, Kog'Maw, Miss Fortune, Sivir, Teemo, Tristana, Twisted Fate, Twitch, Urgot and Vayne. 
+
+The way Auras work is HAVING the item gives you the bonus and then you can get the AURA bonus from a nearby ally. (Having 2 Runic Bulwark on a team gives both of the holders the Aura effect twice but each of their teammates receive only 1 instance of the Aura). Having the Captain Enchantment on your boots and then an ally having Captain on their boots won't give either one of the champions 2 Captain Bonuses since the bonus only applies to allied champions moving toward the holder. 
+
+Twisted Fate - Twisted Fate's Wild Cards ability is arguably his best source of damage in the early stages of the game. It has a very long range and wide area of effect, a short cooldown and decent damge that scales with...Ability Power. There are Twisted Fate builds that focus attack damage, critical strikes and attack speed but those builds tend to leave his Wild Cards ability under leveled and underused. It basically removes one of his abilities since the flat damage it offers late game is lacking if you haven't purchased AP. 
+
+(Unique Auras with the same name don't stack.) 
+
+With all of the above champions it becomes a game of efficiency where Infinity Edge just isn't really the BEST item for the money you are spending on it since other items will give you more punch for their cost through the various stages of the game. 
+
+Of course there are always some exceptions to this. As you have seen, Alistar is a relatively decent jungler. He has decent base armor and his passive gives him AoE damage while his Triumphant Roar will heal him up and give him a lot of sustain. His Headbutt and Pulverize skills are very valuable crowd control that can work very well in ganks. 
+
+Please note that the one weakness of AP Ezreal and maxing W first is the inability to push very fast. W is a Champion only skill so you can't use to against minions and with less points in Q (higher CD) he can't push as much. In most cases this is perfectly fine early game but in mid game it might become a problem if the enemy keep pushing to your tower and you lose a lot of CS because of it. 
+
+This is mainly because when Sona heals, her animation shows a green energy going towards the ally. However some champion's heals don't have targetable animation(such as Alistars heal) and will not reveal the location of an invisible ally.

@@ -1,0 +1,39 @@
+And finally, notify the table of changes to the model so it will repaint itself. 
+
+I can see how to obtain information about screen devices, but I can't seem to be able to find out information about how to obtain informaiton about a Printer Device. 
+
+But wait an minute, what's gone wrong here? 
+
+Basically, when printing, I want to be able to create a compatible buffered image by using the devices GraphicsConfiguration. 
+
+Even after correcting for this, the result still doesn't have the image lining up with expectations in either position nor quality... 
+
+The JavaDocs indicate that the GraphicsEnvironment supports "screen and printer devices". 
+
+Based on additional ideas, it has been suggested to try using something like... 
+
+No, you don't have to follow it, but you won't make any friends by not doing so ;) 
+
+Check out 2D Graphics for more details 
+
+The main reasons for wanting to do this is: 
+
+Updated based on additional ideas 
+
+There are any number of ways to get this to work, depending on what it is you want to achieve. 
+
+This is the way to control the number of simultaneously threads that executor can use while processing it's queue. 
+
+I'd prefer the use of an ExecutorService personally. 
+
+Scaling an image to fit an area is slightly more complicated then simply scaling the aspect ratio. You have to make a choice over if you want the image to "fit" within the area (possibly leaving blank areas around it) or over "fill" the area (so that it's smallest dimension fits the largest dimension of the area). 
+
+If you don't need all that extra functionality, I would simply create yourself a custom component capable of painting a scaled image... 
+
+So I went back and had a look at all the measurements... 
+
+Basically, I work with scale factors 
+
+The creation of the directory (in this context) will be at the location you ran the program from... 
+
+The next question is, how do you want to scale the image? Do you want to maintain the aspect ratio of the image? Do you want to "fit" or "fill" the image to the available space.

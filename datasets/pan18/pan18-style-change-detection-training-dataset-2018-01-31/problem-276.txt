@@ -1,0 +1,69 @@
+Console commands do not affect achievements in Skyrim. I've used it to clip through places when I ended up falling and becoming stuck and still received achievements in the same session. I've also togged tgm on occasion while testing stuff and still received achievements after I finished testing without restarting my game. 
+
+Lets also add in a 50% marksman damage modifier from gear since that's pretty easy to get: 
+
+@Andreas is right, I shouldn't have dropped smithing and arrow bonus since it benefits the bow with the faster shot more: 
+
+Night with Moon Outdoors - 8 damage - charges used 
+
+Here are some bow values with base damage: 
+
+After some quick testing, I have to say that this enchantment currently doesn't work. 
+
+If you are facing a lot of small and weak enemies (swarm of rats, for instance), then you purely want # of shots per minute since doing high damage is overkill. In those situations, you will go with a longbow for the fastest arrow output. 
+
+Night No Moon Indoors - 8 damage - charges used Outdoors - 8 damage - charges used 
+
+And finally, for a fun experiment, here is what my maxed out alchemist can make with a jarrin root: Roughly 12.8k damage(take that Alduin!) 
+
+Use the Heavier (Daedric Bow) for sneaking 
+
+Through normally obtainable ingredients, the highest damage poison I was able to make (while wearing 5 pieces of fortify alchemy gear, including usage of the falmer helmet glitch, all necessary alchemy perks and alchemy skill at 100) was this: 
+
+Here are the results from tests, I used getav health to see how much damage I did with 1 attack: 
+
+You should have saved it as there's no way to obtain a second jarrin root except through the console. 
+
+You gain the amount of experience points equal to the level of the skill you just obtained. The game will 'bank' any extra experience towards the next level, but the maximum experience you can gain in the game is absolute. There is no way to gain all the perks as you'll top out at level 81 even if you choose to not level up at all until you max all your skills. 
+
+I made myself a test dagger with a super high enchanting level so there'd be no doubt of the effect if it did trigger. It was done with a petty soul gem so I can see the draining of charges very easily: 
+
+Day with Moon Outdoors - 8 damage - charges used 
+
+Longbow weighs the least so shoots the fastest, but it doesn't allow you to use smithing perks to obtain the maximum damage. Hunting bow is the lightest bow that you can improve to the max. Daedric Bow does the most damage. 
+
+The amount of experience required to gain a point of skill level is: 
+
+Keep in mind the values you see are base damage, with skills in marksman as well as the archery perks, the final difference between the hunting bow and daedric bow will be amplified. 
+
+This was done with these ingredients: 
+
+Where can I find a list of all the skill trainers in Skyrim? 
+
+Followers have stats just like the player in skills and health. Those values are static and are set the first time you enter/load the zone that they are in. There are also maximum level caps for followers should your level be higher than that the first time you encounter them. 
+
+For all accounts and purposes, the Hunting Bow is far superior to the Longbow since it has a much higher maximum possible damage value due to steel smithing with very little increase to total shot time. So now the choice is between the Hunting Bow and Daedric Bow. 
+
+The developers said that the old attributes were basically just a fancy way to raise or lower Health, Magicka or Stamina (besides also influencing skills, obviously), so they went for this "choose between the three" plus "perks" system. 
+
+Almost nothing. That choice basically is the new replacement for the old attributes in the previous games. 
+
+For PC to PC, you can go to the "User/Documents/My Games/Skyrim" folder and simply copy the "Saves" folder from one machine to the corresponding folder on the other machine. 
+
+These are the ones that come to mind right now. 
+
+For PS3, here's a good video guide on how to generally move save games and here's a guide on how to transfer save games from PC to the PS3, although it's possible that this just works with saved games which are originally from a PS3. 
+
+You even get a "cleared" marker on the map when you eradicated an area of all its inhabitants for the duration. 
+
+For XBox 360, here's a guide on how to transfer saved games: 
+
+Yes, you can. I've become a werewolf with my first character, who was a Kahjit melee assassin. 
+
+Well, lacking a precise formula (even though there certainly is one, the problem can be nailed down mathematically since the only variables are the weight of items, the value of items, and the total amount that you can carry), all I can do is give you some tips: 
+
+One way to find a dungeon which has respawned enemies inside is to accept one of the various kill quests that you can find (from innkeepers, the Dark Brotherhood, etc.), which will lead you to you to these dungeons. These procedurally generated kill-quests will send you to dungeons where the difficulty inside matches your level, which means that taking one of these at higher levels will have a higher likelyhood of taking you to a more difficult respawn-dungeon. 
+
+However, when you have not fully cleared sites, enemies may respawn. I experienced this myself at some fort which name I can't remember right now. I killed 3 of the guys outside, went into a tower inside the fort, came out again and they respawned. 
+
+The only thing that changes is the amount you can carry. As Arkvive pointed out, choosing stamina will increase your maximum carry capacity by 5.

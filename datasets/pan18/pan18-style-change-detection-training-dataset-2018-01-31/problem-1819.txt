@@ -1,0 +1,21 @@
+The method of deduction is characteristic for mathematics, while searching for the beginnings is characteristic for dialectics. Dialectic (to dialegesthai) is Plato’s name for his kind of philosophy, developing philosophical insights by discussion. Your question asks about Kant’s influence on the philosophy of science. For each of these propositions Kant gives a "proof". First let me recall the view which is denoted “Hume’s fork” (see http://plato.stanford.edu/entries/hume/): 
+
+I would not name neither the concept of the thing-in-itself nor the empty set a principle. Possibly you can explain a bit why you consider both similar regulative principles. To start with your question no. 3 which I consider less difficult than the others: According to Kant, the only correct motivation to act morally is the respect for the moral law in the form of the categorical imperative. Any motivation different from rational understanding the categorical imperative is considered external and not ethical. In particular, Kant rejects any religious motivation as unethical, see Critic of Pure Reason, B849: 
+
+For any formal effectively generated theory T including basic arithmetical truths and also certain truths about formal provability, if T includes a statement of its own consistency then T is inconsistent. Kant elaborates his metaphysics of natural science in 
+
+Kant and science in accordance with him hypothesize the existence of objects in the real world. According to a constructivist epistomology we do not have direct access to these objects (thing-in-itself). But that hypothesis is the easiest hypothesis explaining why we make sensual experiences. And why the latter serve as input to our cognitive information processing. 
+
+2) The second incompleteness theorem of Gödel: 2) The 12 pure concepts of our understanding: the categories as the result from our human capabilities of understanding (CpR: Transcendental Analytic) So far my answer to your first question: Kant has a tremendous impact on philosophical thinking up until now. But outside philosophy his influence on Western culture is limited in comparison to contemporaries like Goethe, Schiller, the composers of Wiener Klassik and also in comparison with later political thinkers like Marx or Popper. 
+
+The second step is the information processing by means of the categories. The output of both steps is named experience. 
+
+According to the Trancendental Aesthetics of Kant's Critique of Pure Reason space and time are the two kinds of human intuition. I.e. the two basic dimensions to classify the input from our senses, step one of mental information processing. 
+
+In any case, Kant declares that out knowledge has a certain border which should be respected. Metaphysics should not attempt to cross this border. What and where is this border? Why is no knowledge possible beyond the border? 
+
+I also have never heard that the idea has ever been discussed in Kant’s time, that an axiomatized system may have principal boundaries of its scope. On the opposite, Euclid’s concept of axiomatization was held by all as the paradigm of scientific reliability. 1) In Prolegomena to Any Future Metaphysics That Will Be Able to Present Itself as a Science Kant writes in 1783: 
+
+According to Eckart Forster here „belief“ means „belief in God, freedom and immortality”. See Forster, Eckart: Die Vorreden. In Mohr, Georg; Willaschek, Marcus (Hrsg.): Immanuel Kant. Kritik der reinen Vernunft. 1998 (in German). 
+
+Kant has a certain influence on politics with his essay “Perpetual Peace: A Philosophical Scetch” from 1795. This essay is sometimes referred to in papers on the theory of the state.

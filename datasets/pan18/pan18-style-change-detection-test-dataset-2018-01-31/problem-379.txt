@@ -1,0 +1,47 @@
+Discussions, requests for clarification etc. would clean themselves up automatically after four to six weeks. Only the stuff that someone wants to actively preserve remains. 
+
+If you encounter a RTFM link, and it's useful (because it contains a link to the correct manual entry), ask the comment's author to word it a bit more nicely first. Remember: Offensive-flagging just makes it go away, which is a shame if it's a useful link. 
+
+@3ventic, in the comments, says that for his (Finnish?) layout, it's even a triple: 
+
+The comment you started will get posted while you leave the page. 
+
+The question you link to could have been asked in a good way (with a specific issue). It would have still been humorous, but guaranteed to stay open then, so that's the way to go! 
+
+Don't worry: deleting your own comments doesn't get you off the hook if you wrote something really, really bad. Moderators can still see deleted comments. If you have a serious complaint about a comment that was deleted, flag for moderator attention and they will look into it. 
+
+Except when an entire conversation on a post needs to be purged. If you want that, a single flag on the post will suffice. 
+
+And to those fearing that this tool would encourage hasty, incorrect comments: The same thing already happens every day - just with much more cryptic messages like "escape your input" or "use xyz library" that more often than not, leave the OP baffled and none the wiser. 
+
+So how about letting comments decay by default, with the option of making selected ones permanent? This is not my idea; it has been thrown around repeatedly, for example in this conversation between Shog and Rich B. 
+
+Show comment flags publicly, as small symbols next to the comment. Allow users to cast more flags, or dispute them. 
+
+It was closed because it was a crap question with zero specific detail, or previous research. 
+
+Does this have to do with one of these new-fangled URL/history APIs? No idea. 
+
+The entire "summer of love" discussion is not so much about the individual conversations, but the effect of snarky comments on the overall culture on Stack Overflow, and the impression it creates for onlookers. A downvoting feature would make it much clearer that a certain kind of comment is not welcome in our community - and the message would be conveyed to commenter and visitors alike. The lack of transparency in the current system is what is most broken about it. 
+
+It could well be that X isn't a problem -- your assumption is wrong. If you assert it you look bad; if you raise the question the poster isn't put on the defensive, and if it's a problem he can fix it (and thank you for the help). 
+
+We'd need a UI element for "I wanna flag some comments together", one for "I'm done; submit that" (also cancel), and something in between to choose the comments. For the "something in between", maybe it's just the flag control but in this mode it turns them red or something so the user can see what's in the group and then it all resets when the user submits the flag or aborts. Or maybe it's a new flag type on posts that brings up the comments in the flag dialogue for selection. Y'all have people who are way better at UI design than I am; these are just some initial thoughts. 
+
+The entire "summer of love" discussion is not so much about the individual conversations, but the effect of snarky comments on the overall culture on Stack Overflow, and the impression it creates for onlookers. A downvoting feature would make it much clearer that a certain kind of comment is not welcome in our community - and the message would be conveyed to commenter and visitors alike. The lack of transparency in the current system is what is most broken about it. 
+
+Except when an entire conversation on a post needs to be purged. If you want that, a single flag on the post will suffice. 
+
+It's sometimes messy, but people will occasionally post answers as comments - because they have no time to post an answer, they are too lazy to do so (like me!), or because they don't trust their suggestion will work. 
+
+Like upvotes, comment downvotes could come with no rep change. That would eliminate the element of competition. 
+
+A comment that is flagged by enough people is eventually gone. There is no feedback for the commenter; also if the comment contains valuable information despite the snark, that is also gone. 
+
+there is no such council really. Just thousands of monkeys with guns users with enough reputation to vote and closevote. Some people in the community hate humour; some love it; some love it in the right places. You'll find all sorts of opinions really, and all sorts of comments. 
+
+It could well be that X isn't a problem -- your assumption is wrong. If you assert it you look bad; if you raise the question the poster isn't put on the defensive, and if it's a problem he can fix it (and thank you for the help). 
+
+I realized that comments like the following got better results and also that I preferred them when on the receiving end: 
+
+We'd need a UI element for "I wanna flag some comments together", one for "I'm done; submit that" (also cancel), and something in between to choose the comments. For the "something in between", maybe it's just the flag control but in this mode it turns them red or something so the user can see what's in the group and then it all resets when the user submits the flag or aborts. Or maybe it's a new flag type on posts that brings up the comments in the flag dialogue for selection. Y'all have people who are way better at UI design than I am; these are just some initial thoughts.

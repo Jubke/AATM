@@ -1,0 +1,41 @@
+It's a coding convention, adopted by most Java programs. It makes reading code easier as you become use to a given standard. 
+
+UPDATED with ExecutorService example 
+
+So I wrote this really quick example... 
+
+Just in case the first example didn't make sense... 
+
+The following is based on the example given in the JavaDocs 
+
+In this example, each cell panel has it's own mouse listener. It wouldn't be overly difficult to re-code it so that the main panel had a single mouse listener and managed the work load itself instead. 
+
+Make up some more tasks and add them to the queue and see what you get. 
+
+Each cell is defined with a fixed width and height and do not resize with the main window. 
+
+This example doesn't scan folders dropped onto it, so any folder will only register as a single file, but I'm sure you can work it out 
+
+This is my take on the idea. I've used the "traditional" drag and drop API in this example. It has some extra "paint" tweaks just to show off what you might be able to do. 
+
+That's pretty much exactly what I want - but that doesn't go earlier than 1970 either in most cases, nor does it include all the relevant data: 
+
+Is there a way to persuade ICU4J to fall back to tz abbreviations? In my very specific case, that's all I'm looking for. 
+
+(EDIT: Like other answerers, I'd definitely prefer to put the inner loop in a different method. This answer just shows how the requirements in the question can be met.) 
+
+It also seems to be affected by locale, which I suppose is reasonable - using the US locale I can see EST/EDT for America/New_York, but nothing for Europe/London; with the UK locale I see GMT/BST for Europe/London, but nothing for America/New_York :( 
+
+It's not clear to me whether ICU4J is getting its abbreviations from the tz data or from CLDR - I suspect it's the latter, given that there's nothing in the tz data to suggest a difference here. 
+
+Sometimes Java generics just doesn't let you do what you want to, and you need to effectively tell the compiler that what you're doing really will be legal at execution time. 
+
+It violates encapsulation. You shouldn't be able to bypass the parent class's behaviour. It makes sense to sometimes be able to bypass your own class's behaviour (particularly from within the same method) but not your parent's. For example, suppose we have a base "collection of items", a subclass representing "a collection of red items" and a subclass of that representing "a collection of big red items". It makes sense to have: 
+
+Now Eclipse Indigo SR1 with builtin Java 7 support is finally out since a week or two, I'm migrating my playground projects from Helios SR2 + JDK 1.6_23 to Indigo SR1 + JDK 1.7.0. After a full rebuild of all projects, only one class has failed to compile. It's the following class which compiles and runs perfectly fine on Java 1.6 (and 1.5): 
+
+Reads a property list (key and element pairs) from the input byte stream. The input stream is in a simple line-oriented format as specified in load(Reader) and is assumed to use the ISO 8859-1 character encoding; that is each byte is one Latin1 character. Characters not in Latin1, and certain special characters, are represented in keys and elements using Unicode escapes as defined in section 3.3 of The Java™ Language Specification. 
+
+How do I get Eclipse to "display" the backspace properly? I.e. let it remove the previous character. 
+
+This is actually no showstopper since it will just be run in command console, but it would be just nice to get it to work in Eclipse as well :)

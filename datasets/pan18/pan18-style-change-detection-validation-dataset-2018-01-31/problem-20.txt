@@ -1,0 +1,19 @@
+Remember, the first half of Sprint Planning involves the participation of the Product Owner, so a contentious story estimate is a perfect opportunity to work hand-in-hand with the PO to re-scope or refactor stories which have potential issues. The PO can work with the team to split or rewrite stories, or re-prioritize the Product Backlog on-the-fly to swap in a different story that fits better within the current sprint. Having said that, if a story has been mis-estimated, you have several choices: 
+
+TL;DR You can't put lipstick on a pig and expect it to be the belle of the ball. When faced with a process impediment that can't be changed, such as the one you're describing, you must make the process issues a visible cost to the project. As you have almost no control over the impediment and can do little to control for it, your key goal should be transparency. 
+
+TL;DR Story estimates are estimates, not guarantees. They contribute to an overall average velocity range that is useful for capacity planning. They are not management targets, and changing story points within a Sprint tends to sweep process problems under the rug and artificially inflate/deflate a team's velocity. Yes, the Product Owner needs to be present at all scoping and planning sessions. In your specific case, I would remove UAT from the Definition of Done. Work is completed for the Sprint when it passes unit testing, continuous integration, peer review, or whatever else is in your Definition of Done. The work done is then presented as a completed increment to the customer at the end of the Sprint. 
+
+Now, to answer your actual question, Try to convince your company to switch to actual Scrum. If the reasoning behind this particular version of Scrumbut was something along the lines of: "This Scrum thing looks nice, but we probably don't need this, and this, and this..." then take a look at We Tried Baseball and It Didn't Work. 
+
+Sure; the example you give, while not ideal (particularly the part where the timeline is decided by management, rather than the team), is not impossible to work in. Nor is it that uncommon, unfortunately. 
+
+The answer depends on whether or not you are actually doing Scrum. If you are, then the answer is during the Sprint Planning Meeting (or, as some Teams do, during the Pre-Planning Meeting). If that's not possible (ie. if both time and scope are fixed), then the most significant benefit from forecasting is determining how likely you are to succeed/fail at the project - there's not much way to actually prevent it from failing. and I do not think it can be classified as "Done/Done" within a sprint, as that functionality cannot be tested as it breaks existing functionality, what is the best practice for such a scenario? 
+
+Problem is, to do B, we need A, to do C we need B, etc.... And in sprint one, we only complete A to E, Such scenarios are affecting our burndown chart per sprint and bosses are complaining, hence this question. 
+
+2) Calculator has Calculate A, Calculate B to Calculate Z Functionality and a final result. 
+
+6) They can be unit tested per unit, but cannot be checked in and tested on the ui by testers and cannot be defined as done, as the release should not include partial changes, as customers are using the calculator. 5) The final calculator result is wrong if only Calculate A to B are changed, as existing C will break. 
+
+3) You need to do Calculate A to do Calculate B, as Calculate B requires the result from Calculate A, etc until Z.

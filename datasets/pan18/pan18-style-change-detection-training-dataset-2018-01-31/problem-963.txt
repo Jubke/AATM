@@ -1,0 +1,19 @@
+Determining whether questions should be closed is hard. It takes a fair amount of experience with the site to effectively determine whether a question should be closed, and what it should be closed for. 
+
+At the time of this post the first review on Sept. 22nd (so over 3 days) is on page 173 (at 50 reviews per page). That means that there have been ~8650 reviews in that time, which is quite a bit less than 40k. We learned this lesson well enough with several of the other queues. Queues such as the first/last posts queue ended up causing way more problems than they solved for quite some time when they came out because of the shear number of inexperienced users not making quality reviews. Also keep in mind that it's pretty hard to suggest improvements to the queue if you haven't ever actually used it, merely been on the side suggesting edits. If you really would like to improve it you're probably best off waiting until you have enough rep to use it, and then using it for some time (a few weeks at least) before you're familiar enough with it's problems to knowledgeably suggest improvements. Fix will be rolling out shortly. There was a problem in the revisions.js script which did not go down the designated path in the reopen and close review queue task views. 
+
+The code that tries to find an existing review audit task (which was possibly created for another user who skipped / didn't complete it) before querying for a new one didn't check against the user specific rules at all. Thanks for reporting this, the chances of ever getting such a review audit are not exactly big... 
+
+Fixed and rolled out in build 2013.7.18.862. Closed questions are now excluded from known good post audits in the first posts review queue. 
+
+The reopen and close review queues shared the same logic for creating review audits. This has been fixed and will be rolling out shortly. 
+
+Turns out there were actually issues with the revision switcher in the reopen queue both while reviewing (which was fixed in .1133) and in the review results (fixed in .1134) We recently fixed the audit with a known bad question, where the post is now disguised as a good one - previously it was just left as is. 
+
+No, no spam (inappropriate promotion) was introduced, but the rejection reason is not limited to just spam. The rejection reason, in full, is: 
+
+And crap reviewers make it to 1k reviews faster than those that take reviewing seriously. It's easier to hit 'Looks Good' than to actually look at the post. 
+
+Last but not least; the badge is a nice 'thank you' gesture for doing all that work. It should not be seen as a certificate of reviewing ability. At most it could be interpreted as a certificate of tenacity; you have proven that you can continue to review, day after day, even though there is a daily cap on how many reviews you can do. So, you have shown you can live and work with that limit, no reason to lift it now that you got so good at it! It removed whitespace from the start of the lines, completely breaking the formatting of the code in the post. 
+
+The post was deleted after you loaded the review page. The limited flag options you see are what is available for a deleted post vs. one not deleted.

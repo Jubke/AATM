@@ -1,0 +1,45 @@
+I think it would be more clear what was going on if the units remained the same, but the values were presented differently: 
+
+The recovering your account link adds to the confusion since it sends an email that leads off with: 
+
+You can subscribe to the weekly newsletter from the "edit" tab of your profile. If you click the option and save, the next time you visit the edit page before confirming your email you get this message: 
+
+What I failed to notice is that the units are different for this question than for the rest of the main page: 
+
+(Bonus bug: the reCAPTCHA box is a bit too wide for the expanded "Sign up using Stack Exchange" container.) 
+
+Gather statistics so that we have some idea about how the feature is being used and what sort of patterns there might be when it comes to moderator time off. 
+
+On Biblical Hermeneutics, we are trying to provide second opinions. It seems we can search for open questions with no answers: 
+
+Provide details about an absence to other site moderators and the community team, and 
+
+Anyway, I found likely candidates for this in the code in three places: 
+
+*Note: that was a half-joke. The people in TW chat may be actually able to help you, I don't know, but I really can't comment on on-topicness of such a question there. This footnote is so that TW mods don't come after me ;-) 
+
+Stealing @Dave's analogy (unfortunately not energy-related) from the comments: 
+
+Currently, there are few enough bounty questions tagged javascript (for example) that I can look through the list, and decide which I'd like to solve (in my case, the ones with few answers, not using arcane frameworks, and within my level of expertise). If there were a few hundred bountied JS questions, I'd never be able to go through all these. This is what you lose when you flood the bounty tab. 
+
+Alright, here's my counter-proposal. Hopefully it addresses all your points without conflicting with the community's thoughts. 
+
+What I failed to notice is that the units are different for this question than for the rest of the main page: 
+
+Provide details about an absence to other site moderators and the community team, and 
+
+Alternatively, we should ditch this feature altogether. Do you know what a question that ends in an explanation mark is called? A rant! So the system is throwing out a perfectly useful bit of data that we can feed to our mental Bayesian filter and replacing it with gibberish. Seems like this feature turns signal into noise in most cases. 
+
+Automatic edits that are quietly applied without history are, in my opinion, A VERY BAD IDEA. (See for instance the myriad examples of cell phones humorously changing the meaning of a text message in the broken belief that the user would rather have their spelling corrected than send exactly what they entered.) This particular "feature" is mild since it applies to just one character in one location and the automatic change is mostly harmless. But the principle is unaltered. 
+
+Seriously, Stack Overflow is a good thing. Addiction may be bad, but if you have free time or a bit of here-and-there at work, I don't think it's a bad thing. Try to explain this to your boss. If you need help with that ask the people at The Workplace :P {*}. 
+
+Note that I'm not opposing this feature. I like it, I'd want it myself. Just providing a viable alternative :) 
+
+Another issue with refunding bounties is this: 
+
+So, you get to learn by asking questions(obviously), you get to lean by answering, and comments--well, you can put it this way: "comments let you interact with fellow programmers and widen your base". 
+
+Now I'm not so sure.. I've made it a habit to check site faqs before flagging for migration--and they surprise me. A question asked on Physics dealing with box2d seemed obviously a choice for gamedev.SE--till I asked on chat. They weren't too enthusiastic about the question. 
+
+That's where the mods come in. The mods have a secret powwow room in chat where they discuss stuff like this. A mod usually knows what's on topic(otherwise you have problems..), so these mods can get a semi-official verdict on migration.

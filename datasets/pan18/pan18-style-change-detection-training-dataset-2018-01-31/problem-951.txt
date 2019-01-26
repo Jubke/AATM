@@ -1,0 +1,23 @@
+Stack Exchange was experiencing routing issues, from Nick Craver's twitter feed: 
+
+A Stack Overflow moderator reverted your name back to the preceding name when we became aware you had changed it. If you really want to know, listen carefully to the spoiler below: 
+
+Upvoting your friends is not allowed here. While we encourage everyone to upvote great posts, the motivation for doing so needs to be anchored in the merits of the post, not the person who wrote it. 
+
+Given that the email address used matches the fictional character, I'd say option 1 is more likely here. Re-enabling the hats will return all your hats in full glory. Any hats you earned while in denial will also be awarded. so we assumed you knew you were sailing close to the wind here and did not send you a moderator message telling you so. Let me assure you that if you did anything like this again we won't hesitate to send you a mod message. Impersonating a moderator is not allowed; your profile About Me section shows that you hoped people would be confused by your display name: 
+
+You may get upvotes, but no one will ever be able to mark your answer as accepted, no. The question will, forever more, remain without an accepted answer. Until the heat death of the universe, or the demise of Stack Overflow, whichever comes first, of course. 
+
+Indeed, you need to turn a deaf ear towards something. 
+
+Dear Sir stroke Madam. Fire... exclamation mark. Fire... exclamation mark. Help me... exclamation mark. 123 Carrendon Road. Looking forward to hearing from you. All the best, Maurice Moss. You need to reject a suggested edit on one of your own posts. The secret "I'm Not Listening" hat: It clearly requires you to ignore something. But what exactly? 
+
+Someone used your account to play a prank on you. You may want to check what computers you used recently that you may have left logged in. It is probably wise to change your password on whatever OpenID provider you use to log in to Careers. I flagged the post, requesting the bounty be removed, because it should be closed as a primarily opinion-based and overly broad question. It is, by today's standards, off-topic. See a YouTube video of the sketch. All that I hate hats does is hide the festivities. You won't see hats and won't be told about new hats you've earned. You won't be listed on the leaderboard and your profile won't show the hats link (even for people that do love hats). 
+
+You'll have a warm fuzzy feeling that you helped future visitors with the same question. 
+
+Edit: As just announced via Twitter there is now a dedicated Twitter account, a status page and access to the Pingdom status has been opened up: My flag message read, in full: 
+
+Superpings are a chatroom feature only available to diamond moderators, where they can reach a user irrespective of past interaction. Besides, a tag wiki is not meant as a manual on how to use a system call, that is not the purpose of a tag wiki. Tag wikis are meant to indicate what the tag is for, and a general summary of the subject, not a complete manual of the concept. 
+
+The flag was marked as helpful and the bounty was refunded, after which I voted to close the post. It'll be in the Close Vote queue now, but you may well have accelerated that process by drawing attention to that question here.

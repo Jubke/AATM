@@ -1,0 +1,33 @@
+As far as I know, 12.8/32 lays out the only conditions under which a copy from an lvalue can be replaced by a move. The compiler is not permitted in general to detect that an lvalue is unused after the copy (using DFA, say), and make the change on its own initiative. I'm assuming here that there's an observable difference between the two -- if the observable behavior is the same then the "as-if" rule applies. 
+
+Neither. The first condition is too strong and the second is too weak. 1) Is there a simple principle of C++ itself, or gcc's optimisation, which explains why this happens, or is it just a case of "various heuristics run, this is the code you get"? The answer is that C++ doesn't "need" this. If you mark everything inline (which is automatic anyway for member functions defined in a class definition), then there is no need for the separation. You can just define everything in the header files. There are further examples in the article you link to. You generally use it when you need to pass a functor to some algorithm. You have a function or functor that almost does the job you want, but is more configurable (i.e. has more parameters) than the algorithm uses. So you bind arguments to some of the parameters, and leave the rest for the algorithm to fill in: Since "readability" is not objectively defined[*], and furthermore it varies by reader, you have a responsibility as the author/editor of a piece of code that cannot be wholly satisfied by a style guide. Even to the extent that a style guide does specify norms, different people will prefer different norms and will tend to find anything unfamiliar to be "less readable". So the readability of a particular proposed style rule can often only be judged in the context of the other style rules in place. 
+
+Object access are sometimes sequenced, but the standard describes the behavior of the program outside of time. Danvil already quoted: Question 2: If a constructor must be specified in a base class, then that class cannot be part of a union. 
+
+From C++03, 12.1 Constructors, pg 190 I was quite surprised when I saw the following code compile without errors or warnings in g++-4.2: 
+
+You can check it with this code: In a function declaration, arguments of type array decay into pointers to the first element, arguments of type function decay into a function pointer, so the signature would be: 
+
+This is one of those frequently asked questions that have different approaches that are similar but not really the same. The three approaches differ in who you are declaring to be a friend of your function --and then on how you implement it. 
+
+The subtle difference between this third option and the first is in how much you are opening to other classes. An example of abuse in the extrovert version would be someone that wants to get access into your internals and does this: 
+
+There are even more interesting or confusing cases, like: Even in the few cases where the difference in performance of one approach from the other could be measurable (say that the functions only take two cycles, and that dispatch thus doubles the cost of each function) if this code is part of the 80% of the code that takes less than 20% of the cpu time, and say that this particular piece of code takes 1% of the cpu (which is a huge amount if you consider the premise that for performance to be noticeable the function itself must take just one or two cycles!) then you are talking about 30 seconds out of 1 hour program run. Checking the premise again, on a 2GHz cpu, 1% of the time means that the function would have to be called over 10 million times per second. Garbage collection solves certain classes of resource problems that RAII cannot solve. Basically, it boils down to circular dependencies where you do not identify the cycle before hand. 
+
+Here is the work I've done on it: 
+
+It is sometimes still worth it. 
+
+Basic version, for use in a header file: 
+
+I am aware of 5 general categories where recompiling a C++03 compiler as C++11 can cause unbounded performance increases that are practically unrelated to quality of implementation. These are all variations of move semantics. Are symptoms less likely on x86 due to the x86 memory consistency going above and beyond what C++ demands? 
+
+In C++, objects are not pointers. They are actual things. They only use up the space required to store the data in them. A pointer to an object can be larger than an object. 
+
+Is there a compiler setting or workaround that can leave the auto-vectorization intact, while not invoking SSE4_1 instructions on Core2 SSE2 enabled computers? Is there a bug in my code that is causing this to happen? C++11 added alias templates such as: Imagine if write to memory are the really slow part of this computer design, and they get batched up into a queue of things that get processed by a parallel memory modifying unit that does things on a per-byte basis. 13.3.3.1 tells me how to determine if there is a valid conversion. I can cheat for this by using the compiler to do a conversion for me, and use SFINAE to detect if it occurred for a given argument passed in and the signature of one of the "overloads". And if you are taking say 2 to 10 arguments, the reduction in code is exponential -- 2x times less with 1 argument, 4x with 2, 8x with 3, 16x with 4, 1024x with 10 arguments. 
+
+I have not been able to identify where in the standard this is allowed, and I find it slightly confusing that two of the compilers warn that it is required, shouldn't it be an error if the typedef-name is required but not present? 
+
+This is one of those frequently asked questions that have different approaches that are similar but not really the same. The three approaches differ in who you are declaring to be a friend of your function --and then on how you implement it. 
+
+Even in the few cases where the difference in performance of one approach from the other could be measurable (say that the functions only take two cycles, and that dispatch thus doubles the cost of each function) if this code is part of the 80% of the code that takes less than 20% of the cpu time, and say that this particular piece of code takes 1% of the cpu (which is a huge amount if you consider the premise that for performance to be noticeable the function itself must take just one or two cycles!) then you are talking about 30 seconds out of 1 hour program run. Checking the premise again, on a 2GHz cpu, 1% of the time means that the function would have to be called over 10 million times per second.

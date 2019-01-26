@@ -1,0 +1,19 @@
+The first thing you need to realize is that your chip stack is constantly reducing in value in an MTT because the blinds are increasing. The only way to win a tournament is to win chips and you are racing the clock. 
+
+If you are really stuck and at least somewhat serious about poker start by reading some books! There is a great list: Here that I frequently point people toward and am working through myself. 
+
+For survival you need to play more exploitative in MTTs. In your average cash game, Playing more towards GTO (Game Theory Optimal) is usually profitable. your goal in a cash game is to profit, your goal in a tournament is to collect chips at a certain minimum rate to avoid being short stacked and remain in contention for cashing or even winning the tournament! 
+
+This is a very broad question and depends a lot on your own personal play style at a cash game to compare it to how you would play in a tournament so this is both an extremely broad and an extremely subjective question. 
+
+Player 2 has K9, so his 7 cards are KKK9642. Ignoring suits, the best possible hand here is KKK96, or trip kings with a 9 kicker. 
+
+Player 1 has KQ, so his 7 cards are KKKQ642. Ignoring suits, the best possible hand here is KKKQ6, or trip kings with a queen kicker. 
+
+As with most things poker, it depends. I presume your goal here is to maximize your profit in this tournament, and you want to know what action with your JJ is most likely to maximize your profit in the whole tournament. Some things your decision depends on: 
+
+How many players remain? How many blinds do you have overall? What are the prizes for each remaining place? What are the exact stack levels of other players? In general, what you are asking is the question that the ICM (independent chip model) is intended to address. It's a way to help decide questions of equity near the end of a tournament which will help you translate an action into a dollar amount. 
+
+No. The player with KQ would win the whole pot. The winner of the pot is the player who can make the best 5-card hand from the 7 possible cards -- 5 board cards plus their two hole cards. 
+
+If the board had instead come out something like KK662, with the sixes also paired, it would be a split pot. In that case, the best 5-card hand for both players would be KKK66, or kings full of sixes. The second hole card for each player would be irrelevant, and the players would both tie for the best hand and the pot would be split.

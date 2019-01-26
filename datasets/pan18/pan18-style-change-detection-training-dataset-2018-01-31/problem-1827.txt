@@ -1,0 +1,41 @@
+One could also see it as a metaphysics of science - or rather it provides a metaphysics of science. After all, science deals with data, with facts at the basic level (the Wittgenstinian fact). One could suppose that theories are facts, or at least tending to them. 
+
+It's quite possible for a community of individuals to engage in individually rational behaviour; but which when considered collectively can be irrational; this is one aspect of the Tulip Mania. 
+
+Thus it appears the distinction between Beauty and the Sublime is maintained. 
+
+Since his system can be thought of as 
+
+Now, for example, if a man says 'I suppose that ...' 
+
+Kant divides cognition into two - the Understanding & the Intuition. Both are required to make knowledge possible: The understanding supplies concepts which makes the objects represented by the intuition intelligible. 
+
+It was Kant that isolated the question of whether synthetic a priori knowledge is possible, and he suggested that this question hadn't been asked before; he suggested that this was possible, and placed under this rubric mathematics and our understanding of space & time. 
+
+Two of them sound useful in this context: 
+
+This is where Kant opens up the possibility for non-Euclidean geometry; if we exchange the axiom he mentions with a similar one (that is easier to work with, and changes nothing in what Kant wrote): that the angles of a triangle need not add upto 180 degrees; then, if they add up to less, we get hyperbolic geometry, and if they add upto more, we get elliptic geometry. 
+
+To become fully democratic one introduces a self for objects. So, not only are subjects objects, but also objects are subjects. This is a new form of pan-pyschism. So it returns to reality whilst accepting the Kantian perspective. 
+
+So, Spinoza isn't proving Gods existence as he in fact takes it as a given, he is merely placing his understanding of the nature of God, his ontology & ethics on an efficient basis on concepts generated in the Greek tradition - substance, essence, God ; and a definition is not the same as a tautology, though they appear to have similarities (one does not normally, at least in mathematics, think of definitions and axioms as tautologies, but when we consider two propositions that can be shown to be equivalent on the basis of those definitions and axioms) 
+
+I do not feel prepared yet to tackle Kant; so I do not know if this allegory in 1 originates from Kant or the author Dr Warburton. 
+
+Kant's use of the Loan Word 'noumenon' appears to contradict its original meaning in Greek; to what thinking or perception can nooúmenon refer, if humans can never perceive, understand, or think about noumena? Did Kant intend a semantic shift? 
+
+A student (who reveals his name as Patrick, at the 52:45 interval) asks: 
+
+I am conjecturing that a) is incorrect because they can be performed by humans and so are Phenomenal. 
+
+Source: p 114, A Little History of Philosophy (2011 ed; but 2012 Reprint ed extant) by Nigel Warburton PhD in Philosophy (Cambridge) 
+
+This is the element that Kant calls "transcendental idealism". He is very keen that it is not the "subjective idealism" of Berkeley. And obviously, it cannot be the "transcendental realism" of Locke. So what is it? 
+
+Hereafter, I use the (Proto-Indo-European root) reudh to mean the colour red itself (which transcends all languages) and to disambiguate it from the English noun 'red'. 
+
+So disobeying a law, in and of itself, is not immoral, it could even be immoral not to do so, if it is particularly unjust (probably not in this case). But also conversely, if the law is ethically sound the fact that it is not legally binding in one's country does not make breaking it ethical. 
+
+An alternative approach to existence is pursued in logics of non-existent objects, which go back to Meinong with more recent versions developed by Parsons, Priest, and Zalta. There one does have the existence predicate, denoted E!, in addition to the existential quantifier ∃. Such logics distinguish between "there is" and "exists", where the former applies even to imaginary objects like unicorns and Pegasus, while the latter is something more real. In paticular, ∃x(¬E!(x)) expresses that there are objects that do not exist. But even these logics may not be in a real disagreement with Kant, but only regiment the use of "predicate" differently. This is subtle, see Berto's Existence as a Real Property: The Ontology of Meinongianism for a more radical view that traces Kantian view of existence all the way back to Parmenides: 
+
+This theory of reality is instantly fatal to the idea of a thing in itself, - a thing existing independent of all relation to the mind's conception of it. Yet it would by no means forbid, but rather encourage us, to regard the appearances of sense as only signs of the realities. Only, the realities which they represent, would not be the unknowable cause of sensation, but noumena or intelligible conceptions which are the last products of the mental action which is set in motion by sensation". [CP 8.12-13, emphasis Peirce's]

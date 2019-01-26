@@ -1,0 +1,37 @@
+Mihi placet id, quod fecisti. — "Me pleases that, that you made." (i.e. "that, which") 
+
+Now let's consider your first example: 
+
+Why do we even posit such a fictional subordinate clause that never really existed? You could argue against this practice. But I think the main reason is semanto-pragmatic; that is, it cannot really be proven syntactically in any way. We somehow presume that there is in language a "standard" model of expressing an agent and a situation that the agent applies a modal opinion to, and that this model is a main clause with agent plus modality, followed by a subordinate clause containing the situation. 
+
+I'd call sudor a force / natural cause, and quibusdam an experiencer in this translation. I choose experiencer because "breaking out" is not something that normally affects something or someone: you just break out of prison or out of a shell, but you don't directly affect someone by doing so. Sweat breaks out of the body, and the person to whom the body belongs experiences this. In this way I believe your analysis would stay closer to the "spirit" of the Latin construction; Latin erumpo works just like that. 
+
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this: 
+
+It is much easier to find an antecedentless (and postcedentless) indefinite pronoun when it refers to something adverbial (a time or place) rather than a thing or person. Both Latin and Greek are (far) more likely to add an antecedent than English or Dutch. I was able to find a Latin example, but not a Greek example. Nevertheless, I think the origin of our antecedentless indefinite clause lies in indefinite clauses that do have antecedents, as in Latin and Greek. 
+
+A participle often expresses the circumstances in which the subject performs the action of the finite verb; that is why you can often replace it with a while or because clause, an adverbial constituent of time or cause: 
+
+But that doesn't prove anything: the word about cannot normally be left out in English, so this is an entirely different construction. The fact that there is little change in meaning is, again, a coincidence rather than a structural feature. In this construction, doing is a gerund (not a participle), because it functions as a noun. Only things that function as nouns can be the object of a preposition. You can see that it is not possible in other instances of the same construction, which shows that doing is no gerund here: 
+
+Prof. John McWorther, in his course on Linguistics, said, in a lecture about principles and parameters: "if a language is pro-drop, the verb attraction parameter is always set on. If a language isn't pro-drop, then it could go either way." Using his examples: 
+
+The underlying syntax tree for this sentence can be represented as: 
+
+which can be syntactically represented as: 
+
+Beso normalmente Maria (Spanish, pro-drop: on, verb-attraction: on) 
+
+This piece of evidence seems to contradict the hypothesis above. In Portuguese, the subject pronoun can be omitted (pro-drop), but the verb does not have to move (although you could also say "beijo normalmente a Maria"). How can this be explained? 
+
+Here, the suffix -s (that indicates third person, singular, present tense) has been taken from its original position and then attached to the end of the verb, producing the form kicks. 
+
+In Portuguese, Spanish and probably other Romance languages, this kind of compounding has to be done with the aid of prepositions. The translation of the phrase above to Portuguese is: 
+
+Jean embrasse souvent Marie (French, pro-drop: off, verb-attraction: on) 
+
+In English and other Germanic languages, noun compounds are formed simply by “appending” the nouns in a certain order. For example, phrases like this are very common: 
+
+Both operations involve moving a head from one position to another. But affix hopping is assumed to occur at a different level (or different "mind component") than head movement. What is the fundamental difference that makes linguists classify these two apparently similar kinds of movements as two very distinct operations? 
+
+In this case, the auxiliary will has been moved from its original position to become attached to the null complementizer that marks a question.

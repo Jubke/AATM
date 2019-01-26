@@ -1,0 +1,41 @@
+From a letter by Anton Chekhov: 
+
+In Russian, it is possible to use imperatives in different kinds of clauses, including attributive clauses (like your English example 2). Both of your Greek examples can well be translated into Russian with imperatives in the same positions as in Greek. The Russian language lacking Subjunctive and Optative moods, its imperative can be used in their meaning, such cases I will exclude from my answer, although Russian is brimming with them. I will give examples with the imperatives used only as direct commands. 
+
+Посуда там стоит, которую ты до краёв наполни. 
+
+And there are some examples from the Russian National Corpus: 
+
+In the following examples imperatives will be italicized. 
+
+3. Все действия могут проходить по определенным принципам и правилам, которых придерживайтесь в реальном бою. - "*All the actions can take place according to certain principles and rules, which keep in a real combat." 
+
+Лежит там пицца на столе, которую ты поедай немедля. 
+
+2. Возвратись теперь в своё владение, в котором ожидай меня (...). - "*Now go back to your domain, in which wait for me." 
+
+First, my translations of your examples. 
+
+The derivation of the string aabbccaabbcc is as follows: 
+
+We start with the following 'Numeration'/'Lexical Array'. I've only included featural specifications (which are given in square brackets) where they will be relevant to the derivation. Note that i'm also going to ignore subject-auxiliary inversion in the derivation. I also use bare phrase structure labelling, so no distinction between maximal projections and intermediate levels. 
+
+(15) ?? [no one] [except for John] attended the meeting. (16) ??? [no one] [but for John] attended the meeting (17) ?? [no one] attended the meeting [except for John] (18) ??? [no one] attended the meeting [but for John] 
+
+The answer to your question is that 'you' doesn't count as an intervener, since it doesn't possess a [wh] feature. Interrogative C probes specifically for [wh] - anything not possessing [wh] isn't visible to the probing operation. Intervention is relativised - only elements of the relevant sort count as interveners. 
+
+This is a great question! I personally don't know of any NLs which mark the distinction morphologically, and i'd be very surprised indeed to find one that did. Suppose in a hypothetical language L, an anaphoric pronoun is assigned form A, and a cataphoric one is assigned form B. The distribution of A and B would have to conditioned by the linear order of A/B with respect to its antecedent, which may be at a potentially unbounded distance away. Syntactic/morphological rules just don't work that way - syntactic rules don't tend to invoke linear order at all, and morphological rules only invoke linear order to the extent that forms can be conditioned by adjacent material. 
+
+Going through the derivation might help. Since your question is framed in terms of the generative framework, i'll give my answer also from a generative PoV - specifically, from the PoV of the Minimalist Program, where movement is feature-driven. I presuppose i certain amount of familiarity with minimalism in my answer, so apologies in advance. 
+
+The fact that my homework is also felt to be identical to the thing you feel good about is accidental, it is a red herring: the construction is exactly the same as in I hurt my hand repairing the car, where repairing the car is in no way the thing you hurt your hand about/in/whatever. 
+
+A participle often expresses the circumstances in which the subject performs the action of the finite verb; that is why you can often replace it with a while or because clause, an adverbial constituent of time or cause: 
+
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this: 
+
+But that doesn't prove anything: the word about cannot normally be left out in English, so this is an entirely different construction. The fact that there is little change in meaning is, again, a coincidence rather than a structural feature. In this construction, doing is a gerund (not a participle), because it functions as a noun. Only things that function as nouns can be the object of a preposition. You can see that it is not possible in other instances of the same construction, which shows that doing is no gerund here: 
+
+I would call quibusdam a dativus incommodi here, i.e. a dative of inconvenience, the negative counterpart of the dativus commodi. Translated more literally, you would have: 
+
+Note that the first two words have the same root in each Indo-European branch—Germanic, Italic, and Greek. Note also that the conjunction in classical Latin is not normally used to introduce indirect speech, for which the accusativus cum infinitivo was used, but for other, related subordinate clauses. In Greek, hoti could introduce indirect speech or a causal subordinate clause; the a.c.i. was more common for indirect speech, though. In Latin, the various uses of quod can serve as a nice illustration. All the following constructions/meanings are possible:

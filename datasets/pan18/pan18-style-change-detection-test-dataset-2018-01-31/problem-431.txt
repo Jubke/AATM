@@ -1,0 +1,39 @@
+The "Enthusiast" and "Fanatic" badges are awarded for visiting a SE site after a number of consecutive days. Staying away only for one (GMT) day breaks the chain of consecutive days. 
+
+Yeah. And there's a lot more wrong with that ad than just that. 
+
+I've thought about the same thing often. Answering lazy questions enables help vampire behaviour and is usually counter-productive. If their lazy request finds a good answer, they will come back with the next lazy request because they learned they can get away with it. 
+
+As to how to get this whole thing started: at first, give, say, 50 trust votes to a limited circle. The ideal circle would be the people who have undergone the most scrutiny by the community, and are best equipped to have a good impression of users' activities: the moderators. 
+
+I realize this is mainly due to the entire field shifting upwards: The top user has a reputation of almost 250,000 now. It is a perfectly natural development for the average reputation count to grow, the longer users are active on the site. 
+
+There are many circumstances in which we may be legally prohibited from sharing such requests. The NSA cases have been most widely publicized. But the more common cases are much narrower, such as those where a judge has determined that the details of the investigation would undermine law enforcement's ability to proceed without risk to innocents, etc. But the most common examples are probably grand jury subpoenas. These are also the most benign, as grand jury proceedings are sealed predominantly to protect the accused from having personal details dragged into public view before the government has demonstrated reasonable cause to do so. 
+
+Imgur's "normal" terms of service do not apply to pictures you upload through Stack Exchange. 
+
+Thanks to the folks who reached out to us last night, I contacted the parties involved. 
+
+Ultimately, we're interested in using it as forum anything we think might interest or entertain our community, devs in general, or members of the Joel Spolsky Fan Fiction Society. 
+
+I wish my face were a little bigger. (On my avatar, not in real life.) 
+
+You and I have different beliefs. Which is cool. My best friends and I have different beliefs. As do my wife and I. I respect that you believe in things that I do not. I think diverse thought is one of the most valuable things to have if you're trying to do or build great things. 
+
+My (personal) take is that there's an important assumption built into the use of this phrase to illustrate the logical fallacy: 
+
+It makes me happy to see it staring at me up there, but it looks squished, and like there's probably room to expand a few pixels in each direction? 
+
+I'm empowered to talk for the company a fair bit (even though we rarely have an "official" view), but you can take this post as my personal take. 
+
+These users usually really don't know better; they often didn't have any training in programming. 
+
+What will happen next? How is a merge decision reached and executed? Does Robert Cartaino scan the discussions and initiate merges that are uncontested? Or will each participant in a proposal that is about to be merged with another be asked to join the conversation and vote on the decision? If yes, how will that happen? 
+
+The "Enthusiast" and "Fanatic" badges are awarded for visiting a SE site after a number of consecutive days. Staying away only for one (GMT) day breaks the chain of consecutive days. 
+
+I fail to see how the behaviour that this requirement encourages is a healthy one. It's fine to reward frequent activity on the site with a badge, but why every day without exception? What's the point? What's the benefit to the site, the community, or the user? 
+
+If yes, does something need to be done about it? 
+
+They don't deserve to be treated badly, but their questions are a problem. They take up a lot of the community's time - you essentially have to show them how to debug their code step by step. There will be long comment threads like:

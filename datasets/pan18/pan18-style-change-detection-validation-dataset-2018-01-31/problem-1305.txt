@@ -1,0 +1,55 @@
+Now let's consider your first example: 
+
+Catullus describes how Egnatius is always grinning, whatever happens, Carmen 39, 5–7: 
+
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this: 
+
+Mihi placet, quod fecisti. — "Me pleases, what you made." 
+
+The fact that my homework is also felt to be identical to the thing you feel good about is accidental, it is a red herring: the construction is exactly the same as in I hurt my hand repairing the car, where repairing the car is in no way the thing you hurt your hand about/in/whatever. 
+
+I'd call sudor a force / natural cause, and quibusdam an experiencer in this translation. I choose experiencer because "breaking out" is not something that normally affects something or someone: you just break out of prison or out of a shell, but you don't directly affect someone by doing so. Sweat breaks out of the body, and the person to whom the body belongs experiences this. In this way I believe your analysis would stay closer to the "spirit" of the Latin construction; Latin erumpo works just like that. 
+
+By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): 
+
+Al is watching TV. => Al has watched TV. 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+*Al gave Mary a ring for a year. 
+
+Single-event compatibility with "in"-phrases: 
+
+Single event compatibility with "for"-adverbials: 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x 
+
+Al gave Mary a ring in a year. 
+
+Single-event compatibility with "a lot": 
+
+Entailment from the progressive to the perfect: 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: 
+
+*Al gave Mary a ring a lot last night. 
+
+I am wondering if there are any verbs/phrases that qualify both as ditransitive, and as atelic. The following shows the relevant tests. The satisfying verb/phrase should have the same * patterns as give w.r.t. ditransitivity, but * patterns with sleep and watch in the telicity tests. A complete answer will provide the evidence that the proposed word passes the test in these ways. 
+
+Note that the first two words have the same root in each Indo-European branch—Germanic, Italic, and Greek. Note also that the conjunction in classical Latin is not normally used to introduce indirect speech, for which the accusativus cum infinitivo was used, but for other, related subordinate clauses. In Greek, hoti could introduce indirect speech or a causal subordinate clause; the a.c.i. was more common for indirect speech, though. In Latin, the various uses of quod can serve as a nice illustration. All the following constructions/meanings are possible: 
+
+I would call quibusdam a dativus incommodi here, i.e. a dative of inconvenience, the negative counterpart of the dativus commodi. Translated more literally, you would have: 
+
+The fact that my homework is also felt to be identical to the thing you feel good about is accidental, it is a red herring: the construction is exactly the same as in I hurt my hand repairing the car, where repairing the car is in no way the thing you hurt your hand about/in/whatever. 
+
+I saw Otavio's comment only today. Here is the course description: 
+
+Given this, if you were to apply the object over the verb, and then apply the subject over the resultant, you'd have the man and the woman each visiting a garden, that may or may not be the same garden. However, if you were to apply the subject over the verb, and then apply the object over the resultant, you'd have them both visiting the same garden. 
+
+Leaving aside the fact that it's my own fault that I know nothing about Dependency-Based Compostional Semantics1, constituency-based parse analyses map fairly easily to compositional semantics. I believe this claim applies equally well to deeper grammars (LTAG, HPSG, CCG, etc.) that are the intellectual children of the simple Phrase Structure Grammar. After all, the parse trees don't change much between one of these formalisms and another. 
+
+These are not two different types of parsing in HPSG (or anywhere else, AFAIK), but two (of the many) aspects of parsing with a rich grammar like HPSG.

@@ -1,0 +1,71 @@
+Together with "SectionIndexer" class and optionally some attributes, you could have a nice popup that shows as you use this scrollbar (link here). 
+
+EDIT: I've decided to make a simpler solution: 
+
+looking at "filterEquals", the documentation says: 
+
+Background On Android Marshmallow, Google has completely removed the support of Apache HTTP client (link here) because it doesn't have good performance compared to the alternatives. 
+
+Of course, if you really want to hide the ListView, you should change the code. Maybe add "setVisibilityForReal(...)" :) 
+
+In the newest version of ADT (version 20 preview 3), they say that it's possible to make the libraries' manifest file become mergeable with projects that use them: 
+
+... Removed unused resources: Binary resource data reduced from 2570KB to 1711KB: Removed 33% 
+
+I'm talking about both the raised and the flat buttons. 
+
+however, do note that sometimes action items get to be inside the overflow menu so you might get a null instead. 
+
+By the way, I have an Intel CPU, if that could be a problem. 
+
+What is "requestCode" used for? 
+
+Also , don't forget to add the following into the broadcastReceiver: 
+
+Background According to the "Resource Shrinking" webpage of Andriod documentations (here), you can minimize the app's size via the build.gradle file, by using these lines: 
+
+I think the best way is to run a sample code to find the supported locales. I've made a code snippet that does it: 
+
+Can anyone please help me? How can I fix this, so that Lint will show me just warnings instead? or a confirmation dialog if I'm sure I want to do it? 
+
+The problem Google allows you to still use this API, just not as a built in one, by adding this line to the gradle file: 
+
+When using Android-Studio itself to create the signed app, where can I find the information of how much was saved and which files were removed/modified? What exactly does "shrinkResources" do that "minifyEnabled" don't? And why do "shrinkResources" depend on "minifyEnabled" ? Do any of those options affect the size and/or quality of image files? Isn't Proguard responsible of shrinking source code? I ask this because it says "you have to enable minifyEnabled in order to turn on code shrinking," 
+
+There is no need for any workaround. 
+
+This might also be the cause for so many apps crashing on Android Marshmallow. 
+
+Also, not that it matters much, but if I use multiple processes, will I get totally different references to App class on each process? 
+
+there are plenty of apps that show a floating view on top of everything like : airbrowser , LilyPad , Stick it , AirTerm , Smart Taskbar , aircalc ... 
+
+in the manifest, for each activity X that needs to go to the main activity, add this to the code: 
+
+Starting at some API version, broadcastReceivers will not work till you execute the app. Put an activity and execute it. 
+
+Starting with the ADT (22.6), it's possible to use Java 1.7 functionalities: 
+
+I've merged some solutions together: 
+
+findViewById doesn't have to be run on onOptionsItemSelected in order to get the view of the action item. 
+
+You can simply use this view hierarchy : 
+
+However, after installing the new components and creating a new emulator configuration as instructed, I get an error and I also can't see any improvements. I've tried both API 10 and API 15, and with GPU enabled and disabled. None of those configurations helped. I've also tried it on two different computers and didn't get any boost (and got the same errors). 
+
+the problem is that you've handled only a single character instead of using a loop. 
+
+anyway , in order to achieve this feature , you must have a special permission called "android.permission.SYSTEM_ALERT_WINDOW" , and use something like that: 
+
+How and where do I use it? I can't see content assist helping with me on this anywhere. 
+
+EDIT: If you wish to be able to swipe-to-refresh even when the empty view is shown, you will have to somehow avoid hiding the ListView, so you could use a customized ListView that has this function inside: 
+
+Lately Google and Intel have published a new way to run the emulator, which should work much better than the previous version (which has emulated ARM CPU). Here are some links about it: this and this. 
+
+Google has shown some nice ways that buttons are shown on Lollipop here. 
+
+Weird thing is that for some cases, I got "#" which is something I've never seen before. It's probably quite new, and the rule I've chosen is probably incorrect for those cases (though it still compiles fine when I put such folders and files), but for the rest it should be fine. 
+
+The problem RecyclerView doesn't seem to have any of those. Not even a fast-scroll.

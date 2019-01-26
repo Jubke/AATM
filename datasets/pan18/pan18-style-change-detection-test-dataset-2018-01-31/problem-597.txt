@@ -1,0 +1,41 @@
+For the record, here's the same thing, but "properly formatted": The grammar of C++, however, isn't (even without macros). (Please read this carefully!) 
+
+Multiplication in O(log n) depth is also done through parallelization, where every sum of 3 numbers is reduced to a sum of just 2 numbers in parallel, and the sums are done in some manner like the above. I won't explain it here, but you can find reading material on fast addition and multiplication by looking up "carry-lookahead" and "carry-save" addition. 
+
+Java: Iterators go through the items of a collection, like in C++. I'm not sure about "enumerators". On C++11, however, I noticed that this results in a move of the right-hand side onto the left-hand side, which performs an element-wise move-assignment to each vector on the left-hand side. This in turn causes the vector to discard its old buffer, suddenly reducing its capacity to zero. Consequently, my application now slows down considerably due to excess heap allocations/deallocations. 
+
+Which with manual editing resolved too: Currently (after a quck search) the simplist algorithm is: 
+
+std::auto_ptr<T>: Single person owns the object. But transfer of ownership is allowed. 
+
+But is anybody working on a unified standard for windowing? Something that wrapped all the above would be acceptable. (even if it only accessed the common stuff it would be a starting point). 
+
+I know that the gcc supplied with XCode is always a couple of versions behind that available from gcc.gnu.org so I was just wondering what the state of play for modern support was. 
+
+Conversely it is rare to see RAW pointers stored in a class each RAW pointer is stored within its own SMART pointer wrapper. (N.B.: If you don't own an object you should not be storing it because you can not know when it will go out of scope and be destroyed.) 
+
+These operators should return a bool as they are comparing two objects of the same type. It is usually easiest to define these operators as part of the class. This is because a class is automatically a friend of itself so objects of type Paragraph can examine each other (even each others private members). 
+
+To my surprise the following code compiles: 
+
+Scott Myers has an excellent article about the subject in his book "Effective C++" 
+
+Note: Windows is just a small part of what I am looking for. The Java/C# languages consolidate a lot more under the hood than just the GUI. What would be a good set of libraries to get all the functionality in one place. Nobody mentioned the limit on the size of the stack frame. This version (Multi Threaded) creates a new thread for every accepted incoming connection and then simply detaches the thread (allowing it to run to completion). As the concurrency reaches 255 we will have 255 background threads running in the processes. 
+
+What is the current support for tr1 or the new C++0x on the Mac 
+
+Throwing an exception out of a destructor is dangerous. If another exception is already propagating the application will terminate. I am in the processes of writing some article about using Blocking Vs Non-Blocking sockets. I am currently doing some experiments using threads and blocking sockets and have turned up some interesting results I am not sure how to explain. Lets keep 1 type of semantic ownership per answer so they can be voted up and down individually boost::shared_ptr<T> (std::tr1::shared_ptr<T>) Multiple ownership. This is a simple reference counted pointer. When reference count reaches zero object is destroyed. 
+
+Thus if you allocate an array dynamically (the limit is large and described in detail by other posts. 
+
+Usage: ====== Used to stop cycles from retaining objects when only the cycle is maintaining a shared refcount. So I am also automatically friends with all my clones :-) as they are just other instances of myself. 
+
+Also, friendship is not symmetric. John has a goverment job so he unfortunately is not allowed to trust anyone, especially when it comes to wireless. 
+
+How do you find valid locale names? The destructor will then finish off the object by calling these methods (if the user did not do so explicitly), but any exceptions throw are caught and dropped (after attempting to fix the problem). Does their usage exactly overlap (so I can do a global find/replace on my code (not that I would do this, but if I did)) or should I be aware of some differences that are not apparent from reading the documentation? 
+
+It depends on the context; otherwise it's ambiguous. See this example (modified except below): I used to be a C# programmer (I know C++ and Java too), but after learning D, I'd say that it would be the best language ever, if only its compiler was bug-free. Just look at these pages: The compiler isn't bug-free (e.g. forward-reference errors are very annoying and a pain to solve) (Edit: it's improved a lot!). I freak out whenever I open up any STL-related code from Visual Studio's implementation while debugging my code: But, in some languages, each one has a specific meaning as an action: I've posted this on the D newsgroup some months ago, but for some reason, the answer never really convinced me, so I thought I'd ask it here. 
+
+Addition in O(log n) is done by splitting the number in half and (recursively) adding the two parts in parallel, where the upper half is solved for both the "0-carry" and "1-carry" case. Once the lower half is added, the carry is examined, and its value is used to choose between the 0-carry and 1-carry case. 
+
+This strikes me as astonishing. I've never come across this issue before, and I don't know of any elegant way to solve it. Thinking about it a bit more, it seems to me that copy construction is unsafe by default -- in fact, it seems to me that classes should not be copyable by default, because any kind of coupling between their instance variables risks rendering the default copy-constructor invalid.

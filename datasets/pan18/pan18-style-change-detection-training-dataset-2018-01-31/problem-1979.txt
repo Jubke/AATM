@@ -1,0 +1,25 @@
+A subsect of this thought are the ultrafinitists who argue that numbers above a certain threshold, perhaps not exactly specifiable are not constructible, and therefore do not exist. In this school the number of primes are actually finite in number, but the actual number is perhaps not precisely specifiable. One could say that in the foundational thinking, as per the ZFC axioms, they deny the axiom of infinity. 
+
+An example is calculus: Archimedes investigated integration synthetically but could not put it on a formal axiomatic system ala euclid. Its development stalled until Newton/Leibniz utilised the coordinitisation of geometry to begin to fully realise its capability. It was of course noticed that these 'fluzions' were not fully rigorous, and Berkelys criticism of 'ghosts of departed quantities' stung. It wasn't until Cauchy developed the idea of a limit that the foundations of calculus began to be put on a rigourous basis. Now there are a plethora of different axiomatics for the calculus: Synthetic Differential Geometry, Nonstandard Analysis, Diffeological Spaces. Which one of these is the one true & correct axiomatic framework? 
+
+From the description of Category Theory in nlab: 
+
+Although Quantum Mechanics differs dramatically from classical mechanics there are broad features that correspond from Classical to Quantum - as there should be - since Quantum Mechanics should converge towards Classical Mechanics as one takes plancks constant towards zero. This is the case for phase space - there is a quantum phase space. 
+
+Poincare may have said that 'there is no absolute infinity', and that the Cantorians had forgotten this, but I very much doubt that Cantor held the same view. He shouldn't be judged on the polemics & antics of his band of followers. 
+
+Now, let's look at the other stuff you said, without talking about the above mentioned problem. Consider: 
+
+The truth of CH is a semantical matter and has no business in independence proofs. CH may be believed to be true by experts, for reasons I cannot hope to understand. Some might even believe that it has to be true, but whether CH is true or not, the important result here is that: if ZF is consistent, it is compatible both with CH and with its negation. 
+
+You make some plausible (and familiar) conclusions about how we could go about resolving the concept horse problem. It is, for example, an attractive proposal to say that 'horse' is both an object and a concept, depending on its syntactical role. As Frege says in that excerpt: we could say that horse is a concept (of type ⟨e,t⟩), but when it occurs in object positions, it is automatically converted to an object (of type ⟨e⟩). 
+
+The practice of mathematics is "defined" by the common "value" of the mathematical community : 
+
+In other words, I think that the natural point of view of the mathematicians regarding the language of mathematical theories is that it must have "reference". 
+
+It seems that the name "mathematical logic" has been used first by Augustus De Morgan in On the syllogism no.III (1858), reprinted into: 
+
+Of course we have some "issue" here : see quantum mechanics, but the scientific community devotes a lot of time and money searching some empirical support to the existence of (e.g.) Higgs' boson. This presuppose some sort of belief in the "reality" of Higss' boson. 
+
+With an infinite Hotel it happens ... Two "infinite" set (if we assume that here infinite stay for countable) "added together" gave us a new "infinite" set which is still countable, i.e.it includes the initial sets but has "the same number" of elements (in a precise mathematicals ense of "having the same number of elements").

@@ -1,0 +1,21 @@
+A good way to look at this is through the concepts that Frege introduced - sense (sinn) and reference (bedeutung). 
+
+The Gödel sentence is: there is a sentence p such that p<=>not BGp where BGp means that the sentence p has a proof. Now this Gödel sentence has a proof. But the sentence says p is true <=> p has no proof. Logic is different from reasoning. To open a lock I would need a key. To formalise this places it in the domain of logic. But people simply see that a key is required. One useful consequence of assuming the hypothesis is that the hyper-reals become unique (upto isomorphism). 
+
+The actual physics is silent about why or how the universe was created. Its also not generally noticed that the Physics of the very early Big Bang is highly speculative. It's impossible to say what new Physics are possible at such incredible density of both matter & spacetime. 
+
+This is their reference; but what then is their sense? 
+
+It also has a geometric character: A sheaf of sets, is a topos, and is equivalently (which reveals it geometric character more clearly) an etale (projection is locally homeomorphic) bundle. And if Hume did offer such an argument, did Kant offer a riposte as his work was clearly responding to Hume (amongst other things)? This is then a possible argument for the primacy of classical logic. It is starting from here that one begins to think about attributes - that is predicates, and existence. Is a substance defined by all of its attributes? Is there a bare substance devoid of any attributes? Etc. There is a long development that then goes through both Western Philosophy/Christian Theology. And yes, 2+2=5 is a joke - and not to be taken seriously - other than to provoke a little thought amongst the mathematically or logically inclined. It's here that Liebniz enters; for what is logically contradictory, pace the centrality of the Law of the Excluded Middle in Aristotles Organon, is impossible; and this leads into his possible worlds: for what is not logically contradictory must be possible. 
+
+Probability has a quantitative definition, intuitively through frequency of occurrence. 
+
+Finally, to complete the circle, by using this definition in the category of finite sets (which have no internal operations given), we find that we re-invent the integers. Plato would have said yes - as a form of the Good. Some modern day philosophers of Number suppose it all might be some kind of fiction, but not a hoax. Others suppose both. 
+
+This is a new way to take seriously Von Neumanns dictum that it is the quantum logic that is essential in QM. Its far too early to say how important the results are though. 
+
+Interestingly, Cohens forcing construction can then be given a geometric description. Also, if (the axiom of ) Choice is enforced, then it forces the logic to become classical. 
+
+In the debate between Aristotle and the atomists; Aristotle took the tack the universal divisibility isn't possible ie atoms do not exist. 
+
+Though Hilberts formalist programme died, this didn't mean that intuitionistic logic prospered, rather it led something of an underground existance, but recently it has been establishing itself as an important part of mainstream mathematics & logic, via what is called Topos Theory, which is a generalised Set Theory built on structuralist principles. There isn't only a single unique Topos theory, there are many, and each has a so-called internal language/logic built within it, and this logic is intuitionistic; further, and this is important, each topos has a geometry.

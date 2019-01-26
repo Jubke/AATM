@@ -1,0 +1,27 @@
+An additional source from Plato (429?–347 B.C.E.), from Theaetetus, 157e, discussing Theaetetus' proposed definition (in 151e) that "knowledge is nothing else than perception [ἄλλο τί ἐστιν ἐπιστήμη ἢ αἴσθησις]" : Cartesian philosophy may have laid the ‘first principles’ for the conclusions that Spinoza draws in Parts Four and Five of the Ethics, but the doctrines that we find embedded in the propositions of those parts are a response to a far different tradition, one that has as its most prominent members the medieval Jewish philosophers Maimonides and Gersonides. and of course Giordano Bruno, tried for heresy by the Roman Inquisition on charges including denial of several core Catholic doctrines (including the Trinity, the divinity of Christ, the virginity of Mary, and Transubstantiation). The Inquisition found him guilty, and in 1600 he was burned at the stake in Rome. 
+
+See also Early Greek Philosophy by John Burnet : From Chapter V, Empedokles of Akragas. 
+
+In ancient Greek mathematics there are two different types of "basic" entities: numbers and magnitudes; there are no negative or rational numbers, but only magnitudes measurable with multiples of a suitable unit one. See Summulae Logicales, Tractatus IV De Sillogismis, §13 (page 64v). The huge modern literature on Aristotle's syllogistics include : Regarding the twenty-one cards and letters from Frege to Wittgenstein discovered in 1988 [None of the letters from Wittgenstein to Frege are thought to have survived the bombing of the Munster library in 1945], you can see into: Enzo De Pellegrin (editor), Interactive Wittgenstein: Essays in Memory of Georg Henrik von Wright (2011): 
+
+W.A. Wallace, Galileo’s Logic of Discovery and Proof: The Background, Content, and Use of His Appropriated Treatises on Aristotle’s Posterior Analytics (1992). 
+
+I have denoted by signs all ideas that occur in the principles of arithmetic, so that every proposition is stated only by means of these signs. 
+
+See in SEP the entry on Ancient Atomism : Early modern science was made possible by a unique mixture of new ideas, experiences (and experiments) and mathematical (analytical) tools : from Tycho and Kepler, through William Gilbert and William Harvey to the "founding fathers" of new science : Galileo, Descartes and Newton. [Ethics, 1P4:] “Therefore, there is nothing outside the intellect through which a number of things can be distinguished from one another except substance, or what is the same (by 1D4), their attributes, and their affections” (italics added), [1P19:] “God is eternal, or all God's attributes are eternal,” [1P20Cor.:] “It follows second, that God, or all of God's attributes, are immutable.” Some might consider 1P29Schol to be making an identity claim as well: “But by Natura Naturata I understand whatever follows from the necessity of God's nature, or from any of God's attributes…” Spinoza in these places seems to be claiming that there is an identification of the substance with its attributes. 
+
+While atoms themselves had no perceptible qualities (qualities are dependent on atoms forming compounds), they did have different shapes and sizes. Aristotle (Metaphysics 985b15–19 = DK67A6; see also Generation and Corruption 315b6–15 = DK67A9) notes that atoms differ in shape (rusmos), arrangement (diathige), and position (trope) (see also Simplicius, Commentary on Aristotle’s Physics 28.15–26. = DK67A8; 68A38). However, arrangement and position are the sine qua non for the formation of compounds. In the final analysis, only size (megethos) and shape (rhusmos) are intrinsic to the atom themselves [Gerard Naddaf, The Greek Concept of Nature (2005), page 154]. You can see the (old but still authoritative) book of Benson Mates, Stoic Logic (University of California Press, 1953) at pag.84, on the Liar Paradox in Stoic Logic. 
+
+the philosopher Nicola Oresme (ca.1320-1382) that wrote influential works on economics, mathematics, physics, astrology and astronomy; he was Bishop of Lisieux and a counselor of King Charles V of France. 
+
+Stephen Gaukroger, Francis Bacon and the Transformation of Early-Modern Philosophy (2001); 
+
+This is a very primitive technique, but at least it shows that the highly developed terminology of Peter of Spain (who became Pope in 1276, under the name of John XXI; but see footnote : This can not have originated with him) had antecedents in Scholasticism itself. For a detailed discussion, see: The historical events are complex... 
+
+to confute : atheists, skeptics and "libertins", the purported members of a freethinking circle of French philosophers and intellectuals who were collectively known as libertinage érudit and which included Gabriel Naudé, Élie Diodati and François de La Mothe Le Vayer. 
+
+But the signs K for classes and ∈ [est] for membership are listed as logical signs, and thus the theory of classes is part of logic, and this is common to Frege and Russell. 
+
+I'm not sure about this specific topic, i.e. the fallacy consisting in : 
+
+Thus the origin is probably unknown in the first half of 13th Century. Adiane Rini, Aristotle's Modal Proofs: Prior Analytics A8-22 in Predicate Logic (2010). See Euclid's Elements, Book VII, Defs.1&2 : It seems that, at least for Democritus, atoms must be interpreted as in the XVII century mechanicist tradition : only shape, size and motion, devoided of "qualities". (ii) God's essence exists, because it is God itself. See Begriffschrift (1879) or Sense and Reference(Uber Sinn und Bedeutung, 1892).

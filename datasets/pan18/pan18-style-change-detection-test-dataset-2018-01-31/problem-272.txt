@@ -1,0 +1,19 @@
+You are looking at a pot sized bet on the river, so since you are getting 2 to 1 you should be looking to fold around 2/3 of your range. You should try to play a balanced and unexploitable strategy. Arguments like he would never bluff this river or he would always bluff this river are invalid, since you cannot just assume that. Basing your calls on your range and calling the right percentage based on the price that you are getting is a very good strategy and will be profitable in the long term against many different opponents. So, let us look at your range first. 
+
+The next level play here is to check-raise. What are some of the advantages and disadvantages of this play? Let's start with the disadvantages. Caecilius for sure checks back king high and a pair of sixes on the river, which BrynKenney could have bluffed him off of. There are a lot of advantages to this play though. For once, having some check-raises here with both bluffs and value hands makes you tough to play against. Secondly, your opponent's betting range on the river is, let's be honest, pretty weak. Almost all of his flush draws on the flop would have bet and most of his straights and sets would have bet the flop as well, if not that then the turn, because the board was so draw heavy. Most aces would be betting the turn for that same reason. Realistically caecilius can only really value bet a weird 8 or a 5. You can probably check-raise him off those hands, while they would call a river bet most of the time. Note: because caecilius overbets the river he is primarily representing trips. 
+
+Let's look at the hand step by step, starting pre-flop. 
+
+So I decided to check-raise turn. I could have just called as well, but I think it is important to have a check-raise bluffing range on every street to make it hard for your opponent to play against you. I think Ts6s is a reasonable candidate to do it with. 
+
+I think you should be check calling this river, since you give him a chance to bluff with his missed draws. If you continue betting, what do you plan on doing when you get raised? What worse hands are going to call a full pot sized bet? Deuces? Maybe, but not likely. Checking controls the size of the pot. 
+
+Your bot needs access to in this case: both all river bet sizes it made and the fold percentages that are paired with them, with a huge sample. Now the most interesting part is the optimal bet size on the river for your bot. If this is known you have figured out this spot. This bet size unfortunately depends on so many factors like, previous action and the board texture. It is very complicated and pretty much impossible to answer, since poker has not yet been solved. 
+
+888 has a higher rake percentage of 6.12%-10% as opposed to pokerstars' 5%-8%. 
+
+What do you think the best option would be in this spot? 
+
+BrynKenney brilliantly breaks the hand down and shoves the river. He knows his opponent is weak. And he can credibly represent a flush, which could have checked the flop and slowplayed the turn and river. BrynKenney blocks caecilius from having a weird flush or straight, so this is pretty much the best hand to do it with after Kh7x. 
+
+A♥. This is an interesting turn card. BrynKenney could decide to start bluffing here. But again, he really doesn't want to get check-raised, because he has so much equity. Caecilius has plenty of aces in his range that checked the flop and on a wet board like this, caecilius could definitely raise it up with most of them. Better bluff candidates would be hands BrynKenney doesn't mind folding to a large raise. Like any heart, preferably a low heart or 7x without a heart and/or without showdown value, and then every sort of single straight draw. Plenty of other bluffs BrynKenney can have in this spot. I like BrynKenney's play.

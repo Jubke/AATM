@@ -1,0 +1,29 @@
+Finally, there's the situation where you have a champion who can leave their lane unguarded. This is usually because they can either push the lane toward the opponent's turret, and thus have some time to roam, or because the opponent isn't capable of pushing very hard (or both). Nunu is fairly effective here because of the speed boost from blood boil: He can make it another lane quickly and has decent CC. However, it's rare that Nunu will spend the inordinate amount of time outside lane to be truly considered "roaming." 
+
+Having a roamer and a jungler allows you to effectively have three solo lanes, which gives your carries faster experience gain. But that's really just a side-effect of the roaming strategy. The roaming strategy is mostly defined by having a non-jungling champion with no "home" lane. That distinguishes it from simple ganking. 
+
+The downside is that you need to roam with someone who fits the role, which is not a lot of champions. Low-risk roamers are those who don't need a lot of levels or gold (since you won't have much of either) to still be effective. Alistar and Taric are good examples of this, though Alistar is by far more common in the roaming role. High-risk roamers are champions who do need the gold (but not necessarily the experience) and are usually assassin-style character. Twitch is a good example. Talon can also work, but his lane power is so strong I can't recommend doing it. 
+
+Sometimes you'll need to roam even when you haven't specifically selected for it. This is usually because you've either destroyed your opponent's turret or because your lane is truly hopeless. However, before choosing to roam, make sure you read everything above... an ineffective roamer is just an exp leech and is rarely a threat in the other lanes. 
+
+Rek'sai's Tremor Sense isn't a constant detection either and most dashes/jumps are quick and last maybe a second if not less. This means even if you weren't detectable while in the air, it would be for such a short time that it would make a difference anyways. 
+
+Most supports now have their utility scale with AP. Should I build like an AP mid to strengthen utility and damage, or maybe that is best left to the actual mid? The only items I ever generally get on all supports is boots, one gold item and a sightstone then whatever looks good after those. My favorite support is Lulu if you have a good answer for a build to use on her. 
+
+So yes, any masteries that heal including this are affected by ignite. 
+
+No there is no way to change A's attack move command to only target champions. The default key "tilde" does not target the same way the "a" key does. 
+
+Caitlyn at level 1 has 53.7 AD and .568 attack speed. 
+
+So general laning duties would be: 
+
+Auto Attacks while under the effects of the root dealt 76 damage 
+
+Long sword is clearly the better option if you are limiting yourself to 1 item even though it is a bit more expensive. 
+
+The very reason there is a duo lane bottom is to keep early pressure on dragon. So keeping the river and/or dragon pit warded both reveals possible ganks and prevents the enemy from sneaking in a dragon kill. This also goes for baron in the mid to late game after laning phase is over. You might be surprised how often people neglect to keep track of neutral objectives. Having someone on the team to give guidance can help keep everyone on the same page. 
+
+While Rift Scuttler is under the effect of crowd control that prevents her movement, she receives 25% extra damage from all sources, including true damage. 
+
+When affected by crowd control that prevents her movement, Rift Scuttler permanently loses 50 armor and magic resist. This can only occur one time after each spawn.

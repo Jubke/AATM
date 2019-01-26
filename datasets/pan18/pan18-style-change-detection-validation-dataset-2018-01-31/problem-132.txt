@@ -1,0 +1,23 @@
+Disarm does not make your weapon disappear. 
+
+You might want to double-check your wolf bites. Wolves have a chance of carrying "Rockjoint", a disease which decreases your melee damage dealt. NPCs use those responses for all diseases, not just Porphyric Hemophilia Sanguinare Vampiris (aka, Vampirism). 
+
+Information is a little sparse since the game has yet to release in most areas, but all 4 of the main guilds are making a return in one incarnation or another. This isn't optimal for apples to apples comparisons (Daedric will always be higher damage), but it does show that once you get your smithing high enough, other weapon attributes, like speed, make for a higher effective DPS (Damage per Second) than simply adding more base damage. Likewise, the College of Winterhold is the replacement organization for Cyrodill's Mage's guild. For base damage, nothing beats Dragonbone♥, point for point and perk for perk. If you're looking for a general history of Tamriel, the realm in which The Elder Scrolls takes place, the UESP has you covered there too. 
+
+Important NPCs are invulnerable, like Oblivion. 
+
+I've been shooting arrows at this Windhelm guard. As you can see in my screenshot, there's 4 listed health values: 204.53 - this is a sneak attack from my bow. I have the 3x sneak attack perk w/ bows. Our assumption is that magical enchantments do not get multiplied in. Indeed, subtracting the 15 fire damage, we get 97, which is about equal to 33 * 3 (the difference in 2 expected damage is probably because he's on fire; ideally, I'd have tested with frost or shock, but didn't have one of those on me) 
+
+Equipping spells via hotkey assignment Consider the secondary effects of armor: reduced movement, increased staggering, increased noise. Do you have ways to compensate for those problems? Are you prepared to trade away armor rating to solve those problems instead? 
+
+That's 2 smithing perks, and 7 light armor perks. With 100 skill in light armor and smithing, you'll be level 26 and easily able to afford these perks. 
+
+It means, you can take out your completely empty Sword of Flaming Flames, kill a bear with it, and now it's got 5% of the bear's soul for the next fight. (note: works for partially filled magic items too) 
+
+So much for unperk-able leather. How about elven? Can you skip the 2 smithing perks? Possibly. You'll need to compensate by raising smithing skill (much) higher, but if you're already choosing enchanting perks and/or alchemy perks for other reasons... 
+
+That is, press 4,4,3 to get the first spell in the right hand and the second spell in the left hand. Then I headed off to the enchanting station for one last test. I enchanted with fortify armorer and saw no change to armor rating after the enchant. I recommend skipping the arcane blacksmith perk if you are planning to wear only your own crafted armor. Just upgrade before enchanting. (Ignore what the enchanting table tells you about armor rating, it's wrong.) You can't normally. NPCs that are essential for the plot are immortal. However, if you have a save from before using the console (always a good precaution, but not one we always remember), you could try going back and instead of advancing the Stormcloaks questline, advance the main one. You may miss a bit of content, but at least you'll be able to do both. 
+
+If you're on PC you can use the console to turn off Jarl Balgruuf's immortality, but on Xbox or PS3 you're out of luck. Note that killing essential NPCs can break your savegame, so do this at your own risk. If you still want to remove his essential status on PC, open the command console with ` (US keyboard) or § (some international keyboards) and enter the command: What levelling-rate mods change is this number. Since they change the same number that Skyrim was already using in the skill-rate equation along with the things that give a percentage increase, the percentage increase is applied to the new value just fine. 
+
+It fell through the floor or ground mesh. I don't know who said "That can't happen," because it happens all the time.

@@ -1,0 +1,39 @@
+and this completes at what is called epsilon-0. This is still much smaller than the first uncountable ordinal, which is called omega-1. In fact to reach this using the kind of notation we've been doing is impossible, and there is an ordinal that measures exactly this called the Church-Kleene ordinal - omega-1-CK. 
+
+Often he would say that he was “not a religious man” but could not help “seeing every problem from a religious point of view.” 
+
+But in India the axiomatic system is associated with Panini, the Sanskrit grammarian and philosophy there in the beginning has had a deep relationship with language rather than mathematics from the beginning. When one considers how important grammars are now in computer science and recently foundationally - one can see the difference is not all that great. Its also worth noting that Wittgenstein inaugurated the linguistic turn in Anglo-American philosophy and that Saussurean linguistics was responsible for semiotics as well as Structuralism in Continental Philosophy. 
+
+There can be no meaning attached to a world without laws. You could conceivably take that a world without law, has a law: the law of no laws. But one doesn't have to go so far - that is to attend to such reflexive paradoxes. 
+
+How does Buddhism explain the world? Was it created or eternally existant? Do they have creation myths? 
+
+And this brings in a very useful understanding of what ordinals can be said to measure, at least in mathematical terms - that is proof-theoretic strength. The strength of arithemtic is epsilon-0; a natrual way to understand this is to imagine a proof of a theorem as a tree of propositions and note that trees are have ordinal type epsilon-0. 
+
+a. is it correct to say that Modal logic can be interpreted classically by using Kripke possible world semantics, i.e. that in each world classical logic holds? 
+
+The point of my argument is to demonstrate even accepting that there is will lead to contradictions. 
+
+I think this should be uncontroversial to the majority of working physicists. 
+
+Socrates, again steps in here and says: 
+
+This was all taken from: Three Wittgensteins: Interpreting the Tractatus logico-philosophicus by Thomas J. Brommage 
+
+In my understanding, substance is that which is self-subsistent (it requires no cause beyond its own self). Physicalists are starting from the assumption that the universe is a substance when looked at the right way (though they may not use this language). Whereas non-Physicalists do not regard the universe as a substance, and identify it with Brahman, God or Allah (which I note simply means the-One). 
+
+The question is: are we biased in our pre-emptive choice of intuitionistic logic? Are there any conditions we can demand such that a paraconsistent interpretation of a physical event is chosen over an intuitionistic one? 
+
+This is not a million miles away from Descartes 'clear and distinct ideas'; and nor is it a million miles away from your 'building on intuitive ideas'. H goes on to say: 
+
+Its likely in both traditions it was the example of law that lead to the idea of axiomatic systems. But this is simply an educated guess. 
+
+Finally, Badiou discusses Wittgenstein in his Anti-Philosophy and he characterises him as: 
+
+One could go on arguing that Physicalism allows one to predict the motion of stars and quantum particles. An Islamic Scholar would say that everything (apart from humans who have free will) follows Allah's will, his law. Physicists only discovered the form of one of his laws. 
+
+Quantum Mechanics rather famously has problems in interpretation - straightforward realism doesn't appear to work. Is there any work with modal logic that throws light on this question? 
+
+It is clear, then that there is nothing between that which undergoes change of place and that which causes change of place. 
+
+Because Kant allows for physics, we can say that in a certain sense spacetime is a 4-dimensional manifold, even though in our direct experience, space and time are very different phenomena.

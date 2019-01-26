@@ -1,0 +1,49 @@
+I don't consider this abuse. "fuction" -> "function" is definitely an improvement, and nothing spammy or offensive is being added. Things would be better, though, if the user in question would edit entire posts, rather than just fixing titles and ignoring other problems. 
+
+The post was flagged as spam. I agreed. The link that supposedly went to a code sample actually went to a computer repair shop's website. 
+
+Note that, after any given redistribution, an already-elected candidate may exceed the threshold again; the algorithm re-redistributes votes to account for this. 
+
+Also, I see that you were trying to participate in Meta Stack Overflow's chat, not Server Fault's or Super User's. It is a chat about Meta Stack Overflow, which is itself a site about how Stack Overflow/Stack Exchange works. Since you have no Stack Exchange experience, you would doubly have no reason to be in the MSO chatroom, except that someone in the chat invited you. This is more understandable right now, since not all sites have had their chats implemented yet, and the MSO chat is still sort of serving as an omnibus chat, but it will become less and less understandable in the future as the sites mature. 
+
+The database names contain literal periods, so you have to escape them, e.g.: 
+
+Section 3 further drives this point home: 
+
+SEDE was updated this morning so now is a good time. 
+
+B: It's not your answer though. You've given the ability to share and modify it under the cc by-sa 3.0 license. 
+
+screenshot http://i.snag.gy/D7EsT.jpg 
+
+The TOS states that users are responsible for filing DMCA takedown counterclaims, and gives guidance: 
+
+Placing a bounty does not prohibit you from answering or performing most other actions (by the way, you can also do the reverse – answer then place bounty – it does not matter, although, as you note, answering first does raise the minimum bounty from 50 to 100). 
+
+The original author no longer has an account, or The post was disassociated from the original author's account, or The post is community wiki (including tag wikis, not just Q&A) / documentation. Who is responsible for filing the counterclaim in those three scenarios? The TOS does not seem to provide clear guidance for these situations. 
+
+Okay, I've undeleted it. I still can't make much sense of it, but considering the context I'm willing to give it the benefit of the doubt on being not-spam, and you seem to have figured out what the OP wanted. 
+
+Say that your first choice was candidate A, your second choice was candidate B and your third choice was candidate C. Here's where your vote goes, assuming nobody you vote for gets eliminated: 
+
+Thinking about it some more, it's possible that there was just a non-native speaker/language barrier issue and what the OP meant was that the code he was working on was in use at the target website. That would make it not-spam, but still not very useful. Looking again now. 
+
+As with any voting system, there exists some threshold for victory, and any candidate who reaches the threshold is considered "elected." Meek STV calculates this threshold ahead of time. If a candidate gets more than enough votes to be elected, the difference between the votes received and the threshold is the "surplus." The candidate keeps just enough of everyone's vote to stay above the threshold; the rest is given to the voters' next-most-preferred choices in "redistribution." 
+
+My goals: I'm not questioning whether or not users should or should not delete their content. That's a whole different debate. But my goals here are, assuming my interpretations above are correct (and please, correct me if I'm wrong, that's part of my question): 
+
+screenshot http://i.snag.gy/D7EsT.jpg 
+
+It doesn't appear that the Russian site was the only one affected. I just checked, the Japanese site still has it in Japanese (either somebody fixed it or it wasn't affected), but the Portuguese site has it in English now, too. I didn't check any other sites. 
+
+If you see a post with a link to software that contains a virus, you have a few options, basically boiling down to: 
+
+All routes I've explored are dead ends: 
+
+My question is: Why is this? Is it a bug? Is it intentional and part of an exclusion list (in which case I wonder if it should be removed from that list, based on the acceptance of e.g. "yes")? If the latter, what are the other excluded words? 
+
+When you click the flag button on a message in the chat window, it reads "flag for moderator", and a dialog with an explanation field pops up. 
+
+Also, a general design tip if you have a specific project: Start out by documenting your high level requirements, then do a rough actual design (often on paper if you have to), this will give you concrete criteria when searching for solutions and tools. Then you can take a more methodical approach and do your research on available technologies and piece together a collection of compatible solutions that allow you to implement all of your requirements. Implement rough prototypes of individual components and/or experiment with individual tools as you go if it helps you evaluate an option. Don't be afraid to try out a technology and discover that you don't care for it that much or that it has unexpected shortcomings, if you run into problems, keep track of why, this will help you search for better alternatives next time around. 
+
+A CM could certainly help. However, this is probably not a good idea in the long run: In the bigger picture sense, if a CM has to step in, this isn't solving the site's real problems, and a CM can't be relied on to keep a site running, it has to be self-sustaining.

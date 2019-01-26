@@ -1,0 +1,21 @@
+It's always been my impression that normal moderation has always been enough to deal with problematic content on Meta. The questions linked to in the chat conversation were garbage. The very definition of the kind of content we don't want here, and what delete votes are for. Example: they make their affiliation reasonably clear inside the answer. 
+
+Also, timing is surely also an issue. Weekends are relatively slow on SO. Chances of getting an answer will be best again Monday morning in the U.S. time zones. (A good question will however find an answer regardless whether it's a weekend or not.) 
+
+It's a legal question that is likely to be off-topic on all SE sites at the moment. 
+
+Does an answer that was posted second count as a first answer towards the "Enlightened" badge when the first answer was deleted? The last time I asked this on the old StackExchange 1.0 Meta some time last year, this was planned but not yet being implemented. or makes factual statements about it ("It can do X but does take Y into consideration"; "It runs well on a XYZ series server") 
+
+As BoltClock says in his answer, any moderator can handle any flag. 1920x1200 - 1920x1080 - 1680x1050 - 1600x1200 - 1280x1024 - 1280x800 - 1024x768 1920x1200 - 1920x1080 - 1680x1050 - 1600x1200 - 1280x1024 - 1280x800 - 1024x768 
+
+If you do not want to risk answering a question that may be deleted, and losing the rep associated with it, refrain from answering it. If an official policy is going to be set on this, I would suggest it say that whenever You don't want to put your legal future in the hands of some random people on the Internet, do you? Is there an official place to do that? 
+
+alt text http://www.pekkagaiser.com/stuff/unicorns/3.png Unicorn riding the plains 
+
+A remote "vote answer up" button also would have to ensure that your scraped version is always 100% identical to the version on SO, which can be subject to editing by you or others. That would be insanely complicated, if not impossible, to do technically. I'm releasing the images under the same license that applies to this answer - i.e. Creative Commons by-sa. 
+
+I think that the presence of software vendors - commercial and otherwise - on SO in general is a great thing, especially because it's in their own best interest to answer questions about their product when/if they come up. 
+
+And you don't personally have a question that you need answered. What questions in the Stack Overflow ecosystem would benefit especially from some bounty love? How do I invest a bounty for the benefit of the question & answer base? 
+
+It goes without saying that an answer needs to be a valuable contribution in the context of the question asked in any case. 1920x1200 - 1920x1080 - 1680x1050 - 1600x1200 - 1280x1024 - 1280x800 - 1024x768

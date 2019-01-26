@@ -1,0 +1,29 @@
+Pre I don't like the raise. They are getting 2:1 to call. MP with 15 BB behind should be calling with almost any two cards that would open and if MP calls then btn is gettting 3:1. AQo is a good enough hand to see a cheap flop here. 
+
+I trust this is a tournament if you are playing with 17 BB. 
+
+You are only behind KK+. You have 50% equity on QQ+. Mathematically you should call if their range is QQ+. 
+
+A site was exploited is due to off by one (they failed to shuffle the last or first card). 
+
+Pre TT is a good hand I wold not limp open. It is not a good enough hand to slow play. You need to fold out hands like ace rag, KQ, KJ and QJ. Come in for like 3 BB or your standard open raise. 
+
+You could play like 55 and JT suited and basically double your odds of one hand hitting. 
+
+If one hand is KK and another hand is QQ then you would not play the QQ knowing KK is out. Do you think that is fair to other players? 
+
+But even a call to a raise in early position is not a cheap flop. 2BB is 2BB and you have 4 players behind you that could re-raise. 
+
+The Fisher-Yates shuffle is proven to be uniform and it is efficient. It only requires 52 random numbers. You would need to know the existing deck and also the next 52 random numbers to know the next shuffle. 
+
+Ironically a lot of guides will advise you to raise or fold at the low end of your range (and I agree). Fold equity has more relative value if your hand does not have as much show down value. It is also a very good way to mix up your game. If you show a raised marginal hand you are more likely to action when you raise a premium hand. You should definitely raise your low end more than you would just call a premium (AK+). 
+
+People blame bad beats on unfair shuffles. Statistically bad beats happen. Runner runner (need the last 2 queens) is 1/756. It happens and people blame it on unfair. If it happens 1/30 for a player in 10,000 deals then that is flag. But if it happens 1/400 would take billions and billions of deals to prove a statistical anomaly. 
+
+There is not a method to determine if a site is rigged. I only know basic statistics. If you had access to the data in 10,000 hands you might be able to show a statistical anomaly. Same guy never got a card under 10 and got AA 1/40. Proving random would take millions of shuffle and even then you would have confidence interval of like 95%. The number of possible shuffles is like 50 digits long. 
+
+A 7 might have been afraid of a higher pocket pair still should have called 
+
+TT on the button or blinds calling 2 or more players to set mine is OK. 
+
+Another exploit is making ever card move. You need to allow for a card not moving.

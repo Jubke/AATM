@@ -1,0 +1,27 @@
+The responsibility to show first lies on the person who put in the last bet or raise on the last betting round. In your example, this will be the person who shoved all-in. If the second player sees those cards and his hand is not a winner, he can safely muck and the pot will be awarded to the shover. If the second player has the best hand and wants to win the pot, then he must show his cards eventually. In a cash game, there's typically no requirement that anyone show their hand at showdown if it's not a winning hand and you can muck at any time and relinquish any claim you have to the pot. In a tournament, there's a requirement that all hands be turned face-up in an all-in situation as some level of protection against collusion and chip dumping. 
+
+Sometimes when you have a great hand like AA, nobody else happens to have a hand they want to play back with. Either they've got bad cards or they're out of position or their pet superstition says they shouldn't play that hand, whatever. It happens. 
+
+No matter the subsequent actions of player 1, as soon as player 2 folds, player 1 should be awarded the side pot, even if his cards are never seen by anyone. So you're getting 3-to-1 against all these possibilities. The odds of getting aces do not at all depend on the number of cards remaining in the deck. They depend solely on the number of cards in the deck (52), how many aces are in the deck (4), and how many cards you receive from that deck (2 in holdem). 
+
+So, if they're folding too much in general, raise more often. If they're always folding only to your premium hands, try to evaluate your own pre-flop play a little more. 
+
+Player 3 should never, ever be awarded the side pot, since he didn't have enough money in the pot to earn that from the other players. He was all in for less than the others had, so he should never be able to win more than his pre-hand stack from any other single player. 
+
+Because flushes are less likely than straights, they're valued higher. Flushes are rarer than straights. 
+
+Usually action in turn is binding. The gray area would be whether he actually pushed the chips out as if to signify a bet. Players generally have a right to use the space in front of them to manipulate and count out chips, but once there is a forward motion with those chips, that signifies a bet. Some poker rooms have a line on the table which signifies action when your chips cross that line. In general, though, there's no requirement to verbally declare your action, though it is usually helpful to do so. 
+
+First, lots of people at this level will just call and bet things without thinking a lot about it. When he called your flop bet he could have had: W.r.t. your updated edit, you say your dad acted out of turn and then tried to use that as a way to get out of his bet. First, this sounds like a home game, and it sounds like shenanigans like this are pretty common, so you might have to defer to the convention that's been established for this kind of thing, which might mean just doing nothing. This is false. The hand will play out as usual with the flop, turn, and river. 
+
+Your math implies that you know that the other players at your table are getting cards but are not being dealt any of the aces. For example, in your first example which says "(4/52)x(3/50) = .46% or 1/217" you are saying (with your 3/50 value) that a non-ace card has somehow been removed from the deck and been given to your heads-up opponent. In fact there are 51 cards whose identities are unknown to you, and you are getting one of those 51 cards. The fact that one of those unknown cards is now in the possession of your opponent isn't important. Using 50 in the denominator there is incorrect. If you have information about what kinds of cards your opponents hold, then it would be appropriate to include that in your odds calculation, but since you don't, you can't. 
+
+Player 1 has KQ, so his 7 cards are KKKQ642. Ignoring suits, the best possible hand here is KKKQ6, or trip kings with a queen kicker. 
+
+For both players, their second card plays as part of their best possible hand, so in this case the player with the KQ will win the whole pot. 
+
+You're 48% to win this, so folding the turn would be way too tight. 
+
+In general, you'll get 72o more often than AA, because there are 12 ways to get 72o while there are only 6 ways to get AA. Since throwing your cards into the muck is the universal sign for folding, I think player 1's hand should be folded and not eligible for the main pot. You have a 4 in 52 (or 1 in 13) chance to get an initial ace. If you get that first ace, you then have a 3 in 51 (or 1 in 17) chance to get a second ace. That's 1 in (13 * 17) or 1/221 chance of getting pocket aces. In this case, it sounds like his all-in action should be binding. Either way, the side pot should belong to player 1. 
+
+Player 2 has K9, so his 7 cards are KKK9642. Ignoring suits, the best possible hand here is KKK96, or trip kings with a 9 kicker. I think your call wasn't bad, and raising the turn might have been ok too. I think folding would have been worst of all.

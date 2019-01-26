@@ -1,0 +1,31 @@
+If you want more storms more often, make more HT so you have more generators. 
+
+Was watching the Artosis stream and his Korean StarCraft II copy that he uses to play over there has some fairly different menus: While it might be that the 'bumping' causes subtle delays in transforming when landing, you seem to have controlled for that. An only tangentally-related issue is when you command several to land at a time in a small space, is that some won't at all because it's too crowded. 
+
+The nominal transform duration is 3 game seconds, which is about 2.2 real seconds on "Fastest", however there is a small degree of variance beyond just the animation. This is readily apparent if you give the vikings a move command while transforming, into either air or land mode as some will set off before others. Additionally, it doesn't seem deterministic as far as where the unit's selected in a control group—the first to transform one time won't always be the next—so it is possibly random. 
+
+Simply try logging in and logging back out. If that does not work, you'll need to flush your account cache. To do this, change something on your account: your password, e-mail, address, etc. Changing anything will reset your account cache. 
+
+If non of this things are your problem you can try this The number is the amount of league games played(Including FFA). Based on my own numbers I can say this does not include co-op, vs AI or custom games. its detection range is equal to its sight range, its attack range is 7 and its sight range is 11 I have tried finding some information on the quote, but so fare no luck more than one place. This can also happen if you have multiple starcraft 2 accounts on same email, then you need to migrate one or contact blizzard support. 
+
+When using multiple exits it will alternate between them, so if you have 2 zerglings, a roach, 2 more zergling and one more roach enter the network and you then command 3 Worms to unload all you will get 2 zerglings from 2 of the worms and 2 roaches from the third. The Battlecruiser's Yamato Cannon will ignore the Immortals special ability and kill it in one shot. But with Heart of the Swarm they changed it so that when you choose to play vs AI from the Matchmaking menu it sets the difficulty depending on how you preform vs A.I. 
+
+He also worked on StarCraft: Ghost, World of Warcraft The Burning Crusade and Wrath of the Lich King and there is a character named after him(some think it is a reference to Grizzly Adams, but he looks more like David Adams). The game files do not need to be installed on the computer you will be using it on. I made this video to show it in action: The advantage of this solution, compared to copying the DVD files to the USB and then installing on the computer without DVD drive, is that you can take the USB to a machine with a good internet connection and update the game, because even when installing from DVD you should expect to download a 1-3 Gb patch. 
+
+Is there a way of looking for vs A.I. games as it was before HotS where I can set my race and the difficulty and play 2v2 or 3v3 with random people on a random map? 
+
+Gerdes, I is a reference to Ian Gerdes who is a Level Designer at Blizzard. I use to play a lot of 2v2 and 3v3 with random people vs A.I. on hard or very hard slowly working my way towards the Supreme Command achievement. 
+
+as far as i can see from other people on the internet this mostly happens when they go to the wrong region(such as going to US instead of EU), have you made sure that the battle.net page is the one for your region? While it might be that the 'bumping' causes subtle delays in transforming when landing, you seem to have controlled for that. An only tangentally-related issue is when you command several to land at a time in a small space, is that some won't at all because it's too crowded. 
+
+Was watching the Artosis stream and his Korean StarCraft II copy that he uses to play over there has some fairly different menus: Despite what the Blizzard page says about it, it cannot 
+
+If you want more storms more often, make more HT so you have more generators. 
+
+What is the extra stuff at the bottom of the Korean SC2 in-game menu? The nominal transform duration is 3 game seconds, which is about 2.2 real seconds on "Fastest", however there is a small degree of variance beyond just the animation. This is readily apparent if you give the vikings a move command while transforming, into either air or land mode as some will set off before others. Additionally, it doesn't seem deterministic as far as where the unit's selected in a control group—the first to transform one time won't always be the next—so it is possibly random. I just found this which answers all questions! 
+
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+EDIT- As a side note, this is the fully updated version. This is completely legit and I do not run third party software that would mess with the replays. Edit: As a side note, I tested Dbemerlin's idea and it does work to right click (Move) all infestors to start getting into range. Basically put: SCVs can repair any Terran structures or any mechanical units. "any" isn't in the original quote but I want to put emphasis on the fact it does not narrow down mechanical units to a specific race. 
+
+Lately, I have been seeing in Professional games and streams that Zerg players when in a ZvZ mid game battle where they have mainly roaches and infestors vs the mirror composition, they sometimes use fungles and other times spawn infested terrans. Whenever I play I typically randomly choose between the two. When a Bronze league friend of mine asked the other day, I was dumbfounded on what to tell him. Logically I always spawn infested terrans when I don't have enough energy left to Fungle. But pro games tend to not only spawn them when out of fungles. How should I differentiate when to use fungles vs terrans, etc.

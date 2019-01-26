@@ -1,0 +1,47 @@
+After some experimentation, I guessed it was because the game was trying to show me too many things on the turn transition - so what I did was to change to strategic view (F10) just before clicking "next turn", then the transition was quick and I was able to reach the next turn without crashing. I then changed back from strategic to normal view. 
+
+I'm getting a black screen when I try to open a StarCraft 2 replay (which is probably from an older SC2 version than the current one). What can I do to be able to watch the replay? 
+
+And I think it might have been related. I also have a bunch of stuff in my inventory, but not more than what I've been carrying throughout the rest of game (though I do carry more weapons and less armor than what I used to). 
+
+Extract the downloaded zip somewhere, then copy the following files into the Max Payne folder (as specified above in the short method): 
+
+I didn't have to do it in subsequent turns, passing that turn everything seemed to go back to normal. 
+
+I recently install Space Empires V via Steam on my Windows 7 x64 machine. It starts up and runs fine, but whenever I try to save a file, whether an empire file or a save game I get an unable to save file error followed by either a crash or a hang. It is currently installed in: C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5. I did not see an option to install the application in user space when C:\Users\xyz\ when installing the game. I also experience the same behavior even after I ran Steam as Administrator. I have checked the Steam forums for the game and no one has reported this issue, and others reported being able to run the app on Windows 7 reasonably well. 
+
+Error 2 (sometimes, other times a hang that requires me to kill the app. 
+
+Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free 
+
+I have an ATI Radeon 6850 with 1GB and 3 core CPU, and now the popping issues are less evident. There is still some occasional 1/2s freezes or some stuttering but it helped me a lot. 
+
+Update 10/10: I tested the latest patch and texture popping seems not too bad with LARGE Texture Cache; it is instead dramatic with the other setting. To compensate they have introduced a really nice continuous micro-stuttering so now the game is unplayable for me. 
+
+Finally today (09 October 2011), it has been released the first support patch. 
+
+In addition I applied the Mid-End config suggest in this Steam's thread (all credits to FusedCore). There are other three config, choose one based on your system configuration, look at the comments and try to customize it a bit. 
+
+First of all check that you have installed the last drivers from your video card vendor. If you have an ATI, like me, these are the recommended preview drivers that improve performances for RAGE and Battlefield 3: AMD Catalyst™ 11.10 Version 2 Preview Driver

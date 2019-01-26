@@ -1,0 +1,29 @@
+When it is used, it has the same meaning as the mathematical/logical usage. 
+
+Certain words are "terms of art" in more than one domain-- it is important to take these in the appropriate context, and avoid slippages between them. 
+
+My favorite example is one that Graham Priest and Jay Garfield identify in the thought of Nāgārjuna, which they call Nāgārjuna's paradox; it's described in their joint article, Nāgārjuna and the Limits of Thought. 
+
+Let's begin with a trivial paradox. We know, of course, that there are integers that are not prime numbers. In fact, there seem to be a good number of them. And yet, we also know that there exactly as many prime numbers as there are integers. We have here a simple paradox; two contradictory statements which are both true. 
+
+A previous version of the question referred to Heraclitus's dictum that one cannot step into the same river twice. This is not merely an issue of "imprecision in language", but rather, gets to the heart of what is meant by the notion of identity. 
+
+So, to answer your question: we don't have to rationalize that complex numbers exist. It doesn't matter if they exist or not. 
+
+The reader knows this by context. Let's pretend, for the moment, that the speaker does not intend the "if" to represent a biconditional in the sentence "I'll buy you a new wallet if you need one." This would mean: "I will buy you a wallet if you need one, and I may buy you a wallet even if you don't need one." It seems terribly unlikely that this would be what the speaker intended; if it were the speaker's intent, there are many better ways to phrase the sentence. So, the more parsimonious reading would be to read it as a biconditional, meaning "I will buy you a wallet if and only if you need one; if you do not need a wallet, I will not buy one for you." 
+
+Some believe that the question itself is logically flawed. Although "childish loophole" may not be the appropriate term, this is indeed an illogical product of the English language. 
+
+The common argument at this point (very similar to, if not the same as, stoicfury's answer) is something along the lines of: 
+
+If the answer is "yes," then God will have created something out of his own power to control, therefore no longer being omnipotent. If the answer is "no," then God is simply not omnipotent to begin with. 
+
+It's not that an eternal God cannot destroy himself and therefore is not omnipotent, but that the proposition itself is logically impossible. Because your definition of God is one that must be eternal, it is logically absurd to ask if this God could destroy himself. It is akin to asking what the radius of a square is, or to apply the quadratic formula to a cubic function (as far as my education goes these are logically flawed). 
+
+However, that is only if omnipotence is the sole premise. Conversely, you mentioned several premises to the definition of God, one of which seems particularly important. I think what renders the statement "God destroys himself" problematic is your following statement: 
+
+The Stanford Encyclopedia of Philosophy has an extensive article on category theory and its philosophical implications. On the significance of the theory, it says that: 
+
+(Edit: After reading Schiphol's answer, I can understand why it makes sense that negation leaves the degrees {⊥ , ⊤} and ∅ fixed for this interpretation. I even got the impression that "set values" model this "whether there is" type of information quite naturally.) 
+
+Edit Maybe the downvote is justified. I now tried to track down references for the critique of logical positivism expressed above. So far, the best source seems to be the critique of Ernst Mach's idea that a physical theory should only contain quantities which can be observed. The problem here is that it is unclear to which extend logical positivism subscribes to Ernst Mach's idea. Werner Heisenberg was confronted with that critique in 1926 by Albert Einstein (see Werner Heisenberg "Der Teil und das Ganze" Kapitel 5), but that doesn't mean that Einstein is the original author of that critique. Interestingly enough though, that critique cannot be applied to the original Copenhagen interpretation of quantum mechanics, since it explicitly accepts and uses classical physics as the mean to describe observations, i.e. empirical data. (Not sure whether this means that the original Copenhagen interpretation is not positivistic.)

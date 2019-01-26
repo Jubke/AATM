@@ -1,0 +1,35 @@
+So it is not the case that science and mathematics are necessarily opposed to religion. What gives them the appearance of being so is the fact that the successes of modern science and technology have led many people to believe that rational physicalist explanations can be found for all phenomena. It's worth noting, at this point, that there are those who don't consider even a rational physicalist universe incompatible with a deity, in principle. 
+
+It's worth noting that a science can stay in a developing stage for a very long period of time. Logic, for example, only reached maturity recently, after several thousand years of development. 
+
+As support for this --would you describe the ontology of a human being in a hunter-gatherer tribe ten thousand years ago as maximal? It would rather seem that the human ontology has expanding significantly several times since then. How can you be sure sure that process has achieved a final terminus? 
+
+Your question seems to hinge on a controversial and disputed premise, that something for which there is no scientific evidence and/or no empirical verifiability is not a fit subject for philosophy. While there are certainly philosophers in sympathy with that premise, there are also those who would contend that it is precisely those subjects which are outside the realm of science that are philosophical in nature. 
+
+Historically, immortality has been a major topic of interest for philosophers such as Plato, the Buddha and Bishop Berkeley. As a topic, it would be strongly associated with idealism. The exclusion of topics such as this is the defining characteristic of what are known as verificationist philosophies, of which logical positivism is the best known. 
+
+As far as old evidence --once again this makes intuitive sense to me: If you have a piece of evidence prior to creating a theory then you're not really demonstrating any added value by predicting that fact. You would need to predict something new. 
+
+You might consider philosophy as the study of all methods of reasoning. Every major philosopher has his or her own original method, which forms part of the core of what makes that philosophy distinctive. 
+
+As pointed out in Cort Ammon's answer, on a smaller scale there may be individuals or groups who believe in Creationism, yet do puzzle solving; Cort's example of analyzing radioisotope (and other) dating methods spot on here. Note that for this to be carried out, the researchers have to analyze the results as per currently accepted techniques in order to show the discrepancies with the other researched work, i.e. operate within the current paradigm, even if their overall goal is to change that paradigm. 
+
+TENS, when looked at in detail, is not "one theory" it is a class of ideas. E.g. I'm under the impression that it is an open question whether group selection is a real (in some sense) phenomenon (people in the field could probably pick out other open questions); which ever way this question, or the other open questions, pan out, you're still dealing with TENS. 
+
+This might seem like a stretch in biology, but it happens regularly in high energy physics (and probably other places in science that have a similar degree of mathematical formalization). For a simple case, if you take conservation of energy, momentum and angular momentum as axioms, and observe neutron decay (and a bunch of axioms that allow for the interpretation of these observations), then the neutrino must exist. 
+
+I don't see how the created hypothesis, without additional explication about the term "created", leads to predictions/descriptions of any observations in any realizable way. This lack of predictive power, which is a consequence of the manner that you've responded to objections 2 and 3, is a major difference between the two hypotheses. Some might term this as a lack of falsifiability for the created hypothesis, but as I read the question I see it as an even more basic aspect of not being concrete enough to constitute a valid scientific hypothesis. 
+
+Historically, immortality has been a major topic of interest for philosophers such as Plato, the Buddha and Bishop Berkeley. As a topic, it would be strongly associated with idealism. The exclusion of topics such as this is the defining characteristic of what are known as verificationist philosophies, of which logical positivism is the best known. 
+
+As support for this --would you describe the ontology of a human being in a hunter-gatherer tribe ten thousand years ago as maximal? It would rather seem that the human ontology has expanding significantly several times since then. How can you be sure sure that process has achieved a final terminus? 
+
+You might consider philosophy as the study of all methods of reasoning. Every major philosopher has his or her own original method, which forms part of the core of what makes that philosophy distinctive. 
+
+The main thing to realize about informal fallacies is that they are all closely related to strong arguments, because it's the resemblance to a strong argument that makes them seem compelling. In this case, the fact that an substantial majority of the people who seemingly have relevant expertise on the issue have come to a unified conclusion does not prove that conclusion to be true. But it does provide significant support for the conclusion. 
+
+if it doesn't have observable effects, then why propose it in the first place? (or what does it mean to say it exists?) 
+
+This might seem like a stretch in biology, but it happens regularly in high energy physics (and probably other places in science that have a similar degree of mathematical formalization). For a simple case, if you take conservation of energy, momentum and angular momentum as axioms, and observe neutron decay (and a bunch of axioms that allow for the interpretation of these observations), then the neutrino must exist. 
+
+There's a reductio ad abusurdum to indicate that we can't consider all potential intelligent life as equally valuable: there are an incomprehendably large number of "potential people" if you consider all possible egg+sperm combinations between all differently sexed pairs of people (even more if you go out a generation or two). Nobody worries about the lost value in that these potential intelligences never came to fruition (or at least the "value" of any one of these needs to be incomprehensibly small). We need to draw some sort of line, or have some sort of weighting to balance the "value" of these potentials; and that threshold/weighting defines where in the progress from a gleam in your fathers eye to being a fully matured person that we're going to allocate value.

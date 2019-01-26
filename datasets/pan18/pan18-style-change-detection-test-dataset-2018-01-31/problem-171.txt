@@ -1,0 +1,23 @@
+I'm looking at getting a wheelset with disc hubs and rim brakes to run on my disc and non-disc cross bikes. There are stock wheels that have velocity a23 rims, which are a poupular rim brake compatible rim. However, the stock wheelset tend not to have machined brake surfaces. 
+
+If you had addressed the issue when you first noticed the broken spokes, your wheel would have probably been fine and just required some wheel truing. However, not dealing with the issue properly probably killed the rim. I'd probably recommend taking it to a shop and have them assess whether the wheel is worth trying to fix at this point. It may not be able to be trued again, even after replacing the spoke if the rim is warped. 
+
+Nope. Don't ride it. It's hosed. You risk catastrophic failure riding this wheel, Other spokes will snap soon due to more load put on them and uneven tension. That is if it's even true enough to not rub the brakes or chainstays. 
+
+I've got myself a park tool TM-1 tension meter. I've been measuring the spoke tension, and they have a deflection reading varying from 19 to 21 or so, giving tension between 85kgf to 105kgf, using double butted 2.0/1.8 spokes according to the park tool deflection to kgf conversion chart. 
+
+How close of a tolerance between spokes tension readings should I allow for the final tension? How should I even out the tension to the ideal tolerance? 
+
+Anything from a 650x2.8 to a 3.0 will be in about the same range of tire size as a 29er wheel/tire combination, but will have a wider / rounder tread profile. A wide rim will be needed, 35mm to 50mm rims are typically used for a 650b+/27.5+ setup. I am replacing the rim on my rear wheel with a new one. I've brought up the tension on the spokes close to the final tension by truing / increasing tension / truing / increasing tension. 
+
+I'd like to build a wheelset that would work on my cross bike or my 29er, assuming I had disc brakes on the 29er and rim brakes on the cross bike, is there any way I could use a 130mm hub (that fits the dropouts on my cross bike) and make it work on the 29er with 135mm spaced dropouts? Rivendell (probably via Grant Peterson) http://www.rivbike.com/kb_results.asp?ID=52 You could replace the broken spokes and have a working wheel if your rim wasn't damaged severly like it appears to be. If you've rode on this for a while, there is a chance that the existing spokes are over stressed and should be replaced as well. I would rebuild the wheel with new spokes and rim if it was my bike. You've probably permanently deformed the rim by riding it with loose and broken spokes for so long. When you get a wheel, you should check the wheel and make sure the spoke tension is set evenly and the wheel is true. Jobst Brandt via Sheldon Brown: http://sheldonbrown.com/brandt/machined-rims.html Usually, You can replace a single broken spoke. If you notice the wheel go out of true, break spokes, or has loose spokes, you need to STOP riding on the wheel and have it trued before riding on it again, otherwise it will degrade rapidly. Spokes generally break when the spoke tension is not evenly distributed or by a sharp impact. When one spoke breaks, it affects the tension of the spokes near it and on the opposite side of the wheel as well. 
+
+One thing you may want to consider is getting wider 650b rims and going for 650b+ (aka 27.5+) tires as they will fit a lot of existing 29ers and will not alter your geometry significantly. 
+
+It seems like some old heads seem to think that a machined sidewall was a marketing gimick made to stop brake squeal on new showroom bikes. Rivendell sell a lot of rim brake wheels without a machined surface. 
+
+Is not having a machined brake surface a problem? Does it matter whether the rim is painted or anodized? I'm was looking to build a new wheelset that I can use on my rigid Karate Monkey 29er using either cyclocross or Trekking tires for gravel / dirt road riding and 29er tires for singletrack (mostly cross country riding). I need a rim I can use with either disc or v-brakes, depending on my setup at the time. My weight tends to be around 190lbs. I also tend to be really hard on my wheels and have bent rims on my 29er before. I'm not really concerned about tubeless compatibility. 
+
+Did you buy the wheels at a bike shop? If so, they should have taken the wheels out of the box (if not custom built) and checked the spoke tension and trued the wheel before they gave it to you. If you got them off the internet, then that's up to you to do. 
+
+I would be wary. Can you do it? Yes. Will it affect the geometry and handling of the bike? Yes Is there a chance you will pedal strike more frequently? Yes The drop will reduce chainring clearance when doing log overs as well.

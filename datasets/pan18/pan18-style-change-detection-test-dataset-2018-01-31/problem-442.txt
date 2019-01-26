@@ -1,0 +1,35 @@
+Flag for moderator attention, misusing this powerful ability is rather damaging and the moderators will put a stop to it. 
+
+The main question you should ask yourself when editing is if there are any other parts of the post that should be edited. Spelling and grammar are important and should be fixed, but if you start editing you should fix all the problems a post has and not only fix the easy ones. 
+
+SE is also working on some new measures against spammers and trolls, I think it is reasonable to wait until those are implemented to see how effective they are. I think technical measures are better than legal ones for all but the most serious cases. They scale much better and act a lot faster. 
+
+I'll add that the moderators have no way to only remove this specific ability, a user that continues to misuse this privilege after being warned is likely to get their account suspended. 
+
+The script could then roll back all review decisions of that user and block him for some time from reviewing. 
+
+I suggest to just tie the elevated privilege levels to a certain number of recently active users above 3k reputation. Closing is the single most important community moderation privilege just behind editing. I'm ignoring deletion as this can be handled by diamond moderators for smaller sites. Editing should be covered by the number of 3k users as well as the requirements are lower than for closing. 
+
+Currently, even high-reputation users, community moderators and (as far as I've heard) SE employees are confronted by captchas when they perfom actions in quick succession. That has become a significant nuisance for some user now with the increased difficulty of the ReCaptchas SE uses. 
+
+Am I understanding this right, that we could release the full details of a suspension simply because the community (but not the suspended user) is creating a huge amount of drama over the suspension? If yes, is that really a good idea, or should we require either consent of the suspended user or at least some involvement in the public complaints about the suspension? 
+
+But it is probably far more complicated for issues that are not as severe as death threats. Trolling is not necessarily illegal (and this varies a lot in different jurisdictions), so I don't think that legal actions are the best way to proceed in this case. There is also the difficulty of actually determining the person behind this, which might be impossible as this user uses a lot of proxies. Depending on where the person lives it might also be very hard or impossible to initiate any legal action. 
+
+My impression was that most moderators interpreted something into the guidelines from SE on this subject. Making suspensions low-profile and avoiding shaming users in public is a good idea, but this got turned into an almost absolute ban on any comments about the details of a suspension at some point. 
+
+What can be done? Well, you could always @reply the user telling him that the edit really is too minor and incorrect, so you've rolled it back. Perhaps they'll pick it up. Don't let this spark off a long stream of "how to edit" debate in the comments though. Take it to Meta perhaps, or point to one of the many discussions on appropriate and inappropriate editing already here. Or just undo the edit and let it slide. 
+
+If you're in this game for the reputation and glory, this might be somewhat hard to swallow. But as the author of the answer says, he's not in it for the competition. And I personally take a similar point of view. You've contributed possibly good content. You will be rewarded for that over time. If you think something needs to be done about the answer, vote as you see fit. But other than that I don't see something here which should not be allowed. 
+
+There are many, many thoughts as to why people do anything, including giving free advice and information for what may seem to be no external incentive. 
+
+I subscribe to a much shorter list, but a relatively reasonable list of 16 basic motivations for human activity can be found on Wikipedia. Several of these motivations may lead one to answer questions on Stack Overflow: 
+
+If we do not delete questions which are inappropriate for this site then people will understand that such questions still result in answers and reputation, and they will ask them more frequently than they already do. This will drop the signal to noise ratios, and the site would lose it's laser sharp focus. Experts would get fed up with the low signal to noise ratio and leave. 
+
+For particularly long comment threads I kinda want to know where the invisible comments are before clicking the "show all comments" and, frankly, I often don't want to re-read all the comments when I'm following up on a topic, just recent/new comments. 
+
+It'll fit. It'll make sense. It'll allow the same amount of precision as always. 
+
+Note: I'm speaking of the All time list, although it might profitably be applied to any long term list. Applying it to the short term lists needs to be carefully considered, as we want new users who are trying to get onto one of the league pages to be able to see their progress, even when they've only received a few votes. It shouldn't matter for the long term lists.

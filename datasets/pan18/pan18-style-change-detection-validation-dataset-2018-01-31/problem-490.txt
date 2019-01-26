@@ -1,0 +1,45 @@
+Update: Here's a little preview of some of the things you can now find: 
+
+Swag Availability Updates Since a lot of people are requesting hoodies, I'd like to clarify that most of the hoodies and/or jackets you may have seen over the years are no longer produced. The only one we currently have available for distribution is this old Super User hoodie (and we have very few of them left). The blue Stack Exchange hoodie is not a user swag item (it's only available to employees) and is not available for distribution. 
+
+How much are you offering? If you’re not familiar with HackerOne, you earn a varied amount based on the severity of the vulnerability, as determined by our security team. We are still deciding on the exact amounts, but we'll likely start at the lower end of the spectrum (think: hundreds, not thousands of dollars). This is one of the things we'll need to evaluate as we put the program together and test it out. 
+
+This explains wonders about the Programmers SE community, mainly their expectation of a basic comprehension of the problem, and some research that shows you've made an effort in figuring it out yourself. Again, these expectations are specific to that community, and whether or not those expectations are present on Security SE has no bearing on your question on Programmers SE. 
+
+In some instances, our findings lead us to other sites, when users in question have accounts on several other sites in the network. That requires a bit of collaboration, and eventually involving a Stack Exchange employee. To give you an example, a single flag once led us to a voting ring that spanned four sites. 
+
+A long, long time ago in the kingdom of Cogro, the king's mages were always at work coming up with new ideas. Often, these ideas were great, but remained partially thought through for centuries. The magic Trellopian carpet where these ideas rested began to tire, and an evil benevolent Jaydlesberwocky seized the opportunity to kidnap the ideas with the help of an Abbygale and banish them to a magical cave of wonders, where the only hope of escape was for the mages to actually finish them. 
+
+If someone puts what they feel is an innocent joke in a post, presumably they've done so because they want people to laugh, not feel offended, and wouldn't mind the joke being removed if it were discovered to be potentially offensive. 
+
+While yes, the banner for Steve Jobs did set a sort of precedence, I don't think it will be tenable going forward. 
+
+I fear that this gives the impression of "We expect low quality from you until you manage to prove otherwise" and while that might be statistically justified, it isn't very nice and might intimidate people who do bother to read the FAQ (it does happen, believe it or not!) 
+
+If your flag was marked helpful, we're working on it, but you might not see results for a week, or perhaps more. That doesn't mean we forgot about it or didn't take any real action, it's just that this type of flag requires quite a bit of work and collaboration when it's accurate. 
+
+Dim the controls when scrolling comes to rest for a second so folks can read, restore opacity when scrolling resumes 
+
+Exporting this would be a bit of a manual process for me, so please only indicate interest if you have something beyond morbid curiosity as a motivation. No identifying information can (of course) be included, but there's plenty of interesting things you could do without it. 
+
+So now it's a short lived game of Space Invaders, as the individual(s) keep creating new accounts. Not all twelve hands are present at the time of this writing (it is a holiday), but the hands that are present are really pissed. We'll make it stop. 
+
+I want to see the numbers on how much more voting we're seeing. I've personally found this useful several times today, but actual numbers are going to be interesting. 
+
+Rather than putting up a banner every time someone notable in our industry passes, I propose doing the following: 
+
+Do not hesitate to flag a post where the comments have degenerated into far more noise than signal. Just flag for moderator attention and indicate that you are drawing attention to the comments attached to the post. 
+
+Also note that flagged answers that the community deletes still show up in our queue, so we're usually the final step in the review process anyway. 
+
+We're past that now, and things are returning to normal. It's only appropriate that we take a moment to think about the folks that got pulled out of bed and worked their knuckles to the bone to get things back up and running. In the spirit of that, we're going to have a little contest. 
+
+And, well, making unicorns yodel is pretty awesome too. 
+
+What do I get? Also, a few things about certain types of items we have available: 
+
+So, who will actually win? We will be awarding at least 30 users with the swag of their dreams, ordered by top-scoring answers right here on this question. If we really love the stories you all came up with, we may award even more (maybe even everyone who made it to a score of 10). Those who win their beloved dream prize will be contacted via email by myself for their shipping details. 
+
+Can I sign up for the private beta? You absolutely can! You can fill out this form to get on the list to be considered. As stated above, those who have reported vulnerabilities to us before will receive precedence in joining the private beta. We’ll then be selecting users who have identified that they have security research background, followed by any other users. Given the short period of time the private beta may be running, not everyone who fills out the form is guaranteed to get into the private beta before the program ends up going public. 
+
+Do you have a timeline for implementation? After feedback, we'll likely start with a Private Beta on HackerOne with invited users who have previously reported vulnerabilities to us that resulted in something getting fixed, particularly those on our Hall of Fame list. We'll expand that list in waves as we fix issues, respond to feedback, adjust the rules of the program, etc. The Private Beta will initially be very limited in scope (starting with only our Enterprise demo site) and expand to our full scope as we get a feel for the system.

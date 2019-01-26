@@ -1,0 +1,43 @@
+I took another look at this and it is not so simple. 
+
+Flop Half pot is barely enough to chase off a flush draw. AA, KK, or AKs should have raised pre. They could be on a weaker Ace, 55, or a flush draw. If you had just called pre then you could be betting the pot (14) for less money and put some real pressure on them. 
+
+I don't like the big raise pre. That was 1/4 of your chips out of position. You did not need to build a pot as you have a maniac to get more action if you hit. If he raises you back you almost need to push. 
+
+A less than perfect random itself is not much of a risk. If now the seed to a prefect or imperfect random is the only way to take advantage (IMHO). 
+
+On the flop 40 into 105 is strange as it is not big enough to fold out draws. JJ TT would not just limp pre. BB likely hit a pair. If UTG had a J they should have raised. So they could have a T or a 3 or two overs. 
+
+River Villain could be bluffing with a missed straight draw like AJ or KJ. Could be on 2 pair thinking it is good but not many 2 pair get there and 2 pair should just call. You are getting 3:1. I would call but not liking it. 
+
+Don't get how the SB folded getting 7:1 
+
+Turn not likely the 4 hit either one. BB of 1/3 still seems like a pair. Again should be charging more to price out draws. UTG could still be on a T, 3, or two overs. 
+
+Exploits on shuffle due to random rare. A bad algorithm is the big weakness. 
+
+River When he checks it sure looks like a missed draw. If he was betting an ace thinking it was good seems like he would bet it. If he smashed it with KJ seems like he would bet it. I would put in a small value bet in case he has a pair. Like $10. Most likely he missed and will just fold. 
+
+Now play separate tables that is just maximizing your win (or loss) rate. Play as many table as you can keep up with. 
+
+It is not strictly illegal. There is online poker in New Jersey and it has generated a lot of tax revenue. I think same in LA and Nevada. You must be a resident of the state. 
+
+All you have beat is stone cold bluff or like an 87 suited Neither of those are likely They would (should) not risk their stack on you have the Ace At this point it just looks like you have played an Ace for max value 
+
+Turn Even if one made a flush I can see them checking to hopefully get it in on the river. If Bryn has an 8 seems like he would bet it. 
+
+You are only behind on the flop to a shove if one has a set, KQ, or two bigger spades. If both have a pair and an over with one spade you are still 47% which is probably the worse you are looking at. 
+
+If you jam you are going to fold out most hands they hold and pick up a nice 375. A problem with a jam is you cannot have JJ, TT, 33, or JT so it looks like semi bluff draw. JJ and TT would reaised pre and all 4 should have raised that flop to protect from draws. OK maybe you spiked a set of fours on the turn. If they think about it AJ, KJ, and QJ should call and you have no blockers. A T with 2 spades might call. AT spades and KQ spades will call. Yes you will fold out any weaker hands but you are putting 900 at risk and it is not a slam dunk you will get a fold and your draws are good. If you had KQ spades it would be different as you block some hands that might call and your draws are good other than Ax spades. 
+
+I get you want to represent a K but if you really had a K you would check to the maniac and let him bet. But if you check you give him a chance to bluff you off the pot. And you kind of need to call. If he has been bluffing this is a board he would bluff. Don't hold back 4.5. You are way past pot committed. I think you need to shove hope he does not have a K. 
+
+You could put a squeeze on a player knowing a folds comes to the hand you chose. 
+
+Sit on a (as in the same table) is cheating. You know the other hands and what cards are out. It is player collusion which alone is cheating. 
+
+A queen or a spade on the river you need to fold to a jam. A call also protects you from better draws. I don't see them bluffing the river. 
+
+And I know you know poker math but math on shove fest 
+
+River Trip fives is a nice hand here but it is not getting called by a worse hand with an over bet. A small bet might get a call from a pair but it opens you up to a bluff. An 8 should have bet the flop and an over pair would have raised pre. Just check it back and it sucks you take down a small pot with bottom trips. Good bluff by BrynKenney but caecilius put himself in a spot to be bluffed. Bryn could have been up against a flush or straight so I think he put too much at risk to take down a small pot. Yes I think you fold here.

@@ -1,0 +1,17 @@
+Shimano make the FH-C810 which despite the FH suggesting "front hub" is actually short for "freehub". In full it's the "Shimano Nexave Di2 FH-C810" (page via searching their site for the short code). It's 8/9 speed compatible, and seems to be fairly commonly available online. Sadly I don't think it will take a disk brake directly, only the non-user-serviceable roller brake. ProblemSolvers make an adaptor that will let you fit a disk. 
+
+It's pretty easy if you have a spoke cutter and are willing to run a funny spoke pattern. I suggest buying (ideally second hand) a three speed hub and lacing it into the 16" rim yourself. With a wheel that small and a child on it there's not enough load to make strength an issue, so you can reasonably either lace a 20 spoke rim to a 36 spoke hub using whatever holes are closest, or ignore two spoke holes in the rim and use every second hole in the hub (18/36). It's probably not going to be pretty, but it will work. 
+
+If you need to cover long distances, perhaps a trailer bike would be a better solution? That way he can "help", and you can go whatever speed you like. That's generally safer for your kids, since you're in control and the only real risk is them jumping off the bike while you're moving. 
+
+Use a 26" wheel in whatever frame you have as you will be using disk brakes so it's easy. A slightly smaller wheel is slightly stronger. Also, look closely at the rear wheel of this thing. That's a 9 speed 20"/406 wheel with 36 spokes that I threw together the night before I left on that ride. Normally it had four large panniers plus stuff on the rack, but a band is more interesting to look at. It was still going strong several years later when it was stolen. Smaller wheels make everything easier. If I could suggest a 406 wheel bike for you I would 
+
+Disk brakes and quick releases - what you need to know 
+
+Yes, that's right - a UK cyclist has recently settled out of court with a fork manufacturer, in what is I believe the first successful case of its kind. There are a few more details in this thread here - the rider himself is hoping to avoid the limelight but thought that others might like to know. 
+
+However I think you're going about this backwards. Why are you riding faster than he can? Much as you wouldn't suggest stilts so he can keep up when you walk, gears don't address the problem that you can ride faster than him. He doesn't have the power or endurance you do, so without a power assist he's going to be slower. 
+
+The answer to your title question is "moving air exerts a force on obstacles", and deep section front wheels have more area affected by side winds so there's more force. 
+
+There are two main aspects to the failure. The disk brake generates a massive force largely downwards in the direction of the open fork ends. The friction of a quick release skewer is often not sufficient to stop the axle slipping down in the dropout slot. This is explained in more detail here, The QR is initially restrained by the retention lip on the fork (assuming it is present), however over time the slipping of the quick release leads it to unscrew, which is described here. Once it has unscrewed enough, it can be forced over the retention lip and the rider will crash. Below the analysis, we have a section of anecdotal and experimental support, and I've put the small number of manufacturers' comments on a separate page.

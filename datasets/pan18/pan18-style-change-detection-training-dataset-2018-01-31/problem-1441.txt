@@ -1,0 +1,31 @@
+If you want to save a reference to a block you have to copy it on the heap, since retaining a a block on the stack won't prevent it to be lost whenever the stack frame is teared down. 
+
+Talking about 'left' and y coordinate doesn't make much sense, but for instance If you provide an appropriate cast, it will work as expected To wrap it up: conventions are always important. In Objective-C sometimes they are fundamental. If you want also to ensure that no error occurred you have to check the return value 
+
+This category is also appropriate for “play along” style apps, such as a virtual piano that a user plays over iPod audio. When you use this category, audio from other apps mixes with your audio. Your audio is silenced by screen locking and by the Silent switch (called the Ring/Silent switch on iPhone). I'm wondering whether it would be appropriate to use it in other cases. I'm trying to write a simple Quick Look Preview Extension for my UIDocument-based iOS app. I updated my target's Architectures build setting from "Standard 32-bit" to Standard (64-bit) and now I'm getting mysterious Xcode linker errors so that I can't build the project successfully. For example: For example, this simple "throb" view animation may well break under autolayout: 
+
+NOTE This bug is fixed in iOS 9, so the entire matter will be moot at that point. The discussion below applies only to the particular system and version of Swift to which it is explicitly geared. 
+
+And I can confirm this by looking at the build log: [Actually, there's a second surprise here: applying a transform to a view triggers layout immediately. This seems to me be another bug. Or perhaps it's the heart of the first bug. What I would expect is to be able to get away with a transform at least until layout time, e.g. the device is rotated - just as I can get away with a frame animation until layout time. But in fact layout time is immediate, which seems just wrong.] 
+
+EDIT 2: In seed 4, we now have access controls! Plus, in one of my apps I have an embedded framework and sure enough, everything was hidden by default and I had to expose all the bits of the public API explicitly. This is a big improvement. I can't help regarding this as a bug. If I apply this transform to a view: 
+
+The white view is host view; you are supposed to pretend that it is transparent and hence invisible. The red view is its subview, positioned by pinning its center to the host view's center. Now we can scale and rotate the red view around its center without any problem, and indeed the illustration shows that we have done so: 
+
+You can post a notification like this 
+
+To wrap it up: conventions are always important. In Objective-C sometimes they are fundamental. 
+
+I'm wondering whether it would be appropriate to use it in other cases. 
+
+tl;dr declare a copy property (weird syntax, I know... http://fuckingblocksyntax.com/) 
+
+From my understanding so far, it should be used whenever a class encodes/decodes instances of itself, in order to prevent substitution attacks. 
+
+Finally, always according to the documentation: If you want to provide your own comparison method for a custom class, I suggest that you stick to conventions and provide a method with the following signature 
+
+Such string is then loaded and used to retrieve the matching class like follows: 
+
+If you want also to ensure that no error occurred you have to check the return value 
+
+If you provide an appropriate cast, it will work as expected In Swift, this is even more convenient, as you can do I'm currently auditing an iOS application and I came across this scenario that made me wonder whether it could be exploited somehow. which is exactly my proposed solution above. If you want to save a reference to a block you have to copy it on the heap, since retaining a a block on the stack won't prevent it to be lost whenever the stack frame is teared down.

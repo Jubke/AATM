@@ -1,0 +1,67 @@
+The copy to clipboard would be initiated by javascript but having user confirmation or a dialog isn't a problem. 
+
+Is there today with HTML5 a way to copy to clipboard, without browser plugins (and so without Flash nor java) nor short-term hacks, an image built in a canvas ? 
+
+If you really need to deal with such numbers, you have to represent them in another way. This could be a string, or a specific representation like a digit array. Some "big numbers" libraries are available in JavaScript. 
+
+Is there a way to push notifications from the browser to the user when the browser isn't visible in Android 4.4 ? Or do I still have to embed my web app in an Android application to achieve this ? Of course I'm open to other solutions than the HTML5 Notification API, as long as they're practical for my users (no flash). Or to a reliable webkit based alternative to Chrome and having a notification API. 
+
+I'm querying some MDB files in nodejs on linux using MDBTools, unixodbc and the node odbc package. 
+
+My web application uses the Notification API. 
+
+*Note : sometimes, on Chrome/linux (not Chromium) I get something weirder : existing logs are changed when closing and reopening the console. They can go from the array like form to the folded form. * 
+
+To make my problem understandable and testable, I made an example with no dependency. 
+
+I have a directory where some other programs write XML files that I have to process when they're complete. 
+
+It's a feature. But a very dangerous one. The best way to keep it being a feature for you is to stick to consistent formatting style (I'd suggest to use the Google style guide until you're experienced enough to make your own). 
+
+Is there a solution to change it to something simpler in this style : 
+
+But in order to keep my watch running, I need to handle the error instead of letting it pass, something like 
+
+When you have two scrollable panels, one (a kind of dialog) being over the other one, how do you make the front panel scrollable using the mouse wheel while fixing the one behind ? 
+
+Also, if any of the scripts fail to load, the fail handler will be called, and subsequent scripts will not be loaded 
+
+If using jQuery 1.7+ you could try using .on() to delegate the event and bind to all future forms with the same class. Try finding the closest parent that is not inserted dynamicly instead of $(document). 
+
+If it's for a DIV, you'd have to target the element that has the scrollbar attached, to get the scrolled amount 
+
+Yes it can, you can combine the attribute starts with and the attribute ends with selector 
+
+Another way to do it is using classes, and setting all the styles in a stylesheet, thus keeping them out of the javascript 
+
+JSON is a lightweight data-interchange format, and doesn't really have anything to do with JavaScript other than being named "JavaScript Object Notation" because it's written like a JavaScript object. 
+
+You can of course use any datepicker you want, jQuery UI's datepicker is probably the one most commonly used, but it does add quite a bit of javascript if you're not using the UI library for anything else, but there are hundreds of alternative datepickers to choose from. 
+
+To rotate a DIV we can add some CSS that, well, rotates the DIV using CSS transform rotate. 
+
+Indeed, there are several ways to convert a Set to an Array: 
+
+Take a simple function like this: 
+
+I've just been playing with jQuery for a little while - been using YUI for awhile and while I really appreciate a lot of what the jQuery library has to offer, I'm finding it to be quite a pain to step through jQuery code in the debugger and I'm wondering if there are any tricks other than the obvious things? 
+
+Each step has both success and error handlers. Some of the error handlers kick off alternate code that can still continue successfully. 
+
+I don't expect anyone to follow the exact process here, but just to give folks an idea of the type of logic between the steps. 
+
+Here are the relevant portions of the ECMAScript 5.1 specification: 
+
+When precaching as above, the images are loaded asynchronously so they will not block the loading or display of your page. But, if your page has lots of images of its own, these precache images can compete for bandwidth or connections with the images that are displayed in your page. Normally, this isn't a noticeable issue, but on a slow connection, this precaching could slow down the loading of the main page. If it was OK for preload images to be loaded last, then you could use a version of the function that would wait to start the preloading until after all other page resources were already loaded. 
+
+If this list of scripts that will execute in order as soon as possible is still not empty and the first entry has already been marked as ready, then jump back to the step labeled execution. 
+
+What other ideas might there be (even if there are some compromises to it)? 
+
+I'm stumped. I assume this must be something silly I'm doing wrong in my use of promises, but I can't for the life of me see what's wrong. 
+
+Bonus points if one can actually tell not only if scrollbars would generally be required, but whether they are actually there or not. 
+
+So ... I'm wondering if this is being discussed anywhere in the standards organizations now? Right now, it's the only reason left that I have flash in my pages. 
+
+But, what happens server-side if a client goes inactive and stops sending ping messages (say because the client went to sleep)? I can't find any info in the socket.io server-side doc that explains that situation or allows for configuration of it. Will the server close an inactive client socket.io connection (one that it is not receiving ping messages from)? If so, how long will the server wait and is that behavior configurable?

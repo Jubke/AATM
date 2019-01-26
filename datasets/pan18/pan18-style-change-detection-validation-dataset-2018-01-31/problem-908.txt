@@ -1,0 +1,71 @@
+Frege used this conception of number in his logicist project, attempting to show that arithmetic is reducible to logic. He developed a system in which he derived some theorems of arithmetic but this system was found inconsistent since it was subject to Russell's Paradox. 
+
+Thus he takes the conclusion of the argument to be the following: 
+
+As there's no such person, would answers to this question be true or false? 
+
+Second order predicates express properties of properties. For example, a positive quality expresses the property of being a positive quality, which is a property of properties. So a positive quality is a second order predicate (e.g. "Courage is a positive quality"). 
+
+Allow me to use a different example: 
+
+Condition = owning 6 cats. Strong condition, few satisfy it. 
+
+Similarly, you might say that exists is a second order predicate. So, for example, saying that unicorns do not exist is saying that the predicate unicorn is not instantiated (i.e. that there are no objects to which the predicate unicorn applies). 
+
+Condition = not being over 2 meters tall. Weak condition, many satisfy it. 
+
+Accordingly, any answer to your example question would be rephrased, e.g. as: 
+
+I'm trying to understand Tarski's proof of the undefinability of truth as given in his paper The Concept of Truth in Formalized Languages (English translation in Logic, Semantics, Metamathematics, 1983, pp. 152-278). 
+
+We can take one step further and derive a conclusion that is not explicitly stated: 
+
+The cardinal number of the class {Frege, Russell} is 2. Now 2 is itself a class that looks like this: 
+
+Predicates express properties. 
+
+The main idea behind this conception is that numbers somehow involve second order concepts. That is, having a certain number is a property of 'plain' (first order) concepts. For example, the earth falls under the concept 'planet of the solar system', which itself falls under the concept 'has 8 members'. 
+
+One approach to resolving the paradox is this: it's false that the arrow is at rest during every instant of time, since motion is not something that occurs during a single instant of time. If we calculated the speed during an instant it would come out 0/0, and so Zeno is not justified in calling that rest anymore than calling it motion. 
+
+One final comment regarding your last sentence. That something is called a paradox does not mean that it has no solutions. A paradox is something that leads to contradiction from apparently true assumptions. Often these assumptions are much debated and reasonably shown to be false. Yet we still call these things paradoxes since the assumptions retain their apparent truth. 
+
+The problem can be reformulated as follows: 
+
+Sentential logic (and also first order predicate logic) with natural deduction is sound and complete. That means that any valid argument can be proved using natural deduction, and that anything that is proved using natural deduction is valid. 
+
+And a 'no' answer amounts to the claim: 
+
+Also note that there are other conditionals which are not material, like the subjunctive conditional (e.g. "If Oswald had not shot Kennedy, then someone else would have"). 
+
+Are there any such explications of the original proof? 
+
+Nowadays the term "material conditional" just means the familiar conditional with its familiar truth conditions. I don't think that "formal conditional" or "formal implication" is still used though, but maybe others could elaborate. 
+
+Now conclusion 3 follows from 2 and A6, and your argument is valid. 
+
+Taking Frege's classic view, we say that '2' and '1 + 1' refer to the same thing (i.e. the number 2), but that they have a different sense. So in one respect they are the same thing, but in another they are not. 
+
+As you correctly observe, the question asks whether something that doesn't exist has certain properties. This is related to the more general problem of talking about non-existent things. One prominent solution to this problem is given by Russell's theory of descriptions. 
+
+I understand modern presentations of the theorem and its proof, but they use the Diagonal Lemma while Tarski doesn't (at least not explicitly). 
+
+Any line in a deduction (so long as it's not in a sub-proof) is also a conclusion. You have to know what conclusion you're aiming at, otherwise you just wouldn't know where to stop. It's somewhat like asking where to go without knowing your destination. 
+
+Here is a simple illustration: 
+
+As the quoted passage says, there is no way of showing that an argument is valid in predicate logic, other than carrying through its deduction. That means that if the argument is not valid, you would never be able to tell that using just deduction. 
+
+The deduction is then carried out as follows: 
+
+Yes, it is okay for a sentence to refer to itself. 
+
+Finally, you can read about the problems of existence as a first order predicate in the SEP entry on Existence. 
+
+(Note that this isn't circular as it might seem and can be given a precise definition, in Frege's system for example.) 
+
+Another example: prime number is a first order predicate, applying to numbers, e.g. "4 is not a prime number", while infinite is a second order predicate, e.g. "there are infinitely many prime numbers". 
+
+Let me first state Zeno's Arrow Paradox more clearly: 
+
+If my analysis is correct, then this conclusion does follow from the above assumptions, and the argument is valid.

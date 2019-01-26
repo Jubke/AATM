@@ -1,0 +1,21 @@
+Unfortunately, keeping people ignorant is economic folly. We make more bad decisions, and markets take longer to adjust. 
+
+Meanwhile the "little guy" who would need to be protected from these kind of predatory practices should have a diversified portfolio for his 401k. Any manipulation of one stock should barely register and long term investors(ie normal people saving for retirement) should be mostly unaffected by these kinds of short term manipulations. 
+
+It's actually very hard to determine the effect of any policy on the economy for a simple reason: we don't know what would have happened if that action hadn't been taken (the counter factual). Because of this, economists and social scientists develop complex models to try to resolve these issues. To have a reasonable chance at discerning truth from all the noise, good data scientists look for a natural experiment or statistical instrument. They find something exogenous that triggers the policy to a random part of a larger group group. For example, we could assess the impact of immigration by looking at a program that randomly assigned various numbers of migrants to different cities. 
+
+A theoretical objection to insider trading is the strong efficient market hypothesis(EMH). Weaker efficient market hypotheses say that people can't make money off of publicly available information. Many people believe this. The strong efficient market hypothesis states that individuals cannot beat the market even if using inside information. One example definition is: 
+
+If you think markets are strongly efficient, then insider trading is not a problem. I don't think all libertarians believe that it's impossible to make money off of insider information, but their faith in markets means many libertarians find the strong EMH more compelling than the average voter. 
+
+Keystone XL might hurt the ability of OPEC to control global markets and will introduce more oil into the global markets, possibly lowering the average price worldwide, but it will actually raise our oil prices here in the USA and cause us to import more oil from further abroad. 
+
+Forbes: Keystone pipeline won't lower gas prices, it might raise them 
+
+While OPEC impacts the global markets, overall, we don't actually import much, if any of our oil from Saudi Arabia. 
+
+The reason: Keystone XL is built to move Canadian tar sands oil from their fields to Pacific ports to it can be exported abroad. Currently, that oil is either used domestically (Canada), or it flows to the upper Midwestern states for use by the USA. Taking oil that can currently only be used in Canada and the USA, and making it available abroad means that oil that previously HAD to be sold locally, at prices that reflected the excess of availability there, will now be removed from the local markets. 
+
+CBS News - how would Keystone Pipeline affect US gas prices? 
+
+This pipeline will create a few temporary construction jobs (though probably from Canadian work crews), a bare number of maintenance jobs (again, probably people relocated from outside the communities where the jobs will be located), will increase pollution, cause environmental damage, probably damage water sources at some point, since almost all pipelines do, entirely for the benefit of the Canadian oil producing companies, to improve their profits, while costing US consumers more for their oil/gasoline.

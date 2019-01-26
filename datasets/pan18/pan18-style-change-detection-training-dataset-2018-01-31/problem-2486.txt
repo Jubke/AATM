@@ -1,0 +1,45 @@
+Some example words (I’m taking these from Wiktionary): 
+
+Also, it doesn’t seem to be common for languages to just appear out of thin air (the only examples that I know of of this apparently happening are sign languages, such as Nicaraguan Sign Language). 
+
+My guess is that the /g/ is due to some kind of analogical leveling under the influence of the past-tense and past-participle forms, which have back vowels and therefore wouldn't have regularly developed a palatal consonant. Is this thought to be correct? If so, I'm curious about if we have any evidence of the date of this, and if the word is ever thought to have had /y/, or if the spellings with "y" are likely just ways of representing /i/ after a velar consonant (or mere unconditioned variants of the spelling with "i" used by scribes who had lost the phonemic distinction between /i/ and /y/). I don't see any real phonetic basis for rounding this vowel, unlike in "busy" (< PG *bisig-) where there is at least an adjecent labial vowel, but perhaps the "u" of the past participle and some past tense forms provided an analogical basis. 
+
+So why does Modern English have /g/ at the start of the second syllable of "begin," which the OED says is from Proto-Germanic *ginnan? 
+
+Pretty much everyone agrees that languages, in general, seem to change continuously. For example, there is a language called “English” today, that is a continuation of a language that existed 200 years ago that was also called “English” which was slightly different. 
+
+Actually, the uvular stop in Semitic languages is often thought to have developed from an earlier "emphatic" velar stop. I think there are some extant Semitic languages where it is realized with some kind of secondary articulation rather than a simple uvular POA. 
+
+My understanding is that the reflexes of Proto-Germanic velar consonants before front vowels were usually palatal consonants in Old English, which in turn generally yield palatal or palato-alveolar consonants in Modern English, as in yellow from Proto-Germanic *gelw-. 
+
+As the Romance languages developed, the -r mediopassive became disused even for deponent verbs. I'm not confident why this happened; perhaps it was due to forms becoming homophonous. Anyway, with the loss of the old mediopassive a new form was adopted for the voice. The reflexive sē filled this role. In the daughter languages sē -> Fr, Es, Pt, Ro se, It si. 
+
+Night, fight, and wight are all pronounced with a final /-aɪt/ in Modern English. Their < -ght > spelling reflects the Middle English pronunciations, which had a final /-ixt/. (The digraph < gh > in MidEng represented the sounds /x/ or /ç/, which were also variously spelled < h >, < ch >, < ȝ >.) 
+
+South L merīdiēs (adj. merīdiōnālis) meant "noon, midday" < medius “middle” + diēs “day”. Since the sun is in the South at midday in the Northern hemisphere, this word is self-explanatory. 
+
+Gk Βορέας boreas "north, the North Wind" was a Greek word also of unsure etymology. It has cognates in other Balkan and Slavic languages such as Alb borë "snow", Srb бура "cold north wind". It is often said to come < PIE *gʷor- "mountain". This very likely is a reference to a North wind, cold and perhaps arising from mountains, that was prominent in these people's original homeland. 
+
+One salient example is the affrication which accompanied palatalization in Romance. In various environments in various languages this took the various forms: 
+
+Other examples abound, although I don't want to just give a long list. 
+
+vulva: This came through Italic, which did not undergo /w/-loss. So the PIE semivowel in u̯el- was retained in Latin vol-. The semivowel /w/ was then fricativized in the Romance languages. This leads to the result 
+
+So, if we did not know Latin, we could reconstruct its lexic from French, Castillian, Catalan, Italian, Portuguese, Rumanian, etc. 
+
+Now let's imagine a street dialogue between the same characters: 
+
+Also, there is some confusion between semantics and grammar almost always when speakers of English try to understand gender in other languages: a word can be grammatically of one gender, but semantically refer to something of the opposite sex - or with no sex at all. And such confusion tends to get politicised in English, with misguided attempts to root patriarchy into linguistic features of modern European languages, usually through anachronisms or false etymologies. 
+
+We do know Latin, however, and we can see that the Latin word was "caballus" (OK; it wasn't; it was "equus" - which gave us the Portuguese, Castillian, Rumanian and Catalan word for "mare". "Caballus" was Vulgar Latin, and comes from the Classic word for "horse pack", which in turn is a borrowing from unknown origin). 
+
+I think you are mixing different things. 
+
+Beggar: Já disse à senhora: vi, mas 'tava escuro, então não vi direito. 
+
+One is that a stratified society has different degrees of formal education for different people. There consequently is a tendency for the upper layers of such society to speak a different "sociolect" than the lower layers. 
+
+The other is that people speak in different registers in different contexts. Anyone, from a beggar to a Supreme Court justice, speaks differently when in court than when among friends in an informal context. 
+
+In Romance languages, anyway, the whole masculine and neutral genders of Latin collapsed into what is called the masculine gender, but is perhaps closer to Latin's neutral.

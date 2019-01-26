@@ -1,0 +1,13 @@
+Update: BTW: What hiring tag? ;P 
+
+I'm not sure this reasoning holds up as well for StackExchange sites, at least not yet. Most of those are much smaller, more focused, and tend to have more questions where anyone can answer with an opinion, such that every user can follow nearly every question. Over time some of those sites may grow and the tags may become more important. You also missed one big reason to get rid of it: new users sometimes use it as a crutch to mean that subjective questions must be allowed because, "hey, look - there's a tag for it!" 
+
+There's also the thought that if this becomes common, omitting the icons from the ignored tags actually looks like a bug at first glance. 
+
+The reason this was added to StackOverflow is that if you have to create a new tag, you're probably tagging your question wrong. Remember, tags are not for summarizing or indexing your question. They are for sorting your question into existing, well-defined categories so that users who watch those categories can find your question and give you an answer. Tag your question wrong, and you're seriously hurting your ability to get a good answer. 
+
+In the past I've thought that a lot of the site really depends on good tagging, but lately I'm not so sure. Google, for example, won't use the tags for indexing. And I've rarely used the tag search option on the site itself when I didn't have a pretty good idea exactly what I was looking for. This could be improved by allowing a tag wildcard search to match the interesting tags code. We lose some metrics data, but is that really important? Maybe we could even steal something back from one of the clones. 
+
+There are 55,000 tags already available (at time of writing). Odds are what you need is included among their number. 
+
+Assuming it should be (at least) one or the other, is a retag request (ie: the recent "Please change 'db-design' to 'database-design'" question) more of a 'discussion' question or a 'feature-request'?

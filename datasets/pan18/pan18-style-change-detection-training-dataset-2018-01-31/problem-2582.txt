@@ -1,0 +1,25 @@
+Wikipedia describes it a different way: A raised alveolar trill, and uses the IPA notation [r̝]. 
+
+In this case it could be tricky because in English dark l is an allophone of normal l (so it never contrasts directly as with a minimal pair). So what's happening here? I can't seem to find anything mentioning approximants or semivowels in Georgian at all. From the Wikipedia article on Malay phonology: 
+
+I'm an armchair linguist. By this I mean it's been an absorbing hobby for decades by reading books and online and playing with many languages. But I've never taken any course or other kind of formal training. So I'm lacking knowledge of things which are best learned in a formal setting or which require special equipment. 
+
+So is this a case of language pride or is Czech really the only language with this sound? And the answer is in. Check the new English Wiktionary entries for 做错 and 做錯: 
+
+It's pretty well accepted (I think) that it's hard to linguistically analyse your own speech. I have learned that they don't always seem to be the same as those conventionally indicated by IPA symbols in broad transcriptions. I'm a speaker of Australian English but I'm not even sure my vowels match General Australian. We don't really have dialects here but there are some regional differences, sociolects, generational differences, and a couple of mergers and splits that some have and some do not. On top of that I've spent much of the past 25 years travelling or surrounded by foreigners. The definition I would have parroted back to a professor during my undergraduate studies would have been something like: "Theoretical linguistics is characterized by a concern with general principles governing how language works using methods including corpus analysis, contrastive analysis, psycholinguistic experiments, etc.)." 
+
+Some authors who addressed this (off the top of my head): 
+
+There are, of course, many more things to read and many more perspectives to consider. This is not just something that can be answered without going into the very foundations of the study of language and that can't (and shouldn't) be done comprehensively on SE. However, we can probably provide a relatively safe starting point. 
+
+The answer to this question very much depends on who's asking and why. And what stage of your linguistic studies you are at. But today, I would be more interested in discussing with how various linguists' theoretical preoccupations direct what they study and how. For instance, in order to understand the divide between the Chomskean tradition and the rest of linguistics, theoretical concerns are paramount. Like many social sciences, linguistics has a bit of a science envy, which can lead to overcompensating with formal approaches that obscure more than they reveal. 
+
+The reading I might recommend at this stage is Stephen Pinker's Language Instinct (although I completely disagree with his conclusions, it is a good initial overview). 
+
+And if you wanted to get more in-depth: 
+
+For the lay person, I'd start with James McCawley's "To ask a professional linguist how many languages they speak is just like asking a doctor how many diseases they have." This pointing to the dual meaning of the word 'linguist' in English but also to the fact that theoretical linguistics is concerned with general principles common to all languages. 
+
+In the standard (Moscow-based) Russian accent, five vowels /i　e　a　o　u/ are distinguished in stressed syllables, but at most three /ɪ~ɨ　ɐ~ə　ʊ/ in unstressed syllables. /i　e/ reduce to /ɪ/, /a　o/ to /ɐ/, and /u/ to /ʊ/. Russian also has word-final obstruent devoicing and assimilation of voicing and palatalization. Russian orthography is roughly morphophonemic. Examples: In addition to slashes and square brackets, sometimes also used are double-slashes, pipes, and angle brackets. Their uses are: 
+
+Indicates a transcription that records only information asserted to be contrastive. This records a sequence of phonemes (as well as any phonemic suprasegmental features like stress or tone), ignoring allophonic differences. In this example, the fact that the initial /k/ is pronounced aspirated ([kʰ]) is ignored, because /k/ and /kʰ/ do not contrast in English. Indicates a transcription that attempts to record the underlying sounds of morphemes, before they are combined to form words. This ignores sound changes conditioned on location, which may result in multiple phonemes, that get applied in actual speech. To illustrate, here, the final sound is written ⟨z⟩ (rather than ⟨s⟩ as in its pronunciation) because it represents the English morphophoneme //z//, used as the plural marker. //z// can be realized as /z/ (as in pigs or kangaroos), /s/ (as in cats), or /ɪz/ (as in horses). The posited morphophoneme cannot be an actual phoneme, because English distinguishes /z/ /s/ /ɪz/ in other contexts (like whores, horse, horiz(ontal)). (The choice of ⟨z⟩ for the transcription of this morphophoneme is arbitrary, but makes sense because it is realized as /z/ in the absence of the effect of an adjacent voiceless segment.)

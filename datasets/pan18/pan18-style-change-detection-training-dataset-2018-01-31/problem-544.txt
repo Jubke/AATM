@@ -1,0 +1,33 @@
+However, I personally use a process documented by Guido Henkel which recommends modifying your html file and then converting it with Calibre software. This requires a little more work, but I have found that my conversions are spot on every time, and I have always been pleased with the results. 
+
+Is it wise? In my opinion, yes. I have sold hundreds of e-books using a pen name, and I have recently started publishing other e-books under my own name. I have not spent much time promoting them because I am in the process of writing two new series, and that takes up much of my spare time that I used to spend on promoting and marketing. 
+
+Now for the "how". The first step, naturally, is to write the book! Once that is done, you need to create your e-book. There are a lot of different ways to do this, and there are different formats as well. I'm going to discuss two different options. One will focus on creating a mobi file to use at Amazon, the other will focus on creating a Word document for Smashwords. 
+
+With either service, if you are using MS Word, you can upload your file immediately, and they will do the conversions to the proper formats for you. However, with Amazon, their conversion process often messes up Tables of Content, page breaks, chapter breaks, etc. One way to minimize these issues is to save your Word document as a "Web page, filtered". This cleans up some of the unique Word tags and usually results in a cleaner conversion. 
+
+Smashwords has similar issues with converting your Word document unless you very closely follow their style guide. I am not going to go into great detail here, because their style guide does that for you. Be warned, though, that Smashwords currently accepts ONLY Word documents. If you have the newest Word software, you'll be better off saving it in the Word 97 version after following the style guide recommendations. 
+
+Once you have your files uploaded, then the next step is promoting and marketing. There is a lot involved there, and I will save that for another post. Good luck! 
+
+Lastly, it's very easy to think of many reasons why something may not work. My advice is to write your book, and try get it published. See what happens! 
+
+In these days of internet connectivity and video phone calls, it's far less of a hassle to organise meetings and discussions. 
+
+With regards to your name (don't know what it is, so can't comment), going with an alias is an option if you think it would help, but you just need to look at crime fiction to see it littered with names like Håkan Nesser, Jo Nesbø, Arnaldur Indridason etc. and realise that "foreign" names certainly haven't been a barrier for them. 
+
+I am not a publisher, so perhaps someone will correct me, but if your book is good, they'll publish it. I can't for the life of me see any good reason why not. 
+
+Marketing tours and suchlike are not barriers to you being published; not all published books have these sorts of events. If the book is promising enough that they want to do these sorts of events, lucky you! Angry Robot (British-based publishers), for example, published Zoo City by Lauren Beukes, who lives in South Africa, and I believe she's recently flown to various countries to promote the book on the back of its success. She didn't have to relocate. 
+
+If you consciously approach this from the point of view of unreliable narrator, you might just provide yourself with a potent delivery mechanism for your story, without utterly compromising the genre of your writing. You decide, if you let your reader to figure out that the mirror-mirror-on-the-wall is actually a tablet with Retina screen, or not--it is entirely up to you. 
+
+"Miss Snark, the literary agent", answers the question about the preferred length of the synopsis of a novel in her blog post. 
+
+Mixing genres to me is entirely appropriate. In fact, I cannot point out a work of strictly Fantasy, which would not contain elements of Romance, Mystery, Adventure, and so on. It is the balance which makes your recipe unique. 
+
+Quote from the linked source, which pretty much summarizes the article: 
+
+As Lauren pointed out, you have more than one question in your post. I will take a stab at one of them before the whole thing gets off-topic-ed. 
+
+To add to a number of a very good points, already brought up here, consider this:

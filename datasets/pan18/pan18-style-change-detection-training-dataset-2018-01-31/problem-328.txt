@@ -1,0 +1,33 @@
+I used to wrap the grip of my brass water hose gun as it got too cold to grip on early spring days. The Sugru home page gives many other examples of its uses. Google images gives examples of people using Sugru for bars and brifter hoods but i didn't see any brifters themselves. 
+
+Many ebay and other online vendors advertise the long-reach Shimano BR-650 brakes as being "Ultegra" series. 
+
+Things you might not be able to bring over (unless your bike is the same era/style): bottom bracket, steerer/stem, seat stem, brakes, forks. 
+
+Now, your question doesn't also get to another important question: 
+
+However, looking at them they don't seem like they are top-of the line or really all that different in manufacture from 105-line Shimano brakes. 
+
+An angle grinder with metal cutting disk (or abrasive disk) will remove a U-lock in about 30 seconds. It is shocking how easy it is to cut through the shank. The one consolation is that it does make a lot of noise and a lot of sparks (and requires either a power cord or an expensive battery grinder), otherwise more thieves would be using them. If you do not have access to an angle grinder (and don't want to stop by your local bike shop, auto mechanic, or police station, all of whom will undoubtedly have one), then a hacksaw with a new blade (or two) will eventually cut through, although it may take up to half an hour of vigorous sawing. 
+
+Alternately: there's nothing that stops you from doing this with another type of trailer (such as an axle-mount). Or that would stop you from designing your own bike suitcase with detachable wheels so that it turns into a trailer (or trailer into a bike suitcase): 
+
+Are you sure you have the right size wheels (or fork)? My guess is that the bike was originally 27" but someone replaced with a 700c which is slightly smaller. Or that the fork is for a 27" or larger. 
+
+Like you, I found that the original Mafacs sucked so I replaced them with Tektro R559 Long Reach Brakes. These had the requisite 55-73mm reach that I needed to fit my smaller 700c wheels. You'll find that the main issue is that most contemporary road brakes don't have the right amount of reach so it's very slim pickings. 
+
+It's as easy as removing the front shifter, shifter cabling, front derailleur, and changing your crankset from a double to a single. If you have a brifter, you can remove the derailleur cable and figure out some way to keep the brifter from flopping (jb weld, etc) if you don't want to replace it with a brake lever. 
+
+In terms of matching shifter and derailleur, an indexed front shifter needs to match in terms of capacity (3x), make/series, and capacity (tip of the hat to @mikes). 
+
+Right side of the car (for countries that drive on the right such as France): 
+
+tl;dr: Things that you can bring over (in general): Handlebars, brifters, seat, pedals, crankset, seat, front and rear derailleurs (with caveats). 
+
+Yes, dented frames are dangerous -- especially aluminium and carbon fiber as their failure modes can be quite dramatic. Steel frames tend to fail more slowly (and can be re-welded). 
+
+Disclaimer: no relation to sugru except as an avid user. 
+
+At the time I wrote this answer, I had six bikes (two road bikes, one mtb, two folders, one English cruiser). I had met the spousal tolerance factor. After this, I can only replace, not add. So if I really wanted that Brompton, one of the folders had to go. You can click my profile to see what I currently have. 
+
+Tools you'll need aside from the usual allen wrenches and screw drivers will be a crankset puller and pedal wrench.

@@ -1,0 +1,77 @@
+To compensate for the stricter requirements we reduced the thresholds: 
+
+Find as you type user feature always sorts on name. I find it a bit confusing that the sort order is swapped without me asking for it. 
+
+When the system was deployed, I ran a script that "pretended" that all users with more rep than 10 got all the historic notifications. I seemed to have missed the vote-up priv there that caused this issue. 
+
+But let me take a step back and explain how the new system works: 
+
+I changed it so when a post is locked all suggested edits are rejected by the community user with the note: 
+
+For each privilege we have the rep required and 2 flags that dictate who gets notified. Veteran users are users that have an associated account on another SO site, non-vets do not. 
+
+Back in day one I had some code that suppressed notices shorter than 10 chars from being displayed. They are actually stored in the DB. 
+
+We have these privilege things on each site: 
+
+We only count an one "edit" per post, it does not matter if you edit the title or body multiple times. 
+
+We never, notify a user twice of the same privilege. 
+
+This was happening on locked posts. 
+
+We counted "title" edits and "body" edits as distinct entities. This badge was awarded to users with 600 cumulative "title" or "body" edits. 
+
+This is a bit glitchy, I seemed to have missed marking those notifications as "sent" when I deployed the system, there are 30 more users with 5k rep on SO that will be affected. 
+
+Secretly I added the workaround for chrome 6 only, I upgraded to chrome 7 today and the bug is back. I really don't want to make this workaround part of WMD. 
+
+In fact it is so bad I do not want to include this in wmd.js 
+
+Clearly this is not intuitive or right so I made some adjustments. 
+
+For an added bonus, when the user filter box is cleared, the paging numbers should re-appear as well. 
+
+Under certain circumstances it fails to set back references properly. So we have this code: 
+
+Whenever, a user's reputation changes we check to see if they were notified for all the privileges they have, if any are missing – we insert notifications. 
+
+Ok, this happens cause of a pretty serious bug in the Chrome 6 regular expression engine. 
+
+If I am sorting on popularity it should also sort on popularity. 
+
+It won't, at least not always. The review indicator in the top-bar is not calculated on a per-user basis, but on a per-site basis. The counts in the review queue itself are calculated on a per-user basis. The top-bar indicator also won't always be accurate because it's cached. 
+
+I've drawn a single 1px line through both sides using the other side's color. Can you see it? ^_^ 
+
+…d enthusiast programmers</b>. It's 100% free, no registration required.</p></p> This error is the only one preventing the front page of Stack Overflow from being "valid" HTML5. 
+
+There are several things that could cause an item to not show up for you in review, but still show up in the total per-site count. It could be that you've already reviewed the item and it's still waiting to be completed, you could have skipped it, or you could have previously taken action on the post in question that prevents you from being able to review it. 
+
+Viewing the stars tab for Tavern on the Meta, the first item is a link to Jeff's blog about his leaving, but it doesn't get linkified like it does in the normal list. It should display as: 
+
+Perhaps this will make it easier to see how close together the colors are: 
+
+Am I expected to actually copy-paste a link? That's a lot of effort, you know. 
+
+If a user is awarded the same badge more than once in quick succession, the profile's activity tab will show each badge if the "badges" filter is selected... 
+
+The Careers favicon exhibits the same problem, with the additional downside of seemingly being loaded without me even having to click on the site switcher button and thus breaking the secure connection right away. 
+
+Admittedly this is fairly minor, but the field should probably be called something like "Organization" to avoid this. There's also the issue of this form being repeated in the source multiple times (once per experience item), resulting in various elements with the same ID attribute, but that doesn't actually cause any usability problems. 
+
+where the title attribute looks like the following: 
+
+I don't often click through anyway, but I can't think of any particular reason why the per-site meta notifications shouldn't have a link to your meta profile...so they should, for consistency. 
+
+I haven't really looked into it, but it may just be that the handlers from full.js and mobile.js are both being triggered, as there seems to be the flash of the error dialog indicating something went wrong on the supposed second AJAX request when the response from the first triggers a page reload. 
+
+Also, if the desired behaviour is to roll the badge entries up into a single item in these cases, shouldn't the interface indicate that roll-up happened? 
+
+It seems that the process used to generate the title attributes for the image links on the Stack Exchange store encodes an already-encoded string, leading to situations like this: 
+
+...but the "all" filter will roll them up into a single entry... 
+
+The Area 51 favicon is loaded with an absolute (http) scheme, which makes my pretty green lock go away when I open the site switcher: 
+
+The notifications panel of the StackExchange™ MultiCollider SuperDropdown™ likes to give you an opportunity to bask in the glow of a new badge by providing a direct link to your profile on the relevant site.

@@ -1,0 +1,15 @@
+Unless the bonus is identified on the items, no. In your example, putting on four pieces of Cain's Fate would not give you an additional bonus over putting on three pieces. 
+
+Yes! All content scales with the level of the character that created the game. This changed in patch 2.0 (the pre-Reaper of Souls content patch). 
+
+The truth is that if you play very little then NO - it is unlikely you will make your money back. However over time you may get lucky with individual drops that you may wish to sell on the auction house. It's not possible to give a definitive answer against making your money back. Your own Locust Swarm won't stack, in the same way that a Wizard cannot stack their Blizzard ability. In your first instance where you hit the same mob multiple times, all you will do is refresh your stack, overwriting the old one with the full duration of the debuff from the new one, but without stacking the daamge. Any actions that you take on third party forums are not bound by Blizzard's rules. 
+
+The dank cellar is worth 10-50k depending on the current cost of gems on the auction house. This all basically comes down to how long it takes you to get to the 'Inferno' difficulty, and how frequently you play the game within this difficulty. Once you get further into inferno difficulty (Act 2+) about 5% of the items that drop on average will be of a quality that people are looking for when they're willing to spend real money. The method that I have used is selling lots of items at low prices, but in contrast to this others have made the full cost of the game back in a single transaction. 
+
+Increased Attack Speed on the other hand, works in synergy with every other damage statistic you have, to provide an increase to overall attack speed, which of course scales with statistics like Dexterity, Critical Change, Critical Damage, etc - by allowing you to attack more times per second. In your second instance, you hit a mob with LS, LS spreads, you then hit the mob it spread to manually with LS. In this instance the second mob will have their LS debuff refreshed. 
+
+How can I get past "Updating setup files..." when reinstalling Diablo 3, and what is error BLZPTS0007? 
+
+Belial - Enrages after three minutes in phase 3, increasing the number of green pools spawned, which will be spawned across the entire platform. 
+
+There is the 'current' copy of the launcher in the Diablo 3 installation folder, so provided you have write access to the above locations on the new computer running this will re-create all of the required folders and re-download all of the required files for the Battle.net agent. No, Spirit Vessel is not affected by the cooldown reduction of Grave Injustice. Which is a little counter intuitive, as the text on Grave Injustice would indicate that all abilities have their cooldowns reduced: Blizzard want you to farm elite packs rather than bosses and have adjusted the guaranteed drops from bosses and elite packs in the 1.0.3 patch:

@@ -1,0 +1,27 @@
+Reinterpret the conditioning factors of Verner's Law. 
+
+A couple of very important notes. 
+
+Now about the root vowel. Usually the long u is not reconstructed as a vowel phoneme in the PIE. Since in Sanskrit and Lithuanian we have a long root vowel – and “y” in Slavic, we need something to make our short u long. If you subscribe to the laryngeal theory, obviously you propose a laryngeal H (capital H means unspecified); some researchers propose h3 here. So, now, at this stage, we reconstruct NOM.SG. as *seuHnus (or *seuh3nus). For weak cases, we could reconstruct the zero-grade stem *suHn-eu or rather *suHn-ou (other variants: *suh3neu, *suh3nou). Here's a partial paradigm for this noun (singular): 
+
+It's not entirely clear what you meant there. If you are talking about the English word "god", then why would you expect to come across an English word in a Latin or Greek text? If you are talking about the concept of "god(s)", then your assumption is inaccurate. It is a well-known fact that various Indo-European peoples had gods, attested by names of deities (Jupiter, Zeus, Perkunas etc.) and the word 'god', e.g. Latin 'deus', Vedic 'devas' etc. As a matter of fact, Father Sky is a very common deity in many IE cultures. A common motif is the main god fighting/killing some chthonic creature (a snake or a dragon). 
+
+Chambers 1861 lists hygiene, with other variants hygieina, hygieine (all with [aɪ]?). 
+
+The term "aurora borealis" was arguably first used by a French scientist Petrus Gassendus aka Pierre Gassendi in 1621, in his treatise "Physics." For further discussion, see Siscoe, George. 1986. An historical footnote on the origin of 'Aurora Borealis.' In History of geophysics, volume 2 
+
+First, gone is the time of the notorious Neogrammarian motto "sound laws have no exceptions." See Hoptman 2002 and Tsimmerling 2007 for more exceptions to Verner's law; Bernhardsson 2001 for a possible explanation. 
+
+It’s an athematic noun, which means that endings were added directly to the stem (sunu-) without an intervening thematic vowel. Obviously, it is also an u-stem. 
+
+Mallory and Adams (2006) argue that "consensus is probably still in support of projecting an original meaning of 'inland body of water' that was changed to 'salt water sea' in some language groups, e.g. Celtic, Italic, and Slavic" (p. 130). In support of their claim they point out the following: 
+
+However, in the (PIE) daughter languages the root didn’t ablaut already, cf. Sanskrit sunus, Lith. sunus etc. (sorry, no diacritics). 
+
+Now about "Gad" and English "god". The wrong assumption here is what Yuri Otkupschikov called "chronological scissors" (chronological disparity). You are comparing words that don't belong to the same time period. Yes, in OE the word was "god" but looking at other Germanic languages you can't help but notice that originally the root vowel was not "o" but rather "u", e.g. have a look at this. 
+
+Ernout & Meillet 1985/2001, "ce dernier [obs-; Alex B.] usité seulement en composition; [..] il est souvent réduit à os-" (p. 454). 
+
+As for aufero (and aufugio), here's what you can find in de Vaan 2008: 
+
+Weiss, Michael L. 2011. Outline of the historical and comparative grammar of Latin. Ann Arbor: Beech Stave Press.

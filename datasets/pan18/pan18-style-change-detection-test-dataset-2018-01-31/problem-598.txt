@@ -1,0 +1,19 @@
+First, the construction phase: In order to understand the cast system you need to dive in the object model. As complete as this may seem, I'd like to point out that I have happily skimmed any multithread issues... read Alexandrescu's Modern C++ to learn more! When I change a header file, it typically requires recompiling a number of sources files (those which include it, directly or indirectly), however it seems that cmake only detects some of the source files to be recompiled, leading to a corrupted state. I can work around this by wiping out the project and rebuilding from scratch, but this circumvents the goal of using a make utility: only recompiling what is needed. Regarding the local static, I haven't use Visual Studio for a while, but when compiling with Visual Studio 2003, there was one local static allocated per DLL... talk about a nightmare of debugging, I'll remember that one for a while :/ 
+
+Disclaimer: I tried to search for similar question, however this returned about every C++ question... Also I would be grateful to anyone that could suggest a better title. 
+
+The initialization is usually the easiest thing to correct. As both methods suggest, it's simple enough to initialize on first use. The following program compiles with both gcc and clang, but is this actually standard C++11 or do both compilers choose to support it for convenience? The grammar for binary fold-expressions must be one of: 
+
+Hence, the two mean the same thing, and the current C++ standard term is forwarding reference. The paper itself articulates why "forwarding reference" is a better term than "universal reference." This example consists of multiple files: 
+
+Unless both pointers point to elements of the same array object, or one past the last element of the array object, the behavior is undefined. This implies that the following is well-defined code: The term "method" is often used to discuss C++ code. Does the standalone term have a well-defined meaning in C++ or is it ambiguous? Is it acceptable to use the term by itself, or should it be qualified (e.g. a "class method" or "virtual method"), or should it be simply avoided altogether? 
+
+For some containers that you want to write, you may want to use raw pointers for storage. 
+
+Also, if anyone knows how _ftime works please let me know. Without an extra signalling mechanism using something like named pipes, there is no way of safely signalling that a shared memory block is As you say, a typedef won't help you here. I can't think of a better way immediately, however if you go with your wrapping in a struct/class option you could use a conversion operator to eliminate the member method or function call. 
+
+I was rather surprised to learn that I couldn't forward declare a class from another scope using the scope resolution operator, i.e. 
+
+I'd imagine it is a compiler misgiving. You are in nested scope and the compiler is probably checking for a return statement in function scope. You can't just dump an arbitrary object if you want it to be human readable. 
+
+In my MFC program I am using a splitter to create two panes. I now want to split one of these panes in half again and put in another view, can someone talk me through how to do it or point me in the direction of some code?

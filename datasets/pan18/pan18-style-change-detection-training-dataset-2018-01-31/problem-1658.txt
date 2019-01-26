@@ -1,0 +1,19 @@
+Part of the argument (if I understood it correctly, which is unlikely) hinges on the fact that in order to be a valid 'thought', an idea must be related to something in reality. Because the brain has a thought about itself, it must exist in reality. 
+
+Assuming that thoughts do exist, what about ideas, which are not related to specific brain-states or physical processes? Does a thought's existence depend on its physical representation in a human brain, or computer chip, or any other piece of physical reality that encodes for this thought? If not, what about a thought or idea that has never been thought by anyone, or has never been represented in any physical manner in the history of the universe? 
+
+Writing it in this way, the argument seems so obviously incorrect that I'm sure I'm missing something. How does Putnam define 'thought' in a way that makes it necessary for a thinking thing to exist as it perceives itself? 
+
+As for Yudkowski's belief in mind uploading, that belief is quite common among functionalists. A lot of people, including Chalmers, Marvin Minsky, and Google's Ray Kurzweil, believe that. 
+
+And he meant it to be meaningless not in the sense of being trivial or a truism, but in the sense meant by Chomsky who compared such a question to asking whether submarines can swim: 
+
+David Chalmers, who splits his time between being a property dualist and a panpsychist, addresses this problem in The Conscious Mind, in chapter 5 - The Paradox of Phenomenal Judgment 
+
+And you can probably find more pointers in the SEP entry on personal identity: http://plato.stanford.edu/entries/identity-personal/ 
+
+And my request is for references to discussions of this curiosity by philosophers, if such discussions exist. 
+
+Here is the quote by searle from Minds, Brains, and Science (1984, p. 35): "in one sense, of course, we are all machines. We can construe the stuff inside our heads as a meat machine. And of course, we can all think. So, in one sense of 'machine', namely that sense in which a machine is just a physical system which is capable of performing certain kinds of operations, in that sense, we are all machines, and we can think. So, trivially, there are machines that can think." There's not much more us guys here can offer, until you refine the question. Since you are asking about the nature of consciousness, and not bliss or existence, we can bracket those parts for now, which leaves us with: Finally, as to the question of how consciousness "stimulates the behavior of living beings"-- this is largely, but not universally, accepted; there are some who argue that consciousness is purely epiphenomenal, and has no causal role in behavior. 
+
+Since the question was reformulated a bit, I thought I would flesh out my answer in terms of the new portion, the question of how consciousness "pervades all of creation and stimulates the behavior of living beings." The short answer, for the vast majority of Western philosophers, is "it doesn't." All sentient beings, by definition, possess consciousness, but this does not mean that they all partake of (the same) consciousness, or that consciousness as such pervades all conscious beings. What's more, for many philosophers-- let's say Husserl, and those that follow him-- each individual consciousness is radically unknowable by any other consciousness. There is literally no way that anyone else can have direct access to my thoughts. Furthermore, for many philosophers-- let's say those influenced by Freud, to begin with-- no individual consciousness is completely transparent to itself. In other words, there is literally no way that I can be fully aware of the contents of my own consciousness.

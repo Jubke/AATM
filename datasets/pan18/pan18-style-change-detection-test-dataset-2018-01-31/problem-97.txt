@@ -1,0 +1,27 @@
+What gets counted as "Healing Done" in the League of Legends stats? The scoreboard after a game shows me doing all of 71 healing (some strangely small value), and other non-overt healers doing conspicuous amounts. So given no diminishing returns (minimal unless stacking multiple buffs) and no lag, spamming W as much as possible will make you go faster, increasing your movement by 20% of your unbuffed run speed per cast. If you spend any more than ~200 ms over the 0.5 s minimum root time, then it's a loss. 
+
+You spend 0.5 seconds rooted for a 35% boost for 2 seconds. Assuming your unbuffed speed is R units/second, you'll move while you could have ran normally for 2.5 seconds and have covered 
+
+The enemy Graves had the summoner spell Heal, which perhaps accounts for his healing, but how did Malzahar or Zilean do that much healing? Does spell vamp count as healing but not life steal (I had Bloodthirster for over half the game and easily healed thousands with it)? Does shielding count (or what part of the shield gets beat on)? 
+
+The base statistics of the champion 
+
+Of course there are always some exceptions to this. As you have seen, Alistar is a relatively decent jungler. He has decent base armor and his passive gives him AoE damage while his Triumphant Roar will heal him up and give him a lot of sustain. His Headbutt and Pulverize skills are very valuable crowd control that can work very well in ganks. 
+
+There are some situations in which if Whimsey is cast at the last possible moment on champions with teleporting type skills (like Pantheon's Grand Skyfall), it would not disrupt it but instead teleport the enemy champion in the polymorphed form. This can be quite humorous when suddenly a cupcake drops from the sky to waddle around you. 
+
+Yes, as long as you are still in range, Nocturne will indeed still fear you regardless on the fact that he is a harmless squirrel. But if you time Whimsey correctly (it takes 2 seconds for the fear to come into effect), you can cast Whimsey right as you become feared so he can't attack you while you are feared. 
+
+Miss Fortune unfortunately lack such utility. Her only skill that can aid in her escape is her Make It Rain which damages and slows enemy champions in a small area. However, note that her Make It Rain can also briefly provide vision during the duration of the skill if cast in a bush. Although to be fair her passive gives Miss Fortune up to 70 bonus movement speed. This is lost however if she is hit even once(this will mostly likely happen during a gank). In lane, you want to ward drake at around level 5. This is when the junglers will be fighting over control of the dragon. It is hard to say how much exactly, but probably 50-75% of my gold goes on wards when I play support. It isn't really a matter of how much you spend, your main role is to make sure key points are always warded at certain times. 
+
+I always prioritise wards over items. No exception. If you have spare wards in your inventory and the map is appropriately warded then spend spare gold on an item. Try to get a Philosophers stone as early as you can, but you may not be able to afford it until your second recall. That is fine. Warding the brush in lane gives your carry a big advantage, don't put off buying extra wards for them and holding off those items for a bit longer. If your carry has an advantage over the enemies, then your entire team is at an advantage. 
+
+Source: http://leagueoflegends.wikia.com/wiki/Spell_vamp I think I covered most of the good solo tops, but to be honest it falls down to either tanky champs who can handle the harass and are hard to push out of lane, damage dealers with life steal that are hard to harass or casters with inbuilt sustain. 
+
+She has an amazing escape mechanism using Twilight shroud 
+
+As for champions, some are obviously better than others, and as already mentioned, sustain is THE main thing you need, along with an ability to help you last hit. 
+
+They have to be on your friend list as well as in the same region as you for this to work. I understand those items are really generic, but if you play defensively they can keep you in lane indefinitely. Do NOT pick a champ that can be ignored at a tower 
+
+Unfortunately players in different regions will not be able to interact with each other in any way. This includes: If you decide to create a new account, bare in mind that playing in the wrong region could also give you in game latency issues, which will have a negative impact on your gaming experience, depending on the level of the problem.

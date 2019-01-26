@@ -1,0 +1,45 @@
+Here is a picture from the 1983 catalogue: 
+
+In the wet, with regular brake blocks, the alloy rim will have a better coefficient of friction than the steel rim. This much is known and these brake blocks are the wrong ones for your steel rims. You need the brake blocks designed for the job, the ones with a leather face: 
+
+These levers were marketed as 'Safety Levers' and they were a requirement for bikes imported into the USA for a time. Exactly what the law was requiring the 'Safety Lever' and when it was no longer a requirement is a matter for further research - not a lot exists online. 
+
+Just leave off the bolt and bracket on the (left) noodle side. Easy. A Two minute job, no expenditure involvified. 
+
+What you may also want to look for are the very early cantilevers that stuck out a long way. Dia Compe 983's are the classic example. There is a problem with these if you are using panniers on the back and if you have anything but a small frame size - they poke out into the pannier bag and get wedged on. 
+
+As for getting hold of some of these early cantilevers, try your LBS as they may have some knocking about in the workshop that they may let you have for a small fee. 
+
+I know that answer isn't too good. Let me post another... 
+
+Don't let their hum-drum appearance put you off - if you have steel rims they are a performance product. 
+
+Furthermore, Shimano did a 'Microsoft' on the OEM market, to use the indexed gears you had to have the whole groupset. There was no mix and match like you have today. 
+
+Just to clarify, I am after the second of these two types: 
+
+I am not too keen on going second hand because I want a nice new brake complete with pads. 
+
+I am looking for recommendations for a rear brake for a road brake. The problem is that I can see plenty of options for the newer 'Allen Key' style but not the older 'nut/bolt' style. I also want just the rear brake rather than a set, drop is 'normal' for a road bike rather than extra short/long reach. 
+
+Also, make sure your brakes are properly adjusted: http://sheldonbrown.com/canti-trad.html http://www.parktool.com/blog/repair-help/cantilever-brake-service is a good link to look at as well (Specifically see the "Pad Wear" section). If your brakes are rubbing on the brake tracks, you'll pick up more cruft (and wear out your rims), for example. 
+
+If its not cold, steps 2,3,4 are still good ones to follow for troubleshooting sticky V-brakes. 
+
+Finally, theres the problem of putting things together. You may need some help here, as you may not have all the tools on hand for it and the investment in these specialized tools may not be worth it. For example, you may need a bottom bracket tool, cassette tool, chain whip, cable housing cutters (If you run a brake, you can get away with rougher cutting than for shifter cable housing (which fixies don't have), but its still a PITA to cut without the proper tools) etc. Also, if you need to cut your fork at home, its a lot nicer when done by the bike shop instead of pulling out a hacksaw at your house since they typically have nice guides for cutting the fork (with a hacksaw). Sometimes you can borrow these tools from a bike shop or a bike co-op and save yourself some of the expense. Also, you need some expertise to put the bike together in the first place (i.e. some knowledge on how the parts go together and how to adjust them properly, such as chain tension, which is critical on a fixie). Also, you'll make some mistakes (hopefully not forgetting to grease some thing or cross threading things), so you also need to allot time to deal with that. Even once you get the parts put in, you have to tune it to your riding style, so it could be a decent amount of time to put the thing together. 
+
+If you want the in depth on 'coefficient of friction' as it applies to bike wheels and different materials, here you go: 
+
+Since you have gone for steel rims and need to stop in the wet and are unlikely to upgrade to alloy rims straight away, I think you are deserved of a practical answer... 
+
+Most racks are available in 3-point options, the idea being that 3-point clamps to the mudguard bridge. Yours will be a special 3.5 point rack version. It will work fine so long as you don't have more than 25Kg on the back and tighten up the bolts sensibly, making sure there are quality washers on there too (or should I say washer). 
+
+Don't let their hum-drum appearance put you off - if you have steel rims they are a performance product. 
+
+As for getting hold of some of these early cantilevers, try your LBS as they may have some knocking about in the workshop that they may let you have for a small fee. 
+
+You can run them just on the rear wheel first, in that way you can see how they work and use your existing rear pads on the front when the existing set run out. 
+
+I know that answer isn't too good. Let me post another... 
+
+Typically these are nice and cheap, they also last a very long time. In the wet they work remarkably well on steel rims, although it can take a wheel revolution for the braking power to kick in. To work around this 'turbo lag for braking' you can put the brakes on extra early to clean the rims of water and get into a habit of having your brakes ready on tricky descents, junctions etc.

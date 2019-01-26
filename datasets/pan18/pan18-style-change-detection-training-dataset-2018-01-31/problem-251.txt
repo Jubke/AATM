@@ -1,0 +1,45 @@
+There's also a list of every block in the game with it's explosion resistance, but it would probably look horrible copy and posted in this answer. 
+
+According to my testing, minecraft momentum is preserved when a chunk is unloaded. EthosLab noted that minecart momentum is preserved in one of his videos, but I tested it myself just to make sure. 
+
+Because calculating his reach based on exactly where his arm is relative to the physics engine and how far exactly I reached on the green block would be difficult, I'm going to estimate that he reaches approximately 3.6 meters. 
+
+As Amazed stated, you can also simply close the inventory window while holding the stack of items. 
+
+You could also use a system of water canals to try to bring sheep farther away closer, making the task of pushing them into the pen less cumbersome. 
+
+I saw an interesting design somewhere where the player made an enclosed pen using fences, and put stairs around the edges so the animals could be pushed up the stairs and into the pen, but couldn't escape. 
+
+(Mouse is where the floating stack of dirt on the left is.) 
+
+Mobs spawn in this gigantic tower... 
+
+The Minecraft Wiki article was updated with even more in-depth information on explosions: 
+
+Slimes spawn within 16 blocks of bedrock, in any light conditions. I think they were removed in the 1.2 Beta, but it is confirmed that they have returned in 1.2_01. 
+
+In my testing, when mining directly in front of your character (at head level) and when right against the block you are mining, you can mine four blocks ahead of your player. (I was right against the red wool block, and I couldn't reach the cyan block at the end.) 
+
+As of Minecraft 1.0, the reach distance seems to have changed. It appears to be 4 metres (blocks) in SSP (survival single player), and 5 meters in multiplayer (most likely to compensate for the lag, making combat and block placement easier). 
+
+Things that will stop spiders: Things that won't stop spiders: 
+
+...and hit these fences. The water then funnels the items into the middle (which then connects to another stream flowing the lava you can see, to kill any mobs that fell through the middle). 
+
+To further research the reach of the character, I experimented to see how far I could reach on the green block while still being able to mine it. I was able to reach about two-fifths on the block before I couldn't mine it anymore. (My cursor is on the very furthest point that I could still mine the block.) 
+
+This answer has gone through many, many edits, so I decided to overhaul it. (Minecraft Forums user Thescorpi0on did a number of tests on this.) 
+
+If you're fine with doing so, you could open up your world in one of the programs listed in the Programs and Editors page of the Minecraft Wiki, to view your map and attempt to figure out where your home is in relation to where you currently are. Eihort looks like a great tool (and is compatible with Windows, Mac OS X, and Linux), because it shows the coordinates of where you are currently hovering (so when you find your house, you can easily locate it in-game via F3). If you don't need something quite that powerful, mcmap and Tectonicus are also good. 
+
+Slimes spawned fairly frequently back in Alpha, but I believe Notch reduced the spawn rates by quite a bit since then. The 1.3 update increased the slime's spawn rate yet again. 
+
+If you put a fence at the base of the fall, mobs will still take their regular falling damage. Due to the fence taking up 1.5 blocks of space (this is why you can't jump over fences), the mob will hit the fence instead of the water breaking the fall. 
+
+According to the Minecraft Wiki, aggressive mobs won't wake you if you surround your bed with torches. Here is what it says about the mob behavior: 
+
+You can go to your inventory screen by pressing E (the new default key), click on the stack of items, move your mouse outside the inventory pop-up, and click. 
+
+Trees can definitely be grown underground with sufficient light. According to this thread on the Minecraft Forums, you need 7 blocks of space above the sapling. (Perhaps this condition isn't being satisfied.) 
+
+Edit: As of Minecraft 1.5 or so, Slime spawning has changed yet again. Right now, Slimes will only spawn in certain chunks of your map, depending on the map's seed. There are tools online such as this one that let you input your seed, and it will output the chunks of your map that will spawn Slimes.

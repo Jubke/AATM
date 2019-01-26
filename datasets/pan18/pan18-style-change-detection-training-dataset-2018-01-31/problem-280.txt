@@ -1,0 +1,47 @@
+I'm pretty sure that all containers in your house are supposed to be safe, there should be no difference between cupboards, dressers or chests. I've been keeping my stuff for a long time now in all kinds of containers in my home, nothing has vanished so far. 
+
+I wasn't fast enough to get a screenshot of this loading screen 
+
+The first giant I met killed me with one hit, flinging me high up in the air. Now at around level 40 I can kill a giant with 2-4 hits of my daedric mace. 
+
+This is possible from the beginning, I'm running around electrocuting enemies with my right hand and blocking with a shield on my left hand pretty much since the beginning of the game. 
+
+The dragons are part of the main quest, they are more closely adjusted to your level as the developers also had to expect some people directly starting with the main quest, not earning levels before that with side quests. The giants are passive, you can avoid them pretty easily. So having them far above your level doesn't stop your progress at all. 
+
+Enemies in Skyrim are, within certain bounds, adjusted to your own level. So the first dragons you meet will likely be pretty low level, as you're probably still at a very early level yourself. 
+
+First, about horses and houses: The capital cities for each major hold (Whiterun, Windhelm, Riften, Solitude, Markarth) have both a house available for purchase and a stable. The stables are located just outside the main city, and horses are always available for purchase at a price of 1,000 gp. In order to purchase a house in the city, you are generally required to complete a quest for the Jarl, or another task of great significance to the hold. 
+
+So, it seems the only way to get out of Skuldafn if you can't handle the heat is to re-load from a point before you went to Skuldafn. 
+
+*The quest to join The Dark Brotherhood actually starts in Riften. 
+
+I power-leveled a character to 81, and gave her a full complement of Stealth perks. Additionally, she has some perks added to Smithing and Enchantment. 
+
+He'll have a note that simply has a black hand-print, and the words "We know." 
+
+All house enhancements must be purchased from the Jarl's steward in the same hold, who can usually be found in the Jarl's palace. 
+
+I've also done a bit of testing on some other suggestions. 
+
+As far as I can tell, there's no way to leave Skuldafn until the quest is over. 
+
+If you side with the aggressors: - The pacifists will retract their hospitality. This will make it more difficult for you to discover the location of Word Walls. - You will no longer be able to receive meditation bonuses to Shouts, from the target. - The aggressors will welcome you once again, enabling the completion of associated side-quests. - One of the aggressors will offer to take bones and scales in order to create a potion which grants a permanent perk for 25% melee damage reduction from Dragons (currently, however, the potion is bugged and does nothing). - The pacifists will not host a peace treaty (if it has not already happened), making the Civil War questline mandatory to complete (if not already done) in order to proceed with the Main Quest. If you side with the pacifists: - The quest to resolve this conflict will not disappear until you expressly commit to this side via dialog. - The pacifists will continue to assist you in finding Word Wall locations. - The target will still provide meditation bonuses for Shout words. - There will be an extra cutscene after Alduin's defeat. - Open side-quests for the aggressors will remain uncompleted. - You will not be able to have the dragon scale/bones potions created. 
+
+To activate the spell or block with your shield the mouse buttons are reversed from assigning, you activate your right hand with a left lick and your left hand with a right click. 
+
+There is also a loading screen tip saying 
+
+The dragons are part of the main quest, they are more closely adjusted to your level as the developers also had to expect some people directly starting with the main quest, not earning levels before that with side quests. The giants are passive, you can avoid them pretty easily. So having them far above your level doesn't stop your progress at all. 
+
+I had the same issue, it automatically picky my Gamepad as input on first starting Skyrim. There was an option called "360 Controller" in the System->Settings menu, after disabling it Skyrim defaults to mouse and keyboard on every start. 
+
+I wasn't fast enough to get a screenshot of this loading screen 
+
+It should look like this, where both the shield and the spell are marked in the inventory and favorite list: 
+
+Enemies in Skyrim are, within certain bounds, adjusted to your own level. So the first dragons you meet will likely be pretty low level, as you're probably still at a very early level yourself. 
+
+This is possible from the beginning, I'm running around electrocuting enemies with my right hand and blocking with a shield on my left hand pretty much since the beginning of the game. 
+
+Left clicking assigns the item or spell to your right hand and right clicking assigns it to your left hand. So you want to right click on a shield and left click on a spell.

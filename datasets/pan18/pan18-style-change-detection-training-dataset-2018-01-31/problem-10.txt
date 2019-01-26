@@ -1,0 +1,55 @@
+Assuming you'd like to be Scrum Guide compliant. 
+
+Correct. For bug handling in Scrum, take a look here. 
+
+Comparing to monday-friday the advantage of mid-week cycle is that there is a weekend in the middle of the sprint, when already some issues should have been discovered. 
+
+For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now. 
+
+Identify and order the major items that went well and potential improvements; and, 
+
+By definition each and every Product Backlog Item should be estimated. Therefore each and every Sprint Backlog Item should, as well. 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+Create sense of freedom by introducing The Core Protocols, especially Pass and Check-In protocols. That will give them a safety belt when needed, it's universal and can be used beyond Scrum. You, on the other hand, would be more encouraged to ask the team and engage them, as they'll just simply pass if not interested. 
+
+My team (Devs, Analyst, QA, PO) meets for 30 mins every day or so to discuss upcoming stories, their acceptance criteria and how we're going to test them. This gives everyone the opportunity to ask questions and for the Product Owner to be confident everyone understands what they're asking for. 
+
+Those are just speculation though. Ultimately, you won't know the root cause unless you all sit down and discuss it. 
+
+We ended up with a number of smaller stories which, while quite technical, all had an outcome we could demo to a non-technical product owner. To get there, we looked at what steps the team needed to take to get there technically and identified where there were outcomes that the PO was happy to verify. 
+
+Not ideal but that's the best approach we've managed so far. 
+
+3) Define the interface upfront. If, for example, part of Project I is to create a service that A and B will consume, define what that service needs upfront and ensure that any changes to the interface are communicated between teams so they can adjust as they go. 
+
+In every team I've been in that's used a virtual board, people update it very infrequently (typically in a rush before standups after the Scrum Master has had to go and ask them to do it) so it doesn't always have a good picture of what's going on. 
+
+Teams also invite members of other teams to showcases etc. 
+
+This used to be OK when we were doing long sprints (4 weeks) and there was time for some back and forth, between the designer, UX and Marketing about what the final design should be. Even in long sprints though, if we were doing very different design to what currently existed (i.e. brand redesign), stakeholders would want more time to think than there was in the sprint. I think this approach can work if your sprint length is reasonably long, you're working to strict brand guidelines and your PO can sign off designs themselves without having to go to other stakeholders 
+
+This works for us but I advise you go through the same process as we did and examine what value you do get out of your current process before making any changes. 
+
+The important thing is that you look carefully at why you do those things and replace them with something else that gives you the same result, in a way that works better for your team. 
+
+2) Since Project I has no external customer value instead of doing it as a separate project, have Projects A and B pick up those elements of it they need when they need them for the customer facing work. 
+
+That's not always easy with 3rd parties with limited availability. An analyst can make a good customer proxy in these cases. Getting them pairing with dev/QA is better than getting them to write a doc. 
+
+If your team is consistently struggling to meet commitment without sacrificing code quality, I'd suggest you discuss this in your next retrospective. 
+
+To communicate a story to the team and allow the team to question the PO. To force a conversation about the complexity and risks involved in a story. To ensure that a story is not too big to be worked on in a sprint. So, we looked at ways we could generate the same outcomes in different ways, stopped doing planning and introduced: 
+
+Create a plan for implementing improvements to the way the Scrum Team does its work. Was that happening on first few retrospectives? 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+I'm far from advocating working on weekends, but as software development is mostly thinking I have experienced that some developers just thought over some issues during the weekend. 
+
+By definition each and every Product Backlog Item should be estimated. Therefore each and every Sprint Backlog Item should, as well. 
+
+For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now. 
+
+Comparing to monday-friday the advantage of mid-week cycle is that there is a weekend in the middle of the sprint, when already some issues should have been discovered.

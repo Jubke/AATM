@@ -1,0 +1,35 @@
+The Granddaddy of them all - Stack Overflow - doesn't have the requirement that there's one (and only one) acceptable answer. There is no rule that states that the questioner must accept an answer. In fact all the green acceptance tick means is "this answer helped me the most". It can be awarded to any answer and that answer doesn't have to be the "best" answer. 
+
+If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+Having said that, I'm not in favour of rep for comments. It would change how they were seen and used. They are there to ask for clarification etc. and as such can become obsolete and should be deleted. If they earned reputation people might post even more "clever" comments to try to earn that reputation. 
+
+All we could see was an indicator that the comment had been edited. 
+
+However, what one person regards as offensive isn't necessarily the same as what the next person finds offensive so don't be surprised if the comment isn't deleted. 
+
+This is a win-win all round. If you are correct you get up-votes, possibly the acceptance and maybe even a Necromancer badge. 
+
+Rather than 1 point for a single up-vote on a comment perhaps if it was 1 point (or 5 points) for 10 or more up-votes that might work. 
+
+Up until October 2016 moderators couldn't see the version history of comments, though the revision history is kept in the database. 
+
+To any problem, programming or not, there are potentially many solutions and the Q&A format of Stack Exchange is working just fine. The various answers compete for votes from the rest of the community and the one(s) that people think offer the best solution to the problem rise to the top. 
+
+Part of the ethos of Stack Overflow is (or should be) that no question is too simple to ask. After all we were all novices once, and we will be again when some new technology comes along. 
+
+Then the moderators will be able to spot if there's a pattern and deal with it. 
+
+However, like with down-votes, don't take comments to heart. 
+
+Reference the other answer, explain why you think it's wrong and supply your answer. 
+
+That's exactly the right thing to do. Yes, it sucks that you've been made to look a bit foolish or potentially rude, but comments are, as we keep saying, not meant for ongoing discussions. They are ephemeral and can be deleted (for various reasons) with no notice. 
+
+I'd only go for it if there were a really convincing argument that it would work. 
+
+What you could have done was post your own answer that corrected the fault. 
+
+If there are a lot of comments it might be better to raise an "Other" flag on the post explaining that all of the comments are obsolete. Don't say anything in public, but in the flag say something along the lines of 
+
+Whether you do this, rather than editing the answer (which I did initially consider suggesting), is ultimately your decision. However, I'd weigh up several factors - extent of edit, age of answer included and each case would be unique. An edit has to be clear enough for two other users to understand and approve, so make sure you're clear in both the edit and the edit comments.

@@ -1,0 +1,55 @@
+The try-with-resources needs API 19 and above: 
+
+so I don't get what the "requestCode" is for... 
+
+Background I've recently migrated my app to Android-Studio. I had some issues doing so, but I got over them eventually. The purpose is that no matter in which scope I am in, I can always get a reference to the application context. I think it's safe, since if the system closes the application, the static variable is also gone till the next time the application starts again, which will initialize the static variable again. 
+
+If you wish to use AsyncTaskLoader, here's a nice sample for you. As an example of code, here's what I'm thinking about: 
+
+The question Why does it occur? Did I use it correctly? 
+
+What if I create multiple alarms with the same "requestCode" ? do they override each other? How can I mimic them on pre-Lollipop versions, except for the special effects (ripple etc...) ? 
+
+Did you run the app that contains this broadcastReceiver before installing the other apps? 
+
+It seems that on the posts I've read about it, nobody had any problems with it and all report a much faster emulator. If so, is it also safe for any other class to have any kind of reference to the application context? I mean, can there be a memory leak if I have a reference to the application context in any kind of class? 
+
+First you need to get all the views' indices that are shown, and then you need to go over each, and use the viewHolder of each view: If anyone knows about what the "#" is, and how to handle it, please let me know. At the bottom, after a lot of errors of this kind, I see this: I know that usage of static variables on Android is quite risky, especially if you reference them to activities. However, if I have a class that extends Application (let's call this class "App"), is it safe to reference to the instance of this class? https://code.google.com/p/android/issues/detail?id=181474 
+
+EDIT: reported about this issue here: another alternative is to use a more extensive way , used on the showcaseView library, here . 
+
+Such a thing is shown on the contacts app so that you could scroll easily to specific letters. 
+
+I'm using PendingIntent for alarms via AlarmManager. 
+
+I'm talking about this and this. 
+
+To me it seems as if Lint is preventing the exporting of the APK, and that the reason is that I didn't translate all of the strings. Is that true? 
+
+Here's a table I've made out of the 5.0.1 emulator: https://docs.google.com/spreadsheets/d/1Hx1CTPT82qFSbzuWiU1nyGROCNM6HKssKCPhxinvdww/ 
+
+At first I thought that in order to cancel previous ones, I must provide the exact requestCode that I've used before to start the alarm. 
+
+EDIT: here's the simple algorithm i've suggested: 
+
+Have you also tried this (taken from Android website here) : Background On ListView, you could have a fast scroller which allowed you to drag a scrollbar to easily scroll to wherever you wished (using fastScrollEnabled attribute) you can create an array of characters which has all of the characters that you wish to allow to be in the random string , then in a loop take a random position from the array and add append it to a stringBuilder . in the end , convert the stringBuilder to a string. 
+
+I know it's not recommended to use this solution, but we must have the app ready to work there at least temporarily, till we work 100% on all of the things that should change for Android Marshmallow, and we don't want surprises in the form of crashes. But now problem is, because of python script and my android project continuosly accessing one xml file (One resource so I think concurrency problem), it takes so much time to get data from xml file and write data to xml file through python script. So, Is there any simply way to communicate between python script and android app so I will avoid the use of xml file and directly used the data send to me by python script? And also it gives me faster execution. It happen only if you are starting Activity A again from Activity B. Is there anybody knows how it works or what happens? If Am going wrong then please guide me. Thanks 
+
+So for that you have to declare your parent Activity in tag Activity with attribute 
+
+Bad practice of use of AsyncTask, Your TextView Attributes need to be something like, 
+
+In my android project I am reading a xml file which are continuously updated by one python script. and for update data I am continuosly reading the xml file and whenever the data is updated in xml file by python script I used that in my app. this means that the version of google play service you included in your app is higher than the one currently installed on the users device. the user needs to update their google play services in-order for your app to work correctly. 
+
+v7 includes the v4 support library so there is no need to have it in there again 
+
+I tried changing the style of the spinner using this 
+
+I have never been good with command prompt stuff so I dont know if that was just a noob mistake or what but just in-case anyone else runs into the same problem 
+
+There is no material based theme for a dialog in AppCompat yet, see here 
+
+The only way I got the arrow to turn white is to add the spinner programatically and not in xml so it looks something like this 
+
+Check and make sure that you do not have another values folder that references theme.styled and does not use AppCompat theme

@@ -1,0 +1,19 @@
+Category Theory is indebted to [structuralism] in mathematics, particularly the idea of a homomophism which is a structure preserving map which first appeared in algebra. There was a parallel movement of structuralism in the humanities which can be traced back to the structuralist linguistics of Saussure and semiotics. 
+
+What can it mean that the Number Theory is falsifiable? Certainly a tightly-focused question will either be true or false. More general conjectures & ideas will be true when enunciated as the mathematical landscape is seen and a new shape formed. For example the Langlands programme (higher dimensional representation theory). Significance through aesthetics & ethics seem the key theme. The serious intent (ethic) towards the good & beautiful (aesthetics) towards the reverance & delight of contemplation. Platonism in essence. 
+
+Because Category theory constructs a category of all objects satisfying a predicate - it would need to use classes which aren't available in ZFC. So already we see it break out of mainstream foundations. Theorists distinguish between small & large categories - that is those categories which have a set or class of objects respectively. 
+
+The sketch of the proof in the article above doesn't establish a sentence that is true but that it is undecidable (neither proveable or refutable - note this is different from another notion of undecidability in computability). 
+
+Is this this actually possible? 
+
+This programme is still continuing - with for example various efforts to place QFT, or the path integral on a amthematically precise bearing. 
+
+Each topos has an associated internal language, this is intuitionistic rather than classical (so the law of the excluded middle doesn't hold), and higher-order. This holds because each topos is a heyting category, which means that its poset of subobjects for any object is a heyting algebra. (Note while classical propositional logic is modelled algebraically as a boolean algebra, intuitionistic propositional logic is modelled by a Heyting algebra). Its higher order because each topos has exponentiation, and this translates via its internal language that predicates of predicates (and so on) are available. 
+
+One could argue, that the axioms are derived empirically, by understanding what important questions can be cast into this kind of language, but surely logic remains a priori. 
+
+Individual elements of culture must be placed within a System/Structure. The individual elements of culture must be understood by their inter-relationships within this System, and not by their individual identity, that is their identity is supressed. and compare this with Category Theory: 
+
+When I make a claim in a proof that a mathematical entity exists, is this no more than saying that the theory I'm working within is consistent, and that all the steps upto that point in the proof are allowed moves in the theory?

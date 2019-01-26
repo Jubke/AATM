@@ -1,0 +1,53 @@
+We can rephrase it as: (F → G) → (¬G → ¬ F). That this holds is the idea of modus tollens. 
+
+You can use a parse tree for this. First you draw the parse tree, then you draw boxes around subtrees. 
+
+Some of the "16 possible compound statements" are in fact trivial cases (and also the ¬ appears twice). Actually, only five of the sixteen cannot be made with one of the standard five operators. See the following table: 
+
+Supposing the arguments were asymmetrical and the one form is indeed stronger than the other, we should be able to formalise them: 
+
+I'm helping in a computing science course about basic math, and last week someone asked me: 
+
+There is an 'interpretation' possible in which snow does not melt during the day in the Sahara / a human lives without oxygen / photons have no mass. That is because these statements can only be verified with a posteriori knowledge. 
+
+Logic symbols are extensively used, especially in programming languages. As a random example I have been working with lately, this 2014 paper featuring a new block cipher shows this very well in appendix H: 
+
+This does not only work for predicates that become stronger or weaker. If we have a strong predicate, that means the Yes-set is small. Since the No-set is the complement of the Yes-set, it has to be big, and therefore the negation of the original predicate (that is, the predicate of the No-set) has to be weak. 
+
+This is a variant of appeal to perfection, which itself is a type of false dichotomy. The general form of a false dichotomy is a forced choice between only two options, "it's either A or B," when it could in fact be C. In this specific variant the choice presented is between a perfect solution or giving up entirely. 
+
+One way of looking at philosophy is as "the mother of sciences," investigations of topics that have not yet submitted to successful empirical codification. Most, perhaps all sciences started as branches of philosophy, and transitioned over once they gained stable, replicable processes and results. It just happened more recently for logic than any other major science, which is why logic is still (for the moment) shared between both worlds. 
+
+This is one of the basic syllogism forms (Celarent / EAE-1). 
+
+If you clear out the word sober, the analogy is immediately much better. It now reads 
+
+However, this is not entirely a bad thing, since modern logic was created by substituting fuzzy natural language concepts with new, well-defined ones. 
+
+We do have to make some assumptions here. We have to assume that tournament play is what establishes who the "best players" are. Given that assumption however, we can infer that the best players do not play in all-female tournaments, therefore the overall standard of those tournaments is lower (at least if we judge the standard of the tournament by the standard of the best players, rather than by the average level of play, which could conceivably be higher at an all-female tournament, even given what we know). 
+
+Both arguments are equally unsound and weak. However, using other evidence (for example that nobody has ever seen a unicorn), we can say something about the probability of Alice's and Joe's conclusions: given the evidence that nobody has ever seen a unicorn, it is likelier that Joe is right than that Alice is right. This does not say anything about the weakness of their arguments though, only about the truth of their conclusions. 
+
+You can use a parse tree for this. First you draw the parse tree, then you draw boxes around subtrees. 
+
+It's somewhat peculiar that that textbook talks about validity without first defining it. It's a pretty straightforward definition, but usually these books are very precise. 
+
+But also think of bitmasks and other uses of logic in computing science. 
+
+These tables were made with CleanLogic. Disclaimer: I developed that. 
+
+I'm helping in a computing science course about basic math, and last week someone asked me: 
+
+This still has the issue however of the "drunk" stipulation on the right. Again, there's no obvious analog on the left, and again there's an illegitimate implication (that all gun deaths are results of the same type of flagrant misuse of guns as drunk driving is a flagrant misuse of a car). 
+
+Informal fallacies have fuzzy boundaries. This seems to me to be a variation on "cherry picking," which is basing a general conclusion on a few carefully selected data points (which may not reflect the larger trends). 
+
+However, this is not entirely a bad thing, since modern logic was created by substituting fuzzy natural language concepts with new, well-defined ones. 
+
+This is one of the basic syllogism forms (Celarent / EAE-1). 
+
+However, it's worth noting that the pdf linked in your second example appears to actually be a test from a course in basic logic. If you are already enrolled in such a course, your best bet is simply to complete it. 
+
+If you clear out the word sober, the analogy is immediately much better. It now reads 
+
+This is Skepticism. Personally, I believe there are good arguments against it (and against the particular argument you reference), but since you didn't ask that, I won't outline any of them.

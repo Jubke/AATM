@@ -1,0 +1,33 @@
+Starostin gives contradictory accounts: in Indo-European etymology page he gives the first variant, but on a page for Eurasiatic etymology he gives the second one. Possibly the vowel could be alternated in this root depending on meaning (to give birth/son), similarly to alternation in ret-/rot-. 
+
+And this can be supported by the tradition: 
+
+No, they are not borrowed, they are cognates. The Proto-Indo-European word was dusmenēs which meant "hostile" (from dus- "bad" and men- "think"). See Mallory & Adams. 
+
+In old Russian the word фрязь ([fr'az'], apostrophe means a soft consonant) was used to denote a westerner. Although the word is not used any more, it is kept as part of some place names, such as a town Фрязино. 
+
+I wonder if it is connected to the Thai farang which is also used to denote a westerner. 
+
+According to Mallory we have the following PIE words (in this notation, g = palatal/plain ġ=plain/uvular): 
+
+Is there any etymological or semantic connection? 
+
+The later word, prou̯os, meaning "first" was used to designate a province headsman ("first" in the settlement), and later "judge" and "lord" (with feminine form preu̯ia̯ meaning "mistress, lady", reflected in German "Frau") and gave rise to the Slavic legal term as well as the Russian terms meaning "correct", "just". 
+
+I will look specifically at the western Classical origins of these terms. The Ancient Greeks in particular had extensive mythology and naming associated with all the Winds (Ἄνεμοι Anemoi) and directions, not just the cardinals. The Greeks were a seafaring people and wind direction was central to their lives. 
+
+Gk Βορέας boreas "north, the North Wind" was a Greek word also of unsure etymology. It has cognates in other Balkan and Slavic languages such as Alb borë "snow", Srb бура "cold north wind". It is often said to come < PIE *gʷor- "mountain". This very likely is a reference to a North wind, cold and perhaps arising from mountains, that was prominent in these people's original homeland. 
+
+L vesper "evening" was also used to mean "west" in reference to the setting sun. 
+
+One thing to remember about English spelling is that for the most part it is "frozen", and reflects the Middle English pronunciation. Another thing to remember is that there has never been a standardized spelling for English, and individual judgment, errors, and a variety of dialects have played a large role in how words are spelled. So every question about English spelling has to be considered in light of these two major issues. 
+
+It is a fairly regular evolution. Starting with the accusative ending -átum, we have the loss of final nasal. Then the accented /a/ in the open syllable transitioned slowly to open /ε/ (cf. -arium > -aire, -alem > -el but also mare > mer). Eventually the post-accentual vowel got lost (and the /t/ probably first got voiced intervocally, lenited to a fricative and then lost voicing word finally). 
+
+Norwegian del is reconstructed to proto-germanic dailiz, but that originates from PIE *dhail-, the etymon for the Slavic děliti. 
+
+They definitely do go to the same common ancestor, just the first etymology you found does not go deep enough. 
+
+état (state) is the exception here and I bet it is not a direct descendant but rather an early borrowing from Latin. 
+
+So from statum, there was something like estεθ at this stage (cf. Chanson de Roland, first strophe - (Charles li reis) ad estet in Espaigne). With the loss of word final consonant, the syllable opened and followed the rule of closed vowel in open syllable, becoming /e/.

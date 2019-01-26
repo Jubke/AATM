@@ -1,0 +1,59 @@
+Iterative "signals that an action is repeated on a single occasion and differs from the habitual and frequentative, which both signal the repetition occurred on different occasions" (p. 160). Here are the two examples they use: 
+
+Willy van Langendonck (2007) argues that a proper name has the following characteristics: 
+
+This is traditional phonology, not generative. 
+
+Thus, a segment is "any element, at any level of representation, which is described as forming sequences with others" (Matthews 2007). 
+
+He searched for his keys all morning. iterative 
+
+In some generative theories of syntax, recursion is usually understood as self-embedding, in the sense of putting an object inside another of the same type (Fitch 2010, Kinsella 2010, Tallerman 2012). However, Tallerman 2012 argues that HFC 2002 used recursion in the sense of phrase-building or the formation of hierarchical structure generally (p. 451). 
+
+I thought the following two passages nicely summarize current thinking on the phoneme in phonology: 
+
+Less common terms: derivational family, lexeme family. 
+
+The meaning of the name, if any, does not (or not any longer) determine its denotation [semantic]. - see my examples above 
+
+Thus, a single diphthong in English represents one phoneme. 
+
+Incidentally, the level and scope of lexicographic research in Novyj objasnitel'nyj slovar' sinonimov russkogo iazyka (Apresjan et al. 2004, 2nd edition), compiled by Apresjan's research group, is unprecedented. Unfortunately, no dictionary of synonyms published in English, German, or French comes even closer to the comprehensiveness and detailedness of Apresjan et al. 2004. 
+
+An apple, on the other hand, can be described as "the round firm fruit, typically having crisp white flesh and green, yellow, or red skin" (from OED). All apples share certain properties (round, firm, fruit, having skin etc.). 
+
+(my slightly incoherent ramblings on recursion, Merge, and embedding) 
+
+For example, the dominant of the synonymic series "strong, stout, sturdy, stalwart, tough, tenacious" is strong. 
+
+Here's a screenshot of the relevant section from http://www.blackwellpublishing.com/shockey/ 
+
+The final draft is available here 
+
+Dressler and Ladanyi 2000 argue there is a difference between a word-formation nest ("all synchronic and morphosemantically identifiable derivations from the same base") and a word family (both synchronic and diachronic derivations). 
+
+It is also the most usual term in language acquisition studies (see curiousdannii's post above with a quote from Paul Nation). 
+
+For a very readable, recent and succinct discussion of wordhood see The Oxford Handbook of Word (2015), esp. Wray 2015. 
+
+Actually, it is a derivational cascade. I think it's Juan Uriagereka's terminology. Uriagereka 2005 writes that command units (or CU's, objects formed by the continuous application of Merge to the same object) are spelled-out at the end of each derivational cascade. The more common term in the Minimalist Program is a phase. 
+
+As for function words that start with h, the following words get affected: had, has, have, he, her, herself, him, himself, his (Cruttenden 2014: 274). In their weak forms, they may all lose h. 
+
+Juri Apresjan, a famous Russian lexicographer, uses the term "synonymic series," whose dominant is "a lexeme which has the most general meaning in the given series." For further details see Apresjan 2000, Systematic Lexicography. 
+
+"People speak in set phrases, rather than in separate words, hence the crucial importance of set phrases. At the same time, set phrases, or PHRASEMES, represent one of the major difficulties in theoretical linguistics as well as in dictionary making" (Mel'chuk 1998: 24). 
+
+These "version" morphemes are found, in very similar form, in other languages of the Kartvelian family. Similar morphology, also described as version systems, is also found in some Turkic languages of Siberia, in the isolate Burushaski, and in South Munda Gorum, an Austroasiatic language of India; these systems are functionally similar to version but formally very different. It has been suggested that the focus systems of Austronesian languages, and the viewpoint aspect systems found in some Trans-New Guinea languages have similar functions to version. 
+
+The Wikipedia article that says: "British English is the form of English used in the United Kingdom. It includes all English dialects used within the United Kingdom." is simply using the non-technical term "form" to refer to the grouping of all dialects of English found in the United Kingdom. 
+
+I think the standard definition of dialect makes this fairly clear: mutually intelligible varieties that differ in systematic ways. So 'Indian English' (if there is a single such entity and it is spoken as a complete linguistic code) is a dialect of English. I don't see why it has to be a L1 to be a dialect of English. 
+
+(Wikipedia doesn't have a separate grammar article for Albanian and doesn't have an article on adjectival articles) 
+
+Being in Albania I decided to sit down with a word frequency list of the language and look each up so I would know some of the common words I see around me. 
+
+Before the beta I would've thought questions like this one would be such basic concepts that most contributors would be familiar with them. But after a few questions on gender and animacy it seems that some people do confuse the two even here. 
+
+But what I'm wondering with this question is whether the concept of version is also used in any other languages. Kartvelian isn't known to be related to any other language families, but it is in a Sprachbund with other Caucasian languages and often terms in linguistics and grammar are borrowed by people describing other languages, especially ones in a neighbouring area or studied by the same people.

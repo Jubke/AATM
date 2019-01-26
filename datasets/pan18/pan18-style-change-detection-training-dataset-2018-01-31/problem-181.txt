@@ -1,0 +1,23 @@
+Currently there is no way to reset your stats (without buying another copy of Starcraft and creating a new account). To my knowledge there is no plans to add this functionality either. 
+
+Try turning on the building options if this isn't already enabled for you (perhaps building grid?) There is still a little art in successful landing, but the guide can help a ton. 
+
+If you are confident in your macro play you have already put him behind by surviving his attack. You can put him even more behind by expanding. Good players recognize that going for the instant kill is often a high risk situation, the way to exploit an advantage in starcraft is to get 'more ahead'. Advantages build exponentially in Starcraft 2. You can safely expand knowing he has a smaller army then you due to his commitment to high tech. This lets you grow a larger economy earlier leading to an even larger army later. This is especially true with Zerg as their economic advantage can painfully punish mistakes like this from Terran later in the game. I will pick this solution every time. A definite win in ten minutes is better then a 90% chance to win now. 
+
+Upgraded turrets last for 240 seconds and benefit from weapon upgrades leading to: 
+
+Zerg expansions are the cheapest to build (costing only 350 minerals compared to 400) in addition they can grow their economy the fastest of any races. To compensate for their extreme economic power Zerg units are relatively fragile (largely due to their lack of range), not particularly cost effective, and the Zerg player must constantly choose between drones and army. In addition, one of the more technological (protoss or terran) races can support more overall production (workers + army) without being handicapped by the larvae mechanic. The combination of these force the Zerg to capitalize on its powerful economy to expand early (providing more larvae to match its opponents production) with the eventual goal of crushing the more technological races by sheer force. 
+
+Specifically in the 1-1-1 build you mentioned. Because there is so much add-on switching going on, it is possible to have either your factory or starport (depending on what units you go) building your extra add-ons. Most players also throw down a second barracks shortly after as well (which can also help build add-ons) 
+
+Finally, which unit does the highest DPS/Cost? 
+
+Zerg's 1 base cannot support as much production as 1 base terran or protoss due to having to choose between workers and army (larvae). Combined with cheap expansions and a strong economy it puts them into a balanced position in the match ups with a macro oriented play style 
+
+Dealing with cloaked banshees as any race on any map Lets make it more generic, I'll leave the references to TvT in it, but I'm going to expand this answer to 'dealing with cloaked banshees as any race on any map' 
+
+With that being said, I wouldn't worry to much about your placement matches. If you really did end up where you do not belong (like bronze when you are clearly a diamond player) you will quickly climb the ladder anyway. In the scheme of a serious player (2000+ games) placement matches are just a drop of rain in a lake. 
+
+According to this post on team liquid all buildings are stunned when targeted. This includes cannons, planetary fortresses, and bunkers. The only exception I could find is the Ultralisk who is immune to stuns. 
+
+Relying solely on static defense like 2 turrets, cannons, or spore crawlers: You defend against cloak but will have a hard time killing the banshees. You need an army to deal with the mobility of the banshees. Killing the banshees is key, chances are he has maybe ~6 marines + 2-3 banshees as the entire extent of his army. If you throw down two turrets you will be able to detect him and prevent damage to your worker line, but chances are his banshees will escape alive and be repaired. You don't want them coming back...

@@ -1,0 +1,43 @@
+Any shortcuts you drop into this folder will show up on your Start Menu, and any folders you create here will be created on your Start Menu as well. 
+
+That having been said, if you're not interested in the online components of Steam for a given game (ie, Portal 2's co-op mode, and certain game achievements), it is possible to play multiple games -including multiple copies of the same game - from a single account on multiple computers at once. You'll have to put Steam into "offline mode" on all but one of the machines you plan to play on. 
+
+Note that Steam shortcuts are protocol shortcuts - like links to URLs, and not program shortcuts - like links to an application. If you move your Steam installation, they won't need to be updated. However, if you uninstall Steam, shortcuts to your non-Steam games that were created through Steam will probably cease to function. 
+
+They go further to suggest that in addition to protecting the content, you should also realize that kids with unsupervised access to computers will figure out a way around any level of protection - regardless of how foolproof, given enough time. (I was a living example of this as a child, sorry Mom & Dad!) You might consider putting the machine somewhere public in addition to these security measures, so that it's more likely that their computer time will be more closely supervised. 
+
+One suggestion was to change the shortcut to Steam so that it supplies a username and password from the command line, like so: 
+
+There's also all manner of "free" games that are probably inappropriate for children, but which can be downloaded into any Steam account. Team Fortress 2 contains quite a bit of violence (not all of it cute and cuddly) and bad language, among other things. It's kind of a personal parenting decision as far as what you consider to be "off limits" - but there are free rated-M games on Steam, and TF2 is one of them. 
+
+Offline mode is described in the Steam Support Docs: 
+
+Another thing that was brought up in that thread that I think needs to be said is this: 
+
+If the game requires Steam you must install Steam in order to use it, and you must be logged into the Steam account associated with the game's key (the code you got in the box/on the manual/etc) in order to play it. All Valve titles, including Portal and Portal 2 require Steam, as does Skyrim, Civilization V, and many other games. The key that comes with the game discs is only allowed to be activated and attached to a single account, and cannot be transfered once used. 
+
+to: http://store.steampowered.com/app/8980/ (no achievements listed) 
+
+I can't for the life of me seem to find anywhere to actually set the thumbnail. The in-game upload screen seems to be lacking this as well. 
+
+The Steam Support site has a pretty thorough step by step instruction. 
+
+Playing Civ V in offline mode should allow you to play other steam games simultaneously. I feel compelled to point out, however, that steam only allows one copy of itself to run at any given time, so short of some technical tinkering, you're still limited to one game / steam / computer. 
+
+I have used the Stellaris launcher to add a mod to the Steam workshop for the game of the same name, but after doing so, it appears with a blank thumbnail: 
+
+Do the other two have names as well? Are there only these three? 
+
+As far as I know, Steamworks is going to function as the game's DRM which means that even if there's a physical install disc, you'll need steam to play it, even in offline mode. 
+
+I don't think that there is a physical copy of civ V. Everything I've read indicates that its going to be exclusively digitally distributed. 
+
+It depends on the game. There are many DRM free games on Steam, (e.g. Gnomoria and in fact most Games from "Arcen Games" and some Paradox Titles) which will run without launching Steam when copied outside the Steam folder. And many more do not utilize CEG (which means Custom Executable Generation), which is the name of the system you are asking about. 
+
+If this does not help, there is more wrong than just your wifi adapter. I have wireless too and if mine is disconnecting for whatever reason, Steam just stops downloading. 
+
+https://support.steampowered.com/kb_article.php?ref=3134-TIAL-4638 
+
+If a game chooses to utilize CEG, then yes, a custom binary is generated for every customer, no matter which operating system you use. 
+
+It simply checks if Steam is running and if not, it relaunches it. You can cancel the script at any time by pressing Ctrl-C in the black window that it opens and answering the question with Y.

@@ -1,0 +1,33 @@
+Could we get a full explanation of what's going on? What's the point of trying to do cleanup on my niche tags, if it will all be for naught? 
+
+It should have been closed and locked, and left alone. Here's the message I get when I try to create the synonym: 
+
+It is truly sad when one moderator will unilaterally close and a delete a question that's been on the site over four years, and is relatively popular. Looks like auto-login is a fail. - parsererror - retry / cancel 
+
+Could someone please explain what's happening here, and if there is more to come? 
+
+You can (as mentioned in the comments): It doesn't look like anyone has received the Generalist badge on Meta. Will this be implemented here at some date? When a user is suspended, they go to 1 reputation point. Your reputation will come back when you come out of suspension. 
+
+There are 1861 questions tagged editing and the tag wiki says: 
+
+I really think both should be synonymed to editing, but because of the prior synonyming it won't allow me to create the tag synonym. Could we please get this done? 
+
+I haven't hit 10k on Stack Overflow yet, so I was quite surprised when hitting a link to a question that it turns out to be deleted, but yet the content was shown (all in one box). Besides the content box was shown this message (names edited out): I think it might work better if you just allowed everyone to vote one of the three statuses on every question, then picked five of the top-voted ones in the on and off-topic categories for each site. Also, chat is giving weird messages and inverting the order of the messages (probably related), like so: Posting here is the right way to approach this if you are under 10k, otherwise you can first flag the question and try to get another moderator to review it. 
+
+I placed a bounty on a question of mine, and got no answers. Instead of the bounty going away when it expired, it's still hanging out there. I don't need the rep back, I just want to create another bounty and can't. All the sites, other than Stack Overflow, have their own individual Metas. You need to get a +2 post on each individually attached Meta to get the Quorum badge on each site. Very occasionally, on Meta, I'll see a flag count in my header bar, like so: There are 239 questions tagged edit and it has no wiki. 
+
+You didn't permanently lose the points, you were suspended for a week. 
+
+I'm scared to death to go back into web applications and try to rank 163 questions, so I can pick the best 5+5. It hurts my head just thinking about it. 
+
+My guess is that the number is for flagged comments, but since I'm not a mod I can't see the comments, so there is some glitch showing me the mod flag count. 
+
+This would make it a lot quicker for all involved, and wouldn't weight as heavily the first questions posted. 
+
+The tag edits was synonymed already to edit (though I think it would have been better the other way). 
+
+It looks like the auto-login feature doesn't work for me (on Firefox 3.6.9). I've just had to re-sign into each site individually. 
+
+I go to my profile and look through my questions there. 
+
+Though I like a modification of what's been mentioned here, for the Search box:

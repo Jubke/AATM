@@ -1,0 +1,47 @@
+The sorting on the new users page appears to be incorrect - if it goes from left to right then top to bottom (which appears to be the case for most users), then in some cases the sorting is incorrect. Going forwards, such badges will be moved to the merge target. We have now also ran the queries backfilling such issues as your own. 
+
+This was indeed due to the account merge. 
+
+There are a few articles in the pipeline ready to be published. You (moderators) will be seeing them starting tomorrow, you know, because. Where is it, and how is one supposed to mark a question as CW now? The fix for this is in the notbuiltyet phase. 
+
+What is going on? Is there some batch job that is going back to old questions/answers? 
+
+The layout of the flagging page (SO) has changed and now the sidebar has dropped to the bottom of the page. Thanks for reporting the typo. That's fixed and will be soon deployed. 
+
+They will come, in time. Hopefully soon. 
+
+I seem to have gotten 4 enlighted badges in the last hour, without that many upvotes/accepts on my answers. The fix for this is in the fixed phase. An attempt at fixing an issue with reputation graphs has not taken into account that meta sites don't have reputation. Looks like the flagged posts are much wider now, resulting in the sidebar not having enough space anymore. 
+
+I can take credit for breaking it, but not for fixing it - thanks Nick Craver! 
+
+You may have missed that meta.stackoverflow.com has been split into two sites that reflect its former split personality as a Meta for Stack Overflow and one for the whole network. 
+
+There are no help articles defined for it yet. 
+
+I expect these to be awarded closer to when the conditions are met (first answer accepted with 10 upvotes). 
+
+The merge process was not migrating badges (as we have some automation around that already), however, this is disabled for some expensive queries, including the fanatic badge one. 
+
+It looks like the Community Wiki checkbox is no longer appearing on the ask/edit question page, making it difficult to mark questions Community Wiki. I also stumbled upon the same bug when doing localization prep work on those views. Thanks for pointing this out. It'll be fixed in build rev 2013.7.30.1289 (meta) / 2013.7.30.902 (sites). I guess I can just wish you good luck having fun with those, you asked for it ;) 
+
+It was a bad roll out of DB migrations + code at the same time. DB migrations happen when meta is built. So it was a case of old (pre-migration) code running against new DB schema. The issue fixed itself once everything was deployed to all servers across all tiers (meta & sites). But not all is bad as it seems. I already noticed the exceptions in our logs before this bug report, so the fix was already in the pipes before it was reported on meta. The fixed was shipped in build 2013.8.26.1380 (meta) / 2013.8.26.973 (sites) Fixed and rolled out in build 2013.7.18.862. Closed questions are now excluded from known good post audits in the first posts review queue. 
+
+The fix for this is in the notbuiltyet phase. Going forwards, such badges will be moved to the merge target. We have now also ran the queries backfilling such issues as your own. 
+
+There are no help articles defined for it yet. 
+
+The layout of the flagging page (SO) has changed and now the sidebar has dropped to the bottom of the page. There are a few articles in the pipeline ready to be published. I expect these to be awarded closer to when the conditions are met (first answer accepted with 10 upvotes). 
+
+You may have missed that meta.stackoverflow.com has been split into two sites that reflect its former split personality as a Meta for Stack Overflow and one for the whole network. They will come, in time. Hopefully soon. 
+
+Thanks for reporting the typo. That's fixed and will be soon deployed. An attempt at fixing an issue with reputation graphs has not taken into account that meta sites don't have reputation. But not all is bad as it seems. I already noticed the exceptions in our logs before this bug report, so the fix was already in the pipes before it was reported on meta. 
+
+But anyway, watch out for those, winter is coming... 
+
+The fixed was shipped in build 2013.8.26.1380 (meta) / 2013.8.26.973 (sites) I also stumbled upon the same bug when doing localization prep work on those views. I guess I can just wish you good luck having fun with those, you asked for it ;) 
+
+Fixed and rolled out in build 2013.7.18.862. Closed questions are now excluded from known good post audits in the first posts review queue. 
+
+Congratulations on finding a new edge case in a class that hasn't been touched since 2011. 
+
+It was a bad roll out of DB migrations + code at the same time. DB migrations happen when meta is built. So it was a case of old (pre-migration) code running against new DB schema. The issue fixed itself once everything was deployed to all servers across all tiers (meta & sites). Rest assured, The Wheel of Blame has been spun. The bug was caused by the snippets code mirror script being loaded asynchronously, and our events handlers being attached in the loader's promise, which got them wired up in the wrong order each but the first time, when the script was actually loaded.

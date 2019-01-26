@@ -1,0 +1,31 @@
+Conceptualisms - views where we have "concepts" in our mind but that these don't exist out there in things. One medieval version is called "Nominalism." This is generally the dominant view type today. 
+
+Specifically, I see two moves hidden between (2) and (1) that undermine the necessity. First, (1) posits eternal, immutable entities about substantive things in the world (Plato believes there's a form of horse, for instance) whereas (2) posits only a invariant proportion as eternal and immutable (which has no perfect physical instantiation). 
+
+Are the written syllable and readable image identical? Not in every single respect -- as is clearly demonstrated in that we can produce the same syllable differently. But that's just a feature of the general discernability of materially different things. 
+
+Way 2: Metaphysical opposites: Here, the claim is that what is true in our world is false in this world, and what is false in this world is true in that world. In other words, it's not that they say "2" when they mean -2, it's that they use language in the same way but the objects that populate their world are opposite. 
+
+A dualist would very likely answer that it isn't possible that a machine can acquire personhood. This would be because the self-awarness/reflection part stems from the non-physical aspects of the mental which we cannot instill in an artificial machine no matter how well engineered it is. 
+
+"Can you say that in planet earth philosophy only exists because human exists?": Yes - the problems of modern philosophy, epistemology, ethics, philosophy of mind, philosophy of science, political philosophy, etc..., are human specific. 
+
+But what about relations of ideas? Is it possible to have a causal relationship between two ideas? 
+
+But I realize there might be flaws in this reasoning. 
+
+If someone subscribes to compatibilism or to hard determinism, then saying that "Jane decided to have coffee instead of tea" doesn't really carry any meaning. The event of Jane drinking coffee instead of tea has the same status as the event of a rock rolling down one side of the mountain instead of the other. That she "decided" to have coffee is either epiphenomenal or completely meaningless. 
+
+Similarly, consider some software used by a bank that automatically approves or rejects applications for a loan: The software reviews a set of inputs (income, assets, credit score, employment history, etc...) and then either approves or rejects the loan application. If the outcome of the process is deterministic, then to say that the software "decided" to approve the application doesn't really mean anything other than that it performed a mechanical calculation based on the input variables. For there to have been a "real decision", there has to have been the possibility of there being a different outcome given the exact same input variables. 
+
+In your example, you seem to be looking at two samples of [digital] writing in different colors and asking whether he sees syllable as a concrete instance or abstract type. 
+
+To accept (2) is roughly to be committed to Mathematical Platonism. 
+
+I'm not entirely following the dichotomy you propose but I would suggest the following interpretation I take to be Aristotleian. 
+
+Aristotle refers to letters as the cause (his word aitia) of a syllable in Metaphysics BK 1 and Physics book 2 part 3. He doesn't specifically say material cause (but you're not the first to draw the inference by a long shot). 
+
+Way 1: Linguistic opposites: We are merely changing the meaning of words. "2" means -2. "-2" means 2. The utterance "true" now means false and vice versa. This particular thought experiment is completely uninteresting, because it merely means that the language of this opposite world is somehow coincidentally reversed for all descriptive terms. 
+
+What this does show us, however, is that the units for position functions are arbitrary. (We can put the origin (0,0,0,...) wherever we want and just move everything from there). Mass functions and many other types of evaluative functions are not. To give an example:

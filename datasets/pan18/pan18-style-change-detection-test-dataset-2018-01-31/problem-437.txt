@@ -1,0 +1,39 @@
+Nothing wrong with these goals, but nothing in the actual process guided reviewers toward either one - instead, it just generated more numbers. Intrepid members who did step up to discuss problems that they observed often just ignored both and took the opportunity to talk about whatever else was on their mind; in no instance did the system attempt to guide or correct anyone's chosen strategy – if you wanted to go down the list voting satisfactory for everything and then call it a day, you could... And many reviewers did just that. 
+
+Now, it's a bit unrealistic to say that every closed question should be deleted, even when that's the recommendation; still, there are currently 48 thousand closed questions on Stack Overflow that have no up-voted or accepted answers, score <= 0, haven't been edited since they were closed, and don't have any pending re-open votes... 
+
+Update: Kevin Montrose makes it happen The hell-ban is no more! Long live the verbose, obnoxiously evident ban! 
+
+What I seemed to understand is this: 
+
+Votes Tab is Back from vacation. It took a long term vacation so it could come back, bigger, stronger and betterer. 
+
+I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days. 
+
+Nothing is set in stone, everything depends on the quality and type of edits that are submitted in our real world trial runs. 
+
+Theoretical problems are fantastic things. I have over 1000 theoretical problems with over 1000 theoretical features. 
+
+When we stop people from asking questions, we stop them from asking questions; we do not put them in a virtual reality sandbox. 
+
+Voting drives the economy of Stack Overflow, this trend of decreased voting can not be helping. 
+
+I'm adding this for everyone's amusement. 
+
+If it is accepted by the OP clearly the question is a duplicate, so the system can close it. 
+
+If you want our help, show us that you deserve it - step up and try to do something yourself, using the tools you've been given, and when you hit a roadblock then ask for assistance. 
+
+David once had a desk that responded to his voice commands. Does your desk raise or lower itself in response to your utterances? I didn't think so. 
+
+This leaves open the question: how should we be addressing the needs that motivated this system's creation in the first place... And do we even need to? 
+
+But it also prevented anyone from updating duplicate links, which was useful in cases where more than one duplicate was appropriate (for instance, "too broad" questions that consist of multiple questions, each already answered) or situations where the asker clarified their problem and a different duplicate link became appropriate. 
+
+How does this apply to public figures? I don't care what your opinion of Tim Tebow is, I don't particularly care about professional sports, but if I drop into chat the last thing I want to see is a vulgarity-clogged transcript full of your frustrations regarding him. It ruins the mood, and makes me not want to talk to you or anyone else in the room about anything. Chances are, you're driving away more people by your tone than you are by what you're actually saying. 
+
+We'll be keeping an eye on this and adjusting these thresholds as-needed. Please report any problems you encounter here on meta, using the tag declined-flags. 
+
+The goal is to capture anything that's contributing nothing to the site now, and shows no signs of any effort by anyone to correct the deficiencies that are preventing it from being a useful question. I think if we get this right, then we can afford to look at manual deletion - by moderators or high-rep users - as more of an exception-handling task and stop mixing the time-sensitive deletion of overtly abusive posts with the convenience of just voting to delete as soon as a question - any question - is closed. 
+
+What's that? You say you're unhappy with the moderators you elected, and you want folks like me to step in and save you from them? Nonsense - you just want someone else to take your side in yet another stupid, unproductive argument that has nothing to do with Physics and everything to do with your own boredom.

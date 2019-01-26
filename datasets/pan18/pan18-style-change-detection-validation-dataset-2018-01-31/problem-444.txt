@@ -1,0 +1,17 @@
+Can we have the flag dismissal links back in the flag display panel shown when we as moderators browse to a question that's been flagged? LESS includes are a dangerous thing. :) The issue should be fixed now. I just pushed a fix for this. Should be live in the next build. Now that we have specific reasons for declining flags, it would be helpful to see them on the flag history page for questions and answers. 
+
+It might also be a good idea to include this question as an option in the close-as-duplicate dialog. 
+
+I see that new buttons got rolled out in the moderator flags view on Programmers (and elsewhere?) today. I love them. They're pretty cool. However, I often look at the question before really deciding what to do about it. Sometimes I check the comments or answers before making the final decision whether to close a question or not. If we get a general "moderation attention needed" flag and the post ends up closed, we no longer have the ability to dismiss the flag while looking at the post and have to go back to the overall flags view and use one of the buttons. 
+
+When we merge two users or two questions, the merge workflow goes like this: 
+
+Find the user to merge into another (let's say, User X). Select the "merge" option. Input master user's ID into a textbox, double-check everything, click "Merge". User X disappears and becomes one with the master. Tag merges seem to go differently. I might be doing this wrong, but following the mental model above, I typically go to the tag that I want to remove, which doesn't really work: 
+
+Starting today, you can choose which profile to sync to stackexchange.com: (That's flags on the left in blue, and pending suggested edits on the right in orange-ish.) 2) The "old" tag name is populated in the "new tag name" field: 
+
+Details: To enable the details of this specific error message to be viewable on remote machines, please create a tag within a "web.config" configuration file located in the root directory of the current web application. This tag should then have its "mode" attribute set to "Off". The "honeypot question" post notice contains a typo: 
+
+It should say "why you're recommending it as a solution" instead. 1) Find the tag you want to merge with another. Select the "merge" option: 
+
+I am in the EST (Toronto) timezone. Is there a timezone setting I missed somewhere or is this a notification bug? Users who can't yet vote to close can flag the question as a duplicate instead. They also provide the link to the possible duplicate, but there's no auto-generated comment in that case. I think there should be - it would allow others (especially those with enough rep to vote to close) to avoid having to hunt down the link.

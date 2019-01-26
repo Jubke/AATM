@@ -1,0 +1,53 @@
+I see a few pending synonym requests which should be uncontroversial (hyphens, plurals, abbreviations), please approve them (and any similar ones you come accross). 
+
+Prediction: if you add a filter like this, you'll end up with 
+
+In the Android app, entering tags is a bit cumbersome, especially on a high-latency connection. You need to type a substring of the tag name, then wait for the server to return the list of matches, then select the tag in the list. 
+
+Also, when displaying completions, please display the exact match first if there is one. Currently it can be difficult to locate when it's a substring of more popular tags. 
+
+This is an incentive towards worse titles. The cure is worse than the disease. 
+
+Is there any reason for retaining the page tag, at least temporarily, that I've missed? Otherwise, the tag should be removed and blacklisted. 
+
+The page tag is all over the map. There are many questions where it means a web page, often a Facebook page. Sometimes it means scrolling through a long text. Sometimes it means virtual memory. Glancing at the questions, there seems to be some other relevant tag, most of the time (html, php, facebook, memory, …). The questions in this tag don't look markedly worse than average (just perhaps a tad badly tagged). All in all, page looks like a prime candidate for burnination. 
+
+In any case, filters should be viewed with extreme caution. I've encountered false positives for all the title filters on SO that I'm aware of, e.g. 
+
+This would really help, since most users don't hover over the tag for the tag excerpt instructions before they post. 
+
+I've edited a few tags on Meta, and it appears that the tag dropdown isn't always working. I then end up creating new tags, when I might have chosen an old one. 
+
+Note: While having a Tag Hold status is the topic of this feature request, two things about my specific case: 
+
+If a Tag gets too proportionately large for a Stack Exchange site, it will need to be broken out on its own. Does anyone have ideas on when this should happen? Metrics? Algorithms? 
+
+A batch script could be run by the Team to eliminate vb on any question where one of the subset tags is used, that would get most cases. 
+
+I was noticing that the tag vb is out there with a lot of tagged questions, but it's not very useful, since you generally need to know which variant is being used, vb.net, vb6 or vba. There are thousands of questions that would have to be looked at manually to fix their tags. I was thinking that it would be good to put a tag on hold, where it was still out there, not synonymed (since this is a superset tag, it can't really be synonymed), but not usable. That way over time it could be edited out of existing questions (most of which probably have one of the subset tags anyway). 
+
+In the Android app, entering tags is a bit cumbersome, especially on a high-latency connection. You need to type a substring of the tag name, then wait for the server to return the list of matches, then select the tag in the list. 
+
+Also, when displaying completions, please display the exact match first if there is one. Currently it can be difficult to locate when it's a substring of more popular tags. 
+
+In any case, filters should be viewed with extreme caution. I've encountered false positives for all the title filters on SO that I'm aware of, e.g. 
+
+Prediction: if you add a filter like this, you'll end up with 
+
+This is an incentive towards worse titles. The cure is worse than the disease. 
+
+The page tag is all over the map. There are many questions where it means a web page, often a Facebook page. Sometimes it means scrolling through a long text. Sometimes it means virtual memory. Glancing at the questions, there seems to be some other relevant tag, most of the time (html, php, facebook, memory, …). The questions in this tag don't look markedly worse than average (just perhaps a tad badly tagged). All in all, page looks like a prime candidate for burnination. 
+
+A batch script could be run by the Team to eliminate vb on any question where one of the subset tags is used, that would get most cases. 
+
+This would really help, since most users don't hover over the tag for the tag excerpt instructions before they post. 
+
+Here's a screenshot of how I'd like it to look. 
+
+When I go to edit that question, the tags don't show to the right. This is one of the things I use when editing to determine whether a tag is worthy of being there (just one of the things). Please have the question-specific tag list show when editing. 
+
+I think that any process of breakout would start with an Area51 site for the specific Tag, and then they could really see if there was enough interest. 
+
+Right now I have to open a new window to relook at the tag list, or backup and start over. 
+
+If a Tag gets too proportionately large for a Stack Exchange site, it will need to be broken out on its own. Does anyone have ideas on when this should happen? Metrics? Algorithms?

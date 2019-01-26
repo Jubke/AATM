@@ -1,0 +1,21 @@
+This seems like a pretty good approach, to me. Allowing the customer as much (non-secret/sensitive) information about your business with them is the best way to improve the feedback cycle. As such, this is a valid reasoning for splitting each project into its own JIRA project. Though you could also, in theory, keep a 'Requester' custom field and make new Projects/Boards based on the Requester field, that is more or less just a different approach to what I suggested above, just even more work. 
+
+Comparing that to the alternative of taking simply 20 must-have stories into the sprint, I think it becomes obvious which approach is better. Assuming constant velocity, the MoSCoW-sprint method will take 500 sprints to complete all of the must-haves, while relying only on the backlog priorities would complete them all in 300 sprints (again, assuming this hypothetical situation where every story requires equal effort and nothing blocks anything). 
+
+You could also append something like "even from a malicious attacker", which should make it more testable (see INVEST mnemonic) - make sure all common attacks (other than social engineering, which isn't really solvable...) fail. 
+
+Improve your estimation: Perhaps your point estimation is not consistent. Some people use benchmark stories. For example, identify a typical story as a 1-point story and another as a 2-point story and so on. When doing the estimate, use those to compare. Is this story more effort/complex than the benchmark story? 
+
+However, in order to implement this simple model, there are many prerequisites: 
+
+This is easier to understand if you contrast Scrum with Waterfall In the waterfall process, tickets are assigned to individual developers by name. At any given point in time, at a minimum, each developer will be working on one ticket. The developer will typically complete the development, unit test it, check it in and move on to the next ticket. At some pre-determined interval, a build will be taken and thrown over the wall to the testing team. Sometimes each developer may be working on more than one ticket, either because one ticket is blocked or because, in the developer's opinion, it is more convenient to work on related tickets together. 
+
+From David Anderson Interview: The most commonly cited instance where Kanban is extremely successful is software maintenance. Anderson says this involves fixing production bugs and doing small incremental improvements. Kanban works well with software maintenance because such work isn't a natural fit for projects and one to four week sprints. Anderson says, "It makes more sense just to take the requests, work on them, and when they're ready, find some way of deploying them to production." 
+
+FURTHER INFORMATION (Based on Mihai's request) Agile and related methodologies are a good example of no. 1. They are based on concepts from the Theory of Constraints and nearly a century of data on industrial engineering (see Deming). From these perspective, the data shows that people can accomplish specific tasks better under certain environments versus others. You can improve people's performance by changing process elements of the work environment. 
+
+There are two main approaches that can be used: 
+
+Speaking towards no. 2, good communication skills can create an environment where people are happy and productive, often despite the process elements. That is, even if the factory stinks, there can be a relatively happy and productive work environment with a good manager. To learn more, read about leadership and communication. 
+
+Design a process (system and environment) that is most effective for people working together. Utilize soft skills effectively to manage people and create a work environment conducive to people working together. The best project managers are aware of and use both.

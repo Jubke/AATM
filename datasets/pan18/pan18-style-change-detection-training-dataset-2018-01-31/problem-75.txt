@@ -1,0 +1,25 @@
+Scrum is about transparency and setting correct expectations. Stakeholders need to know when a particular piece of value will be delivered instead of how many hours of a developer were spent to complete a story. 
+
+It is possible that a developer also acts as a product owner but I don't think that it is recommended. Here are my 2 main reasons: 
+
+Are you writing Acceptance Criteria along with you User Stories, if not then it might be a good time for you to start writing them. From the example you gave, I believe that 
+
+Some useful links to explore more about acceptance tests: 
+
+Every task that the team is going to perform should be documented and accounted for in each sprint. Whether it is a user story, bug, or technical debt, every item should be assigned appropriate points so that the team continues to monitor its proper velocity. Another advantage of this is that all the stakeholders know that is being done and why. 
+
+What to do if you find idle time I agree with the fact that sprint backlog should be completed some time before the sprint end date so that it can be tested and team can finalize a stable build after the required bugfixing etc. So developers may fix issues which were reported during testing within the current sprint. In case the team consistently performs well on the QA front and not many bugs come up then you may reduce this sprint end testing time and in future sprints the team may add more stories to the sprint backlog. 
+
+Maximum utilization can be counter productive You should push back on 100% utilization part because maximum utilization can be counter productive in software development. 
+
+Each acceptance test represents some expected result from the system. A story will not be considered complete / done unless it fulfills all of the acceptance criteria of that story. 
+
+All the feedback items added to the backlog need to be estimated. Depending on the estimation, team may come to the conclusion that they may have to add one or more sprints to the project plan. If this is the case then it should be clearly communicated to the PO as early as possible because that will help the PO in properly prioritizing the backlog. 
+
+In cases where the team finds some idle time, the team may consult Product Owner to pick a story from product backlog which is next in line or can be completed in the remaining sprint time. Alternatively, if there are technical debts to pay then the team can also work on those. 
+
+An effective and efficient Feedback Loop is very important during Agile Development. However, strong and potent management of this feedback is equally critical, otherwise we'll have an unorganized and unmanageable product backlog in our hands. Not all the feedback items needs to go into the backlog. PO has a very significant responsibility to analyze the feedback and control what goes into the backlog. One of the tools that PO can use is the MoSCoW prioritization technique, where each item can be categorized (or further broken down) as follows based on the product/project goal: 
+
+However, this is just one of the available tools. There are other prioritization techniques which can be employed too. The goal is better prioritization of the product backlog. 
+
+Full utilization concept may fit well in the traditional project management domain. However, software development is usually not a predictable / well-defined process, it is more of an empirical process in which you may end up in a situation where you have to discard a full days worth of work and restart from scratch. People have to attend meetings, answer to support calls, etc. in addition to writing code. So it may happen that a story gets completed earlier than estimated (or may get delayed too).

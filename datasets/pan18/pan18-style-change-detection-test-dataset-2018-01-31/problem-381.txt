@@ -1,0 +1,25 @@
+i am very exited! plz tell me where 2 start so i can learn how 2 program. 
+
+And no, I think this example is precisely why banning W3Schools in comments would be a bad idea (even though I might be able to support banning it in answers). Someone posted a link, someone else explained to them why it was a bad resource, and that person learned something. Isn't that what we do here? Isn't that exactly the kind of thing that redeems comments as a feature of this site? 
+
+The problem is that the syntax you would expect 
+
+The only things that we should be banning are things that actively harm the way the site works—i.e. its process. We ban questions that contain only jsFiddle links without any code because we know that those questions are not going to be useful to anyone else in the future. They interfere with what we're trying to do here. In my mind, that's very different from policing the content of people's contributions. 
+
+might not be trolling? I don't buy it… 
+
+i got a msg that said This post does not meet our quality standards. y is that? how can i fix it? i will just keep typing more until it goes away. i will just keep typing more until it goes away. i will just keep typing more until it goes away. i will just keep typing more until it goes away. i will just keep typing more until it goes away. i will just keep typing more until it goes away. 
+
+I can't even figure what motivated this feature request. You acknowledge that banning links to W3Schools in answers is not a good idea, but you want to ban them in comments? 
+
+Obviously, since this site is collaboratively edited, and our goal is to be the best possible resource, you're encouraged to edit inferior contributions and make them better. But that doesn't mean we should institute bans for everything out there on the web that might be wrong. Heck, we might well as just ban links altogether. 
+
+What I propose is simplifying it. Let anyone with a registered account leave a comment until n comments left by them have been flagged and deleted. If that happens, back to waiting for 50 rep they go. I know this is a little complicated, but enabling this softens one of the first sharp edges folks hit when deciding to engage. 
+
+I like the idea, but I'm not sure of adding a feature when one that we have could suffice. How about just a post notice that says: 
+
+If this sort of thing is too complex to introduce, then we really should find something similar that isn't - I don't want to put additional load on our machine or human resources to deal with comments as a matter of principle - they're just not that important in the grand scheme of things. 
+
+As far as moderation goes, a post either is or is not an answer. If it is not an answer, it will be removed. Note, it doesn't have to be correct, it just has to be something that doesn't raise more questions than it addresses. 
+
+We're going to aim to fix that, as a whole, which should solve the issue of those needing them not being able to use them altogether.

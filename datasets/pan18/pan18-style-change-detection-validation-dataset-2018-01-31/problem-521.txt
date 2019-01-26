@@ -1,0 +1,35 @@
+Things like that are the reason why we don't upgrade just so. In particular, we very much avoid upgrading to 1.x.0 versions; experience has shown that rule number 1 (above) will make us upgrade to 1.x.1 very soon anyway. 
+
+Now, when/if the deprecation warnings start appearing all over the place, that will probably be a good reason to upgrade. It's not like we don't like using the shiny new stuff; it's just that such an upgrade always comes with maintenance costs. 
+
+Sorry, but I have to decline this. The main problem with this is that I want to keep the hat image files used on the major pages – in other words, the question pages – small, because every visitor has to load them. But in order to make scaled or rotated hats (where sub-pixels start to matter) not look horrible, the base image size would have to be much bigger. 
+
+You can see that the word "cabbage" looks easier to read for an OCR program than the word "beyond" (in particular, note the missing horizontal bar in the "e"), so you can assume reCaptcha already knows that the first word is "cabbage", but isn't sure about the second one. 
+
+So for now, users with less than 20 rep will appear as the "anonymous shape": 
+
+But if you feel this strongly about it, there's actually a way to accomplish what you want. The basic idea of reCaptcha is this: The user is presented with two words (i.e. images) obtained from scanning an analog source. For one of the two images, it is already known which word it represents. For the other one, it's not. 
+
+When I use the question title box, I actually type in a question, so I really think about how to phrase this thing as a question. 
+
+I used to think the same thing (and even thought of posting this very question at some point), but after thinking about it for a while, I came to the conclusion that something different probably was the reason: 
+
+into the box would still lead to the captcha being solved, because "cabbage" is correct. But they knew that already, so you haven't given them anything new. 
+
+This is probably not the final solution (more ideas still welcome!), but I wanted to have something done now, because these morons are just wasting too much of everybody's time. 
+
+Since only one word is known, obviously only the user's solution for this one word can be used to judge whether the captcha was solved. The user's solution to the other one is used to determine the correct word. 
+
+That said, the reasons we upgrade the jQuery version are usually one of these: 
+
+Because the auto-login process happens asynchronously. In other words, you may already be reading stuff, have already scrolled down, started typing, or whatnot, when the login process is completed. Automatically refreshing would be annoying in this case. 
+
+The "(why)" links to http://chat.stackoverflow.com/faq#avatar. 
+
+While some sort of automation might not be a bad idea, well, currently there's no such way. 
+
+Anyway, what we definitely don't do is upgrading for the sake of upgrading. An upgrade always comes with issues; often very subtle ones. 
+
+The exact values are currently: "a while" means 30 days, "reasonably active" means at least 50 messages per day (averaged over 30 days), and "certain threshold" means 10 messages per day (same averaging). But we might still tweak those numbers. 
+
+In one case, though, this will happen automatically (proving that it's not a technical problem): When you're on the login page, we take it as granted that you want to go back to whereever you clicked "log in" (e.g. on the chat site), so it's safe to automatically redirect you back.

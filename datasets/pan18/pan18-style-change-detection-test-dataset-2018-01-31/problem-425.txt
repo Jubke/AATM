@@ -1,0 +1,39 @@
+If the "next badge" information is important enough to notify in some manner (I'm not convinced it is, but if), how about generating an actual notification for it? So when you get the badge you were working toward, you'd get two notifications, the usual one and then this one, normal-sized and governed by the scrollbar. The notifications would be branded with the site logos, and the notification list would remain global. Just a thought. 
+
+Leave it alone. It's not broken. 
+
+Along with removing the "beta" label, change the site logo and base design in some visible way. Graduated-but-not-yet-designed sites can all share the same different style, and the change doesn't have to be large (maybe just a change of color scheme), but it would help to do something. 
+
+With the possibility of appointed moderators serving for many years on evolving sites, I think it serves everybody's interests -- moderators, users, and SE -- to come up with a way to periodically check the community's support of its current moderators -- some sort of vote of confidence for the team. This should allow private response, be solicited (don't just rely on people to click "contact us" if they want to say something), and be done in a way to minimize drama (anonymous survey good, meta voting probably not good). I'm envisioning a poll with two questions: (1) Overall rating for the team (1-5 or whatever), and (2) here, have a textbox. 
+
+Would it be possible to have an option (off by default) to require confirmation, for a bit of extra safety? 
+
+With long-running (permanent?) beta sites, you can have moderators who were appointed during the private beta, before the vast majority of the community was present, who remain in the job forever. Sometimes this is just fine -- if a good moderator who remains engaged with the site and serves the community well keeps doing that, we all win. But sometimes, over time, the fit between a pro-tem mod and the site degrades -- a moderator stops coming around as much, lets flags pile up, won't moderate in accordance with community wishes because he personally disagrees with a change in direction, just seems to be a little crispy, whatever. If a moderator behaves in a way that's egregiously bad the community managers might step in, but that's very rare. So things can fester sometimes and that hurts everybody. 
+
+We welcome Jewish, Christian, Atheist and other viewpoints as long as they take seriously the process of understanding the Biblical texts. 
+
+As you can see, the scopes and audiences of these sites are different, in the same way that Programmers and Stack Overflow are. 
+
+They do not think of the community as a whole or the long term benefits to the site of not doing so. 
+
+In short - this is the battle between the core people of the community - those few who care for the long term health of the community vs the greater numbers of people who are only in it for themselves (whether spammers, give me teh code, answering bad/off-topic questions etc...). 
+
+They gain an immediate satisfaction of a green +10 (or however much) notification and a much delayed loss of reputation when the question gets deleted (if within 60 days). This reinforces the behavior that is bad for the long term health of the site. 
+
+So, this site is about the text of the bible as a work of literature and its study. 
+
+Getting into comment wars, which is easy to slip into, is a horrible mistake to make that only leads to pain, suffering and general sadness. Our engine was not designed for extended off topic chats, for that with have chat. 
+
+Upvotes Downvotes Delete Votes Undelete Votes Closure Votes Reopen Votes 
+
+I think that introducing such a system would be far more effective than what we have today, would heavily reduce mod workload, and would lead to better canonical answers. It would also eliminate the annoyingly long comment threads on possible duplicate questions. 
+
+Take Hans for example, where the complaints are directed at: 
+
+"I like waffles" is just not going to cut it. 
+
+And it is now full fledged. We can see different vote casts. 
+
+One slight open question is how to add a filter that allows you to see stuff that you downvoted in the past and now is no longer vote locked. For the time being you can trawl through your downvoted list. 
+
+I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days.

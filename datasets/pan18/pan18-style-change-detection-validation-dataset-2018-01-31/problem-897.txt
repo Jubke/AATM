@@ -1,0 +1,43 @@
+That is the semantic truth of a proposition is independent of the inference rules that allow us to syntactically/logically establish a proof from the axioms. I find this a little odd. Surely a proof should have also a semantic status too? 
+
+The sketch of the proof in the article above doesn't establish a sentence that is true but that it is undecidable (neither proveable or refutable - note this is different from another notion of undecidability in computability). 
+
+On a related point, although the synthesis of logic, set theory & geometry appears exciting and wholly novel, philosophically speaking it's already apparent in high school mathematics: propositional logic, set theory, and venn-diagrams. Its simply the sophistication is several magnitudes higher and much more tightly woven, but from an objective point of view, that is outside of mathematics proper, this additional sophistication isn't relevant. 
+
+A vacuous truth is generally context dependent; it generally means something that is true by reason of its logical form; an example of which is the proposition 'a unicorn is a unicorn'; this is true, but adds nothing to what we didn't know before - thus vacuously true. 
+
+The SEP has an entry on modal interpretations of QM. But a quick scan through doesn't show any immediate work with modal logic. 
+
+Sentences are a key concept in model theory as they allow for well-defined truth values. A set of sentences is called a theory; any individual sentence is a theorem. Model Theory resolves traditional logic into two separate pieces - a syntactic form with rules of deduction (so formal proofs can be established) together with an interpretation that establishes truth. (This Setup can then be generalised to an arbitrary logic/grammar/theory with an interpretation). 
+
+You might find Graham Priests book The Limits of Thought helpful in refining your question. Priest argues that 
+
+cognition (Sextus's sceptism and Protagoras's relativism) 
+
+Possibility has a logical definition - modal logic - which leaves its degree of possibility indeterminate. 
+
+It looks from this, that there is an internal notion of truth to the proof system that is used, but which is considered only formally when we think of the proof system as being a formal system. Is this correct? 
+
+In the integers:1,2,3... we can say that there isn't a largest number; but it turns out with the advent of set theory we can posit a largest number omega that doesn't lie within the integers and yet bounds them. In mathematical terms we can say that it is a limit to them. 
+
+Now, what happens if the formal deduction system is not classical but intuitionistic? Intuitionistic logic is many-valued but rather than modelling truth one models constructability/provability, which instead of using set theory semantics uses Kripke semantics. Now: 
+
+The hypothesis is actually named after the continuum of the real numbers in the first statement. But one can additionally see this in a different light by thinking of it as asking about the continuum of infinite cardinals. 
+
+Could one take a similar tack with set theory - that this is possible as a coherent strategy is shown by the existence of Category Theory ie there are categories without global elements. 
+
+Intuitionistic logic proceeds by denying the classical law of the excluded middle, that is for any proposition, it must either be true or false. Without this law reductio is no longer valid. Brouwer believed that truth must be justified by a constructive proof, that it actually produces what it claims is true (I imagine he considered that closer to our own intuition). In a sense, he's replacing the idea of truth with the idea of justification. 
+
+But why restrict to just possible worlds? Why not all worlds, that is include the impossible worlds; and then one can say that at the limit of the possible worlds lie the impossible ones - they are it's boundary. 
+
+The idea of Substance goes back to Aristotle. In his Categories he says: 
+
+Classical propositional logic is bivalent, that is its set of truth-values has cardinality 2 (True & False). Intuitionistic logic drops the law of the excluded middle; does it have the same set of truth-values? If not - then what is its set of truth-values and its cardinality? 
+
+has sense and reference: one can ask whether the proper names - unicorn and beautiful refer; one can argue that these names occur in the corpus of written works, that they also occur in speech, that they are not arbitrary strings of letters; thus they refer, but to what? and how? 
+
+b. To argue then for logical pluralism, one may suppose there is a way of interpreting classical logic modally - but is this possible? 
+
+This implies that there is more than one way to dualise intuitionistic logic. I'm primarily interested in viewing intuitionistic logic as a heyting algebra in category theory, and standardly dualising that to get co-heyting algebras. 
+
+Of course, with the advent of Cantorian set theory, it was also realised that one can define and investigate larger infinite numbers, which are ordinals and cardinals (cardinals are certain distinguished points in the ordinals and are very sparse). Then one can ask the same question at his new level: Is there a largest Cardinal?

@@ -1,0 +1,31 @@
+Some caliper rim brakes do have interchangeable pivot bolts and accompanying hardware available, either explicitly or by way of what are usually simple hacks. Within Tektro brakes for example, many of the brake arms use the same bolt style and hardware and can be switched between front recessed, rear recessed, front external nut, and rear external nut mounting if you have the hardware to swap around, which can be useful at times in the shop when you need a certain color, reach, front/rear position, and nut style permutation right now. Tektro makes a product that supports this so you don't have to go cannibalizing other brakes. But none of that applies in any way to a Force brake, or if there were a way of getting another company's external nutted pivot hardware on there (which would be one way of solving this, probably) it would be an experiment and a more fabrication-requiring hack. Your brakes don't have any pivot hardware offered aftermarket by SRAM. 
+
+Different chains, including modern ones, have all sorts of patterns or markings on the tips of the pins. On some there's some level of intentionality to it as a shift aid. There are no bike chains where all the links are screwed together. (There are some half-link styles where the pin screws in place, but that's a tangent.) 
+
+There are no strict standards for chainring spacing so while if the crank you had was too far off what the shifter/derailer "expect" then yes, that could cause bad performance, that part isn't really a mountain vs road thing, and is more about what width chain the crank is intended for. If that was causing the problem, it would probably be pretty clear when trying to adjust the shifting. 
+
+One of the stumbling blocks with this on touring bikes in particular is whether the steerer comes chopped or not. The norm in the industry is for all steerers to come cut to size to minimize assembly time. On touring bikes where it's more common for people to want high positions, that causes a lot of problems. Some companies, Surly and Salsa for example, who send out a higher than normal proportion of special ordered bikes, send uncut forks with all or almost all their bikes. The important point here is that, especially being tall, you have to know how much steerer you have to work with to get your target bar height. This is true even if you were willing to put a steerer extender on your new bike, which is unfortunate when it winds up being necessary. 
+
+What can be made to work presuming a willingness to forego the plastic shield (which actually does a lot of work) and/or add spacers not supplied is another question. 
+
+While you have the white paper out, make sure to check out your parallelism, and get the mounts faced if needed. 
+
+The vast majority of road bikes for the last 25-30ish years use short reach brakes. They're essentially the default for road bikes. This has led to a situation where many people are unfamiliar with anything else and use incorrect and confusing language, calling short reach brakes "standard" and brakes in the 47-57mm-ish group like you probably need "long". 
+
+Edit: Some of the longest and fanciest of the fancy rando long-reach centerpulls may also work, barely. Compass lists their brake as 65-80mm. However, if it did reach, it would probably be the best brake you could get on there. 
+
+To answer your second question, no, a Shimano MTB front derailer will not work well because their road and mountain front shifters pull different amounts of cable. It can be made to work badly and this is enough that some people will tell you it works. 
+
+You don't indicate how true the rotors are. Many need truing out of the box - again it's not necessarily how it's supposed to be, but it's how it is. 
+
+Another approach is using one of the generator light brackets available that are somewhat intended to address issues like this by only adding a bare minimum of material behind the caliper. (Maybe you've already looked at this; I offer it in case you're running into the issue by trying to use one of the chunkier generator light brackets out there, such as the plastic ones.) An example would be the B&M 471F: 
+
+I'm going to limit this answer to Shimano Hollowtech II BBs as per the question. Some other brands do it a little differently. 
+
+There may be combinations that work acceptably, but they will be hacks in an area not a lot of exploration has generally been done in at present. 
+
+A bike fitter with a proper fit machine who has some sensitivity and awareness to riding styles other than racing is also an easy path to handling this. Then you're just dialing the geometries of whatever bikes and sizes you're looking at into the machine and test riding to your heart's content. There is a lot you won't learn about the bikes from doing this, but it is a very good way to learn about one's fit needs, and again it's a reliable way of knowing you're getting the right size of a given model. 
+
+Road external cranks and their bottom brackets don't use any spacers between the cups and the shell. Mountain external cranks have longer spindles and the bottom brackets generally come with spacers to accommodate both 68 and 73mm shells, each with or without an E-type front derailer under the cup. You're using some amount of spacers in all configurations other than 73mm + chain device, and the chainline stays the the same, regardless of shell and spacer configuration. And road chainline is a different, smaller number, again the same regardless of ISO or Italian. 
+
+Caliper brakes have a reach measurement usually expressed as a range, representing the pad's ability to move in its slot. There are essentially 3 different reach classes for dual pivot brakes, but manufacturers vary in the exact numbers. For example most Tektro brakes have 39-51mm for short reach brakes, 47-57 for medium, and 55-73 for long. Shimano short reach brakes are 39-49, Campy is 40-50, etc. That number is the distance from the center of the brake mounting bolt to the center of the brake pad fixing bolt with the brake in actuated position. (I think the exact position it's measured in is with the faces of the arms that contact the back of the pads parallel, but I don't have proof of this.) To measure what reach a bike needs, measure from the mounting bolt hole to the center of the rim.

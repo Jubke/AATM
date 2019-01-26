@@ -1,0 +1,55 @@
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this: 
+
+But this elliptic clause is still quite different from the participial construction in your examples; notice how the ellipsis is not possible with because. 
+
+The Latin roots of the English word able are: 
+
+Hebrew is an Afro-Asiatic language, whereas Proto-Germanic is an Indo-European language. We don't know of any relation between these two language families: if there is any, it is shrouded in the mists of remote prehistory. Barring very strong evidence to the contrary, any similarity between a Hebrew word and a Germanic word must therefore be ascribed to coincidence. 
+
+In traditional grammar, the word doing is a participle in all your examples. It modifies the subject, I. This can be made more visible by reversing the word order, which results in a somewhat artificial but transparent sentence with identical meaning: 
+
+It is possible that the -ilis part in -bilis is related to the separate suffix -ilis as used in habilis, but I cannot find a definitive etymology for -bilis. 
+
+Do you have any information about the origin of the Hebrew word? 
+
+Your construction is the same as in these sentences: 
+
+Now let's consider your first example: 
+
+The (unattested) Latin form was *habibilis, as mentioned by Sihler and noted by Tom Recht below. In classical Latin, this had been shortened to habilis, as it often happens with double syllables (called haplology). The h- had disappeared in certain French forms and dialects by the time the word was borrowed by English, and -lis regularly evolved into -le in French, resulting in English acquiring the word able. 
+
+The Latin root of the English suffix -able is: 
+
+There are two theories about the origin of the Germanic word, which is still uncertain: 
+
+One could add a preposition in your first example: 
+
+A participle often expresses the circumstances in which the subject performs the action of the finite verb; that is why you can often replace it with a while or because clause, an adverbial constituent of time or cause: 
+
+Night, fight, and wight are all pronounced with a final /-aɪt/ in Modern English. Their < -ght > spelling reflects the Middle English pronunciations, which had a final /-ixt/. (The digraph < gh > in MidEng represented the sounds /x/ or /ç/, which were also variously spelled < h >, < ch >, < ȝ >.) 
+
+In the English Great Vowel Shift, Middle English /iː/ diphthongized to [ɪi], then became [əɪ], and finally Modern English [aɪ]. Non-initial /h/ was lost. This led to: 
+
+In Old English the three rhymes were not yet homophones. The /a/ in the night etymon had raised to /i/ under palatal umlaut, causing it to rhyme with wight: 
+
+The reason the three words are spelled similarly in Modern English is that they rhymed in Middle English. The reason they rhymed in Middle English despite differing etymologies is that they underwent regular predictable phonological mergers: 
+
+One thing to remember about English spelling is that for the most part it is "frozen", and reflects the Middle English pronunciation. Another thing to remember is that there has never been a standardized spelling for English, and individual judgment, errors, and a variety of dialects have played a large role in how words are spelled. So every question about English spelling has to be considered in light of these two major issues. 
+
+By Middle English the rhymes were all homophonous in /-iːht/. This was due to the effects of raising on the sequence /eoh/ to /ih/ in a series of steps: /eoh/ -> /øːh/ -> /eːh/ -> /iːh/; thus: 
+
+The Latin roots of the English word able are: 
+
+It is possible that the -ilis part in -bilis is related to the separate suffix -ilis as used in habilis, but I cannot find a definitive etymology for -bilis. 
+
+A participle often expresses the circumstances in which the subject performs the action of the finite verb; that is why you can often replace it with a while or because clause, an adverbial constituent of time or cause: 
+
+The Latin root of the English suffix -able is: 
+
+Do you have any information about the origin of the Hebrew word? 
+
+But that doesn't prove anything: the word about cannot normally be left out in English, so this is an entirely different construction. The fact that there is little change in meaning is, again, a coincidence rather than a structural feature. In this construction, doing is a gerund (not a participle), because it functions as a noun. Only things that function as nouns can be the object of a preposition. You can see that it is not possible in other instances of the same construction, which shows that doing is no gerund here: 
+
+One could add a preposition in your first example: 
+
+A feature of English (ellipsis) is that we can sometimes leave out the subject and the form of to be. In this case, that is possible with while if the subject is the same as that of the main clause and the finite verb is a form of to be. Then we get this:

@@ -1,0 +1,21 @@
+This is why Kant employes a deduction. Kant's "deduction" is not used in the modern sense, but in a way used in German legal language at the time. Here Deduktion meant a proof of the quid iuris (the matter of the law) in opposition to the quid facti (the matter of the fact). As Kant's argument does not involve the rule of law in a literal sense, the analogy that he tries to convey is about a legitimate source of justification not concerned with establishing matters of fact. 
+
+And he starts his preface in the Critique of practical reason explicitly addressing his title: 
+
+it is important to stress that this is exactly not Kant's point. The opposite is the case: TD itself is the verification! – The "proof" that his categories apply to the objects of experience is exactly what Kant tries to achieve through TD. 
+
+Your question is complicated because you take the big bang as an example, which marks also the "beginning of time" and is thus more problematic. In fact, the first of Kant's famous antinomies is dedicated to it. 
+
+As to the more general question: Is it possible in Kant's view to conduct history as a science on a geological/development scale? – The answer is yes. 
+
+A small note: All of that is seperate from the morality of any given action, but I find most of the really repugnant conclusions stem from a misunderstanding, or an artificially constrained set of options. 
+
+For instance if two people are being lowered into a pit of lava. I can pull one lever and save one, or pull the other lever and save the other, but if both levers are pulled, both die. 
+
+For Kant, we are prohibited from using people as purely means. Unfortunately things like physically stopping someone from doing violence onto you just because you don't want to be wounded seems to very much be using them as a means and not an end. 
+
+I have an obligation to keep others from peril and an obligation not to hurt people. So I'm obligated to try and save one of them, but in doing so, I ensure the death of the other. This seems to be fundamentally different than the trolley problem. Saving one person does not entail dooming another, previously uninvolved party---and yet it means the person I did not save is certainly doomed. 
+
+Since we can never think outside of our own minds, anything we ever think or perceive will inherently be subjective. "Objectivity" is and has only ever been just a form of collective subjectivity. The "way things truly are" may very well be vastly different than our human minds and senses can possibly perceive or comprehend. You should note, however, that Kant did think we could discern some objective truths about the nature of the universe, but only a very limited few (the Pure Categories of understanding, the reality of space/time/causation, etc). He is often seen as a bridge between rationalism and empiricism in this regard. 
+
+Other than saying that "the schema in itself is always only a product of the imagination", it doesn't appear it goes into much more depth than that. I think the paragraph in The Critique of Pure Reason just before the one you listed is most crucial for comprehending the concept of schema:

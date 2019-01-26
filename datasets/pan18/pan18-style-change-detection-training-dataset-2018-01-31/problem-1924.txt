@@ -1,0 +1,31 @@
+In other words, conflicting principles seems to be a nearly endemic problem... but generally a problem asserted by the critics of any particular view which the defenders (leaving aside Kant's approach) think indicates multiple but non-contradictory values. 
+
+summary Note well, I'm not saying you need to accept these views. Instead, I would say: 
+
+Second, Aristotle specifically mentions poor upbringings and bad circumstances in several places in the NE (for instance I.10). But these do not affect whether or not a given action is ethical. Similarly, as you note, Aristotle suggests that only someone who is raised well can act ethically on his account. 
+
+Problem 1: Absolute Standards When you doubt the logic of absolute standards in ethics, I think the trick to all such views lies in a rejection of: 
+
+I think there's two things to consider here. Before that, I'll just mention that as far as I understand Nietzsche "master-morality" is not all chosen over slave-morality based on a utilitarian calculation. Instead, it's that there's something disgusting about the way slave morality arrives at value, viz., in an external and ergo slavish way. 
+
+Thus, Kant rejects the voluntarist position that God is above morality. 
+
+Augustine in the City of God adapts elements of Plato's philosophy to present the idea of dual citizenship for Christians in Rome and Heaven. On such an account, the state below is more arbitrary and maleable since the image of justice is through religion not the state. 
+
+Moving forward to Hobbes and Locke, we arrive at the idea that the state arises through negotiations of power and the surrendering of the right to bash others in (social contract theory). On such theories, I don't see the ultimate objection to schisms in the state. For instance, it's hard to see why such a contract isn't malleable enough to allow for that as say per se Scotland devolving or something like that. 
+
+I think Shane captures the basic structure of the standard secular arguments, but there are a few more that can be offered -- some of which run contrary to the usual political divisions at least in the American sphere. 
+
+First, you'll never get a completely convincing causal story that places the qualitative good directly opposite a quantity of some good. This is because many of the things people qualitatively value (such as freedom) relate to agency, and make it so that it's rarely if ever convincing that protecting the qualitative good is the cause of the quantitative loss. So then why should it be abandoned or reduced? 
+
+Rule utilitarianism: the position that in order to maximize some desirable feature (or minimize some undesirable feature), rules should be established that produce the optimal outcome across many actions incorporating the limitations and constraints on the information available to those agents. 
+
+If you object, "but what if ..." and pose some hefty moral cost for this (every child on earth loses an eye, a kidney, and a leg), then one of two things will occur: 
+
+To answer this, we first need to understand the nature of Utility. For Mill, Utility is measured in pleasure. Thus, the question is about what maximizes pleasure. But in Utilitarianism Book 2 Paragraph 5, Mill makes an important, interesting, and controversial qualification. He explains that there's a distinction between higher and lower pleasures. And that humans should pursue the higher pleasures. Thus, his calculus is that we should maximize pleasures of this sort (I just read something about this in Robert Adams, Finite and Infinite Goods (OUP: 1999) near page 200). ( to some extent this raises a second issue "no comprende" points to in a comment, if we're quantifying how can we have upper/lower distinctions.) 
+
+a further consideration is that again consequentialist views do not lack conflicts in principles. Mill's Utilitarianism asserts that actions are good to the extent they promote happiness and bad to the extent they promote unhappiness, but he also incorporates at least two other principles that seem in conflict with this. First, in the same text, he tries to claim there's a distinction in types of pleasure based on what should make us happy. Second, in On Liberty (and elsewhere), he asserts that we cannot harm anyone to maximize happiness -- but this means there's two principles in his consequentialist view: the greatest happiness principle and the harm principle. 
+
+If you are going to grant these claims and focus elsewhere 
+
+Thus, for the above reasons, I don't think your reduction truly captures the position of the rule utilitarian. Instead, it just makes him an act utilitarian who doesn't think rules add anything.

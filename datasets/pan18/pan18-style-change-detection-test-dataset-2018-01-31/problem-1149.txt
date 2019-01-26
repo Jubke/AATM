@@ -1,0 +1,47 @@
+As for other languages with similar predicates, they propose that the Japanese adversative -rare is similar to "have," but specified as extending the endpoint (hence the argument is always an experiencer/affectee), and that the French faire is similar to "have" but specified as extending the initial point (hence the argument is always a causer). There are also both benefactive and malefactive interpretations for some Salish applicatives (see, for example, Kiyosawa & Gerdts 2010. Some googling has also resulted in a book "Benefactives and malefactives: Typological perspectives and case studies" by Zuniga and Zeppo (2010). That might give you a good place to look for the crosslinguistic morphosyntactic properties of malefactives. 
+
+Under either approach to plurality, a singular and plural form have distinct denotations, so I don't think they would be considered the same word semantically (assuming that the notion of a semantic word would correspond to a denotation, although I don't know if that is what's usually done.) 
+
+They argue that the introduction of additional arguments to a construction correlates with the introduction of additional event structure to a predicate. So since "have" systematically introduces a new argument, it also systematically introduces more event structure. It is unspecified, however, for what kind of extra event structure it contributes. It can thus be interpreted as extending the event beyond the original starting point of the event - in which case the introduced argument will be interpreted as the causer of the event. Or it can be interpreted as extending the event beyond the original ending point of the event - in which case the introduced argument will be interpreted as the experiencer/affectee of the event. (I tried to schematize this below in a sort of diagram.) 
+
+In the lexicon, ||loves||=λx.λy.love(x,y) and ||obviously||=λP.obviously(P). On this view, syntactic composition is function application (hence the name "functionism" for this approach). 
+
+where e is an eventuality (also called situation, possible event, or state of affairs). Such logical forms can express everything one can encounter in language (such as quantification and logical connectives) so there's no reason not to use them if it helps elsewhere. And help it does a lot in pragmatically interpreting discourse. Meaning assembly that produces this kind of logical forms can be easily implemented (with or without lambda calculus) in both phrase-based and dependency-based grammar formalisms. 
+
+Some say that lambda calculus is unwieldy for implementing meaning assembly because it isn't monotonic. But it's a wrong approach to use lambda calculus at the level of surface syntax. (Linguistic) meaning is part of deep syntax, hence it should be assembled there. Deep syntax structures are unordered (or can be viewed as unordered for the purpose of semantic representation) and thus a λ-expression can refer to grammatical functions raher than the order in which syntactic structures are built up. In glue semantics (which uses linear logic) the meaning of "love" is taken to be 
+
+Thus in glue semantic the meaning of both "John loves Mary" and "Mary John loves" can be assembled using the same rule though in the latter sentence it's the subject what is "attached" first. 
+
+There's a purely logical definition (given in the MIT Encyclopedia of cognitive science): If sentence s is uttered in context c, then p is a presupposition in s if c entails p. This definition is more or less identical with most linguistic definitions and is equal to that of Jerry Hobbs if "entails" is taken to mean "abductively proves". Rephrased less formally, presuppositions (topics) can be inferred from context (that is, they're predictable from previous discourse and/or shared background knowledge). The remainder of the sentence is focal ("preferred content" in the MIT Encyclopedia mentioned above). 
+
+Meaning assembly via composition rules is best done using unification. If one uses Davidsonian (or neo-Davidsonian, i.e., Parsonsian) logical forms, every phrase (including preterminals) is associated with an LF fragment and an individual. If you have a ternary (or, in general, a nonbinary) rule, the individual of a subordinated phrase is unified with a variable in the LF fragment of the head. For example, the predicate of "give" is quaternary and the corresponding rule is VP -> V NP NP. Then the individual associated with V (the eventuality) is unified with that of VP. The individual associated with the indirect object is unified with the fourth argument of the predicate of the verb, etc. The subject variable remains open until it's unified later by another rule. Since (neo-)Davidsonian formulae are existentially closed conjunctions of literals, when the parsing is completed we take all literals used during parsing to be conjuncts and add a quantifier for each variable occurring in the LF. 
+
+I am wondering if there are any verbs/phrases that qualify both as ditransitive, and as atelic. The following shows the relevant tests. The satisfying verb/phrase should have the same * patterns as give w.r.t. ditransitivity, but * patterns with sleep and watch in the telicity tests. A complete answer will provide the evidence that the proposed word passes the test in these ways. 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+Single event compatibility with "for"-adverbials: 
+
+*Al gave Mary a ring for a year. 
+
+Entailment from the progressive to the perfect: 
+
+Al watched TV a lot last night. 
+
+*Al gave Mary a ring a lot last night. 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x 
+
+Single-event compatibility with "a lot": 
+
+Single-event compatibility with "in"-phrases: 
+
+Al is watching TV. => Al has watched TV. 
+
+Al gave Mary a ring in a year.

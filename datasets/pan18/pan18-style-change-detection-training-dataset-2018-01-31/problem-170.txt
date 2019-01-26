@@ -1,0 +1,39 @@
+How to use them really depends on your game play style. However, the general consensus is that they are used for tanking damage while other units deal damage to the opposing forces. Depending on if you are going bio or mech the hellbats are in front while the marines/marauders/tanks are behind them dealing damage to the opposing forces. 
+
+Mothership Acceleration increased from 0.3 to 1.375. 
+
+Stalker Blink research time increased from 110 to 140. 
+
+Psystarcraft has a tutorial on how to do this here: 
+
+The unit itself doesn't have a direct attack, but you can use its pulsar beam when it has energy to do so. When it is activated, it does fast, high amounts of damage to light units. This makes them ideal for charging into harvester lines and decimating the income of your opponent (un-upgraded 2 shots will kill any harvester). With enough energy, you can send in a few of these units, time warp the harvester line and activate the pulsar beams to destroy their economy while you race ahead. 
+
+They have a reactor instead of a Tech Lab? Killing one will cut their unit production in half and if they want to get the add-on back, they need to spend over an entire production cycle reproducing the add-on. During the time you are still producing at full force so your army size will out pace them. 
+
+The widowmine is a very powerful unit and can be used both offensively and defensively. As a defensive unit, it's wonderful for warding off drops. One or two can effectively protect your mineral line for other terran drop harassment. You'll want to place the mine that enemy forces will be coming into. If you've ever used vulture mines in Starcraft 1, it's the same mentality for defense. 
+
+I'm not sure how each one of your examples are not working as they are viable with a little bit of tweaking. 
+
+You also mention that it's the norm to get +3 armor really fast, and it's right, I do as well, marines do 5 damage (no upgrades) zealots have 2 armor, take off 2 more from guardian shield and you're tickling the zealots with no upgrades. Upgrades make them that much stronger. The answer? Keep up on your attack upgrades too. They essentially cancel out if you are just as high with your attack upgrades. And since you need to make the armory to keep upgrading, might as well do air attack as well (so your vikings can knock down colossi faster). 
+
+Mothership's Cloaking Field no longer cloaks all units instantaneously, but rather adds units to the cloak field over time (maximum of 25 per second). 
+
+However, there is one mission that has been altered that allows 2 players to try this mission on different difficulty settings. http://us.battle.net/sc2/en/game/maps-and-mods/mods/left-2-die 
+
+Raven Seeker missile movement speed increased from 2.5 to 2.953. 
+
+I've seen it done in many pro games in the GSL, I just trying to find a publicly available video now. 
+
+There's a very popular way to break out of this wall in called the drone drill. 
+
+Of course, if you can take out the Command Center, always go for that (but not at the cost of losing your entire army as a counter push could cause you to lose the game). 
+
+They also have a Revelation ability that binds itself to enemy units/buildings and will constantly provide vision until the timer runs out (60 seconds) and does not provide detection. 
+
+They also have an ability called Abduct which does pretty much what the name says. It allows you to pull a unit from where it is to where the Viper is. The cast range is very long (9, same as extended thermal lance of a colossus) so you can pull fortified units to an exposed position where they can be destroyed. Think of "charging" into some marines with tanks behind them with your army only to have them retreat and hide behind the tank fire. With vipers you can pull those tanks forward as you're charging and those tanks then become the first things targeted as the marines end up running behind the tanks because they were pulled forward. 
+
+All these abilities take energy, which can be replenished from zerg structures at the cost of 200 HP for 50 energy which takes 20 seconds to convert in full. 
+
+Many pro Terran players will place a hellion over the creep tumor they see starting and use other hellions to attack it and kill the creep tumor. 
+
+As of the latest expansion there are coop missions that can be completed with friends. The missions range in difficulty and characters that you can choose. They are designed to be completed with a friend. It is called "Allied Commander" mode. There is a much longer blog post from the Blizzard website, and you can check out the preview video here.

@@ -1,0 +1,15 @@
+All these factors influence what hands are folded and which are not. Which means that the probability of a player having a flush or a straight is greatly changed. Final table or no final table, poker is poker. You shouldn't change your game when you reach the final table of a tournament. Your play is probably good, that's why you came so far. 
+
+This means that, just as in the case of 3 players, Y is the same for every suit. But you will see a lot of players or even dealers who often get it wrong. I see it all the time... 
+
+Now, if you're talking about a higher probability of a player to have a flush instead of a straight... this depends on a lot of factors... and by a lot I mean a lot: Small pocket pairs lose their value as their rank goes down. Let's take for example pocket sixes. Cards bigger than sixes are 7 and up, this means (14 - 7 + 1) x 4 = 32. There is a huge chance that one of those 32 cards will show up on the board. Now if we consider pocket threes, then there are 44 cards bigger than a 3. This can not be true... A flush is always better than a straight, no matter how many players there are at the table. 
+
+All this is obviously just a small part of the decision process. There are a lot more factors to consider. There are situations where it's a good idea to play pocket fours and other situations where folding Jacks makes a lot of sense... It depends on the action, how your opponent(s) play, is it tournament or cash, how deep everyone is and much more. 
+
+The only additional factor that I can reasonably see included in your decision process is the payment structure. Difference in payment is usually very big (3rd place gets twice as much as 5th place, 2nd place gets 5 times more as 7th place and so on). There are big jumps, so you probably have to be more cautious than usual. 
+
+What this means is that, unless you hit a set, the value of your hand will be low, especially if a multi-player hand. 
+
+The problem with having something like this is that you immediately lose objectivity. Emotions must be avoided at all costs in the context of poker; having a favourite hand is included in this rule. Poker is something cold and calculated. The only good emotion is some sort of cold, distant empathy, because it can help predict what your opponent(s) will do in the short and medium run. 
+
+Even if the first one is likely to bluff at it to take it down, the fact that the 2nd one called him pretty much means he has a set of Kings or even better, which means you're behind. So fold your Aces. You don't want to risk your entire tournament life on a coin flip, especially so early and especially when you're this deep (it's early, like I said, so you still have a lot of BBs in your stack).

@@ -1,0 +1,45 @@
+Villain would have 3 bet pre with KK. Maybe 3 bet with QQ. 
+
+Even if villain only plays AA, KK, and QQ here you should call as you are 50%. 
+
+They would not check the turn with a made flush. I think you need to apply more pressure on the turn but they were not getting direct odds to call a flush draw. You were getting close to pot committed if you bet $100. The hands you want to call (AK, 77) would still call $100. 
+
+Given you failed to raise the flop just call the turn and if the other two call you have $213 in the pot. If a blank hits on the river value bet $25 and hope for 2 callers. EV = -47 + .8*(238) = $143 
+
+KGB could have popped it to 6 BB giving Mike 3:1 and he is getting a call basically all the time. Mike has position two handed. A small raise is not giving away the strength of KGB hand. 
+
+Villain pushes on the river You have to call 100 to win 130 You are getting 1.3:1 You are beat by 33, 55, JJ, TT, 35, T5, J5 Some are odd hands but hero has them or is bluffing I think villain should have bet 2 times the pot so you could not lay down Villain made it too easy for you to lay down by over betting He would need to be bluffing 40% for that to be the correct call That is just not a board to bluff Based bet on the turn villain should put you on a flush or better When I first read it I said heck yes got to call But as I do the math fold seems like the way to go 
+
+Turn that is a bluff, KK, or a set thinking they are good. You are getting 3:1. AQ should not get here. No way they are on AQ 3/4 of the time. That is a call. 
+
+T on the river is a real scare card for you. AT, KT, QT, JT, TT, 88 are all hands that would have been played that way. You have shown strength all the way. It is not a good spot to bluff. Villain is not doing this thinking a pair of 8 will win. He is bluffing or has you beat. He would have to be bluffing over 1/2 the time for you to make the call. I see more hands beating you than bluffs. Is he turning J9, A8 of clubs into bluff? I am not finding enough bluffs to justify a call. 
+
+You are rarely getting odd to chase a set if you miss the flop. 
+
+Need to sell that you have a winner. Would you have played JT, Q8, 98, QQ, 99 that way? Get AQ or KQ to fold out. Or they could be on a busted draw. Your risk is here is they could be on 2 pair or better and not going to fold. 
+
+It is fair to call it a raise but it would be more proper to call it open for $3 on the flop. With $3.75 in the pot that is almost a pot size open. That is a strong call. They have a piece of it (like a Q) or a strong draw. Since you have the flush covered including the Ace maybe JT for an 8 outer straight draw. 
+
+Since you have seen the nut straight it saved you some money. 
+
+I they are raising you loose like 1/4 of the hands then KK is a 3:1 favorite. You should push with 99+ and AKs. Then you are a 2:1 favorite and play more hands. 
+
+Just call and if you hit the river check again. Hopefully he leads out for $10+ and then you can raise $20+ or even push at that time. 
+
+Villain has hand. But he is probably not AA on KK has those would likely have pushed pre flop. He could certainly be on a big ace, big king, or JJ - 55. Any suited 10+. 
+
+When it gets back to villain if they are on TT+ they should / could push with their entire range. They think AA KK is ahead and they think TT is behind. If villain had AA or KK they would not quickly go in - that indicates they want a fold. They hope a push will fold out JJ or QQ. To me you should have raised with JJ+ and the only hand you can consider folding is JJ. I would probably even call here with JJ to balance my range and villain could just be totally out of line. 
+
+You are only behind KK+. You have 50% equity on QQ+. Mathematically you should call if their range is QQ+. 
+
+In summary mathematically and GTO it is a call. 
+
+You have to put villain on a T or a strong 8. AT, KT, TT, A8, K8, 88, or JJ. 
+
+JJ is in your range. They are likely putting you on like 55+ and big aces 
+
+You were getting pot odds to call the $6 on the flop based on two card to come but not based on one card to come 
+
+Why in the world did you check raise? You are on a draw. You don't need to build pot equity with this guy. He has led out every round. Even if he did just call then it would likely slow him down on the river. 
+
+Flop villain donks for almost the pot. A spade should just check. They could be on AK or 77 wanting a fold or build value and hope a spade does not hit. Or they could be on a pocket pair with no spade taking a shot at taking down the pot.

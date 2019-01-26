@@ -1,0 +1,67 @@
+I don't think it's relevant, but this is my code for configuring the navigation controller to perform interactive transitions: 
+
+BTW, this issue appears to only manifest itself when the SQL contains subselect statements. 
+
+There are several approaches to customizing callouts: 
+
+If you want to include some annotations in the snapshot, you have to draw them manually (!). This is discussed in some detail at the end of the Putting Map Kit in Perspective video. I have to say that this is one of the least elegant implementations that I've ever seen Apple advise. Anyway, in iOS, it might look like: 
+
+This is a very common programming pattern: Submit something to run in the background and when it needs to perform user updates, dispatch the update back to the main queue. 
+
+Make sure you adjust other constraints so they don't conflict if you adjust the size tableview programmatically. In my example, the tableview had a trailing space constraint that locked it to the bottom of the screen, so I had to adjust that constraint so that rather than being locked at a particular size, it could be greater or equal to a value, and with a lower priority, so that the height and top of the tableview would rule the day: 
+
+If I repeat this process, this time not adding the image to the post, the text of the URL conveniently does not show up in the body at all (even though it shows up properly online). 
+
+As you can see, it's much easier to programmatically adjust the height of a tableview if you're not using autolayout, but in case you are, I present both alternatives. 
+
+The references I've found suggest that you can use the font size of zero and it will resize the font to fit your navigation bar (using a slightly smaller font for the shorter navigation bar for the landscape layout). And it does choose a font size that fits nicely to the height of the navigation bar. But it looks like if you go from portrait to landscape and back, the width of the navigation bar's title label gets screwed up, so what shows up as a title of, for example, "Long Titlebar", looks fine when you first view it in portrait orientation, looks fine when you view it in landscape (with the appropriately smaller font), but when I come back to portrait, the font correctly reverts to the larger font, but the title text itself is truncated, becoming "Long..." even though there's plenty of space for the full title. Has anyone else seen this behavior when using a font size of 0.0? 
+
+Drag the container view off-screen to the right. You can also use the size inspector to increase the X coordinate of the child view until it is just off-screen. 
+
+Have any of you developed a high speed, crude version of atan2() for this sort of graphics work? Optimizing this sort of thing for performance is fussy and time-consuming. 
+
+Custom subclasses A custom subclass can override existing methods. It can also add new methods, properties, and instance variables. However, it can't add methods to an existing subclass like a category can. 
+
+Now control-drag from your container view into the header file of your parent view controller to create an IBOutlet. 
+
+Our app, Face Dancer, is free on the app store. (Download it at this link: Face Dancer in the App store You might want to download it and try it out. (It includes a number of free morphs, and then offers additional morphs as in-app purchases) There is also a paid "Plus" version that has all the morphs included. 
+
+There is an OpenGL sample app called GLCameraRipple that is included with Xcode and linked from the documentation. I would suggest taking a look at that as a starting point. It takes a video feed from the camera and draws it to the screen. If you touch the screen it distorts the image as if the screen were a pool of water and your finger was causing ripples in it. It uses a mesh warp technique like what I described. 
+
+What you want to do is to ask your owning tab bar controller to switch tabs. 
+
+For scalar properties, you can save the scalar value using NSCoder methods like encodeInt:forKey: 
+
+You can download it from Github: https://github.com/DuncanMC/TabBarControllers.git 
+
+I am not exepert in the intricacies of makefiles and build rules, so I need guidance. 
+
+We could write it in longer form: 
+
+There's currently no blocking/locking going on: All the blocks run at full speed. I am utterly mystified as to why the concurrent code runs slower. 
+
+You can download a sample project on github that I wrote that shows working code for this animation, among other Core Animation techniques: 
+
+A "transaction" is a Core Animation term that refers to a discrete set of UI changes that are grouped together and submitted to the Core Animation engine for rendering together as a group. Most of the time the system creates animation transactions for you behind the scenes as a result of your animation code (known as "implicit transactions".) Take a look at the Xcode docs for CATransaction for more information. 
+
+I ended up using dispatch_group_async() to submit 8 blocks, with a dispatch_group_notify() to notify the program when all the blocks have finished processing. 
+
+I've been doing some experimentation lately on using large numbers of random numbers to generate "normal distribution" bell curves. 
+
+The app drives it's UI from a set of page descriptor files that it reads at runtime. It uses those page descriptor files to load scenes from the app storyboard using unique IDs, and then each page's view controller figures out which multimedia content to display based on it's page descriptor. 
+
+Search for "weak" in your project code and the libraries you include. Change it to a "assign" 
+
+Airspeed Velocity gave you the answer: 
+
+Now add a swipe gesture recognizer to your parent view controller's view, and connect it to a method (I call the methods from gesture recognizers IBActions even though they don't have to be IBActions.) 
+
+Categories Categories allow you to add methods to an entire class, even classes for which you don't have the source code. Categories are especially useful for adding new methods to system classes where the system creates the object inside frameworks, where you can't change things to create a custom subclass instead. 
+
+You'd create CAShapeLayer and install it as a mask on your view's layer. 
+
+To save an object that conforms to NSCoding to user defaults, first convert it to NSData using the NSKeyedArchiver class method archivedDataWithRootObject, then save the resulting data into defaults. Quite simple, really. 
+
+Under the covers, the system generates a CAAnimation that makes the change. 
+
+You can add a category to a base class like UIView, and the methods you add become available to that class and all it's subclasses. So you could add an animation category to UIView and then all UIView objects including image views, buttons, sliders, etc, would gain the methods defined in that category.

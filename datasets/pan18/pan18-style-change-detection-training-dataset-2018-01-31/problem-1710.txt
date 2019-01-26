@@ -1,0 +1,25 @@
+In other words, I think that the natural point of view of the mathematicians regarding the language of mathematical theories is that it must have "reference". 
+
+But, and this is the point of view shared by some "distinguished philosophers which have studied the philosophy of mathematics, like Frege and Russell, and currently debated under the headings of Naturalism and Indispensability argument, can we "make sense" of all mathematical science only considering it some sort of "formal game" deprived of any reference ? 
+
+Comment: we have here a cartesian approach: the autonomous capability of a living being to move itself is due not to the body [i.e. matter] alone but to soul. It is interesting to note that Euler is equating soul with the "faculty of thought"; what about animals' capability of self-motion ? According to Descartes, there is no mind or soul in animals. 
+
+Thus, "empirical" knowledge, based on sense perception, is knowledge of the particular, while "rational" knowledge, i.e. explanation from first principles, is knowledge of the universal. Basically, what the "common sense" of the scientific community share is some sort of belief about the existence of an external reality which is the reference for scientific language and theories. 
+
+Same locus [translated by R.P. Hardie and R.K. Gaye, from The Complete Works of Aristotle. Volume 1, the Revised Oxford Translation, edited by Jonathan Barnes, 1984]: 
+
+The argument above licenses the: 
+
+The argument used by Leibniz to “confute the fancy” of those who take space to exist independently of spatially related things, is the following: The "process" is circular : there is no set of "initial" words (known by "ostension" ?) such that all other words can be defined/explained in terms of them. The platonist characterization of this sort of issues comes from the fact that is "difficult" to support the "common sense" realist view regarding abstract entities. About the metaphysical aspects of LP, according to your source, I think that the comments point at a general aspect: it is impossible to make an argument in philosophy avoiding all kind of presuppositions. Thus, distinct "real" points cannot be discerned [here he use the priciple of Identity of Indiscernibles] and all the purported distinct points must collapse into a sort of "singualrity". So, if presuppositions are not "scientifically" based, and science cannot prove everything, also the general position of LP, that all knowledge is empirically-based and that every argument that is not scientifically proved has to be banished because "metaphisical", is in itself subject to the same criticism of being "unprovable", ans so methaphisical. 
+
+According to Ian Hacking, Searle's book The Construction of Social Reality (1995), is not a social construction book at all. For sure, Searle is not a relativist. The "syllogism" runs as follows: 
+
+Now the conclusion of the syllogism easily follows: Finally, we "generalize" to conclude with: "Movement" must be understood here in a general sense, as synonim of "change". 
+
+I agree with the previous comments that SEP articles are the best way to start with. Then you can move on to some of the volumes in the serie Cambridge Companions to Philosophy; you have at your disposal at least: Frege, Russell, Wittgenstein, Carnap and Quine. Physical things are located by way of "measuring" them (through coordinates) against some reference frame. In order to understand the language learning process we may assume (see the theory about "innatism" of Noam Chomsky) the existence of some sort of "mental software" that drive the "bootstrap" process of language aquisition. 
+
+From the same author, you can find a book-lenght version of it : John Bell, The Continuous and the Infinitesimal in Mathematics and in Philosophy (2005). 
+
+From 2) and 4), by modus tollens, we derive: and εἰκασία (visual imagination). 
+
+Exactly so: if you pick up a word i the dictionary and "build up" a tree (in the mathematical sense) using the definitions, surely you will find , well before having finished reading the dictionary, a word that you have already met.

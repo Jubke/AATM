@@ -1,0 +1,31 @@
+These are not two different types of parsing in HPSG (or anywhere else, AFAIK), but two (of the many) aspects of parsing with a rich grammar like HPSG. 
+
+My answer is partially motivated by Dominik Lukes's answer and some of the things I read in the comments that follow it. Leaving aside the fact that it's my own fault that I know nothing about Dependency-Based Compostional Semantics1, constituency-based parse analyses map fairly easily to compositional semantics. I believe this claim applies equally well to deeper grammars (LTAG, HPSG, CCG, etc.) that are the intellectual children of the simple Phrase Structure Grammar. After all, the parse trees don't change much between one of these formalisms and another. 
+
+Given this, if you were to apply the object over the verb, and then apply the subject over the resultant, you'd have the man and the woman each visiting a garden, that may or may not be the same garden. However, if you were to apply the subject over the verb, and then apply the object over the resultant, you'd have them both visiting the same garden. 
+
+But compare the first line of Chaucer: 
+
+Relative and interrogative pronouns and their allies, descended from the PIE root *kʷo- In English these start with WH: where, what, whither, whence, when, how, who, why, whether, etc. I'm not dealing with Chomsky here; I find Chomsky's proposals and theories about language and its supposed relation to human brains, minds -- and lately biology and genetics -- to be at best irrelevant, and at worst embarrassingly ridiculous. Either way, what he might say, or has said, is of no interest to me. For details, see The Chomskybot. I'm restricting myself to a discussion of syntactic rules as they are developed in McCawley 1998, which is pretty basic and non-formal (formality in syntactic theory is only justifiable to the extent it makes theories machine-washable, and that is not the issue here). That said, here's the presenting question: Well, not simultaneously, no. Not in the same sentence. 
+
+Grammar is a (occasionally the) set of rules for the organization of meaningful elements into sentences; their economy, in one sense of that word. Do-Support applies to any verb that's not an auxiliary, no matter what it means. Real linguists just have data to look at. And the data shows patterns. And the patterns can be viewed as algorithms, or as databases, or as formatting for ideas, or as social activity, or as cultural conventions, or as a lot of things. But you have to be able to state them somehow, and get the job done before the heat death of the universe. 
+
+This also solves all coreference problems, because complementizers are not referential. Therefore if there is any coreference in the relative clause, it is coreference of the sort called "understood" (also, "deleted", "a gap", "zero", "Pro" (of two varieties), or some other term, depending usually on what year your syntax instructor got their PhD). I saw Otavio's comment only today. Here is the course description: 
+
+The official documentation for PTB tags is this weird PostScript file; you might prefer this quickref. My answer is partially motivated by Dominik Lukes's answer and some of the things I read in the comments that follow it. 
+
+These are not two different types of parsing in HPSG (or anywhere else, AFAIK), but two (of the many) aspects of parsing with a rich grammar like HPSG. 
+
+Given this, if you were to apply the object over the verb, and then apply the subject over the resultant, you'd have the man and the woman each visiting a garden, that may or may not be the same garden. However, if you were to apply the subject over the verb, and then apply the object over the resultant, you'd have them both visiting the same garden. 
+
+When you write down the semantic representation of a sentence (lambda calculus) you see that the determiner "consumes" the noun. Hence, it is the semantic head of a noun phrase. SEOP has a comprehensive overview of the phenomena that led to this, but Wikipedia is not bad either. Leaving aside the fact that it's my own fault that I know nothing about Dependency-Based Compostional Semantics1, constituency-based parse analyses map fairly easily to compositional semantics. I believe this claim applies equally well to deeper grammars (LTAG, HPSG, CCG, etc.) that are the intellectual children of the simple Phrase Structure Grammar. After all, the parse trees don't change much between one of these formalisms and another. Many complex predicates are historically derived from serial verb constructions. This is not only true of the Sinitic family. For example, in Saramaccan (Byrne 1987, as cited in Givón 2009): 
+
+and thus, since [for + NP + to-infinitve VP] is now a nominal constituent, we can have sentences like this: 
+
+and the test therefore does not apply to it. 
+
+My question is, has there been any literature that explains these phenomena under the GB framework? If Koopman's analysis is correct, how do these guys pass the Case Filter? If not, can I be pointed to literature regarding similar phenomena in other languages? This led me to wonder if I am looking at a coincidence, or if there is a deeper connection going on. Thus I'll be glad if I can be pointed to some relevant literature in the area, whether in the form of a large-scale typological survey or a smaller-scale study that gives possible explanations of crosslinguistic tendencies in differential adjective-noun order. Thanks! 
+
+That's why 'the founder of' is not a constituent. 
+
+Because 'him' and the subject of 'exercise' co-refer, sentences like (1a) were naturally reanalysed as something like this:

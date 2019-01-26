@@ -1,0 +1,31 @@
+Check the chain line though the front end. Is the chain clear of the derailleur and sitting properly on the chain ring. 
+
+My real concern is the "However hard I tried....." - you may have done significant damage to drive train components. Never put pressure on a jammed drive train - a modern bike is actually a very highly tuned, lightweight and fragile piece of machinery. Forces it is not designed to take will break it. 
+
+You do not say how you went from jammed and not moving to moving and not driving - was there a bang/crack/snap involved? 
+
+There are a few things that can be wrong, and based on what you said, you probably now have more than one fault. You need to isolate parts to find out what it is. Most of the of these checks can be done almost instantly without removing anything. The chain will get in the way - you won't need to remove it though. 
+
+Third, yes, it is possible that the chain is still in good shape after 3200km if you are a lightweight rider, who tends toward spinning rather than heavy gear use, and who maintains the bike well. 
+
+'#3 is my guess, without a side photo to confirm it. This is a photo of the difference between worn and unworn pulleys. Keep in mind, this is an extreme difference, and yours don't need to look this bad to cause your problem. Edit: After new photos, there is some wear, but not enough to cause the issue. 
+
+This type of problem has 5 likely causes, listed in order of elimination. 
+
+You can follow the logic in the comments below: 
+
+This sounds like a stiff or separated link in your chain. There are other options, but this would be easy to eliminate, and a likely cause. 
+
+Last, if you're worried about it, replace it. There is no downside to replacing it early, and you've gotten your use out of it. Assuming it will not hurt you financially, of course. 
+
+If not, replace the chain, taking care to join the links more carefully this time. 
+
+Yes. Any local bike shop should have them in stock, and they should cost no more than 5 dollars. You need to know the brand and type of your chain. (i.e. Shimano 10 speed or Campag 11 speed) If you know the model (i.e. Ultegra or Dura Ace Shimano, that is a bonus. 
+
+You do not say how you went from jammed and not moving to moving and not driving - was there a bang/crack/snap involved? 
+
+What type of chain - Shimano have chain connector pins for exactly this task for many of their chains. Note the pin must exactly match the chain. If you have a length of the same chain (I always keep the left overs when I put ion a new chain) break the chain again and remake the chain with the leftovers. 
+
+Remove the wheel from the bike and check the freewheel. It should be moving freely in one direction and locked up in the other 
+
+My real concern is the "However hard I tried....." - you may have done significant damage to drive train components. Never put pressure on a jammed drive train - a modern bike is actually a very highly tuned, lightweight and fragile piece of machinery. Forces it is not designed to take will break it.

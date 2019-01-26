@@ -1,0 +1,33 @@
+'#3 is my guess, without a side photo to confirm it. This is a photo of the difference between worn and unworn pulleys. Keep in mind, this is an extreme difference, and yours don't need to look this bad to cause your problem. Edit: After new photos, there is some wear, but not enough to cause the issue. 
+
+http://www.parktool.com/assets/img/product/_productEnlarged/EK-2_001.jpg 
+
+Their Bike Buddy case is sold either with or without tools included, and is a carry-on friendly, rolling hard case, with a pretty decent pit kit included in the "with tools" version. 
+
+Edited to include troubleshooting steps and conclusion: 
+
+Edit: I happened to see their empty tool case from the kit above at Fry's this weekend: 
+
+You can follow the logic in the comments below: 
+
+Shimano Installation guide Shimano tech docs for RevoShift 3 speed Other styles of RevoShift Tech Docs The third link takes you to a tech doc page. It's java, so I can't link to the search directly. Type RevoShift in the search box. 
+
+They also have a number of sizes of empty tool cases including a backpack version. 
+
+The seat post mounted stands are larger (generally, sometimes, but not always less stable, but far quicker and easier to use. Downsides depend on the model, but generally: Less stability, and more difficulty working on an aero bike due to frame and seat post shapes not fitting in the clamp. 
+
+I would think about where and how you ride the bike, and whether it is possible that you could be causing the damage in some way, and I would find a different shop with a good reputation, and ask them the same questions. If you get similar answers, then you can trust that the shop you are going to is doing well for you. Most shops do their best, in my experience, but not all shops have similarly skilled and knowledgable staff. 
+
+How easy are "brifters" (e.g. Shimano Total Integration or Campagnolo ErgoPower) to maintain and adjust as a hobby cyclist at home?-- Although quite a lot of road bikes have them (including even light touring-oriented/adventure bikes such as the Salsa Vaya or Genesis Croix de Fer 10), I have often heard even from competitive cyclists that they are extremely fussy and hard to keep working optimally. How true is this?-- I keep hearing that, for example, long-distance tourers and others focused on dependability avoid them due to their apparent fickleness and complexity. However, are brifters really that unreliable, or are these people just in the "tail" of the distribution of cyclists, those who cannot afford failure in even the rarest of cases? 
+
+I've got a vintage road bike with no braze-ons for shift cables: Instead, it's got a cable stop holding the cables against the downtube and parallel to the chainstays. Unfortunately, it seems to slide up the downtube with use, which not only causes the shifting to get all wonky and eventually fail but it also has created a nasty, long scratch along the underside of my downtube: 
+
+Where on Earth can I get something like this?-- is this even possible, or did I just ruin my last bike purchase in a record two weeks? 
+
+The best traveling tool kit I've found is made by B&W International. 
+
+So, there are several reasons which can cause spokes to break continually. Metal Fatigue is one, but it should take longer than that to be as serious a problem as it appears that you have. 
+
+Generally, if you are using an inner tube in the tire, you should replace the tire if there is more than a 2 millimeter cut in the tire casing. Not in the rubber, mind, but it the threaded cloth casing that your rubber bits are laid on to. 
+
+This can also be the result of poor maintenance practices. A basic wheel should be trued and tensioned properly again after the first 100-200 miles of riding, and may need to be retensioned regularly to stay strong (at much longer intervals, like say every 6 months when ridden regularly). This interval will vary depending on rider weight, riding style, and skill. If this is not done, it allows the poorly supported rim (because the spokes are loose) to flex and bend as you ride, and even if you later tension the wheel again, it will not be as good as it was new.

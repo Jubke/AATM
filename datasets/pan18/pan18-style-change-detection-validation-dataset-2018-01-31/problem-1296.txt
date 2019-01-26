@@ -1,0 +1,33 @@
+Phonemes If you look at a phoneme set for English (e.g. Wikipedia's IPA for English), that lists the phonemes found in English, excluding dialectal variations. As such, you need a set of sentences that include at least one word listed in the given phonemes. 
+
+You also need to be aware that different people transcribe different sounds differently depending on what information they choose to preserve. You need to be aware of this if you choose different sources for phonetic information. For example, Wikipedia is not consistent across different articles. Likewise, the CMU pronunciation dictionary is not consistent -- it mixes different American accents and in some places mixes up phonemes. 
+
+The Speech Accent Archive uses an elicitation paragraph for comparing its accents. This paragraph ("Please Call Stella") is found in footnote 1 on the about page. 
+
+For the TRAP-BATH split I can identify when people exhibit this and use [ɑː] for BATH. Is this because the FOOT and STRUT vowels are closer together than TRAP and BATH, thus making the difference less noticeable? Is it because there isn't any (or marginal) free variation/difference in the BATH vowel sound, making it clearer and more consistent? 
+
+Likewise, you need to account for other splits in progress, such as the BAD-LAD split found in Australian English and American and Canadian English accents with Canadian raising. 
+
+John Wells has a reasonable analysis for vowels using Lexical Sets -- groups of words whose vowel share the same sound. Different lexical sets may share the same sound, in which case they are merged. For example, modern (non-conservative) English accents don't make a distinction between NORTH and FORCE. Also, American and British English use a different sound for the vowel in SQUARE and several other vowels; most of this is due to a rhotic vs non-rhotic distinction. 
+
+For example, in English, voiceless plosives are aspirated word-initially and in stressed onsets. Thus, a narrow transcription of "cool" might be [kʰul], while a broad transcription would be /kul/. Similarly, "lack" could be represented as [læk] and /læk/ - note that broad /k/ can become narrow [k] or [kʰ], depending on its position in the word and surrounding sounds. Because this information is predictable by the above rule, the aspiration is left out of the broad transcription. 
+
+In linguistic description, the "broad" and "narrow" designations are defined somewhat loosely, generally according to whatever convention the linguist reporting the language feels is most useful. Under the Generative Phonology framework, however, these are assumed to represent two distinct stages of phonological processing, each with a psychological reality. Square brackets denote the final stage of processing (which is sent to the articulators), called "phonetic transcription", while slashes denote the form stored in the mental lexicon (stripped of all predictable information), called "phonemic transcription". 
+
+You're absolutely right - the choice is completely arbitrary. Generally, before the publication of The Sound Pattern of English (Chomsky & Halley 1968), whichever underlying representation required the fewest number of rule derivations to produce the output forms was chosen, i.e., whichever was the most elegant. 
+
+Square brackets ([fubar]) are generally used for what is known as narrow transcription - this includes as much detail as the transcriber feels is necessary. Slashes (/fubar/) represent the broad transcription, which does not include "predictable" information. 
+
+Likewise, you need to account for other splits in progress, such as the BAD-LAD split found in Australian English and American and Canadian English accents with Canadian raising. 
+
+Phonemes If you look at a phoneme set for English (e.g. Wikipedia's IPA for English), that lists the phonemes found in English, excluding dialectal variations. As such, you need a set of sentences that include at least one word listed in the given phonemes. 
+
+You also need to be aware that different people transcribe different sounds differently depending on what information they choose to preserve. You need to be aware of this if you choose different sources for phonetic information. For example, Wikipedia is not consistent across different articles. Likewise, the CMU pronunciation dictionary is not consistent -- it mixes different American accents and in some places mixes up phonemes. 
+
+Lindsey transcribes 〈governing〉 pronounced by Kasia Madera as [ˈgəvnɪŋ] and 〈up to〉 as [əp tə] on his STRUT vowel page. Here, I can recognise the [tə] in 〈to〉 but am having difficulty identifying the STRUT vowels as [ə]. Is this because they are actually shifted slightly toward the [ʊ] vowel and thus harder to identify as [ə] (e.g. when comparing COMMA and STRUT vowel pronunciations), or is it my brain being trained to think that 〈up〉 is pronounced [ʊp] so does not hear the [ə] as a [ə]? 
+
+The Speech Accent Archive uses an elicitation paragraph for comparing its accents. This paragraph ("Please Call Stella") is found in footnote 1 on the about page. 
+
+For the TRAP-BATH split I can identify when people exhibit this and use [ɑː] for BATH. Is this because the FOOT and STRUT vowels are closer together than TRAP and BATH, thus making the difference less noticeable? Is it because there isn't any (or marginal) free variation/difference in the BATH vowel sound, making it clearer and more consistent? 
+
+John Wells has a reasonable analysis for vowels using Lexical Sets -- groups of words whose vowel share the same sound. Different lexical sets may share the same sound, in which case they are merged. For example, modern (non-conservative) English accents don't make a distinction between NORTH and FORCE. Also, American and British English use a different sound for the vowel in SQUARE and several other vowels; most of this is due to a rhotic vs non-rhotic distinction.

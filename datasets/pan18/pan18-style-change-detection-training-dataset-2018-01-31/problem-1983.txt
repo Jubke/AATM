@@ -1,0 +1,15 @@
+I haven't tried to understand this in detail, but some wikipedia authors apparently believe that this is a geometric representation: 
+
+Here, "these logics" refers to Boolean algebras, Heyting algebras and modal algebra. The various representation theorems for these algebras as set-algebras related to certain topological spaces seem to provide a positive answer to this question. These representation theorems are non-trivial, since they are equivalent to the Boolean prime ideal theorem, which cannot be derived from the axioms of Zermelo–Fraenkel set theory without the axiom of choice. 
+
+1. Gödel basically observed that it's not at all clear that finitary means can always by formalized in Peano arithmetic: 
+
+Common to all three position is a strong commitment to the existence of mathematical objects and to the falsifiable consequences of that existence. These strong forms of idealism have actually been falsified theoretically and practically by progress on the foundations of mathematics and the tremendous success of abstract mathematics. (But the strong forms of formalism have also been falsified.) 
+
+This quote from Wikipedia makes it pretty obvious that studying the subdirectly irreducible Heyting algebras won't help much for the understanding of intuitionistic logic. 
+
+The consistency of Peano arithmetic is an even more interesting example: It seems to follow from Gödel's second incompleteness theorem that the consistency of Peano arithmetic cannot be proved by purely finitary means. This was indeed the opinion of von Neumann, expressed in a letter to Gödel before the publication of Gödel's results. Gödel himself explicitly rejected this conclusion in his paper1. Indeed, Gerhard Gentzen later proved by finitary means that Peano arithmetic is consistent. Especially on page 555-556 (~ page 64 of the proof), he proves that the ordinal numbers smaller than ϵ0 are well ordered by finitary means in a way which cannot be formalized in Peano arithmetic. The result is that we believe that Peano arithmetic is consistent, but (at least some mathematicians still believe) that its consistency can't be proved. Well, even mathematical proofs depend on general context, implicit assumption and explicit premises. Axioms are either part of the general context, or part of the explicit premises. 
+
+Note The above description is neither historically correct nor does it give full justice to the corresponding positions. However, I preferred to give a description of idealistic positions which still includes its rough edges, as a contrast to the "why should we care" position of fictionalism. 
+
+The wikipedia article on modal algebras says

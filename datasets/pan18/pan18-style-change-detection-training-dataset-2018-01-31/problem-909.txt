@@ -1,0 +1,31 @@
+Can we get the old behavior back please? :) 
+
+Another (hypothetical) example: person who posted 100 bad questions that do not fit in Stack Overflow. He accepted 100 answers, gaining 200 reputation he doesn't really deserve. All 100 questions are deleted so his 200 reputation will also be removed, taking away the privileges he should not have earned in the first place. 
+
+Edit, January 2014: still happens 
+
+Of course real fix is to use imgur hosting for the avatar of Community, though if they didn't do it for all those years, it's probably much more complicated than one might think. (For reasons unknown to me.) 
+
+Feel free to vote to close as dupe of some random question just to test, lol! 
+
+Each browser handles such things in its own way; I don't think there's much to be done. 
+
+Sure you can - the r tag is very common on Stack Overflow for example. 
+
+Worth to mention that in the Welcome Message neither of them is linked to a profile. 
+
+Removing the tag from the question will make it disappear after a day or so assuming no other question was tagged with it during this time, so no harm done. 
+
+The bug is whatever gave you that URL, if it was internal SE link and not added manually by someone. 
+
+For example, suspension is based on reducing the suspended user reputation to 1 - this effectively strips the user from all privileges he might had. 
+
+See in the bottom of the Our Team page: 
+
+Onebox can of course remove it as well, but not sure if it's worth the efforts. 
+
+This got me curious... what does a company cage look like? :) 
+
+Also worth checking if same happens with flagging. 
+
+I just cast a close as dupe vote on a question here on Meta. In the past it used to push the auto generated comment live but now I can't see my comment after voting, only after I reload the page.

@@ -1,0 +1,35 @@
+The animator object is deallocated after each presentation and dismissal, so it's not at all clear why it should behave differently on subsequent runs. 
+
+The constraints are removed. If you add A again, you will have to make new constraints for it, or if you save the constraints before you remove A, you can add them back. When I do something like this, I save the constraints like this for a view called view1: 
+
+If you created the cell in the storyboard, then just remove the register class statement. You don't need to register anything (for a collection view or table view) if you make the cell in a storyboard (in fact, it screws things up if you do so). The only thing you need to do is make sure that you set the identifier in IB. 
+
+I've made a test app to familiarize myself with making a custom container view controller. If I rotate the device when the app first starts or after switching to a different view controller, the new view resizes to take up the whole screen, as I intended. However, if I rotate after the app starts, and then switch to a new view controller, the view keeps its portrait size instead of getting shorter and wider (actually it's slightly different -- it goes from 320,460 to 300,480). The master view controller is alloc init'd in the app delegate (no xib) and set as the window's root view controller. Here is the code I have in my MasterViewController (the custom container controller): 
+
+For example, global variables are roots; by referring to an object, a global variable, by definition, makes that object part of the app's live object graph. And, by implication, any objects that the object referred to by the global variable are also considered to be live; not leaked. 
+
+For example, it would not be appropriate to use for catching out-of-bounds exceptions unless your goal is to catch them and somehow report the error, then -- typically -- crash or, at the least, warn the user that your app is in an inconsistent state and may lose data. 
+
+In working with quite a bit of Objective-C++ code over the last 20+ years, a bridge like this is generally more trouble than it is worth. You would likely be better off -- spend less time writing and debugging code -- creating simple Objective-C wrappers around the C++ (or C, frankly) APIs that can then be integrated with and consumed by the targeted system's Objective-C frameworks. 
+
+Specifically, the image views that hold the half images of the view don't respect the constraints they are given, and so are twice the size they should be (they're the size dictated by the retina image). This only happens on simulators with retina displays. 
+
+Here is the code, including the logs that show the size of one of the image views both before and after the constraints are applied, 
+
+Here's a simple implementation of how to use a picker as an input view: 
+
+The short dashed constraint (orangeToRedCon is the outlet) has a priority of 999 (you can't change a required priority to a non-required, so that's why it's not 1000). The long dashed constraint (yellowToRedCon) has a priority of 500 and a constant of 20. In code, you can hide the orange view, and swap those priority levels, and that will cause the yellow view to move up to whatever value you've set for the constant value of yellowToRedCon. 
+
+After Edit: If I switch to the current controller's view, it works fine, so I'm thinking that this has to do with getting a snapshot of a view that's not on screen. Can that be done? 
+
+Implementation details, all of 'em. Thus, this is a relatively well informed bit of conjecture. 
+
+First, the memory is still reachable from the live object graph. Thus, by definition, there is an algorithmic problem in your application that is keeping the memory alive. Finding and fixing that can often be much more difficult and potentially disruptive then fixing a mere leak. 
+
+Internally, there are concrete subclasses of the publicly declared classes within the cluster. Those concrete subclasses are highly optimized to a particular task -- immutable vs. mutable array storage, in this case (but there may be many more non-public subclasses optimized to different purposes) -- where the subclasses override the advertised API to provide highly optimized versions of the various methods. 
+
+(I derped a stack when I meant a heap. Sorry about that.) 
+
+Now, why are the class methods the same? Good question. Let's try calling it: 
+
+Behavior of any exception thrown through system framework code is undefined.

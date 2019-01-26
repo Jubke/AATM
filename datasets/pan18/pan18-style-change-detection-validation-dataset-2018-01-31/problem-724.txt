@@ -1,0 +1,67 @@
+These constants refer to two different kinds of data types, string vs numeric. 
+
+Declaring a property synthesizes two accessor (getter/setter) methods: 
+
+You should set the purpose string property in the CLLocationManager object so that when the system asks it can also tell the user why you want their location. 
+
+What you could do is keep a rolling, weighted average (or a Kalman filter) of the recent "good" altitude readings to help filter out the measurement errors. 
+
+In the delegate you can implement the method locationManager:didChangeAuthorizationStatus: to know whether the user allowed core location or not. 
+
+An enum declaration is not a struct, the syntax is similar but it simply defines a series of named numbers. 
+
+On the other hand just could just make your own segmented control using a set of custom UIButtons inside a UIControl. 
+
+You can set the width of the segments (using setWidth:forSegmentAtIndex:) so you can easily make the left and right end segments larger (say 10px larger) than the others and then you can crop off 10px from either end and have square corners. You don't have to make it larger than the screen width, instead put it inside a UIView and use it to crop the ends. 
+
+This works better with an actual device than with the simulator since the Mac is hard to work on when inside the Faraday cage ;-) 
+
+800 Mhz has a 37 cm (14") wavelength, 1900 Mhz has a 16 cm (6") wavelength. 
+
+The named constants in UIApplications are pointers to NSString objects, they have a pointer value and there is also a string constant that they point to (which is in the .m file). Sort of like declaring some string constants like this (except they are extern and the definition is completed elsewhere): 
+
+The way to get around this, is to follow the last few paragraphs in this article 
+
+Imagine you have a sheet of paper (the webpage) under a magnifying glass(the viewport), if you move the magnifying glass and your eye, you see a different part of the page. This is how iOS works. 
+
+You have done the right thing by balancing the init with a release. 
+
+(in the second line the navigationController does retain login but it will release it itself when it is necessary) 
+
+(assuming you're using ARC, otherwise you need to release the copy'd dictionaries) 
+
+I want to load a PDF that is in my application bundle into a CGPDFDocument. 
+
+So in iOS the viewport moves, in a traditional browser the webpage moves. In both cases the fixed elements stay still in reality; although on iOS the fixed elements appear to move. 
+
+Fixed positioning doesn't work on iOS like it does on computers. 
+
+You are not retaining the downloaded data: 
+
+Why do you think it will never get released? 
+
+"position:fixed" now works as you'd expect in iOS5. 
+
+For days, I picked an arbitrary year, because every Tishri has 30 days (and no month in the Hebrew calendar has more than 30 days). 
+
+Assuming you've done all this correctly, you'll end up with this: 
+
+Obviously you're not going to hard-code in the ranges like this. Perhaps instead you could do something like: 
+
+The way around this is to do some sort of guard. This could be a runtime check to indicate that you're running on an iOS 5+ device, or could even be something more mundane, like this: 
+
+Next we'll define a couple of handy constants: 
+
+For months, I pick the middle of the rows column, figure out where that sequence starts, and add the month number to it. The same with the days. 
+
+Man, "unfriendly" is an understatement on that array! 
+
+And finally, when I run this code, I get: 
+
+OK, I think I figured this out: 
+
+When building attributed strings, I prefer to use the mutable subclass, just to keep things cleaner. 
+
+As you've discovered, creating a functioning date picker is a difficult problem, because there are bajillions of weird edge cases to cover. The Hebrew calendar is particularly weird in this regard, having an intercalary month (Adar I), whereas most of western civilization is used to a calendar that only adds an extra day about once every 4 years. 
+
+For months, I have to make sure that the year is a leap year. By doing so, I can guarantee that the month names will always be "Adar I" and "Adar II", regardless of whether the current year happens to be a leap year or not.

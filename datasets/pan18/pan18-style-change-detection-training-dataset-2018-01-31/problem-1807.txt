@@ -1,0 +1,33 @@
+A possible reference to check (but I've not read it) is Alain Badiou's ontology. 
+
+would be the "most natural" assumption to be tested experimentally in order to achieve a quantitative determination of force. 
+
+Having established its existence and basic property, the emptyset has a central role in the theory (see e.g. Von Neumann construction of the natural numbers). 
+
+We can say that noumenon is the "limiting case" of a "thing" devoided of all "properties" (what we ascribe to it following our phenomenal experience). 
+
+In the same way, having assumed the concept of set (a collection of things), we can easily imagine the "limiting case" of a set without elements; with the basic axioms for sets (specifically : the Extensionality axiom) we can prove that all empty sets are equals, and thus speak of the empty set. 
+
+Following your suggestion, we may say that "things" are known through their interactions with us; these interactions are the phenomena. 
+
+See : John Herivel, The Background to Newton's Principia : A Study of Newton's Dynamical Researches in the Years 1664-84 (1965). 
+
+Now it becomes more clear what the author means: the first formulation (the one I quoted) can easily be used in some kind of (perfect) world model: it's very technical and focuses on logical soundness. The second formulation however is geared more toward 'daily use' and gives a somewhat more practical idea, something we can actually try to use. 
+
+I've heard two versions of this anecdote about Kant's ethics: 
+
+The word 'humanistic' is not used in the strict sense of the word you looked up here. What is meant is more 'human-oriented' or something like this. This formulation of the Categorical Imperative is actually called the Humanity Formula: 
+
+Example Using the first formulation we can argue we shouldn't lie: 
+
+Furthermore, if you read the context, this post not only claims the other formulation is more humanistic, it also claims it's less formalistic. Which means: 
+
+Is it true that Kant would say these things? If so, what's his reasoning? 
+
+Regarding Kant's own perception of the difference between the two versions of the review Kant did indeed, in a letter to a third person, clearly express the severe differences between the reviews as published in the Göttinger Anzeigen and the Allgemeine deutsche Bibliothek respectively (to Johann Schultz, Aug 22nd, 1783) 
+
+One reference linking obligation by reason directly (and nessessarily) with the ideas of God and a future life from the Critique of Pure Reason, A 810|B839: 
+
+In this text, there are further sources to be found for that argument probably being what Kant had in mind there as well. 
+
+Second step: Content of such a law We have a will that needs a principle that has the form of a unconditioned law, without taking purpose into account. At the same time we know that every action is reasoned subjectively and governed by its maxim, i.e. that the will always acts according to its maxim (follows from his definition of a maxim).

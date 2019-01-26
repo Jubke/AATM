@@ -1,0 +1,33 @@
+I recently realized that the addition of move semantics in C++11 (or at least my implementation of it, Visual C++) has actively (and quite dramatically) broken one of my optimizations. 
+
+Actually, the theory-focused answer you accepted is 100% wrong. 
+
+Given this, is D actually context-free, or am I misunderstanding the concept? Why/why not? Update: I just thought I'd comment: It's really interesting to see the answers, since: 
+
+Multiplication of two n-bit numbers can in fact be done in O(log n) circuit depth, just like addition. 
+
+I can't tell if I'm learning or getting more confused, but either way, I'm kind of glad I asked this... thanks for taking the time to answer, everyone! 
+
+The terminology is really tied to the language, and gets pretty confusing. 
+
+Note: I've noticed that very large buffers tend to decrease performance. I've noticed speed losses with using 16-MiB buffers instead of 512-KiB buffers before. 
+
+And of course, "iterat​ion" refers to an action, meaning "to repeat an action many times". Often, this is accompanied by going through a list of items. 
+
+I used to think C++'s object model is very robust when best practices are followed. Just a few minutes ago, though, I had a realization that I hadn't had before. 
+
+Java still has enumerat​ion​s similar to C++, but they're sort of different as well. 
+
+Does anyone know which of those is the case? (If it was generated from some other piece of code, I'd be interested in knowing how/why this was done.) 
+
+If those problems were solved, I'd say that D would probably catch on pretty rapidly. 
+
+Use null-terminated strings instead of counted strings, as these are the easiest to access from most languages. But be careful about buffer overflows. Update 6 years later: I recommended this API for interoperability reasons (since so many already use null-termination, and there are multiple ways to represent counted strings), not the best one from a best-design standpoint. Today I would probably say the former is less important and recommend using counted strings rather than null-terminated strings if you can do it. 
+
+There's no portable way to interact with legacy C++ code with pretty much any other language, including D. Hence most people are just forced to continue using C++ to be able to use their old code. 
+
+While using the GC isn't "required", the standard library uses it extensively, so you're pretty much forced to use it if you're using Phobos. There are plans to fix this, I think, but as long as this is the case, people who want manual memory management will probably avoid D. 
+
+Manually implement a copy constructor for every nontrivial class I write. This is not only error-prone, but also painful to write for a complicated class. Never store iterators as member variables. This seems severely limiting. Disable copying by default on all classes I write, unless I can explicitly prove they are correct. This seems to run entirely against C++'s design, which is for most types to have value semantics, and thus be copyable. Is this a well-known problem, and if so, does it have an elegant/idiomatic solution? 
+
+My question is: is this behavior a bug, or is it intentional? Is it even specified by the standard at all?

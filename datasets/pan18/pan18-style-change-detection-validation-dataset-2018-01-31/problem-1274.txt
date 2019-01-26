@@ -1,0 +1,41 @@
+Now, is this sentence ungrammatical because now mistake isn't indefinite anymore without "a"? By contrast, the semantic category of "definiteness" concerns identifiability. You use definite markers when you think your listeners can identify the referents of your noun phrases, and you use indefinite markers when you think your listeners would not be able to identify the referents. 
+
+"Individual, separate entity": this sounds like the semantic category of "specificify". If the first person inclusive markers were fundamentally second person then we would expect them to begin with an /-n/. Instead, the first person plural inclusive form /-rnalu/ is the same as the first person singular form /-rna/, but with the common plural marker. The first person exclusive forms are unrelated. 
+
+No, your example sentence is ungrammatical in English because the rules of English require that all singular countable nouns have some sort of determiner. 
+
+Copyright isn't relevant to this. If any law is involved it will be trademark law. But some genericised trademarks are no longer enforceable. 
+
+snapable bricks (perhaps. I'm not certain if there is a common generic name for Lego-like toys) photocopier. In Australia we never say anything other than photocopier. searched the internet for ... Here is a list, though it is incomplete of course: http://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks 
+
+But what I'm wondering with this question is whether the concept of version is also used in any other languages. Kartvelian isn't known to be related to any other language families, but it is in a Sprachbund with other Caucasian languages and often terms in linguistics and grammar are borrowed by people describing other languages, especially ones in a neighbouring area or studied by the same people. I'm currently studying the Georgian language and it has quite a few interesting properties not common in more well known languages. Before the beta I would've thought questions like this one would be such basic concepts that most contributors would be familiar with them. But after a few questions on gender and animacy it seems that some people do confuse the two even here. Being in Albania I decided to sit down with a word frequency list of the language and look each up so I would know some of the common words I see around me. 
+
+A borrowing or loanword is when a word from language A is added to the lexicon of language B, with whatever phonological adaptations are necessary. From the Wikipedia article Georgian verb paradigm: 
+
+Is there a term in linguistics for such pairs? 
+
+Obviously in the history of a word both things can happen: 
+
+(Wikipedia doesn't have a separate grammar article for Albanian and doesn't have an article on adjectival articles) 
+
+Idioms were a special class of set phrases whose overall meaning is not transparently based on the sum of its parts, such as red herring and to kick the bucket. 
+
+But should I call these "properties" of a verb, "charecteristics", "features", "categories"? Is there one term which is mostly used as a cover term for these and other verbal concepts when considered as a whole? "Individual, separate entity": this sounds like the semantic category of "specificify". 
+
+Now, is this sentence ungrammatical because now mistake isn't indefinite anymore without "a"? 
+
+Copyright isn't relevant to this. If any law is involved it will be trademark law. But some genericised trademarks are no longer enforceable. snapable bricks (perhaps. I'm not certain if there is a common generic name for Lego-like toys) photocopier. In Australia we never say anything other than photocopier. searched the internet for ... Here is a list, though it is incomplete of course: http://en.wikipedia.org/wiki/List_of_generic_and_genericized_trademarks 
+
+If the first person inclusive markers were fundamentally second person then we would expect them to begin with an /-n/. Instead, the first person plural inclusive form /-rnalu/ is the same as the first person singular form /-rna/, but with the common plural marker. The first person exclusive forms are unrelated. 
+
+So for these reasons you can't always identify the subject based on the meaning of the sentence. But you can identify it based on factors such as: Obviously in the history of a word both things can happen: Before the beta I would've thought questions like this one would be such basic concepts that most contributors would be familiar with them. But after a few questions on gender and animacy it seems that some people do confuse the two even here. 
+
+I'm currently studying the Georgian language and it has quite a few interesting properties not common in more well known languages. 
+
+From the Wikipedia article Georgian verb paradigm: 
+
+Idioms were a special class of set phrases whose overall meaning is not transparently based on the sum of its parts, such as red herring and to kick the bucket. 
+
+(Wikipedia doesn't have a separate grammar article for Albanian and doesn't have an article on adjectival articles) 
+
+But what I'm wondering with this question is whether the concept of version is also used in any other languages. Kartvelian isn't known to be related to any other language families, but it is in a Sprachbund with other Caucasian languages and often terms in linguistics and grammar are borrowed by people describing other languages, especially ones in a neighbouring area or studied by the same people. Is there a term in linguistics for such pairs? Semivowels can function as either vowels or consonants, depending on their context (what comes before and after them). Being in Albania I decided to sit down with a word frequency list of the language and look each up so I would know some of the common words I see around me. But should I call these "properties" of a verb, "charecteristics", "features", "categories"? Is there one term which is mostly used as a cover term for these and other verbal concepts when considered as a whole? A borrowing or loanword is when a word from language A is added to the lexicon of language B, with whatever phonological adaptations are necessary.

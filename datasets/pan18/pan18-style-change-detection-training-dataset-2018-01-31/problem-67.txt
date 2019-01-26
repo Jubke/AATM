@@ -1,0 +1,21 @@
+It really doesn't matter what your Agile coaches like and don't like. Their opinion can be used as a basis in your team, but the bottom line is to use what works. Try one board for a few iterations and talk about it during your retrospectives. If it doesn't work, change it. Be agile. Adapt. 
+
+My vote in this instance is always for an electronic board and a projector or large monitor in a public area. 
+
+Which one is better? The one that works better for the team. That is the entire point of Scrum. Enable your teams to organize around practices and tools that work for them, and stay out of the way. 
+
+And on a final note: I prefer putting team documents into source control rather than share point. In 2012, TFS will detect changes made from outside of VS, so they are easy to check in and maintain. I find that having a single repository makes it easier on the team to keep track of all documentation. 
+
+Web Access - It has been vastly improved from the 2010 version, making it much more useful. Pretty much everything you need to do an agile sprint planning is there. Re-prioritize and manage your backlog, assign work item, burndown charts, and a whole lot more. 
+
+To highlight some of the ways it can help you: 
+
+The Product Owner is responsible for the economics of the product. As long as he/she is fulfilling that role and their work in process is controlled, I see no reason why they shouldn't grab a keyboard. 
+
+2) TFS 2012, as described above 
+
+Yes. PO is a hat just like any other. The only precluded combination is PO and Scrum Master. 
+
+1) Collaborative sprint planning and sprint review. Usually this is best to do in the middle of the week, because you want everyone to consistently be there. Spend the first half of the day doing spring review & retrospective, and the second half doing sprint planning (adjust as necessary, perhaps you only need half a day for both). This way you get a lot of the administrative overhead done on a single day. Try to be as unobtrusive as possible during these meetings. Do not dictate to your team how long something should take, gather their input on how long they believe each user story will take, bounce that off your backlog priority and add an acceptable amount of work to the current sprint. I think of project managers more as more of a project facilitator than anything else. Your job is to enable your developers to do theirs, and to run interference between them and anyone who would interrupt them from doing their job. 
+
+3) Code review requests are great. You may need to enforce them by creating a gated checkin policy to begin, but eventually you could hopefully move away from that as you team sees their benefit in improved code quality. Documenting is taken care of as the review is part of source control as a work item, so it is always there. This also takes care of the problem of sacrificing code review time for development time. Code review time literally becomes part of development time, and your team won't feel like you are taking them away from their jobs to do something else.

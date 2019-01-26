@@ -1,0 +1,29 @@
+This is the element that Kant calls "transcendental idealism". He is very keen that it is not the "subjective idealism" of Berkeley. And obviously, it cannot be the "transcendental realism" of Locke. So what is it? 
+
+I am conjecturing that a) is incorrect because they can be performed by humans and so are Phenomenal. 
+
+[1.] A similar experiment can be tried in metaphysics, as regards the intuition of objects. If intuition must conform to the constitution of the objects, I do not see how we could know anything of the latter a priori; but if the object (as object of the senses) must conform to the constitution of our faculty of intuition, I have no difficulty in conceiving such a possibility. 
+
+I agree, and so do not challenge here, that 3 is analytic; as the etymology of 'analytic' suggests, the meaning of the sentence must be 'loosened up' from the sentence that itself must be 'loosened up' by examining each word. 
+
+The answer key (on p 220) states (b) as the only answer. But is this correct? 
+
+But what if sentiments and feelings that support doing the right thing and the reason for acting are too intertwined? Then where do you draw the line? Am I right that Sandel assumes (tacitly) that every human can differentiate between them? What if you can't differentiate them? 
+
+This answer feels too abstract; so could someone please concretise or reify it? 
+
+But as 1 and 2 appear to contradict each other, I question whether 3 is a posteriori. Why need I any visual experience of reudh, or any colour, to understand 3? If, never having seen reudh, I am told that 'rouge' means the exact same thing as 'red', then I will have understood the equivalence of the nouns 'red' and 'rouge' (though I still will not know how reubh appears). 
+
+No one knows. No one can know. It's impossible for us to conceive of the world except through these concepts. Kant calls the physical world as it would be without the human concepts of time and space the noumenal realm, from the Greek word for 'thought'. The noumenal realm consists of things-in- themselves and transcends human experience. 
+
+To answer @Conifold's objection: In order to combine experiences and derive general principles at all, there has to be a mechanism to do so -- experience does not naturally correlate itself into rules -- we do that to it. Kant proposes the Categories, which are a bit audacious in their detail and specificity. 
+
+But it needs enough specificity to be generalized. You are not obligated to help people. There are situations in which you do not need help, would not appreciate it, and it might make you dependent or less efficient. You are not obligated not to hurt people. There are situations when hurting people is necessary -- Kant would not refuse to perform surgery. Whatever rules should guide you in these situations are going to rely more on what kind of help or harm is in question. 
+
+our shared stereoscopic model of space which: 
+
+"Should I drive under the speed limit". Well, you should probably not do things that violate other people's expectations in a way that make them unable to keep themselves safe. I think you can universalize "Obey the local customs when they are safe and moral for you and others." In Chicago that means obey the speed limit, when violating it might endanger anyone, and break it if going slowly might be less than safe. (If you go 55 on all of our 55MPH roads, you will eventually cause an accident.) 
+
+Those familiar with the architectonic nature of Immanuel Kant's philosophy argue about the difference between the three critiques (Critique of Pure Reason; Critique of Practical Reason; and the Critique of Judgment) and his popular writings and lectures completed after 1790. While Calvin O. Schrag suggests that Kant's transcendental or critical philosophy is not complete without Religion within the Bounds of Reason Alone, neo-Kantians like Ernst Cassirer contend that Kant should have written a fourth critique providing a phenomenology of culture. Cassirer associates his paramount Philosophy of Symbolic Forms as fulfilling this role. Is Kant's critical philosophy fully articulated with the third critique where his later works are just regurgitation or should we infer a deepening of his thought by incorporating a philosophy of religion or culture? How are we to judge and situate the character of Kant's architectonic, which seems to be systematic but not prone to the confines of system-building? 
+
+Understanding presupposes judgments or subsumption. The analysis of determinative judgment (particulars under generals) in the first critique presupposes the other cognitive powers (reason, imagination, judgment) treated in the second and third critiques under the domain of action and the purposiveness of reflective judgments (particulars in search of universals). Kant asks how we could even be aware of intuitions and synthesizing of the sensible manifold without reflective distance. Further, aesthetic judgments of taste (feelings) are pre-cognitive and non-cognitive. Kant addresses this in sections 39 and 40 of the third through the notion of sensus communis and universal communicability. So although the cognitive powers conform to the lawfulness of the understanding, they each have an independent legislative function. But more importantly, it seems that computers and other technologies can perform the mental operations laid out in the treatment of the understanding in the first critique. I have understood the transcendental philosophy accounting for the fuller human context when he gives shades of a philosophy of culture in section 83 of the third critique and the anthropology. So I am more inclined to accept that the critical philosophy does not arbitrarily favor or subordinate any of the cognitive powers, but they are posited as equiprimordial.

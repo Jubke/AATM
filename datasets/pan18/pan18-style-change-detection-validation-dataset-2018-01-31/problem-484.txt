@@ -1,0 +1,29 @@
+Probably make them the same gray used for the buttons/actions below. It would immediately alert readers that some comments are hidden, and clicking on one set of ellipses would expand that section alone, giving users a greater degree of control over their reading. 
+
+Hamsters have a MTBF of about 20 months which means that they have to replace about 125 hamsters per day - about one every twelve minutes. This system, unlike feeding and cage cleaning, is not automated, so they probably have two or more hamster technicians on 24/7 call to handle this and a few other relevant duties. 
+
+We've all seen, and most have participated in, more than one open/close war. Things are said. Feelings are hurt. It's very personal for many of us, and yet so impersonal due to the lack of face time with your accusers. Unſatiſﬁed, I made another attempt, this time on a doſſier which I was certain deſerved the attention of other ætherheads. Out of these, Stack Overflow selects very strongly for individuals who are motivated by status and acceptance. You get immediate feedback on your contributions to the site, and it's very simple to find your standing in the community. Social contact is given through posts, comments, and the chat feature. Curiosity and Saving are fed through the vast wealth of knowledge the site accumulates. Power comes from the advanced abilities one gains due to their reputation. And there are even individuals who come only because the system is very well ordered and understood - it's easy to interface with the site because there are rules, and they are enforced. 
+
+I sometimes wish those questions were appropriate for Stack Overflow, because they're pretty neat questions. You can learn a lot about the innards of your favorite framework, and invariably someone neat like Eric Lippert comes along and blows your mind. If we kept questions open because of what might happen, the inmates would indeed be running the asylum. 
+
+The line I draw for moderation is based on the probability someone will say, "Try X" and the OP will respond, "I already tried X". To which the person will inevitably comment, "Try Y" and the OP will then say, "But I already tried Y!" (without having it in their question originally). Only flag for moderator attention if you believe a post is an exceptional case. In this case, this question has no exceptional quality. 
+
+What is the origin of the name you use on Stack Overflow or if you use your Real Name on Stack Overflow, what's the origin of any online handle you use? 
+
+An example of a Question that shows no effort but respect other people's time: You can show almost no effort towards solving the problem yourself but if your question respects other people's time, it's fine. We've all seen, and most have participated in, more than one open/close war. Things are said. Feelings are hurt. It's very personal for many of us, and yet so impersonal due to the lack of face time with your accusers. 
+
+We realize that this may come as a shock, and is quite inopportune given the FRIENDS OF THE LEAGUE OF AWESOME cruise you signed up for just around the corner, however we like to think of this as an opportunity - we believe you may in fact be destined (and eligible) for the LUDICROUSLY AWESOME WAFFLERS, and we have sent notice to them of your recent, shall we say, "escapades". 
+
+So, excluding HVAC power, lights, infrastructure, and other overhead costs, Stack Exchange must be running at least 76,000 hamsters. 
+
+Further, if we remove deletion we're going to have to fundamentally change how the site operates. Deletion removes reputation accrued to bad questions, so removing it allows yet another way to game reputation. Deletion removes the question from google search results, and for bad questions with no answers, people would end up here via google, and see that their question isn't answered here, simply because they used the same terminology as the person who wrote the bad question. This is bad branding. 
+
+It's pretty standard to have something like one of the three following headers for a job on your CV: 
+
+What is the origin of the name you use on Stack Overflow or if you use your Real Name on Stack Overflow, what's the origin of any online handle you use? 
+
+Do NOTHING. The daily vote anomaly script will pick it up and your rep will be recalculated automatically. If after 36 hours (give the script time to run) you still see a problem, then flag one of your posts and ask a moderator to look into the anomalous voting patterns. If it still hasn't been corrected, contact the SE team via the "contact us" link at the bottom of any page on the site. 
+
+Second verse, same as the first? It still lacked context. It asked for opinions or things that are subjective, like preferred. What is this preferred? When? How? Under what specific conditions? 
+
+Right now if I put a three month contract in, it makes it seem like I was employed there for an entire year, instead of 3 months. There's a very high bar for a moderator to step in -- mostly because we're meant to be exception handlers. It hasn't always been this way (in practice), but we've seen that the more we handle outside the community moderation system, the more often people flag items for us to handle, as opposed to handling it within the community moderation system. Thousands of 3K users can handle thousands of questions. 12 moderators cannot scale that well.

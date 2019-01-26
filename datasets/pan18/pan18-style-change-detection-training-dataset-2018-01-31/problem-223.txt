@@ -1,0 +1,53 @@
+Therefore, from a pure damage standpoint, Muramana is slightly superior, though as hammythepig mentioned, Seraph's Embrace has an extremely attractive defensive component. 
+
+At the expiration of the spell, any bonus HP you received will stay. The exception to this is if your current HP would be greater than your regular, unbuffed max HP. If this is the case, your HP will be reduced to your max HP. 
+
+It should still be noted that Abyssal Scepter requires that you be very close to the enemy to apply its effect. This can be much riskier for you if you're not built as a tanky AP or if you don't have Zhonya's Hourglass; for this reason, buying Void Staff is usually preferable for AP mids, while Abyssal Scepter is usually preferred on AP junglers and AP tops. 
+
+In addition, it's important to know that MR Reduction is applied before Magic Penetration. This means that if you can reduce an enemy's MR to 0, then any Magic Penetration you have becomes worthless. 
+
+Flat Magic Penetration vs. Percentage Magic Penetration It's also important to note the difference between Flat Magic Penetration and Percentage Magic Penetration (as well as Flat Magic Resist Reduction and Percentage Magic Resist Reduction). 
+
+Manaless champions do not expend any resources to cast spells. They are limited merely by their cooldowns. They may have additional bars (e.g. Fury) that have various effects. 
+
+Yes, per win IP boosts and timed boosts stack together. 
+
+A spectator could also help keep track of buff respawns, though this is typically handled by the jungler. 
+
+If I last hit a tower and destroy it, what rewards (if any) do I receive? 
+
+Do critical strikes vs thornmail count for the owner? 
+
+Here's the best reference I can find: http://na.leagueoflegends.com/board/showthread.php?t=237436 
+
+Edit: Another image to help visualize this: 
+
+It's more important to build items that counter your opponents abilities. If you notice them build early magic resist, buy magic penetration! 
+
+Though not directly useful, a spectator can watch a player's play-style and make best guesses about future moves. Any pattern they see could potentially be used against that player. 
+
+The immediate exploit I can think of is destroying Teemo's mushrooms. Since they last for 10 minutes, a spectator could direct a player with an oracle's where to go to clear them. 
+
+The images tell it much better than I can, but here's a rough list of where to ward: 
+
+If Sona grants an aura to an ally that gets a kill, will this count as an assist? I'm assuming she hasn't changed her auras during the fight. 
+
+There will be a Tribunal ladder named Hall of Justice, too! 
+
+Another Riot Post about harshness: 
+
+edit: In the Patch announcement video for the World Championship Hotfix, Riot announced to change the Tribunal again. In the near future there will be a list of your cases along with some stats. 
+
+Riot: We want to encourage players to decide these boundaries. Just use your best judgment and we'll take care of the rest! 
+
+Screenshot from the video @4:43 
+
+What do the buffs affect in detail (preferring concrete numbers)? 
+
+Also after the Tribunal changed you do not get IP Boosts anymore but only some Influence Points (IP) are added to your account. 
+
+This means if you would die as a Tryndamere with Guardian Angel and your Ultimate is available, your ultimate would trigger first - goes on cooldown, gives you fury and GAs passive is still available. This means if you get the Chrono Shift Buff at the right moment (when Undying Rage ends) Tryndamere could technically drop to zero health 3 times before a kill is awarded. 
+
+An official Riot Post on the topic: 
+
+edit 2: Since this morning I only get the Tribunal in Recess Message, so I guess they are currently working on the changes mentioned in the Patch announcment.

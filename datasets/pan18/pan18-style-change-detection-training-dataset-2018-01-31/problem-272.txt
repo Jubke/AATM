@@ -1,0 +1,21 @@
+My suggestion is to just always play it safe. If you have enough money on hand to be trying to super-enchant your items, then you should have no problem finding the ingredients at the various shop keepers. I make a loop through Whiterun, Solitude, Windhelm, Falkreath and Morsomethingorother (I can never remember the name of this one!). Takes me a few moments, costs me maybe 1000g each to clear out their inventories and I can always make the set of potions I need to do whatever crafting I am up to plus enough misc ingredients to more than make my money back if I do not want to get more gold via enchanting :) 
+
+You can get more detailed information on Vampirism here: http://www.uesp.net/wiki/Skyrim:Vampirism 
+
+They really do give you the ability to play any way you want and to remain viable. The link above shows the minimum perks needed to max out each classification of armor so you can pick what you want to look like and aim for that end goal. 
+
+As for your final questions, 30 seconds has been fairly accurate to me. It is real time, as long as the game is not paused (If you have your inventory open or the like it wont tick down the duration, if you are in the enchanting table though it does). Honestly its the slowish interface.. I believe they timed these potions specifically to get you a single guaranteed enchantment, and then maybe 1 more if you are just rushing it (But since the price doesn't really go up at these levels its rather pointless to be rushing these :)) 
+
+EDIT: If your 'Data Files' menu option is not available, I found a forum post with other people having that issue and this resolution seemed to work for most people: 
+
+It honestly does not matter. It has been proven many times that any type of armor can actually max out the armor caps with just 1 or 2 perks in their respective armor trees depending on which armor you want to use (maxing out leather or iron takes a bit more perks/enchants than say daedric or dragon). 
+
+When you are on the loading screen click the 'Data Files' menu option instead of Play. The HD Texture packs (And any other mods) are listed on that screen. If they have a check box on them then they are active. 
+
+Take a peek at UESP's Housing page and you can find a list of overworld 'houses' that have safe storage in them. However, I do not believe this would keep things placed on a table or a chair from resetting when that cell resets. (I even have problems getting things inside of a normal house to stay put!). At the very least I would expect you to find things in disarray when returning after a reset has happened. 
+
+I have been able to do 2 enchantments with one potion but if you add in a renaming of the item, which I wanted to do, then you simply do not have enough time to really do more than one item.. Just the length of time the UI takes to select all three pieces is about 15 seconds in and of itself.. 
+
+This error, and many more, are fixed up in the Unofficial Patch series for the Dragonborn DLC: 
+
+And now a video: I enchant 5 daggers to give them level 26 banish instead of level 25. Just watch the timer of the video, it is not bugged.

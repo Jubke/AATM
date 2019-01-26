@@ -1,0 +1,19 @@
+Well, it's a little simpler than "a lot of complex maths", but there's a hack solution I use for this that's workable if the width of your text isn't too far off from the width of your textview. 
+
+How do I cancel the monkey madness? 
+
+The problem with calling start()/stop() in a single "main" activity (as suggested by Aurora) is that there's no guarantee that the activity will stick around for the duration that your user is using your app. If the "main" activity is destroyed (say to free up memory), your subsequent attempts to write events to GA in other activities will fail because the session has been stopped. 
+
+In other words, the image rotates 360 degrees, pauses briefly, then rotates 360 degrees again, etc. 
+
+The problem with calling start()/stop() in your Application is that it results in unexpectedly long visits, since Android makes no guarantees to terminate the application after your last activity closes. In addition, if your app does anything with notifications or services, these background tasks can start up your app and result in "phantom" visits. UPDATE: stefano properly points out that onTerminate() is never called on a real device, so there's no obvious place to put the call to stop(). 
+
+Alternately, you can use the virtual host IP address, which is 10.0.2.2. This will always map to your host mac when running the emulator. 
+
+If for some reason you prefer not to use IP addresses in your urls, you can map your mac's IP address to any name you choose by modifying /etc/hosts in your emulator. To do so, you'll need to first make the filesystem read-write, then add your mac's IP and whatever hostname you want to /etc/hosts: 
+
+In addition, there's a bug in Google Analytics up through at least version 1.2 that causes it to keep a strong reference to the context you pass in to start(), preventing it from ever getting garbage collected after its destroyed. Depending on the size of your context, this can be a sizable memory leak. 
+
+UPDATE: To simplify the test I've removed the reading and writing of files in my original example. 
+
+In Android Virtual Device Manager create an AVD with target "Google APIs (Google Inc.) - API Level 10" emulator -avd name_of_avd adb pull /system/etc/permissions/com.google.android.maps.xml adb pull /system/framework/com.google.android.maps.jar (optional) Remove the AVD you just created in the Android Virtual Device Manager In Android Virtual Device Manager create an AVD with target "Intel Atom x86 system Image (Intel Corporation) - API Level 10" emulator -partition-size 1024 -no-snapshot-save -avd name_of_avd adb remount rw adb push com.google.android.maps.xml /system/etc/permissions adb push com.google.android.maps.jar /system/framework Download mkfs.yaffs2.x86 adb push mkfs.yaffs2.x86 /data adb shell cd /data chmod 777 mkfs.yaffs2.x86 ./mkfs.yaffs2.x86 /system system.img exit adb pull /data/system.img (...be patient) Copy system.img into the avd directory for the avd you just created (likely in ~/.android/avd/name_of_avd.avd/) Reboot emulator You're done! You can use essentially the same instructions using the new ICS (4.0.3) image if you want to use Google Maps on ICS.

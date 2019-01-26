@@ -1,0 +1,25 @@
+That is not your fault and I don't think you can be blamed for it. I'm surprised to see that the community has not picked this up and informed you that such questions are problematic, if not off-topic for SO. 
+
+I'm not sure whether or not I would describe them as edit-trolls. If the user has the badges and no rep to gain, I can only assume they are trying to address what they see as a "problem". No matter how minor. 
+
+Do I agree with the particular edits? No. Too minor and incorrect. But I see no evil motivation either. Editing is a bit of a personal thing anyway. Yesterday I encountered a moderator on one of the sites editing a question into shape, and at the same time highlighting sections in bold. Personally this ticks me off, because I see no need for the bold formatting. But whatever our preferences, we're all trying to improve content where we see a problem. 
+
+All of that makes me consider this "not a real question" or perhaps rather "too localized". As such, I would vote to close it or flag it if I didn't have the privilege to vote. 
+
+Note that the primary rationale given for declining the old feature-request - authors able to undelete their own content - was fixed a while ago; the concerns over making deleted stuff permanently visible in your profile are still somewhat valid, however. 
+
+Background For five years now, Chat has been the red-headed stepchild of Stack Overflow and Stack Exchange: not a particularly good fit for a Q&A site, but still an integral part of the experience for many. 
+
+I hold that the problems which arise in chat are rarely those of topic or language, although that is often how they appear; rather, the persistent problem in chat is participants who hold expectations for how they or others should behave which don't match the reality of either the system or the larger culture in which it resides. One does not repeatedly charge into a brick wall thinking it will move aside; one does so believing that the wall does not exist. 
+
+...But that - the discussion of past suspensions - has been a problem: far too many of those 54 nominations have managed to significantly derail the elections they were part of, turning them into public trials of the nominees. The goal of a timed suspension is to let someone reconsider their actions and move on quietly, without having to leave the site or spend the rest of their days under a dark cloud; having everything dragged out into public defeats that goal, hurts the person nominating as well as the larger group who must try to sift through the drama to determine what is and isn't relevant. 
+
+Yeah, they're all different because of what leaks out around the edges, but it turns out that's not enough to help me recognize individuals, particularly in chat. 
+
+In a minority of the evaluations I've participated in, the evaluation has prompted some useful discussion -- maybe as meta posts directly on the evaluation post, or more likely as other meta posts (is this really within our scope? how can we improve that pattern in answers? are these the right tags? etc) or in chat. People can do that any time, of course, and often do, but sometimes the evaluation kick-starts it. That's good -- but it's also a minority of the cases. Most of the time it's as you say -- a few people try to do the review, maybe getting hung up on the requirements ("how does this fare in Google?" always hinders me), but mostly a stats post gets made and people don't really discuss it. 
+
+If you think a community's norms are out of whack, that a community seems to be welcoming material on a regular basis that a reasonable person would find offensive, a discussion about that might be needed. I don't know of any site that's anywhere close to doing that, but if you think one is, you should absolutely raise it either on that site's meta (if you're comfortable doing so) or via the "contact us" link (to reach SE). 
+
+If I want my badge progress on my current site it's one click away. I guess the theory is that this might get the attention of people who aren't paying attention to badges, but how many of them are going to start just because they started getting a persistent notification? 
+
+Leave it alone. It's not broken.

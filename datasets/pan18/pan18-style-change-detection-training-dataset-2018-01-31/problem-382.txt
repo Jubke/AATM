@@ -1,0 +1,43 @@
+Another option -- if you don't mind making the bike inauthentic -- is to change to 700c wheels with a 7-8-9 freewheel or cassette. Since you have a rear hub spacing of 126mm, it would require expanding the frame to fit a 135mm hub. 
+
+You may want to just open them open to take a peek to make sure that: 1) they are actually packed with grease to begin with and 2) that all of the bearings are actually there. 
+
+In this case, your specific compressor (the Scheppach HC16w) has a maximum pressure of 8 bar (around 116 psi) and does not have a storage air-tank. Be careful when pumping up low-pressure tires (like regular bicycle tires) so that you don't over inflate them. You may have trouble inflating racing or road bike tires (100 psi+) and may have to top them off with a track pump. 
+
+Your local bike shop will likely have a big box of old axle nuts that you can sort through. If they don't, find an bike shop that is older and dirtier. The less teeth the mechanics have (both oral and on their steeds), the better. 
+
+As a BMX, it'll be heavy and ungainly, especially around corners. When you pedal, it'll pull to one side as it doesn't have a differential, but it'll be tons of fun and something different. 
+
+A stiff pencil eraser can also help bring up the adhesive. 
+
+My derailleur won't reach to the lowest cog because of frame interference from the seat stay. So instead of a 11-34, it's effectively a 14-34. That's ok. If I really wanted the 11-cog, I'd dremel down the rear seatstay but this is just a commuter bike so I don't really feel the loss. 
+
+220 pounds (100kg) is not that heavy. 
+
+Tl;dr: Between 0.5 - 2.0 shop hours depending on how much research, special ordering, and preparation is needed as well as the complexity of the job. 
+
+Any well-stocked automobile parts store will have a schrader head for an air-compressor that doesn't require a locking head. Schrader valves are the same valves used on your automobile tire. 
+
+Sure, anything is possible, especially if you have access to a oxy-gas welding or brazing torch (or arc/MIG/TIG welder), a grinder with a cut-off wheel and a willingness to cause mayhem. 
+
+For example, my local part supply store has this kit for $14. Just walk into a car parts store and ask for the tire-inflation attachment for your compressor. 
+
+If your wheels are deforming**, it is likely either a manufacturing defect in the rim or your spokes were not properly adjusted/checked by the dealer. As @Orb notes, you should have also gotten a request from the dealer to come in after the first week to tighten things up as part of the new bike service. I would immediately go back and demand that it be fixed or replaced. I would myself insist on new wheels and insist that the spoke tension and hubs be properly checked before they are reinstalled. 
+
+No, you can't just plop a larger front-wheel hub motor into a bike or trike willy-nilly. There are various considerations including wheelsize and drop-out width. For example, although it might be deadly obvious, you can't put a 100mm front ehub wheel in the rear of a tadpole because: 1) it will likely be the wrong dropout width; 2) it won't have a freehub for your chain (if applicable). 
+
+It goes without saying that this type of mechanism is now being widely used in cycle trailers and recumbent trikes, but we still call them wheelchair hubs even though "real" wheelchair hubs have much shorter axles than are commonly found on trailers and recumbents (see image above). 
+
+Also, be careful when using an electric air compressor to inflate your tires. Your bike tires are very low-volume and it's easy to over-inflate and burst them. Set the pressure on the compressor as low as you can and don't trust the low pressure cut-off to react quick enough to save your tire. 
+
+Note that because of the complexities of tricycles (and recumbents), many people use mid-drive motors (like the Bafang mid-drive) to instead motorize the crank. 
+
+The UK has good retail trade laws so you should be well within your rights to demand resolution. 
+
+** Note that I'm assuming your wheel (the metal bits) are deforming. Your description is vague. If your tire (the rubber bits) is bulging, then that could be caused by a local weakness in the tire wall. In either case, take it back to the shop to get it replaced. 
+
+As various people have noted, wheelchair hub is the correct term for these one-sided, push-button release hubs. 
+
+If you only have a heat gun, you can use it but be careful as you can literally strip the paint off your rims with it (or cause your rims to deform/delaminate) - so I'd only use the heat gun very lowest setting. 
+
+With cheap hubs, missing grease and missing bearings are not unheard of. But if a quick peek yields lots of grease and a full set of bearings, I'd tighten up the cones and pedal away.

@@ -1,0 +1,45 @@
+1 Straight Flush A♠K♠Q♠J♠T♠ Five sequential cards of the same suit. The highest top card wins. Odds: 64,974 : 1 Announced: X high straight flush 
+
+Turn Villain could have made the flush or still called with a Q. 
+
+What does it take to price someone out of a flush draw on the turn? 4 on the board and 2 in the opponents hand. 52 - 4 - 2 = 46 cards out 9 cards left to make a flush So the odd to make the flush is 9 : 37 = 1 : 4.11 What is interesting here is you know there are no flush in your hand so the actual odds are 9 : 35 = 1 : 3.89 What bet gives your opponent exactly 0 reason to call -bet + 9/37(bet + pot) = 0 9/37 pot = (1 - 9 /37) bet 9/37 pot = 28/37 bet bet / pot = 9 / 28 = 32% You have to bet right at 1/3 of the pot for call to be a wash Your opponent should call anything up to 1/3 pot bet by you Your bet is in the pot (4/3) / (1/3) = 4 : 1 
+
+I am going to build a stand alone (not web) poker game / training tool where you play against 5 bots for a 6 player SNG format. Will put in one fish, one rock, and 3 GTO based bots that have slightly different starting ranges but other than that play exactly the same. With each new game you don't know what seat they are in. 
+
+2BB: 10 3BB: 11 5BB: 12 10BB: 13 
+
+I'm on the button, with AJ unsuited. Blinds 3000/6000. Folded to me, I raise the pot, BB calls. My stack before the start of the hand is around the 110000 mark, slightly lower than the caller. 
+
+I've tried to generate a push fold table that's easy to remember in my head. This is what I've got so far: 
+
+I'm not sure if is in any official rules, but I think one should be as nice as possible to players suddenly leaving the table. With that much money in the pot, it's quite possible that they've left for a medical emergency. 
+
+I think you've played right pre-flop. 
+
+Turn is a 6. BB raises 30000 (pot is now 85000). Calling here would have pretty much put me all in on the river, I was concerned about a BB special of two pair or worse still, drawing dead against a low set or even a hit straight. 
+
+Regarding your question about what to do on the turn, I don't think calling is a terrible option here, assuming they haven't hit the set and they've only hit the Queen, you've still got 5 cards in the deck (3 As and 2 Ts) which will be winners for you. You're paying for 23% or so odds, you're getting around 12%, which isn't horrible (that's assuming they've hit the Queen). With implied odds there's a whole lot of hands like J9s or even KT that they may have called 25% of the pot just to see what comes around on the turn, and they've pushed when they've sensed weakness. 
+
+I think the continuation bet is right post flop usually, but your stack size I think means you need to either push all-in or check-(call/fold). 
+
+This is pretty quick to calculate in my head. 
+
+How should I have played this if he checked on the flop? Presumably a continuation bet. Lets say it's called? If there's no scare card, push another bet on the turn? Then the river? What size should these bets be? Should they be smaller if there's no obvious draw on the board, but larger if there's a draw to ensure he pays pot odds to chase? What if he's flopped the set and I'm drawing dead? Should I check on the river instead? 
+
+If it goes to showdown, I'd show the missing players cards, and if they win, it's their money. Keep it aside for when they come back. 
+
+With 1100 in the pot pre-flop, and a stack of 7775, you're probably in push fold territory. Push here and steal the blinds. If there was no ante, a raise to 1400 to steal 600 still gives you room to fold to a 3-bet whilst being strong enough to make the BB think seriously about calling. If they do call, you're in push/fold on the flop. Raising to only 1000 pre-flop I think makes the button assume the BB will call, so entices the button to call with drawing hands. 
+
+Quick If you have a good hand just count the number of hands that beat you. If you have the low end of straight then 16 hands can beat you. Can you put your opponent on 16 hands that don't beat you. 
+
+If it is a spade then Ax suited makes sense. A king or queen validates the other could be an ace. 
+
+Player1 and Player 2 split the $40 pot Player2 wins the $120 pot Player3 and Player4 spit the $100 pot 
+
+Not having: 1 - 1/22 = 21 / 22 = 0.9545454545 
+
+Pre With only 24BB check call is fine. 
+
+In position I think 22-JJ AKs would just call. You have a block on QQ. Call 6 BB is only 1/5 of his stack. This is not fold shove situation. 
+
+What does it take to price someone out of a flush draw on the turn? 4 on the board and 2 in the opponents hand. 52 - 4 - 2 = 46 cards out 9 cards left to make a flush So the odd to make the flush is 9 : 37 = 1 : 4.11 What is interesting here is you know there are no flush in your hand so the actual odds are 9 : 35 = 1 : 3.89 What bet gives your opponent exactly 0 reason to call -bet + 9/37(bet + pot) = 0 9/37 pot = (1 - 9 /37) bet 9/37 pot = 28/37 bet bet / pot = 9 / 28 = 32% You have to bet right at 1/3 of the pot for call to be a wash Your opponent should call anything up to 1/3 pot bet by you Your bet is in the pot (4/3) / (1/3) = 4 : 1

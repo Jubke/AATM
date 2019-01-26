@@ -1,0 +1,49 @@
+This is an entirely opt-in feature - unless I actively follow some users, I will never notice this. 
+
+Programming a queueing system would cost days or weeks of programming time, and benefit a microscopically small number of users. 
+
+There is a lot of irritation and whining from newbies when their suggestions get downvoted because they don't understand that votes have a different meaning here. 
+
+When closing a question as a duplicate, the goal obviously is to find not just some identical question, but the one that has the best answer. 
+
+That clause contradicts everything we've ever been told about posting on Stack Overflow, which was supposed to be happening under the nonexclusive CC-Wiki license. Creative Commons' FAQ state: 
+
+The upvotes will be detected within 24 hours, and removed. (Or so I assume.) No harm done except maybe a minor irritation for people after one of the "rep cap" badges because they are shown a higher reputation than they actually have. 
+
+To me, the point of having a Drupal site is that being an application with a front-end, the topic contains an endless possibility of questions that are not programming questions, and hence off topic on Stack Overflow. Whenever that's the case, it makes sense to start a spin-off. I don't think the same can be said about Ruby on Rails. 
+
+As has been discussed many times over, the voting system is not suited to identify advanced questions due to what is known as the bike shed effect. A group of people will vote on what they understand, which puts truly expert questions at a natural disadvantage that a democratic voting system can't overcome. 
+
+I think it's a bad idea. If things like getting your answer up start costing money, active users (who are giving away their time for free to answer questions) will start demanding their share. It would seriously pollute the atmosphere on SO. Also, active users might (rightly) start feeling a bit like cattle offered to the highest bidder. I don't like it, and wouldn't want to be active in that kind of system. I think monetization for the SE network has to work in other ways. 
+
+The layout in the new "answers" view (and only there!) could look like this: 
+
+Finally, I use their account as a launching-off point and examine others that have shared a location with this one. This has helped me track down rings of spammers that somehow slipped through the cracks (or were upvoted during our recent /review shenanigans). If the account had been auto-deleted, I would not have been able to perform this kind of investigation. Only when all spammers from that location have been dealt with do I destroy the account(s). 
+
+I propose that answers deleted via five Recommend Deletion votes from the review queues require the normal three undelete votes that posts deleted using regular community delete votes do. This would prevent users from bringing back their non-answers after the flags on them had been cleared, potentially allowing non-answers to come back and clutter up the site. 
+
+I'm not sure that I'd want this account auto-deletion, because it might make hunting down other spammers a little harder. (See my update below.) 
+
+On Stack Overflow, we often get clusters of spam accounts from the same location, so my usual spammer workflow is to delete the spam post, then pull up the account information for the spammer. If they have other spam answers, I deal with them as well, but I make sure to read each of the answers to avoid removing a legitimate answer inadvertently. 
+
+After going through posts in the /review page, one of the trends that I noticed was that very few non-answers were upvoted at all. Now that results are presented in random groupings if a query has more than a certain number of results, there isn't a way to sort these results by votes or by those which perform worst on the review algorithm. 
+
+I'd suggest something along the lines of this: 
+
+Leave a comment pointing to the other question as your "answer" does not answer the current question. 
+
+If we limit it to the occasions when an post is deleted or undeleted or a question is migrated (which deletes the answers) then it shouldn't be too much of a hit on the database. 
+
+Why not make it official and close as a duplicate? 
+
+We get a small, but regular, number of users replying to the effect of "show me where is says I'm not allowed to delete my content". 
+
+You have the right to have the content disassociated from your account (use the contact us to request this) if you no longer wish to have the content associated with your name. 
+
+At the moment when a moderator on site A spots this they have to do one of the following: 
+
+By posting a link to another question you are saying: 
+
+If the other question is just related: 
+
+If they are deleting high scoring posts or hitting the delete limit on successive days then that is possibly indicative that they are trying to quit the site or otherwise deface useful content.

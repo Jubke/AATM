@@ -1,0 +1,35 @@
+Under the current rules a new candidate for the Labour leadership requires the support of 20% of Labour MPs and MEPs (members of the European parliament). This would equate to 50 signatures from 230 MPs and 20 MEPs. There appears to be some uncertainty as to whether this is also true for an incumbent. The difficulty apparently comes down to rule Rule 4.2.ii of the Labour party rule book which states that when a party leader faces a challenge “any nomination must be supported by 20 per cent of the Commons members of the PLP. Nominations not attaining this threshold shall be null and void” but doesn't make clear whether this applies only to the challenger(s) or not. 
+
+The committee has produced a short handout documenting some of the process, but in brief it appears you're likely to need to attend a meeting in your local area, then if they like the look of you, be invited to a more formal Parliamentary Assessment Board. This will require you to provide three referees, pay a £250 fee and have been a Conservative Party member for at least 3 months. 
+
+You might also like to consider that the largest parliamentary constituency in the UK is Ross, Skye and Lochaber at about 12,000 square kilometres, whereas the largest Canadian federal riding is Nunavut at about 2,093,190 square kilometres. There's no reason to suppose the most rational counting scheme for one is also the most rational for the other. 
+
+To list a few extra structural considerations: 
+
+As a new and unknown candidate, it's more likely you'd be put up in an opposition safe seat than a safe Conservative seat or an easily winnable marginal, but as the losers of the 1992 General Election in North West Durham will attest, that doesn't mean you'll never make it as an MP. 
+
+In the opinion polls for the upcoming election, 14 parties are deemed to have a good chance to enter parliament. 
+
+In both cases, I could imagine that someone living in a safe state or safe seat may be less motivated to vote, than someone living in a swing state or marginal seat. Is there any evidence that turnout is higher in swing states than in safe states, and/or higher in marginal seats than in safe seats? 
+
+(for details on each party, follow the links from the wiki-page linked above) 
+
+Note that in principle, whether or not someone voted at all is not guaranteed to be anonymous in this system, but it isn't either when a name is crossed on a list. I'm not sure if it's possible at all for this aspect to be anonymous, short of destroying all relevant information immediately after the elections. 
+
+(Disclosure: I belong to the 3.0%) 
+
+In the Dutch general election, 2012, 11 parties entered parliament. 
+
+I thought there might be a clue in the difference between the number of constituencies for which a list was handed in, versus the number that was approved. This does not explain the discrepancy: section five of the proces-verbaal (page 19 onward) describes rejected lists; Jezus Leeft handed in lists in 7 constituencies, all were approved; StemNL handed in lists in 20 constituencies, 11 were rejected, 9 were approved. So the inconsistent list ordering does not relate to the number of constituencies prior to approval checking, either. 
+
+Is my premise correct? Why are voting advice applications not more commonly used? 
+
+In the German federal election, 1930, 15 parties entered parliament. No recent German election comes close because in post-war (West) Germany, because a 5% electoral threshold makes it much harder for small parties to enter (which was partly motivated by the Weimar Republic polarisation that contributed to the political stalemate in which Hitler rose to power). 
+
+Lokaal in de Kamer, 15 constituencies JEZUS LEEFT, 7 constituencies StemNL, 9 constituencies MenS en Spirit / Basisinkomen Partij / V-R, 2 constituencies There appears to be a contradiction between the explanation of how lists are numbered (descending order number of constituencies), and the order between lists 25 and 26. Why did JEZUS LEEFT receive a lower list number than StemNL despite participating in fewer constituencies? 
+
+This is particularly relevant in a first-path-the-post winner-takes-all system. In many constituencies, the largest party received less than 50% of the vote: 
+
+There is no major¹ party where the relative difference is as dramatic as for the Socialist Party (SP), where the proportion of the vote among voters abroad is less than ⅓ of the proportion in total. Why is the discrepancy particularly large for the SP? 
+
+In Dutch elections, any party can register for participation and present a list of candidates. For the 2017 elections, 81 parties initially registered; 31 of those have delivered a list of candidates; 28 met requirements to take part in at least one electoral district, 16 parties take part in all 20 electoral districts.

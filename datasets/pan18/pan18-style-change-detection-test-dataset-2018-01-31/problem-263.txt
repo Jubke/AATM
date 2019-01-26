@@ -1,0 +1,49 @@
+Flop: ($55, 2 players) A♠ Q♠ 3♣ Hero checks, CO bets $42, Hero calls $42 
+
+If villain keeps betting half pot all the way through the turn, he'll have very close to a pot sized bet at the river. If you can assume he'll do this and you're willing to take this one-pair, good kicker hand to showdown, check-calling the flop and turn, and check-shoving the river seems a viable line to have the spewtard barrel off a bluff. Shoving is far less desirable if villain #2 is still in the hand of course. 
+
+Hero (BTN): 298.9 bb (VPIP: 18, PFR: 15, 3Bet Preflop: 7) SB: 117.9 bb (VPIP: 19.23, PFR: 16.92, 3Bet Preflop: 8.33, Hands: 134) BB: 101.5 bb (VPIP: 55.56, PFR: 55.56, 3Bet Preflop: 33.33, Hands: 9) UTG: 62.3 bb (VPIP: 33.33, PFR: 22.22, 3Bet Preflop: 0.00, Hands: 9) MP: 279.8 bb (VPIP: 0.00, PFR: 0.00, 3Bet Preflop: 0.00, Hands: 6) CO: 116.7 bb (VPIP: 0.00, PFR: 0.00, 3Bet Preflop: -, Hands: 2) 
+
+Flop : (46 bb, 3 players) 8:hearts: 3:spades: 7:diamonds: SB checks, MP checks, Hero checks 
+
+$6 NL (6 max) - Holdem - 6 players 
+
+Villain's a good player so I know his pre-flop range is very wide here. Thus, I can assume that I'll often flop good equity with this hand and It's likely I have card-advantage in this situation vs this opponent. Generally, as we are deep there is a fair amount of room for manoeuvre here. 
+
+As I suggested, of primary concern is not overplaying our hand I'd think and knowing how both villains ranges change with multiple opponents still in the hand will help us understand the thinness of our equity. Whether we have a value hand or a bluff is relative to this. 
+
+SB posts SB 0.5 BB, BB posts BB 1 BB 
+
+Turn: ($139, 2 players) Q♥ Hero bets $105, CO calls $105 
+
+A bare overpair isn't a hand I'd consider building a 400bb pot with, OOP, versus a LAGgy villain. I don't believe you can call profitably here. I fold. 
+
+Pre Flop: Hero is CO has 6♠ 5♠ 1 folds, MP raises to $18, Hero calls $18, 3 folds 
+
+Specific to the example, player A can only call the All-In for $7, although his total amount staked is $10, equaling that of player B. Opposing players still to act can only call the difference between their current staked amount and what opponents have bet, assuming they are closing the action. Otherwise, they can bet/raise up to their total stack assuming another player still to act can match it. You mention "before betting" and "after betting" and i'm not certain of what you mean, but it seems irrelevant as the game is sequential. Further action only exists after any action state. The term short stack is only a description and has no real use in game mechanics. 
+
+I would check back the flop, hit my straight on the turn, and then bet bet bet. If you whiff on the turn and he bets, fold - otherwise check and hit your straight on the river. 
+
+If a T or 9 comes, I'm ok with a thin value bet on the street that it comes out on. 
+
+We are way ahead hands I think he could get to the river with: 
+
+I call. 
+Board: Ts 6s 3h Qs
+Dead:  
+
+         equity   win     tie     pots won  pots tied   
+Hand 0:  64.352%  62.88%  01.47%  747       17.50     { KdKs }
+Hand 1:  35.648%  34.18%  01.47%  406       17.50     { JJ+, AQs+, AKo } 
+
+I don't like the 3bet pre-flop with these cards. What was the goal with a 3bet here? Are you hoping to take the pot down pre-flop, folding to a 4 bet? 
+
+The fact that you won or lost doesn't change this. 
+
+What I would do in this situation is, I would raise more on the flop, not just $60. Somewhere around $90 - $110 (maybe even more) would've been better. He had a very good hand, so he probably wouldn't have folded. But what it would do is probably prevent him from raising it so much, he would think at least for a few seconds that you have KK. 
+
+If villain has about the same stack as you, I think the all-in move is not a mistake. Even if he has an Ace or if he hits a set on the flop, you say he will still fold. In the worst case (a.k.a if he calls and wins), you will still be winning in the long run. 
+
+I disagree with what you did preflop: you should've moved all-in or folded. Limping when you're that short stacked is a weak play in my book. The fact that there are only 4 players left makes this even worse (because it costs A LOT to play 1 round). Your think process was probably: 
+
+Your play on the flop was actually not bad at all. The guy in the BB saw that you're short stacked (and made a mistake preflop :D), so he made a bet. You figured he would do that with absolutely any 2 cards (I would :D) and you would be correct; so you decided to go with it because you were actually connected to the board.

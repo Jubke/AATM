@@ -1,0 +1,21 @@
+Yes! * You can trade and sell items for games you do not own. 
+
+There is no generic setting in Steam that prevents updates There is no generic setting within Steam that prevents game updates from automatically being downloaded. The only way to prevent auto-updating is to run Steam in offline mode - which will prevent you from playing Steam games online. 
+
+No, trading cards are items stored in your inventory If you uninstall a game, the cards you've already collected will remain in your inventory. 
+
+You'll get a too-small text box that has a field on the top for "Variable Name" and a field under it for "Variable Value". Put your cursor into the "Variable Value" field and hit the [End] key so you know you're not inserting text in the middle of another entry. If you push the right arrow key it should not scroll. 
+
+I haven't been logged into Steam much recently, but I've just logged into it now and had the following bit of toast pop up in the corner: 
+
+It is worth noting that if you're playing a game on Steam, all Steam downloads are automatically paused unless you select the download option "Allow Downloads During Gameplay" (which is available through the Steam menu > Settings > Downloads category, at the bottom), so you shouldn't experience Steam downloading files while playing Steam games. Note that this setting will not prevent Steam from downloading updates when you're playing a non-Steam game. 
+
+Click the "Download Now" button to begin the download 
+
+Restart your computer Browse to your Steam folder Run Steam.exe to reinstall the game This will essentially reinstall Steam without requiring you to redownload all of your games or losing any of your locally stored settings. 
+
+In your Steam library, select Civilization V and you will see a button labelled "Browse the Workshop"; 
+
+If the window appears every single time you start up Steam, you're probably experiencing an issue with Steam realising it has updated. 
+
+In the instance of your "No longer valid" gifts, I would suggest contacting Steam support if the "Permanently delete gift..." option is not available for you.

@@ -1,0 +1,47 @@
+Sorry to say you just got unlucky... 
+
+Secondly, repeaters, when placed, have a "direction". This is indicated by an arrow on the plate: 
+
+I understand there would little point to it, lava isn't exactly a hospitable environment for any kind of fish able mob... 
+
+However, because the mods you currently have do not add anything else to the game, this does not have any other unique achievement lists. 
+
+During the night, monsters can spawn. But they will own spawn in areas that are below a certain "light-level". Most mobs require a light level of 7 or lower to spawn. A torch will emit a light level of 14. 
+
+As for using the "x-ray glitch" and "digging out the entire area", an End Portal is a rare occurrence. If you managed to find one near your spawn (say, within 64 chunks) you'd be incredibly lucky. 
+
+Some additional mods have their own achievement lists. This button switches between them. Eg, if the button says "Minecraft" it is showing the Vanilla achievement list. If it says, perhaps "IndustrialCraft" (a different mod), it will be showing the IndustrialCraft achievements. 
+
+So the thing is that this is a legit outcome. After a few trades (2 or 3) the villager will no longer be willing to trade that specific item with you. Generally this will however open more trades. Unfortunately, there is a minute possibility that this may be the only available trade this particular villager offers. 
+
+This was tested in 1.8.1, in both Survival and Creative, (there was no difference between the gamemodes) though I am unaware of the behaviour in earlier versions. It does seem bugged however, due to the odd behaviours I described above. 
+
+Then, you can do something tricky like this to invert the signal: 
+
+If a repeater is placed in a direction that does not follow the direction of the redstone it cannot repeat the signal: 
+
+The alternative is to use a command: 
+
+I only tested this on a chicken, and I hit it ~30 times (which is more than enough to kill a chicken at half a heart damage per hit), to no avail. 
+
+Two green sheep will make another green sheep, or one blue and one yellow. 
+
+What this will do, is when the signal from the daylight sensor dies, the Redstone torch will be turned on, firing up the command block. 
+
+After reading this question, I wondered if the enchantment was actually effective up to a certain level, or does it just keep going up to the maximum enchantment level? 
+
+The only thing is that some keyboards (primarily on laptops) require you to use Fn or Alt with the F3, due to the keys having multiple functions (like changing the volume, or screen brightness, etc.). 
+
+Edit: Clearly this answer is completely outdated. 
+
+One thing I have had difficulty with, is that you can only actually destroy beds by "mining" the top half of it. If you are looking at the foot of the bed, you won't actually be able to do anything to it. Try collecting the head of the bed. 
+
+So maybe you'll get lucky and sustain yourself. But that's pretty unlikely. You're better off just using stone or iron pickaxes. 
+
+However, if you increase the momentum of a minecart too much, the game is prone to crash, so you have to be careful when doing this as well. Reaching maximum speed can be done with an extremely short booster, but the length of the booster will still affect how far you are able to go because a longer booster will result in more momentum. 
+
+Such things are currently not supported. The game is still in Alpha, which means there are still features to be built and that it is not to be taken as a reliable polished game. 
+
+This can be more accurately stated as "Revealing 771 blocks below elevation 18 has a 50% chance of finding at least one diamond ore." If you're mining efficiently, you can reveal, on average, 4 blocks per block mined. So in order to reveal 771 blocks, you have to mine around 193 blocks. Now, mining 193 blocks has a 50% chance to reveal at least one diamond ore. 
+
+So, for now, Survival Multi Player is more of a sandboxy free-building mode and less of an actual Survival experience, but as the game continues to be developed, SMP will come into its own.

@@ -1,0 +1,29 @@
+If you break one spoke, and replace it, and the problem goes away, then you're fine. Breaking 2 or 3, or more, spokes on a wheel in a reasonably short period of time, especially if it is without apparent cause, like hitting something, is usually an indication that the wheel is permanently damaged and needs to be rebuilt or replaced. There is unlikely to be any problem with her setup, it's just different than yours. 
+
+So, there are several reasons which can cause spokes to break continually. Metal Fatigue is one, but it should take longer than that to be as serious a problem as it appears that you have. 
+
+This process of break in takes different periods of time for different wheels and different riders, but most bike shops recommend a service on the bike within 30 days of riding it the first time. That should include a wheel service. The one we had worked well, and required minimal setup, although it took up space. I haven't seen one in any shop since, and I can't find a current reference, so it may be off the market. So a "perfectly" true wheel might not exist, but a functionally true wheel is relatively easy. And "perfectly" true isn't necessary. 
+
+In this version, there were no hydraulics, but it would appear similar to a hydraulic press, or there could be more versions of them. There were lots of homemade ones, so there is also a possibility that it was a DIY version. I know a guy in Seattle who was working on a Arduino controlled version which was supposed to allow you to set a tension level. 
+
+That said, a bad pothole, hit at any speed, will destroy the strongest wheel available. You need to learn to avoid obstacles like that, or ride them smoothly when avoidance isn't possible. Or you'll buy a lot of wheels. 
+
+This can also be the result of poor maintenance practices. A basic wheel should be trued and tensioned properly again after the first 100-200 miles of riding, and may need to be retensioned regularly to stay strong (at much longer intervals, like say every 6 months when ridden regularly). This interval will vary depending on rider weight, riding style, and skill. If this is not done, it allows the poorly supported rim (because the spokes are loose) to flex and bend as you ride, and even if you later tension the wheel again, it will not be as good as it was new. 
+
+The stated benefits are that the wheel has, or can have, a thin tire with low rolling resistance but it grips like a fatter tire because of the way in which it travels over the ground, constantly changing velocity. Last time I was riding them, I noticed a "wooshing" sound when cornering hard and certain times while just riding fast. 
+
+Edit: These are the hubs I was originally asking about, manufactured by enve. They have a full carbon shell and flange. The flange is not drilled, the holes are molded as such. Recently I got a pair of really nice mid section wheels (Zipp 303 firecrest disc). 
+
+I normally ride regular 700c alloy wheels around town and for sport. Not deep section in any way. They're great, no noise or complaints. 
+
+I recently found a product that is a redesign of the common wheel. It's branded as the 'shark wheel'. It's basically a wheel where the rim is circular but bends like a sine wave. Simple idea but very interesting. 
+
+If it is the airflow over deep section wheel hoops thats "wooshing", does that mean a less turbulent airflow, i.e. that of the 303's vs an alloy hoop, can and does generate more noise than a less aerodynamic wheel with more turbulent airflow? I'm beginning to see manufactures making carbon hubs and am wondering if they have the potential to perform better than conventional metal hubs or if they are just a way to save a couple of grams of weight, possibly at the expense of performance. Here's the description: https://www.wtb.com/pages/tcs 
+
+I'm working through all the spokes on my front wheel, inspecting and spoke prepping all the nipples and replacing some. The above rust pattern is what I'm seeing, on almost all the nipples. Is it common to see spoke nipples with heads rusted only on the side toward the hub, but not on the spoke body? ( * Schwalbe Marathon Plus HS 440 Wire Tire) 
+
+I'm looking at puncture-resistant tires and I see Schwalbe Marathons* listed for size 28 x 1 1/2. Are there 28 inch wheels? If not, what size is that meant to fit? 
+
+If it matters, the spokes are (I think - magnetic) painted steel, the nipples are also slightly magnetic, and the rim is double-wall aluminum. 
+
+WTB is offering a rim/rim design described as conforming to a standard, the Tubeless Compatible System. The rim has a rounded well over the spokes along the center. Is this rim incompatible with clincher tires and tubes? And is there anything special here compared to other tubeless designs?

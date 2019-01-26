@@ -1,0 +1,37 @@
+All three rings are Shimano Ultegra and have never been changed. They probably have at least 12000+ km on them. I've been pretty good about changing the chain regularly although at this point I'm pretty sure that the rear cassette is in need of changing. 
+
+If you compare the middle ring with the two outer ones, it looks fairly worn (shark fin pattern). Is it bad enough to need replacing? If I just change the chain and rear cassette will I be entering a world of pain? 
+
+Here is a closeup of my triple: 
+
+UPDATE: Thanks for the advice so far. I have a new cassette and chain standing by but would need to order a new middle ring since it's a bit exotic (one LBS didn't know Shimano still made Ultegra triples). I know that there's a lot of km's on these rings (mostly on the middle one) and I'm also familiar with the "if it still skips, try changing it" philosophy, but I was hoping for a more objective answer. Something about the wear pattern or what to look for if I put a new chain on? 
+
+Here is the link for Tourney and Altus. If those links don't work, go to this link and select them under the mountain bike drop down. 
+
+It is possible -- you can either find a 36 spoke internal gear hub (since you have a 36 hole rim) and have the wheel re-built with the new hub and bodge on the cables for the IGH shifting. Alternatively, there are automatic shifting hubs (e.g. the SRAM Automatix) which will also have a coaster brake and no shift cables. That being said, its probably going to be cheaper to get a new rear wheel than have someone building the wheel up with a new hub. 
+
+More sprockets is not necessarily going to make you go faster/easier - changing gear appropriately and becoming more physically fit will (along with better selected sprockets sizes - we went ages before the Gillette razor-blade increase in rear sprockets...). Most of the more sprocket drive trains are driven by hype. 
+
+Microshift also make ones compatible with Shimano as well in the XE Marvo line (but I don't know anyone who has actually used a Microshift shifter on a mountain bike - usually its just their bar ends on a Surly road bike or similar). 
+
+You may need better choices of sprockets, but certainly, with a 2 x 7 setup, you have enough choices that it should be fine (for example, if you were touring, a 11 cog in the rear would be useless - you'd want a range of larger cogs so you could move the stuff you're lugging around). A 24 speed would need a 3 x 8 setup which means new crankset, new front derailleur, possibly new bottom bracket, new cassette and new shifters (these are the real killer if you want brifters; bar ends or downtube or friction shifters somewhere are cheaper) assuming you could get the chainline and what not right (the RD will be fine if you stay shimano). At this point, with a cheap bike like the Mirage S (400 dollars), you're better off just replacing the whole bike, since parts and labor will cost more than the bike is worth/costs (you will also need some tools you might not have, like a crank puller and cassette tool and cable cutters and what not). 
+
+UPDATE: It looks like I'm not the only person to ask this question: http://forums.roadbikereview.com/components-wrenching/crossing-derailleur-cables-downtube-243700.html 
+
+Still doesn't sit right with me though... 
+
+The potential issue I'm concerned about with the cables crossed over is that through rubbing against each other, they will wear more than they would normally. I'm also worried that the cables will be more likely to rub against the downtube, but I could just be being paranoid... 
+
+The is the first road bike I've owned with a Shimano groupset < 105 and I wanted to know if this is the normal way to route derailleur cables with Sora shifters? 
+
+I've just picked myself up a Specialized Allez Sport 2014 road bike from Evans Cycles (UK). 
+
+I test rode the bike and I'm happy with the bike, but when I got home, and flipped the bike over to make a note of the serial number (for insurance) and I noticed that the derailleur cables cross over on the underside of the down tube. 
+
+I have owned a 105 groupset equipped bike in the past with externally routed cables and the cables weren't crossed over on that. My current race bike has internally routed cables, so I can't even check against that. 
+
+All three rings are Shimano Ultegra and have never been changed. They probably have at least 12000+ km on them. I've been pretty good about changing the chain regularly although at this point I'm pretty sure that the rear cassette is in need of changing. 
+
+UPDATE: Thanks for the advice so far. I have a new cassette and chain standing by but would need to order a new middle ring since it's a bit exotic (one LBS didn't know Shimano still made Ultegra triples). I know that there's a lot of km's on these rings (mostly on the middle one) and I'm also familiar with the "if it still skips, try changing it" philosophy, but I was hoping for a more objective answer. Something about the wear pattern or what to look for if I put a new chain on? 
+
+If you compare the middle ring with the two outer ones, it looks fairly worn (shark fin pattern). Is it bad enough to need replacing? If I just change the chain and rear cassette will I be entering a world of pain?

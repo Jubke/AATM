@@ -1,0 +1,13 @@
+Because of the vertical dropouts you'd still need to tension the chain somehow (the obvious way being a tensioner). 
+
+If you do find something on the web, you'll first need to remove your existing cassette. To do this, you'll need an appropriate lockring nut and either a chain whip or a vice. Park Tools have a selection of nuts that fit just about everything that moves. If the cassette is either Shimano or Sram, you'll need one nut (FR-5, but double-check), if it is Campy you'll need a different one (FR-11, but double-check). In my experience, its a lot, lot easier to stick the cassette into a vice than to use a chain whip. As a tip, a Black and Decker workmate makes a great vice! 
+
+Yeah, I managed to do this one one of my bikes once. There was no way I could brute force the chain from between the cassette and the spokes. 
+
+@Alexander is right, there is no need to break a chain when you replace a bottom bracket. So your hypothesis doesn't make complete sense, unless maybe they were doing other stuff to the bike? 
+
+I think there are only really two "chain" tools (i.e. tools with "chain" in their name). One is used to break a chain, and goes by names such as chain splitter or chain breaker. So you'd use this for removing a chain completely off the bike, for example to replace it. You might also want to look at Power Links in this context, as using a Power Link means you can sometimes avoid using a chain splitter altogether (which requires a degree of precision). 
+
+So the answer to "when do I clean it?" is also "it depends". 
+
+As regards your last point, if you do start to "feel" something, then probably what you'd be feeling is damage that had already been done. I view lubing as preventative, so I'll lube on a time-driven basis rather than an event-driven basis.

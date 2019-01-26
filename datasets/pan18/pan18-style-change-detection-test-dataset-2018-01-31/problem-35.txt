@@ -1,0 +1,33 @@
+I have formulated and defined the following view over many years and now use it quite successfully when I am at an interview seeking a role, and of course in real life when managing projects. 
+
+Know your requirements in clear, accurate and unambiguous detail - You must know what it is you are delivering else how will you know when you have achieved it. 
+
+But as far as I am aware a more generic solution does not exist because MS-Project doesn't work that way- You don't start with a bunch of resources spending known amounts of hours and work up to a task that is the sum total of the resource spend- MS-Project works the other way around. 
+
+That is to say, MS-Project works from the position that tasks require an intrinsic amount of work to complete, against which you allocate resources thereby subdividing the work amongst the resources. The converse model, as used by Project Managers Workbench (last time I used it), is that you have a bunch of resources who can do work, which you combine as required, with the work for the task being derived as the total of your resource allocations. They have subtly different consequences. 
+
+If a task that was supposed to start in the past, did not actually start, then that workload (or some of the workload if it was only partially completed) still needs to be done. So the task, or the remaining part of the task needs to be moved into the future. 
+
+Optimistic, Standard, and Pessimistic Duration columns 
+
+On an existing number column (e.g. Number1, etc), right-click and choose "Customize Fields" then select the individual field by name. Then, at the bottom of the form, click "Graphical Indicators" and set up ranges for each color icon, then choose the color icon itself. 
+
+Paste the following into the Custom Attributes / Formula for any Number field (make sure it's all on one line): 
+
+For example, I wrote a custom formula (see below) that sets the value of Number1 based on the current date and the Finish date of each task. Then, using that value, I set up the Graphical Indicators to show a blue dot for complete, yellow for in progress, green for future, and red for overdue. Unfortunately, it's a bit of setup, but once it is done, it updates automatically. No macro or coding needed. 
+
+Creating a script to update Duration values for all tasks would be trivial to write. 
+
+I found the best approach is to use small colored icons in a number column: blue/green/yellow/red. 
+
+Setting the Formula for "Pessimistic Dur" as an example: 
+
+If all you're changing are task durations (i.e. no different tasks, changed predecessors, successors, etc), you could use the DurationX columns (Duration1, Duration2, etc) to represent the other durations. 
+
+Develop a detailed plan - Descend in the plan to as low a level of detail as required for you (i.e. the PM) to be able to map activities with a reasonable degree of accuracy. This level will be different for different projects. Don't keep the plan too high-level and don't make it too-low. Herein lies one of the black arts of the seasoned PM :) 
+
+If a task that was supposed to start in the past, did not actually start, then that workload (or some of the workload if it was only partially completed) still needs to be done. So the task, or the remaining part of the task needs to be moved into the future. 
+
+Know your requirements in clear, accurate and unambiguous detail - You must know what it is you are delivering else how will you know when you have achieved it. 
+
+That is to say, MS-Project works from the position that tasks require an intrinsic amount of work to complete, against which you allocate resources thereby subdividing the work amongst the resources. The converse model, as used by Project Managers Workbench (last time I used it), is that you have a bunch of resources who can do work, which you combine as required, with the work for the task being derived as the total of your resource allocations. They have subtly different consequences.

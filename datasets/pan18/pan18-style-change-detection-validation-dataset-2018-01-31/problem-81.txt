@@ -1,0 +1,21 @@
+It's slightly advantageous to set your rally point to unoccupied mineral patches. The way sc2 works, when your worker spawns, he moves to the rally point, then starts mining. If the rally point is set on an occupied mineral patch, the worker will then move away to find a vacant patch. If you set the rally point to a patch that's already vacant, it will save the worker time having to search for one. As your minerals become saturated, you will have to start being more clever because there will be no vacant patches. You can try to set the rally point to a patch where you see a worker is just about done mining. 
+
+But how does battle.net select the game? Is MMR considered? Is it purely random? First come, first serve? 
+
+On maps like Scorched Haven where it's popular to mutually wall-off on the low ground, baneling busts are popular because a low-ground wall-off sacrifices high ground vision, which banelings are weak against, but lets you use buildings as part of your defense, which banelings are exceptionally strong against. In this scenario, banelings are the right tool for the job. 
+
+Furthermore, you can micro your workers to pair up on close patches instead of spreading out 1-worker-per-patch including the far patches. Basically, select a worker that you know is going to mine on a far mineral patch, and manually right-click him on a close mineral patch. If the close patch is occupied, just spam click it until he starts mining. 
+
+Later, as all your close mineral patches are saturated, it is slightly better to rally to the middle patch of the mineral field. For example, imagine rallying to the top-most patch. A new probe spawns, moves to the top mineral patch, but it's already saturated. The probe will then move to a free patch - potentially all the way across the mineral field. If you rallied to the middle patch, newly spawned probes will travel a maximum of half the size of the mineral field. 
+
+When you expand, you sacrifice the "strength of your army" (i.e. tech + army units) for a while. What is this duration? To illustrate what I mean, here's a makeshift graph of 1-base production versus a 1-base into expansion production: 
+
+Another way to split drones is to hit the hotkey to select a single idle drone, and click a mineral patch. Do this 6 times really fast, and each drone goes right to its own mineral patch. Something like, 
+
+It's too bad sites like http://sc2ranks.com will also hide the losses; they should theoretically be able to deduce your loss count from your recent games played even though battle.net doesn't give that metric explicitly. I guess it's not 100% guaranteed accurate... 
+
+Start by getting your ally's base up to full saturation, and then ignore it and play as if you are on two base yourself. So immediately get your two-base tech and production up. 
+
+I think this would be helpful making in-game decisions, calculating riskiness of expanding (balancing need versus risk of being attacked during the green line), for developing new builds and considering FE, or making in-game adaptations. Or just plain curiosity. 
+
+There are a lot of factors that influence the answer of course, but they can be ignored as follows:

@@ -1,0 +1,37 @@
+As a loyalty card holder, I want my final bill to account for my loyalty card discount. If you've got an example of a 2, a 5, an 8 and a 13 point story, bring them to your estimation session. Hopefully it'll be easier to estimate along the lines of "it's definitely bigger than the 2 point story and smaller than the 13 point one." in which case it's either a 5 or an 8, pick what you feel is closest. 
+
+e.g. scrum.org offers Professional Scrum xxx course http://www.scrum.org/scrummaster/ 
+
+If you're interested in how we measure some of these things: Rather than undertaking several projects for one requester, would it be possible to focus efforts on the most important one and deliver that before moving onto the next? The requester will be able to focus better on just one project rather than juggling several which in turn should improve their availability for answering questions and reviewing work. Equally, the people who will be using the software will get value quicker as your developers are able to complete work more rapidly. 
+
+Not sure if you're looking for metrics used to measure those or just the definitions. I don't believe there is anything stopping anyone else offering scrum training, provided they don't brand it as CSM etc. I'd start by working out what the flow of work looks like from initial idea through to a fully released and supported product. Spend some time meeting and sitting with each of the teams along that pipeline and identify what their inputs are (what material/information they need from upstream teams) and what their outputs are (what they hand off to downstream areas). In every team I've been in that's used a virtual board, people update it very infrequently (typically in a rush before standups after the Scrum Master has had to go and ask them to do it) so it doesn't always have a good picture of what's going on. As you can see, it is more complicated than initial story mapping, and looks more like “heavy waterfall” style, than “agile” style. As I understand Agile philosophy, accuracy of estimation of final release date is not high priority, because "responding to change over following a plan". 
+
+If development process has iterations, this mean only that you use Iterative Development Model. Development process based on Iterative Development Model may be not agile, but agile process should use iterative development model. 
+
+Do you have early and continuous delivery? Yes, you have iterations in your development process, but do you have realisable product after each one? 
+
+If it has, why? If it is (yet) impossible to follow all the prescription of Scrum, maybe it would be better to use ScrumBut and have part of Scrum benefits, rather than none? 
+
+So, theoretically PBI can be any kind of requirement representation. 
+
+The key word is "prioritized". Team should take in iteration/Sprint only most prior items. And all decision about prioritization is Product Owner's responsibility. 
+
+Ok, you said, that customer can change unfinished features, but can he change requirements to functionality, that you are already implemented? 
+
+So, some means by which the goals are achieved in these two methodologies can be the same (CI, Test Automation and so on), but their ideologies are different. For example: there are two stories with highest priority, A and B. Forecasted capacity for next sprint is enough only for one of them. Story A have 0.9 abstract business value point, Story B have 1.0 abstract business value point. But there is a dependency between A and B stories, and if Team will implement A first, time for B implementation will reduce twice. In that case Product Owner can make A more prior than B, to maximizing the value work of the Development Team. 
+
+You didn't describe this aspect at all. Agile postulates two main values: 
+
+What does Architectural Spike mean? Craig Larman took as a basis following approach (which was used by another manager in China): 
+
+In this case "model" is just synonym of "methodology" (wikipedia keep articles about this models in "methodologies" section), or "model" is a model for methodology and metamodel for development process (i.e. set of principles on which build methodologies)? 
+
+This process should have facilitator, who will help people to organize themselves in well balanced cross-functional teams. 
+
+The Agile way is more the other way around: 
+
+Rejected by whom? Management? Let the people who do the work decide how they work. Isn't that an Agile 101, read the manifesto and look for words like trust, sustainable and self-organizing: http://agilemanifesto.org/principles.html 
+
+If it is a larger company, maybe some more traditional teams exists. I would suggest to move this person there. What designing the system means could be open for discussion. Personally I think the planning meeting should result in an achievable Sprint backlog. This means that each story should be clear enough to be estimated and the team pickups only so much stories that they can complete in the cycle. To let the team estimate they should have a short discussion about how to technically implement it, but not 100% of the details have to be clear at that moment, just enough to estimate it. We try to minimise waste for non-technical roles, but still discuss enough so they have an idea how to team will try to tackle the task. The goal is knowledge sharing and shared focus, not a 100% detailed Sprint plan. then requirements will change and you might not need all the database structures you envisioned at the start for example. 
+
+The best way to introduce teams to new practises is to let them find out they need them and then let them implement it themselves. Forcing practises does not really feel self-organizing. Keep a good balance between UI and Unit-tests, UI tests are harder to maintain and with a constant changing UI it might even get frustrating to update them. Make sure UI tests are written as maintainable as possible, have the team use patterns like PageObjects.

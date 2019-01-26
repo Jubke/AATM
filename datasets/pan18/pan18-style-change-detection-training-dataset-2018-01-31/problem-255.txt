@@ -1,0 +1,35 @@
+The Minecraft Version Changer Tool. In order for the changed setting to take effect, the server must be restarted. until restarted, monsters will still spawn. After a restart, there should be no monsters. I wasn't fast enough to screencap the chickens, so just trust me when I say, chickens are definitely small enough. 
+
+It includes a jar downloader that can download about 20 versions from early Alpha to Release 1.1 (including many snapshots). I expect 1.2 to be added soon, as they seem to do a very good job keeping it updated. Upon further research, this attribute appears to be the same as the parent. Little sheep also cannot. Try as I might, I could not get this little guy to pass under, although he looks short enough. 
+
+Dig a pit at least 2 deep and preferably not higher than 3 deep so you won't take damage jumping in, then, place a single ladder along the side on the bottom row (middle if you made it 3 deep). With a combination of W and jumping, you should be able to get out easily, while leaving your animals trapped. No. While the mechanics of enchanted armor are different in 1.8 and 1.9, the protection enchantments reduce damage equally, no matter on which armor piece they are placed. There is a formula on the wiki to calculate the extra protection from enchantments (in 1.9): 
+
+Not reasonably Nothing you can build in vanilla Minecraft is indestructible. Not in 1.8 While your command works in principle, as of 1.8.8 the game is unable to render many items in the head slot, including flower pots. 
+
+I also ran some tests in the 1.9 pre-release right now. I created a 3x4x3 obsidian box with water at the bottom (to prevent burning), and a single block window at one side as well as the top open. The window was used to trigger a set of command blocks to teleport me into the center of the box and summon a Fireball with Explosion power 3 above myself, heading downwards: 
+
+Click on Search → Chunk Finder.... Enter the X and Z coordinates you wrote down into "Chunk" and click Find Chunk. PATH is a list of directories (or paths) in which your OS is supposed to look for executable files (like *.exe) when running things via the command line, if it is not in the current working directory. 
+
+Create a dummy objective to store the score: 
+
+Put them in the Spawn Chunks The Spawn Chunks are a 16×16 set of chunks centered around your world spawn. These chunks are loaded at all times, unless no player has been in the overworld in the last 60 seconds*. 
+
+Kind of in 1.9 However, as part of the new Snapshots/Upcoming version 1.9, Mojang Dev Grum (Erik Broes) has worked on rendering all item on entities and published a world showing off zombies wearing items, including flower pots: * According to the wiki. However, I have not been able to observe the unloading of the chunks on 1.8.7 in a singleplayer test world. IIRC SP is functionally identical to MP. 
+
+Lightning can only destroy flammable blocks, and rails are not flammable. 
+
+Since mobs swim to the surface of standing water, they will always be able to get to the top of a sheer edge, then exit from there. They can't swim up waterfalls, though, so you can keep them down using running water. Here's a snapshot of a small one I built beside my house, with a crossing point for players. since Endermen have (until recently) been able to pick up and move most blocks, including rails. 
+
+Because minecart tracks can be laid on Soul Sand like most other block materials, this quirk can be exploited to create minecart-only gates (by placing soul sand on both sides of the doorway). This is one of the few ways to allow minecart tracks to go directly inside a secure area without risking wandering mobs getting in. 
+
+Mobs cannot spawn in or on water (again, with the exception of Squids). Mobs will always swim to the surface, even if you're submerged beneath them (with the exception of Squids, of course). Note, however, that Skeleton arrows can and will pierce water. 
+
+This is more likely the cause of your problem: 
+
+A long Soul Sand gate can be built along the shoreline, which will prevent mobs from crossing it. These gates can be traversed by players using minecarts on tracks placed over the Soul Sand. From the wiki: So I thought it best not to post it. Nonetheless, I saw no mention of sand in it either. I checked both World.java and WorldProvider.java. The code posted by yatima2975 does not appear to exist any longer. Cows cannot. I don't think I need to test the adult cows, but I got the same story with the calf as with the baby sheep. Pigs, both big and small, can. 
+
+Upon further research, this attribute appears to be the same as the parent. 
+
+It's very easy to get them in, too. Just lead them up with some carrots and stand next to the edge. They should follow you to the edge, and you can easily push them in. The Minecraft Version Changer Tool. 
+
+As of 1.8, you do not always spawn on sand. I'm afraid I don't have source code to post, but in all of several worlds I made, I did not spawn on sand. Little sheep also cannot. Try as I might, I could not get this little guy to pass under, although he looks short enough. This is my first foray into decompiling, but if I understand this right, the new initial spawn code does not mention sand at all.

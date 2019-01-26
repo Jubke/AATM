@@ -1,0 +1,33 @@
+Aristotle defined the material cause as the matter through which something is effected, i.e. its the bullet going through someone's body that kills them. 
+
+Working with the classic "guns don't kill people; people kill people", we can parse this into slightly more helpful language: 
+
+A is true and B is true A is true and B is false A is false and B is true A is false and B is false What implication does is test whether the implication holds. Thus, we accept that it holds (see the entire implication as true) when A is true and B is true. We also should be able to see that the implication is false when A is true but B is false. 
+
+What's proposed in B' is basically a reduction to the following rule: always be an act utilitarian because this produces maximal happiness. I take it that's your point, viz., that the best type of rule a rule utilitarian could come up with is to be an act utilitarian. And that's probably true on the definition you supply. 
+
+(a) a response to an equivocation meant to elucidate it 
+
+The formalization of modal logic has been a breakthrough in the development of model theory, one of the four branches of mathematical logic (the other being set theory, recursion theory and proof theory). See Kripke semantics for more details. 
+
+Informal logic is not the contrary of formal logic, at least for some established meanings of 'informal logic'. 'Formal logic' is usually reserved for the formal study of truth-preserving inference, like deduction. But there's nothing preventing a formal study of not necessarily truth-preserving inference, so-called ampliative reasoning. Most argumentative patterns found in everyday reasoning are ampliative, in particular defeasible reasoning. 
+
+some see a middle-way between the two by adopting another FO set theory like Morse–Kelley set theory. MK, which allows proper classes along withs sets, is syntactically almost identical to second-order ZFC, but differs quite in its semantics. 
+
+This isn't a philosophy question per se, but I find it interesting because it can be addressed from a cognitive perspective that targets reasoning, which is on-topic. 
+
+That ZFC became a pure first-order theory is due to David Hilbert's early work on a subsystem of logic which he called restricted functional calculus (effectively today's first-order logic) and Thoralf Skolem, who in 1923 gave the original first-order axiomatization of Zermelo set theory. Axiomatic set theory effectively became a dominant first-order theory in the mid 30s and is first-order up to this day. The majority of set theorists like the properties of first-order logic (completeness, compactness, etc.) a lot. The fact that first-order set theory deviates from mathematical practice is actually seen as a feature, not as a bug. 
+
+Now Mendel runs his experiement, and sees that P2 is true. This allows him to reject P0, the null hypothesis, leaving only P1 (3:1 ratios) as potentially true. He has also rejected Pp in the process, because Pp (1:1 ratios) is part of P0 (anything but 3:1) 
+
+Mendel then does the experiment, analyses the results, determines that H0 can be rejected because it's just too statistically unlikely that the results had anything but a 3:1 ratio. 
+
+An alternative approach is to observe that the prevailing model does a poor job of predicting experimental results, scratch together a theory, and state "The results of pea plant crossings is well modeled using the model, Rules L." At this point, no statement of ontological truth is made, just an empirical announcement that this model fits the data so far. Over time, if no better model comes forth, people may elect to change the phrasing to "The model is true," not because any additional evidence had come forth, but simply because it is convenient to think that way. This may be very unsatisfying mathematically, but linguistically it captures how ideas evolve, simplify, and are passed on to new generations. 
+
+It also presumes that an explanation one's actions has to be necessary and sufficient, rather than merely a way to convey information. 
+
+In this scenario, we're going to need to define a few more propositions to properly capture the entire process, step by step. First, we are going to start with Pp, the "prevailing hypothesis." This is the presumed answer, based on what people knew at the time. It's also something we'll be overturning, so don't be surprised that you already know its false: 
+
+Now, to follow the scientific method, he sets up a null hypothesis, H0, with the intent of rejecting it via statistics 
+
+As for how [4] implies [5], it doesn't. It's the other way around. Your [5] implies [4] is a needed part of the argument. If you use your [5], "Since women have as much right to self-esteem as men, women should earn as money as men," there would still be a missing premise, because there's no obvious connection between a woman's rights to self-esteem and money. That connection can only be made by also including [4], "Money is an essential part of self-esteem." Only through [4] can you defend [5]

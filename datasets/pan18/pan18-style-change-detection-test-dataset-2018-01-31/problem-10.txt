@@ -1,0 +1,21 @@
+You can estimate a completion date, date range, completion sprint, etc by dividing the current backlog size (in SP) by the teams current velocity but... 
+
+Definitely remind anyone looking at your forecast that it is an estimate Quickly check out how variable your velocity is. What is the team's last 3 iteration velocity? Current iteration? Total project duration? A highly variable velocity should prompt you to lower your confidence in any long-term forecasting results. List all your assumptions and the method you used to derive the forecast before presenting your number(s). Make sure your audience understands the impact of the assumptions you had to make. Be honest about your confidence in providing the forecast Try and provide a date range rather than a specific date with best, middle, and worst case numbers. You can go all kinds of fancy with Monte Carlo simulations and tools like Crystall Ball if you want. Use your scenarios as a chance to escalate risks DON'T make any long-term timing commitments based on your forecast numbers. The forecast should be used primarily as a tool to discuss and highlight risks/deficiencies that should be addressed to meet the customer's high level needs. 
+
+Correct. For bug handling in Scrum, take a look here. 
+
+I'm far from advocating working on weekends, but as software development is mostly thinking I have experienced that some developers just thought over some issues during the weekend. 
+
+I've been working as an agile coach for little over one year for one team. Recently I became a line manager for the same team. 
+
+Assuming you'd like to be Scrum Guide compliant. 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+Create a plan for implementing improvements to the way the Scrum Team does its work. Was that happening on first few retrospectives? 
+
+Problem statement. What’s the good way to keep the backlog maintainable for PO and useful for the DT? 
+
+Create sense of freedom by introducing The Core Protocols, especially Pass and Check-In protocols. That will give them a safety belt when needed, it's universal and can be used beyond Scrum. You, on the other hand, would be more encouraged to ask the team and engage them, as they'll just simply pass if not interested. 
+
+For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now.

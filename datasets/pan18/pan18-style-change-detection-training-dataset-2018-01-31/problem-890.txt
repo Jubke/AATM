@@ -1,0 +1,21 @@
+Which just happens to be 15 characters... with the period. 
+
+So, my feature-request is that we get more granular search options for score. 
+
+I would expect it to give all the negatively scored posts - there is a minus sign in there. 
+
+When you submit your question, Stack Exchange automatically strips out ending periods - which is why the current title is only 14 characters. 
+
+I am a 1500* high rep SO user. As such, I've had the Retag ability for some time, but I'm not yet able to bypass the review queue for 'normal' edits. 
+
+Upovoting? New feature? Does it refer to the action of upvoting a post when a unicorn is in your backyard eating a waffle? 
+
+* I've crossed 2k, and now I have the unified Edit menu you're all missing out on! 
+
+The Edit option already knows when you are only performing a Retag - and it pops up an annoying message like "use the Retag option instead". If it's already that smart, why can't it automatically reroute the retag through to the right action? - and have them instantly applied, just like the old Retag option would. 
+
+After going through posts in the /review page, one of the trends that I noticed was that very few non-answers were upvoted at all. Now that results are presented in random groupings if a query has more than a certain number of results, there isn't a way to sort these results by votes or by those which perform worst on the review algorithm. 
+
+If we had an option on the /review page to filter the low quality posts to only those at 0 votes or lower, I think it would make the random groupings more effective in showing potential answers to be removed, as well as questions that may need help. 
+
+A lot of short but good answers are now popping up in the low quality posts tab's random groupings, which is making it harder to find true non-answers. Almost all of the upvoted answers that appear here are actual answers and should be left alone. Very few of the non-answers get voted up by anyone, because of their lack of content.

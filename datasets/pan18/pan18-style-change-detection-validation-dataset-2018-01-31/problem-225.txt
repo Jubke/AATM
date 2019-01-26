@@ -1,0 +1,39 @@
+The 5th stage called the plateau of productivity can demonstrate (to a certain degree; it can be deemed unscientific) that a technology has become mature and stable. 
+
+There are currently two models: a) the centralized one (CVCS) where each user to be hooked up to a server to use these systems, making them slower and bottlenecking collaboration, as everyone needs to stand in line to store the changes to this sole "code bucket", and b) the distributed model (DVCS) where each programmer has their own "bucket", so there is no need for a server, everyone puts their work on their own "bucket". 
+
+(Should give them more tries, as these are biased) 
+
+In the paper I think I can give historical proof of each phase and as such give an historical overview of version control systems. For the plateau of productivity I can use the case studies Lauren Ipsum suggested. 
+
+Additional context: VCS or Version Control Systems are (in a nutshell) programs that let you store incremental differences (or changes/deltas) to text files so that then you can rebuild them at a particular point later; these systems are mostly use for writing software. 
+
+What is a good rule to take something you've written down and make it shorter and sweeter without stripping technicality?. What criteria can one follow to condense/compress information and make it clearer at the same time? 
+
+Since those kinds of things are being increasingly adopted and preached, how could one turn this situation as a good convincing argument?. I was reading Joel's entry on demonstrating software and social proof but it seems like a double-edged sword. 
+
+Sometimes you can write a lot without saying anything, sometimes you can say a lot but get little through the reader. 
+
+The important thing in DVCSs and collaboration happens after, until they have finished and refined work to share and be proud about instead of stepping on each other's toes with incomplete work (and still being able to rely on version control to aid their own work). In a DVCS each peer can check each other's buckets and they can add their bucket's contents to others' too. 
+
+How can one use social proof as an argument without sounding like "just because everybody is doing it so should you"?. My problem is trying to demonstrate with social proof that trendy tools/techniques are not necessarily cargo cult 
+
+Edit: I'm currently writing a whitepaper, which mixes formal research with software engineering topics 
+
+I'm writing a whitepaper regarding best-practices and new tools in the industry of software engineering. There are certain controversial topics like DVCS (Distributed Version Control) and TDD (Test-Driven Development) that do work, but require changing mindsets and extra effort at the beginning to reap the rewards. Something along the lines of this: 
+
+Use italics to describe variable content - not literal quote. Use bold to describe text that is to be typed in by the user. You can combine all typographical conventions (e.g. variable user-typed content appearing on screen). 
+
+Of course there is still a wide market for inane manual writers, that's why we have so many completely inane, content-free instructions that are a complete waste of time and provide no help. If that's satisfactory to you, you're sure to find employment with many importers from China or "rebranding" companies. 
+
+This is where the editor should step in and keep asking the writer to explain, clarify, rephrase, simplify, until the non-technically-inclined writer has a perfect understanding of the problem. Then the user will face the same clear, understandable manual and will be able to learn the process just fine. 
+
+I'd say it's much easier for a person with technical background to learn writing for non-technical audience than for a writer without such background to learn writing technical texts in non-inane manner. The two factors are needed: a deep understanding of the problem and ability to convey the essentials, and learning the latter is much easier than the former in good instruction-writing. 
+
+Unfortunately, if you want to do better than that, you're up to face an uphill battle: you need the technical background and if you don't have it, you must get it, no way around that. As you probably correctly imagine this short phrase boils down to years of work. 
+
+In case of any fancier icons, describe their look only if you absolutely must. Otherwise, try to use actual images. You are welcome to name them too, but the images are quite important. 
+
+Now comes the problem of finding a company with management wise enough to understand the need for this and employ the editor while they already have "this guy in R&D who writes manuals". Unfortunately I can't help you with that. 
+
+But there is a position where a non-technical person might fit perfectly in this domain: an Editor. The fundamental problem of technical writers is that they tend to forget their audience is not nearly as technical, and explain the problems in a manner that is 100% factually correct, definitely the right way to do it, and 100% useless to the reader who is unable to parse a single line of that.

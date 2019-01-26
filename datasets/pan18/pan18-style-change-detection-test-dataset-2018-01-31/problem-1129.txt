@@ -1,0 +1,17 @@
+A similar criticism, this time by a British phonetician, is found in Butlin (1937), who maintains (reflecting the then popular instrumentalist philosophy of science) that the phoneme is a "convenient fiction." Abercrombie (1991: 27ff.) [whose ideas were developed much earlier than the citation date suggests] cites Butlin's paper, disputing the status of segment-sized atomic units in language. 
+
+I am looking for any recent studies dealing substantially with "broken vowels," or vocoid elements which have a noticeably nonstable formant trajectory, yet for which there are no good phonological arguments that they are diphthongs. "Broken vowels" might alternately be referred to as vowels with an "offglide" or "onglide". 
+
+To give an example, in the dialect of Vietnamese spoken around Cần Thơ, open syllables whose vowel is represented by an orthographic i or y are pronounced approximately with a vowel sounding like [ɨi], so mì 'wheat noodles' is pronounced approximately [mɨi]. Orthographic o, on the other hand, is pronounced more or less like [ɑ], so mỏ 'snout' is pronounced [mɑ]. It is difficult to argue that [ɨi] is really a combination of [ɨ] and [i], because there are no open-syllable words having nuclear vowel [ɨ], and none having [i]; there is also no difference in vowel length between mì and mỏ. Anyways, let's try not to quibble over the this specific example more than necessary... 
+
+Concerning external evidence, a type of evidence frequently reported in favor of segmentalism is evidence from speech errors, Idsardi (2010), for example,suggests in his review of Silverman's book, refers to a study on speech errors by Wan & Jaeger (1998). On the other hand, speech errors are cited by Articulatory Phonologists as evidence in favor of the gestural organization of speech. A 1992 paper by John Ohala argues for segments on the basis of a thought experiment. 
+
+Even those who have never heard other people speak that way will make this choice. So, my question is: can this sound change be predicted from Brazilian Portuguese phonology? What else could explain its regularity? In general, if a phonologist is presented with two languages, A and B, can they predict what sound changes are most likely to occur if the native speakers of A start speaking B as a second language? 
+
+Vowels, on the other hand, are pronounced with an open vocal tract. Therefore, by definition, it is not possible to apply those features to classify vowels. Other features, such as roundedness, must be used in this case. So, for example, it wouldn't make sense to speak of place of articulation for vowels. 
+
+Whenever I observe my fellow Brazilian countrymen learning to speak English, a clear sound change pattern stands out: 
+
+Since Brazilian Portuguese does not have dental fricatives, this kind of sound change is much to be expected. What is interesting about it is the regularity of the pattern. Among other "likely" candidates, such as [s] or [t], which are also sounds found in BP, [f] is — almost always — chosen to replace [θ]. Similarly with [ð], that could as well be replaced with [z] or [v]. 
+
+Because that is precisely what separates consonants from vowels: consonants are sounds produced with a partial closure of the vocal tract. Depending on what type of closure the speaker does (in combination with other factors), a different consonant will be pronounced. And, as you have already seen, consonants can be analyzed according to several features: place of articulation, manner of articulation, aspiration etc.

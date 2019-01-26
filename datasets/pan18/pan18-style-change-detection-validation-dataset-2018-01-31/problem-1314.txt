@@ -1,0 +1,67 @@
+a1400–50 Alexander 5551 And oþir sellis he saȝe at sai wald he neuir. 
+
+It looks like your question is based on Cognitive Grammar. 
+
+differences in the Adj+N order between English vs. French; differences in French between Adj+N (less common) vs. N+Adj (predominant); differences in French involving homonymous adjectives (grand, ancien, pauvre etc.) In the GB framework, at its late stage, variation in the Adj+N order was explained by the strength of the Num-head. In English, Num is a weak head and, thus, no movement occurs. In some/all (?) Romance languages, Num is a strong head and it makes N move to Num. Some evidence that might support that analysis: in some Romance languages, adjectives express number (unlike in English). Also Cinque 1994 proposed that "different types of adjectives serve as specifiers to different types of head" (Radford 2004: 179). So, that's the GB framework. 
+
+"Doing" in your examples is what Huddleston and Pullum 2002 call an "gerund-participle" since they decide not to distinguish between participle I and a gerund. 
+
+Ok, I'll try to explain it in a simpler way. Since the question was about parameters, the implication is that the answer should be couched in generative syntax (its version popular in the 1980s). The basic tenet of generative syntax is that constituents are organized hierarchically. If you take A and B and put them together (Merge), one of them will be the head and the other its dependent . The head determines the morphosyntactic properties of the whole phrase {AB}; in other words, if A is the head and it is a noun, then the whole phrase {AB} will be a noun. In generative syntax functional heads are posited, too (besides obvious lexical heads). Functional heads may express tense (T), finiteness, mood, senternce function (interrogative, affirmative - C), negation (Neg) etc- there is a lot of variation there. They may be overtly expressed (like the past tense in English -ed) or covertly expressed (e.g., accusative on object NPs). Heads can be strong (trigger movement) or weak (don't trigger movement). Since they wanted to explain why adjectives can be used before as well as after nouns in some languages, they suggested there should be some functional head (between prenominal and postnominal adjectives) where a noun moves to. I don't remember who proposed it was the Num-head (Andrew Radford says it's Picallo 1991 and Ritter 1991). There is a really nice picture (74) on page 179 in Radford's textbook (2004) that explains it nicely. I'll try to upload it tomorrow. 
+
+Pro-form substitution: *I'm talking about the head of the Church, not [some pro-form] the Church. 
+
+You wrote about the claim 'that Chinese words can mostly be used as any part of speech.' While the claim is untrue, I can see why people fall for it. 
+
+This led me to wonder if I am looking at a coincidence, or if there is a deeper connection going on. Thus I'll be glad if I can be pointed to some relevant literature in the area, whether in the form of a large-scale typological survey or a smaller-scale study that gives possible explanations of crosslinguistic tendencies in differential adjective-noun order. Thanks! 
+
+There's also a related phenomenon: PPs are often placed after the verb in Classical Chinese. 
+
+Compare: I tied my shoelaces in the washroom/at school/during recess. 
+
+Cleft: It is [of the Church of England] that he is the founder. 
+
+In traditional Chinese grammar, the Chinese sentence is made up of six main components: 
+
+EDIT: To clarify: I'm not looking for crosslinguistic studies regarding canonical/unmarked A-N order and other word-order parameters. I'm looking for crosslinguistic tendencies of factors that explain adjective-noun order variation within languages (for example, is it common for colours to go after and size to go before, in languages with variable A-N order?). 
+
+To illustrate the mechanism, take 'here' in the third example. 'Here' refers to a place which is near; when we remove ourselves from the speech act, that place is no longer near, so we use 'there' - point to a faraway place - instead. 
+
+(The elements in {} represent, in the word-to-word translations, concepts that take more than one word in English but only one in Classical Chinese.) 
+
+Yet this is not the case in Chinese. Let's look at where the major lexical categories fit: 
+
+Whenever you introduce a node in a syntax tree, you should ensure that the material it dominates form a constituent. In your tree, it's not at all clear that 'the founder of' is a constituent. 
+
+a1400–50 Alexander 5551 And oþir sellis he saȝe at sai wald he neuir. 
+
+For instance, from the point of view of generative syntax, in both of your examples, we can see complements. 
+
+What was problematic about I-lowering (and lowering in general) is that it created an improper chain, with an unbound trace. Two theories were proposed back then, Chomsky 1991 in favor of LF V-raising or Bobaljik 1995 in favor of I-lowering at PF. 
+
+Putting theoretical differences aside, I am afraid you didn't quite understand your professor or textbook very well. For instance, you ask us, "Why is it that certain nouns takes modifiers and others complements?" 
+
+Nevins et al. argue that Merge is recursive because it can combine “lexical items and phrases” of any type (p. 367, n.11), cf. Zwart 2011 “[t]he operation Merge is standardly taken to be recursive in that the output of Merge may be subject to further operations Merge” (p. 116). 
+
+Igor Mel'chuk (Mel'cuk 1988: 12) puts it very nicely - the following applies to any syntactic theory: 
+
+Quite often the same word can belong to both word classes, adjectives and determinatives, e.g. “sufficient”. 
+
+Quirk et al. 1985: an adverbial clause of time, reason etc. 
+
+Something to start with, based on English, purely descriptive. Have a look at section 14.3 The constructional principles of spoken grammar in the monumental "Longman Grammar of Spoken and Written English", esp. 14.3.3. Syntactic non-clausal units and 14.3.4 Ellipsis in clausal units. Or "From utterance to discourse" in the "Cambridge Grammar of English" by Carter and McCarthy. 
+
+I would like to post a very important quote re: parameters and Minimalist Program from Gallego 2011 (The Oxford Handbook of Linguistic Minimalism): "Minimalism is probably not the best framework to investigate parameters [...]. The early P&P thesis that variation is encoded in the syntax [...] must be abandoned [...]." I'm afraid that The atoms of language reflects old-fashioned ideas of the P&P framework, popular in the 1980s-early 90s. 
+
+At first, a couple of words on the origin of “said” in the sense of “above-mentioned”. The OED gives the following. 
+
+their story of the trip in space (complement; your "complement") 
+
+As you can see from the examples above, the verb “say” in this sense is used transitively, i.e. it takes a direct object. All dictionaries of Modern English mark this dated use as legalese or used humorously. 
+
+the noisy yellow airplanes that scared the children in the yard, [that scared the children in the yard] is a complement clause. 
+
+There can be no theory-neutral evidence to refute or verify the existence of a finite VP. As a matter of fact, just in your question there are the following assumptions: the existence of a VP, finite VP, constituents etc., cf. 
+
+"Doing" in your examples is what Huddleston and Pullum 2002 call an "gerund-participle" since they decide not to distinguish between participle I and a gerund. 
+
+This agrees with data on “said” – the earliest quote in the OED is this one (by the way, note “þe” before “said”):

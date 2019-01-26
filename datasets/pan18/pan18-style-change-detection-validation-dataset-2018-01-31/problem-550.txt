@@ -1,0 +1,17 @@
+Practically, the question pretty much comes down to whether there was any deception on the part of the fielding side or not - if they made it clear that the play was over (for example by throwing the ball around, shining it, etc), then 23.1(b) applies, the ball is dead and the batsman cannot be dismissed. If the keeper just kept the ball and waited for you to wander out of your crease, that's fair game. As 23.2 makes clear, it's for the umpire to judge what happens here. Nothing here matters if it was a wide or not - the ball explicitly does not become dead on a call of wide; see Law 25.4: 
+
+At this point, Law 29.2(a) comes in effect (as opposed to 29.2(c) as quoted in Spinner's answer): 
+
+There are two different scenarios here: 
+
+If neither batsman had reached the crease when the wicket was put down, then 29.2(c) would apply and it would be the batsman closest to the crease who is out. 
+
+The on field umpires refer a decision to the third umpire because they are unsure of the correct decision. In this case, the benefit of the doubt goes to the batsman, which generally means "not out". 
+
+The third umpire is brought into play after the use of a DRS review by one of the teams. In this case, the third umpire must have conclusive evidence to overrule the on field umpires, so if the third umpire is unsure, the decision made on the field stands. 
+
+The libero's feet do not touch the opponent's court as he is playing the ball, and he is careful to move his feet back over the centre line when retreating to his own side. Hence, there is no violation of 11.2.2.2 in this instance. 
+
+References: ICC Playing Conditions, Appendix 1 (Decision Review System), Sections 2 (Umpire Review) and 3 (Player Review). 
+
+(b) The ball shall be considered to be dead when it is clear to the bowler’s end umpire that the fielding side and both batsmen at the wicket have ceased to regard it as in play.

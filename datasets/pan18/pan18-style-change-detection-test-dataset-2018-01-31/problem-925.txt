@@ -1,0 +1,21 @@
+To clarify my point: Kant for example said that for conceiving objects we must conceive them in the form of time and space. Time therefore must, to him, be thought as part of the substance of what it means to be "something in the world" (Beware: this only holds for our very conceptions of these objects, not the objects themselves). But all concepts (in sense of "Begriffe") of what there is are descriptive, because they say what is needed to be "a table" or what we mean by "time". Normativity can only be attributed to concrete phenomena, let it be of an object, an event in time, or a concept (in sense of "Anschauung", perception of an object). 
+
+Ethics = morals First, the distinction between ethics and morals is to some extend artificial and did, to my knowledge, not occur before the Enlightenment. As Virmaior rightfully stated, they were in the beginning just two words with the very same meaning, where moral(s) has simply been the latin translation of greek ethics: 
+
+[moral] literally "pertaining to manners," coined by Cicero ("De Fato," II.i) to translate Greek ethikos (see ethics) from Latin mos (genitive moris) "one's disposition," in plural, "mores, customs, manners, morals," a word of uncertain origin. Source 
+
+A good start would be Habermas' Theory of Communicative Action. It is very complex and hard to get into for a beginner and even advanced students without guidance, though. But I think every contempory theory regarding social concensus has to deal with the theoretical framework established and defended by Habermas. 
+
+Ethics and morals as distinct Nevertheless, the very same introduction seems to suggest three different meanings or 'layers of reflection' of ethics/morals at the same time. The first one seems to me, though not explicitly stated, ethics in a narrower sense of simply living a (good) life or living according to (social) customs/habits. It is implicitly stated in the description of its 'meta-level', the (philosophy of) morals: 
+
+There is no such thing in philosophy (nor arts, literature etc.). The only 'authoritarian' person regarding interpretations is the author himself. Kant is dead for quite a long time now so that we will never have a 100% certainty if we get the point correctly in each case. But there is a certain concensus about what the main idea and the main arguments are. As I said, there are still publications revealing new aspects and new ways to interpret the text or small parts or even single words of it nowadays. 
+
+For a different take with further sources, see Allison's commentary (Oxford UP, 2011), pp. 5-10 and 52ff. He takes a third stance, saying it is the challenge Garve's Cicero puts on "the very idea of a metaphysics of morals" (p. 6). 
+
+Regarding Kant's own perception of the difference between the two versions of the review Kant did indeed, in a letter to a third person, clearly express the severe differences between the reviews as published in the Göttinger Anzeigen and the Allgemeine deutsche Bibliothek respectively (to Johann Schultz, Aug 22nd, 1783) 
+
+He comes from the fact of a moral law, going to the object of a will under it (the highest good) and the ideas of God and an immortal soul. But only given God and an immortal soul, he claims then, the moral law is even effective for the will. Freedom (in the guise of a will under a 'pure', a priori law) and God, here, presuppose each other. 
+
+The notion of border is summarised in Krüger, Hans-Peter (2007): 'The Second Nature of Human Beings: An Invitation for John McDowell to discuss Helmuth Plessner’s Philosophical Anthropology', Philosophical Explorations 1:2, pp. 107–119 as follows: 
+
+Third point is one most people do not even get: The first part of the book has been strongly rewritten between A and B edition, the ones authorized by Kant himself. It is due to the facts that the question has changed and he has written CPR (A) in quite a short time, before being thorougly through every thought (see above mentioned book), as well as the criticism that arised against his ideas. So he had to change some points and clarify others. That is why in fact there are two books, one could say, and the first half should be read first as "only A", then as "only B". The second half is identical. The Prolegomena can only be seen as an introduction to the B edition (!).

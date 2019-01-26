@@ -1,0 +1,37 @@
+We run regular 'Brown Bag' sessions where the company provides lunch (usually Pizza, nom nom) and people from teams can come and present cool new stuff they are working on. Topics have included MVC, Facebook API, Deming's red bead experiment, dependency injection and so on, as well as more specific session on particular projects people are working on. 
+
+Try breaking the story up into smaller chunks. Perhaps: 
+
+Another approach used frequently by agile teams is to limit work in progress and measure cycle time (time from work to get from one part of their process to another). Anyone can call themselves an agile coach. No idea how the courses out there compare, which is best probably depends on your objectives. I've never seen a company require (or even list as a nice to have) any agile (rather than scrum specific) qualification. They might be worth doing to learn but I doubt they'd have much impact on your resume. 
+
+Rather than undertaking several projects for one requester, would it be possible to focus efforts on the most important one and deliver that before moving onto the next? The requester will be able to focus better on just one project rather than juggling several which in turn should improve their availability for answering questions and reviewing work. Equally, the people who will be using the software will get value quicker as your developers are able to complete work more rapidly. 
+
+I feel that since I am not hands on coding, the support that I can provide is limited, given that I cannot try different things out with the code. If I am required to start developing, than that is going beyond my job description. I have made it clear to my boss that I have no interest at all writing code again. I feel that at best I can point him in the right direction and give suggestions on how to solve the problem, but in the end, he has to find the solution. My boss doesn't seem to get that and expects me to hand hold him. Scrum is value and velocity based. The idea behind Scrum is where you only deliver x amount of work based on y velocity. So you prioritise the backlog according to what gives the most value and then omit the rest when you have run out of time. 1) How to handle change requests Since Kanban is based on cycle time and not velocity it is perfect for delivering work where there are fixed deadlines. It is also agile, since any new requirement goes to the bottom of the backlog where delivery is done in a conveyer belt style way. 2) Use Kanban, not Scrum for external clients. How can I convey this to my boss without getting to confrontational? Is he correct, and is the level of support that I am supposed to provide? 
+
+I do not mind at all doing this, but I have expressed the following concerns: Many clients do not care about this, and it only works extremely well when you're working in an environment or project that adopts this approach. 
+
+Do you have early and continuous delivery? Yes, you have iterations in your development process, but do you have realisable product after each one? In article Roles in Disciplined Agile Delivery is written following: 
+
+If it has, why? If it is (yet) impossible to follow all the prescription of Scrum, maybe it would be better to use ScrumBut and have part of Scrum benefits, rather than none? 
+
+So, some means by which the goals are achieved in these two methodologies can be the same (CI, Test Automation and so on), but their ideologies are different. Scrum has strict limitations of events in time. It is hard to stay in the events time-boxes that Scrum Guide prescribes. 
+
+As you can see, it is more complicated than initial story mapping, and looks more like “heavy waterfall” style, than “agile” style. As I understand Agile philosophy, accuracy of estimation of final release date is not high priority, because "responding to change over following a plan". This is responsobility of Product Owner and Development Team. 
+
+Waterfall is non-iterative approach by it definition: 
+
+So, theoretically PBI can be any kind of requirement representation. 
+
+Before answering your question, I want to make two comments: 
+
+Then he improved this approach and facilitated it (for making self-designed teams more balanced and cross-functional). 
+
+The key word is "prioritized". Team should take in iteration/Sprint only most prior items. And all decision about prioritization is Product Owner's responsibility. 
+
+If your working area is software development, then the definition from JIRA golossary may be more understandable for you: 
+
+This is another quote (Scrum and XP from the Trenches) that sums up all that is written above: Wiki has the common definition of this term: 
+
+Despite the fact that this was the first (and only) way I figured to improve the accuracy of a release plan, I don’t really like it because (in my opinion) this kind of planning does not conform to the ideology of Agile. 
+
+And yet another article with same content (in case if you don't like JIRA's swimlanes and ASCII graphics): Cycle Time [and Lead Time]. I had an interview with one company. They use Scrum, but don’t like rough estimates during Release Planning. So, they asked me, how to make Release Planning more accurate (they don’t want more than 30 percent of deviations from the plan).

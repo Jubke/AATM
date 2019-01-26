@@ -1,0 +1,31 @@
+If the team argues that Peter should be blamed because his decisions made them worse off than they would otherwise have been, then their argument is bad because it is based on a factually incorrect premise, not because it is structurally flawed. 
+
+In this case, it's not clear that the team is committing a fallacy at all. In fact, in the case that there were more than two alternatives, and Peter illegitimately reduced them to two, then he would have been the one committing the fallacy ("Black or White"). 
+
+This is Skepticism. Personally, I believe there are good arguments against it (and against the particular argument you reference), but since you didn't ask that, I won't outline any of them. 
+
+Gun control IS TO reducing deaths from gun violence AS making it harder for sober people to own cars IS TO reducing deaths from drunk driving. 
+
+However, for following the structure of a longer argument, or for sifting your way through a forest of modifiers, basic first-order symbolic logic (which is the discipline being used in your first linked example) is still probably your best bet. It is a well-established field, and there are plenty of beginner's textbooks and online tutorials out there in order to get started --one is probably much the same as another. 
+
+While I agree in general with the other answers, I think they miss something very important. Ad hominem is a technical term, in a category, logical fallacy, that has a precise meaning: Something that is presented as (or appears as) a proof or disproof of an argument, but that does not legitimately address that argument. 
+
+Here's a thought that occurred to me this morning: God's ability to create a stone that he cannot move is analogous to quantum superposition. Like Schrödinger's cat, which is both alive and dead, some theists believe that God is both able to create such a stone and also to move it. When we open the box, the superposition collapses and we see either a dead or a lucky cat. When God decides, he may either create such a stone or move it. (Personally, I think it unlikely God spends even as much time considering this choice as we have in this question. This stone seems to belong entirely to philosophers.) The superposition collapses if and when God actualizes such a stone. If so, God's definition is paradoxical, but so is the observed state of the universe. 
+
+Does this mean He is nonsensical? Not obviously. He may, of course, choose to be sensible to humanity. 
+
+Vinko Vrsalovic suggested about this paragraph that it's the same or equivalent to "It is inconsistent as seen from a logical framework." to quote Lennart Regebro's answer. I disagree. Consider this example: I have the power to jump off a high building, cut my wrists and crash my car into a wall at 100 MPH. But I don't do these things because I chose not to. Or suppose I had the ability to tread water forever. That doesn't mean I must always demonstrate that power. Or to put things another way, God has the power to break the rules of logic, but for whatever reason doesn't. Whatever his purposes may be, they do not include the need to make a stone he cannot move. 
+
+Which can be taken to say "There is a thing which is god". 
+
+The above make first order logic have the fun property called undecidability. That means that even with computers you cannot tell for an arbitrary first order argument whether it is valid or not. 
+
+Since there are no S things, the implication is always (vacuously) true. 
+
+There is something which is a king of France, and it is the only such thing, and it is not bald. 
+
+Time is composed only of instants. At any single instant, an apparently moving arrow doesn't travel any distance, i.e. the arrow is at rest during every instant. That means that the arrow is at rest for the entire time period. Therefore, the arrow cannot be moving at all. I think your explanation is on the right track. 
+
+I think there's some confusion in your question. Correct me if I'm wrong. 
+
+However, when the set of things satisfying or not satisfying a given condition is infinite, then this does not work. E.g. when the condition is 'prime number', then its negation isn't weaker or stronger. Both are satisfied by infinitely many numbers.

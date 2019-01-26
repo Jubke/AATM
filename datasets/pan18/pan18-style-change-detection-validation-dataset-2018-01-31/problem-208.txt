@@ -1,0 +1,29 @@
+Shouldn't a glued patch be essentially so welded to the inner-tube that it's unable to come off through any normal means? 
+
+You're using the wrong inflator valve on your compressor. 
+
+Any well-stocked automobile parts store will have a schrader head for an air-compressor that doesn't require a locking head. Schrader valves are the same valves used on your automobile tire. 
+
+Note that this tank has the type of schrader valve outlet that you don't want, but you can easily swap it out. 
+
+You could just go with any 700c x 35 tire. I've found that many local bike shops can order for a similar price as mail order and they'd be able to match your tread to the terrain and weather conditions in your area. As far as width, you might be able to go slightly wider with a 37mm (as you currently have) or 38. It all depends on your tire clearance, especially if you have fenders. 
+
+They can't coagulate like blood, because there's air already in the tube and they'd solidify. It also can't be in contact with moisture as there's a lot of moisture in tubes as well. 
+
+Under the bed is just fine as long as it isn't subject to any pressure or deformation that might come from it lying horizontally while deflated. Hanging the tire (while on a rim) vertically on a hook off the ceiling in a dark place is perhaps the best but might not be practical for you. 
+
+However, you should know that some air purifiers work by producing ozone. In addition, some office equipment such as older photocopiers also have DC motors that produce a lot of ozone. These have mostly been phased out because of health concerns but are responsible for the characteristic smell of copy machines. 
+
+Also, be careful when using an electric air compressor to inflate your tires. Your bike tires are very low-volume and it's easy to over-inflate and burst them. Set the pressure on the compressor as low as you can and don't trust the low pressure cut-off to react quick enough to save your tire. 
+
+** This is a cheap kit with glued patches (ie, separate glue and patch, not a "glueless" patch) 
+
+You mentioned that it's your rear wheel and that you tow a heavy load. Rear wheels in these setups get a lot of lateral (sideways) loading from the trailer. 
+
+In this case, your specific compressor (the Scheppach HC16w) has a maximum pressure of 8 bar (around 116 psi) and does not have a storage air-tank. Be careful when pumping up low-pressure tires (like regular bicycle tires) so that you don't over inflate them. You may have trouble inflating racing or road bike tires (100 psi+) and may have to top them off with a track pump. 
+
+As for your particular tire, I agree the Slickasaurus have ambiguous markings. The manufacturer's website doesn't give any information so I took this screen grab off Amazon for a Slickasaurus tire that shows "700 x 35c (35/32)". My reading of this is that it fits on 700c rims normally designed for a 35mm tire width (that is, the wire bead is close to that of a 35mm), but because it's a slick tire, the actual tread width is closer to what a 32mm tire would have. 
+
+The chemical bond holding things together is why: 
+
+UV rays and ozone are the main factors behind rubber "drying out" -- look at how the Air Force stores its airplanes in the desert: all of the rubber bits are carefully protected from the sunlight.

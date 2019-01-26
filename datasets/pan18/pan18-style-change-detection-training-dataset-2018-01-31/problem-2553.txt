@@ -1,0 +1,35 @@
+Yes, Shannon's model for entropy has no concept of meaning or even sequence. Each symbol (letter or word, in our context) is assumed to occur completely independent of another symbol. 
+
+Chunkers have differing performance levels for noun phrases and verb phrases. You could start with the ones that perform better with verb phrases. You could also try to play with NLTK's chunker. You'd have to define your own patterns for NLTK's chunker. 
+
+You can find the published papers at S12 and S13, the relevant sections of the ACL anthology. 
+
+The above equation has no conception of sequence. Later models that don't ignore the sequence, such as n-gram models and Markov models have shown significantly better entropy figures. Also refer to Belief in Discourse Representation Theory, by Nicholas Asher. 
+
+Have you looked at this paper? I quote the abstract: 
+
+I agree (roughly) with the first part of the sentence; we are getting closer and closer to the upper bound of the expected per-word entropy. I disagree with the second part because there can't be an "exact way": entropy figures can be exact if were're dealing with a closed-world system, but when it comes to text, no matter how large the corpus, new text is usually bound to contain words never seen before. A sentence like "pass me the SATA cable" would never have been uttered a couple of decades ago, but are fairly common now. David Lewis' account of the logic of imperatives is in terms of the possible worlds in which the imperative is obeyed. Here is a handout for a class which extensively deals with the formal semantics of questions. 
+
+In Sanskrit, there is a quotative particle iti, which you would use in something like "he is known as Bhagavān", "he is called Bhagavān", which seems to be along the lines of what you're looking for. 
+
+There are a number of loopholes. One depends on how you define "is". "Glit" is not a word of English, but it could be. There are 12-syllable words in English but no 30 syllable words -- but there "could" be. Since I imagine there are speakers of English who can say "I'm catching the train to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu", then you either have to admit that as a word of English, or say it isn't English because it is etymologically Maori. The underlying premise if a claim about "words of English" is that English is a well-defined entity, and while I think my English is well-defined (though ever-expanding, so well-definition is time-variant) 'cuz it's the language that I speak, there is no such thing as "universal English", and that goes for all languages. 
+
+This also happens in Shona and some other African languages, and there's a book on the topic, Quotative Indexes in African Languages: A Synchronic and Diachronic Survey by Tom Güldemann, which mentions other languages with this construction. 
+
+(PS: I understand, that this is very sketchy and welcome any comments of people who have thought harder about this than over a short breakfast.) 
+
+The answer to this question very much depends on who's asking and why. And what stage of your linguistic studies you are at. Another problem I've hinted at is with what you consider a unit. Construction grammar will think of both 'rules' and 'words' as constructions and consider them as conceptual units whereas more traditional approaches may only think of 'words' as 'units' to which conceptual relationship can be applied. 
+
+Some authors who addressed this (off the top of my head): For readings at this stage, I would go to the classics: 
+
+Of course, none of these produce a dual meaning because 'eating' something because of loving it, does not make sense in the blend of the frames of loving a living thing and eating a living thing. 
+
+But when placed within a pragmatic context, it can be framed as in: I guess, the problem is with the word 'see'. It may sound implausible but analogous processes happen all over languages all the time and if you look at enough of them, you sort of 'naturally' begin to see these relationships. Constituency has nothing to do here. Thus: 
+
+The definition I would have parroted back to a professor during my undergraduate studies would have been something like: "Theoretical linguistics is characterized by a concern with general principles governing how language works using methods including corpus analysis, contrastive analysis, psycholinguistic experiments, etc.)." And then it's just a short step to causality. 'As he ran by the graveyard every day, he was eventually possessed by the ghost.' (Running came first, then possession. Thus running caused possession.) 
+
+Thus Ross's classification of adverbials can be rephrased as semantic frame specificity. They differ in how much work has to be done in order for the meaning to be brought into the frame and thus made available for negation. 
+
+And the same process applies to the temporal meaning of 'as' developing from similarity. 
+
+And if you wanted to get more in-depth:

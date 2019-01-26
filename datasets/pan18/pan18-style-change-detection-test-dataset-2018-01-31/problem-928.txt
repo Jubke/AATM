@@ -1,0 +1,29 @@
+Isham-Butterfield: On the Emergence of Time in Quantum Gravity 
+
+According to Roustang, this reasoning requires extending physical determinism to psychological events to justify "filling in" the apparent gaps in them, but that is not something many scientists would necessarily resist. His more serious objection is that Freud's approach just names the unknown instead of explaining it. Lacan's epistemology is more elaborate and links psychoanalysis to linguistic structuralism: 
+
+The responsibility objection: kidnapping makes the violinist scenario analogous only to abortion after rape, in most cases the intercourse was voluntarily, so the woman herself caused the baby to need her body. 
+
+The stranger objection: embryo is the woman's child, unlike the violinist. 
+
+Dennett: Consciousness Explained: Explained away some say 
+
+"I recognize indenumerable infinities only because they are forced on me by the simplest known systematizations of more welcome matters. Magnitudes in excess of such demands, e.g., ב_ω [the cardinal number of V_ω(N) and of V_ω+ω] or inaccessible numbers, I look upon only as mathematical recreation and without ontological rights." [Quine 1986, p. 400] 
+
+Dummett: Logical Basis of Metaphysics: defense of intuitionism and scientific anti-realism 
+
+In addition to SEP Dialetheism entry I recommend ones on Inconsistent Mathematics and Impossible Worlds. For instance Meyer constructed inconsistent arithmetic R#, where "it was demonstrable by simple finitary means that whatever contradictions there might happen to be, they could not adversely affect any numerical calculations. Hence Hilbert's goal of conclusively demonstrating that mathematics is trouble-free proves largely achievable". In any consistent arithmetic this is unachievable due to Godel incompleteness, there are also extensions to analysis and beyond. 
+
+Timpson: Quantum Bayesianism, on realist and anti-realist ontologies of quantum mechanics. 
+
+Dialetheism is not a property of a logical system but of its interpretation, any paraconsistent logic can accomodate dialetheism non-trivially by limiting explosion of contradictions. However a logician does not have to allow that A and ¬A are both true just because A∧¬A obtains. Kleene/Lukasiewicz three valued logic can be interpreted dialetheically if one chooses to think of the third truth value as "both true and false", but one can equally well interpret it as "neither true nor false" or "undefined". 
+
+The latter idea of distributive justice is discussed by Aristotle in Nicomachean Ethics, who rephrases it in terms of distributive "equality by merit" (and is contrasted with the "rectificatory" justice). His argument is a bit more pragmatic, advancing social harmony and citing the existing consensus: 
+
+Quine did not specifically study "higher set theory", and his positions on the issue are mostly generalities following from his empirical holism (mathematics is the "entrenched" part of the "web of belief" that touches on experience at the observational boundaries) combined with the indispensability argument (what is indispensable in empirical science, e.g. sets and numbers, must be granted ontological rights). His more detailed remarks on the issue came in response to Parsons' critique of his positions in Review of Parsons (1984) and Reply to Parsons (1986): 
+
+Impossible worlds extend semantics used to interpret modal logic, and go back to non-normal worlds of Kripke. They are literally dialetheic, some sentences are both true and false in them. Among other things, they are applied to analyzing counterpossible reasoning by fallible agents, who may admit premises that are, unbeknownst to them, inconsistent. Proofs by contradiction in mathematics are an example since assumed premise turns out to be necessarily false, and therefore uninterpretable in possible worlds. "Jago constructs an epistemic accessibility relation between worlds which is structured by rules of deduction: a world is ruled out as incompatible with the agent's cognitive state when it makes true an impossibility that the agent can recognize as such by applying a limited amount of logical reasoning. Some absolute impossibilities, though, may be too difficult to be detected, because their negation follows from basic principles of logic or mathematics only via long and complex chains of deduction". 
+
+Kripke attempted such construction in Naming and Necessity by affirming intuitions about properties essential and inessential in modal contexts:"Suppose that someone said, pointing to Nixon, ‘That’s the guy who might have lost’. Someone else says ‘Oh no, if you describe him as “Nixon”, then he might have lost; but of course, describing him as the winner, then it is not true that he might have lost’. Now which one is being the philosopher, here, the unintuitive man? It seems to me obviously to be the second... If someone thinks that the notion of a necessary or contingent property... is a philosopher’s notion with no intuitive content, he is wrong. Of course, some philosophers think that something’s having intuitive content is very inconclusive evidence in favor of it. I think it is very heavy evidence in favor of anything, myself." 
+
+If the common thread to Stoics, Montaigne and Taleb is reflexion on living one's life and aphoristic style, who comes to mind first are French moralists, Pascal (especially his Pensées) and La Rochefoucauld being the most famous. "The French Moralists were those writers continuing a tradition in French literature, originating in Michel de Montaigne's Essays, concerned with the description of the moral character of humanity and with providing prescriptive rules, embodied as maxims, to guide living well... perhaps the largest coherent group of writers of aphorisms in the Western literary tradition".

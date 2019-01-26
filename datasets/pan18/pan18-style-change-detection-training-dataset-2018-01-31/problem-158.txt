@@ -1,0 +1,37 @@
+It removes snares, stuns, jail effects, freeze effects, and any other effect, while making you immune for the duration (walls, however, still block you). 
+
+Edit: Note that a recent hotfix (4/3/14), changed Nephalem Rifts to provide an additional 25% chance for Legendary items to drop (stacking with the bonus from Torment Tiers, if applicable). 
+
+Note that magic find is much rarer as an affix, and has had its effectiveness in general severely diminished: 
+
+New monsters will "ignore you" if you pass by them, but are out of sight before the effects of the spell wear off. In other words, you do not aggro new monsters while spirit walking (although your follower or minions following behind could, if they don't wind up warping past the monsters to catch up with your increased speed). 
+
+Another major, major benefit to this spell is that you can pick up health globes while under its effects. This means that you can safely run through champion packs, rares, and uniques/bosses while low on health to snag some much-needed healing that would otherwise be far too dangerous to pick up (e.g. in the middle of multiple arcane lazers, molten magma trails, etc.). 
+
+If you are having problems with a difficult boss, you can grind some experience, gain a few levels, and the encounter should be a bit easier (although better gear, either from drops, or bought from the AH, will generally provide more of a benefit than levels unless you are missing a key skill/rune). 
+
+Your only solution in this instance will be to contact Blizzard support via phone - they will need to verify who you are and then they'll be able to update these details on your account so you can regain access. 
+
+Since patch 1.0.4 Elite packs no longer enrage, and all boss enrage timers only take effect on inferno difficulty. 
+
+Support is open Monday to Friday, 8am to 8pm PST 
+
+I've had it active at the same time as another well in the starting area and by itself. I've also had it active with pretty much every combination of every other dungeon/cellar in that area so it doesn't seem to be linked to this either. 
+
+Your companions are able to land critical hits, and their critical hit chance appears to be inherited from the player (including Sharpshooter). 
+
+It varies from recipe to recipe. Level 60 legendary recipes will be item level 60+. Level 60 rares from recipes will also have an item level within this range. The items you learn while levelling blacksmithing are lower than this range so without collecting recipes you will not be able to make any worthwhile end game gear using your blacksmith. 
+
+The difference in DPS in this instance is caused by the Increased Attack Speed statistic on your quiver. Really the only stats on the shield you're currently using that are even relevant to Demon Hunters is the Vitality (health points) and resistances (not really that important depending on build, as they're physical resistance). 
+
+Or, if you prefer not to move your wrist, click, I, click to drop, I (open and close inventory). 
+
+For each additional party member, monster health scales: +75% HP in Normal, +85% HP in Nightmare, +95% HP in Hell, +110% HP in Inferno.4 5 (The upcoming 1.0.4 patch changes this. Instead of scaling monster health buffs with difficulty, all difficulties get a flat +75% HP increase per each additional party member.6) There are no other party size buffs. 
+
+Blizzard is unique in its cross-platform love: it has bundled Windows and Mac versions together on hybrid discs for over a decade. Your retail or direct download purchase lets you play on either platform. When you buy D3, you're really paying for the Battle.net account CD key. Once it's linked, you can re-download Mac and Windows clients any time you want, but your key will only work on one concurrent installation. 
+
+As for the joke bit, it may be a connection back to the "eat your vegetables" subliminal message in Diablo 1.5 
+
+I've noticed while waiting to respawn that some enemies regenerate health when no one's around (most without the Vampiric Modifier). I believe I've seen all enemies classes do this at some point (Champions, Uniques, normal, etc.), but I've also seen enemies not regenerate health when I'm dead. 
+
+It is more common than rare—I got it a few times during my later runs. When it spawns, it's in the center of The Battlefields. Take the Bridge of Korsikk waypoint backwards (or go Basion's Keep => The Arreat Gate forward) to get to The Battlefields. If you don't see the center formation, quit out and "Resume Game" to try again. You'll need to open the door to enter. This is what the spawn will look like, coming from The Arreat Gate (with the Bridge of Korsikk WP in the distance):

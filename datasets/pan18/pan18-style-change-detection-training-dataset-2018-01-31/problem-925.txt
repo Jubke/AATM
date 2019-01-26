@@ -1,0 +1,29 @@
+I just don't want to raise these things from the dead so aggressively. I'm clogging up the front page, and that makes me feel kind of disruptive. 
+
+We actually need at least four tags to properly sort questions about SQL Server and PHP, in addition to just the php and sql-server tags: 
+
+The rest seem to be either talking about the data type or are talking about "real" physical or logical things, as opposed to ... uh ... fake? I'm cleaning up the physical things mentions, but I'm not sure what else can be done to make the data type more clear. There are still about 20 questions, mostly topical. 
+
+Starting to clean up real. Most of the questions tagged facebook were about Facebook's Real Time Updates mechanism, now tagged real-time-updates. Most others that were tagged with time are now tagged real-time. 
+
+I'd like to make sure that whatever moderator performed that decline is able to know that only they have the power to solve this problem. 
+
+Of course, there's a problem. Each edit I make ends up bumping the question on the front page. This means that I'm going to end up bumping questions from 2008, which may not be productive. Is there a better way to edit tags that doesn't involve bumping ancient, out-of-date questions? Or perhaps some useful tool that I'm unaware of, or that I can't access, that only edits tags without the edited-question bump? Unfortunately each question needs human inspection for proper re-tagging, so having it done automatically won't work. 
+
+As such, it's now gone. I cleaned up some horrible tagging along the way, like adding appropriate debugging tags. 
+
+So, who wants to get this retagging party started? More annoyingly, some of the names for these proposed new tags might be horribly misleading. Whoever decided that the PDO driver should be named freaking "DBLIB" should be shot. 
+
+I recently flagged a few migrated questions because they created or held open inappropriate tags. 
+
+So, the question: when this flag is handled, can the moderator doing the handling see previous flags, and if so, can they also see who approved/declined? It'd be awfully convenient to make sure that the right moderator is able to be tracked down by his/her colleagues. 
+
+Sigh. We don't need a tag for every single function in every single programming language. Most of the questions in print-r are "why does it look like that" and "how do I parse the output." A few were about using it to assist in debugging. 
+
+I've now completed removing computing. 
+
+computational is now also burninated. It was being used most frequently to refer to computational complexity, which is covered by complexity (and, irritatingly, computational-complexity, which I'll be fixing in a moment). 
+
+There are "only" 1,300 questions, so I've started the slow and tedious process of properly retagging these into a more useful and accurate tag. I'll also eventually be petitioning for a blacklist of the tag, as it serves no useful purpose. 
+
+The zend tag and I do not see eye to eye. About 90% of the questions in it really belong in the higher-population zend-framework, while the rest randomly belong to some of the other various Zend product tags, like zend-server. There is no reason to discuss Zend-the-company on SO, but their products are relevant.

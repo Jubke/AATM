@@ -1,0 +1,55 @@
+Shopping lists are not suitable for the Stack Exchange sites and are typically closed with the "Not Constructive" close reason. 
+
+The answer that you reference does not answer the question. The question, at a fundamental level is: 
+
+That makes it "Too Localized" and not spam (hence the "Too Localized" closure from me) 
+
+We've also been asked by SE to take a very literal approach to VLQ, NAA, and Spam flags. If a flag is processed as helpful on these posts, then these posts are candidates for being honeypots in the review queue. 
+
+As Robert said, your flag got piggybacked on top of a spam flag. Because we can only take one action for each group of unique, active flags on the post, I rejected it, as spam flags can carry a penalty if acted upon. 
+
+Unfortunately, your flag had to be rejected in the process. 
+
+It's the only way to keep the question remotely constructive and on topic for the site. 
+
+In an ideal world where your flag was the only one on the post, I would have marked the flag as helpful, and then closed the post as "Too Localized"; the flag was helpful, even though it is an answer to the question (albeit a sparse, and hard-to-decipher one). 
+
+It most definitely wasn't an answer, but it wasn't spam, and given the fact that spam flags carry a penalty, and we're supposed to process these literally (and the Spam flag was the heavier of the two, it screams bright red in the mod queue!), I felt the flag had to be rejected. Your flag was an unfortunate side effect. 
+
+There is really no good answer to this, as none of the choices are optimal. 
+
+Also, to the argument and the existing flags on the answer saying it is a joke and this is the reason for the joke, there's nothing in the actual question (or any revision of the question) indicating that the person didn't know it was a joke. 
+
+Relevant reasons not to step in: 
+
+Exceptional cases include (not exhaustive): 
+
+Essentially, if a post is going to cause serious issues that can't be handled through the community, flag it for us. Otherwise, let the community do its thing. Vote to close, downvote, whatever. 
+
+Part of the original text of your question was the following: 
+
+I re-opened it. I will edit it. 
+
+There's a very high bar for a moderator to step in -- mostly because we're meant to be exception handlers. It hasn't always been this way (in practice), but we've seen that the more we handle outside the community moderation system, the more often people flag items for us to handle, as opposed to handling it within the community moderation system. Thousands of 3K users can handle thousands of questions. 12 moderators cannot scale that well. 
+
+The best approach is to do the following: 
+
+It requires extended discussion; and there's no one 'right' answer. Simply put, Java is used just about everywhere (and that's not really a useful answer, but it's the most technically correct one). 
+
+Oh the irony. This is the tag wiki for newline 
+
+As explained who voted is not contained within the Data Explorer as that would involve making downvotes public. 
+
+line-endings seems to be being used as a synonym of newline as well. 
+
+1. I probably wouldn't use it much as if I've commented I check back to see if the OP has replied but not thought to tell me about it. 
+
+I've just merged line-feeds into linefeed (it was a lot smaller and it should be line-feed anyway) but everything else seems to be as bad as it was. 
+
+What you're suggesting would be a nice to have for the good citizens who go back1. If you are a good citizen, and always explain how the post could be improved, you could look for posts that were edited by the OP after your comment and where there was a downvote prior to the OPs edit. You can't know who downvoted but you can check if one occurred. 
+
+So, eol and end-of-line should probably also be included in this and synonymised with newline. 
+
+I've been doing a little improvement :-). 
+
+I guess that answers the question but I'd still like to get rid of the other tags I came across, whilst doing this, that deserve burnination:

@@ -1,0 +1,35 @@
+My new term brings new questions, this time concerning Kant's "Perpetual Peace" (you can read most of it here). 
+
+Reading a paper on Descartes I found the following summary of criticism: 
+
+Hopefully you can see why I am confused. I think this is a really interesting topic, but I don't know where to look further. I am not asking about the concept of adiaphora here, which, as I am told, is a stoic and later catholic concept, neither am I asking for references in other philosophies - I am solely interested in Kant's understanding of morally indifferent acts. I will be grateful for all kinds of sources and references on-topic. 
+
+It is, however, of great consequence to ethics in general to avoid admitting, so long as it is possible, of anything morally intermediate, whether in actions (adiophora) or in human characters; for with such ambiguity all maxims are in danger of forfeiting their precision and stability. Those who are partial to this strict mode of thinking are usually called rigorists (a name which is intended to carry reproach, but which actually praises); their opposites may be called latitudinarians. (Religion within the Limits of Reason Alone, Book I, Observation) 
+
+Also, if you happen to know by heart where in the Critique of Pure Reason Kant addresses that topic (I suppose it has something to do with his rejection of the ontological proof of god, but I don't remember where I read that), please let me know. 
+
+While revolution is not justifiable in terms of rights, there is a positive side to it. I will quote the SEP on this: 
+
+This is probably a misunderstanding. In German, "transcendent" and "transcendental" are not the same. Kant's philosophy is transcendental, not transcendent. In German, this really makes a difference. Transcendent philosophy is what Kant criticises, i.e. empty talk about things we can't know because they're beyond our reason. His philosophy, on the other hand, isn't - transcendental means "grounding the possibility of knowledge and experience a priori". 
+
+I'm probably overseeing argumentational gaps. If there is something missing, I will gladly add that. 
+
+I understand the induction part of Aristotle's categories, and I know about Kant's categories, but apparently not enough to understand how they can be derived deductively. How can categories, and from what, be derived deductively? 
+
+The compulsion of the others to enter into a state of civil law can be violent. What we see is this: There is a prohibitive rule to use violence in general, but there is a permissive law that allows violence in certain circumstances, namely for the erection of the state, a legal constitution. It is similar for states which, between themselves, act as individuals. As long as there is no international constitution, individual states are "in the state of nature". To overcome this state and to constitutionalise their interactions, certain otherwise prohibited acts become temporarily permitted. Every thought in this book serves one purpose: the creation of a legal condition between states. It is Kant's philosophy of law on a higher level all over again. This is also why we don't find the permissive law in ethics. 
+
+The thing is that Kant (I don't know enough about Fichte to be arguing his case) would not agree with your third premise, i.e. that "violating the law is just if and only if the law is unjust". 
+
+Studying Kant's Perpetual Peace I happened to notice the concept of adiaphora. Further investigations brought up almost nothing: There are several references to adiaphora in Kant's work that clearly contradict each other. 
+
+German Wiki on adiaphora is linked to the entry on rigorism which states, quoting the second passage from above, that Kant was rigorous for he didn't admit of anything "morally intermediate". This seems simply impossible, for even in the Perpetual Peace he thinks about what kind of acts are touched by the permissive law, and mentions adiaphora. Another book I consulted on this, unfortunately only available in German, states that the ones denying adiaphora in Kant's philosophy simply mistake "morally intermediate" things for adiaphora, and claims they aren't the same. 
+
+To understand what the permissive law is we have to examine the origination of the civil society as Kant sees it. We will then see that the permissive law isn't ad hoc at all but an important part of Kant's whole philosophy of law. As I did not read enough to give a systematic summary of that yet, I will leave this part to others and focus on the steps required for the argumentation. 
+
+What is politics? In The Perpetual Peace (Appendix 1), Kant writes: 
+
+We then have to ask what kind of government Kant advocated. He wrote a lot on that, and again, the Perpetual Peace gives insight (First Definitive Article): 
+
+I don't know why you'd constrain that thought to the Golden Rule only. Neither do I know about al-Ghazali, so I can't point out any similarities, but my first answer would be: definitely yes! 
+
+Just take a look at Kant's moral aims - the categorical imperative (together with the rational religion as presented in Religion within the Bounds of Bare Reason) serves the formation of the Kingdom of God on Earth (though the Categorical Imperative doesn't "serve" anything as a purpose [it has its purpose in itself], every action has its outcome, and the outcome of everybody obeying the CI plus living in a rational ethical community would be the Kingdom of God). That God, independent of our inability to recognize his nature, is postulated as the Christian God (at least I think so, should probably check that out). Kant proposes a totally different approach to religion and God, but his morality cannot be thought independently of them. Morality makes a human being free, and to be moral, they need the certainty that their felicity isn't contrary to morality (that's a thought that, too, can be found in Religion). Only the idea of a/the God can assure us that this isn't the case. The perfect community needs a God and a rational religion, not as foundation but as completion.

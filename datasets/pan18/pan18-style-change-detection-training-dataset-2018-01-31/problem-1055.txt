@@ -1,0 +1,21 @@
+Occasionally I've seen downvotes (with comments) given for errors in posts that I'd corrected 15 minutes earlier. 
+
+Voting involves a server call so this would not be adding any server roundtrips. 
+
+Personally I signed up in the beta just because if it flops I'm only out $30, which is about the cost of 2 trips to Nando's for lunch. 
+
+For example, this won't work with the linking feature: 
+
+I do have to question the strategy of pricing on the basis of having an audience and a conversion rate that you don't have (or can't prove) yet. 
+
+This seems like a natural integration. Give anyone potential hirer an easy way of accessing stuff you've written. 
+
+One thing that would be useful would be to have an RSS feed of whenever a question has a bounty put on it and when that question is decided. This would be a good way of featuring such questions and probably wouldn't be too noisy either. It seems SO Careers has positioned itself more at this end of the market than the "job board" end, which (imho) is all that it really is. And what does an ad on a job board cost? A few hundred for a popular one? Recruitment agencies are expensive in part because the risk is borne by the agent not the employer. If no one suitable is found, there is no or little outlay so they're getting paid for results; Advertising is cheaper both because it involves less work and the risk is borne by the employer; Advertising costs scale based on the implied conversion rate, which is a factor of both the size and the quality of the audience. In it's hey day, the West Wing may have had under 10 million viewers but they were a particularly lucrative set of viewers (eg higher socioeconomic status, more disposable income). Point (3) is worth exploring. Size SO (Careers) obviously doesn't have (yet), both in terms of candidates and employers. The candidate cost is nominal but you have to compare it with most other options being free (for candidates), including dealing with recruitment agents. In fact, depending on your jurisdiction it can be illegal to charge candidates (I wonder if anyone has thought about this yet?). One last thing about job ads: you can often get more than one job filled from one ad. You might put an ad up that says you're looking for X, Y and Z. An agent once told me that at least 90% of the CVs he receives can be thrown out. A certain other number are possible candidates that just aren't right for that job. Perhaps they have too little or too much experience or not quite the right experience. But it happens where the company thinks you might be right for a different position. 
+
+Currently you can look at a page and decide to vote (up or down) based on what you see. If that's been sitting on your screen for awhile it may have vastly changed. If the post (question or answer) you're trying to vote on has changed then it should bring back an error saying "Post has changed, please refresh" or simply refresh it automatically. 
+
+http://java.sun.com/j2se/1.5.0/docs/api/java/util/Arrays.html#binarySearch(int[], int) Also, companies tend to keep CVs for people who have applied to them. With the ability to search on SO Careers, what's to stop a company basically harvesting CVs in the time they have access? 
+
+If I try and [link it][1] this is the result. [1]: http://java.sun.com/j2se/1.5.0/docs/api/java/util/Arrays.html#binarySearch(int[], int) Edit: just to add a few points (and hopefully bring it back a little to the topic of startups): 
+
+Where you have permission to work is obviously important. Where you're a citizen can also be important. You could do this with free text but that wouldn't necessarily be accurate to search so I would suggest:

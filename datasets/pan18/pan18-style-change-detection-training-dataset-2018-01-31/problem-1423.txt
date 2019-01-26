@@ -1,0 +1,11 @@
+Both formats express the same absolute point in time in different notations. The former is a simple counter which started roughly here: Some very simple, generic tree building: 
+
+A long-liner that works with any number of items: 
+
+Take for example this common problem: You have an array with the arguments for your function which is of indeterminate length. 
+
+IMHO you should think about not just making the app "E_NOTICE compatible", but restructuring the whole thing. Having hundreds of points in your code that regularly try to use non-existent variables sounds like a rather badly structured program. Trying to access non-existent variables should never ever happen, other languages balk at this at compile time. The fact that PHP allows you to do it doesn't mean you should. 
+
+The whole thing works so far, but it's far from elegant and will fail in some edge cases, I'm sure. Is there any better way to do this, i.e. have GD fail gracefully if it has to, instead of grinding everything to a halt? How is a scope defined in PHP? Very simple: PHP has function scope. That's the only kind of scope separator that exists in PHP. Variables inside a function are only available inside that function. Variables outside of functions are available anywhere outside of functions, but not inside any function. This means there's one special scope in PHP: the global scope. Any variable declared outside of any function is within this global scope. This is just as valid a representation of the same data structure though: 
+
+An absolute point on this line can be expressed as: A UNIX timestamp inherently does not have this problem. The object does not represent a database record per se, the database is only seen as one possible form of permanent storage. As such, a database connector is not stored in the object but rather needs to be injected every time the object needs to interact with the database. When a new user is created, this looks like: Can I count on this working everywhere, or is this a fluke in my version of PHP (5.2.10)? The only documentation I can find about this is the one that states that it shouldn't work, with no version limitation mentioned.

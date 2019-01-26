@@ -1,0 +1,21 @@
+Assuming you have a premium account, you can head over to the Minecraft website and change it there by following a few easy steps. 
+
+Although the other answers both work, I found it inconvenient to transport the rabbit to his cage after he was caught. 
+
+I think you accidently changed the GUI Scale setting. Try changing it back to normal. Go to your server.properties and make sure "server.ip=" is empty. 
+
+EDIT: Apparently forming a secret alliance with passing creepers, the killer rabbit was trying to escape. Luckily I had been forewarned of this uttermost danger and had the time to up the security near his cell: 
+
+Notice the particles in this picture: 
+
+Placement of Bookshelves Correctly placing the bookshelves around the enchanting table is key to receiving high level enchantments. 
+
+You can download Single Player Commands here. Leading my evil friend to his trap: 
+
+I then led tracks straight into his new home: 
+
+Speed According to the "Sprinting" page on the wiki, the normal walking speed of Steve is around 4.317 m/s. Your new skin will be applied almost instantly. If you had Minecraft open, restart your client to update your skin. Sheep can spawn naturally in white, black, grey, light grey, brown and pink with the following chances of spawning: Another option is to make a corner of bookshelves to one side of the enchanting table two blocks high, this can look very good in the corner of a room (16 bookshelves, however you can delete one of the blocks behind the corner without sacrificing aesthetics): 
+
+Experience orbs drop in the following situations: Shaders can disabled by pressing the F4 key or restarting you Minecraft client. When I try to put different maps in item frames adjacent to each other, they do not join. I can't get any number of maps to join into a single image, even when the maps adjacent should actually fit together. 
+
+Note: The actual tree only took up 5 x 5 x 5 blocks of space, but wouldn't grow without the extra block of air above it.

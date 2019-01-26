@@ -1,0 +1,89 @@
+For example, code such as the following is used all over the place to distinguish between code compiled as C and code compiled as C++: 
+
+There are also the following that go the other way around: 
+
+It doesn't "fail"; it just stops reading. It sees a lexical token as a "string". 
+
+Consider the following from C++11: 
+
+(and some more rules that I can't find) 
+
+My friend on the committee confirmed this: 
+
+Well that's all well and good, but nobody's perfect. Programmers make mistakes. This allows the compiler — which never makes mistakes (at least, not usually) — to point them out to you. 
+
+Compare with the standard functionality of "anonymous unions" which do a similar thing: 
+
+Your compiler may in fact be being "polite" in noticing that the intent of the loop in these programs appears to be in slowing down the emission of repeated text output. :) 
+
+Your edited question bears little resemblance to the original. 
+
+You get a new measure of provability, correctness and stability in your code base, as well as a huge chunk off possible causes of really subtle and nasty bugs. There are also vast optimisation opportunities for your compiler (in some cases) when it knows that some value won't change after compilation. 
+
+2. Object initialisation You can't jump across object initialisation: 
+
+It doesn't for the reason stated above, and in litb's answer: it would complicate matters for no real benefit. 
+
+It's of particular use when you're using some data variable many, many lines of code away from where it was created. The further away it is, the easier it is to modify it without realising that you were not supposed to. For large, complex code bases it is simply a must. 
+
+We could list the advantages all day but, really, you won't fully grok it until you've worked on such a codebase. 
+
+In a standard way, it could be instantiated as a member like this: 
+
+* "implementation-defined" in its English language sense, not the C++ standard sense of the phrase 
+
+So, the following will ultimately solve your problem in what's — probably — the best way: 
+
+1. Label scope You can't jump across functions: 
+
+I'd say that, as long as we're happy that we are going to have implementation-defined results and that we should investigate what that macro means on our implementation (if it exists at all!), it should not be inherently illegal to refer to such a macro provided we do not attempt to modify it. 
+
+[ Note: This is intended to allow compiler transformations such as removal of empty loops, even when termination cannot be proven. —end note ] 
+
+No, time spent does not count as observable behaviour to be protected by the as-if rule: 
+
+In C++11, as an infinite loop with no side-effects, the following program is UB: 
+
+I have two absolute filesystem paths (A and B), and I want to generate a third filesystem path that represents "A relative from B". 
+
+Is this lambda recursion valid? 
+
+4     Complexity: constant time. 
+
+All the standard text refers to creating an "unnamed struct": 
+
+Now, what if this anonymous UDT were to derive from some base? 
+
+So, what do you think? Does "shall not be used otherwise" include simply writing such a name? Or is it probably not intended to be so strict (which may point to an opportunity to adjust the standard wording)? 
+
+First of all, am I correct? And, if so, what's going on with the third function? 
+
+So implementations don't need to perform any bounds checking… and the common ones won't. 
+
+Not "may"; will cause errors in your program. 
+
+These collectively are referred to as the observable behavior of the program. [ Note: More stringent correspondences between abstract and actual semantics may be defined by each implementation. —end note ] 
+
+Those loops can be legally optimised out and, indeed, there are scenarios in which the standard makes deliberate attempts to make doing so even easier: 
+
+Without a ref-qualifier, the function can always be invoked, regardless of the value category of the expression through which you're invoking it: 
+
+Recall that (at the moment), member variables may not be initialised in the same place where you declare them (with a few exceptions). 
+
+Now, this seems to me to be about as clear as mud, and I think it needs more exposition. But, this editorial comment aside, I believe I've decoded the meanings of each variant: 
+
+The wording is slightly confusing, but if you study it in detail you'll find that it's actually very precise. 
+
+Warning: This answer pertains to C++ only; the rules are quite different in C. 
+
+You can't jump into the scope of an object, even if it's not explicitly initialised: 
+
+You say that you did this within a class, as a private variable. 
+
+On the std-proposals list, the following code was given: 
+
+First, we'll take a bog-standard abstract UDT (User-Defined Type): 
+
+It means the member will be invoked when the object is an lvalue reference. 
+
+I want to do it with Boost paths.

@@ -1,0 +1,15 @@
+Read the instructions that come with the patch kit. Usually you clean around the hole using the sandpaper that comes in the patch kit, spread glue (also in the kit) around the hole and let it mostly dry, then attach the patch over the hole. Then it's usually wise to wait 5-10 minutes before inflating (though during that period several times pressing the patch tightly against the tube). It's probably a good idea to then inflate the tube a bit to be sure that there are no more holes and that you covered the one hole correctly. 
+
+The main thing you'll be missing after all this is the geometry of a road bike. For shorter rides this is not so much an issue, but for, eg, touring you'd appreciate the longer wheelbase, more appropriate posture, and more stable steering of a true road bike. 
+
+-20C is -4F, cold enough to be uncomfortable for humans, but not particularly cold for mechanical equipment. You will notice that lubricants get stiffer, but generally they warm up rapidly when you ride and the stiffness will be gone in a minute or two. Hydraulic fluids, et al, should be good to -35C or below, though they will stiffen before that, noticeably increasing the response time of the brakes. 
+
+First get smoother, higher pressure tires, ideally a bit narrower than your current ones. You do not have to switch to 700C rims, though your choices with 26" rims will be somewhat limited. 
+
+I like to spread some chalk powder or simply a bit of dust from the ground over the patch area to keep it from sticking to the inside of the tire. 
+
+There's really nothing in a bike that isn't in a car, and cars can handle -35 or -40C. And the places where you have trouble with cars is mostly the battery and fuel system, components you don't have on a bike. 
+
+For a boot you want a piece of thin but relatively stiff/strong material. Special strips of reenforced rubber are sold at bike shops for this, or you can cut a section from the side of an old tire. A popular technique in the US is to use a folded-up dollar bill -- the paper that the US dollar is made from is quite durable and stiff, and, if a relatively new bill is folded into four layers it works quite well for small or medium holes. 
+
+You will notice that the tires get stiffer, and people have reported difficulty with the tires becoming rock hard and spinning on the rims at low temps (eg, -20F). Also, of course, rubber brake pads get harder, and rim brakes become much less effective.

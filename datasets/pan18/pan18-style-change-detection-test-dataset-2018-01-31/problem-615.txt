@@ -1,0 +1,25 @@
+The Java compiler forces you to either catch checked exceptions or declare them in the method signature. It was supposed to improve program safety, but the majority opinion seems to be that it's not worth the design problems it creates. 
+
+It means that if your final variable is a reference type (i.e. not a primitive like int), then it's only the reference that cannot be changed. It cannot be made to refer to a different object, but the fields of the object it refers to can still be changed, if the class allows it. For example: 
+
+I think this can be boiled down to "null is special". 
+
+Completely wrong - JSF covers the entire MVC pattern (though it can overlap with EJBs, since both are based on annotations that can be mixed in the same class). 
+
+This is the system configuration: 
+
+Edit: Here's a excerpt from the cruisecontrol log file, showing projectA hanging at 16:07 (it is still hanging now at 17:48) 
+
+I'm having problems with the Wiquery DatePicker in the following code in a Wicket page (using a CompundPropertyModel, the date property is of type java.util.Date): 
+
+No, we should avoid developers who hold such incredibly wrong opinions. 
+
+The question is: which would be the best encoding to use? How does Excel determine what encoding to use? Does it use something platform-specific that presumably matches Java's platform default? 
+
+Edit: There are some rare cases where custom client code can do things more efficiently than a straightforward DB join (see comment by meriton). But this is very much the exception. 
+
+Off the top of my head, I can't even imagine a single scenario where a correctly used join would be slower than the equivalent client-side operation. 
+
+This is how my modificationsets look like 
+
+I'm developing a java app that exports data to CSV files, intended to be opened in Excel by end users. We just noticed that the export function uses Java's platform default encoding. This causes umlaut characters to be lost and unit test to fail on the build server (which is configured to have US-ASCII as its platform default encoding exactly to catch such potential problems).

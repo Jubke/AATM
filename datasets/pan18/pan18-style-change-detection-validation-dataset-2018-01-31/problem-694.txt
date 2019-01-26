@@ -1,0 +1,35 @@
+2 A return statement without an expression can be used only in functions that do not return a value, that is, a function with the return type void, a constructor (12.1), or a destructor (12.4). A return statement with an expression of non-void type can be used only in functions returning a value; the value of the expression is returned to the caller of the function. 
+
+The language specification wants to ensure that you are accessing a protected member of some base subobject that belongs to the derived class. You are not supposed to be able access protected members of some unrelated independent objects of base type. In particular, you cannot access protected members of freestanding objects of base type. You are only allowed to access protected members of base objects that are embedded into derived objects as base subobjects. 
+
+For obvious reasons, this requirement is recursive: all subobjects of the class (bases and non-static members) must also have trivial constructors. 
+
+In a typical implementation the destructor usually has two branches: one for non-dynamic object destruction, another for dynamic object destruction. The selection of a specific branch is performed through a hidden boolean parameter passed to the destructor by the caller. It is usually passed through a register as either 0 or 1. 
+
+In C++17 an extra sentence is added to the specification of assignment operator: 
+
+In your example things look pretty trivial. I'd expect the optimizer to remove all unnecessary branching. However, it appears that somehow it managed to survive optimization. 
+
+Aside from the fact that there's no call (and therefore no associated expenses, like parameter preparation before the call and cleanup after the call), there's another significant advantage of inlining. When the function body is inlined, it's body can be re-interpreted in the specific context of the caller. This might immediately allow the compiler to further reduce and optimize the code. 
+
+In combination with the above it makes for a very strong guarantee. It sequences everything that happens in the RHS (including any side-effects) before everything that happens in the LHS. Since the actual assignment is sequenced after LHS (and RHS), that extra sequencing completely isolates the act of assignment from any side-effects present in RHS. This stronger sequencing is what eliminates the above UB. 
+
+The proper way to do it depends on your intent. 
+
+In simple words a "trivial" special member function literally means a member function that does its job in a very straightforward manner. The "straightforward manner" means different thing for different kinds of special member functions. 
+
+Consider the following simple example 
+
+There might be a way to prevent the split in non-optimized mode, I think. I just haven't found it yet. Or, quite possibly, it can't be done. Older versions of GCC used true parameterized destructors. Maybe in this version of GCC they decided to switch to two-destructor approach and while doing it they "reused" the existing code-generator in such a quick-and-dirty way, expecting the optimizer to clean out the useless branches. 
+
+1 There appears to be a contradiction between 5/6 and the note in 3.10/4 in C++14, but notes are not normative anyway. And I'm using a draft version of the text. 
+
+As you correctly observed in your original post (I'm referring to the "Not polymorphic" remark), this behavior might be seen as a violation of IS-A relationsip between the classes. This is true, but apparently back then it was decided that in the end name hiding would prove to be a lesser evil. 
+
+C++11 sticks to the "classic" approach that has been around since C++98: according to 3.10/4 "non-class prvalues always have cv-unqualified types". 
+
+What could be the reason for this change? C++11 and before denied non-class prvalues the right to have any cv-qualifications. C++14 says that non-class, non-array prvalues can have cv-qualifications, but these cv-qualifications are discarded prior to any further analysis. 
+
+Because that's how it works in C++. In C++ access control works on per-class basis, not on per-object basis. 
+
+When you are compiling with optimization enabled GCC will not allow itself such luxuries as useless branching in the final code. You should probably try to analyze optimized code. Non-optimized GCC-generated code has lots of meaningless inaccessible branches like this one.

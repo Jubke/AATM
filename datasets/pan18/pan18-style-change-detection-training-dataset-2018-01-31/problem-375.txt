@@ -1,0 +1,33 @@
+Otherwise you'll need a handlebar mount, or a top tube bag, or both. Its a good idea to bring a USB battery pack and cable for your phone, because a phone that runs for a day of normal use might only get 2-4 hours of riding time before its flat. 
+
+Hang the bike up on a repair stand, or use rope/cable/something to lift the back wheel clear of the ground. Use your hand to slowly pedal and pull the exposed gear inner wire with your other hand while pedalling. The gears should change like normal, through the full range. If this works, then the inner wire is too long and needs some slack pulled through the adjustment bolt on the derailleur. 
+
+Locally, milk tanker drivers are awesome at passing with extreme room. They don't slow down from their permitted maximum of 90 km/h but they will give me a full lane of passing space where possible, which is 5-6 metres. 
+
+Rear suspension also sucks your power. If you're average weight the bike will probably be about right for setup, but light and heavy people need the rebound and sag set properly. Many rear suspensions suck your power while pedalling too - so rear suspension lockout is handy on the road. Or don't get suspension at all. 
+
+I'm going to assume you have been riding a 16" or 20" folding bike that looks like this Dahon: 
+
+Windows phones are lacking in this area - a good answer is Windows Phone as a Bike Computer - What is the current State of the Art? 
+
+Both of those screenshots show heartrate. A phone can't do that alone - you need a heartrate sensor. Phones with ANT+ radios are better than bluetooth sensors because the batteries last for 4-6 months, whereas bluetooth sensors are a much shorter runtime. Also note, that phones with a "pulse meter" are useless for this purpose. 
+
+Sounds like one of four possibilities. 
+
+3) (was 2b) Your shifter was weak and has bent or the number indicator has moved/bent. 
+
+1) Pulling on the shifter has bent the derailleur - very unlikely unless you're a gorilla or the derailleur was already bent/weak 
+
+If you want to see your phone while riding that gets messier. Personally I keep my phone in my pocket with the screen off. 
+
+Right-angle USB cables can help organise things too. 
+
+Assuming you have an android-based or ios-based phone that works and has a decent battery life then you're pretty much set. Both will run the Strava application, which looks something like this: 
+
+See the Schwalbe Rocket Ron. 29x2.25, good, fast rolling knobby with enough width to be stable in the rock garden, and comfy, good cornering feel, and good hook up. It even sheds mud well. i ride it in Pacific Northwest singletrack, including Whistler and Banff, which is fairly similar to Colorado, if not quite as dry. 
+
+Yes, your bike can be fitted with pretty much any saddle. 
+
+They all use the same frame, and the only difference is components. 
+
+2 Housing shims, used to secure hydraulic lines or brake housing in the braze-ons of the frame, or for securing the housing at the point it enters the frame in the case of internal housing. 1 Headset adjustment bolt button, used to keep water out of the bolt in the center of your headset cap, or to hide the bolt. 2 Hydraulic line clips, used to secure hydraulic lines or cable housing on a particular type of housing guide on the outside of a frame or the back of a suspension fork. Many frames come with extras of these parts, so it may be that you have no need for them at this time. Or you might, if the LBS did a poor job of assembly. No way for us to know without seeing your bike.

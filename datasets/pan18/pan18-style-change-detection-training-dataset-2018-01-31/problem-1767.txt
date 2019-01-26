@@ -1,0 +1,23 @@
+Note that, as others have argued, God's omnipotence need not mean his omniscience. However, since the main perceived paradox between God and free will arises from his omniscience, this will be assumed for this answer. 
+
+Thus, something omnipotent (and only omnipotent as a premise) should be able to destroy itself, because it has the power to do so, and would not cause any logical paradoxes in doing so. 
+
+The Stanford Encyclopedia of Philosophy has an extensive article on category theory and its philosophical implications. On the significance of the theory, it says that: 
+
+Some believe that the question itself is logically flawed. Although "childish loophole" may not be the appropriate term, this is indeed an illogical product of the English language. 
+
+However, that is only if omnipotence is the sole premise. Conversely, you mentioned several premises to the definition of God, one of which seems particularly important. I think what renders the statement "God destroys himself" problematic is your following statement: 
+
+It's not that an eternal God cannot destroy himself and therefore is not omnipotent, but that the proposition itself is logically impossible. Because your definition of God is one that must be eternal, it is logically absurd to ask if this God could destroy himself. It is akin to asking what the radius of a square is, or to apply the quadratic formula to a cubic function (as far as my education goes these are logically flawed). 
+
+Thus, it's apparent that category theory is relevant to and has implications for both mathematics and philosophy, and is not just semantic. From the perspective of mathematics, category theory is very significant because "doing mathematics in a categorical framework is almost always radically different from doing it in a set-theoretical framework." And you see that you were correct. 
+
+There are several tools online with which you can make truth tables yourself and check the truth value of statements. This is a truth table for the correct statement: 
+
+It's somewhat peculiar that that textbook talks about validity without first defining it. It's a pretty straightforward definition, but usually these books are very precise. 
+
+Supposing the arguments were asymmetrical and the one form is indeed stronger than the other, we should be able to formalise them: 
+
+I'm helping in a computing science course about basic math, and last week someone asked me: We can rephrase it as: (F → G) → (¬G → ¬ F). That this holds is the idea of modus tollens. Both arguments are equally unsound and weak. However, using other evidence (for example that nobody has ever seen a unicorn), we can say something about the probability of Alice's and Joe's conclusions: given the evidence that nobody has ever seen a unicorn, it is likelier that Joe is right than that Alice is right. This does not say anything about the weakness of their arguments though, only about the truth of their conclusions. 
+
+Since "the stronger the restriction, the narrower the class", Y will be smaller when P is stronger. And since N = X ∖ Y, this means that N will be greater, therefore, ¬P will be weaker. A similar argument can be made when P gets weaker: Y will be greater, so N smaller, therefore, ¬P will be stronger.

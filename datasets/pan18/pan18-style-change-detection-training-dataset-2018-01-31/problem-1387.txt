@@ -1,0 +1,27 @@
+I'd probably write a tiny wrapper class for each: 
+
+It is possible, of course, to create instances with different values though -- you (for example) pass a value when you create the object, so two different objects can have two different values. If, however, you try to do something like swapping them, the const member will retain its original value instead of being swapped. For anybody who might care about how dependable this kind of coding can be: if you make a phone call to, from, or through almost any part of Europe, there's a pretty good chance that it's being handled (at least in part) by code that does exactly this. Since UncleBen brought up his LineInputIterator, I thought I'd add a couple more alternative methods. First up, a really simple class that acts as a string proxy: 
+
+Another possibility uses a part of the standard library most people barely even know exists, not to mention being of much real use. When you read a string using operator>>, the stream returns a string of characters up to whatever that stream's locale says is a white space character. Especially if you're doing a lot of work that's all line-oriented, it can be convenient to create a locale with a ctype facet that only classifies new-line as white-space: For C++ vs. C90, there's at least one way to get different behavior that's not implementation defined. C90 doesn't have single-line comments. With a little care, we can use that to create an expression with entirely different results in C90 and in C++. 
+
+Given an iterator, is it possible to retrieve/use the correct comparison function for the collection that this iterator refers to? 
+
+For example, let's assume I'm writing a generic algorithm: 
+
+Some consider this a nasty hack, and tell anybody who will listen that it should be avoided. One commonly cited problem is the difficulty of ensuring that objects of the class are only ever allocated dynamically. Others consider it a perfectly reasonable idiom, and use it all the time. Personally, I'm somewhere in the middle: I rarely use it, but don't hesitate to do so when it seems to be the right tool for the job. I have not been able to identify where in the standard this is allowed, and I find it slightly confusing that two of the compilers warn that it is required, shouldn't it be an error if the typedef-name is required but not present? From C++03, 12.1 Constructors, pg 190 Why is this necessary? Before substituing the actual KEY and VALUE types, the compiler cannot guarantee that the template is not specialized and that the specialization is not redefining the iterator keyword as something else. I was quite surprised when I saw the following code compile without errors or warnings in g++-4.2: Basic simplification of the article: Even in the few cases where the difference in performance of one approach from the other could be measurable (say that the functions only take two cycles, and that dispatch thus doubles the cost of each function) if this code is part of the 80% of the code that takes less than 20% of the cpu time, and say that this particular piece of code takes 1% of the cpu (which is a huge amount if you consider the premise that for performance to be noticeable the function itself must take just one or two cycles!) then you are talking about 30 seconds out of 1 hour program run. Checking the premise again, on a 2GHz cpu, 1% of the time means that the function would have to be called over 10 million times per second. 
+
+(for reference, I am using cmake version 2.8.2 on MSYS) In order to understand the cast system you need to dive in the object model. 
+
+There are various smart pointers out of there, with various characteristics. It does not mean you are less of a programmer! On the contrary, reusing code that has been proved to work instead of reinventing the wheel over and over is a key skill. 
+
+In C++, most of the optimizations are derived from the as-if rule. That is, as long as the program behaves as-if no optimization had taken place, then they are valid. 
+
+When I change a header file, it typically requires recompiling a number of sources files (those which include it, directly or indirectly), however it seems that cmake only detects some of the source files to be recompiled, leading to a corrupted state. I can work around this by wiping out the project and rebuilding from scratch, but this circumvents the goal of using a make utility: only recompiling what is needed. 
+
+C++ and C Standards are usually named after the year they are published in, which makes it easier to remember by. I was reading one of Linus' rant yesterday and there is (somewhere) a rant against operator overloading. Visual Studio 2010 features a number of extensions (activated by default) / discrepancies with regard to the C++ Standard. 
+
+I am aware that there are been various questions about utf-8, mainly about libraries to manipulate utf-8 'string' like objects. Many smart pointers are not meant to be copied, therefore their use with the STL containers are somewhat compromised. But I would not recommend it, especially for a beginner. It's a tricky issue, and you're not likely to notice the bugs right now. 
+
+However this kind of technique cannot identify the virtual overrides that are unused, since they could be called by third-party code you cannot reason about. 
+
+I would like to avoid 'subjective' remarks (of the kind "I like for/while better") and I am definitely interested to references to existing coding guidelines / coding standards.

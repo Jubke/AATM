@@ -1,0 +1,33 @@
+Bluffs, over pairs and full houses. 
+
+I think the value part contains: AA, KK, 33, 44, 99, QQ, AhX, KhX, A3s, K3s. These are all reasonable hands to get value. Your overpairs from Qx. Your boats from flushes etc. So: yes your value bet is completely fine. Next question: what part of your range should you be calling? 
+
+I haven't talked about caecilius' river sizing. Now I think caecilius' range is more capped than BrynKenney's. BrynKenney can have flushes and full houses here, that slowplayed the turn knowing caecilius will bet the turn frequently and also slowplayed the river. Caecilius can realistically not really have those hands. I don't really understand the overbet, since he is just putting himself into a stupid spot. He can get raised by flushes and full houses and can even get called by a better five. All worse hands will likely fold to this overbet. By betting small you can still get value from a pair of eights or sixes. 
+
+Let's try and play an unexploitable, balanced strategy. Arguments like: this is micro stakes he is never bluffing, or he is always bluffing are invalid, you don't know that. 
+
+What should you do? You obviously fold your bluffs and you are left with your value range. It is ALWAYS okay to fold the bottom part of your range. Looking at your value range on the river, you got some seriously strong hands there, so it is okay to let Qx and most overpairs go. You can consider calling with overpairs that have a heart in them sometimes, resulting in him being more likely to bluff, because chances of him having a flush goes down. But generally I would still fold, because you have so many better hands in this spot you can call with. Your range isn't really that wide when you bet the river, so when you only call him down with your boats and flushes you will probably have enough calling combinations to not be exploited. 
+
+Long story short: you are at the bottom of your range in this spot and you don't block any value hands of your opponents. You should be looking to let this hand go. You should be calling with your full houses and flushes and if you feel like it, maybe call with overpairs that contain a heart. 
+
+What I would personally call in this spot is obviously all your full houses, since it is a very strong hand, plus it will block some of his value hands like sets and Tx. After this I do not think you have enough calling combinations to prevent being exploited so you should be looking for a couple more combinations to call. Your over pairs are Js-As. I think it would be a good strategy to fold your Js and Qs here especially if they contain a club or maybe even a spade. The reason being by having some of those cards in your hand you block him from having bluffs you want him to have like a flush draw or a straight draw like J9 or even QJ. Whereas calling with aces and kings without a club makes more sense, since you don't block those straight draw hands. 
+
+My initial reaction when reading this hand was that a push was the easy play. After thinking about it a little, I'm not sure that it's so clear. Make no mistake, a push is absolutely a good, profitable play, but maybe just calling is better for the following reason: given his range, (which btw, I think is too tight--you shouldn't ever totally discount other possibilities even if they are low probability), there are very few if any non-heart cards that could fall on the river to prevent your opponent from paying you off (maybe an ace if he has KK as in this hand). 
+
+That's an extreme simplification though. You may have some fold equity by pushing. He may check/fold some rivers or if he doesn't have a heart he may check and allow you to check behind on a heart river. In those situations you lose some value by not getting his chips in on the flop. 
+
+If you focus on building a stack and taking advantage of those players who are just struggling to make it to the money, you'll set yourself up for more impactful chances of success when you do run good late. Take a couple risks to get a big stack and pick out spots where you can bully to get more chips. Focus in on the other players who are now shaping up to be the ones you'll have to make big decisions against late. 
+
+I would fold the turn. The opponent has called a raise, check-raised a flop, and bet again--that's showing quite a bit of strength and you have a mediocre hand. So the scenarios in which you win are either you're facing a bluff (or semibluff) or you're up against a better hand and you improve to beat it. If you are up against a better hand, your outs are pretty dubious. Hitting two pair, three of a kind, or even another heart on the river will still lose a decent portion of the time against his "good" range which is mostly a set, a flush, or maybe a pair of nines with better kicker (and maybe higher heart). 
+
+Generally speaking he should call, the villain made a huge mistake by making his raise to small. If your going to reopen the action with pocket kings, you should make an assumption that you dominate and raise enough to pick up the dead money, something like three to five times the original bettors raise, or you should not raise at all and trap your player on the flop. In a tournament I would prefer to make a big reraise with Kings, in a cash game out of position I would lean a little more toward calling depending on the raiser and the field. 
+
+I do not know if you call, I do know that you do not automatically fold. The majority of boards in hold'em like this have cards that are connected enough and suited enough for someone to hold a hand better then yours. 
+
+If the villain was anything more then tight weak I would fold. 
+
+This is the option that might work best in the nightmare scenario. I could maybe sale this to Lyle, Doyle and the whale and keep my job. I think this is the one that upper management would try to work with them. It might keep everyone content since nobody really lost. 
+
+I would write it NL 200/400/75 
+
+There is no condition in a five card hand where you can win the pot based on your sixth or seventh card. There are no tie breakers unless your best five cards are better then your opponents best five cards.

@@ -1,0 +1,45 @@
+If these assumptions are not met, the image looks bad (especially in the case of monitors with blue-green-red subpixels). 
+
+As I see it, there are two options here: 
+
+I'd like the recent activity and responses pages to show new comments on questions/answers I have commented on (even if I don't own them). If I leave a comment somewhere, I am implicitly engaging in a conversation. Currently, I have to keep looking everywhere I recently left a comment to see if there are new comments. 
+
+Alternatively, clicking "edit" could load the edit form right there on the page. This would help in some cases where you want to copy/paste something from a comment or from another answer. 
+
+I think you should be able to add a syntax easily enough, but is Stack Exchange even at a point where anyone could answer this yet? 
+
+The first one was merged with the second one. When that one was completed, the "recent activity" page was introduced, but I think it is still a problem that it fails to inform me of comment conversations. 
+
+The mobile version of chat by default scrolls the page down to the last message every few seconds. There is an option to disable that behaviour, but that setting is reset every time you leave and reenter a room. 
+
+I think moving this ability would help to emphasize that closing is the job of the community, and not necessarily of the diamond moderators. It would also avoid filling the flag queue with stuff the community can handle itself, leaving the moderators to handle the more exceptional flags. 
+
+The traffic sources pie chart of the moderator analytics also shows the values as percentages. I find that number more useful than the absolute value, it is much easier to compare. 
+
+At the moment, if a user complains about unwarranted deletion of a comment, I can't really respond to it if I didn't delete it myself, as I then have no idea what happened. It doesn't help resolving such issues if both sides are arguing on the probably inaccurate memory of the comment, and there is no way to get the accurate text of the comment. 
+
+I'd like the recent activity and responses pages to show new comments on questions/answers I have commented on (even if I don't own them). If I leave a comment somewhere, I am implicitly engaging in a conversation. Currently, I have to keep looking everywhere I recently left a comment to see if there are new comments. 
+
+If these assumptions are not met, the image looks bad (especially in the case of monitors with blue-green-red subpixels). 
+
+The first one was merged with the second one. When that one was completed, the "recent activity" page was introduced, but I think it is still a problem that it fails to inform me of comment conversations. 
+
+I'm seeing suggested edits to tag wikis on Stack Overflow which I do not have the ability to approve. Could you just not show me those? 
+
+And because I know a screenshot with freehand circles will be requested... 
+
+Alternatively, clicking "edit" could load the edit form right there on the page. This would help in some cases where you want to copy/paste something from a comment or from another answer. 
+
+I checked out a few StackExchange sites this morning, and I noticed something about the StackOverflow UI. When the user goes to the homepage, there are a lot of numbers: three columns of large numbers to the left of the questions. It seems like a noisy and intimidating interface, especially on sites with a dark background (i.e. Epic Advice). It looks more like a spreadsheet than a website, basically. 
+
+So I propose that comments on deleted answers falling under the following rules also create notifications like it already happens for comments from diamond moderators: 
+
+This leads to the effect that users knowing about the decay of the commitment score can uncommit and recommit to increase their commitment score. I've seen a few users doing that, but the vast majority probably doesn't know about that. 
+
+The box explaining the commitment percentage on Area 51 states about the commitment score 
+
+This would make it easier to spot the problematic posts, as not everybody has to review every post. It would minimize the duplication of effort and make the whole process more efficient. 
+
+Moderators can migrate to every child meta. 
+
+As you don't see the edit link anywhere, I checked on another site myself and also don't see it. I expect that this is a bug, as I can't imagine they removed suggested edits for registered users.

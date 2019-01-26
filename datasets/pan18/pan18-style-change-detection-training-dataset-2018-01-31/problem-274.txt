@@ -1,0 +1,33 @@
+To test whether Stamina affects how long you can hold your breath, I started with a Level 81 Imperial who had a base Stamina of 350. I took her underwater, and timed the duration with a Stopwatch app on my phone. It took about 20 seconds for her to begin suffocating. 
+
+You still have one more chance to switch sides though, during The Jagged Crown. Simply deliver the crown to the opposition's leader, and you will join their cause instead. 
+
+Most of the details below are available on UESPWiki under the entry Skyrim:Factions or in pages linked therein. Repercussions of your actions are outlined below. I've made this as spoiler-free as I could, in regards to who is involved in this conflict, but you can probably deduce what isn't being said here. Otherwise, the list is pretty much cut-and-paste from UESP's article regarding this quest. 
+
+The Dark Brotherhood, west of Falkreath.* The Thieves' Guild, in Riften. The Blades, based out of Sky Haven Temple which is east of Markarth.** Near or at the end of the quest lines for most groups, you will generally end up becoming the group's leader. This also will not affect your ability to join or lead other factions. **There is (presuming you pursue the main story's questline to its end) an unavoidable quest which puts you in the middle of a conflict between the Blades and Greybeards. Your decision (or even a lack thereof) in this matter will restrict you from certain resources available via the faction you have chosen against. I do not list these as "mutually exclusive" factions though, since you never properly "join" the Greybeards. 
+
+The Dawnguard DLC adds in two new player-joinable factions, which are also mutually exclusive. 
+
+Is there any canonical explanation for this? 
+
+Non-Playable All other races in the game are classified separately as Creatures. 
+
+Without special equipment, all races except for Argonians will begin to suffocate if they stay underwater for too long. Suffocation leads to a gradual loss of Health, which can eventually lead to death. 
+
+The problem with the Oghma Infinium though, is that the quest to find it requires the character to be at least level 15. So, I still need a way to get those first levels knocked out of the way. 
+
+According to UESP, there are a total of sixteen races in Skyrim - ten playable, six non-playable: I had her put on the new gear, verified the effects were applied, and took another dunk. She still began suffocating at around 20 seconds. In your pursuit of Alduin's defeat you will eventually meat Paarthurnax, the leader of the Greybeards. It turns out Paarthurnax is a dragon however, and this puts you in the middle of a conflict between your allies: The Blades, who are dragon slayers, will want Paarthurnax dead. The Greybeards still trust and revere him, and would like to preserve his life. You cannot hide Paarthurnax's true nature from the Blades. At one point or another, they will discover this on their own. The longest you can hold out on this is until the peace treaty, and only by not talking to Esbern before then. If you wait until then, Esbern or Delphine will raise the issue with you immediately following the peace treaty meeting. A quest to join the opposing side can usually be picked up by simply encountering one of their soldiers in a city or camp that they control. The soldier will suggest that you join their cause, and this will populate that quest in your journal. Once you've expressly declared your allegiance though, you'll fail the quest for the side that you chose to oppose. 
+
+At this point, you'll receive the password to the Black Door. 
+
+You'll wake up in a strange shack where you're addressed by Astrid, the leader of the Dark Brotherhood and your captor for the moment. She wants you to kill one of the three other people she's captured there. Kill any or all of those three, and she'll invite you to join the Dark Brotherhood. 
+
+Once the Blades ask you to kill Paarthurnax, you will not be able to receive any benefits or do any side-quests for them until that task is complete. The Greybeards will still remain available to you unless and until you do kill Paarthurnax. If you kill Paarthurnax, the Blades will again be available to you but the Greybeards will no longer be so hospitable. 
+
+As of 2/28/2012, there is no in-game method provided by Bethesda (out-of-the-box, or via expansions/mods) to armor your horse. There may be console commands or other hacks that can do this, but I don't consider those "in-game". Some third-party mods may enable this functionality, but those would only currently be available for PC and are not "official". 
+
+Once you've received your message, go home and go to sleep. (You may be able to go straight home without receiving the message, but I'm guessing that is why some others are claiming that the quest won't start on your first sleep.) Even one hour of sleep should be enough. 
+
+---Note: Links may contain spoilers!--- 
+
+The only way to avoid this is to play as an Argonian, or wear equipment enchanted with Waterbreathing. Suffocation can be delayed by taking a Waterbreathing potion immediately prior to entering the water. I then created a full set of Fortify Stamina equipment - Armor, Boots, Ring, and Necklace, all with +62 to maximum Stamina. This gave her a new maximum of 598 Stamina - a difference of 248, or a little over 58.5%.

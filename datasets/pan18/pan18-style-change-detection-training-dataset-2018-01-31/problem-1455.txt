@@ -1,0 +1,25 @@
+To stop the timer you just call 
+
+Categories can't add new instance variables to the classes they extend. (There are ways to simulate this using a technique called associative storage, but that's beyond the scope of this post 
+
+It looks to me like I could delete the entry line in the objects dictionary and in the array of file IDs in the Resources section. 
+
+The project involves taking freehand drawing, which provides a series of points that are sometimes fairly far apart if the user drags their finger quickly, and using Catmull-Rom splines to add intermediate points to create a series of line segments small enough that they look like a smooth curve. 
+
+You want to switch to the other tab. Animation is a general term for making a view object change it's appearance smoothly from one state to another state over time. (From now on I'll refer to "curves", but what I really mean is polylines composed of line segments so short that they appear to be smooth curves) 
+
+(Catmull-Rom splines are a curve that is similar to the better-known Bezier curve, but all the control points for the curve lie on the curve, so it's straightforward to smooth a curve the user enters "freehand" using the input vertexes to do the smoothing.) If you trigger a segue through code in a view controller, you could pass the view controller (self), or you could pass nil. It's just a piece of information that is passed along to prepareForSegue (again as iOSDv82 says.) 
+
+Finally, you'd create a CABasicAnimation that animates the strokeEnd property of the shape layer from 0 to 1.0. This would cause the shape to start out empty (image fully masked) and animate the mask as a "pie slice" that got bigger and bigger, until it was the full size of the image. Is there a way to force Apple's APNs to change a device's token so I can test out my code (both client side and server side) for handling the case where the token changes? 
+
+I also have a mechanism that lets me name my test devices with human-readable names like "4s_1" "5s_1" "5s_2", etc. I have a server command line tool that takes the human-readable device name, looks up the device's 'identifierForVendor' from that, and then looks up the device token using the identifier. It then triggers a sandbox notification. 
+
+Apples docs are a bit vague on when a device's deviceToken can change. It pays to code defensively, and to test that code. 
+
+Update for Auto-Layout: Note that with AutoLayout you should really manage the position of the container view with constraints. You'd then add a constant offset to the constraint that was enough to push the container view off-screen (if the container view is flush with the right edge of the screen then you'd just add the width of the container view to the contstraint constant, shifting the view to the right by it's width, and just off-screen. 
+
+For now, it works, and the hideous use of globals doesn't affect the outcome, so I'm leaving it. 
+
+What I did was to lay out a rectangular grid of points in my OpenGL coordinates. (I used a 50x50 grid). I then define one or more control points in that same coordinate space. I have a general pinch-stretch algorithm that I wrote. It takes a control point, a radius, and a signed integer for the amount to attract/repel grid points, and applies it to the coordinates of my grid. For a pinch, it pulls the grid points closer to the control point, and for a stretch, it pushes the control points away. The change is greatest at the control point and goes down as the distance from the control point increases up to the radius value. 
+
+After a large number of repetitions, the values in the array take on the shape of a normal distribution bell curve. However, the high-quality random function arc4random_uniform() that I'm using is fairly slow, and it takes a LOT of iterations to generate a smooth curve.

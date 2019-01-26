@@ -1,0 +1,35 @@
+Best five cards Every hand is exactly five cards. Between your hole cards and board make your best hand. You may play the board (in holdem). 
+
+You must keep your cards in view of the dealer. 
+
+Range Add up all the cards your opponent could have based on action and your opponent. If you beat 2/3 of them then that is your odds. There are only 6 ways to make a pair. If you are worried about a set there are only 3 ways. Suited connector 1 way. Unsuited connector 16 ways. If there is a clock it is hard to get done. 
+
+River Villain could be bluffing with a missed straight draw like AJ or KJ. Could be on 2 pair thinking it is good but not many 2 pair get there and 2 pair should just call. You are getting 3:1. I would call but not liking it. 
+
+Player 1 is ahead with a pair of queens 
+
+The chance of not hitting is 2/3. 
+
+You just plain need to play more hands. Go with lower stakes games where you can afford some losses as you learn the game. 
+
+AA, KK and QQ are the most likely hands. A min raise would be 1/3 his stack so might as well go all in. I think this is a value bet. 
+
+If you hit the flush on the flop or turn you need to get aggressive and bet like the a full or 2/3 pot. You do not want a 4 flush on the board as then you are like 50 50. You need to bet some sets and 2 pair the same way. 
+
+By saying 1/3 indicates a hole in your game to me. You are only 1/3 if you are getting two more cards. You are only getting two more cards for that price if you are all in. I seriously doubt you had 10 all ins on the flop and 9 re-buys. If you are calling a flush draw on the flop because you are getting 2:1 then you will continue to lose money. You can lose to a higher flush, boat, and quads and unless it is an all in you will face another bet. 
+
+I agree it is directly telling you nothing. It changes nothing about the other card if they got to pick. Clearly they have one card that is not the ace of spades. 
+
+Even on line many sites restrict the levels of calculators. 
+
+Hand order 1 - Player1 Player2 tie 9933A 2 - Player3 Player4 tie 3322A 
+
+Turn Even if one made a flush I can see them checking to hopefully get it in on the river. If Bryn has an 8 seems like he would bet it. 
+
+Board Board is the common / shared cards. 
+
+Federal law is probably going to need to play out in courts. Again IANAL (I am not a lawyer). 
+
+That number seems high to me so I ran it. The chance of a straight flush is 72,192:1 and three pocket pairs seems harder to make than a straight flush. The chance of 4 of a kind is 4,164:1 and that seems way more remote than 4 of a kind. 
+
+Ironically a lot of guides will advise you to raise or fold at the low end of your range (and I agree). Fold equity has more relative value if your hand does not have as much show down value. It is also a very good way to mix up your game. If you show a raised marginal hand you are more likely to action when you raise a premium hand. You should definitely raise your low end more than you would just call a premium (AK+).

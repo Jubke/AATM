@@ -1,0 +1,25 @@
+Now, where do the empirical counts come from? Any representative text from the language will do. The University of Leipzig corpus consists of spidered web text for a large number of languages. 
+
+this, too, is well-studied and well-addressed by computationally efficient methods in the literature.) 
+
+However, I'm not even sure this is a valid generalisation — not all modifiers can occur on either side of the verb phrase (at least not without changing the denotation): Modern research into grammar formalisms have developed analyses for many of the constructions you deem to be impossible or difficult to account for. 
+
+can (I think) be expressed in a linear indexed grammar (LIG), so you're right that the generative power required is strictly greater than context-free. 
+
+This paper has a basic literature review and concentrates on the harder problem of language identification where the text is very short. For certain languages which have scripts that are not shared with other languages (e.g. Chinese, although some of its topolects have written forms too), simple heuristics should suffice. Japanese and Chinese can be distinguished by the presence or absence of kana. On the other hand, if the text is romanised, then the character-based method should work. ?I believe he is a crook honestly. 
+
+A popular approach for language identification is to look at character n-grams: consecutive sequences of n characters from the text, and compare the resulting distribution with frequencies drawn from larger corpora of text from each of the candidate languages. Out of your list, 'tense matching' and 'subject-verb matching', 'pronoun-reference' (usually called anaphora resolution), 'general "and" and "or"' (coordination) have definitely been addressed in many formalisms including generative grammar, Head-driven Phrase Structure Grammar (HPSG), Combinatory Categorial Grammar (CCG), and many others. (I am not sure what you mean by verb ellipsis, but if you mean: As for the extension to CFGs which you propose, 
+
+The specific examples you mentioned seem to contradict the general question you are asking. The sentence fragments, S1 and S2 has some surface-level similarity, but are very different semantically; the object that's beautiful is not the same. 
+
+Having said that, to answer your broader question, Semeval 2012 and 2013 focused on Semantic Textual Similarity. 
+
+STS is related to both Textual Entailment (TE) and Paraphrase, but differs in a number of ways and it is more directly applicable to a number of NLP tasks. STS is different from TE inasmuch as it assumes bidirectional graded equivalence between the pair of textual snippets. In the case of TE the equivalence is directional, e.g. a car is a vehicle, but a vehicle is not necessarily a car. STS also differs from both TE and Paraphrase in that, rather than being a binary yes/no decision (e.g. a vehicle is not a car), STS is a graded similarity notion (e.g. a vehicle and a car are more similar than a wave and a car). This graded bidirectional nature of STS is useful for NLP tasks such as MT evaluation, information extraction, question answering, and summarization. 
+
+As an aside, in all this, Finnish comes out an interesting language, with an entropy of 7.1 bits/word. 
+
+Models based on Frame semantics could use the context of the utterance "pass me the ______" to predict the missing word. In the context of a garage, it could be tools like hammers, screwdrivers, etc; in the context of a dining room, it could be salt, pepper, spoon, etc. 
+
+Now, I think if someone were to devise software that takes real grammar into account, including syntax, semantics, pragmatics, etc. we could conceivably achieve about 4 bits/word. 
+
+I agree (roughly) with the first part of the sentence; we are getting closer and closer to the upper bound of the expected per-word entropy. I disagree with the second part because there can't be an "exact way": entropy figures can be exact if were're dealing with a closed-world system, but when it comes to text, no matter how large the corpus, new text is usually bound to contain words never seen before. A sentence like "pass me the SATA cable" would never have been uttered a couple of decades ago, but are fairly common now. The model that Shannon used gave him a figure of 11 bits per word. Grignetti (1963) reported 9.83 bits per word. Some of the relatively modern techniques described in Chapter 6 of the classic Manning and Schütze textbook show entropy values of about 7.9 bits per word, when tested on Jane Austen's Persuasion. This example, being from a textbook that's over a decade old, is likely to have been superseded by better models. I don't think it's helpful to think of algorithms as being "correct" or "incorrect". Is the grammar model used in the Stanford Parser "correct" because it can parse many sentences perfectly, or "incorrect" because it parses many sentences incorrectly? I think it's more helpful to think in terms of degree of suitability of each algorithm for a particular task.

@@ -1,0 +1,23 @@
+NOTE: I have never been able to get the reputation graph to display data for anything less than a couple of days as nothing ever happens when I enter dates into the fields. I have to use the mouse to drag the selection and that's never accurate. 
+
+However, for migration there needs to be at least 4 votes to migrate the question and that at least one of the questions tags exists on the target site. This means that if there is a reasonable doubt over whether the migration is valid or not the question doesn't get migrated. There have been a spate of bad migrations that required this change. 
+
+I suspect in the cases you link to though are people coming from Google or setting up an account to ask a question, vote on the answers and then promptly forgetting that they've done this. 
+
+From other questions and @Grace's comment it's clear that other people can see their page OK. What would be interesting would be if I could check someone else's profile page. Can someone post a link. 
+
+There doesn't seem to be an indication of whether the flag was marked as valid or not. 
+
+The question would be closed with which ever out of "Not a Real Question" or "Not Constructive" was cast last. 
+
+What I've been able to work out: 
+
+All we could see was an indicator that the comment had been edited. 
+
+Those with diamonds after their names - site moderators or employees with moderator powers - can do this. You will get a message about the why the offending content was removed. It is usually simpler for the moderator to completely remove the content rather than try to edit it. 
+
+I can see that there is supposed to be some data there, but apart from today's date I get nothing. This is happening on all sites. Operating system is Windows XP SP3. Browser is Chrome v 10.0.648.127 
+
+Normally a simple majority 3:2 is required to determine the close reason (there is a special case of three reasons with 2:2:1 votes but that's not important here). 
+
+There are mechanisms in place to identify this sort of behaviour and steps taken - usually merging the accounts, but it can lead to suspensions.

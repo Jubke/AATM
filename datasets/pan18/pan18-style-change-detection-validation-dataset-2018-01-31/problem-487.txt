@@ -1,0 +1,19 @@
+I really like that last section. It drives home the ideas that these posts are reaching people outside the membership of this site. 
+
+I thought I was going to see a graph about how Stack Overflow was trouncing Experts-Exchange (EE) and grinding them into the ground. Well, they are but I also see something unexpected. 
+
+I happen to know this proposal is legit because I spoke with the author beforehand. An organization saw SE as useful tool for a new audience and reached out to their community to build it. I guess that can look "malicious" if you rarely, rarely see it. But we might have asked them how they got so many followers instead of calling out the villagers to shut them down. 
+
+Or something that works when viewed in the context of the screencap above: 
+
+There are a lot of activities that a programmer engages in that do not involve actual coding. Questions about software testing, best practices (design patterns), development methodologies; we generally refer to them as "whiteboard activities." For the most part, those questions have a home on Programmers SE. 
+
+The code golf site grew out of a class of questions that used to occur on Stack Overflow but never quite belonged on the site. The programmers on Stack Overflow enjoyed putting together and participating in various home-brewed programming contest and solving interesting programming puzzles. This one should be pretty obvious; if you are putting together a programming puzzle to challenge your fellow programmers, it belongs on Code Golf SE. 
+
+Would it be better to create a generic retag request "question" and add a new answer for each specific request? Answer voting can take care of opinions and comments can take care of what little meta discussion might be needed for each request. 
+
+Please comment below point where where you found this so I can see if an copy change is warranted. But oftentimes this is just something a community member might say, and this post can serve as a reminder that we can be a bit more clear about what would actually be helpful rather than asking users to simply pad their post with more words. 
+
+Every retag request (and re-request) takes another Q&A post which clutters up meta with a very short-lived and repetitive process. 
+
+We do throttle a lot of these repetitive activities through the core code, but it would be somewhat onerous to try and throttle them all. So when you get into that realm of we're not going to reprogram the system just for you, you may end up with a warning or perhaps a suspension. But if we end up having to spend our time chasing and fixing this kind of nonsense, that's when users are going to look at you and say, "that's why we can't have nice things."

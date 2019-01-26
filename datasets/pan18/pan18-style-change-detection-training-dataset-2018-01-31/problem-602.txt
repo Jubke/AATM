@@ -1,0 +1,25 @@
+Against a different player who had shown a propensity to make what he considered big laydowns against villain, and has also been seen bluffing late streets. Hero A♠J♠ in HJ raises to 18 behind a couple of limpers, button hems, haws, and calls (he had been doing this often). 2 players in EP call. Flop comes J23 rainbow, one ♠. Hero bets 65 (misclick, meant 60), button hems, haws, and calls again, EP folds. Turn 6♠, Hero bets 100, button shoves for his remaining 70, hero calls and spikes a J against KK. 
+
+Table Stacks: Hero (BB) 600 Villain (CO) ~650 Limpers have 200-300 
+
+Effective stacks remaining are around $420. Hero checks. Villain instantly shoves all in. 
+
+Hero bets $50, villain calls without much hesitation. 
+
+The linear method is terrible - starting around 5/10 blinds, the structure would end up looking something like: 
+
+Medium Moving into a more mid-stacked range, "traditional" poker ranges and thoughts apply - you will tend to get implied odds to set-mine and play speculative hands like suited connectors. You will be able to get paid by weaker hands when you hit the bottom end of a straight or a low flush, two pair can pay off your set, and a flush might call the occasional paired board. 
+
+Hero bets $100, villain calls fairly quickly. 
+
+I think the only way you're beat here is if villain turned a flush. With such a wet board, I think villain would have pushed QQ+, sets, 2 pair, or a straight earlier in the hand. Since our line doesn't look too strong, when he calls the turn bet, he could be calling with any pair (even a lower pocket pair), and even overs with a gutshot, planning to re-evaluate the turn. 
+
+You are behind AA, possibly with a redraw to a flush if he doesn't have the A♠, behind QQ with a redraw, and you have the rest crushed. His AK and AQ hands can't be flushes yet. Adding AsJs strengthens his range, but as long as his JJ and AK/AQ hands bluff the flush card, 
+
+A set/straight that missed a c/r on the flop A flush The hand we have, possibly down to a medium 8 or 9. A trash hand that is bluffing the flush. Given that range for us, it will probably be tough for him to call with a hand that we beat. Also, given our fairly wide range, I think it would be pretty bad for villain to bluff raise here - I think that we would have to fold to a raise. 
+
+This dynamic also allows tremendous opportunities for varied play when deep. There is a lot more room to create fold equity when deeper, and there is also a lot more room to bet/fold when deep. When 2 players with 100bb stacks each get 100bb in by the flop, everyone is all-in, and no more mistakes can be made. When each player is 300bb deep, and they each get 100bb in by the flop, there are still 2 streets of big decisions left. The dynamics of a match, and quick adjustment, become much more important with deeper stacks. 
+
+Hero's recent hands: Hero has ~180. Villain is BB, UTG stradles to 6. Hero sees black TT in UTG+2, limps planning to limp/rr, villain makes it 43, UTG calls, hero shoves. Villain calls, UTG folds. Villain says "You're ahead". Board runs out K95A9, hero shows 2 pair, villain mucks. 
+
+You will need to know the number of players you will have, your starting blind level and stack size, and your desired tournament length. Generally, you will not want to start with deep stacks for a short tournament. The final blind level can be calculated by dividing the total chips in play by 10. Finally, you will need to determine how long you want levels to last - longer levels will require bigger increases in blinds at each level.

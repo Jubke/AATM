@@ -1,0 +1,31 @@
+Update: I wanted to add to my answer to also provide another refutation to the main concern that you seem to be having regarding existence as a predicate. You write: 
+
+Now, consider the classic formulation of the ontological argument... 
+
+This is not actually true. The way you word it in this particular passage it's not entirely clear, but based on your other responses to me in more than one question on this site, it seems that you are insisting that existence is an attribute or characteristic, when in fact is it not. If I am to say that ice cream exists, I am not adding anything more to the concept of ice cream; it is not a "characteristic" of the ice cream. It is only a relation of the object (ice cream) to the subject (me). 
+
+If you agree that space is infinite (that it is unbounded), then the universe by definition cannot be in anything. 
+
+Actually I avoided that question because you asked for what the experience would be like. So the person on Mars, whether or not you decide he's a new person or the same person as the one who's body was just destroyed, he would feel as if he was in one moment on Earth and the next on Mars. That's what his experience would be like. The debate about whether this person is in fact the same person or someone new is a separate issue from the phenomenological experience this man has, and it will depend on your particular views on what makes a person a person. For example, some people say that your body must be in tact, but what if you lose your arms and legs in a war, are you now 50% less the person you were before? What if I told you that your cells are constantly dying and new cells are replacing the old ones, meaning your body is made up almost entirely new physical matter every time a full cycle of new cells replaces the old ones. So most people recognize it's not just a body that makes us us, but also perhaps our personality and memories. But the problem is that our personalities do change over time, sometimes very rapidly due to trauma or mental illness, and our memories are often fragmented or forgotten entirely. Does that mean we are a different person? Some people want to think that we are the same person; others think that we are for all intents and purposes a new person if our entire personality were to change and memories lost. But again, all this is irrelevant to how the person would experience such a teletransportation device. 
+
+But we do not observe one particle as it bounces off one other, we see objects with significant mass collide. 
+
+You need a system with a notion of division for infinitesimals to mean something, and generally, also a notion of continuity. If you are not focussed on continuity, the idea that division just blows up at zero does not faze you: you just consider it a function with a hole in its domain of definition. The Differential Calculus is the first place where we worry about smoothly handling functions viewed infinitely closely. 
+
+There seem to be a series of very serious non-sequiturs here. 
+
+In that case, what is the difference? Whatever transcends those forms is lost to us, and we will not be able to understand, much less prove, anything about it. Either side of a proposition independent of your system is open for adoption into truth with no loss. 
+
+The notion of the field particles arising out of the Higgs boson early in the history of the universe "when the rules were different" is the same sort of thing, it puts the irregularities away from us, so we feel like that place is special, not ours. Why assume the rules got decided at a given energy level and then stuck there forever? Why should they not slowly adapt across time? (And if we don't get to be special, why does anyone else? Harumph, <pout/>.) 
+
+Can one be a reductionist, in the sense of believing that everything can ultimately be explained by a basic set of fundamental laws, while also being a dualist or an idealist? 
+
+Would a reductionist idealist claim that everything reduces to psychology? 
+
+One example is a video recording device, where the camera lens can be extended using some sort of fiber optic tube and turned back to look at itself. Another one is a computer program which takes other computer programs as input (for parsing or consistency checking purposes). There is nothing paradoxical about this program taking itself as input, thus "observing" itself. 
+
+But what about relations of ideas? Is it possible to have a causal relationship between two ideas? 
+
+You touch upon the fact that there is a hierarchical relationship between observer and observed, with observer being at a higher level since she/he does the observing, while the observed is the object of the observation, and is thus at a lower level in the hierarchy. 
+
+You might say "well fine, locality is not essential". But the consequences of non locality for causality are seen by some as even more disturbing than quantum randomness. Keep in mind that what is meant by non-local here is fully instantaneous interaction, not just faster than the speed of light. This means that it would be possible in theory for you to push a button on earth and cause a cat to die on the other side of the galaxy without any signal having to travel from here to there. The implications of this spooky action at a distance for causality are significant, especially given the results of relativity (which are much more intuitive than people think they are).

@@ -1,0 +1,27 @@
+Ask team-members to take another day off. (Asking the developers to re-arange their free day is no short-term option, mainly because of complex planning of child-care.) Start Monday with sprint reviews and retrospective meetings. Afterwards (after lunch) start the Sprint planning session and hope to finish on Monday. This leads to a very long "Talking" day and this might bore some and will feel ineffective. Start the sprint on Wednesday and end on Tuesday. As we are evaluating option 3, my question is: Are there teams who have experience with mid-week start and end of sprints? 
+
+There are always some tasks developers could do during any downtime: 
+
+Update Found a blog post which supports that this might be a good idea, should have googled first before asking this question maybe. Still interested in your experience though. 
+
+My experience is that the ideas of process improvements that I think are good for the team. And those that I was implementing for them. These were the improvements with the least effect. Anything they choose themselves and implemented themselves had the best effects. 
+
+Agile teams do not have a team lead, maybe a servant leader. Agile promotes self organizing teams. This means the team is leading, not a person. Sending updates by e-mail sounds very command-and-control like, try to break this habbit as soon as possible if you are dreaming of becoming truely Agile. The Coaching Agile Teams book has some great chapters about tradidional command-and-control PMs becoming Agile leaders. 
+
+This comes from the Agile XP practice YAGNI (You aren't gonna need it). Work on things you need now and not what you think you might need. This increases learning you get from earlier finished parts. Also you should work on implementing complete features that give user value. Users might start using the product already when just 10% of the features are implemented (for example), because it already leads to actual usage value. 
+
+I would give the testers in your teams the following book to read: http://agiletester.ca/ 
+
+Creating user stories is to get the conversation going and to give the team context to understand the problem at hand to create the correct solution. Also it forces the writer to think about the value it adds. Using something like INVEST makes sense here. 
+
+Discussing lots of defects during a retrospective could lead to an extension of the definition of done including code-reviews. 
+
+This makes sure that the release/sprint branch is always in a releasable state, and that it does not contain any unfinished work. At the end of sprint you release all finished work and you can continue with any unfinished work in a new sprint. 
+
+More details during the Sprint: 
+
+Teach them how to improve their process. Just grabbing practises that worked for others is not how you solve complex processes, it leads to cargo-cult agile. 
+
+Also your automation testers will not have the domain knowledge to write good tests, because they will join the project later and did not grow with the product. 
+
+Your example user story does not explain why the administrator wants this, but it focuses on the how. User stories should try focus on the why instead of the what and how. This so that the team can solve the problem in anyway they see fit. Maybe setting the flag is not the simplest way to solve this request. I have heard about a team that resolved 50% of all their request by not implementing any code at all. Most of the time they just sit with the users to teach them how to use their existing tools to resolve the stories why question for them. Leading to better focus, faster value and less (code) maintenance.

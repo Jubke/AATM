@@ -1,0 +1,53 @@
+"Taken as a grammatical category, comparison (German Steigerung) is the formal modification of some predicative word – most often an adjective – representing a parameter of gradation or comparison, according to the extent to which it applies to its argument, relative to some standard" (p. 1212). 
+
+Gender assignment in given names is usually lexical, i.e. the Russian boy's name Petja is M and not F - although nouns ending in -a are usually F in IE languages - precisely because that particular name is given to boys, and not girls. 
+
+Thus, comparison as a grammatical category includes "semantic" comparison (relative) and gradation (absolute). 
+
+This is unusual but possible. For example, Christa König argues that in Ik, a Kouliak language spoken in Uganda, nearly all lexical items can be case-inflected. 
+
+pokojnik or mertvets 'a dead person' [animate] (from Plungian) 
+
+And the original stem is usually more frequently used than the transposed one: 
+
+Cuzzolin and Lehmann 2004 argue that traditionally three degrees of comparison are recognized: 
+
+Animacy is more like a continuum, meaning that it doesn't behave like a dichotomy (animate or inanimate) but rather "a more or less continuous category ranging from most animate to least animate" (Croft 2003: 130), cf. Dixon's animacy hierarchy, human < animate < inanimate. This is semantic animacy or what Croft calls "animacy proper." Obviously, it is language-specific. For example, trees are inanimate in Slavic languages whereas they are animate in Algonquian languages (Plungian 2011: 142, n.47). 
+
+It recognizes one typological parameter, the morphological structure of words. 
+
+For inanimate nouns, gender assignment is based on their morphosyntactic properties, e.g. all nouns taking a particular set of endings belong to gender X. That is why the first declension in Latin includes feminine (mostly) and masculine nouns, both common and proper (for a list of some masculine nouns belonging to the first declension see http://en.wikipedia.org/wiki/List_of_masculine_Latin_nouns_of_the_1st_declension). 
+
+Italian canzonissima 'the best song' 
+
+Although comparison usually occurs on adjectives and adverbs, it can occur on other parts of speech, too: 
+
+Phonetically different bases (historically these forms belonged to different lexemes) 
+
+It is based on an assumption that a language as a whole has a unique character (Croft 2003, p. 46), also see part 13.1 "Morphological typology" in Laurie Bauer's 2003 textbook. 
+
+yaδhabu l-ʼawlādu ʼilā l-madīnati 
+
+“The boys are going to the town”. 
+
+In Latin, and similarly in other languages, the apposite is in the same case as its antecedent, for example "Ego, Claudius" (I, Claudius, both nominative), "Me, Claudium, vidit" (he saw me, Claudius, both accusative.) 
+
+Literally: “he goes (3rd singular masc.) the boys to the town”. 
+
+“Aorist presents” is a term used by many (but not all) Indo-Europeanists to describe verb forms for the present tense with zero-grade ablaut (like the strong aorist). A classic example is Sanskrit tudati “he bumps into”, which forms its present tense from the zero-grade root *tud-, not the full grade *taud-. In this sense it resembles the aorist. 
+
+If there is an explicit agent the verb will agree with the agent in person and gender only; that is: it can only be in the 3rd person singular masculine or feminine. Thus: 
+
+The Wikipedia “formula” is indeed highly problematic in so far as it assumes that derivation and inflection are effected solely by suffixation, which is manifestly not true in many languages. For example, in Arabic yatakātabūna “they write to each other” the root is k-t-b, the first /ta/ is a derivational morpheme, the prefixed /ya/ and the suffixed /ūna/ are inflectional elements. So what comes before what? 
+
+At a more general level, linguists have a tendency to classify this sort of situation as agglutination rather than inflection. By this analysis, the “s” in this example can be analysed as a postposition affecting the whole article+adjective+noun phrase “the old dog”. You will find this in all so-called agglutinative languages (Turkish, Tamil etc. etc.) 
+
+In classical Arabic in a verbal sentence (a sentence beginning with a verb) with implicit agent the verb will agree with this implicit agent in person, number and gender. For example: 
+
+What you say about Arabic is a bit confused. ghurfa / ghuraf is a simple singular / plural situation, the plural being formed by restructuring the consonants of the singular (which is not at all "sporadic"). There are, however, words with a three-fold distinction between collective / singularative / plural, where the collective is the primary form, for example: 
+
+“they go (3rd plural masc.) to the town”. 
+
+However, both thamar and thamara are grammatically singular (masculine and feminine respectively). 
+
+Well, first of all there is English, which has three cases for pronouns (he, his, him) and two for nouns (dog, dog’s), and where articles and adjectives are invariable for case (the old dog’s house).

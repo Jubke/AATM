@@ -1,0 +1,59 @@
+We send people notifications when there's something actionable for them, or when an event occurs that would reinforce their motivation to participate. Telling people that something they wrote that is by nature not designed to be permanent was removed isn't .. either of those things. 
+
+You can quickly unlock other privileges, like commenting anywhere - which is very handy if you stumble across something that almost works for you and you'd like to ask the author of an answer why they did something a certain way. 
+
+You can try giving your best guess a go as an answer and wait for the OP. Something like this: 
+
+This may help prevent someone from asking a very basic or nonsensical question while being over tired, frustrated, intoxicated or a plethora of other mind numbing conditions. The other benefits are similar and obvious. 
+
+I typically do not short circuit site restrictions unless there is a compelling reason for me to do so. Otherwise, why even have restrictions if it is known that a moderator will eventually convert your post into the form that was desired? 
+
+Thanks for the constructive criticism. This is not a bad idea, but it would be much better implemented as some kind of a browser plug-in, not as a feature of SO. 
+
+Boilerplate well worded comments can be used, but it's generally good to tailor them a little so they engage specific parts of the question. Otherwise, it looks like someone, well, left a boilerplate comment. While somewhat helpful, that's not very engaging. The more specific you are when you point out issues, the more likely the user is going to be to understand and fix them. If you want to help the user, you need to engage them, not just type at them. 
+
+Another option would be using something like pastebin / jsfiddle and posting a link as a comment if you aren't sure enough to try your guess as a proper answer. 
+
+Once discussions look like they've served their purpose, and anything that is going to be changed in the parent post has been, they're subject to removal. That's what happened in this case, the conversation was clearly over - and there was little use in keeping it around. 
+
+People have the option of simply not answering if they feel that the OP did not put in enough effort. Sometimes, especially for beginners, just figuring out what to search for can be difficult. For instance, how do you search for how to use the modulus or ternary operators if you don't know what they're called? SO is the ultimate tool for people studying programming independently. 
+
+I stand by my answer, though - anything that is important needs to be put in an answer, whether it's the one that you feel needs correcting or one that you write yourself. 
+
+However, if you really aren't sure - as in you don't have that gut 'I think I got this!' instinct, it's better to ask a more targeted question in comments. 
+
+What we should be looking at is why we can't take any of the rather good suggestions here and go with them, which comes back to the fact that we don't deal with comments as well as we should. 
+
+How would the notification have changed anything, though? What would you have done differently? 
+
+I believe the current expiration settings for post notices would be fine for this as well. Additionally, the formality of a notice might be more effective. 
+
+Then revise your answer based on feedback that you receive from the OP if needed. 
+
+Per this specific conversation 
+
+Watch out for quicksand - don't let the user make it your responsibility to improve the question. You're there to coach and help, not do their work. If you must exit - do so, but do so politely. 
+
+Do I want to help this person write better questions, and learn how to help themselves? 
+
+You have some options here, but the first thing you have to make is a decision: 
+
+In this case, the author of the post specifically said that he wasn't interested in incorporating your suggestions into his answer. At that point, your comments no longer served their designed purpose - the thing to have done is answer the question yourself where you could provide more clarity and explanation. 
+
+I agree 100% that we need something. 
+
+Sure it does :) You might want to: 
+
+G-Mail has this ability from Google Labs. It would be great if SO provided the same (optional) functionality. 
+
+I agree that we're only partially solving the problem that comments were designed to solve by locking them up at 50 rep, or any level, because those who can't use them will continue to exhibit the behavior that they're designed to stop. 
+
+Comments are copied to chat for reference and context, so those visiting the chat conversation have them available in one place. However, remember - comments are the most ephemeral things in the system - they're designed to facilitate short discussions where any useful results should be moved into the question or answer. 
+
+I don't want to put additional needless asks on people that spend a lot of time in review; indicating if a string that is often too short to be an answer is good or not good is just a waste of people's time. That would be turning /review into more of an unpaid Mechanical Turk than anything, I know this because I've spent years looking at comments left by new users that managed to earn 50 rep. 
+
+Of course, most of us could solve the given problems easily no matter our state of mind .. it serves as a reminder as well as a challenge. The title of the pop up could be "Should you sleep on this?" 
+
+I have mixed feelings about the current comment restrictions, but I work under the rules that we have. 
+
+Having an account means having an easier time using the site as a whole, so we do recommend it even if you don't intend to ask or answer anything. You can use our OpenID service, which you can also use to sign into any other OpenID enabled site.

@@ -1,0 +1,19 @@
+For a good read on model architecture, read this post. It doesn't specifically talk about the view, but it's definitely worth reading. 
+
+I'm ultimately trying to install PEAR so I can easily install PHPUnit. I want to set up a Mac, Apache, MySQL, PHP, PHPUnit development environment so I can test locally. I already have Apach, MySQL and PHP working. Now all I need is PHPUnit, which means I need PEAR to install it. 
+
+Following this tutorial I do the following: Update: I guess I didn't have an SMTP server installed/setup. This tutorial made it really easy for me to get an SMTP server up an running. Now both of the code samples above work. 
+
+Behat Behat is a port of Cucumber written in PHP 5.3. Unfortunately, it requires PHP 5.3, so if your environment is not set up for PHP 5.3, you won't be able to use this. I have searched all over, and there are a few variations of "the tutorial" on how to install PEAR on Mac OS X 10.5. However, I can't seem to get any of them to work! Has anyone had success with this? I'm not totally confident that I have everything set up as it should be, so if you could include the "default" Mac OS X 10.5 include paths, or a simple explanation of where everything should go, I would appreciate it. I host my application through a third party, so I don't know much other than FTP. If any of this involves logging into my server, please explain the process. Update: This worked for me, thanks! I have a Zend Framework application that is under version control (in a Subversion repository). How do I go about "deploying" my application? What should I do if I have an "uploads" directory that I don't want to overwrite? 
+
+From what I can tell, it sounds more like you're trying to do something more like this: 
+
+How do you deal with using long multiline strings in your objects? Update: Found out it's using the right php.ini file...but I still don't know what to do! 
+
+Yes, it can be done. Using the router: I have a class that has a function that returns a string that will make up the body text of an email. I want this text formatted so it looks right in the email, but also so it doesn't make my code look funky. Here's what I mean: 
+
+I've heard the phrase "deploying applications" which sounds much better/easier/more reliable than uploading individual changed files to a server, but I don't know where to begin. 
+
+I'm sure it's a simple one-liner, but I can't seem to find it. Cuke4PHP Cuke4PHP implements the Cucumber wire protocol, making it possible to write step definitions in PHP. This means you can write some (or most) of your step definitions in Ruby and write the other step definitions in PHP (the ones that have to do with modifying the database). Have you worked with uploaded files before? What is the next step I should take? I am using Zend Framework 1.9.6. I think I've got it pretty much figured out except for the end. This is what I have so far: 
+
+Or set this as the upload directory in the first place (though I was running into errors while trying to do that earlier). I'm developing a zend framework application that includes a simple email function. The development version is running on my computer, which is running Ubuntu. The production version is going to run on a production server. I have a feeling that Apache is using a different php.ini file that the one I am editing. I make a change in my php.ini file, restart Apache, and the change doesn't take affect. So I don't know what to do anymore.

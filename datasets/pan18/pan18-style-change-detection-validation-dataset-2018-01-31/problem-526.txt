@@ -1,0 +1,53 @@
+In the migration window, a link to a target site's FAQ page would be more useful than a link to the site itself. This would give closers a better idea of whether the question would be acceptable on the target site. 
+
+20K users should have enough about them to know when a question should be deleted rather than leaving it closed. 
+
+You can already create a second account - using a different OpenID - but that does require that you either use different browsers or continually log in and log out to post on the relevant sites. Not ideal and prone to error. 
+
+Leave a comment pointing to the other question as your "answer" does not answer the current question. 
+
+The first requires each site's moderators to be contacted in turn and to be around, the second relies on there being a community team member around to act, or for the moderator to remember to suspend the account for 30 or 365 days and use the "contact cm" option on the account. 
+
+Rather than 1 point for a single up-vote on a comment perhaps if it was 1 point (or 5 points) for 10 or more up-votes that might work. 
+
+Of course, it may be that deletion is the best solution all round. 
+
+Obviously Jeff and Joel think they've got a fairly lucrative audience (for employers) with tie-ins to the already successful Joel job boards. I think they may be overvaluing the association with SO because ultimately that association is simply a URL to your profile. I haven't seen the employer's search but if it also includes searches that use your contributions against different tags as some kind of criteria then obviously that isn't something easily reproducible elsewhere. 
+
+Now as much as I hate recruitment agents (95% of them are utterly useless and actually impede getting the right person) they do do something: they filter candidates (often badly but still...), act as an umbrella (for insurance purposes and payroll) for contractors and the like. 
+
+I commented on this also, although not from the point of view of startups. 
+
+Location seems like something worth adding here. 
+
+Something like this lives or dies by reaching critical mass of job seekers using and employers use it. With SO Careers making money on both ends, one wonder if it will reach this. 
+
+I know little about the US recruitment market but in Europe and Australia, traditional recruitment agencies work like this: 
+
+Lastly: startups. Not an area I'm particularly familiar with but if HN is to be believed, it works to a much greater degree on word-of-mouth than traditional recruitment. That being said, I kind of agree that if you're going to spend $100k+ (including on-costs) on employing someone for a year, spending even $5k to find the right person is cheap. But I guess cash flow can be an issue too. 
+
+Consider the Joel on Software job board, where you pay ~$350 for an ad and nothing as a candidate. Will the market on SO Careers be sufficiently bigger or better? I have my doubts. After all, what does SO Careers offer really? A link to your profile? I can put that on my CV in any case. 
+
+If we limit it to the occasions when an post is deleted or undeleted or a question is migrated (which deletes the answers) then it shouldn't be too much of a hit on the database. 
+
+Having said this, in the forums where I've seen this used, it's usually those whose command of English is better than that of native speakers who say this. 
+
+system administrators whose entire network has gone down and need to ask the collective wisdom that is Server Fault. 
+
+The first requires each site's moderators to be contacted in turn and to be around, the second relies on there being a community team member around to act, or for the moderator to remember to suspend the account for 30 or 365 days and use the "contact cm" option on the account. 
+
+So can the tag wiki's for these be propagated out to all the site specific metas? It would save a lot of duplicated effort and also possible misinformation if the person creating the local copy got something wrong. 
+
+You have the right to have the content disassociated from your account (use the contact us to request this) if you no longer wish to have the content associated with your name. 
+
+Rather than 1 point for a single up-vote on a comment perhaps if it was 1 point (or 5 points) for 10 or more up-votes that might work. 
+
+If the other question is just related: 
+
+I'd only go for it if there were a really convincing argument that it would work. 
+
+commuters who need to have a bright idea on the way home from work. 
+
+People answer questions on Stack Exchange because they want to, not because they have to. 
+
+Why not make it official and close as a duplicate?

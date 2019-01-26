@@ -1,0 +1,21 @@
+That is the structural approach includes the analytic, and the analytic includes the structural. A little reflection shows that each theory includes images of itself and the other infinitely - somewhat like the mandelbrot set reproduces itself internally. 
+
+After Cantor, mathematicians realised that infinities can be graded by size (cardinalities). But just as we view the naive infinite as bigger than any finite number, is there an 'infinite' greater than any infinite? 
+
+This is mainly a historical question. In Gary Hatfields introduction to Kants Prologomena, he says: 
+
+Can arithmatic when codified by the first-order Peano Axioms recreate the transfinite (cardinal) hierarchy of Set Theory (ZFC)? 
+
+To give some context to the proof, if I've followed it correctly: 
+
+Quantum Mechanics rather famously has problems in interpretation - straightforward realism doesn't appear to work. Is there any work with modal logic that throws light on this question? 
+
+and the definition of a category can be further elaborated as: 
+
+But then the same pattern can carry on, in which case we are actually no nearer the absolute infinite than we were to begin with, that is Cantors mathematics of the infinite cannot do real justice to the idea of the Infinite. 
+
+With the birth of modern algebra, and the invention of new mathematical structures, say for simplicity - groups, each of which internally had a notion of addition (you could add two elements of a group to get a third, and in fact this characterises that group), and an external notion of addition (you could add two different groups together to get a third, you also had the existance of an identity & an associative rule, which is why its called addition). 
+
+These are substantial drawbacks despite the attractiveness of the idea. Its also been argued that pure states do not assign truth in the usual binary mode (true, false); so truth itself becomes obscure and has to be rethought. Recently there has been a couple of attempts to ground the theory in intuitionistic logic for which the law of the excluded middle and choice doesn't hold. 
+
+The SEP has an entry on modal interpretations of QM. But a quick scan through doesn't show any immediate work with modal logic.

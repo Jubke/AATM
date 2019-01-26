@@ -1,0 +1,23 @@
+Out of mere idle curiosity, what is the state of internationalizing the Stack Exchange engine and community creation process? Telling people to fetch and host the content privately and individually is a half-baked approach to the issue: for example, that was how it was done for the famous boat programming question, with the result that there seems to be no copy of it out there any more, because the privately hosted copies have gone down. That sucks. How would a renaming be agreed on? Will there be a vote? Where would a renaming discussion have to take place, on Area 51 or on the site's Meta? Suppose the discussion on Area 51 identifies I'm entirely happy with the way rudeness is moderated on the SE network, and wouldn't want to see it change. I can not remember an instance where I felt a serious, important viewpoint was suppressed during the enforcing of politeness. 
+
+We're proud to be a large, user-driven space on the internet where name-calling, harassment, and other online nastiness are almost non-existent. It's up to all of us to keep it that way. See also: 26,000 questions have close votes, now what? The last one - 54 nominations - is the number that would've been blocked if we were doing this all along. Except... It shouldn't really be 54, since at least two of them were posted after a candidate (already a moderator) got another moderator to suspend him "For Science". This same candidate went on to run in two elections and win one, making him one of only 3 candidates with recent suspensions to ever win a moderator election. Until then, stop whining - you're annoying the folks who are actually trying to get stuff done. If the author clicks the first button, they're shown a confirmation that clarifies the results of this action somewhat: 
+
+The above are all of the primary reasons, but it all may make a smidge more sense (well, not really) to those familiar with the "Lucas uses Venmo" campaign that no one understands which is all over the NYC Subway system: 
+
+In summary, have fun, and be good to each other. 
+
+TL;DR: The Problem This keeps happening in chat: 
+
+Let's read that "be nice" policy: 
+
+If we did have to restrict deletion, it helps that there are already flags that cover most of the really bad stuff... Flags that automatically delete once a sufficient number accumulate on a post. But that still leaves a lot of rubbish laying around, so we'd also want to... 1 By which I mean to say, "criminally lazy" 
+
+Normally, a question must hit 100 views before close votes age away, so as to give enough folks time to see and review it. Questions with close votes stay in the review queue until they are closed or the votes expire. 
+
+We'll be keeping an eye on this and adjusting these thresholds as-needed. Please report any problems you encounter here on meta, using the tag declined-flags. But about that messiness... For as long as we've been doing this, we've faced the question of whether or not to allow candidates who are currently or recently suspended. In the past, we've taken a hard stance on preventing or removing nominations from folks who are currently suspended on the site running the election. But the more elections I see, the more I've come to believe that allowing nominations from candidates who are currently or recently suspended anywhere on the network is a bad idea: There would have to be the possibility to withdraw "trusted user" status. Most likely if you gain a lot of negative trust votes. This would have to be dealt with carefully. I realize this is mainly due to the entire field shifting upwards: The top user has a reputation of almost 250,000 now. It is a perfectly natural development for the average reputation count to grow, the longer users are active on the site. 
+
+regarding showing careers ads in general. Isn't this sending the message that my career isn't going exactly as it should? How dare you suggest such a thing? 
+
+I've thought about the same thing often. Answering lazy questions enables help vampire behaviour and is usually counter-productive. If their lazy request finds a good answer, they will come back with the next lazy request because they learned they can get away with it. 
+
+Now, machines and algorithms can always be gamed. The best detectors of dedicated users who are "for real" would arguably be - you and me! The dedicated, veteran users. In our everyday interactions on SO and maybe Meta, we come across fellow users and, over time, reach some judgement of them and their actions on the site. I could probably name fifty users right away who I would absolutely trust using the review queue. I could also find fifty users who I would absolutely not trust using the review queue.

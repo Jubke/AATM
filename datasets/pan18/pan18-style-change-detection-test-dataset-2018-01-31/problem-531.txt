@@ -1,0 +1,23 @@
+Just to take one more example, if the federal government itself has been funding some scientist's research for the past few years, it can suddenly decide to place a new requirement that he has to comply with new guidelines if he wants to continue receiving funding. 
+
+As part of Obamacare's efforts to expand access to healthcare, it included an expansion of Medicaid. Medicaid is a program that receives some federal funding, but it's administered by the individual states. The law said that if a state decided not to participate in the Medicaid expansion, then they would lose their existing Medicaid funding. The Supreme Court, when it ruled on the constitutionality of Obamacare, said that the individual mandate was constitutional, but they said that the provision that would have removed existing Medicaid funding from states that didn't participate in the expansion was unconstitutional, because it was the federal government engaging in coercion against the states. 
+
+(2) that he is likely to suffer irreparable harm in the absence of preliminary relief 
+
+Note that TRO's are generally issued very early in the litigation process, before a full hearing is conducted. Judges therefore usually do not go into detail discussing the merits of each party's legal arguments, as they are pressed for time. The state of Washington argued that the President exceeded his statutory authority under the Immigration and Nationality Act, and violated the First and Fifth Amendments of the Constitution when issuing his order. Though Judge Robart found that Washington was likely to suceed on the merits of these arguments, he did not offer a detailed explanation as to why. For that, you are probably going to have to wait until either a preliminary injunction or the final judgment on the merits is issued. 
+
+All of this seems to suggest an absolute inability of the Supreme Court to make any changes to legislation in order to ensure its Constitutionality. It can only rule on laws or portions of laws as Constitutional or not, and only then when an actual case or controversy exists. 
+
+I don't understand the reasoning here. Suppose I. as a private citizen, been voluntarily donating money to the state government of New Jersey every year for the past few years, and then I tell the state government that I'll stop donating money unless they enact some policy that I want. Would that constitute illegal coercion? I don't think so. 
+
+As part of Obamacare's efforts to expand access to healthcare, it included an expansion of Medicaid. Medicaid is a program that receives some federal funding, but it's administered by the individual states. The law said that if a state decided not to participate in the Medicaid expansion, then they would lose their existing Medicaid funding. The Supreme Court, when it ruled on the constitutionality of Obamacare, said that the individual mandate was constitutional, but they said that the provision that would have removed existing Medicaid funding from states that didn't participate in the expansion was unconstitutional, because it was the federal government engaging in coercion against the states. 
+
+(3) that the balance of equities tips in his favor 
+
+However, the courts have a small amount of leeway. If an otherwise Unconstitutional statute can be fairly construed as meaning something that is Constitutional, then the court can interpret it in that way. This technique was famously used by Chief Justice Roberts in National Federation of Independent Business v. Sebelius, in order to find the individual mandate portion of the Affordable Care Act Constitutional. After finding that the individual mandate could not be justified by the Commerce Clause, he decided that it could be construed as a tax, and would thus be Constitutional: 
+
+The bill granted the Supreme Court substantially more discretion over which cases it needed to hear, allowing the Supreme Court discretion over hearing a number of categories of cases that they previously were required to hear. Cases that may have previously been automatically placed on the Supreme Court's docket by appeals or writs of error could now be reviewed on a writ of certoriari, which could be granted or denied at the court's discretion. The bill was submitted to Congress, and Taft lobbied heavily for it before it was eventually passed. 
+
+(2) that he is likely to suffer irreparable harm in the absence of preliminary relief 
+
+Another case, A.L.A. Schechter Poultry Corp. v. United States (often known as the "Sick Chickens Case"), was decided that same year, and reached a similar conclusion. These cases have never been overruled, and as such, Congress remains prohibited from delegating its lawmaking abilities to other branches of the government.

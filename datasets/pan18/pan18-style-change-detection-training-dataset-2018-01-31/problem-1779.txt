@@ -1,0 +1,29 @@
+Gun control: reducing gun deaths :: making it harder to own cars : reducing car deaths 
+
+A) No males play at all female tournaments B) All of the best players are male Therefore: None of the best players play at all female tournaments. 
+
+I'm a big believer that doing things like this by rote can eventually help make them a part of how you see and understand the world. One caveat, however, the benefits can be quite delayed --studying logic today isn't necessarily going to help you understand an argument tomorrow. 
+
+This is all about the difference between natural language and formal language. In formal language, a term cannot be used unless it's well-defined according to the standards of the language. In natural language, on the other hand, well-defined terms are the exception rather than the rule. 
+
+This is not to say that there will ever be no more philosophical questions surrounding logic. There are philosophical questions surrounding every discipline, that's why they call the advanced degree in most fields the "Doctorate of Philosophy." Conversely, it also doesn't mean that logic won't continue to be an important tool in philosophy --structured logical argument continues to be the way most (but not all!) philosophical viewpoints are advanced. 
+
+and so forth. It also helps you see how seemingly unrelated sidepaths can lead back to the main argument. 
+
+The branch of philosophy directly concerned with the meaning of words is called semantics, and there are various methodologies within the field that decompose sentences (although, as far as I know, none have been universally endorsed). 
+
+A fallacy is a structural flaw in an argument. An argument based on a fallacy is a bad argument --in a technical sense-- regardless of the details of the argument. 
+
+It's both one of the oldest and the most perennial philosophies, and elements of it are found in the work of many philosophers who aren't technically skeptics themselves, notably Socrates and Descartes. For instance, you might find Plato's Eurhyphro relevant, since it also deals with the question of moral surety. 
+
+If there were in fact only two alternatives, than Peter is stuck in a "Catch 22" where he would have been blamed by his team no matter what choice he made. This is not, however, a fallacy, just a symptom of the unfairness of life. 
+
+Lastly, there are a number of works for children which are primarily novels, but that have rich philosophical underpinnings. The Chronicles of Narnia, The Neverending Story, Figgs & Phantoms, A Wrinkle In Time, Lewis Carroll's Alice books and Sylvie & Bruno --these and many others provide a gentler introduction to some very weighty concepts. Even books like Harry Potter and The Hunger Games explore some mind-opening territory if you look beneath the surface --subjects such as the nature of good and evil, the meaning of life and death, personal sacrifice, poverty and class inequity, racism and war. 
+
+So we can clean the analogy again and yield 
+
+This question demands analysis at a higher level than simple reading comprehension. In the case of (E) we can see that the author has very deliberately avoided overreaching the evidence to make such a claim. However, in the case of (C), this is a new piece of information we can reasonably infer from the facts presented in the essay, even though it is not explicitly presented itself. 
+
+So whether or not the analogy is good depends on how closely the parts match. As it stands, the biggest mismatch is the "sober" on the right side, which has no natural counterpart on the left. Thus this version of the analogy implies that everyone who would be affected by gun control would be an analog of a "sober" person --i.e. someone with no inclinations towards gun violence. This is probably not supportable, and it also has the issue that it also has questionable implications on the right: i.e. that "soberness" is a stable permanent category, instead of a transitory state of being. 
+
+EDIT: I was asked to expand a little on how exactly symbolic logic helps with argument structure. My answer is that deduction (particularly natural deduction) helps internalize basic strategies and guidelines, like:

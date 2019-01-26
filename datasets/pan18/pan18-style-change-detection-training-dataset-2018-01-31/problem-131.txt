@@ -1,0 +1,43 @@
+Lucious the Depraved - a unique Grave Robber - found in Cemetery of the Forsaken - Act 1 
+
+Original Answer (with just a few edits where new details are known) 
+
+Drury Brown - a unique Ghostly Murderer - found in the Defiled Crypt - Act 1 
+
+So, I'll leave my original answer below with the grain of salt that there does not seem to be a solid reference. It is a widely distributed version of history at this point that Blizzard neither confirms nor denies, to my knowledge. 
+
+Floating monster health bars can be turned on using the "V" key (provided you don't change that hotkey). I hit it all the time by accident, but I like it on. 
+
+Blizzard themselves have only released a limited amount of details on this feature, and they have given the caveat that it is subject to change. 
+
+It is also confirmed in that same thread that the male Barbarian from Diablo III is not the same Barbarian from Diablo II, even though this is often speculated - since that was an original plan by Blizzard that was scrapped due to gender differences, and difficulty in plot integration. 
+
+Note that I've modified the bold values based on Rapida's suggestion. I found another thread which confirms that the actual values are15% per stack, up to 75% total. 
+
+There is a pretty good guide over at d3db here. It includes a spawn point strategy for farming the Act I ghosts. The diablowiki also has a concise listing here. 
+
+Here is a list. Bear in mind that not all waypoints are accessible all the time. Also massive spoilers. 
+
+If you are specifically interested in uniques (monsters with Purple names and "flavor text") you can find a list here. These monsters, in addition to more general elites/champions, tend to have special traits which give them unique powers. 
+
+There is an awesome calculator here where you can see different effects. 
+
+Paragon Levels Update : From Blizz blog here. 
+
+The Tomekeeper - Unique Grim Wraith- Realm of Shadow - Act II 
+
+John Gorham Coffin - a unique Grave Robber - found in the Defiled Crypt - Act 1 
+
+Since it is essential to maintain my Barbarian's disgruntled state, what strategy can I use to best maximize Fury? Does it only come down to each left mouse click? Do I get more for hitting monsters in groups? Does taking damage increase my rage? Should I pattern my use of primary and secondary attacks (P+P+S, P+P+P+S, etc). What is the best strategy? 
+
+Purple ones (quest elite monsters) do not add a stack. 
+
+The downside to this ability is, every time you modify any of your skills, all of your charges fall off. 
+
+Nope. There isn't any way to do this. 
+
+I have three items that increase my attack speed. One is a one handed weapon. The tooltip reads Increases Attack Speed by 7%. The weapons attack speed is in fact 7% faster than a normal weapon of it's type. But when I dual wield, by other weapon doesn't benefit from it. 
+
+After that, The Blacksmith is probably your next priority. Specifically, you'll want to make sure that you always have him trained up to produce gear either at or just above your current level. That means you'll want to have pumped 8,000 gold into his training by level 10, another 20,000 by level 20, and so forth. You can keep track of all the numbers, as well as the recipes available at each tier over on Blizzards site. 
+
+Just about the only thing you can do to speed up the skill switching process is to right click on the skill you'd like to change. By doing this you'll jump directly to the skill selection for that key, bypassing one page of the menus you'd normally click through.

@@ -1,0 +1,35 @@
+I'm not going to discuss actual, hard numbers as most people familiar with StdDev in poker will declare something that can be interpreted as "StdDev is completely useless until you have 100k+ hands," -- a sentiment I disagree with in principle. You can gain some insight with far fewer hands. 
+
+But skilled players tend to move up in stakes. As you get better at poker and move up in stakes, you'll find that your skill relative to your opponents actually decreases. You may still have an edge, but your edge will be smaller. This will reduce your winrate, thereby increasing your variance and your StdDev. 
+
+Variance is also dependant on your game style. Set-mining nits will have a lower variance than a loose-aggressive player. That also doesn't mean that the set-miner is better than the LAG. Nor does it mean the opposite. 
+
+My advice is to forget about StdDev as a diagnostic tool, and look at it as a mathematical curiosity. 
+
+Disclaimer: All of what follows applies only to winning players. For non-winning players, none of this matters a whit. 
+
+That is not to say that when your StdDev is high you need to work on your game. I mean, yes -- you need to work on your game, all the time, but it has nothing to do with your StdDev. The best online $25.00/$50.00 player in the world is probably going to have a long-term winrate that is much lower, probably measured in the low single digits in terms of BB/100. They have an edge, but their edge is smaller. So their variance and StdDev are going to be higher than the world's best $0.05/$0.10 player. Does that mean that the .05.10 player is better than the 25/50 player? Hardly. 
+
+You shouldn't be buying in with a stack that you can't lose. If you have $1000 to your name, you shouldn't be playing 5-10. Though it's still possible to win up to this amount. Consider you have $10,000 in your bankroll, and decide to take a very aggressive shot at 5-10 with 1 buy-in. If you lose it, you will move back to 2-5. But then the shot goes very well, and you run your $1000 up to $8000 or so. Most of the time, you should stand up. But let's also pretend it's a very soft table; someone is buying in for $1000 and losing it every hand with no sign of stopping. There may be a situation here that warrants folding AA against a different player; the value in the game so great that you don't want to leave, but you also don't want to take a 20% shot of losing roughly half of your net worth. 
+
+Theoretically, no. For every dollar you and your opponent add to the pot, you stand to win your dollar back plus some of his, regardless of his hand. However there are a few practical edge-cases worth considering. 
+
+If this is your first time playing in a home game, there are a few ways this could be a mistake. The first is cheating; there is a small, generally negligent chance that the dealer and player you are in against are working together. He could have KK, and the dealer could base-deal a third King. Even without knowing that you won't get an ace as well and still win, this makes the odds of you winning very slim. The second is if you will get paid or robbed before you leave the game. Consider a situation where you've been winning all night in a deep game and now sit with 2000BBs. Some home games let players buy in for the largest stack on the table, and if this player is playing on credit, the home game could give you a long run-around for getting your money. The player who loses to you could also have friends in the area planning on taking this money back. 
+
+on the flop with your call the pot was $88 with even a 1/2 pot bet you are pot committed yes the correct answer was to shove and (hopefull) take down $73 that board has straight and flush draws that you did not have a piece of 
+
+The way the cards were set up this is going in every time anyway with a check or 3 bet pre. 
+
+Now if the two limpers called your $36 and villain pushed then it is fair to put him on AA or KK but could be doing it with QQ. I still think that is a close call. 
+
+If they raise you a lot pre flop no way their range is KK+. If their range is KK+ then they would only be raising 2/221 hands. If you are holding KK then the random chance of AA is 1/221. 
+
+villain need to call $100 to win $238 
+
+Going to assume the blinds were part of the 4 $28 preflop $60 flop $25 turn $125 turn $238 total 
+
+Even if villain thinks the king is good that is 12 outs 46 cards left (46 - 12) / 12 = 2.8 
+
+Pre flop villain lead out for 13 and then called 33 You raised a 20 into a pot of 47 giving villain 2.35:1 Unless he had nothing and was trying to steal villain is going to call If you just want to build a pot then fine 
+
+Obviously a spade on the river is a bad card for you. That is not a bluff. That is a value bet or a blocking bet afraid you have a bigger spade. Jam and try to represent QQ with a spade would not be a good plan. I would call as you are getting over 5:1 but you are probably beat by a pair with a spade. About the only hands that you beat are 77 and AK and they could have played that way.

@@ -1,0 +1,39 @@
+Scrum - the methodology - is a set of practices, of which the Scrum meeting is core. You can think of Agile methodologies as different toolboxes, where the tools can be used together very effectively. 
+
+Agile is the term we give to the conglomerate of practices, the body of knowledge and the community built around similar methodologies and practices, including Scrum but also XP, DSDM and others. 
+
+So, the practice of holding Scrum meetings is part of Scrum, as well as part of just about every other Agile methodology (perhaps by another name), and Scrum is an Agile methodology, but Agile itself is bigger than individual methodologies or practices. 
+
+The meeting you're describing (well, the meeting you should be having, see below) is a Scrum, sometimes called a stand-up. 
+
+Unfortunately, managers in the industry do, so the certificate is valuable. If you can find someone who's recommended, or someone who's actually failed people on the course, then they're probably better than average. 
+
+I'm far from advocating working on weekends, but as software development is mostly thinking I have experienced that some developers just thought over some issues during the weekend. 
+
+By definition each and every Product Backlog Item should be estimated. Therefore each and every Sprint Backlog Item should, as well. 
+
+Identify and order the major items that went well and potential improvements; and, 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+Correct. For bug handling in Scrum, take a look here. 
+
+Assuming you'd like to be Scrum Guide compliant. 
+
+For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now. 
+
+I've been working as an agile coach for little over one year for one team. Recently I became a line manager for the same team. 
+
+If you cannot potentially ship the product increment you cannot be doing Scrum. You are doing something and it may be Agile but it is not Scrum. 
+
+The beauty of having a backlog is that teams can dip in and out of the themes and epics based on business value and priority rather than having to deliver entire functional areas. 
+
+https://news.ycombinator.com/item?id=10212629 
+
+Either way, the meeting will close with a commitment to the team that an approach will be used and each developer will do their utmost to see the course of action succeed. 
+
+There are multiple parts to your question so let's group them; 
+
+As the Scrum Master you are the master-servant of the team including coaching. Many agile commentators forget the master part but the business is paying you to impose your will upon the team to make them a productive, cohesive unit. You are not a tea-boy. Reaffirm to yourself that you are in control of team. 
+
+Miller's Law states we have the ability to hold onto 7 +- 2 items in short term memory. These memories can last for up to 18 seconds and are refreshed by the original context. Any distraction will affect short term memory from stress, noise to music and loud conversations.

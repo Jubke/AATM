@@ -1,0 +1,33 @@
+I just noticed this today when looking at my gmail inbox: 
+
+This is how it looked like before, with focus on the sites/communities and many links from the homepage itself. After the change, the homepage is showing only the list of Hot Network Questions, sorted by hotness points (can be seen as tooltip) and for anonymous visitors (i.e. those not logged in) also showing a nice "Stack Exchange Q&A communities are different. Here's how" banner on top. 
+
+Any other types? For example, what about post I made is deleted? I would expect to get notification as well, but can't test this by myself. 
+
+When viewing question page as anonymous visitor or low rep user, we are presented with advertisements on top of the page. All is good. 
+
+Worth to mention, this new design is very similar to the first design of the portal (since Stack Exchange 2.0 was declared) as can be seen here. 
+
+I could not find any list so I am asking: What type of notifications do we have? 
+
+The 10k tools page is dead for some time now (over a year) however the team added the PostFeedback table to the public data dump, accessible for example via data explorer. 
+
+Easiest way to think about it: if the bounty notice is still present on the question, the system hasn't decided yet. When it does decide, it will remove the bounty notice. 
+
+Note: Flag weight no longer exists in any form and is no longer used to sort the flags queue. 
+
+Your flag may have already been viewed. If you cast a really complex or debatable flag, it could sit their for a while while moderators determine what they want to do. 
+
+Any reputation from suggested edits on any of these automatically deleted questions (and the answers under them) has been removed. 
+
+Recommend Closure flags do not ever go to the moderator queues. They only go to the Close Votes review queue, so they won't be handled until users review the question you flagged. Depending on the size of the queue, this can cause them to linger for a while. 
+
+Enthusiast and Fanatic can be tracked on your profile page next to the "visited" stats near the top. There will be a "n consecutive days" piece there. 
+
+We're only as far as the commitment phase, but I've been reading about the plans for when sites hit the closed beta. That's when we discuss all the colorful details of the future site, such as its real name, the FAQ, tagging nature, and other design stuffs. I agree with the idea of delaying this discussion until that stage, but then I started to wonder, "Where is this all going to happen?" 
+
+A change has been pushed that will now require these badges to be in place, and will prohibit nominations from any who lack those badges yet still attempt to submit a nomination. Run on. 
+
+I'm Grace Note, a Community Manager. 
+
+On Gaming we had one tag for a particularly difficult case that a wiki entry was written for. There has been some debate as to what we should keep the tag as, which has led to the only instance of the tag being renamed a few times and eventually left on a new tag. The nightly script eventually cleaned out the original tag, and the wiki is inaccessible. So would I be able to retrieve this by reverting to the original tag, or is a rewrite of the wiki necessary?

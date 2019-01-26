@@ -1,0 +1,31 @@
+@Saakyan asks me to clarify "for what"; a reasonable question. 
+
+Project management is simple - based on the information you have, predict 
+
+Manage scope. If you are not getting team participation, then first make a plan and second talk to the professor. Explain the problem and what you've done, and make sure to indicate that you'll continue to work to motivate the team. But if participation doesn't increase, then you will scope your participation to a clearly identified portion of the project. (picking an arbitrary example) "I will outline European history from 1200 to 1600, but I personally will be responsible for Turkish history 1300 to 1450. I have four courses and I'm not willing to fail those courses in order to pass this course, so I have to establish some limits." 
+
+I missed the fact that this is schoolwork (I thought it was a side project). It is very difficult to "close" a school project. Back when I went to school, there were no group projects; now they seem to be commonplace. I've got two additional suggestions 
+
+In truth your problem goes beyond project management - I've tried to limit my answer to project management interventions. 
+
+In an ideal world, you'd do that. In the real world, if project management were that simple, it wouldn't be a paid profession. 
+
+I suspect that if I were in your shoes, I'd ask the teams to select and predict their own KPI, and measure them on whether they are in control/able to hit the target they are aiming at. 
+
+I'm going to add my voice to the consensus; I'm not sure how much new I have to add, but I want to reinforce the consensus that this is an extremely bad idea. 
+
+How is checking their phone different from doodling on the notepaper? Quite frankly, I can play games on my phone and still have enough attention left over to participate fully in most meetings. Sometimes it helps - playing a game on the phone prevents me from uttering the first thought that comes into my head; it forces me to mull over my comments for a moment and contribute something that is valuable, rather than something that is trivial. 
+
+As others have said, you'll get the meeting you request. If you treat the attendees like children or criminals, then you'll get children and criminals. If the focus of the meeting is on what needs to be done and who is accountable, then you'll get people who will help you get things done and be accountable for them. 
+
+Ask each department what their goal is, and what their confidence interval is; that is the target, and you can meet regularly to track progress towards that goal. update OP subsequently explained that this is a startup, so I need to modify. Normally the manager has access to the last several years worth of reports, and can calculate the maximum, minimum and median for whatever target they set. The team should be able to explain why their target is different from the median. Since this is a startup, that information isn't available. In many cases reference data is available. Sometimes it is low quality data, but that just affects the confidence intervals. If we were running a mature shop, I would expect the KPI to have a confidence interval of 10%; if we're running a startup, then I might expect a 50% confidence interval. Although I didn't state it earlier, the KPI should be relatively easy to calculate based on available data. You should be able to meet periodically (daily/weekly/monthly as appropriate) and review the current state of the KPI and compare it to the anticipated state. In many cases you should be able to adapt the assumptions & formulas from Earned Value Management. The staff will tell you that their KPI is a special snowflake that has a unique projected value curve. (they should tell you this; if the EVM curve is linear, then they're overpaid). That is fantastic news - that is the opportunity for you to learn their task/business/activity at an appropriate level of detail. 
+
+You can't compare efforts between marketing and accounting; accounting is non-competitive. I suspect it is an error to try to compare efforts which are dissimilar. The problem set before you is difficult and potentially wicked. On the other hand the only option you can rule out is to do nothing. 
+
+The real world In the real world, your signature on the project charter commits you to deliver the scope on the schedule for the budget and to manage any changes. 
+
+Dispense with the distractions Independence is a road to project failure. You are interdependent; your success is tightly coupled with that of your project team, and theirs with yours. Any other viewpoint will lead you to disaster. I would argue that none of the issues you list in your question are problems for the PM. 
+
+Just saw the update to the question, in which you point out that one of the potential costs of the project is your friendship. Excellent observation, and you need to find a way to discuss and quantify that potential cost. (realistically, there is no way to quantify the value of friendship; in the past in similar situations what I've done is to give everyone veto power. If anyone feels like this project's burden is rising to the point where it threatens the friendship, then that individual can pull the plug. Others agree that there will be no judgement, no condemnation. I've worked on projects where the stress was sufficient to require medical care. Is this project really worth that cost?) 
+
+I'm accountable to my stakeholders for a realistic estimate of whether the project will meet the target. Ideally I phrase my estimate in a risk context "I believe it is 90% likely that we'll deliver on schedule, and that the customer will accept the ultimate deliverable. I'm less confident about budget; it is only 75% probable that we'll come in within 10% of our estimate."

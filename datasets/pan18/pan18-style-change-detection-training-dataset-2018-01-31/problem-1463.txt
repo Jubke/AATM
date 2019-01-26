@@ -1,0 +1,19 @@
+I suspect there's a styles-and-themes approach to this problem, but since I've never fully wrapped my head around those (one of my more embarrassing Android knowledge gaps), I'm not completely sure what to do. 
+
+I posted this back in May on the [android-developers] Google Group. I never heard back and was not able to reproduce the problem until one of my students did last week. I figured I'd post it here and see if it rang any bells for anyone. 
+
+After you done this 'fix' for a library project, you may need to just close and re-open any depending project, because they may not see this 'fix' immediately. 
+
+To fix this, go to 'Order and Export' and check 'Android Private Libraries'. Then refresh/clean/rebuild. 
+
+I am in the process of (finally) writing the chapter on tasks for my book, and I am encountering a few lingering puzzles. 
+
+UPDATE 2017-12-16: The details will vary by Linux distro and version. So for example, this answer covers newer Ubuntu versions. 
+
+The currently running instance of [the desired activity] will either receive the new intent you are starting here in its onNewIntent() method, or be itself finished and restarted with the new intent. If it has declared its launch mode to be "multiple" (the default) and you have not set FLAG_ACTIVITY_SINGLE_TOP in the same intent, then it will be finished and re-created; for all other launch modes or if FLAG_ACTIVITY_SINGLE_TOP is set then this Intent will be delivered to the current instance's onNewIntent(). 
+
+Has anyone worked out a pattern for using "activated" on 3.0 and skipping it on pre-3.0, beyond separate layouts? 
+
+I am interested in a solution for Android O, for picture-in-picture mode on mobile devices, though if that works for Android TV too, wonderful! 
+
+You need some 32-bit binaries, and you have a 64-bit OS version (apparently). Try:

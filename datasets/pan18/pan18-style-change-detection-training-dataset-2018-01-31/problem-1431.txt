@@ -1,0 +1,59 @@
+Bounty update: Already got a very good answer from Mark. Adapted := into :, below. However, I'm still looking for similar schemes besides DBIx. I'm just interested in being compatible to anything. 
+
+I need advise on the syntax I've picked for "extended" placeholders in parameterized SQL statements. Because building some constructs (IN clauses) was bugging me, I decided on a few syntax shortcuts that automatically expand into ordinary ? placeholders. I like them. But I want to package it up for distribution, and am asking myself if they are easily understandable. 
+
+This isn't a real fluent interface. I have an object which builds up a method stack. Which gets executed by a single function call. But now I might add another virtual method, which "takes over" that method stack. 
+
+(Uh, and HTML5 is no longer a draft.) 
+
+Do you have examples or actual code which utilizes cURL for <any other things> it was made for? 
+
+If by array of bytes you mean: 
+
+So specifically, I'm interested in finding an alternative to my $this->__filter list usage with array_pop() and the sneaky swapping it out. This is bad. Is there a better implementation scheme to executing a method list half part me -> half part you? 
+
+I think I've figured it out meanwhile, but the question is still open for answers / implementation proposals. (Otherwise the bounty will obviously go to nikic.) 
+
+For rewriting the *.php scripts I'm basically running over a tokenizer list. The identifier searching+merging is already complete. But I'm a bit confused now how to accomplish the actual rewriting. 
+
+I know that writing against the raw Gtk+ interface in Python is just bearable, and it therefore seems not very enticing for PHP. I assume it's the same for Qt, and Tk is pretty low-level too. So I'm looking for something that provides a nicer object structure atop any of the three. Primarily TreeViews are always a chore and php-gtk callbacks are weird in PHP, so I'd like a simplification for that. If it eases adding the GUI/View atop my business logic without much control code, that might already help. 
+
+(Guess I should update some research...). But there's still no practical compendium/specification (no, XML DTDs aren't) that suits a HP configuration. 
+
+Anyway, has anybody else implemented a scheme like that? Different placeholders? Or which would you recommend for simplicity? Update: I know that the PHP Oracle OCI interface can also bind array parameters, but doesn't use specific placeholders for it. And I'm looking for comparable placeholder syntaxes. 
+
+Somewhat shortened implementation: 
+
+You could use a unicode character class http://www.regular-expressions.info/unicode.html 
+
+I'm attempting to automate the removal of namespaces from a PHP class collection to make them PHP 5.2 compatible. (Shared hosting providers do not fancy rogue PHP 5.3 installations. No idea why. Also the code in question doesn't use any 5.3 feature additions, just that syntax. Autoconversion seems easier than doing it by hand or reimplementing the codebase.) 
+
+While I can certainly relate to not introducing 3rd party libraries over builtins (DOMDocument vs phpQuery), using curl appears somewhat odd to me. There are heaps of HTTP libraries like Zend_Http or PEAR Http_Request. And despite my disdain for needless object-oriented interfaces, the pull-parameter-procedural API of curl strikes me as less legible in comparison. 
+
+I'm wondering if there are any abstraction frameworks for one of the PHP gui libraries. We have PHP-GTK, a PHP/Tk interface, and seemingly also PHP-QT. (Not tried any.) 
+
+Is there a simple approach to add a HTML5 ruleset for HTMLPurifier? 
+
+The old .phpt scripts with their --expect-- output come close, but still require too much manual setup. Also I'd prefer a web GUI to run the tests. Is there a modern rehersal of such test scripts? (plus some header/error/result evalation and eventually unit test::assert methods) 
+
+Use case: I'm wrapping my superglobals into objects. This allows me to "enforce" input filtering. $_GET and co provide simple sanitizing methods. And my new version now allows chaining of atomic filters. As example: 
+
+So, how / in which order would you attempt to convert the variations of class/function names here? 
+
+Basically I'm too lazy to do the test frameworks work, manually pre-define or boolean evaluate and classify the expected output. Also I don't find it entertaining to needlessly wrap test methods into classes, plain include scripts or functions should suffice. Furthermore it shouldn't be difficult to autorun through the test scripts with a pre-initialized base and test environment. 
+
+It's evident that the cURL functions are very widely used. But why is that? Is it really only because the extension is mostly enabled per default? 
+
+There is of course a reason for that. But I'm wondering if most PHP developers realize what else libcurl can actually be used for, and that it's not just a HTTP library? 
+
+Moreover I've been using throwaway test scripts till now. And I'm wondering if instead of throwing them away, there is a testing framework/tool which simplifies using them for automated tests. Specifically I'd like to use something that: 
+
+And it's even possible to hide remote code with workarounds like: 
+
+And so since GUI apps are an area where MVC or MVP would actually make sense, I'd like to know if any library for that exists. 
+
+Edit, I'll have to give an example. This is your typical PHPUnit test: 
+
+HP can be configured to recognize new tags with: 
+
+You'd have to scan for include($tmp) and require(HTTP_REFERER) and *_once as well. If an exploit script can write to a temporary file, it could just include that later. Basically a two-step eval.

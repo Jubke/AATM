@@ -1,0 +1,47 @@
+The custom close reasons are the least defensible of the close reasons, because they appear ad-hoc (we're making them up as we go along). But writing custom close reasons is hard. Writing a good reason seems to be as difficult as writing a good question title. 
+
+*Not an actual endorsement of illegal activity. If you're dumb enough to try this, don't blame me for your jail time. 
+
+So if a moderator's imminent demise needs to be made public, here are my thoughts on how that process might occur: 
+
+Moderators already have enough to worry about; they don't need to know about these complaints until they become actionable. 
+
+I strongly believe that SE corporate (i.e. the Community Team) needs to be the final arbiter in disputes like this, for reasons which should already be obvious. 
+
+It might interest you to know that the user rep-capped long before he was done making suggestions. The system works. 
+
+For the most part, Ira doesn't do that. A cursory look at Ira's answer history seems to demonstrate that the community finds his answers valuable enough to upvote and (in a significant percentage of cases) accept as the correct answer. 
+
+jQuery Timeago: your server output cache will thank you http://i37.tinypic.com/2eulpck.png 
+
+Maybe it's just flag fatigue, but I've seen a lot of users who really should know better -- not newbie 1 rep users, but users with hundreds or thousands of rep -- asking egregiously off topic and/or unanswerable questions. 
+
+Important change End users can not mark questions wiki anymore, so the only appropriate way to get action on a question you believe really should be wiki, is to flag it for moderator attention. 
+
+serverfault (831k) Kara, Denny, Stefan 
+
+21,968,671 actual rep generated from ~1.4m answers 
+
+You must be a currently registered Stack Overflow user in good standing 
+
+I'm having trouble coming up with anything. Any good suggestions? Post them as answers! 
+
+What are your thoughts on this? 
+
+One way is as you saw with Subsonic -- where they simply provide a single link to Stack Overflow among other links of places people can go to discuss Subsonic. I think that's an OK nudge and if you want to seed it with one or two questions yourself, that's fine too. 
+
+Asks dozens to hundreds of questions over a period of 3-6 months (or more). 
+
+All questions are consistently of low quality and hard to understand, requiring major editing. 
+
+Thus, to incentivize more balanced question voting, we are considering removing the -1 cost of casting a downvote on a question. 
+
+I personally don't think Quora is even on the same field as us -- we're playing baseball, they're playing football. Here's why: 
+
+I've got a crazy idea: rather than just making stuff up, let's look at the data! 
+
+The new close reasons are clear, specific, polite, and tell the OP exactly what they need to do to improve their question so that it can get reopened. They are standardized; everyone gets the same message. Additional narrative beyond that is simply not necessary. 
+
+"We're all in this together," "Focus on the post, not the person." If you want people to avoid some specific behaviors, then you need to be specific about what those behaviors are. Those of us who have been here for awhile already know what you're talking about in these paragraphs, but the new people don't. "Attacking or harassing individuals based on gender, sexual orientation, disability, gender identity, age, race, or religion – and any and all other type of personal attack – is unacceptable. " -- That's specific. 
+
+OK, so the question I'm looking at is clearly off-topic, but it doesn't fit one of the existing close reasons. What to do? Of course! Use a custom close reason.

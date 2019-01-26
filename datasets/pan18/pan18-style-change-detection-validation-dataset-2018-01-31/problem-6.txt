@@ -1,0 +1,43 @@
+Usually answers of first two questions is more than enough for Sprint Progress tracking. If you have problem with this, reasons in that is not on Daily Scrum format. Maybe your team doesn't decompose User Stories to enough small tasks and it's hard to say how much work is really done. Or, maybe exists another reason. Your Scrum Master should detect and remove it. 
+
+Decompose "nouns" to "verbs" (work needs to be done to implement "nouns"). 
+
+Story Points Estimation is a relative measurement. It's very convenient for high level planning. If the team increases its productivity (by using CI, for example), then the team will just forecast more SP in the next Sprint. In the case of hours estimation, the team should re-estimate (and reduce needed hours) the whole Product Backlog. 
+
+Let's assume, that it will take 1 SP for digging a pit one meter depth. Accordingly, we need 2 SP for making a pit two meters depth. Very convenient. We don't care about our equipment. If we have a shovel then 1 SP will map to 1 man-day. If we have an excavator then 1 SP will map to 1 man-hour. But two meters pit anyway will take to us twice more time then one meter pit. 
+
+Maybe it seems that this is a little artificial situation, but sometimes it could happen (especially, if you have short sprints). 
+
+Or, maybe, I just misunderstand concept of Story Points? 
+
+If you are worry about release plan...well, release plan is just a fiction in Agile. It is impossible to follow release plan if you have frequently changes. 
+
+Story Points Estimation and Hours Estimation have different purposes. 
+
+Imagine extreme case, when your company invite Ken Schwaber (and Jeff Sutherland) to be Scrum-Master. He doesn't need any formal powers, because he has great informal authority. 
+
+Informal authority. In this case job title [and department] doesn't matter at all. 
+
+And yet another article with same content (in case if you don't like JIRA's swimlanes and ASCII graphics): Cycle Time [and Lead Time]. 
+
+A few thoughts on the question: 
+
+Filter requirements and create scope. 
+
+Quote about daily stand-up meeting (without deep explanation) from "Extreme Programming Explained": 
+
+2) Everyone writes their name on a sticky and keeps it in front of them. (Again, it’s optional, but name cards are very appreciated if not everyone knows eachother.) [note: no need for your team, of course] 
+
+Make current sprint bigger. As I know, this is not scrum-way solution. Scrum like constancy (make Daily Scrum in same place and same time, fixed limited time-boxes and so on). Plus, it will be hard reconcile new rewiev day with stakeholders. If you have another teams, that work on same project, problems with this solution will be much bigger. 
+
+If it has, why? If it is (yet) impossible to follow all the prescription of Scrum, maybe it would be better to use ScrumBut and have part of Scrum benefits, rather than none? 
+
+There are two possible solution: 
+
+It's impossible to answer to your question, because "Scrum Master" and "Product Owner" are roles, not job titles. Theirs job positions may be different and depends from company. 
+
+So, I see only three ways to solve this problem: 
+
+Second solution: I saw, that work usually takes all planned time. And it's not related, how exactly time we allocate to this work. So, if we will plan only two tasks in Sprint, we likely will do this two tasks whole Sprint. 
+
+In some development processes, phases may degenerate, such that you may think that there are no such phases at all. For example, let's imagine some software development process where there were no planning meetings, no planning documentation and so on. You might think that this process had no planning. But planning is present in this process. When a developer starts to implement requirements, he can't do all of them at one time, so he will plan what he will do first, then he will do second etc.

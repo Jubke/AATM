@@ -1,0 +1,47 @@
+Start with the style guidelines from Oracle for Javadoc. While those guidelines are written for the Javadoc tool (and the Java language) in particular, the principles there apply to the corresponding tools for other languages. (I've seen this kind of documentation for C++, C#, and JavaScript APIs.) This answer augments that style guide. 
+
+When will your work be reviewed? Only at the end, or will there be a review of a draft before you're done? If the task is more than a couple of full-time weeks then, especially for a first gig, I would ask for a draft review to make sure everyone agrees about the level of detail, prose quality, structure, etc that you're producing. 
+
+I've written manuals under a Scrum process, so I'll describe what worked for my team. 
+
+I work (with a team) on a large documentation set for a complex software product. We publish HTML and have built-in search (plus, of course, there's Google). 
+
+Screenshots are usually a bad idea in my experience; they have to be edited/updated separately so they might rot (as @Piotr said), and if the document isn't WYSIWIG but, say, HTML, the author of the document might not see the screenshot "inline" while editing. Not seeing the screen shots in your (say) text editor can lead to text-screenshot mismatches. Further, screenshots aren't as visually accessible as text; they don't work with screen readers (unless you also type everything is alt text) and readers can't style the page for font sizes, colors, or contrast. This doesn't mean never use screenshots or other graphics; they're an important part of many documents. It does mean to not use them when they're not necessary. In this case, you have a text alternative that provides the same information, so you should prefer that. 
+
+Here the agent is concealed. We do not know who did the kicking. 
+
+I think you need to join them into a single step, or else there is a risk that the user will do the first step without paying attention to the indicator arm, and may thus hold the input vane open too long. 
+
+If it is hard to locate the indicator arm, then it makes sense to tell people to locate it before they open the value. 
+
+This names the actor ("we"). Is there any purpose to naming the actor here? No. In fact, who else could the actor have been? (Certainly not that dastardly Tom). So naming the actor serves no purpose here. The actor is being named unnecessarily just to make the sentence active voice. And while this does no great harm, there is no reason at all to choose it over the alternative. 
+
+And I presume that there is a third step here, which is to close the input vane when the indicator arm reaches the set value. 
+
+The reason is not that technical subjects aren't funny or that technical people don't have a sense of humor, it is that audience selection is different for technical books than for other kinds of writing. 
+
+BTW, you might point out to your developers that since the parameter values are quoted, the comma is syntactically redundant. Removing it would simplify your diagram and even let you continue to conflate parameter syntax with the list of parameters if you really wanted to. 
+
+There is a form that names the agent and is also passive voice: 
+
+The good popular science writers may simply be those who still recognize when a concept needs to be explained (even when they have internalized it themselves) and can come up with an appropriate analogy to explain it. 
+
+The problem here is that you are conflating two separate things: the syntax for parameters in a function expression and the list of available parameters. The syntax itself is straightforward enough: 
+
+The use of analogies to explain concepts is great for comprehension. Their use is not a "trick". It is standard practice for effective exposition. All good popular science that I have seen uses analogies for effective exposition. 
+
+For a novel or an essay or even a history, the reader selects the book in large part based on the writing, whether they like the way the author writes or not. In other words, they primarily select the writer. If you decide to tell jokes or show emotions, you will attract readers who like those things. If you are serious, you will attract readers who like serious, and all that is perfectly fine. 
+
+Finally, remember that while in all other forms of writing your goal is to attract and keep the reader's attention, in technical writing the goal is to get them back to what they were doing as quickly as possible. The less time they spend reading and the more time they spend successfully doing, the better your technical writing is. 
+
+There are two aspects to writing style: there is what does the best job of explaining a concept, and there are the shibboleths that determine if a certain group is going to accept the document. Unfortunately, when submitting a document for publication, you have to consider both how stylistic decisions affect comprehension and what shibboleths affect publishing decisions. 
+
+Or you can put the close instruction on a separate line: 
+
+Here the agent is named. We know who did the kicking. 
+
+Unless you have to suppress you analogies to pass the shibboleths of the journal you are submitting to, therefore, the apt use of analogies to explain key concepts in your paper is a very good thing. 
+
+You definitely need to join the first two parts of this, and the appropriate conjunction seems to be "until". You might also join the third with "then": 
+
+But readers of technical books do not choose the book based on its author. They choose it based on its subject matter. The readership is the set of people who care about its subject and that will include people with no sense of humor and people who don't agree with your emotional reactions to things. If you put those things into your technical book, you will be actively hindering those readers from getting the information they came for. This is why most technical books are written very plainly. Because it is not about the writing, it is about the subject matter.

@@ -1,0 +1,31 @@
+Yes and no. Game licenses are tied to an account, so your new account will not own the game. Using the idea in Hagelt18's answer, I whipped together a quick tool to do all the hard work. 
+
+The difference between ARMA II and ARMA II Free is that Free has lower quality audio/textures, and doesn't have the single-player campaign. 
+
+I now see "BlueRaja's games" under their account. But, when I click it, it's empty. So how do I install one of my games from their account? Is there a way to check the intersection between my wishlist and the games shared with me over family sharing? In my case, both are very large. 
+
+According to this page, the free version is mislabeled as a demo. So the "demo" is actually the free-version. 
+
+C:\Users\BlueRaja\Documents\My Games\Fallout3\Saves\BlueRaja\ I would recommend installing and starting the new copy and, if it doesn't recognize your old saves, create a new game and save it real quick to let it create the save-directory, then move your save files to the new directory. If you're really worried that your account got hacked and all your items traded away, you can check your trade history and see if all your items were recently traded away. Note that joining and inviting to games both work for most multiplayer Steam games, not just Magic the Gathering. 
+
+My new saves were stored in (and thus my old saves had to be moved to): 
+
+I think the actual reason for the excess of group-invites on Steam is the same as the reason people spam guild/clan/server invites in many games, despite a large number of people conferring no advantage: they just want their group/server to be more popular. I've found this is especially true among younger gamers, because it allows them to be "the boss," a role they don't typically get to play in the real-world. 
+
+So my advice is to join as many groups as you want, but only the join the ones you actually want to join. They are unlikely to do you harm, and you can always leave them later. 
+
+The Steam inventory API goes down all the time. It happens often during high server-loads, like during Summer/Winter sales or during big tournaments, but it also happens at less frequently at completely arbitrary times. There is nothing any of us can do but wait. On July 12th 2013, the Mystery cards turned into Summer Getaway Trading Cards. Assuming you mean "If I have a game in my Library, can I also purchase/receive a second copy and put it in my Inventory?" the answer is yes, there are no restrictions on the games you can have in your Inventory. Then the "Big Picture Mode" button is hard to miss - it's in the upper-right of the Steam UI. Don't worry, your items are still there, the Steam Inventory API is just down. 
+
+It's extremely unlikely though, since most people have at least one untradable item. Even if all your tradable items were stolen, you'd still have something. I had to move the save files to a slightly different location, though. My original saves were stored in 
+
+Surely there's a way to install games without having to log back into my account every time...? (otherwise there's no point in sharing to begin with) 
+
+You can download the latest version here. Requires .Net 4.6. Please post any bugs here. According to the FAQ, you will keep your remaining gems after the holiday event, and can continue to use them to create more cards. 
+
+Aside from what has been mentioned above, free-to-play games can be permanently removed from your library by going here and clicking "remove" next to the game's name. 
+
+However, using Steam Family Sharing, you can set up your new account to play games from your old account. Once that is set up, yes, you will be able to play Left 4 Dead from your new account on that computer. 
+
+I recently had a similar problem - all games refused to download. You can do the same thing to manually invite friends using your friend's list. If you open that tab now, you should see a screen like this: There is no such concept as "opening" a Steam gift. When you receive a gift, Steam tells you immediately what game you were sent, then gives you three options: 
+
+That's exactly the situation I was in. Yes, you can use Fallout 3 savegames (boxed) with Fallout 3 GOTY (steam) (if you had any mods installed in your original install, it will tell you "Some features of this savegame are no longer available. These features will be disabled." - my savegames still worked perfectly though)

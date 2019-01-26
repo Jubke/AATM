@@ -1,0 +1,21 @@
+I am getting the current date (in format 12/31/1999 i.e. mm/dd/yyyy) as using the below code: 
+
+i have done SQLite database programming for Android, but i dont know anything about Content-Provider except this: "As i have referred Android Developer page , Android SDK explained about "Content-provider" as it is used to store and retrieve data." 
+
+So displaying image in Center in all screen (without stretching or cutting) resolution other than 320*480, what attributes i have to set ? 
+
+Just now (2 Aug 2010) i have read an article which describes regarding "Frink Programming language and Calculating Tool for Android", refer this links Link-1 , Link-2 Scala is also supported. For having examples of Scala, refer these Example link-1 , Example link-2 , Example link-3 . This time i am having 58Mb application from that 52.5MB Images and it runs on the my HTC Hero mobile but On Emulator, it shows an error: I have implemented AsyncTask in my one of activity: 
+
+In one of my code samples, I have the following method: 
+
+UPDATE: The code in question is from the LunchList tutorials out of my Android Programming Tutorials book. It's a bit spread out and not terribly suitable for posting directly in SO. You can download the code for that book from the above link if you want to take a look at it. I do not recall exactly which edition of the tutorial the student was working on at the time, though it was in the Tutorial 12-Tutorial 16 range. I was mostly hoping to run across somebody who had tripped over this problem before and had a likely culprit. I'm fairly certain my database is open. Thanks again! Give this a shot and with luck it will solve your problem. However, even with them, I get this: Quoting Streets of Boston from his adt-dev post: 
+
+AFAIK, fragments cannot hold other fragments. I ran your Activity with your layout myself and didn't get any errors. Have you cleaned your project? Often this will remove these "phantom" errors. (In Eclipse, Project -> Clean...) 
+
+I'll elaborate this with an example: Second, let's start with the OnTouchListener: 
+
+I hope that helps a little. There's plenty more to learn but maybe this will give you some basics. 
+
+The last two parameters in your SimpleCursorAdapter constructor are what you are missing. They are the "from" and "to" parameters: Typically your app is the only app that can access your Service (or have a use for it). If destroy your app with this Service still running then that Service no longer has a purpose. It will exist in memory consuming resources but doing nothing. By unbinding or stopping your Service when you are done, you return these resources so that they can be used by other apps. 
+
+The exact reasons why the rebuild order is not linear, I cannot tell you. It is probably more efficient to allow each component to re-start at its own pace rather than forcing a rigid order. For instance, I prefer that my LoaderManager starts as early as possible and we'll worry about the layout for it's content later.

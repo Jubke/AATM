@@ -1,0 +1,23 @@
+What are the objections to Hilbert's version of Formalism other than the two mentioned above? 
+
+Russell was well aware of at least some of these difficulties. To solve them he formulated his theory of systematic ambiguity. This is most easily understood with respect to an example. Take the statement of the Axiom of Reducibility. According to Russell, this has to be understood (for fixed i) as indicating not a single proposition, but an infinitude of propositions: one for each order that f might be. Russell, himself, explains the point with respect to a similar example as follows): 
+
+For example, in philosophical arguments the method of reasoning is not always formal and I think that it is more natural to use this kind of reasoning method. Surprisingly enough when we discuss the proofs, we in fact use this kind of informal reasoning but still our professors insist on being able to write formal proofs. 
+
+"For, however we express it, what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f', ranging over all functions." - I am not so sure that "what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f" (in fact this doubt was partly responsible for my asking the first question). Indeed, to me Russell's suggestion sounds similar (see the quote) to that of Conifold's remark that I mentioned earlier. Am I missing something important and/or subtle here? 
+
+The class of axioms and the rules of inference (i.e., the relation "immediate consequence of") are recursively definable (as soon as the basic signs are replaced in any fashion by natural numbers). Every recursive relation (Note: here Gödel is referring to what are now called primitive recursive functions) is definable in the system. 
+
+I believe the only requirements on a system to have incompleteness obtain are the following (I might be missing something): 
+
+We have various proofs demonstrating the truth of the Gödel sentence. I'll present an argument given here. 
+
+Since the argument assumes the soundness of the system under consideration (in the formal version the assumption of soundness is captured by LRP), it establishes a link between provability and truth (and, if I am right to think that the double turnstile is to be read is model-theoretic truth, it establishes a link between provability and model-theoretic truth). Furthermore, the arithmetical machinery at work in the proofs makes explicit appeal to the standard model of S, namely . It then relies on the familiar analysis of truth simpliciter as truth in . So, "is true" in the first argument above can be cashed out as "is true in " and that seems to pretty explicitly invoke model theory. 
+
+The justification of this very fact, is the reason behind this question. All the stuff I've read about the metalogical virtues of FOL and the properties of its "extensions" could be summarized as the statements below: 
+
+Why, so, is FOL invariably chosen as the underlying logic on top of which the set theoretical axioms are established, in any potentially foundational formalization of mathematics? 
+
+I'm far from being an expert in the field of mathematical logic, but I've been reading about the academic work invested in the foundations of mathematics, both in a historical and objetive sense; and I learned that it all seems to reduce to a proper -axiomatic- formulation of set theory. 
+
+It also seems that all set theories (even if those come in ontologically different flavours, such as the ones which pursue the "iterative approach" like ZFC, versus the "stratified approach" -inspired by Russell's and Whitehead's type theory first formulated in their Principia- such as Quine's NFU or Mendelson's ST) are built as collections of axioms expressed in a common language, which invariably involves an underlying first order predicate logic augmented with the set-membership binary relation symbol. From this follows that FOL makes up the (necessary) "formal template" in mathematics, at least from a foundational perspective.

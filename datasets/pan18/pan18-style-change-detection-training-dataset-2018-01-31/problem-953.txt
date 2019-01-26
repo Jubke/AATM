@@ -1,0 +1,21 @@
+The reason is the same for which a link-only answer is not considered an answer: What would happen if the linked page is temporary unavailable because problems with the server, or permanently not available because that page is deleted? With a question is even worst because nobody would see the question being asked, while with an answer, the question and the other answers would still be useful to future users. 
+
+I thought the highlighted questions were the ones that have been recently changed, but the tab shows that two questions have been changed. I also thought they could be questions using my favorite tags, but that's not the case either. (I would not understand in which way my favorite questions are associated with my favorite tags, though.) 
+
+The FAQ reports the following text: 
+
+If then the answer is a perfectly valid answer, you could up-vote it. 
+
+While not all the late answers are like this, between the late answers written by new users you can find answers that should be flagged as "not an answer." There are then answers that are only spam, which generally are written for old questions, even if I have also seen spammer using a question for spamming, and adding more spam as answers. That the reason there is the "Late Answers" review page. 
+
+Accepted answers is referring to both your answers, accepted by who asked the question, and the answers that you accepted. You accepted two answers, which would give you 4 points; you probably down-voted an answer, and that would take you to 3 points beyond the limit of 200. Add your answers which were accepted, and you go to 233. 
+
+Second, Stack Exchange has no obligation whatsoever to preserve anyone's supposed "right" to exercise their religious beliefs on any Stack Exchange site, in whatever form those religious exercises might take. Naturally, some sites welcome these practices; if you want to praise Jesus overtly using your own words, you're almost certainly welcome to do that on the Christianity site (but check with them first), provided that you're also providing value in the form of actually answering or asking a question. 
+
+The value of the Stack Exchange platform is that it has a singular focus: collect a knowledge-base of useful answers to useful questions in a specific topic area. "Where to find [external resource]" questions run counter to that goal, so much so that they now have their own specific close reason: 
+
+The additional text seems superfluous. I daresay it could be confusing to a new user, who might actually be compelled to search or browse for the missing page. 
+
+Those kinds of questions are also off-topic on the Programmers and Game Development SE sites as well. 
+
+You assert that "while we are hiring, we’re not doing it fast enough to make a real difference for New Yorkers who want to learn to code," but none of the job openings you have are for entry-level people. Should experienced developers, who clearly are capable of doing the work but are perhaps not up to speed on the latest bleeding edge technology or interview expectations, be pursuing some sort of mentorship as well?

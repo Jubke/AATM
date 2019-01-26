@@ -1,0 +1,63 @@
+Report on the BAU workstreams as a separate delivery report tracking the amount of hours planned and accomplished for BAU tasks including the nature of the tasks and the RoI of the work completed. 
+
+I use the traditional format of 
+
+What you are actually frustrated at is the incremental delivery without fixed requirements. However, consider the following scenario... 
+
+Unfortunately this has led to a number of project delays as technical information or warnings from the developers are ignored until the Project Manager must return with their tail between their legs to the business customer and explain the timelines were unrealistic. 
+
+My final action is to turn the entire thing into an Infographic and post publicly for all to see whilst checking the status of the action items. 
+
+Normally with a question to the team I use the technique Pose, Pause, Pounce and nominate someone to answer. 
+
+As the Scrum Master I have banned management from the Retrospectives in order to give the team privacy and assurance they can speak without retribution. 
+
+Are there any counterexamples of Agile teams working to strict deadlines and being tracked mercilessly? Sure. The entire Toyota Production System which underpins many of the systems we consider Agile is based on exceptionally detailed metrics tracking. Kanban lives and dies by it's metrics. The Tesla and SpaceX teams, lauded by the Agile community, work to exceptionally strict 100 day product roadmaps with detailed metrics provided to management. 
+
+I then pose a verbal question. 
+
+What if I have concerns? Ultimately, we advocate that the only true metric for a Scrum team is working software. However, that sentiment is an aspiration and is not a mature response to the organisation funding your project which must be balanced alongside dozens or potentially hundreds of other initiatives competing for the budget allocated to your Scrum Team. 
+
+The WIP limits of the teams are impaired because stories are blocked by a single developer and the time they can devote back to original team to progress a story. 
+
+Edit: If any clarity is required then I can edit but really looking for genuine guidance on this issue appears multi-faceted. 
+
+I may possibly inherit a new team which had toyed with Scrum but not found it the correct approach (largely due to the parallel not sequential nature of business projects). 
+
+Firstly, you have gained consensus from the team which is fantastic. Your direction of travel towards a self-organizing team in underway. Maintain that. 
+
+They are working to a fairly effective Kanban system but the development team are unhappy. In previous roles they worked closely with customers and now they are just developers (their words) who report to a Product Owner of Project Manager who articulates the customer requirements. 
+
+Always remember that doing Scrum is not the thing. Scrum is the thing that gets you to the thing. It is a framework designed to help you deliver software, it is not an end in itself. Unless you work for Scrum. 
+
+Working across dual teams is not sustainable and is in direct contravention of the Scrum idea of "sustainable working." In addition it is likely to make cross-team working acceptable and will encourage further time splitting from other developers, testers and even the Product Owner. Disastrous for an Agile transformation and indicative of organisational dysfunction. 
+
+What practices would lead to the potential success of such a system? 
+
+For this example I will suggest dedicating 20% of your fortnightly sprint capacity as BAU work. 
+
+This can be actively managed through some enterprising Kanban and a normal Scrum delivery team method. Some agile coaches struggle with the concept that an organisation can have a single Scrum Team delivering the business change from a portfolio of programmes with multiple projects all with their own 'backlog'. Sometimes Agile methods need adapted regardless of the guidelines. I humbly suggest the following solution. 
+
+You are looking at this the wrong way round; you are seeing wasted effort instead of seeing that the review process is working for you. It has saved potentially many more months of developing the wrong thing. 
+
+With two or more projects you just doubled the context switching...more people, more risk of context penalties. 
+
+You simply cannot deliver new change if business stakeholders continually want functionality repaired in the old system. Force people to make changes. 
+
+Then they put the user journey on paper, dropped the epics onto the diagram like lego blocks over the user journey and start working through them. First part of the user journey, first epic, deliver that. Review. Next epic, deliver that. 
+
+Don't approach Agility with a sense of right and wrong, it will just divide your stakeholders/customers/co-workers. 
+
+If your approach is helping to deliver working software then it is not wrong, it could just be improved slightly. 
+
+A senior stakeholder asked the team just to demonstrate a message saying "Customer Name_EXAMPLE" could make it all the way through the system before adding in additional functionality. 
+
+Normally it finishes around 12.15 at which point we break for lunch. In that break I place each of the committed cards back on the Board and the team return from lunch ready to start work by picking up their first cards around 1pm. 
+
+A considerable number of ways to generate insight (40+) also exist however the traditional methods include the 5 Why's which is extremely popular. 
+
+Agile is not the problem; how can it be since it is simply a set of values and principles about working collaboratively and prioritizing working software? 
+
+I hope I have provided sufficient detail for someone to answer or guide me in my learning. Have any writers touched on this aspect? 
+
+The typical cadence of a the Scrum ceremony is to host Sprint Planning and then at the mid-point of the timebox run a Backlog Refinement ceremony. The Sprint Review occurs at the end of the timebox as that is when the work the team committed to delivering is due. Finally a Sprint retrospective takes place to discuss improvements in the working environment and practices prior to the next Sprint.

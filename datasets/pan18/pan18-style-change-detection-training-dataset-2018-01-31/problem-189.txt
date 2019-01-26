@@ -1,0 +1,15 @@
+Then the thing is to backup one of those maps (the one with spawn/start area) and backup/rollback it frequently as you need, and use other map to let them fight. Some of those plugins also can give you chance to let players have separate inventories, separate chat and most important - separate permissions, if you use PermissionsEX or similar (per world permissions). All of those can be really handy, also they can separate pvp/nopvp, etc. 
+
+Also you can use scoreboards for the last thing, by tagging entities and adding them score for every command you do on them (for that you need chain commandblock that will operate the scoreboard) and then run command dependant on scoreboard score, as described here. 
+
+Therefore there is no Vanilla way, because you cannot catch click events or similar. All you can do is to read stats (like how many times you talked to villager), but it is kinda messy to use in real life. You would make better to let them press some pressure plate, iniciating redstone for /tellraw , it will be less painful to setup. 
+
+Please be aware that you should not create multiple entities with the same UUID, as they are meant to be unique. In 1.8, you will run into targeting issues, while in 1.9 entities with duplicate UUIDs will be deleted when loading the chunk. 
+
+Just as an example, the following will cause the skeleton to move into melee attack range of villagers in 1.9: 
+
+The following would simply test for the mob's existence, while you would invert the signal. If the mob was found, the signal will be off. If the mob dies, it will no longer be found and the signal is on: 
+
+Targeting As an example, the two skeletons to summon, each with a UUID: The error message might not be too useful since, when receiving it via a command block, it only concerns the last iteration of the command. In this case, the last item entity that had its NBT data checked. If the item you want found is indeed found, but there's another item lying around somewhere that's next in line to check, the error is going to be about that incorrect item even though the command was actually successful. To get the item from a "/give" style NBT format to a "/replaceitem" style JSON format, you have to actually change quite a bit: "itemName" is the name of the item, that's "elytra". That answers your main question, but you still have the problem that your repeating command block is still constantly spawning new dragons. You could open the world on a server with command blocks disabled, use NBTEdit, MCEdit or other tools, but in your case there's an easier solution: "components" is optional and you don't need it in this case. And since you're playing PE and not Java, you could only use "CanPlaceOn" (which is useless, because elytras can't be placed) and "CanDestroy" (which you don't want) anyway. Since you can apparently use commands, you just have to enter this command into chat: Your real issue: Since 1.9 you need quotes around the item ID: 
+
+"amount" is the number of items you want to have, since /give requires at least 1 and the stack limit of elytras is 1, only 1 is possible.

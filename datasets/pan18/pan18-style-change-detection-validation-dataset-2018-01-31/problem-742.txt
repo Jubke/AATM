@@ -1,0 +1,19 @@
+When the AJAX calls are done, there's a bunch of JS processing of the results to do and then two more images need to get loaded. 
+
+In implementing these types of overloads, you have several different techniques you can use: 
+
+Usually the jQuery library is not a good candidate for async because other scripts depend upon it and you want to install event handlers so your page can start responding to user events and you may need to run some jQuery-based initialization code to establish the initial state of the page. It can be used async, but other scripts will have to be coded to not execute until jQuery is loaded. 
+
+Eventually over time, the browser cache may fill up and toss the oldest things that haven't been used in awhile. So eventually, the images will get flushed out of the cache, but they should stay there for awhile (depending upon how large the cache is and how much other browsing is done). Everytime the images are actually preloaded again or used in a web page, it refreshes their position in the browser cache automatically so they are less likely to get flushed out of the cache. 
+
+Does one have a slighter higher cost? (Something like an extra pointer or something) 
+
+The only problem is that I keep adding more and more global functions/variables and they are piling up. I've got a few files but I'm unsure how to split some of the stuff up into separate files. 
+
+Background: In the current project I am working on, I have created a jquery plugin that creates a draggable 'google-maps'-esque map, made up of many tiles. Similar to how google map works, but without the zoom at this point. 
+
+Edit note: While I am a readability over performance nazi in most situations, in this case I am ignoring the differences in readability to focus solely on performance. 
+
+How do I get the row to align to the top rather than the bottom? 
+
+I've thought about composing some of these function and global variables into objects, but the object syntax in javascript seems a little awkward to me (because of the absence of classic classes). Though if I had a good example to follow maybe I could come around.

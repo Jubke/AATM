@@ -1,0 +1,55 @@
+There are different types of treasure goblins, and they seem to have different qualities of loot. 
+
+However, I would like to ensure that the monsters I am killing are the appropriate level for my character, and avoid going too far back and fighting mobs that aren't earning me some decent XP. 
+
+All three rings are back in Diablo 3 (plus a bunch more). 
+
+Edit: After quite a few more tests, ranging from chasing the Treasure Goblin (of a number of varieties) around, to beating them down before they could move more than a few yards, to killing them moments before they step through a portal, there is absolutely no discernible difference in the quantity or quality of items they drop. They always drop 1-4 magic items, plus gold, gems, and crafting pages/tomes (if you are high enough level for gems and/or crafting pages/tomes to drop). 
+
+Magic find can only be increased by the +magic find% affix on items, follower items, a topaz socketed in the helm, or from the implicit bonus to legendary drop rates from Torment tiers. 
+
+Your only options are to wait and see if someone buys it, or possibly give someone else (that you trust!) the money for the buyout, have them buy it, give it back to you, and put it back on the AH at a new price. Keep in mind that you will wind up losing money this way to the AH fees, however. 
+
+The inventory of followers you are not currently using can be accessed by dialog options with them in town. 
+
+Spirit Walk renders you invisible for the duration, although your "old" body stays where it was, and monsters can continue to attack it. If your "old" body suffers damage equal to 50% of your life, the spell ends early. 
+
+Each follower (Templar, Scoundrel, and Enchantress) has a special equipment slot just for these types of equipment. You can access these slots through the follower inventory screen. 
+
+The inventory screen can be accessed by clicking on the follower icon at the top left of your screen or hitting the 'F' key (by default) if you want to access the inventory of the follower you are currently using. 
+
+I encountered a Treasure Pygmy during Act 3 of normal, and, despite not killing him particularly quickly (certainly not as fast as I had killed some early treasure goblins), I had the extreme fortune of having 3 rare items drop from him. I'm not certain if this is simply an extremely lucky coincidence, or if the quality of the drops was influenced by the particular monster title. 
+
+The ability to cancel auctions with no bids was added in patch 1.0.4. Prior to that, the following historical answer was valid: 
+
+Surprisingly, it seems that Vitality does not impact minion health! Instead, strength and intelligence provide the primary means of survival to your minions: 
+
+Intellect test (Intellect increases physical resistance.) 566 Intellect 1164 Armor (41.28% DR) 57 Physical Resistance (25.60% PR) 
+
+What is the earliest area that I can fight monsters as a level 45 while still making progress towards level 46? 
+
+Per Travis Day (emphasis mine): 
+
+It does not seem to matter how fast you beat on them to determine the quality of the overall drops. The most important thing is to actually kill them before they open a portal and escape. The last drops upon death (and possibly right before death) are magic items, as opposed to gold, so it is well worth making certain you kill them. 
+
+Acronyms DR = Damage Reduction from Armor PR = Physical damage reduction form Physical Resistance 
+
+When Diablo 2 was first released, there was a sequence you had to go through in order to get the unique rings. In order to get the Stone of Jordan, you needed to first get the Manald Heal and Nagelrings. 
+
+Summary Gargantuan benefits from armor (strength) and physical resistance (intellect). The damage reduction was very noticeable. Vitality and Dexterity do not benefit pets. My tests show the gargantuan taking 8 hits to die only because of the extra armor from the gear, not from the stats. 
+
+In addition to the invisibility, run speed increase, and the ability to walk through monsters, it breaks every and all effects that restrict movement. 
+
+Update: Lylirra, Community Manager for Blizzard, has indicated that they are looking at pet durability, and they are considering changing minion health to scale off of vitality. 
+
+No, Paragon levels no longer provide a bonus to magic find. You can spend paragon points to increase your gold find, but it has no impact on your magic find. 
+
+Test Results No gear Gargantuan dies in 4 hits. 
+
+I'm looking to clear up some achievements while I'm doing it, so I'm considering farming some of the earliest areas of Act II, or possibly even late Act I, until I gain my level. 
+
+User Peter has done some testing and research and posted his results on the official forums. 
+
+Vitality test 574 Vitality 39.78% DR 11 Physical Resistance (6.03% PR) 
+
+Dexterity test 535 Dexterity 1135 Armor (40.75% DR) 11 Physical Resistance (6.03% PR)

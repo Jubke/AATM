@@ -1,0 +1,37 @@
+Who linked you to that website? 
+
+The offline activation tool seems to suggest you email support@securom.com and I suggest you do that. 
+
+ZoogieZork's comment and the offical blog post seem to imply that no, there is no gameplay difference indeed. Not yet, anyway. 
+
+The website seems legit, as it is referenced in a pinned thread by a moderator on the official 2kgames boards. 
+
+Get a Solid State Drive for your operative system and games if you can. It is the single best upgrade you can make. 
+
+Apparently, Steam installs an incompatible version of Games for Windows. Uninstall "Microsoft Games for Windows – LIVE Redistributable", "Microsoft Games for Windows Marketplace" and then reinstall them from here. 
+
+The page you linked could very well be a scam. 
+
+The graphics card, the ram and the cpu are certainly important when measuring performance -- but they only matter when they're not enough. If the current level fits in 300 MB of ram, having 2 GB or 8 GB doesn't really make a difference. If the game is designed to run at 60 fps, it doesn't matter if your cpu can run 70 or 200 updates per second. Finally, if your gfx card can render 9,001 fps at worst, all of that wasted on a 60 Hz display. 
+
+The second most limiting factor in gaming is, again, none of what you listed -- internet connection. It's not as much a matter of raw speed, even though all the autoupdating systems make it worthwile, as it is of connection quality. If your latency is too variable or if you lose packets, your multiplayer experience will just be bad. Those matter more than your raw ping/latency measure, because constant lag can be compensated within limits so long as your network is reliable enough. 
+
+Edit: The latest update (17-04-15) fixed the issue and workaround isn't needed anymore Edit2: The update seems to have not fixed the issue for everyone, especially AMD users. 
+
+The launcher is broken on laptops with graphics switching technologies, so until there's a patch or something, the launcher will crash every time you try to launch it with both gpu's enabled. 
+
+A temporary workaround is to go to Device manager, disable your dedicated gpu (in your case - AMD), launch the game and while the launcher is showing "Loading" enable your gpu back again. This will prevent launcher from crashing, while still allowing you to run the game with your dedicated gpu. If you don't get it right on first try, try re-enabling the gpu slightly later, timing is the key here. You have to do this every time you launch the game, except when restarting from within the game to apply graphics settings. 
+
+I made a video that shows when to re-enable the gpu 
+
+From PCgamingwiki.com 'Skyrim - General Crash Advice' article: 
+
+I don't know about the other checklists, but the ones listed here are useful (in my experience). You would need to try out different things (i.e. a checklist) to troubleshoot which one is causing the crashes. 
+
+It describes how to get those arrows by playing through a particular quest and "catching" the arrows. I am thinking that the same arrows can be added through console commands, instead. 
+
+However, I can't seem to find the equivalent key(s) on the PC, and can only access the Radio Assistance menu by selecting a resource crate and choosing to make a radio assistance call. So, another way of asking this question would be: What is the equivalent key for the Xbox 360 version's D-pad down button (Radio Assistance) in the PC version? 
+
+As of the 2013-09-26 update, this bug has now been fixed. Related changelog: 
+
+What about the other in-game skill increase rate-modifying Standing Stones (Warrior, Thief and Mage stones) or abilities like Ancient Knowledge (+25% Armor if wearing all Dwarven armor, smithing skill increases 15% faster).

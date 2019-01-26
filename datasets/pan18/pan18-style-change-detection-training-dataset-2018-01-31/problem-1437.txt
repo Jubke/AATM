@@ -1,0 +1,53 @@
+So no, you aren't missing anything, it's the developer who wrote that code who is. 
+
+I've searched my old pal Google for it, but the only reasonable things I found were academic level papers on the subject (English isn't my native, I'm good but not that good =( ). 
+
+To change all the times the class is referred to in the code to the new name Simply adding more code The point is to have each user a database for his own. 
+
+The problem is, I don't even know how to approach this monster! Here are the requirements: 
+
+If that's the case, can anyone point out what are the current up to date cryptography good practices in PHP? I've searched the web but didn't find anything that looked up to date/potential. 
+
+Anything else? I don't know, that's why I'm asking! :P 
+
+What should I do? Is there a better approach to this? 
+
+The problem: I want to preform the shift with minimal code alteration (to the source classes). I can extend the source class, but that would mean 
+
+P.S. this is done in actual production code, if someone is asking. This isn't some sort of challenge or homework. (It's not really rock-paper-scissors, but you get the point). 
+
+The golden rule: only give PHP what PHP needs to work, and nothing more. 
+
+Database Structure: Fixed Tables: teachers 
+
+So it's called once when the object gets created, and another time when you explicitly call it. 
+
+The first. (This approach is called Dependency Injection). 
+
+The constructor asks for whatever the object in questions needs in order to work. This way, it's pretty clear from the methods alone (what they need, and what they return), what it does. Without even looking at the source code. 
+
+I think AJAX is the solution, but I just can't get my head around it. (I can't get to the same object instance). Thanks in Advance 
+
+So I'm making this web application in PHP, and I wanted to make a decent model layer (as much as possible) with Domain Objects and Data Mappers, all orchestrated by Services. 
+
+Advantages of Dependency Injection * Disclaimer: No kittens were harmed during the manifestation of this answer 
+
+You cannot have statements inside of property definitions. Use a constructor instead: 
+
+LET ME JUST CLARIFY, MAKING THE USER PASS LOGIN SYSTEM IS NOT THE PROBLEM, THE PROBLEM IS TO EXTEND THE CODE TO ACCOMMODATE THE MULTIPLE USER ENVIRONMENT 
+
+This will prevent situations when your system needlessly clogs on the PHP process, and will also assist you in finding bugs (A script that takes 1GB of memory is unusual, and giving a 2GB of memory limit will hide that). 
+
+You can also use the following: 
+
+It is technically possible to use return values from constructors, if you call the function directly 
+
+Your best bet is the RandomLib library by ircmaxell. 
+
+Let's say I have the following structure: 
+
+Indeed you are correct. Nothing can be done with the return value of a constructor (aside from using the Object it created). 
+
+And now I'm thinking, how should I create my objects? 
+
+I'm trying to make a theoretical web chat application with php and jquery, I've read about long polling and http streaming, and I managed to apply most principles introduced in the articles. However, there are 2 main things I still can't get my head around.

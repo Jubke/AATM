@@ -1,0 +1,53 @@
+Why do we even posit such a fictional subordinate clause that never really existed? You could argue against this practice. But I think the main reason is semanto-pragmatic; that is, it cannot really be proven syntactically in any way. We somehow presume that there is in language a "standard" model of expressing an agent and a situation that the agent applies a modal opinion to, and that this model is a main clause with agent plus modality, followed by a subordinate clause containing the situation. 
+
+Criterion D (has no object) is a bit circular, so perhaps that should be removed from the list all together and merged with criterion E (passivize): the latter will serve to prove that something is or is not an object in any case. If I use "a mile" as secondary complement, the sentence can be passivized, so perhaps it is not a copula; however, one could argue that the verb is used with a different meaning there, so that D/E do not apply at all, if we accept that walk cannot take a noun as a secondary complement. 
+
+Obviously in the history of a word both things can happen: 
+
+(Wikipedia doesn't have a separate grammar article for Albanian and doesn't have an article on adjectival articles) 
+
+A borrowing or loanword is when a word from language A is added to the lexicon of language B, with whatever phonological adaptations are necessary. 
+
+I'm currently studying the Georgian language and it has quite a few interesting properties not common in more well known languages. 
+
+Before the beta I would've thought questions like this one would be such basic concepts that most contributors would be familiar with them. But after a few questions on gender and animacy it seems that some people do confuse the two even here. 
+
+Semivowels can function as either vowels or consonants, depending on their context (what comes before and after them). 
+
+Idioms were a special class of set phrases whose overall meaning is not transparently based on the sum of its parts, such as red herring and to kick the bucket. 
+
+But should I call these "properties" of a verb, "charecteristics", "features", "categories"? Is there one term which is mostly used as a cover term for these and other verbal concepts when considered as a whole? 
+
+From the Wikipedia article Georgian verb paradigm: 
+
+But what I'm wondering with this question is whether the concept of version is also used in any other languages. Kartvelian isn't known to be related to any other language families, but it is in a Sprachbund with other Caucasian languages and often terms in linguistics and grammar are borrowed by people describing other languages, especially ones in a neighbouring area or studied by the same people. 
+
+Is there a term in linguistics for such pairs? 
+
+Being in Albania I decided to sit down with a word frequency list of the language and look each up so I would know some of the common words I see around me. 
+
+Strictly speaking, an ending / finite form is a kind of inflected form (finite inflexion), and an inflected form is a kind of suffixed form. Often, but not always, we use suffix to mean "non-inflexional suffix", because we already call inflected forms "inflected"— although inflected forms are also said to have inflexional suffixes in some contexts. "Inflected forms" normally does include all finite forms / endings. 
+
+Internally, however, they function mostly as verbs, in that they can have the kinds of arguments that finite verbs have, like subjects, objects, adverbial phrases, etc. Note that not every nominal verb can have all of these things in any situation, but in general they can have most. 
+
+Permansive comes from Latin permaneo, loosely translated as "remain in the same state, be permanent" (English remain comes from remaneo). It is considered equivalent to stative from what I saw in the literature, which indicates a verb expressing a state rather than a change. 
+
+F. If it can take a personal pronoun as a secondary complement, a copula must be capable of taking it in the nominative case in certain contexts, i.e. for the significant minority who choose to do so, especially in writing. In other words: if absolutely everyone would always use the accusative, it's not a copula. 
+
+The conjugation of a verb can mean two things: 
+
+But should I call these "properties" of a verb, "charecteristics", "features", "categories"? Is there one term which is mostly used as a cover term for these and other verbal concepts when considered as a whole? 
+
+I'm currently studying the Georgian language and it has quite a few interesting properties not common in more well known languages. 
+
+Being in Albania I decided to sit down with a word frequency list of the language and look each up so I would know some of the common words I see around me. 
+
+A borrowing or loanword is when a word from language A is added to the lexicon of language B, with whatever phonological adaptations are necessary. 
+
+Obviously in the history of a word both things can happen: 
+
+From the Wikipedia article Georgian verb paradigm: 
+
+Idioms were a special class of set phrases whose overall meaning is not transparently based on the sum of its parts, such as red herring and to kick the bucket. 
+
+Is there a term in linguistics for such pairs?

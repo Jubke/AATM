@@ -1,0 +1,43 @@
+The flop is K 5 2 (rainbow). Hero is thrilled with top pair and good kicker. He can beat pocket 10s, Js, and Qs, although he's dead to pocket As, Ks, and AK. Hero decides to bet $30 - doesn't want to get over-committed but enough that villain takes notice. 
+
+The turn is a Q. Hero is doing mental gymnastics, having turned two pair. Bets $70. Villain again pauses, noticing he has $85 left. Waits about 10 seconds and goes all-in. Hero confidently calls the remaining $15. 
+
+Hero is in early position; Villain is in late position. 
+
+Hero gets KQs and raises to $10. There were a couple callers before reaching the villain, who raised to $25. Action folds around to hero, who decides to call. Other callers fold so it's heads up to the flop. 
+
+Should Hero have called villain's pre-flop raise, re-raised, or folded? If you were the villain with QQ on the flop, how much would hero have to bet to get you to fold? 
+
+My thinking is that if villain missed, $30 is enough for him to fold. Villain thinks for about 30 seconds and then calls. This makes me think he either has KQ, KJ (so debating whether his kicker is good enough) or is hollywooding (but he didn't seem that type of guy). 
+
+If this is your first time playing in a home game, there are a few ways this could be a mistake. The first is cheating; there is a small, generally negligent chance that the dealer and player you are in against are working together. He could have KK, and the dealer could base-deal a third King. Even without knowing that you won't get an ace as well and still win, this makes the odds of you winning very slim. The second is if you will get paid or robbed before you leave the game. Consider a situation where you've been winning all night in a deep game and now sit with 2000BBs. Some home games let players buy in for the largest stack on the table, and if this player is playing on credit, the home game could give you a long run-around for getting your money. The player who loses to you could also have friends in the area planning on taking this money back. 
+
+You shouldn't be buying in with a stack that you can't lose. If you have $1000 to your name, you shouldn't be playing 5-10. Though it's still possible to win up to this amount. Consider you have $10,000 in your bankroll, and decide to take a very aggressive shot at 5-10 with 1 buy-in. If you lose it, you will move back to 2-5. But then the shot goes very well, and you run your $1000 up to $8000 or so. Most of the time, you should stand up. But let's also pretend it's a very soft table; someone is buying in for $1000 and losing it every hand with no sign of stopping. There may be a situation here that warrants folding AA against a different player; the value in the game so great that you don't want to leave, but you also don't want to take a 20% shot of losing roughly half of your net worth. 
+
+Hero (~315) - Been playing TAG; up $115. Played villain in one earlier hand; villain folded on river (I filled a straight, which he may have discerned). 
+
+Should Hero have called villain's pre-flop raise, re-raised, or folded? If you were the villain with QQ on the flop, how much would hero have to bet to get you to fold? 
+
+Hero is in early position; Villain is in late position. 
+
+My thinking is that if villain missed, $30 is enough for him to fold. Villain thinks for about 30 seconds and then calls. This makes me think he either has KQ, KJ (so debating whether his kicker is good enough) or is hollywooding (but he didn't seem that type of guy). 
+
+Villain (~140) - Seems like a good TAG player; plays few hands and plays them aggressively. Seems like a strong player; but not infallible. Looks a little like Gus from Breaking Bad FWIW. 
+
+The turn is a Q. Hero is doing mental gymnastics, having turned two pair. Bets $70. Villain again pauses, noticing he has $85 left. Waits about 10 seconds and goes all-in. Hero confidently calls the remaining $15. 
+
+Turns out our villain made his 1-outer on the turn, making a set of Queens. 
+
+if they call all three the EV is 0 = -1 -1 -1 +3 if they fold all three EV = 0 + 0 + 0 
+
+Variance happens. You need to have a proper bankroll to deal with it. 
+
+Turn fire again with an almost pot size bet. You have a flush draw and two over. You get another call. That is a very strong call. That does not fill in a draw so now you need to put them on a made hand like one pair, two pair, or even a set. JT is still a possibility. 
+
+You want to have an over pair to continue after the flop. 
+
+Even if villain thinks the king is good that is 12 outs 46 cards left (46 - 12) / 12 = 2.8 
+
+If KGB is going to slow play AA then I get checking the turn. 
+
+There is an optimal bluff rate from GTO (Game Theory Optimization). You bluff at a rate that call versus fold has the same outcome for your opponent. Set that EV (Expected Value) to zero and solve for the bluff rate. pot = pot size at start of river bet = bet as a fraction of the pot size bluff = fraction of bluffs EV = 0 = -bet + bluff(pot + 2bet) bluff = bet / (pot + 2bet) set bet = 1 (pot) set pot = 1 bluff = 1 / 3 so for every 2 winning hand bluff 1

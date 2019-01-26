@@ -1,0 +1,31 @@
+It's been months. Many months. Asking some questions. Answering many more questions. Thanklessly editing hundreds, nay, thousands, of vague and poorly-formed posts. Proving to all, far and wide, that you are the expert. That you know all there is to know about your chosen field. And finally, your hard work, your countless hours, your sleepless nights, have paid off. You have built up a nearly peerless reputation. You and your accomplishments are truly, as my old French teacher would have said, for-mi-dable! You are rolling in the Internet Dollars, having amassed bankrolls well into the thousands. 
+
+Here's the full transcript for those who care. (Please ignore the formatting of my initial message. I wasn't yelling. The bold/italic was added in later by an enthusiastic moderator.) 
+
+Edit: Just had a new idea: set up a special, one-time-only review queue to prepare for this split. Every existing MSO question would go into the queue. The queue prompt would be "Which site will this question belong on after the split?" Options would be "MSE" for questions applicable to the whole network, "MSO" for SO-only questions and "Neither" for questions that just ought to be deleted (plus, of course, "Skip"). 
+
+*Because, uh, you see, I'm about to join your ranks, and I would like to know what I'm getting into... Now - I can understand that even highly upvoted feature requests and bugs take time to be implemented, or might never get done. What I think you could improve is to communicate what your intentions are up front instead of having this stuff disappear in a black hole. The outcome of the flagging decline policy should be to have at the same time: 
+
+For example, we're looking at how many searches one makes before finding a page, and when they do, we want to track how search performed. While we could have done this through a 302 redirect, we decided that this solution would be cleaner and give users the best performance. It doesn't seem to have long-lasting value or to ask about a problem in a general enough way. It's very specific, because of the "no repeat" clause which adds no value - picking at random with no constraints is just as fair, so why would someone need to look for a more complicated version of something that already works? 
+
+What sites are there, similar to Stack Overflow, but in different languages? In fact, we believe so strongly that good candidates have a solid reputation of getting things done and that high-reputation point users are likely to be good candidates that we built a whole careers site dedicated to this. So: yes with all you say, but can I equally ask SE staff to take care to at least acknowledge highly-upvoted, short, self-explanatory meta requests? 
+
+Once we have established a baseline measurement, we'll be tweaking stuff and measuring objectively the effects of the tweaks. Atheists find offensive any talk about the origin of the universe which is in contract with the scientific view. I, as an atheist, certainly find any such talk offensive, but I hold my breath constantly trying to respect everyone's right to be wrong. Should I be allowed to go around and delete such content as offensive? It's a super simple question that shows no effort, nor it needs to be answered with an algorithm. Just pick a person somehow and redo if it's not acceptable. Unless we want to discuss how to generate random numbers, the rest of the answer is completely trivial. There's no need of an algorithm. If someone likes unicorns should we allow others to insult unicorns in their profiles? What about spaghetti monsters? 
+
+I find no fault in the current standard, as I don't see any valid reason to change it. 
+
+On the other hand, there are very many famous examples of awesome companies that use our reputation points-based profiles to recruit top developers, for example Facebook, Skype, Tumblr, Amazon, Moo, Coursera, etc. Some examples: http://segmentfault.com/, http://entredesarrolladores.com/, https://teratail.com/... 
+
+There is a difference between pointing an insult to you personally, and pointing an insult to something you merely believe in, namely that in the latter case it's well within the boundaries of freedom of expression ("This idea blows goats") and not in the boundaries of personal attacks ("You blow goats"). No, this rule is badly worded. Any such rule should be around the mens rea -- about the intentions -- and categorically not solely about the effect. 
+
+The extra parameter allows us to fill in "Score" and "Rank" in the rows of type "Result Click". 
+
+...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+What Joel says is true. His 50k figure is generous, even; only 2576 SO users have the Beta badge. However, I think he missed the key point of my question (which is understandable; he was getting hit with questions from all sides at the time). 
+
+untagged is back, and nearly 170 137 122 questions strong but we've whittled it down to a handful of questions from nearly 170, and four of those are already closed. On the surface, it looks like someone burninated interview-questions and what-language-is-this-code. Can I get some help editing the few salvageable posts and closing/deleting the rest? Way back in March 2011, when Joel had a random open chat session, I asked him this: Possible problems: gray-to-orange ink might be prohibitively expensive to use on a stein, might be toxic and might not even exist. Same for clear-to-green ink. 
+
+Should we be doing more to get existing expert communities to work with Stack Exchange? What steps can we actually take? *Because, uh, you see, I'm about to join your ranks, and I would like to know what I'm getting into... 
+
+I, for one, welcome our new reduced-humor overlords. An occasional joke is fine, but when I first came to MSO, all the in-jokes and memes were interfering with the actual purpose of the site.

@@ -1,0 +1,35 @@
+As you can see, this method of controlling who is allowed to access your site is both relatively simple to configure, and can provide powerful and flexible rule control. 
+
+Set your web server to listen only on localhost (Mark B has already covered this but to clarify): 
+
+I recently answered another question on SO where a PHP script was segfaulting, and it reminded me of something I have always wondered, so let's see if anyone can shed any light on it. 
+
+The URI is the location on the server of the resource we are requesting. In general, this consists of a path component, and optionally a query string. There are circumstances where other components may be present as well, but for the purposes of simplicity we shall ignore them for now. 
+
+My question is, does anyone know of a work around to this, that will work in PHP 4.3.10? I know this can be done in PHP 5.3+ with closures (or I assume it can, I haven't actually tried) No versions of PHP to date support doing this with closures, but can anyone think of a work-around that does not rely on this, baring in mind that it is the method name that is important here? 
+
+A POST request, unlike GET and HEAD, can (and usually does) include some data in the body of the request message. This data can be in any format, but most commonly it is a query string (in the same format as it would appear in the request URI) or a multipart message that can communicate key/value pairs along with file attachments. 
+
+So it may not always point to where you want it to. 
+
+A hypothetical question for you all to chew on... 
+
+PUT requests should exactly compliment the response to a GET request - they send you the file contents in the message body, and nothing else. 
+
+This is the second most commonly used method, and arguably the most complex. POST method requests are almost exclusively used to invoke some actions on the server that may change its state. 
+
+The problem that you are having, I suspect, is that only the checkboxes that are checked will be passed back to the server, whereas all the hidden fields will always be passed so the lengths of the arrays will differ and the keys wont correspond. 
+
+When converting a binary string back to the decimal representation of a CIDR prefix size, I am currently using the code below. I have another very similar block of code when validating a subnet mask provided in other formats to ensure the set bits are contiguous. 
+
+This is by far and away the most common method in every day usage. Every time you load a regular document in your web browser it will be a GET request. 
+
+The generated HTTP 1.1 request will look (at a minimum) like this: 
+
+Off the top of my head, the only place in fairly common usage that I can think of where this is used is when opening documents in Microsoft office directly over HTTP from Internet Explorer - Office will send an OPTIONS request to the server to determine if it supports the PUT method for the specific URI, and if it does it will open the document in a way that allows the user to save their changes to the document directly back to the remote server. This functionality is tightly integrated within these specific Microsoft applications. 
+
+HTTP 1.1, the form of the protocol that is almost exclusively in use today is built on top of HTTP 1.0 and was designed to be backwards compatible with HTTP 1.0 implementations. It was standardised in 1999 with RFC 2616. If you are a developer working with HTTP, get to know this document - it is your bible. Understanding it fully will give you a considerable advantage over your peers who do not. 
+
+The POST method is semantically incompatible with RESTful APIs because it is not idempotent. That is to say, a second identical POST request may result in a further change to the state of the server. This contradicts the "stateless" constraint of REST. 
+
+HTTP works on a request-response architecture - the client sends a request message to the server, the server returns a response message to the client.

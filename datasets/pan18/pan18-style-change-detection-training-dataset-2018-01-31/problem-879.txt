@@ -1,0 +1,23 @@
+For example, perhaps in this case the cost to the down-voter should be increased to -2 unless they provide a (possibly anonymous) comment, in which case it's -1 or even 0. which implies that no one gets any reputation, but the linked question is the "What are "Community Wiki" posts?" one I mention above. The questioner doesn't get a +2 for accepting a CW answer. I know you've implemented the "have you considered an explanation" to the down-vote button for lower rep users, but with the greater cost you might need a greater nudge. NOTE Since I wrote this answer the situation has changed and the association bonus should be automatically applied once you pass 200 points on any site. As you are increasing the penalty of a down-vote I think you ought to strengthen the "nudge" that prompts people to explain the down-vote. What are "Community Wiki" posts? No reputation from accepted answer How does accepting an answer work? Rather than 1 point for a single up-vote on a comment perhaps if it was 1 point (or 5 points) for 10 or more up-votes that might work. Once you have 200+ points on one site you can clear the associations and then regenerate them. This will give you the 100 point bonus across all sites. Having said that, I'm not in favour of rep for comments. It would change how they were seen and used. They are there to ask for clarification etc. and as such can become obsolete and should be deleted. If they earned reputation people might post even more "clever" comments to try to earn that reputation. I have not been able to find a definitive answer, neither this answer: I'd only go for it if there were a really convincing argument that it would work. select top 200 TagId, AVG(ViewCount) as AvgView 
+into #tags
+from Tags t
+join PostTags pt on pt.TagId = t.Id 
+join Posts p on p.Id = pt.PostId
+where p.CommunityOwnedDate is null and p.ClosedDate is null
+group by TagId 
+order by count(*) desc 
+
+
+select TagName, AvgView, cast(Avg(p.Score + 0.0) as numeric(4,2)) as AvgScore, count(*) as Total 
+into #t
+from Posts p
+join Posts q on q.id = p.ParentId
+join PostTags pt on q.Id = pt.PostId
+join Tags t on t.Id = pt.TagId    
+join #tags tt on tt.TagId = t.Id
+where p.CommunityOwnedDate is null and p.ClosedDate is null
+group by TagName, AvgView 
+order by Avg(p.Score + 0.0) desc
+
+
+exec spShog9 Note: we added a few more checks and balances There has always been the threat to implement the generalist badge, personally I think it would be a good idea to have both a silver and gold generalist badge. The tricky thing is figuring out who should get it. As to visibility, this is tricky business, at the moment when a post is deleted we make no announcements anywhere to the offending user. It just vanishes. This strategy has some advantages cause it avoids a lot of the "NOT FAIR, my post was deleted" kind of support issues. If people are aware that the horrible "-1" vote cost, horror of an experience, will dissipate when the post written by a clown, that makes no sense and never will, is deleted - perhaps they will be more inclined to bite their tongue and cope with the horrific -1 temporary reputation loss. In turn this would make our auto-banning asker thingy on SO more effective. On the flip side, in case of migrations, notifying the user may be a good thing as them may discover and participate in another site due to this. I would argue that the system already does, if you are only willing to answer questions in your tight domain, the pool of questions available to you is a lot smaller than going wide. That said, there are some obvious advantages to forcing a partial recalc when a post is deleted. A full reputation recalc is expensive business, even if it is only to affect a handful of users. Also it is kind of jarring to randomly feel like you are losing/gaining rep for no obvious reason. It is very side effecty as it may cause rep to be lost or gained for unrelated posts.

@@ -1,0 +1,49 @@
+Compare: I tied my shoelaces in the washroom/at school/during recess. 
+
+I'm thinking Romance object clitics might be a similar case, but as you can see here, it mostly happens to interrogatives and negative declaratives in Classical Chinese. *吾之見矣。 (*I him see {declarative modal particle}), for example, is ungrammatical (at least I think so), while Je le vois is not. 
+
+Dixon, R. M. W. (1972). The Dyirbal language of north Queensland (Vol. 9). CUP Archive. 
+
+Here are some examples of constructions that would not be allowed in English: 
+
+Whenever you introduce a node in a syntax tree, you should ensure that the material it dominates form a constituent. In your tree, it's not at all clear that 'the founder of' is a constituent. 
+
+Because 'him' and the subject of 'exercise' co-refer, sentences like (1a) were naturally reanalysed as something like this: 
+
+EDIT: To clarify: I'm not looking for crosslinguistic studies regarding canonical/unmarked A-N order and other word-order parameters. I'm looking for crosslinguistic tendencies of factors that explain adjective-noun order variation within languages (for example, is it common for colours to go after and size to go before, in languages with variable A-N order?). 
+
+It is also not clear from your question what you mean by "syntax", especially the extent to which you specifically exclude lexicon, morphology and phonology from consideration. As I understand it, minimalist syntax has relatively little by way of rules of syntax, and much of the work is shifted to the lexicon (also a feature of HPSG). Supposing we agree that *"I need" is ungrammatical, is that a fact represented in the syntax, or in the lexicon? 
+
+With this background: in what languages is case assigned to elliptical NP answers in the same way as it is to NPs integrated into a full S; in what case languages are elliptical answers given some default case form; and in what languages do you get both patterns, depending on some other factor? 
+
+kémóórí kɪ́rítú !chééné "the heavy calf" 
+
+Their section 2.3 presents a series of empirical arguments against TM; for instance, "John is being easy to please" would have to come from "*To please John is being easy". (Their arguments are this "progressive" argument, the "try" argument, the indefinite NP argument, the intentionality argument, and the modal argument"). Overall the argument does not appear to be theory-driven, i.e. they aren't arguing that we have to get rid of TM because it violates some valuable grammatical principle, it just that raising doesn't work. 
+
+Alright, Greg hit the button before me. But, case is a morphological modification of a word -- not necessarily a suffix, so it could be a prefix, infix, or "mutation". 
+
+Finally there is the question of the semantic function. There are a number of distinct demonstratives in the language, such as /yI-AGR/ "this (visible)", /AGR-nʊ/ "this (possibly not seen)", /yI-AGR-o/ "that (relatively close)" and /AGR-ra/ "that (very remote)", which express notions of physical proximity. /-éné/ on the other hand signals that the referent is known from the discourse, and functions to tell the interlocutor that the thing in question is known from the discourse. 
+
+Many complex predicates are historically derived from serial verb constructions. This is not only true of the Sinitic family. For example, in Saramaccan (Byrne 1987, as cited in Givón 2009): 
+
+and thus, since [for + NP + to-infinitve VP] is now a nominal constituent, we can have sentences like this: 
+
+Though BillJ is right in saying that full NPs have no case in English, I think your question would become valid if we replace the full NPs with personal pronouns: 
+
+Cleft: It is [of the Church of England] that he is the founder. 
+
+Because 'him' and the subject of 'exercise' co-refer, sentences like (1a) were naturally reanalysed as something like this: 
+
+Harris, A. C., & Campbell, L. (1995). Historical syntax in cross-linguistic perspective (Vol. 74). Cambridge University Press. 
+
+Compare: I tied my shoelaces in the washroom/at school/during recess. 
+
+You wrote about the claim 'that Chinese words can mostly be used as any part of speech.' While the claim is untrue, I can see why people fall for it. 
+
+Edit: Givón also mentioned that verbs spread their modal scope over object NPs (p. 304). Since 'a teacher' is not an object, the test doesn't really look at it. 
+
+The situation in English is murky because only pronouns are marked for case, though any NP can be marked with -s. Pronouns are nominative (I, he, her, we, they) when they are subjects (“I/*Me went to the store”) though in a subject conjunction, it is optional – “Tom and I/me went to the store”). Otherwise (and when not possessive), the accusative form is used. In eliptical answers, the accusative is used, except when a genitive would be called for in which case you use the “absolute” possessive form or -s if the answer is an NP. So, 
+
+That would be a mistake, IMO. "Case marking" has a specific meaning, and presupposes that a language has case (e.g. "nominative", "accusative" or whatever). There is some relationship between case and thematic rule / grammatical function, but they are not the same thing. 
+
+Now, the term "case" is conventionally used to cover a particular X,Y relationship. The "means of signalling" is diverse, but can be covered by "concatenation of elements", cashed out as an affix or near-affix (like a clitic), or an abstract feature that may spread through a phrase: it would not include governance of verb agreement or word order. The "thing signalled" is about a relationship between a nominal and other things -- back to the open-ended thing. First, that relationship can be just semantic, not structural. A simple example is that one-word answers to questions about subjects take nominative, about objects take accusative, about locations take locative, and so on, in Saami and Russian (as I understand), and maybe in most languages (not all). Second, in a number of Iranian languages, the relationship between elements in an NP, i.e. nouns and adjectives, is marked with an "Izafe/Ezafe" suffix -- so it's not just about NPs and other NPs or VPs. And sometimes a case can't really be said to mark a relationship between a nominal phrase and something else -- so in Saami, the essive case expresses notions like "Being an N", "As as N".

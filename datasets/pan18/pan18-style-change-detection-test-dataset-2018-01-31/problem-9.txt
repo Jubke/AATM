@@ -1,0 +1,35 @@
+So, why does anyone use consumed points? The people who do it often have reasons, and those reasons generally fall into a couple of common categories. 
+
+Options for Compromise With the Product Owner Sometimes the problem is the story being estimated. A key point here is that all stories must be estimated to see if they fit within the current sprint, but the stories you estimate don't have to be verbatim copies of the current Product Backlog items. 
+
+Estimate your initial project backlog in story points. Sum all the story points; that's your numerator. Use the mean of your historical or guesstimated velocity as your denominator. Divide your story points by your velocity to get the number of sprints you expect will be needed. Multiply the number of sprints by 40 hours per week per team member to get your labor cost. Add capital costs, equipment costs, maintenance costs, training costs, or other items that might be charged against the project. Report the final total as a range with formal or informal confidence intervals. This method gives a reasonable picture of the planned budget while still computing the Project Backlog in story points. This method doesn't rely on any awkward or misleading points ↔ hours conversions. 
+
+Consumed Story Points: An Agile Anti-Pattern "Consumed points" are a sort of burn-down metric that some practitioners use to track progress of a story against its original estimates. It's intended to show percentage of work completed, estimate overruns, or to reduce the need for collaborative communication about story status. 
+
+Targeting an indefinite upward trend on velocity is a "project smell" that the velocity metric is being misused or misunderstood. Expecting such a trend is often a symptom of management's desire to press a "go faster" button without respecting the sustainable-capacity limits of a project or team. 
+
+TL;DR For agile projects, a basic formula for estimating budget is: 
+
+Planning Poker Can Have Multiple Rounds As explained on planningpoker.com: 
+
+Estimate Budget Using Iterations The "secret" to estimating agile budgets is to estimate the number of iterations needed to clear the backlog or reach a release milestone. For example: 
+
+The real reasons people use this post-hoc metric are: 
+
+Velocity Measures/Forecasts Capacity Velocity is a measure of a team's historical capacity, rather than a directly-correlated measure of the team's speed or productivity. It should be used primarily during Sprint Planning to forecast Sprint Backlog capacity for the upcoming Sprint. 
+
+Some options for compromise include: 
+
+all you've done add a new time-based (and largely unsubstantiated) forecast on top of the original level-of-effort forecast. Experience shows that this is rarely accurate, and almost never worth the time to track. "Done" or "not-done" are the coins of the realm in agile frameworks! 
+
+The point is that you can keep re-estimating as long as opinions are converging. The key, of course, is that people need to talk about why their estimates are outliers, so that the team can consider this information when re-estimating each round. If you still have outliers after discussion has been exhausted or when the time-box has expired, then you have to use your team's defined process to find a reasonable compromise. 
+
+TL;DR Much of Scrum's value to an organization is in creating transparency. 100% agreement isn't the real point of planning poker; the goal is actually to narrow the cone of uncertainty around feature estimates as much as possible, and to make the level of effort and potential project risks of each story visible to stakeholders through their chosen proxy, the Product Owner. 
+
+In a Retrospective, it's perfectly reasonable to say something like: 
+
+However, a Sprint is an ephemeral time box. Once the Sprint is over, it's gone forever. Either the Sprint Goal was met, or it was not. Either a story was completed in that Sprint, or it was not. Six months later, does it matter whether a given story was easier or harder to complete than originally planned? Of course not. 
+
+However, it's a fallacy to assume that capacity can or should have an upward trend. Even though the cone of uncertainty narrows later in a project, the cost of technical debt and refactorings generally increase, and these factors consume team capacity as well. In addition, it is not uncommon for the complexity of user stories to increase over time as the low-hanging fruit is picked from the Product Backlog. Again, this added complexity will consume a commensurate amount of capacity from the team. 
+
+Created, reviewed, or revised during Sprint Planning. Discussed during Sprint Retrospectives as a way of refining the team's estimation and planning process. Discarded along with the time box, except as an aggregated total for use in the velocity metric. Let's look at a concrete example, and discuss why people may use consumed points and what they should do instead.

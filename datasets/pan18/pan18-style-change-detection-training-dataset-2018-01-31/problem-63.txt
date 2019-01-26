@@ -1,0 +1,29 @@
+Any ideas would be greatly appreciated. 
+
+Does that make sense? Any thoughts? 
+
+Can anyone recommend a format for facilitating a definition of done meeting ie, a meeting to define the teams definition of done. I an an Agile Coach and Scrum Master for a development team. The PO has started to create more granular stories but now the opposite is occurring, there are too many code dependencies between different stories e.g. one dev pushes a story to done, another dev picks up the new story and its so tightly dependent that they both need to unpick the original code and or struggle to merge code. 
+
+A couple of weeks ago the stories seemed to be too big i.e. they were dragging along / staying on the board for weeks. For example: I make the team brainstorm what went well, what did not go well in the data gathering stage, then do I simply set that aside and move onto a data insight exercise which also, in it self, requires the team to write a bunch of ideas down. Gathering Data and Gathering insights, seem the same as I cannot imagine some of these exercises would work if you did both a gathering data and generating insight exercise. One of my teams is struggling with user story sizing. 
+
+One of developers has become impossible to work with because of her attitude towards in particular me and I am not sure how to handle it. Does anyone have any suggestions? 
+
+Some of the generating insight exercises require you too...gather data! Very confusing. Are people using both of these stages in retros? 
+
+I was thinking of first looking at artefacts and then associated a checklist with each eg epic, story, release and then definition of done for each of those. 
+
+I am reading a book called Agile Retrospectives and the author suggests splitting retro's into 4 stages. Two of the stages seem so similar: 
+
+Any advice would be most welcomed! I have only been working with this team for 3 weeks Team member has said that I have a boring approach to coaching the team and that the previous coach was more fun Team member speaks up and criticizes every single initiative I present to the team Team member questions everything and flails between arguments. She doesn't fight one particular point or point of view, she fights for the sake of fighting. Team member is not a team player and is unwilling to work as a team, very arrogant and always tells the team that she is always right. Team member is not professional at all. Other team members from other team members are difficult, but they are at least professional. I would use an analogy for this team. Imagine a bunch of football players who were not interested in playing a game of football, they just wanted to kick the ball around. Now add me, their coach. I am at odds as I presume this is my job to sort this out. 
+
+You have a basic process failure if the first time your management team reviewed the product was shortly before release. In particular, your organization failed to meet two of the core principles behind the Agile Manifesto. Specifically: 
+
+Your General Options In an agile practice, you can generally choose between: 
+
+Should the story be two points, or thirteen? That's up to the team. Maybe the whole story is really 13 points overall, or the team discusses it and realizes that the story really ought to be 21 points once they factor in the need for an emergency medical team to be kept on standby. Then again, perhaps the team decides to reduce uncertainty by switching in a five-point Vorpal Sword story as a prerequisite, which reduces the Jabberwock story to only eight points in the next sprint. 
+
+When done properly, the stand-up helps the team to collaborate effectively. The information shared during the daily scrum informs one's teammates about: 
+
+There is no silver bullet. Make sure you're solving for X, rather than Y! Formal Task-Level Tracking is a Project Smell Because the goals for the stand-up are coordination and collaboration, it is expected that the team members will informally track the pieces of the day's increment that impact them. Turning daily task-tracking into a formal ceremony serves no purpose other than micromanagement. 
+
+This smacks of an X/Y problem, where X (the real problem) is likely to be an executive mandate to "do more with less" without prioritizing projects based on both business value and resource constraints. However, you or your organization may have decided to solve for Y by looking for a silver bullet that will make the impossible possible.

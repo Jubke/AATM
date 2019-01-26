@@ -1,0 +1,67 @@
+To narrow this down, I performed the following analysis: 
+
+NCAA (college) rules are slightly different--the player needs only one foot to make contact inbounds for the completion. 
+
+Rule 8, Section 1, Article 3, Item 6 in the NFL Rule Book addresses this. 
+
+Using one example of a simple technique based on the scarcity of combined final scores and individual final scores, 54-44 is the least likely of those that have occurred in the Super Bowl Era. 
+
+Regarding the Carried Out of Bounds rule from the NFL, I could not find any references that suggests this also applies in college. 
+
+According to Pro Football Reference, there have been 191 different combinations of final game-scores that have occurred only once in the Super Bowl Era. 
+
+If a receiver catches the ball but is carried out by a defender before he can land both feet inbounds, the pass is complete. 
+
+Rule 2, Section 4, Article 1 of the NCAA Football Rulebook: 
+
+edmastermind29's answer is correct, save an exception. 
+
+Count all instances of each winning-team final score Count all instances of each losing-team final score Multiply respective frequency values for winning-team and losing-team final scores by the "Occurance" value provided by Pro Football Reference For each final game-score, sum the winning-team and losing-team results from step 3, creating a Combined Occurrence Frequency Filter all final outcomes to those that have occurred only once Filter all Combined Occurrence Frequencies from step 4 to the lowest value Results: 
+
+Peyton Manning was another player mentioned in this discussion and out of curiosity I wanted to check to see if his absence was as big a deal as it was made out to be. In 2010 Peyton had a WPA of 2.89 (7th among quarterbacks). His replacements in 2011 combined for a WPA of -.56. A difference of 3.45. WPA suggests that Indianapolis would have struggled in 2011 regardless of Peyton's absence (This suggests they only would have won 5-6 games). 
+
+ESPN, SI, YSports and many other organizations put out their own Power Rankings. These rankings have absolutely no importance whatsoever to determining league championships. 
+
+I've noticed that sometimes an offensive lineman will seem to get down in his stance but then stand back up to listen to the Quarterbacks' audible. 
+
+With respect to intent, College football polls are used to rank teams, and have long held importance in both determining who is who in the league, and in generally determining who is the better team. Power rankings have never had much importance and at best are the stuff of Sunday afternoon BSing in bars. 
+
+edmastermind29's answer is correct, save an exception. 
+
+To narrow this down, I performed the following analysis: 
+
+If a receiver catches the ball but is carried out by a defender before he can land both feet inbounds, the pass is complete. 
+
+Count all instances of each winning-team final score Count all instances of each losing-team final score Multiply respective frequency values for winning-team and losing-team final scores by the "Occurance" value provided by Pro Football Reference For each final game-score, sum the winning-team and losing-team results from step 3, creating a Combined Occurrence Frequency Filter all final outcomes to those that have occurred only once Filter all Combined Occurrence Frequencies from step 4 to the lowest value Results: 
+
+Regarding the Carried Out of Bounds rule from the NFL, I could not find any references that suggests this also applies in college. 
+
+NCAA (college) rules are slightly different--the player needs only one foot to make contact inbounds for the completion. 
+
+Rule 2, Section 4, Article 1 of the NCAA Football Rulebook: 
+
+According to Pro Football Reference, there have been 191 different combinations of final game-scores that have occurred only once in the Super Bowl Era. 
+
+Using one example of a simple technique based on the scarcity of combined final scores and individual final scores, 54-44 is the least likely of those that have occurred in the Super Bowl Era. 
+
+Rule 8, Section 1, Article 3, Item 6 in the NFL Rule Book addresses this. 
+
+I've noticed that sometimes an offensive lineman will seem to get down in his stance but then stand back up to listen to the Quarterbacks' audible. 
+
+There are a number of factors here, but let's examine what the two are, so we can make sure we know how apples to oranges this comparison really is. 
+
+Additionally, there is a specific excpetion for the holder on a scrimmage kick 
+
+These lists are compiled, and posted on major sports websites. Until this year, these polls were factored into the computer rankings that determined which two teams would compete for the national championship. This year, four teams will be selected to compete, and these polls may or may not factor into the decision making process. 
+
+This seems to indicate that you get the best pick available from the team signing the player you've tendered. 
+
+College rankings sort of matter. NFL power rankings don't at all. 
+
+As to why they differ dramatically in how they move teams about, it actually probably has a lot to do with their intent, but also how the post season in each league is structured. 
+
+But when he is in his stance and merely twitches its called for a false start. 
+
+This requires a great deal of good will from both your NFL and MLB teams (and obviously sufficient star power in both sports for them to be willing to let you have this much flexibility). 
+
+However, this kind of schedule takes a toll. Sanders eventually chose football, Jackson eventually chose baseball.

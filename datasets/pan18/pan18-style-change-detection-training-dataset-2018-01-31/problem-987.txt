@@ -1,0 +1,17 @@
+As far as I can tell everyone has treated you politely and done their best to help you out, despite your best efforts to ignore everything that everyone has been telling you about where to ask your question. You have yet to ask the question where you have been told you should have asked it. 
+
+At the end of the day, SO isn't a place for software recommendations. People go there because they want to answer (or find answers to) specific, practical, objective programming problems, not to provide or get software recommendations. People looking to provide or seek out software recommendations go to Software Recommendations. That more people are interested in answering practical programming problems than software recommendations doesn't make asking people uninterested in software recommendations to recommend software. For a while now we have had a filter for new questions that doesn't allow them to be posted until they pass a filter that checks for certain mistakes indicative of very low quality questions. Recently this filter has been altered to be more strict. After that you posted it on another wrong site (Programmers); not the one that you were told you should post it on (Webmasters). It was, entirely correctly, understandably, and politely, closed. You knowingly posted it on the wrong site here, I have no idea what else you could expect. You even got a brief answer to your question anyway. I think the proposal lacks a very important part: old posts and updated posts. In short: this proposal isn't ready yet! Okay, there will come a FAQ entry in some time, but how things are handled should be discussed now, and not in some time in the future. We all need time to go over it. In my opinion, old posts should have the old license. An indicator of which license is applicable would be very nice then. 
+
+So why did he do it then? Maybe for the badges (if he doesn't have them already), which I find highly unlikely looking at the user's reputation (not the site reputation, but the way we know him here on SE for his positive contributions). 
+
+I am worried about the privacy and security implications. One can track users visiting that post by hosting the images. Is this something to worry about? And if so, how to handle this? 
+
+Votes Tab is Back from vacation. It took a long term vacation so it could come back, bigger, stronger and betterer. 
+
+For these shadow answers, editing should be locked (and only accessible on the original question, so we do not create fragments) 
+
+Getting into comment wars, which is easy to slip into, is a horrible mistake to make that only leads to pain, suffering and general sadness. Our engine was not designed for extended off topic chats, for that with have chat. It is ... complicated but this is what it looks at: It is very hard to make the argument that using extreme evil to battle evil makes the internet better. 
+
+Upvotes Downvotes Delete Votes Undelete Votes Closure Votes Reopen Votes I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days. 
+
+If it is accepted by the OP clearly the question is a duplicate, so the system can close it.

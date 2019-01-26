@@ -1,0 +1,79 @@
+And here's the screenshot with the "Beta" name search: 
+
+In this two examples, what could be the Pros and Cons? Are there any? 
+
+I was reading about the followers on D3 and saw this: 
+
+Lyndon is primarily a ranger, comparable to the Diablo II Rogue. He has some other tricks as well, like blinding power. 
+
+Also inside /Users/Shared, there are 2 folders called: Battle.net and Blizzard. They are created after you install any Blizzard Game like WoW or SC or Diablo. I don't recommend to your remove those folders, unless you are going to stop playing Blizzard games. 
+
+If an Axe drops for my Monk and I want to link it to my party or Battle.net chat, how can I do this? Is there a shortcut like Wow? 
+
+Every time he tries to install Diablo, he change to drive A but it says "invalid directory" and doesn't save anything there, but instead, it suggest the drive C (where there is no space left). 
+
+- Should I play solo games to avoid the extra damage/health? 
+
+Could it be because A is originally for Floppy disk? How could he fix it? 
+
+When a Demon Hunter is using a crossbow, he can use a shield or even another crossbow in his off-hand at the same time. But when he equips a bow, the shield is removed, and the spot for off-hand item show a quiver for arrows. 
+
+- When is the best moment to change from difficulties (normal to nightmare to hell to inferno)? 
+
+Total Jeweler Leveling Cost and Materials Source 
+
+Aside from the Diablo III "Beta Setup" that is in my Download folder, there is "diablo3_beta_enus-driverinfo.txt" that is in /Users/Shared/Battle.Net/Client/Blizzard Launcher.1454/Support 
+
+I'm starting a Hardcore hero and I'm wondering, what should I do and what should I avoid? I never played Hardcore in Diablo2 so, there is a "hardcore for basics tips" that I'm not aware of, or is just felling? 
+
+My friend is trying to install Diablo 3 in his windows 7. But he kind of messed up a little with his partitions. 
+
+Then I start wondering which class is each follower, and saw this: 
+
+But it does create fill .txt files that are not part of the installation. Here is a screenshot of my Mac with all files with "Diablo" in their name. 
+
+While playing D3, I got some good Fist weapons with my monk, but even better swords, axes, etc. 
+
+There is a file that saves your preferences called D3Prefs.txt the location is: /Application Support/Blizzard/Diablo III 
+
+Should I pick Fist weapons even when they do a little less dps than, for example, a sword? 
+
+I cleared the beta (killed the Skeleton King) twice with my Demon Hunter, and didn't get either of these achievements. 
+
+So I chose the one who give me more dps, even using dual-wield. 
+
+Here is a list that I found of unique class gear. 
+
+Can someone provide the principal consequences in dying as a Hardcore in Diablo 3? 
+
+Aside the above information, there are reports about pages droping in ACT IV normal.¹² 
+
+I am Abd al-Hazir, adventurer, scholar, and researcher. I share my knowledge of this incredible world and its creatures through my insightful missives, often at grave risk to myself. Why, I was recently in Khanduras, where my tents were ransacked by vicious quill fiends! I was able to beat them off with a shoe, but a less bold man would've been fared for worse. 
+
+You unlock the jeweler like you unlock the blacksmith, by doing the quest line. 
+
+Is there a way that I can search for sets only? 
+
+All his files (and also extra space) are in the drive A, but his OS (windows 7) is running from drive C 
+
+Most Mac OS X applications (anything that ends in .app), like Safari and iTunes, are bundles. The application icon you see in Finder (typically the Applications Folder) is usually a special folder itself, made to appear as a single double-clickable file. These "folders" contain all, or at least most, of the files needed to run the application, ie they are self-contained. This means that to uninstall these applications, you only have to drag them to the Trash. If you control-click (or right-click) on an Application icon, and you see "Show Package Contents", then it is a bundle. 
+
+As you can see, there there is no option for sets (The green gear or tier, if you are used to Wow). 
+
+The Jeweler is unlocked in the ACT II after the 7th quest of that ACT ("Blood and Sand").¹ 
+
+Where can I go to get these events? 
+
+The Templar is not a Paladin, he is a new type of righteous warrior in the Diablo universe with differing ethics and ideals. 
+
+Total Blacksmith Leveling Cost and Materials Source 
+
+Dying as a Hardcore in Diablo 2 looks different, in comparison with dying as a Hardcore, in Diablo 3. 
+
+I was looking at AH today and found a filter for my search. 
+
+The others files are inside the folder in the applications (or in the location you selected). 
+
+What item can I use in my off-hand? 
+
+For Diablo III Beta, you just delete the folder, because it does not create Package Content for you to delete.

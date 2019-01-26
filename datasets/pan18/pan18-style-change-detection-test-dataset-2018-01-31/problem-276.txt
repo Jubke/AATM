@@ -1,0 +1,29 @@
+If you can think of other situations besides the situations described where it may be good play to just flat call, it would be very appreciated. 
+
+When you bet and you get raised, is there a situation where it is justified to just call instead of raising or folding? 
+
+Your strategy on the flop should therefore be: call when the pot-odds are lower than 35% (you have to pay less than 35% of the pot to call). 
+
+Five best cards win. Your five best cards would be TT222, hence indeed you have a full house which beats his TT66J hand. 
+
+Suppose you raised pre-flop with the AK and have one caller, so you go heads-up to the flop. On the flop comes QKA which are all spades. This is clearly a very draw-heavy board, and your two pair AK will not be good all the time. 
+
+Note that both values are one percentage point larger than the actual odds. Call this optimistic evaluation. 
+
+Best five cards is always best five cards for the player holding the hand! 
+
+Suppose the opponent is a tight/passive player. In this situation he probably already made a straight of flush and folding is the best option. He will not be semi-bluffing in this situation very often and certainly will not try this with just an ace. The only possible hand which he could have an you can beat would be AQ, which he will not have the majority of the time. 
+
+But what if you know the player is a novice and might even pull of this kind of play with just an Ace, which he thinks is very good because he does not think about draws and board texture. Would it be a good idea to just make the call? A downside of this play is you gain very little information, but he might even call a raise with what he thinks is a strong hand. 
+
+If the player is quite aggressive, there is quite a large change he has a draw and tries to semi-bluff. If you just call you give him the opportunity to make his hand. Moreover, when faced a large bet/raise on the turn you have no idea where you are at (it might still be possible he made his hand on the flop). I think raising would be the best option, but you would probably have to invest allot to give him proper odds to fold a draw, so folding might still be a valid option. 
+
+However, this calculation is quit cumbersome in practice. Therefore, here is a quick rule of thumb to approximate your hitting chance: 
+
+In general to calculate your percentage of hitting you can do the following: 
+
+Running it twice isn't really part of any official poker rules, so it will always follow the house rule. I would prefer that known cards not be reshuffled between - if the point is variance reduction, which it usually is, you have a better chance of realizing your true equity if the cards are not reshuffled. 
+
+When the person who would become the button busts out, the button skips them to the person who was the big blind the last hand. That person becomes last to act for the hand, but posts a small blind anyways. The person to their left posts a big blind, as does the person to that person's left. So you have the big blind position paying a big blind, the small blind position paying a big blind, and the button position paying a small blind. The following hand, the button moves as usual. The new button position pays a small blind, the person to their left pays a small blind, and the person to that person's left pays a big blind. After that, normal blinds resume. 
+
+A similar place where a polarized range can be useful is a flop check-raising situation. When the board comes out K 8 4 rainbow, and you check-raise, you are representing a very strong range - mainly sets, possibly AK. To balance that range, you can add hands like small pocket pairs or missed suited connectors - these hands have little-to-no value against the range that your opponent will continue with.

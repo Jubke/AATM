@@ -1,0 +1,35 @@
+But it's way more likely that a general consensus will quickly be reached without forcing the question through the close-reopen-close-reopen cycle. Personally, I would rather see the answers always sorted by votes, where the accepted answer (marked as such) is sorted to wherever it lies in the vote. But that's just my personal view. The discussion section is still available even if a proposal is closed. You can start a discussion thread where the community can discuss and weigh in on the decision. But wrapping a second discussion section around the closure notices themselves doesn't make a lot of sense. Any discussion you create will will link directly into the proposal. What role do you play in [Photography]?
+
+○ Professional or Expert
+◉ Avid Enthusiast or Prosumer
+○ Academic or Research-Level Student
+○ Beginner or Learner
+○ Merely Curious I'm sure you can find the rare exception of abuse of this feature by a high-rep user, but those instances are easily caught if folks simply understand what the feature is for explicitly. My (simplified) version makes that clear by enforcing the use case of when it should be applied. It does assume good faith by our high-rep participants — I would hate to bar high-rep user from fixing threads they participate in — but this also avoids the blatant misuse of this feature when it is applied outside the purpose for which it was designed. Now that you highlight comment-responses from the user who asked the question, I would like each user to see their own comments highlighted the same style that their own answers are already highlighted. 
+
+It can be difficult to transition into the moderator role after having only been a lowly plebe. If I were moderator, I'd expect to have a transition period where I was accidentally closing questions unilaterally when I only wanted to be 1/5th of the party closing a question. Just in case this isn't clear, I'll also address your remaining issues: I would like to see this so links to long posts can go directly to the relevant bit. Especially useful for the FAQ, Glossary, and those posts with lots of general information. Closed questions are eventually deleted, except in the case of some duplicates. When a question is deleted, the reputation gained is lost on the next reputation recalc. Therefore closed question, ultimately, don't result in permanent reputation gain. Further, links to them would be very nice - they'd have the heading in them. 
+
+Further, users that can't vote to open or close can continue to show their support for the question, or against the question, by voting on it. It's something we allow so that people still feel as though they can have input in the whole process. I understand your concerns about avoiding a (potential) conflict of interest, but look at your examples; they would all have been be avoided if we implemented this one simple rule. 
+
+When viewing any question, it would be nice to see the total number of votes as a little tagline underneath the total vote score. 
+
+So this feature-request can be made much much simpler with one straightforward premise: 
+
+What role do you play in [Photography]?
+
+○ Professional or Expert
+◉ Avid Enthusiast or Prosumer
+○ Academic or Research-Level Student
+○ Beginner or Learner
+○ Merely Curious It would be nice if the "Modified [n] minutes ago..." text could be more descriptive such as: 
+
+Bonus: The system would no longer have to worry about aging votes (where close-votes eventually expire after a certain period of time). With the +/- votes shown, someone is free to counteract the random close-vote that accumulates over time. These so-called "close wars" are a misnomer for people waiting in line for their chance to vote five at a time (5-close, 5-reopen, 5-close, 5-reopen...). Hence the yo yo effect. 
+
+Its an beautiful, simple, elegant solution. So what am I am I missing? ...so we can better decide if it is worth following a link. [Reasons "borrowed" from your recent blog post] 
+
+But it's way more likely that a general consensus will quickly be reached without forcing the question through the close-reopen-close-reopen cycle. But as it is implemented now, the "accepted answer" has nothing to do with the voting. It was never designed to tell you which answer is best or even if the answer is correct. It's easy to misunderstand that feature because of what the UI tells you, but the accepted answer is simply the answer that the original author found most useful in solving their problem. 
+
+Further, links to them would be very nice - they'd have the heading in them. 
+
+If reputation gain is not allowed, reputation loss should not be allowed. We shouldn't be creating an unbalanced system. Further, when the question is deleted, the downvotes would be lost anyway, so there's no real point in making it hurt the user. 
+
+It can be difficult to transition into the moderator role after having only been a lowly plebe. If I were moderator, I'd expect to have a transition period where I was accidentally closing questions unilaterally when I only wanted to be 1/5th of the party closing a question. How do we tell when a question has been definitively answered, such that we can put it in a bottle and say, "There will never, ever be anything new to be said on this topic."? Note that in some cases a closed question serves a useful purpose, such as duplicates filling out keywords for search engines. I firmly believe that if the question is useful enough to keep around in a closed state, then the person who submitted it should be eligible for any and all reputation they accrue from submitting it.

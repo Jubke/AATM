@@ -1,0 +1,19 @@
+Exceptional cases include (not exhaustive): Or, replace all accepted answers' user name and links with Jon Skeet's name and profile link. 404 http://www.monkey-and-banana.com/wp-content/uploads/2009/10/star-wars-droids.jpg You may be wondering, what in the wide world of sports is going on here? Why did I close your question twice? 
+
+It would also help to know how often employers are searching certain items (say the 'trending' programming language; which language is on the rise, etc). I realize TIOBE carries an index on language popularity; but it isn't really 'local' enough to be useful. 
+
+It's not about Effort. It's about Respect. That's why I closed it the first time. Had you had a specific problem with specific code and a specific circumstance, I would not only have left it open, but I would have vociferously defended its place on Stack Overflow. Students should absolutely ask questions here. For Stack Overflow (or any of the sites; it's a Star Wars reference). 
+
+Marks their question as homework / admits it's homework Shows they're working towards a solution (by showing us the code) Actively participates in expanding their question Doesn't ask for an 'answer' to their homework; rather they ask for an answer to the specific problem their having with their homework Then I'd be surprised if that question was closed, and I'd re-open it in a heartbeat. 
+
+If you ever feel like you are experiencing moderator abuse, your best bet is to contact the community team by using the help link on any Stack Exchange site. 
+
+Take the "Stack Overflow Is You" motto to the extreme and instead of a Stack Overflow logo at the top, have a logo that is "n overflow" where n is the user's name. Adding the User's Gravatar (as recommended by Pekka) seems like a cool idea too (though not if it screws up loading time). Examples of questions that do not respect other people's time: 
+
+Relevant reasons not to step in: Could it be an answer posing as a rhetorical question? 
+
+That's not a great question for Stack Overflow. It's a great question for something else. I didn't consult other moderators, and nor do I fault another moderator for re-opening the question. I expect people to disagree with each other. Had other moderators been around at the time (the SO Mod chat room was empty), I would have asked them about it before acting again. Both are really good questions, and I'll state for the record that it's generally preferred if moderators do their thing and then ask other moderators to step in and check it out. I did not do that here, and it could have turned out differently if I had. However (you knew there was a 'but' coming, didn't you?). 
+
+What are guidelines should I follow before flagging that post for migration? It's not a good question. Don't get me wrong, it's well written, has plenty of caveats, and actually poses a question, but it's just not answerable. Not only that, is that it's just not googlable. It's not a problem someone has concretely on a day to day basis that makes them want to search the Internet. It's a problem that depends on style and circumstance, neither of which are present in your question. Feature Request Can we have a statistic available that tells us how often we show up in searches compared to other candidates? Specifically, I know that I show up in about 10% of the searches done by Employers; but I want to compare that percentage against other candidates. Sometimes people conflate Effort with respect. Showing effort is one way to show respect, but certainly not the only way. Your original text of 'minimal understanding' comes close to what we're trying to get out of a user, but I feel like the text should actually say (something to the effect of): 
+
+All in all, I can tell you that the question really doesn't belong on Stack Overflow, and the results are bearing that out.

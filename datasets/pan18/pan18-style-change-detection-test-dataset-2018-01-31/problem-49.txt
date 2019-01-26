@@ -1,0 +1,43 @@
+You can use Steam Family Sharing to use two accounts (and, therefore, two profiles) on one computer. You need to have family sharing (currently in closed beta) enabled for the account that owns MW3. Enable sharing for the computer you want to use, install MW3 and then your brother can login and play with his own profile on that computer. 
+
+Note: This is an override switch to Steam's setting. You cannot re-enable it from Steam settings after disabling it here. 
+
+An alternative solution on Windows (starting from 8) is to open task manager and disable Steam Client Bootstrapper from the Start-up tab. 
+
+Answer in Greater Detail I installed VVVVVV on an external hard drive. The game played fine. I unplugged the drive and got this error: 
+
+Restarting Steam also detected the game again and it played fine. 
+
+Yes, you can share your games with your family. Steam recently introduced Family Sharing, a system where a user can share his library with the rest of the family and others who use the same computer. 
+
+For each installation of Steam, you can add your SteamApps folder from your drive from the settings. (Settings > Downloads > Steam Library Folders - See image) 
+
+Steam claims the soundtrack was released on the 4th of November, as was the game itself: 
+
+The Steam Configurator supports Steam, PlayStation 4 Dual Shock, Xbox 360, Xbox One and all generic X-Input controllers. 
+
+There is now an official support article at support.steampowered.com covering some other solutions as well. 
+
+Once you acquire the weapon (that particular one is already in the game and can be found by opening a winter offensive weapon case), you can use it by going to your inventory in-game and replacing your current weapon with the new one by right-clicking on it and choosing "Replace T", "Replace CT" or "Replace both". 
+
+Note that only games that use the new content management support this. This includes most modern AAA-titles and almost, if not all recent releases. 
+
+The same Steam account will work on all platforms. Most games don't work on both Mac and Windows, though, so bear that in mind. You can find out the compatible platforms for each game on their Store page, at the bottom with system requirements. Steam should still always let you buy any game (available in your region) for any platform. 
+
+See here for managing Steam library folders. 
+
+Family Sharing, however, only allows one user to be playing at any given time, no matter the game. Your brother will be kicked out of his game within 5 minutes if you launch any game in your Steam library. 
+
+Global option You can now allow downloads during any gameplay from the downloads settings: 
+
+I plugged the external drive in again and the game worked fine again. 
+
+Counter-Strike: Global Offensive's workshop works differently than most Steam workshops. You cannot simply browse to a file and add it to your game. Instead, the workshop is used to see items that maybe added to the game as drops or a part of a weapon case, or ones that have already been added. 
+
+You should be able to create a Steam library folder on the disc like you would on a regular hard drive. You'll need Steam installed on the computer you're running the game on and you may need to add the library in Steam's download options every time it's inserted, manually, but it should be able to run the games. 
+
+Note that two users still cannot play the same copy at the same time. 
+
+Log in with the account you want to play with Log in with the account that owns the game Go to settings > Family > Authorize This Computer... Authorize the borrowing account by checking the box under Authorized Accounts 
+
+Another reliable way is to search for the program on steamdb, which will show you the info for games removed from the store as well. The appid is clearly labelled in the search results.

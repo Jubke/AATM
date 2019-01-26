@@ -1,0 +1,55 @@
+There is nothing terribly wrong with the sentence structure per se, but it has an effect that may or may not be desirable, and probably is not desirable quite as often as you are doing it: it changes the emphasis on the action being described. 
+
+Episodic storytelling, in short, may be a response to economic constraints that do not exist for modern print/electronic publishing. 
+
+Another factor may be time. TV and movies are inherently time constrained. A typical novel may be a seven or eight hour read, and the reader can pick it up and put it down as they please. Watching TV or movies like that just does not seem to work. TV shows and movies are consumed at a single sitting, and the stories must therefore fit into a box of between 30 and about 120 minutes. That is, they are inherently of short story to novella length (though they can also be a season long arc as well). 
+
+Notice how this sentence puts the emphasis on the ring rather than the knee, or at least that it keeps the attention on the ring while he gets down on one knee. Compare to: 
+
+So, to answer the question, no, I don't believe things have changed all that much. The reason they seem to have changed is that all that remains current from the past is its literature. Its pulp has long since faded away. But most of contemporary publishing, like most publishing in the past, is pulp. Comparing the pulp of today with the literature of yesterday is comparing apples and oranges. 
+
+Walking into the bank is just how he got there. It is pulling out the gun that matters. Connecting the two actions like this distracts us from what is important, putting the walking in on par with pulling out the gun. In this case, it would be better to use: 
+
+The latter, of course, requires considerable coordination, and it is not at all unusual for some of what seemed like promising and interesting story arcs in the development of the story to go unresolved in the end. Often the way you know who the "main character" of a story really is is that their moral arc is the only one that actually gets fully and satisfyingly resolved. 
+
+But the difference is not in anything you are seeing in one case vs the other. It is all about how your prior experience conditions you to react. It is the same in a story. The emotional response is created by how you set up everything leading to the scene. It is not created by the way the scene itself is written. In fact, the better you have set it up, the less you need to say to get the emotional payoff. 
+
+"No, Biff!" Her heart-shaped face contorted with grief and jealousy. "It can't be!" 
+
+UPDATE: Since you requested it, I'm grabbing information from several style guides: 
+
+Sometimes other punctuation is thrown in to set telepathic speech apart from emphasis or thought. Mercedes Lackey uses double colons: 
+
+You could also use guillemets: 
+
+"I'm leaving you, Neaveh. I've found... someone else." 
+
+"How could you! You vile beast!" she sobbed. "I loved you and you — you used me!" 
+
+Table of Contents: font, size, leading, kerning, space before, tab stop, width of box 
+
+Not only is this an undefined term, you have an ambiguous pronoun. Is he literally saying a word of gratitude to a sprite? Is s/he in his pocket? What is "it" that he's grateful for? Is he thanking the fairy, and then also grateful that the fairy is safe? Is he thanking the fairy that the gem is safe? Thanking the fairy that Zaithe, who is later a "she," is safe? 
+
+If it's the name of a movie, italicize it. 
+
+Italic text is the most common format for telepathic communications. 
+
+Additionally, because you have mechanical errors, our attempts to divine meaning and context from what do you give us are thwarted because we can't understand what we can read. 
+
+The rule of thumb about italics vs. quotes is "big things get italics, little things (or pieces of big things) get quotes." 
+
+In terms of exploring different styles? Most writing needs rewriting. When you produce something you think is repulsive, edit it. Figure out which words you dislike, and change them. I know this seems obvious, but I really think it's the answer. It may seem like a strange situation, as if you're artificially changing your natural voice to make it seem natural, but it sounds like your natural voice has already been overly influenced in a direction you don't like, so you're just trying to work it back. 
+
+The others I'd leave as commas splices. But it depends on how the author hears the words being spoken, of course. 
+
+So in dialogue, instead of using punctuation to follow grammar rules, I think it should be used to indicate the manner of speaking. So if an author is trying to represent the sort of pause that is best represented by a comma, then the author should use the comma, regardless of grammar. 
+
+Your post here seems slightly formal, but that's not completely inappropriate for the audience, so it seems you've found another way to match your words to your purpose. 
+
+"I'm not going" (probably semi-colon, maybe em-dash, maybe even a period); 
+
+"I'm warning you" (colon, for added drama). 
+
+For the record, of the examples you posted, I think I'd change: 
+
+You will probably come to find that different writing styles suit different purposes. This is taught in most writing classes, usually with discussion of "audience" or "target" or "purpose".

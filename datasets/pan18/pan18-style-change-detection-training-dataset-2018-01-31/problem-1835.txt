@@ -1,0 +1,35 @@
+Kant points out that there are two main categories of error: "empirical illusory appearances" and "transcendental illusory appearances." The former includes errors such as optical illusion in which we are misled by the imagination (Critique of Pure Reason, A292/B348); and the latter are those that may lead to the philosophical errors of which he treats in the Transcendental Dialectic. In either case, Kant makes it clear that error is ultimately a question of poor judgement in distinguishing the subjective influences from the objective: 
+
+This object has extension. — synthetic It has mass. — synthetic A body is defined as having extension and mass. - analytic This object is a body. — synthetic (the definition applied by substitution) The crucial point to be noticed here is that the application of the definition must be a consequence of the properties and not the other way around. In other words, by calling it a body, it is already presupposed that the object has extension and mass (i.e. according to the example's definition). Error arises when the properties are viewed as a logical consequence of the definition. 
+
+Here's another example, in which things in themselves are spoken of using Objekt: 
+
+Without the conditions of objective validity, we can associate one feeling with another as we experience the world, but mere association is not the same as attributing those impressions to an object. Such an association only gives subjective validity to our experience. On the other hand, objective validity involves that our experience of reality is objectively determined. It is only under such conditions that properties are conjoined to the objects to which they are attributed. Without the synthesis which unites a subject to a predicate, we lack the necessary conditions for asserting that our judgments are true. 
+
+When this argument is combined with the other comments from above, we gain further insight into the subject. Change and coexistence are perceived by means of a relation which exists between phenomena and a substratum which represents time. That leads to the question of how we perceive a relation to the substratum which is not itself an object of perception. In the Preface as cited above, Kant's answer is, "It is, in fact, the same as the empirical consciousness of my existence..." 
+
+For example, suppose a group of people decided to adopt the following definition: "Body — that which has both extension and mass." That's fine as long as it's acceptable to everyone involved. However, problems might arise if someone should choose to use it as a synthetic proposition. Upon encountering an object, somebody might assert, "It's a body, so, by definition, it must have mass." 
+
+Because of that, there's no way to empirically acquire facts about noumena, so for all practical purposes, such facts don't exist for us. Therefore, Kant's philosophy would only suffer in comparison if there was such a thing as legitimate theories of induction which could claim extrasensory access to facts. 
+
+However, assuming that no such theories exist, we have to be satisfied knowing that the rising of the sun will always remain for us a phenomenal fact. Since causal relations with respect to phenomenal facts are knowable, there seems to no real obstacle to our drawing inductive conclusions concerning such phenomena. And that's what science has always been about. 
+
+I find it questionable whether Berkeley could even be considered as denying noumena, because he didn't deny appearances. Something had to be the cause of them, and that cause would then be considered noumena. Therefore, as Kant says, there's no way to deny noumena except to claim that there is no such thing as appearances. I don't believe that Kant addressed that possibility, but I doubt that he would have considered it a tenable position. 
+
+"Locke and Kant, whilst still believing in the soul, began the work of undermining the notion that we know anything about it." (The Principles of Psychology, p. 211) 
+
+The more general word Objekte is often used for the objects of concepts. Given that concepts refer to objects in general — i.e. as a general reference to various objects or to various experiences of a single object, the usage of Objekt is well suited to the idea: 
+
+However, Kant sometimes refers to things in themselves as objects. In the following, he speaks of the impossibility of applying the categories to them, referring to them as Gegenstande: 
+
+After the first edition of the Critique of Pure Reason came out, Kant was accused of advocating idealism. For that reason, he included a proof designed to refute it in the second edition. In a footnote in the Preface to the Second Edition, Kant included some interesting comments concerning his refutation of idealism: 
+
+"Transcendental dialectic will therefore content itself with exposing the illusory appearance in transcendental judgements, and guarding us against it; but to make it, as in the case of logical illusion, entirely disappear and cease to be illusion is utterly beyond its power." (Critique of Pure Reason, A296/B352) 
+
+We only know of things in themselves as they appear to us, so they are unknowable with respect to their properties. However, Kant held that they are knowable with respect to their existence: 
+
+For putting these principles into practice, I don't believe that there is a better rule of thumb than doubt. If a proposition gives rise to any doubt whatsoever which cannot be verified by a simple review of an established convention, it is not an analytic proposition. Similarly, if an analytic proposition is used to assert something which is doubted by another, that doubt must have its basis in nothing more established convention. Otherwise it is not an analytic proposition. 
+
+If I understand what you're saying, your argument might be expressed as follows: 
+
+Consequently, he makes a distinction between subjective validity and objective validity. Objective validity only occurs when objects can be brought under the objective unity of consciousness, which, in turn, involves being brought under the conditions of judgment. According to Kant, these are summed up in the categories. The following is a good illustration of his distinction between subjective validity and objective validity:

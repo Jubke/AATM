@@ -1,0 +1,37 @@
+There are two reasons for deleting comments that I can see: 
+
+should show up in place of the comment I deleted. 
+
+If you'd like better comments on your posts, try the following approach: 
+
+Leaving another comment to point out that I deleted my comment is a bad idea. 
+
+Stack Overflow is not a place for extended discussion, that's why we have chat. If you want to have a discussion, take it there, or take it to meta as appropriate. 
+
+Some of the comments are borderline, but overall the problem is that you're being told something by the community ("Hey, post the code we need to see."), but you haven't responded to them. You haven't provided that code, and to top it off, you're jumping to the conclusion that it must be a problem in .NET. 
+
+What I said was no longer relevant. I said something embarrassing, incorrect, or not-charitable. Both are well-served by me deleting my comment and getting on with my life. 
+
+If the user starts to respond agressively, just flag the comments if appropriate and walk away, don't engage in a discussion under such circumstances and you'll avoid unnecessary trouble. 
+
+The main reason to do that would be if more consequences than just deletion of the comment would be appropriate, I would do that if I thought that the behaviour of the user warranted a suspension. 
+
+Don't mention that you downvoted, just post a comment pointing out why the answer is wrong without mentioning downvotes at all. Of course the user can guess that it might have been you that downvoted, but you don't have to remind them. Don't attack the user or the answer as a whole (e.g. "this answer is terrible"), just point out the specific problem in a comment. 
+
+In cases where the comment is especially offensive, or if the user regularly posts offensive comments you can flag the parent post (not the comment) with a custom flag. The comment flags get dismissed automatically if enough users flag, they don't necessarily arrive at a moderator. Such custom flags are useful to make moderators aware of a pattern of user behaviour. 
+
+In short, try to comment in a way that is unlikely to be perceived as an attack, and don't be afraid of retaliation by unreasonable users, there are ways to deal with them. 
+
+then it will stay around... for a while. In the long run, all comments are eventually useless, so don't expect to put good information into a comment, it should be in an answer. 
+
+There are two reasons for deleting comments that I can see: 
+
+We need a better method of deleting comments. Whether that's being able to select a large swath of comments at once (click and drag?), or to nuke all comments and then selectively undelete the ones that could stay, I don't know. What I do know is that the current method is unsustainable if the argument is that some comments should stick around. 
+
+If I delete a comment, the text: 
+
+If you'd like better comments on your posts, try the following approach: 
+
+I'll give you a guess as to which one I do more often, especially faced with hundreds of flags in the moderator queue, and a limited amount of time per day to moderate. 
+
+Post all relevant code. Assume that Select isn't broken. Be engaged in your post, and when people come up with questions, update your post to answer those questions.

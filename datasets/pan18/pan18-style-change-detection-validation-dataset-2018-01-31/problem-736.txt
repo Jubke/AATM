@@ -1,0 +1,45 @@
+Disable the Keyguard programmatically in the test case (as described here) 
+
+I broke it out into a separate project at the simplest level trying to get it to work, and using the following code, I still have the same problem: 
+
+EDIT: So okay, what I've found so far on this is as follows: 
+
+We're working on setting up some Activity instrumentation tests to run on a build server. Since this requires the device to be awake, the options that I've found seem to be: 
+
+Interesting problem I'm having with a ListView. It's using a standard ArrayAdapter, with a custom XML layout for the items within. Simple XML: 
+
+Giving this result when set as a background image: 
+
+As far as I've been able to find (I've tried doing something similar myself), there's no way to modify a single state after the StateListDrawable has already been defined. You can, however, define a NEW one through code: 
+
+The "+5" in the measurements are there as temporary; From what I understand I'll need to do some math to determine the size that the drop shadow adds to the canvas, right? 
+
+Am I overlooking something simple, or is this something I'd have to resort to checking programatically after layout? 
+
+Assuming you're using version 0.10 or higher, this is now officially supported: 
+
+Gradle Plugin v0.11 and higher: 
+
+Edit: Okay, I found a solution. Don't know that it's the proper solution, but it does work correctly. Added to the code below. 
+
+Okay, I've been reading and searching around, and am now banging my head against the wall trying to figure this out. Here's what I have so far: 
+
+Where the destination image (the circle) is clipped to the area where the source image (the arc) is drawn. Instead, I get the full circle. If I just draw the arc, it appears in the correct location, and if I use DST_OUT instead, I get the inverse of the expected result (the other three quadrants of the circle). 
+
+So, referencing this post, it appears this is not yet officially supported through Gradle. A simple workaround is the following: 
+
+Set the devices to "Stay Awake" and disable the screen lock 
+
+Option 1 doesn't seem great as it wastes the battery and will eventually cause burn-in on the device displays. Option 2 seems preferable, but I'd rather keep the DISABLE_KEYGUARD permission strictly to debug builds (not release) so that all product flavors are testable, but the permission is never requested for a release build. 
+
+src/com/example/graphicstest/SquareImageView.java 
+
+EVEN MORE EDITS!: Okay, so I added a few more items to the list (should have done that first), and it seems to be every other item (e.g. item 1, item 3, item 5, and so on) that has a divider appearing below it. 
+
+EDIT: I've added a solution below. 
+
+Setting footers to false fixed the last one, but oddly setting header dividers to false had no effect. :/ 
+
+EDIT : Okay, just tried commenting out everything except super.onCreate() and setContentView() -- the problem still persists. It doesn't occur with any other Activities but this one, but there's NOTHING TO this one. :/ 
+
+I'm working on creating a custom view that will have an expanded and condensed state -- in the condensed state, it will just show a label and an icon, and in the expanded state, it will show a message below that. Here is a screenshot of how it works so far:

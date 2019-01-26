@@ -1,0 +1,51 @@
+Hopefully this helps to point you in the right direction. Here is a link that can lead you to additional material on this topic: Agile Estimating and Planning 
+
+In Scrum there are no status meetings. The Daily Scrum is a 15-minute time-boxed event for the Development Team to coordinate their work. 
+
+Are there other good examples to help convey this idea to the team? 
+
+a. consult with the in-house developers first. 
+
+Reduces the contribution of the in-house team because of the need to train the new person as well as to review the code and so on. 
+
+In Scrum everything cannot be top priority. The Product Owner creates an ordered list. The Development Team works on them in that order. 
+
+Visualize the workflow: You cannot improve what you cannot see. Knowledge work needs a way to visually show the status of each task. Kanban boards are one way to display this progress. 
+
+When you are done with what you are working on, make every effort to see whether you can assist with any story already in progress. 
+
+The harder part is to estimate the story points for new projects under negotiation: 
+
+You will keep WIP (Work In Progress) low. However, it won't be very effective for a team of, say, seven people to work on one story at a time. They will be tripping on each other. In practice you might find that working on a maximum of 3 or 4 stories at a time may be effective. You can give any team member the guideline outlined by @zsolt: 
+
+Here is a good slideshow outlining not only how Kanban can be applied for software maintenance work, but also how to make it fun! 
+
+Communication overheads may not be such an issue for you because you said it is a small project. 
+
+b. Let them participate in selecting the freelancer and establishing the ground rules. 
+
+d. Ask your tester to test the freelancer work more thoroughly. 
+
+Start on the next priority new story only if you cannot do above. 
+
+Don't add a freelancer temporarily. 
+
+Unbalanced work: You may have work that is not balanced across development, design and testing teams. This may lead to idle time in some disciplines. The solution here is to get the team to be more cross-functional. Impediments: Do stories/tasks get blocked often because of impediments? If that is the case, track impediments, assign accountability and adjust your sprint, as needed. Rework: Do you have lots of rework? May be the team declares a story completed and the Product Owner asks for fixes, involving rework and retesting. The solution here is to write testable acceptance criteria upfront. 
+
+Keep the teams relatively stable. You can split the projects between the teams. However, you will get better productivity and team morale if each team focuses on one project per sprint. You can make an exception if there are critical production bugs on other projects that cannot wait. 
+
+It is not clear why you tagged it Scrum. Please refer to the Scrum Guide. 
+
+In Agile/Scrum teams, the concept of a self-organizing team and the notion that "the team owns all the stories, individuals don’t" is turning out to be difficult to communicate. I have seen lots of articles and many pages of text explaining this. 
+
+From Mike Cohn's blog on the Daily Scrum Meeting - ...many teams enforce a rule in which only those who are committed are allowed to talk during the daily scrum meeting. All team members are required to attend scrum meetings. Since both the ScrumMaster and product owner are committed team members, they are expected to attend and participate. Anyone else (for example, a departmental VP, a salesperson or a developer from another project) is allowed to attend, but is there only to listen. This makes scrum meetings an excellent way for a Scrum team to disseminate information -- if you're interested in hearing where things are at, attend that day's meeting. 
+
+The purpose of the Daily Scrum meeting is for the team to share with their team mates progress of work and planning for that day. And it is tightly time boxed. So, the entire focus should be on the Sprint backlog and on the people who are doing the work. 
+
+One departmental supervisor (who manages 4 Scrum teams and other staff) I know holds a fortnightly all hands to share plans, admin matters and so on. You might want to consider something along those lines. 
+
+One example I have heard is that of people cleaning up a messy conference room, after a teamwork exercise involving sticky notes, posters, markers, paper aeroplanes, balloons...etc. Nobody tells anyone what to do – everyone pitches in to do some part of the clean-up until it is all completed. 
+
+However, if you wish to practice Scrum, you can start by sending a few people for Scrum training. Your team is too large to be a single Scrum team. You can split it into two Scrum teams. You can designate the Scrum Master and the Product Owner for the teams. The same Scrum Master and/or Product Owner can be shared by the teams, if needed. 
+
+In Scrum, the Sprint backlog is owned by the entire team. They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality. However, here is the key. Let us say there are 9 stories in the Sprint backlog and midway through the Sprint the team determines that they cannot complete all of the stories. It is better to leave one story totally untouched than to have 3 stories half complete. Given this goal how would you take up stories?

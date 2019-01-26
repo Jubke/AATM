@@ -1,0 +1,27 @@
+If he leashed jungle he could have stayed long and taken EXP when the jungler killed the camp. To be level 2 though probably means he took EXP from more than one camp however. Rek'sai's Tremor Sense isn't a constant detection either and most dashes/jumps are quick and last maybe a second if not less. This means even if you weren't detectable while in the air, it would be for such a short time that it would make a difference anyways. 
+
+Long sword is clearly the better option if you are limiting yourself to 1 item even though it is a bit more expensive. 
+
+53.7 * .714 = 38.3 damage per auto attack. 38.3 * .568 = 21.8 DPS to a tower. It would also be a huge balance issue to negate Rek'sai's Tremor Sense just by picking a champion that floats such as Malzahar or Nami. Champions aren't allowed to simply ignore rules and should all be affected by abilities the same way. 
+
+The very reason there is a duo lane bottom is to keep early pressure on dragon. So keeping the river and/or dragon pit warded both reveals possible ganks and prevents the enemy from sneaking in a dragon kill. This also goes for baron in the mid to late game after laning phase is over. You might be surprised how often people neglect to keep track of neutral objectives. Having someone on the team to give guidance can help keep everyone on the same page. 
+
+While Rift Scuttler is under the effect of crowd control that prevents her movement, she receives 25% extra damage from all sources, including true damage. (53.7 + 10) * .714 = 45.5 damage per auto attack. 45.5 * .568 = 25.8 DPS an 18.3% increase costing 350 gold (1% per 19 gold) Auto Attacks before casting any spells dealt 42 damage. 
+
+Caitlyn at level 1 has 53.7 AD and .568 attack speed. 
+
+Most supports now have their utility scale with AP. Should I build like an AP mid to strengthen utility and damage, or maybe that is best left to the actual mid? The only items I ever generally get on all supports is boots, one gold item and a sightstone then whatever looks good after those. My favorite support is Lulu if you have a good answer for a build to use on her. 
+
+Turrets start with 40 armor which equals about 28.6% damage reduction. 
+
+Once towers start falling the laning phase is over or soon will be. You should have a sightstone by now, and a red sweeper trinket. While everyone on the team can help with vision, the support has the most tools to contribute. While you aren't warding you should be sticking with your team. What you do then will largely depend on the champion you play. So again just general rules to apply. 
+
+Flat Magic Penetration vs. Percentage Magic Penetration It's also important to note the difference between Flat Magic Penetration and Percentage Magic Penetration (as well as Flat Magic Resist Reduction and Percentage Magic Resist Reduction). 
+
+There are four general groups of champions in League of Legends right now for classifying how they cast spells: Mana-based, Energy-based, HP-based, and Manaless. League of Legends has four commands relevant to attack: Player Move Click, Player Attack Move Click, Player Attack Only Click, and Player Attack Move. All four bindings can be found in Hotkeys → Additional Hotkeys → Player Movement and can be rebound as you like. Note that although the commands ending in Click are bound to mouse buttons by default, they may be rebound to keys without change in functionality. 
+
+Aatrox's passive is Blood Well. It's a revival passive, much like Anivia's. It has a 225 second cooldown. Whenever Aatrox expends HP by casting a spell, it gets added to his secondary bar, which is also named his Blood Well. 
+
+So yes, assuming both shields are entirely depleted, a shield on a 200 armor Malphite will last longer than a shield on a 90 armour ADC. 
+
+As with any third party software that modifies how the game works, you could technically be banned for using this program according to the EULA for LoL. However, this particular program is fairly widely used and Riot is not targeting users of the software for bans, so you should be okay to use it. For example, using completely fictional numbers, let's say we have a champion that has 10 base armor that has purchased 90 armor, for a total armor stat of 100. Last Whisper will reduce his armor rating by 27 (30% of 90), leaving his total armor stat at 73. As another example, a champion with 90 base armor and 10 bonus armor will only have his armor rating reduced by 3 (30% of 10), leaving his total armor stat at 97. One of Kalista's passive abilities allows her to bond with one of her teammates. This teammate enables her to do a little extra damage (through her W) and to ult (which throws the bonded teammate into a group of enemies and knocks them up).

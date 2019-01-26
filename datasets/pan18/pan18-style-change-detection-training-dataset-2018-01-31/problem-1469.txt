@@ -1,0 +1,61 @@
+Some built-in directives support passing an $event object. E.g., ng-*click, ng-Mouse*. Note that ng-change does not support this event. 
+
+A directive is essentially a function† that executes when the Angular compiler finds it in the DOM. The function(s) can do almost anything, which is why I think it is rather difficult to define what a directive is. Each directive has a name (like ng-repeat, tabs, make-up-your-own) and each directive determines where it can be used: element, attribute, class, in a comment. 
+
+† A directive normally only has a (post)link function. A complicated directive could have a compile function, a pre-link function, and a post-link function. 
+
+For an attribute value that needs to be interpolated in a directive that is not using an isolated scope, e.g., 
+
+Although you can get the element via the $event object: 
+
+All watches are evaluated (sometimes multiple times) every digest loop. The digest loop is entered as a result of some event, or calling $apply(). Watches are not called periodically based on a timer. 
+
+A service can be dynamically injected (by name) into a controller using the $injector. Being able to inject services via controller arguments is just a convenience that Angular provides. Under the hood, the $injector is used by Angular to retrieve object instances. But we can use the $injector ourselves also. 
+
+The general Angular way to get access to an element that triggered an event is to write a directive and bind() to the desired event: 
+
+See https://docs.angularjs.org/guide/scope#integration-with-the-browser-event-loop 
+
+If the attribute value is just a constant, e.g., 
+
+The code above also includes an example of how to throttle window resize events, as asked by @albanx in a comment below. 
+
+Directives can also componentize HTML -- group a bunch of HTML into some reusable component. If you find yourself using ng-include to pull in lots of HTML, it is probably time to refactor into directives. 
+
+A more efficient technique is to create RxJS Observables yourself from the events, outside of Angular's "zone". This way, change detection is not called each time an event fires. Then, in your subscribe callback methods, manually trigger change detection – i.e., you control when change detection is called: 
+
+The most powerful thing directives can do is extend HTML. Your extensions are a Domain Specific Language (DSL) for building your application. E.g., if your application runs an online shopping site, you can extend HTML to have "shopping-cart", "coupon", "specials", etc. directives -- whatever words or objects or concepts are more natural to use within the "online shopping" domain, rather than "div"s and "span"s (as @WTK already mentioned). 
+
+Here's my much shorter implementation: 
+
+You can easily re-export the default import: 
+
+So you wouldn't call it directly, but you can basically do just the same what commonjs does with default exports: 
+
+Disclaimer: No, I cant change the server responses. The problem-detecting method is synchronous. I don't want to use other libraries, I'm particularly interested in the way jQuery solves this. 
+
+So: does creating a closure for creating the local reference to the slice function make the script faster? Or does the additional closure scope make it slower than accessing the property "slice" of the property "prototype" of Array? 
+
+Try wrapping the cases in blocks: 
+
+Lots. The most important is your use of the create-promise-manually antipattern - just do only 
+
+Why can I "downgrade" descriptors though they say they were non-configurable? 
+
+https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Object/defineProperty states: 
+
+I also would appriciate help on how to deal with such "error-throwing response handlers" in the ajax options themselfes, I could not find good documentation about them. 
+
+Wondering if there is some function to solve this problem? Atleast I want to remove that funny box. 
+
+The problem is that it becomes totally screwed up=> with some weird box in the end (does not show here, although i copy pasted) (its something like [00 02]): हिन... 
+
+alt text http://img27.imageshack.us/img27/765/capturexv.png 
+
+I would like to set a color and all the colors should automatically become equivalent to that shade. 
+
+I have heard of JSONP, but was wondering if someone could give me an concrete example to go about the whole process. I want to make minimal changes if possible to my script. Should I use a proxy.php of sorts? 
+
+I believe I have to convert the RGB to HSL and then shift it accordingly (between -180 to 180). 
+
+I have a number of hex colors (as part of a theme) in say a shade of green. I want to find equivalent colors in another shade say blue.

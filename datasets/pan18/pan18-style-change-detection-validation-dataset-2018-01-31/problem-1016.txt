@@ -1,0 +1,19 @@
+While I disagree with both - I think they present the problem with clarity, and they are both very communicative, and the books are very interesting to read, as entry points into the topic. 
+
+The other is The Conscious Mind by David Chalmers, who explains forcefully the problem and argues for dualism — though I think he goes wrong in his arguments as he presents his own view, non-reductive functionalism. 
+
+Do you know of philosophers who address this problem? 
+
+Is the machine justified in using the boundary to declare a bus in the first case and not-a-bus in the second case? I disagree with the answer given by @AlexanderSKing. 
+
+EDIT - to clarify, I do not question whether philosophical zombies can reach conclusions in general. I do not mind granting that even AI can be said to reach conclusions. I am asking if it can reach this particular conclusion. Does it mean that it classifies images into trees or not-trees with 100% accuracy? What does it even mean for it to have 100% accuracy at such a task? As an analogy, imagine two mathematicians who reject each other's coordinate systems for a sphere on account of including a singularity point, such as a north pole - let's call it the "absurdity" of a coordinate system - and they fail to realize that you cannot "explain" a sphere with a single coordinate system which is not "absurd" - you need at least two: What if the second picture is obtained from the first by slightly changing the value of a particular pixel in a way that most humans will not even perceive? One is Conscisouness Explained by Daniel Dennett, who explains consciousness as a bag of tricks, and who subscribes to the computational theory of mind. 
+
+Consider this quote by Feynman from page 10 of QED: The Strange Theory of Light and Matter: 
+
+And what is that boundary anyway? suppose it is determined by some arbitrary threshold, say a score of 50%, and suppose the machine is presented with some input for which the computed score is 50%, and another input for which the score is 49.999%. 
+
+I have never understood the attractiveness of explaining consciousness with loops. Assume a philosophical zombie which is a hypothetical being that is indistinguishable from a normal human being except in that it lacks conscious experience, qualia, or sentience. Wittgenstein says that philosophers mislead themselves into confusions by misusing language, and that philosophy should be done differently - in essence describing and surveying problems rather than trying to explain them: 
+
+What if a philosopher mounted a reductio ad absurdum on nature? would he be justified if his argument was sound? 
+
+Reasons to be confident in opinions you formulate:

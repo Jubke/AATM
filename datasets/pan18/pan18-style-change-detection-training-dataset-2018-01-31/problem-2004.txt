@@ -1,0 +1,29 @@
+To add insult to injury, the very theory of orders cannot be explained without quantifying over all functions, and hence violating it. For to explain it, one has to express the fact that every propositional function has a determinate order. Hence, the theory is self-refuting. 
+
+"Or, closer to home, consider the Axiom of Reducibility itself. This is supposed to hold for all functions, f. Russell's very statement of it (above) therefore violates the theory of orders." - How exactly does Russell's statement of Axioms of Reducibility violates the theory of orders? 
+
+However, I can't find any objection to Hilbert's version of Formalism (apart from the question of applicability) and this made me wonder two things, 
+
+What are the objections to Hilbert's version of Formalism other than the two mentioned above? 
+
+"For, however we express it, what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f', ranging over all functions." - I am not so sure that "what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f" (in fact this doubt was partly responsible for my asking the first question). Indeed, to me Russell's suggestion sounds similar (see the quote) to that of Conifold's remark that I mentioned earlier. Am I missing something important and/or subtle here? 
+
+So if you say that the median of the ordered set ..., -3, -2, -1, 0, 1, 2, 3, ... is zero, you're right. And if you say the median is 47, or -119, you're still right! Every number is the median, by the definition of median. 
+
+"Euclid wrote The Elements" is a contingent truth. In some other possible world, Euclid herded goats and somebody else wrote the first modern math book. 
+
+Whether you trust, and what you trust, is up to you. You drive over bridges. Sometimes the bridges fall down. Over the years we learn to make better bridges, never perfect bridges. You'd be foolish to trust all the experts all the time. But you'd be even more foolish to never leave the house for fear of a falling bridge. Someone the other day asked the difference between rationality and logic. Rationality is what lets you drive over a bridge that you know might fall down, even though you can never personally investigate every nut, bolt, and corrupt government contract. 
+
+Continuing like this, we see that the odds of getting the sequence HTTHTTHTHT are 1/1024. 
+
+So when we assert T, we are really making the assertion "T is a theorem of E" where E represents the axioms of Euclidean geometry. "E proves T" is a true statement; and moreover, it's a necessary truth, because it follows directly from logic. In fact you could write a computer program that can verify the validity of the derivation from E to T. Theorem checking is algorithmic procedure. [Theorem finding, especially the finding of interesting theorems, requires a human.] 
+
+Summary: Each theorem T of Euclidean geometry is neither true nor false by itself. If you give me an interpretation, I'll tell you if it's true or false. 
+
+However, I can't find any objection to Hilbert's version of Formalism (apart from the question of applicability) and this made me wonder two things, 
+
+"For, however we express it, what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f', ranging over all functions." - I am not so sure that "what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f" (in fact this doubt was partly responsible for my asking the first question). Indeed, to me Russell's suggestion sounds similar (see the quote) to that of Conifold's remark that I mentioned earlier. Am I missing something important and/or subtle here? 
+
+For example, in philosophical arguments the method of reasoning is not always formal and I think that it is more natural to use this kind of reasoning method. Surprisingly enough when we discuss the proofs, we in fact use this kind of informal reasoning but still our professors insist on being able to write formal proofs. 
+
+Russell was well aware of at least some of these difficulties. To solve them he formulated his theory of systematic ambiguity. This is most easily understood with respect to an example. Take the statement of the Axiom of Reducibility. According to Russell, this has to be understood (for fixed i) as indicating not a single proposition, but an infinitude of propositions: one for each order that f might be. Russell, himself, explains the point with respect to a similar example as follows):

@@ -1,0 +1,35 @@
+11-32 does make a substantial difference; remember its the ratio of the front gear to the rear gear that matters. Your lowest gear will be 12.5% lower. Also, you'll get a wider (and likely more useful) spacing in gearing between changes. 
+
+You just remove the downtube shifters, put cable stops in their place on the bosses (e.g. Shimano SM-CS50), and then route the cables for the brifters using those cable stops like you would any other bike. Tons of people have done this and are perfectly happy with it. 
+
+You may need better choices of sprockets, but certainly, with a 2 x 7 setup, you have enough choices that it should be fine (for example, if you were touring, a 11 cog in the rear would be useless - you'd want a range of larger cogs so you could move the stuff you're lugging around). A 24 speed would need a 3 x 8 setup which means new crankset, new front derailleur, possibly new bottom bracket, new cassette and new shifters (these are the real killer if you want brifters; bar ends or downtube or friction shifters somewhere are cheaper) assuming you could get the chainline and what not right (the RD will be fine if you stay shimano). At this point, with a cheap bike like the Mirage S (400 dollars), you're better off just replacing the whole bike, since parts and labor will cost more than the bike is worth/costs (you will also need some tools you might not have, like a crank puller and cassette tool and cable cutters and what not). 
+
+Here is the link for Tourney and Altus. If those links don't work, go to this link and select them under the mountain bike drop down. 
+
+Ended up throwing out the Tourney stuff shortly after, and upgrading to 8 speed and Alivio shifters and brake levers. Its not hard to find the 8 speed Alivio shifters anymore (despite them not being current), and I needed a new freewheel soon anyway (yes, my commuter runs a freewheel, not a cassette), so I took the plunge. 
+
+Thats a Shimano freewheel, not a cassette. You need a freewheel remover like Park Tool FR-1 to remove it. Note that this is not the same tool as the cassette tool (e.g. Park Tool FR-5 for Shimano-type cassettes). 
+
+Of course, you have to shift appropriately -- if you're running 50/11 all the time, you're going to be tired regardless of what the biggest cog is. A 11 small cog is not very useful all the time. 
+
+It is possible -- you can either find a 36 spoke internal gear hub (since you have a 36 hole rim) and have the wheel re-built with the new hub and bodge on the cables for the IGH shifting. Alternatively, there are automatic shifting hubs (e.g. the SRAM Automatix) which will also have a coaster brake and no shift cables. That being said, its probably going to be cheaper to get a new rear wheel than have someone building the wheel up with a new hub. 
+
+Microshift also make ones compatible with Shimano as well in the XE Marvo line (but I don't know anyone who has actually used a Microshift shifter on a mountain bike - usually its just their bar ends on a Surly road bike or similar). 
+
+Use a Wolf Tooth RoadLink to mount the derailleur lower and use a bigger cassette Use a slightly smaller front chainring (46t or 48t) Do a cage swap from a long cage mountain derailleur Move to SRAM shifters and derailleurs or a lower speed Shimano group (10 speed?) Use a JTek Shiftmate 8 (or 8A, preferrably) and a Shimano 11 speed mountain derailleur and a bigger cassette Use bar end shifters and a different derailleur Just try SRAM's 11-36 road cassette and see if it works by adjusting the derailleur (linked article claims putting the B-screw down 2/3rds of the way makes it work fine on an Ultegra). I'd probably start with option (7) and failing that, opt for option (1) or (5). Other Shiftmate configurations are possible with different cassettes (e.g. 11->10 speed and then handling derailleurs+cassettes appropriately). 
+
+Edit: and if they aren't, what series are they? Deores? Altimas? OEMs? 
+
+However, looking at them they don't seem like they are top-of the line or really all that different in manufacture from 105-line Shimano brakes. 
+
+b. If it is the derailleur that seems 'frozen' then it requires a good cleaning and lubrication. There's numerous instructionals on the intertubes on how to do this. 
+
+I'd expect this to be roughly a 40-75 eurodollar job, so it might be cheaper than a new set. 
+
+a. If it is the cable that is stiff, I'd replace it since the WD-40 in the first step didn't work. Replacing derailleur cable is relatively easy, the hardest bit is measuring the housing and cutting it to the exact length without leaving burrs. Your bike shop can do this for you. 
+
+I have a similarly old 1975 Peugeot Mixte UO18. I replaced the back wheel with a 700C Dimension Road Rear Wheel with Shimano 2200 hub and put a SRAM PG950 9-speed Cassette (SR-PG950-34) on it. Buying a readymade built wheel was much cheaper than trying to reclaim the old hub. 
+
+For bare metal parts, I also use Boeshield, figuring if it's good enough for BOEing to SHIELD aeronautical parts from corrosion, it's good enough for my bike. I use it on places like hex bolt heads which seem to attract corrosion but you could also use inside your cassette. 
+
+Another option -- if you don't mind making the bike inauthentic -- is to change to 700c wheels with a 7-8-9 freewheel or cassette. Since you have a rear hub spacing of 126mm, it would require expanding the frame to fit a 135mm hub.

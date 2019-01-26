@@ -1,0 +1,45 @@
+The upvotes will be detected within 24 hours, and removed. (Or so I assume.) No harm done except maybe a minor irritation for people after one of the "rep cap" badges because they are shown a higher reputation than they actually have. 
+
+To me, an embeddable Stack Overflow "vote" widget would make no sense at all. Facebook's or Google Plus's "Like" functionalities are fundamentally different from voting on Stack Overflow, they serve completely different purposes. 
+
+* At least not under current SO rules. Maybe those rules need to be changed - but that is a different discussion. 
+
+I think this is a terrible idea. 
+
+The queue would try to find questions from users that may need such help. Possible specific criteria include: Questions.... 
+
+Nobody is keeping you from publishing your content on your own blog - if the help you give to fellow SO users can benefit you by enriching your blog as well, that's great. (Just note that the question you answer is licensed to you under the CC license, and you need to follow attribution guidelines for that part.) But I don't see how tying that content to Stack Overflow's voting system could work in a sane way. 
+
+The collection of usage data and the possibility to do queries like "how often did users insert the xyz pro-forma comment?" can be helpful for future UI decisions, or for fine-tuning the FAQ. 
+
+I disagree - I'm much in favour of seeing the speeches because they serve as a reminder of each candidate's position. It also helps remember what was discussed in each candidate's comments section. 
+
+The layout in the new "answers" view (and only there!) could look like this: 
+
+Consider using a text editor like Notepad. 
+
+I feel this is something SO simply should have as a growing major resource on programming, no matter whether the feature is going to be used ten times, or ten thousand times a year. 
+
+Make the minor edit detection automatic, not a checkbox The determination which edits are minor should be entirely automated, avoiding the additional clutter of an extra checkbox on the edit page. I think it should be possible to define a few simple rules that determine whether an edit is minor. 
+
+The problem with the current bump-always approach The current behaviour causes significant problems when a lot of edits are performed in a small amount of time. The edits tend to completely overwhelm the homepage, drowning out the newer questions on there and depriving them of the attention they deserve. On slower sites such an edit-spree can easily break the frontpage for more than a day, many SE sites have a pretty low question volume. 
+
+The designer bottleneck can only be solved by hiring another one or two designers, which SE is currently trying to do. I wouldn't want to change the rules to circumvent what is hopefully a temporary issue (though it has been a temporary issue for a while now). 
+
+As a specific example that the current algorithm is broken I'll present the hot questions list from right now, where Math.SE provides 11 our of the top 30 questions. I don't think any site should occupy a third of the whole list. 
+
+I know this isn't a sneaky scheme to take away our rights through the small print, but right now, technically, that seems to be exactly what it's doing. Unless there is some super powerful good legal reason for it that no one of us can think of, it needs to go. 
+
+I disagree - I'm much in favour of seeing the speeches because they serve as a reminder of each candidate's position. It also helps remember what was discussed in each candidate's comments section. 
+
+The search process doesn't support that goal perfectly yet. It allows you to find highest-voted questions which is nice, but when looking for a good dupe, you want to find the one with the highest-voted answers instead. 
+
+As Stack Overflow grows, it becomes increasingly ridden with extremely newbie and mediocre questions. It's just natural. The team are fighting hard to keep the crap out, but there are many very basic questions that are okay on their own. They don't deserve to be kicked out* - they are just very, very, very basic and/or localized. 
+
+If you don't want to expose your identity to the moderators you can also write a mail to team@stackoverflow.com, where only SE employees will read your message. 
+
+I've create a very basic SEDE query that shows the number of active users (posted at least once in the last 30 days) and here is another query from Sklivvz. They give very different results, probably some error in my query. Though more interesting would be the time-dependence of that number, but my SQL knowledge is not sufficient for that query. 
+
+Make the minor edit detection automatic, not a checkbox The determination which edits are minor should be entirely automated, avoiding the additional clutter of an extra checkbox on the edit page. I think it should be possible to define a few simple rules that determine whether an edit is minor. 
+
+With the exception of spammers, who either just get their posts spam-flagged to death or are destroyed by a moderator, the by far most common reason for deleting a user is that the user requests himself that his account be deleted.

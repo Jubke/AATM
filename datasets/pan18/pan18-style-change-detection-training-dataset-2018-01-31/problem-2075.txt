@@ -1,0 +1,43 @@
+So, I'm teaching a course on Scientific Realism in the fall. I wanted to start off with a unit titled "What is a theory?" to make sure all of my students are on the same page and to prepare them for later topics. 
+
+In sum, I see this not so much as a question of descriptive vs. causal theories of names, but the (admittedly very closely related) question of the rigidity of descriptions. 
+
+A neutral statement that p would be a statement of p that does not assert p. How to classify it further will depend on your taxonomy of speech acts and whether you're considering the neutral statement to really convey the same proposition. For example, take the statement: 
+
+Substance: the fundamental kinds of things. It comes up in Philosophy of Mind, for instance, when we speak of Substance Monists (who believe in only a single sort of substance, most commonly physical substance) or Substance Dualists (who believe in two sorts of substance, most commonly mental and physical substance; Descartes is commonly taken to be a substance dualist). 
+
+As I mentioned above, "objective" is used in a whole manner of different ways in philosophy. Off the top of my head: 
+
+FURTHER EDIT: Since two of the four answers currently posted are the answerer's own (or at least uncited) ideas, I feel the need to emphasize that this is a reference request. I'm looking for an article that fits the stated criteria. People's own ideas, while perhaps of value, do not help me at all here. 
+
+Essence: often brought up in discussion of essential properties see Plantinga's Nature of Necessity for a contemporary discussion of essences. Kit Fine also has some articles on essentialism. An essential property is (at least) one that an object possesses necessarily. It will sometimes be said to be definitional of that object. To give a plausible example, it is an essential property of a chair that it be able to be sat upon. 
+
+If I make a neutral statement of (1), then I'm either uttering (1) non-assertorically, or I could be indirectly asserting a related proposition, e.g., I could be giving a belief report: 
+
+Truth-Aptness/Factivity: an objective statement is one capable of being true or false. Contrasts with, arguably, statements concerning matters of taste ("Pizza tastes good.") Reality of Objects Involved: an objective statement is one that is committed to the existence of the objects it refers to/quantifies over. Contrasts with, arguably, fictive statements or statements involving pretense ("Sherlock Holmes lives at 221B Baker Street." or "Suppose there is a round square.") Given its ubiquity, I would avoid use of the term "objective" without explicitly defining it, unless the intended meaning is incredibly clear from context. If I didn't have to use the term, I'd probably try to find a better one that wasn't so widely and disparately used. In general, though, good practice dictates you define any (most) distinctions you make. 
+
+As you present the distinction, it sounds like an objective statement that p, is an assertion that p (in other jargon, an utterance of p with assertoric force) which would commit the person who made the statement (the utterer) to the truth of p. 
+
+In asserting (2), with the parenthetical bit being something understood from context, I would not be committing myself to the truth of (1). 
+
+If I assert (1), I am committing myself to the truth of (1). That would be an objective statement of (1), in your terminology (though I find the "objective" terminology here somewhat confusing since it has many different uses in philosophy). 
+
+The first philosophical book that comes to mind with that topic is The Structure of Scientific Revolutions by Thomas Kuhn. 
+
+This is Skepticism. Personally, I believe there are good arguments against it (and against the particular argument you reference), but since you didn't ask that, I won't outline any of them. 
+
+However, your question was not "should" he be taken as evidence, but has he been taken as evidence. The concept that Greek philosophy was borrowed from the Egyptians is a central tenet of Afrocentric scholarship, and is the core premise of British scholar Martin Bernal's influential but controversial three volume work, Black Athena. The concept draws heavily on the work of the ancient historians Herodotus and Diodorus Siculus who did in fact take Plato's statements (as well as other ancient sources) as evidence of actual Egyptian influence. 
+
+As @Dog mentioned, Descartes' famous Meditations takes dreams as a major subject. It's quite a short and accessible work, well worth the read. 
+
+As Conifold alluded to in the comments, this is a well-known topic in philosophy, most closely associated with the great German philosopher Immanuel Kant, who called this feeling "the sublime". He uses this concept, which he sees as most directly related to the awe-inspiring qualities of nature, as a way of developing his theory of art, which he believes taps into similar territory in the human experience. 
+
+Just in passing and much too long for a comment: Deleuze's thoughts on this may be aggressive -- but keep in mind that (as he says) the question "what is the use of philosophy?" itself is intended to be caustic or at least ironic. 
+
+For the perhaps more general problem of demons from a philosophical or psychoanalytic perspective, I might suggest looking at Reza Negarestani's Cyclonopedia for serious discussions of demons and demonology. Nick Land's work may also offer some insight into the problem; I might suggest Fanged Noumena, a collection of his essays. 
+
+In terms of philosophers to investigate, I might suggest a few potential jumping-off points. 
+
+Occasionalism is the position that God is the true and "efficient" cause of all that occurs. Absolutely nothing happens, except through him, even when we appear to witnessing the demonstration of a law of nature, or indeed experience ourselves to be directly exercising agency over our activity. 
+
+He assumes that God would accept the sort of cold, calculating faith able to make such a wager seriously.

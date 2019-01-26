@@ -1,0 +1,43 @@
+If you translate it more freely, as you did, you might change the thematic structure. This shows that thematic roles are not extremely "deep", i.e. they are deeper than syntax but not as deep as illocution; we must use syntactic information (mainly the dative here) to make up a thematic role for "some people". The same situation can be presented by means of different thematic structures. This, together with the fact that the boundaries between the roles are often vague, shows how the usefulness of thematic roles is not without limits. 
+
+Peribis, quod fecisti. — "You will perish [because of that], that you have done." 
+
+Mihi placet id, quod fecisti. — "Me pleases that, that you made." (i.e. "that, which") 
+
+It is much easier to find an antecedentless (and postcedentless) indefinite pronoun when it refers to something adverbial (a time or place) rather than a thing or person. Both Latin and Greek are (far) more likely to add an antecedent than English or Dutch. I was able to find a Latin example, but not a Greek example. Nevertheless, I think the origin of our antecedentless indefinite clause lies in indefinite clauses that do have antecedents, as in Latin and Greek. 
+
+But that doesn't prove anything: the word about cannot normally be left out in English, so this is an entirely different construction. The fact that there is little change in meaning is, again, a coincidence rather than a structural feature. In this construction, doing is a gerund (not a participle), because it functions as a noun. Only things that function as nouns can be the object of a preposition. You can see that it is not possible in other instances of the same construction, which shows that doing is no gerund here: 
+
+Note that the first two words have the same root in each Indo-European branch—Germanic, Italic, and Greek. Note also that the conjunction in classical Latin is not normally used to introduce indirect speech, for which the accusativus cum infinitivo was used, but for other, related subordinate clauses. In Greek, hoti could introduce indirect speech or a causal subordinate clause; the a.c.i. was more common for indirect speech, though. In Latin, the various uses of quod can serve as a nice illustration. All the following constructions/meanings are possible: 
+
+Single-event compatibility with "in"-phrases: 
+
+Single event compatibility with "for"-adverbials: 
+
+By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): 
+
+Al is watching TV. => Al has watched TV. 
+
+*Al gave Mary a ring a lot last night. 
+
+By "expresses the category D" I mean, preferably, that there is solid evidence/argumentation for a given morpheme to be analyzed as overtly heading a Determiner projection. I would limit such expressions in this case to those communicating meaning like the definite article the, but not demonstratives like that. 
+
+Al watched TV a lot last night. 
+
+Al gave Mary a ring in a year. 
+
+Entailment from the progressive to the perfect: 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: 
+
+Now let's consider your first example: 
+
+Note that the first two words have the same root in each Indo-European branch—Germanic, Italic, and Greek. Note also that the conjunction in classical Latin is not normally used to introduce indirect speech, for which the accusativus cum infinitivo was used, but for other, related subordinate clauses. In Greek, hoti could introduce indirect speech or a causal subordinate clause; the a.c.i. was more common for indirect speech, though. In Latin, the various uses of quod can serve as a nice illustration. All the following constructions/meanings are possible: 
+
+Why do we even posit such a fictional subordinate clause that never really existed? You could argue against this practice. But I think the main reason is semanto-pragmatic; that is, it cannot really be proven syntactically in any way. We somehow presume that there is in language a "standard" model of expressing an agent and a situation that the agent applies a modal opinion to, and that this model is a main clause with agent plus modality, followed by a subordinate clause containing the situation. 
+
+I'd call sudor a force / natural cause, and quibusdam an experiencer in this translation. I choose experiencer because "breaking out" is not something that normally affects something or someone: you just break out of prison or out of a shell, but you don't directly affect someone by doing so. Sweat breaks out of the body, and the person to whom the body belongs experiences this. In this way I believe your analysis would stay closer to the "spirit" of the Latin construction; Latin erumpo works just like that.

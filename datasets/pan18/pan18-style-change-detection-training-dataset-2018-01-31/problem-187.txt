@@ -1,0 +1,37 @@
+With burrow, spread a few groups on likely attack paths. Ramps work especially well. This forces your opponent to bring detection or use a lot of scans to advance safely. If they don't, unburrow in the middle of their forces and detonate. Edit: If you aren't comfortable in your ability to keep a good eye on your minimap, you can also activate autocasting on unburrow as Tzenes mentions, although this will usually do less damage than a manually unburrowed baneling. 
+
+As the Zerg As the Protoss: A bit of a breakdown on the different options against tech: 
+
+Transfuse is nice for keeping your key units or structures alive, but is most commonly used on other queens when they are your only anti-air until you get your lair tech out. 
+
+As an alternative, you can install sc2gears and it has a feature to auto-save games It requires that you leave it running while playing though to do this. 
+
+PZ vs PZ Now, what if you are against PZ? Well, in this case their early aggression options are much more potent than any non-proxied aggression you will be facing from a PP or PT team. As such, a fast expand is not viable, so Z will likely be unable to provide the detection for both players, and will probably at most be able to cover his own mineral line with a spore. So, what are some modifications you can make to your build to be more resilient to this? 
+
+Depending on the units and the addon the following will happen: 
+
+With 6 there is no waiting, but I think 6 is too much. 
+
+I did some testing and found that about 5 is nearly optimal. You have to wait about 1 second for the creep to reach its maximum spread, which seems ok considering you have to macro other stuff. 
+
+4v4 games are considered "fun" games, so usually everybody tries to cheese somehow. The game is definitely not balanced for 4v4s. 
+
+The problem with huge games like 4v4 is that there are way too many permutations to consider. In 1v1 there are 3 matchups you have to learn, if your race remains the same. In 2v2 there are already 6 or even more if you play random team. You get the idea. 
+
+2 Marines are produced in Barracks with Reactor. Reactor gets destroyed after 20 seconds (Marines require 25 seconds). After 5 seconds the first Marine finishes (25 seconds). 5 seconds later (30 seconds) the seconds Marine is done. Thus you need 30 seconds instead of 25 to produce 2 Marines. 
+
+TLO hotkeys his active creep tumors so he can hit the perfect timing consistently. He also plays a Zerg style that relies on 4 queens. You might want to watch some of his replays. 
+
+Spreading creep is vital for zerg as it provides vision as well as a speed increase to all zerg units on it, so creep tumors are a necessity. 
+
+Note: you can only have one larva inject on a hatchery at a time, so 2 queens on one hatch do not increase the larva spawn rate any more than one does. 
+
+Since nobody else has mentioned it yet...armor upgrades. The interceptor fires 2 attacks that do 5 damage each unupgraded. With a maximum of 8 interceptors per carrier, each +1 to armor reduces the total damage the carrier does by 16 per wave of interceptors. Most anti-air units will do fairly well if you spend an equal amount on them, especially if you can stay ahead in upgrades. Corrupter and vikings are especially effective. 
+
+Transfuse is nice for keeping your key units or structures alive, but is most commonly used on other queens when they are your only anti-air until you get your lair tech out. 
+
+In general with banelings, unless you have them in the enemies mineral lines or something of that sort, you want to do a regular move rather than an attack move with them. They still explode when killed, so letting them get as much of a surround as possible before blowing up is almost always better than just blowing them up as soon as they hit the front unit. 
+
+With burrow, spread a few groups on likely attack paths. Ramps work especially well. This forces your opponent to bring detection or use a lot of scans to advance safely. If they don't, unburrow in the middle of their forces and detonate. Edit: If you aren't comfortable in your ability to keep a good eye on your minimap, you can also activate autocasting on unburrow as Tzenes mentions, although this will usually do less damage than a manually unburrowed baneling. 
+
+If you can afford it safely, you can go lair and get overseers and solve the dt issue, but you won't always have the luxury of little pressure from their zerg. This is generally easiest to pull off if you make a couple spines to defend and drone up more.

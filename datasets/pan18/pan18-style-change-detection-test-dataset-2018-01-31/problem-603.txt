@@ -1,0 +1,27 @@
+Note: I am not interested whether a particular compiler does so. (I am interested in the one we use, and I can test easily with that.) I want to know what the standard has to say on this. ========================================================================
+exc:
+Throw location unknown (consider using BOOST_THROW_EXCEPTION)
+Dynamic exception type: some_exception
+[tag_test_int*] = 42
+========================================================================
+*this:
+Throw location unknown (consider using BOOST_THROW_EXCEPTION)
+Dynamic exception type: exception_impl
+std::exception::what: "blah"
+ IIRC, exception objects have to be copyable according to the standard and, disregarding possible optimizations, the result of a throw expression is copied. So boost's exceptions must be copyable and they certainly do not lose their information along the way. I must be missing something fairly obvious here. 
+
+Given that VxWorks 5.5 doesn't seem to provide an API to temporarily relinquish a semaphore while waiting for a signal, is there a way to implement this on top of the provided synchronization routines? Except that it creates and then copies around rather long strings at runtime which represent types that actually are well-known at compile-time. Since this is a rather performance-sensitive piece of code that runs on embedded devices, I'd like to change this so that In the following text, I will distinguish between scoped objects, whose time of destruction is statically determined by their enclosing scope (functions, blocks, classes, expressions), and dynamic objects, whose exact time of destruction is generally not known until runtime. 
+
+I just inserted print statements into the lambda, and yes, both functions perform short-circuiting. 
+
+If an exception is thrown during the second addition, the first temporary object will be destructed properly before propagating the exception. 
+
+Sure, it's possible. Here are the ingredients. Let's start with my two favorite meta-functions: While the destruction semantics of class objects are determined by destructors, the destruction of a scalar object is always a no-op. Specifically, destructing a pointer variable does not destroy the pointee. If a local reference is initialized with a prvalue expression, the lifetime of the temporary object is extended to the scope of the local reference, so you won't get a dangling reference: 
+
+Note that names for objects and references are always lvalues: This leads to one of the most important guidelines in C++: 
+
+1: This is an extremely simplified model. The initialization details of static objects are actually much more complicated. 
+
+Scoped objects automatic objects Automatic objects (commonly referred to as "local variables") are destructed, in reverse order of their definition, when control flow leaves the scope of their definition: 
+
+Here is an O(1) solution, assuming you don't care about the order of elements:

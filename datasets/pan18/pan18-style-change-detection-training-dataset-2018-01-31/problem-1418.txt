@@ -1,0 +1,67 @@
+This is a poor man's version of a real HTTP header and should really be expressed in the headers. For example: 
+
+Because they are HTML elements like any other and there is no reason to write special case rules in the HTML specification (which would add complexity) to prevent CSS from applying to them. 
+
+Browsers may perform error recovery, but you should never depend on that. 
+
+Any element can be styled. Take, for example: 
+
+By default, an image is rendered inline, like a letter. 
+
+It sits on the same line that a, b, c and d sit on. 
+
+The most obvious, practical example is: 
+
+Certainly no common ones, but general rules aren't designed to make sense for everything that you can apply them to. They are designed for the common cases. 
+
+Use one form around the entire table. Then either use the clicked submit button to determine which row to process (to be quick) or process every row (allowing bulk updates). 
+
+Attributes are defined by HTML. Properties are defined by DOM. 
+
+Yes. Only comments and the end tag for the html element are allowed after the end tag for the body. 
+
+There is space below that line for the descenders you find on letters like f, j, p and q. 
+
+This allows each radio button to be labeled while also providing a label for the group as a whole. This is especially important where assistive technology (such as a screen reader) is being used where the association of the controls and their legend cannot be implied by visual presentation. 
+
+By moving the image div into the area below content, and floating it left, whilst sizing the other elements to fill their parents (and to float), img will now be below the header and content. 
+
+Your problem is that you have child elements that are floated, in a parent element that isn't floated. In this instance, the children, although contained by the parent, will not be "aligned" with it, as they aren't in the same "positioning" hierarchy. 
+
+I've set up a JSFiddle: http://jsfiddle.net/M2pMh/6/ 
+
+Lots of options, and you have a cleaner separation of presentation and code. 
+
+If you are going to do it this way, you can simplify your approach by using the asp:repeater control: http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.repeater.aspx 
+
+You are almost there - your use of apply-templates is causing you the problem. 
+
+See http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.repeater.itemdatabound.aspx 
+
+You can then avoid the looping and structure your table in the ASPX, which will make maintenance a lot easier. 
+
+You can simply use the HtmlAnchorClass. 
+
+For the first part of your question, you can add the borders without changing your markup generation by adding a simple css rule: 
+
+You may also want to consider using the ASP Repeater Control or the DataGrid control as each of these give you the option to template your markup. 
+
+You can find the image control by doing: 
+
+In effect, a simple example is: 
+
+Does anybody know from which version on, OSs / Service Packs / Applications ship with Unicode versions of the standard fonts? There is, for example, Microsoft's Arial unicode that ships with Office since 1999, however I do not have office installed and still my Arial has at least some of the Unicode range. 
+
+It is as if Firefox first renders the background image at 100% width, centers it, and then notices that the body needs to be stretched to 1400px. 
+
+Right now, the "history" ends at the last item so that when the user returns from the front-end view, the link to the original page is lost, and they have to search it by hand. 
+
+(if this weren't the case, the inputDraw solution suggested by @Gregory would be 100% perfect.) 
+
+then in FF, the following happens: 
+
+In the source code, I would like to have each li on one line for easier debugging: 
+
+However, these uploaders all bring their own logic of how to handle uploads on the client side. I am looking for an unobtrusive way to "fancify" existing, classical file uploads, i.e. introducing a progress bar to normal file upload forms. 
+
+This is not exactly what all the Flash-based uploaders do: They can use data from a form, but they do not provide possibilities to submit the form as is, what is what I'm looking for. I am looking for a (probably) Flash based upload function taken a step further.

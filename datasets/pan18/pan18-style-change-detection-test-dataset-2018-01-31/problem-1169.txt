@@ -1,0 +1,35 @@
+“... the said were sometimes lurking about the Islands of St. John.” (1648) 
+
+Garner gives the following examples: 
+
+Do you want to have the same word belong to different word classes in different registers in your theory of syntax? I personally would say yes to the second question. As Walter Bisang argues, there are languages where “lexical items are not necessarily preclassified for syntactic categories” (Bisang 2011: 293). 
+
+There's a wealth of research on the ordering of adjectives (also notice that not in all languages nouns can be modified by more than one adjective): Dixon 1982, Sproat and Shih 1991, Bernsetin 1993, Bouchard 1998 (and other papers), Svenonius 1993 (and other papers), Scott 2002 to start with. Also, see some papers in Adjectives and Adverbs: Syntax, Semantics, and Discourse (2008), OUP. 
+
+(too long for posting as a comment) 
+
+How many permits did you have? 
+
+The thing is that all English nouns can take (select) complements and what you call "modifiers": 
+
+“In approaching solution [read the solution] to this problem we must look ….” 
+
+And the original stem is usually more frequently used than the transposed one: 
+
+How consistent are those writers in omitting articles before “said” followed by a singular count noun? Is "the said" followed by an NP ungrammatical in their idiolect? 
+
+(my slightly incoherent ramblings on recursion, Merge, and embedding) 
+
+Actually, it is a derivational cascade. I think it's Juan Uriagereka's terminology. Uriagereka 2005 writes that command units (or CU's, objects formed by the continuous application of Merge to the same object) are spelled-out at the end of each derivational cascade. The more common term in the Minimalist Program is a phase. 
+
+Also, I don't think the term "modifier" is very common in generative syntax and is used as an umbrella term for anything attached to the head, the more common opposition being complement-specifier-adjunct (all of those are different types of modifiers). 
+
+From a cross-linguistic point of view, see The Syntax of Nonsententials: Multidisciplinary perspectives, eds. Progovac, Ljiljana, Kate Paesani, Eugenia Casielles, and Ellen Barton. 2006. Amsterdam: John Benjamins. 
+
+In some other syntactic theories, the difference between a complement (sometimes also called an argument) and a modifier is that complements are obligatory (cf. *their incredible story of) whereas modifiers are optional (their incredible story). 
+
+Also, “There is a contagious tendency to in legal writing to omit articles before nouns, perhaps on the analogy of the special legal convention for party names. … There is a tendency, for example, in tax cases to refer to taxpayer without an article, as if it were a proper name” (p. 79) 
+
+When alpha and beta are Merged, either alpha or beta projects its property (N, D, V, v, T, C etc.) onto this whole new phrase. This is what Horsntein 2010 calls Label (and Chomskyan Merge is Concatenate under his proposal; also notice that some generativists don’t do labels, like Chris Collins). However, this information about the head isn’t necessarily preserved through several instances of Merge, e.g. V selects a DP and we end up with a VP. What makes Merge truly recursive is that “the output of one derivation functions as a single item in the next derivation” (Zwart 2011, p. 116). I think this is very important, otherwise Merging gamma with [alpha+beta] will lead to simple iteration. [alpha+beta] must be treated as a single unit when it is Merged with gamma. 
+
+Now about “said” used in legalese. Garner does mention that it is used as a substitute for the, that, this, or any other deictic or “pointing” word. Used for such a word, said typifies legalese and is often parodied by non-lawyers. And lawyers occasionally fall into self-parody” (p. 793). Here’s one of his examples:

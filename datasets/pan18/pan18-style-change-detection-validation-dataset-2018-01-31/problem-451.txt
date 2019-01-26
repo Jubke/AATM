@@ -1,0 +1,13 @@
+However in none of the talks did anyone like the automatic conversions. Which, indeed, this change to remove the automatic conversions was also something I've been plotting for a while, so again, I'm quite happy to announce their removal. 
+
+One problem, though, is that tags are... slightly permanent. Once a room has tags, it cannot have tags removed unless at least one tag remains. So if it only has one tag, that tag cannot be removed, it can only be replaced. If it has more than one tag, you may remove as many tags as needed as long as you leave at least one remaining. 
+
+A user's history of flagging success tells us what should be done when they stray from the path of good flagging. But it doesn't really impact the severity of that straying, nor the necessity of action. A former 75% flagger who has redeemed herself is just as capable of a basic trip up as one of the deputies, and I don't see why it should have any more or less of an impact based on their current flag weight. 
+
+Moderators can see deleted questions and answers in a user's profile, but there is currently no way for a moderator to see all deleted comments of a specific user. The ability to see the recent deleted comments of a user would be useful to quickly see certain negative behaviour patterns. 
+
+Close flags (those in the "it doesn't belong here, or it is a duplicate" category) are arguably the least important flags. A healthy community can usually deal with closing questions on their own, getting the moderators involved mostly just speeds things up. 
+
+This leads to the effect that users knowing about the decay of the commitment score can uncommit and recommit to increase their commitment score. I've seen a few users doing that, but the vast majority probably doesn't know about that. 
+
+Duplicate questions that use different words to describe the same problem are important for people to find the content via search engines. But the user experience when an anonymous user arrives at a duplicate is less than ideal.

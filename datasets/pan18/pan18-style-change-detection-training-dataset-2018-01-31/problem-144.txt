@@ -1,0 +1,35 @@
+Inferno – Act III and Act IV iLvl 61: 27.1% iLvl 62: 21.7% iLvl 63: 16.3% 
+
+Description: You want the best gear that you can get. Anything below this is dog food. Only the cream of the crop for you. If if's not an Infinity+1 sword, your time has been wasted. 
+
+You can stand and take it from enemies that have Reflect Damage, Fast, Vampiric, anything that doesn't drop a damage spot. Even Molten is fine, as long as they don't move. Just remember, they explode when you kill them. 
+
+A single resistance; it doesn't matter which one. If you find a piece of equipment that has your chosen resistance and resist all, that's gravy. You can get 90+ resist from one piece of equipment. This will mitigate damage to a very large degree, which is absolutely required for Inferno, even for dodging. You are going to get hit. Make it hurt as little as possible. 
+
+Some of the new crafting recipes for legendary or set items require regular white items in order to craft them. 
+
+This one's a little bit of a moving target. Your goal for this is to try to get as much 6-affix gear as you can. To this end, Magic Find plays a very large part in what you want. Run Act 1 with as much Magic Find as you can possible carry and still have no problems at all. Now, here's the tricky part: If you find you are getting more legendaries than you're really wanting, that means you have too MUCH Magic Find; you want just a little less than that, to get the 6-affix rares. This is the sign that you should move up an Act. Switching out gear to be more survivable will take care of the extra Magic Find, and the higher act will garner you better chances of Inferno-class gear. 
+
+Early in Act II, in the first half of Shadows in the Desert, you meet the Eirena the Enchantress who clears illusions away that hide cultists. 
+
+To remove the gem mathematically, you would instead be multiplying the gem's average damage by the socketed weapon's attack/second, then subtract that number from the weapon. 
+
+As mentioned, they follow you for a time as they did the first time, and only after where it would have asked "Do you want X to join your party" the second disappears. The brief bits of bonus dialogue are as follows: 
+
+For some boss fights where the vast majority of the time you're simply beating on a single big baddie, what are the most effective spells (and runes) for the Wizard to use? Such a build might not be the "best" as you're prone to dying, but it would be good to know where the top is as a baseline and perhaps build beefier from there. 
+
+Talk to/interact with your "friends" before blindly giving them stuff. If they're level 1, don't give them stuff for their or their "other friend's" "level 59 Witch Doctor". If you're worried about giving away level 1-20 stuff, the opportunity cost of simply talking with your "friend" is vastly higher than grinding mobs in Hell/Inferno. If they are level 50-60 somehow (dubious, see above), don't blindly give them a ton of gear. Hopefully your friend would be offering other gear in return as they happen across it. 
+
+Double Templar After releasing and talking with the "Warrior" 
+
+Do not add people you do not know to your friends list. If they add you, contact them through some other means (e.g. SE chat room, IM, whatever) and tell them to put something identifiable in the message that is attached with the friend request (as an aside, I've probably rejected a half-dozen requests made because my name was on the GSE list and I didn't recognize them) or check their numeric identifier afterwards (right-click name, "View Profile"): 
+
+Is thorns return damage somehow a function of how much damage I sustain? What if I block or dodge? What is the approximate formula for damage return based on my current thorns? 
+
+I have noticed often when going to bid on an item, the minimum bid is some seemingly arbitrary number. I currently can't even bid on an item, even though I have more gold than the current bid, because I don't meet this limit. 
+
+Just keep doing rifts, and eventually you might get lucky again. 
+
+Electrocute's attack speed is really fast, so that 44% has a chance to trigger twice as often as the cast speed of other skills. Electrocute is free. The primary attack on any wizard build is generally meant as a filler between "real" attacks, and Forked Lightning is probably the wizard primary that deals the most damage the fastest from range. Blizzard deals 1000% damage over time, whereas this damage is instantaneous. They both have their uses, but comparing the flat numbers to each other is disingenuous. The reason Forked Lightning and Frozen Orb are used on the most common builds is because they both are the most efficient at what they do. They don't necessarily synergize with each other more than any other offensive spell/primary combination, but each one individually is very strong. Frozen Orb is a very strong arcane-power-costing offensive spell, and Forked Lightning is a very strong free offensive spell to cast when you can't afford more Frozen Orbs for the time being. 
+
+You will still have to use clicking for your primary and secondary skills, but if you use a lot of clicking and holding to attack rather than repeated clicking, you won't have to click too much.

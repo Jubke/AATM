@@ -1,0 +1,39 @@
+For the record, here's the same thing, but "properly formatted": 
+
+Multiplication in O(log n) depth is also done through parallelization, where every sum of 3 numbers is reduced to a sum of just 2 numbers in parallel, and the sums are done in some manner like the above. I won't explain it here, but you can find reading material on fast addition and multiplication by looking up "carry-lookahead" and "carry-save" addition. I used to be a C# programmer (I know C++ and Java too), but after learning D, I'd say that it would be the best language ever, if only its compiler was bug-free. Just look at these pages: 
+
+Or, if it's not possible -- is there some other STL container that would avoid such needless work? Or must I end up making my own container? It depends on the context; otherwise it's ambiguous. See this example (modified except below): Now granted, I know nothing (officially) about compilers, lexers, and parsers. All I know is from what I've learned on the web. And here is what (I believe) I have understood regarding context, in not-so-technical lingo: 
+
+Are iterators fundamentally unsafe to store? Or, should classes really be non-copyable by default? 
+
+On C++11, however, I noticed that this results in a move of the right-hand side onto the left-hand side, which performs an element-wise move-assignment to each vector on the left-hand side. This in turn causes the vector to discard its old buffer, suddenly reducing its capacity to zero. Consequently, my application now slows down considerably due to excess heap allocations/deallocations. 
+
+I've posted this on the D newsgroup some months ago, but for some reason, the answer never really convinced me, so I thought I'd ask it here. 
+
+base class subobjects and member subobjects When control flow leaves the destructor body of an object, its member subobjects (also known as its "data members") are destructed in reverse order of their definition. After that, its base class subobjects are destructed in reverse order of the base-specifier-list: 1: This is an extremely simplified model. The initialization details of static objects are actually much more complicated. In the following text, I will distinguish between scoped objects, whose time of destruction is statically determined by their enclosing scope (functions, blocks, classes, expressions), and dynamic objects, whose exact time of destruction is generally not known until runtime. 
+
+Some time ago I read an article that explained several pitfalls of argument dependent lookup, but I cannot find it anymore. It was about gaining access to things that you should not have access to or something like that. So I thought I'd ask here: what are the pitfalls of ADL? 
+
+I just inserted print statements into the lambda, and yes, both functions perform short-circuiting. Here is an O(1) solution, assuming you don't care about the order of elements: While the destruction semantics of class objects are determined by destructors, the destruction of a scalar object is always a no-op. Specifically, destructing a pointer variable does not destroy the pointee. 
+
+array elements Array elements are destructed in descending order. If an exception is thrown during the construction of the n-th element, the elements n-1 to 0 are destructed before the exception is propagated. 
+
+Scoped objects automatic objects Automatic objects (commonly referred to as "local variables") are destructed, in reverse order of their definition, when control flow leaves the scope of their definition: 
+
+Sure, it's possible. Here are the ingredients. Let's start with my two favorite meta-functions: 
+
+This leads to one of the most important guidelines in C++: 
+
+Note that the destructor body is not responsible for destructing the data members themselves. You only need to write a destructor if a data member is a handle to a resource that needs to be released when the object is destructed (such as a file, a socket, a database connection, a mutex, or heap memory). 
+
+Addition in O(log n) is done by splitting the number in half and (recursively) adding the two parts in parallel, where the upper half is solved for both the "0-carry" and "1-carry" case. Once the lower half is added, the carry is examined, and its value is used to choose between the 0-carry and 1-carry case. Note: I'm passing the vector as my output buffer. I'm not copying the data from elsewhere. It's something like: 
+
+It depends on the context; otherwise it's ambiguous. See this example (modified except below): 
+
+Or, if it's not possible -- is there some other STL container that would avoid such needless work? Or must I end up making my own container? Are iterators fundamentally unsafe to store? Or, should classes really be non-copyable by default? 
+
+For the record, here's the same thing, but "properly formatted": 
+
+Now granted, I know nothing (officially) about compilers, lexers, and parsers. All I know is from what I've learned on the web. And here is what (I believe) I have understood regarding context, in not-so-technical lingo: But, in some languages, each one has a specific meaning as an action: 
+
+On C++11, however, I noticed that this results in a move of the right-hand side onto the left-hand side, which performs an element-wise move-assignment to each vector on the left-hand side. This in turn causes the vector to discard its old buffer, suddenly reducing its capacity to zero. Consequently, my application now slows down considerably due to excess heap allocations/deallocations. Multiplication in O(log n) depth is also done through parallelization, where every sum of 3 numbers is reduced to a sum of just 2 numbers in parallel, and the sums are done in some manner like the above. I won't explain it here, but you can find reading material on fast addition and multiplication by looking up "carry-lookahead" and "carry-save" addition.

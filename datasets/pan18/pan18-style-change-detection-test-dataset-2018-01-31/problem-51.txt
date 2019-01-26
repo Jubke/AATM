@@ -1,0 +1,39 @@
+Update 2.0.3 You can't change a skill: Yes it is perfectly possible. Every time you kill a Rift Guardian in a normal Nephalem Rift, you get a chance (up to 100% chance in Torment 6) to recieve a Greater Rift key stone. They stack in your inventory by level : up to stack of 100, after 100 you start a new stack. It also means you can have several Keystone of the same level at once. 
+
+You can test it here. With the simulator you can select : Reaper of Soul has introduced with Kadala a system of gambling. I know that you can get legendaries from her but I don't know if every legendary in the game can be obtained by gambling. Nephalem rifts are a randomized dungeons system. It doesn't matter where you open the rift or the difficuly in which you open it, the place of the rift and the number of level is decided at random. 
+
+which is in my opinion more accurate. 
+
+I would like to know 2 things : Currently I don't see why any class would use a 2 handed weapon (Except the Crusader for obvious reason) 
+
+Because if you use 1 hand weapon you can benefit from an offhand item that bring you a lot of stats as well as damage that you wouldnt be able to find on a weapon. You can find 
+
+While it's clear what toughness is, it's harder to understand how to optimize it. A common mistakes is to have a really high life pool (lot of vitality) and overlook armor and all resist. While your sheet toughness will look the same, if you don't have enough resistances and armor, your life pool is just a big amount of lie. It provides a fake sense of toughness when you can actually die really easily. It's important to note aswell, since patch patch 2.1.2 : 
+
+I usually clear T10 rifts and salvage every legendaries that is not usefull for my character. I currently have more than 8000 unused Forgotten Souls. 
+
+The theorical max value is currently (as of patch 2.0.1) +4682%: 
+
+So you don't even have to worry about Kridershot turning elemental arrow into a generator. 
+
+How do I boost up my survivability ? 
+
+Toughness Toughness represents (if you read the tooltip) the number of damage your character car undergo from full life to zero. Whenever you want to see your real eDPS (effective DPS) change go here : Character calculator. On the right part : Select your sever > Put your battletag > select the character you want to test > click on "Create Build" > Simulate Gear > Select your manticore and edit the stats. While doing this on the right you will see the evolution of your eDPS depending on the weapon stats. With the new system of elemental damage, I was wondering when given the choice (for a reroll at the Mystic) if I should pick elemental damage over another historical damage stats (like Crit Chance or Crit Damage) ? How does elemental damage affect my overall DPS compared to those stats ? 
+
+The Ray of Frost and Disintegrate spells tell you that they cost 20 AP (without runes) to cast but don't tell how much they cost over time. And they say that they do 215/155% of weapon damage but don't say at over what time period it's done. Does the shrine of enlightenment increase the xp gained from: WTS [something] 150k c/o pst with offers What do they mean exactly, and what does the abbreviation stand for? 
+
+The set of skills (active & passive) that are chosen: The same goes for the different Acts in Inferno, what MP levels are equivalent between the different Acts. 
+
+From the decisions it seems to be some kind of auction because the messages usually go like: 
+
+What is the source for this preference of 1-handed weapons over 2-handed? [someting] 200k c/o going twice I've seen several times that people offer goods for sale on the Diablo 3 trade chat and add the letters "co" or "c/o" what do they mean by it? When the 1-handed bow is equipped: 
+
+WTS [something] 100k c/o pst with offers EDIT: When I say DoT, I mean during the time that the spell is on a monster, and not a DoT affect that stays after the spell was finished casting. I equipped my DH with a 1-handed bows, then I wanted to equip a stronger 2-handed bow. When I hovered over the bow the game showed a -56.1 change in damage if equipped, however when I equipped it, my damage went from 439.4 to 452.77, so it's obvious that the "hover over tool tip" was wrong. [someting] 200k c/o going once When the 2-handed bow is equipped: in addition to increasing the xp from kills made by my character? I finished Hell difficulty with MP 10, but I can't do Inferno on MP 10, so at what MP level am I better off farming Act I Inferno, than Act IV Hell on MP 10? There is no character choice that you can make which cannot be easily changed later on, except for the name and gender :) 
+
+Finally, there's another very important attribute beyond just the affixes and DPS: attack speed. While DPS dictates how much damage you can do per second, different attack speeds really encourage different styles of play. Slower attack weapons can get rid of enemies before they can to you, but higher speed weapons have a mobility and no-overkill advantages. I usually prefer higher-speed weapons even when it means sacrificing some DPS. 
+
+Edit specifically regarding Monks, there is one important difference here - Spirit-generation from skills depends on attack speed only, not on damage done or any other affixes. Since dual-wielding means +15% attack speed, a dual-wielding Monk will generally generate Spirit faster than a Monk using only one weapon. 
+
+I can't seem to find how to set a mouse button click to a regular attack. How is that done? 
+
+I cannot tell, however, if it's just flavor text or has an actual gameplay impact

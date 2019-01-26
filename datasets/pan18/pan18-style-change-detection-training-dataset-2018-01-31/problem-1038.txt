@@ -1,0 +1,9 @@
+In addition, moderators are accountable to each other (we can see the entire history of every moderator on the site), and to SE corporate, who can audit any moderator's activity in detail, at any time. Don't get me wrong; it's a pretty high bar. It better be a damn good question, or have unbelievably good answers, if we intend to keep it here. This is not a free pass for old, bikeshed questions that clearly don't belong here. 
+
+There are plenty of users more than willing to point out a faux pas, especially those that are the result of recent community decisions. And every effort should be made to insure that the sites themselves are self-describing; the Help Center and the software design should allow you to participate meaningfully in the site without ever having to go to Meta. So why not improve the verbiage in the flag dialog anyway? In no way do we want to discourage the casual flagger. The current verbiage is intended to be general advice, not a detailed treatise on how to use the flagging dialog. We still would like people to use their flags properly, but ultimately we want to hear about the actionable problems; the way you tell us about those problems is ultimately of secondary importance. 
+
+It's another way of saying "This is why we can't have nice things here." As a moderator, the actions I take are almost always initiated by a moderator flag. That means that my moderator actions are never unilateral. There is always concurrence from at least one other person in the community when I take a moderator action. 
+
+We moderators are partially to blame for this. 
+
+Things get more muddy if the sock has several posts and hundreds of rep. Is this a sock, a coworker engaged in ring voting, or just an ardent fan? There are several steps a moderator can take to determine if a sock is really a true sock, but it's always a judgment call.

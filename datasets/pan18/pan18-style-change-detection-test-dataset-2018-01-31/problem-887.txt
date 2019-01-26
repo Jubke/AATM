@@ -1,0 +1,19 @@
+Anyway, this all has little to do with your original question concerning probabilities. I am guessing that the “possible worlds” referred to are those of the universe of set theory, in which case it is the transfinite arithmetic I have referenced my original answer would be the key (or so I believe). 
+
+Thus, I would argue that achieving an unpredictable outcome for a single toss is possible. If the coin's unevenness does not influence the outcome of an individual toss, it cannot influence the outcome of a sequence of tosses. Any bias that may manifest itself must be bias in those factors that determine the outcome. 
+
+I do not see the ZF fanatic as facing a predicament. I see Aaronson facing a predicament. How can he defend his Platonist argument with a non-Platonist argument. 
+
+As you have noted in your comments, our mathematics, no matter how abstract or remote, can be seen to be rooted in our real world experience. You mention string theory, which is rooted in geometry. Similarly, our theory of large cardinals is demonstrably remote (provably undecidable), but it is rooted in the act of counting. Surely reality includes aspects well beyond our ability to experience, just as it must surely be the case that mathematics includes provable truths which are beyond our ability to imagine or root in our human experience. 
+
+Hence why logic should be taught first (Sententia Ethic., lib. 6 l. 7 n. 17 [1211.]): 
+
+Boethius, following Aristotle, said the "Speculative sciences may be divided into three kinds: physics, mathematics, and metaphysics.": 
+
+(cf. "What is the philosophical ground for distinguishing logic and mathematics?") 
+
+Ancients like Boethius and medievals like St. Thomas Aquinas, and logicians like John Poinsot, et al. all considered logic to be an art (the art of reasoning). E.g., Aristotle writes in Metaphysics I (980b26) that “the human race lives by art and reasonings.” St. Thomas Aquinas writes in the proem of his Expositio libri Posteriorum Analyticorum: 
+
+The distinction between mathematics and logic was almost universally held before modern times. 
+
+Another example: There are myriads of consequences of Euclid's axioms. Are all of these consequences not virtually present in the axioms themselves? If so, this would violate the principle "one cannot give more than one has," unless something is added to the axioms in deriving proofs from them. Is that the case?

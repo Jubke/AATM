@@ -1,0 +1,49 @@
+Note that any flag marked as "other" will be seen by a moderator, and no actions taken by any user will ever automatically resolve the flag, as such "other" flags cannot be marked as "disputed". 
+
+While having declined flags is bad, having disputed flags is...less so. They're certainly not something to be as concerned about, because it usually means someone wasn't specifically evaluating your flag, but rather performing some related action that rendered your flag "moot" in some way. 
+
+Flag statuses are primarily just a form of feedback to you. So long as you know how to properly respond to similar instances in the future, everything is fine. If you have a particularly huge percentage of declined flags then you may enter the field of "flag abuse", resulting in some sort of consequences, but you'll almost never unintentionally get there. Beyond this feedback, the number isn't really used anywhere. 
+
+Helpful Declined Disputed Helpful means a mod specifically marked the flag as helpful, or the action that you were suggesting through a flag was taken by the community. 
+
+The post was flagged as spam. I agreed. The link that supposedly went to a code sample actually went to a computer repair shop's website. 
+
+I posted this as a comment under @Bill's answer a few minutes ago, but I guess it deserves to be expanded into its own answer since the question is a feature request. 
+
+Say that your first choice was candidate A, your second choice was candidate B and your third choice was candidate C. Here's where your vote goes, assuming nobody you vote for gets eliminated: 
+
+As with any voting system, there exists some threshold for victory, and any candidate who reaches the threshold is considered "elected." Meek STV calculates this threshold ahead of time. If a candidate gets more than enough votes to be elected, the difference between the votes received and the threshold is the "surplus." The candidate keeps just enough of everyone's vote to stay above the threshold; the rest is given to the voters' next-most-preferred choices in "redistribution." 
+
+Example time. Let's say that 100 voters select candidate A as their first choice. Let's also say that the threshold is 25. At the end of the first round, candidate A is considered elected. Since the threshold is 25, candidate A only keeps 25/100, or a quarter, of the votes he got. But this doesn't mean that 75 of the people who voted for him transfer their votes to their second choice! 
+
+Thinking about it some more, it's possible that there was just a non-native speaker/language barrier issue and what the OP meant was that the code he was working on was in use at the target website. That would make it not-spam, but still not very useful. Looking again now. 
+
+Alright, so how is that threshold calculated, anyways? It's a lot harder than it is in older STV methods; actually, it's the reason the algorithm requires a computer. Meek STV is the only method to change quota mid-process. The quota generated at the start of every round by this expression: 
+
+I don't consider this abuse. "fuction" -> "function" is definitely an improvement, and nothing spammy or offensive is being added. Things would be better, though, if the user in question would edit entire posts, rather than just fixing titles and ignoring other problems. 
+
+The election pages' sidebars state that Stack Exchange elections use the Meek STV vote-counting method: 
+
+A: wa B: (1 - wa) wb C: (1 - wa) (1 - wb) wc excess: (1 - wa) (1 - wb) (1 - wc) 
+
+tl;dr: no, a flag's status will never change once it has been set. 
+
+Note that any flag marked as "other" will be seen by a moderator, and no actions taken by any user will ever automatically resolve the flag, as such "other" flags cannot be marked as "disputed". 
+
+There are three types of flag statuses: 
+
+In generally I'd say don't be too too concerned. By all means look through your flags periodically; if you see declined flags then a trusted site moderator specifically felt that your flag was wrong, so you should consider reforming something. While a disputed flag might mean that you're not suggesting the proper action, it also might not. By all means look into it, but if you can see that you did the right thing (i.e. the post was later closed/deleted) then you know you're fine and move on. 
+
+Declined flags will "count against you", but disputed flags won't; it's more like you never submitted them in the first place. 
+
+A: wa B: (1 - wa) wb C: (1 - wa) (1 - wb) wc excess: (1 - wa) (1 - wb) (1 - wc) 
+
+I don't consider this abuse. "fuction" -> "function" is definitely an improvement, and nothing spammy or offensive is being added. Things would be better, though, if the user in question would edit entire posts, rather than just fixing titles and ignoring other problems. 
+
+A: wa B: 0 C: (1 - wa) wc excess: (1 - wa) (1 - wc) 
+
+Example time. Let's say that 100 voters select candidate A as their first choice. Let's also say that the threshold is 25. At the end of the first round, candidate A is considered elected. Since the threshold is 25, candidate A only keeps 25/100, or a quarter, of the votes he got. But this doesn't mean that 75 of the people who voted for him transfer their votes to their second choice! 
+
+Note that, after any given redistribution, an already-elected candidate may exceed the threshold again; the algorithm re-redistributes votes to account for this. 
+
+As with any voting system, there exists some threshold for victory, and any candidate who reaches the threshold is considered "elected." Meek STV calculates this threshold ahead of time. If a candidate gets more than enough votes to be elected, the difference between the votes received and the threshold is the "surplus." The candidate keeps just enough of everyone's vote to stay above the threshold; the rest is given to the voters' next-most-preferred choices in "redistribution."

@@ -1,0 +1,35 @@
+Here is another workaround, in case the previous one doesn't work. 
+
+tl;dr: While no concrete numbers have been confirmed yet, the odds of finding one from a PokéStop are very slim. Based on the reports I've been reading, it looks like the odds to receive one are at or around 1%, possibly lower. In fact, from this report, the calculated probability of receiving an evolutionary item seems to be roughly 0.14%, as a grand total of 33 evolutionary items were received among over 24,000 drops. 
+
+According to this site's report: 
+
+It's worth noting that (based on the picture), the total distance does not reset. Only the current progress towards the next reward does. 
+
+I got an upgrade with my 7 day streak this morning. It may be that we're guaranteed an evolution item at each 7 day streak but you can also get them randomly at pokestops. 
+
+Within my first 4 in the way to the station this morning, i received a Sun stone. Nothing since. 
+
+I received a dragon scale this morning on my 7th day streak pokestop. In the U.K. near Reading. 
+
+Additionally, it looks like this step may or may not be required: 
+
+These bonuses will be averaged in the case of a dual-type Pokémon. For instance, if you attempt to catch a Gloom (Grass/Poison) and you have a gold Punk Girl badge (thanks to all those Weedle), but only a silver Gardener badge, you will have a bonus catch rate of +2.5, as the gold badge gives you +3 and the silver gives you +2. 
+
+Though this doesn't explain exactly how this ambiguous +1/2/3 modifier works, some people have reported that the badge shines occasionally with the "Gotcha!" notification once a Pokémon is captured. (See here and here). 
+
+Species group: Searching by "+species" will return all Pokémon in that evolutionary chain. It doesn't matter which Pokémon in the chain you search for. "+Bulbasaur" returns the same results and "+Ivysaur". Note: This has been noted to only work for Pokémon you currently have in your Box when you do the search. If you do not have Kakuna in your Box, but have Beedrill and Weedle, then "+kakuna" would return no results, while "+weedle" and "+beedrill" would return themselves and each other. 
+
+It seems that the way it preselects these 6 is by finding the best type matches for the opponent. From what I've seen it tends to base this on typing and movesets, then sorts by CP and HP. 
+
+However, it's worth noting that it seems like you are now guaranteed to get an evolutionary item when spinning your 7th day streak PokéStop, according to this in-game notification: 
+
+Pokédex Number: Searching by a number or range of numbers will return all Pokémon that match the criteria. e.g. "1" will return Bulbasaur, whereas "1-3" would return Bulbasaur-Venusaur. 
+
+Luckily, I had the perfect group of Sandshrew to test with (2 males, 1 female, and exactly 50 Sandshrew candy), so I evolved one of the males to see how it affected silhouettes. It appears that until you evolve one after the update, the evolution icon will display a silhouette. Furthermore, the silhouette is, indeed, gender-based. 
+
+About 250 spins today, got a Sun Stone from a random spin. 
+
+One comment linked to this thread which originally speculated that these items only came from 7th day streak spins (this has since been disproven numerous times, though it has now been confirmed that you are guaranteed an evolutionary item for this): 
+
+With the new gym update, Pokémon have a motivation meter while defending a gym. This meter degrades over time, which makes it easier to remove that Pokémon from its defending position. Motivation can be reduced quicker when it loses a fight defending the gym, but can also be replenished using berries. However, if a Pokémon is left alone at a gym too long, it will lose all motivation and be returned to you as soon as it is defeated a single time.

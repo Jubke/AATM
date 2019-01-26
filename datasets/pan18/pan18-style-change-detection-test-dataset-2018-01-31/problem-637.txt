@@ -1,0 +1,33 @@
+Same thing runs in activity class and not in the android test project. You have to declare which activity is the appropriate parent for each activity. Doing so allows the system to facilitate navigation patterns such as Up because the system can determine the logical parent activity from the manifest file. 
+
+Answer already given and accepted.. update your code like below, and try to understand the each code line 
+
+So, Is there any simply way to communicate between python script and android app so I will avoid the use of xml file and directly used the data send to me by python script? And also it gives me faster execution. 
+
+Your TextView Attributes need to be something like, If Am going wrong then please guide me. Thanks Updated Answer: Up Navigation Design Then also insert this image Uri in Media Store, Now use this Uri for your further use, I tried this, (This is my android code for accessing xml file) 
+
+So for that you have to declare your parent Activity in tag Activity with attribute In my android project I am reading a xml file which are continuously updated by one python script. and for update data I am continuosly reading the xml file and whenever the data is updated in xml file by python script I used that in my app. Using Pipe Socket Communication AIDL So which one is better and why? The Assets folder is an “appendix” directory. The R class does not generate IDs for the files placed there, so its less compatible with some Android classes and methods. Also, it’s much slower to access a file inside it, since you will need to get a handle to it based on a String. However some operations are more easily done by placing files in this folder, like copying a database file to the system’s memory. There’s no (easy) way to create an Android XML reference to files inside the Assets folder. Bad practice of use of AsyncTask, Is there anybody knows how it works or what happens? 
+
+It happen only if you are starting Activity A again from Activity B. 
+
+This is what I have used, for starting service after 30 seconds from current time, 
+
+But now problem is, because of python script and my android project continuosly accessing one xml file (One resource so I think concurrency problem), it takes so much time to get data from xml file and write data to xml file through python script. If you want to have a simple Line in your Layout to separate two views you can use a generic View with the height and width you want the line to have and a set background color. 
+
+While starting my application I get the following warning in Logcat: This approach is only usable if you want horizontal or vertical lines that are used to divide layout elements. If you want to achieve something like a cross that is drawn into an image my approach will not work. 
+
+How would you go about finding the cause for this warning? If you want this to build an exit button from your app please read this article on exit Buttons in Android 
+
+Sadly the bar is nearly white and in my case displayed on a white background. The progressbar is nearly invisible because of that. 
+
+If you are using Eclipse for Development just right click on your project and click export. Now choose Android and then Export Android Application. In the next step confirm the project that you want to export. Then click next and now you should be able to select create new keystore. Now fill in the required fields and your should be able to sign your app. Be sure to make a backup of the keystore file and remember your password. Losing this will make it impossible to update your application. Source: http://androidxref.com/source/raw/frameworks/base/core/res/res/values-en-rGB/strings.xml 
+
+So far that works perfectly. I have a round shaped item on a transparent canvas. Meaning you can see everything of the background that is outside of that circle. However, you cannot select it, because it is still the hovering canvas, just with a transparent paint. 
+
+I have a view that is round and hovering above (-> in z-axis direction coming out of the screen) the main content. When the someone taps the screen I want either the main content to be selected or the view hovering above, when it covers the main view. Now I'm wondering, to solve this issue, if it is possible to make the view/canvas itself round shaped? 
+
+I added an image for better explanation what I try to achieve. 
+
+Any ideas of what I've to do different? I'm running the following line in an Activity, which is within the same application, but in a different package: 
+
+I suggest you use for every "screen" that is significantly different from another screen (in both look and data that it is related to) a new activity. This gives you easier control and you don't have to mess up your code with plenty of variables to define different states. Using different activites you usually shouldn't have to worry about running in a undesirable or even undefined state.

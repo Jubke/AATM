@@ -1,0 +1,43 @@
+But I will try to answer your question about why Germany didn't do it. 
+
+I guess it's a question of battery life too, but not for powering the propeller, only for the lights and maybe air pumps. 
+
+Edit: I should have specified this, but I want to know how long the sub can stay down near max depth, not snorkeling. Snorkeling is done very near the surface where it can be spotted by aircraft or even other ships, and some naval surface radar could detect periscopes or snorkels around a distance of 5 miles. 
+
+From some more data and maps on that site, especially this table, I was able to construct a map to show what railways existed in 1941: 
+
+For a submarine in the WW2-era, how long could it stay submerged if it was not running its engine? This is a question of crew size, oxygen, food/water, and CO2 scrubbers, and maybe other stuff I'm not aware of. 
+
+Specifically, how much of the German Army was on the West (either occupying France or waiting to invade Britain), versus how much guarding the East? How much of the Luftwaffe was busy with Britain, versus how much was guarding the East? Was the East Front fortified at all with trenches? 
+
+The Battle of Britain went on between July and October of 1940. During this time, how prepared was the German Eastern Front? 
+
+The reason I ask is because I want to know stealth capability for travels. I imagine a sub travelling on the surface at night, but at day it submerges and stays down and doesn't move (except drifting with the current). It may have to stay down longer than 12 hours if some ship happen to be nearby. 
+
+So the most logical invasion plan would probably go something like this: 
+
+So why didn't Germany do this? 
+
+There's a phrase I know that goes something like this: Good generals study tactics, but really good generals study logistics. So let's have a look at a topographical map of Turkey (click for higher resolution): 
+
+From the mountainous regions, you would think logistics would be a nightmare too. However, the immediate question is, were there any railways in Turkey around 1940? 
+
+As you can see, it's very mountainous. In that respect, it's similar to Afghanistan. A war here would be very different from the war in flat East Europe. That does not mean it's impossible, but it would take a lot longer than normal. 
+
+BTW, at this time the Axis did not include Hungary, Romania, Yugoslavia, or Bulgaria. So the Eastern Front is relatively small at this point, running through Poland, and along Austria and Italy. 
+
+Dark Red lines I confirmed existed by 1941. Bright Red lines I could not confirm exist by 1941. Even so, you can see that there is a decent network of railways throughout most of Turkey. 
+
+From the wiki article on Swedish iron mining during WW2, there are a lot of uncited claims. I'll quote the most outstanding of them here: 
+
+And the answer is yes. I found a great site, trainsofturkey.com, that has a lot of historical info on this. 
+
+I'm looking for documented numbers regarding this. 
+
+Anyway, somehow clear a beachead and get access to at least one railway, I would guess at Istanbul or Samsum. Then import rolling stock to move your army into the interior. If Germany could get access to a railway, this is feasible. Germany could certainly produce its own rolling stock (train engines, train cars, etc.), and there appears to be a rail connection to Istanbul from Greece or Bulgaria. 
+
+When Germany conquered the Balkan Peninsula, it was a very bloody victory. The British were helping Greece at the time, ensuring large casualties for the Germans. They could expect more of the same if they tried it in Turkey. 
+
+We also need to know the state of Turkey's military at this time. For this I rely on Wikipedia's Military History of Turkey. It does not appear comparable to Germany's military, nor to Russia's military for that matter. 
+
+Blockade and bombard the coastal cities and towns. This would require sea power, which Germany didn't have in this part of the world. Britain had almost all the sea power in the European Theater, and note that Cyprus has a major British Naval Base right next door.

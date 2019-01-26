@@ -1,0 +1,33 @@
+At this point I would suggest a general anthology of philosophy. There are many of these, and most of them have similar selections of work. The advantage here is that you're reading primary sources, not interpretations (although there are usually introductory essays to go along with them), and you're reading a large cross section of best-known work of the most influential thinkers. 
+
+You might also find it worth reading any one of the innumerable collections of the wisdom of the Sufis and the Zen Buddhists. 
+
+Plato's work is all written to communicate directly with different segments of his audience. It isn't hard to read in a good translation, although the unfamiliar cultural context can be baffling at times (as can Plato's uncompromising Idealism). Taken together, his Republic and Symposium are the foundational key works of all Western philosophy. Descartes' Meditations are quite short and very clearly written. I personally dislike Hume, but he's easy to read (and has a wicked sense of humor) once you get used to the old fashioned style. The literary work by Sartre and Camus is compelling just as literature, in addition to its philosophical merits. Kierkegaard is more poetry than prose, if you can get past that, he's a good read. Lao Tzu is elliptical and aphoristic --that's apparently a core feature of the Chinese language --but not hard to read (in a good translation). Ecclesiastes is very accessible. (Conversely, Hegel and Wittgenstein and to a lesser extent Kant and Aristotle, are notoriously hard to read, while Confucius is obscured by an excess of culturally specific references.) 
+
+Mind (nous) is “the part of the soul by which it knows and understands” (De Anima iii 4, 429a9–10; cf. iii 3, 428a5; iii 9, 432b26; iii 12, 434b3). 
+
+Cartesian philosophy may have laid the ‘first principles’ for the conclusions that Spinoza draws in Parts Four and Five of the Ethics, but the doctrines that we find embedded in the propositions of those parts are a response to a far different tradition, one that has as its most prominent members the medieval Jewish philosophers Maimonides and Gersonides. 
+
+So, the answer is: perhaps indirectly, it says so. 
+
+But, and this is the point of view shared by some "distinguished philosophers which have studied the philosophy of mathematics, like Frege and Russell, and currently debated under the headings of Naturalism and Indispensability argument, can we "make sense" of all mathematical science only considering it some sort of "formal game" deprived of any reference ? 
+
+See Peter Smith, An Introduction to Formal Logic (2003), page 1 : 
+
+The "things" posited as the source of those interactions is the noumenon: it is completely unknowable to humans. In Kantian philosophy, the unknowable noumenon is often linked to the unknowable "thing-in-itself" (Ding an sich). 
+
+In the same way, having assumed the concept of set (a collection of things), we can easily imagine the "limiting case" of a set without elements; with the basic axioms for sets (specifically : the Extensionality axiom) we can prove that all empty sets are equals, and thus speak of the empty set. 
+
+Plato's work is all written to communicate directly with different segments of his audience. It isn't hard to read in a good translation, although the unfamiliar cultural context can be baffling at times (as can Plato's uncompromising Idealism). Taken together, his Republic and Symposium are the foundational key works of all Western philosophy. Descartes' Meditations are quite short and very clearly written. I personally dislike Hume, but he's easy to read (and has a wicked sense of humor) once you get used to the old fashioned style. The literary work by Sartre and Camus is compelling just as literature, in addition to its philosophical merits. Kierkegaard is more poetry than prose, if you can get past that, he's a good read. Lao Tzu is elliptical and aphoristic --that's apparently a core feature of the Chinese language --but not hard to read (in a good translation). Ecclesiastes is very accessible. (Conversely, Hegel and Wittgenstein and to a lesser extent Kant and Aristotle, are notoriously hard to read, while Confucius is obscured by an excess of culturally specific references.) 
+
+To label each member of a collection with a number, as we seem to do in counting, is in effect to set up a correspondence between the members of two collections, the objects to be counted and the natural numbers. In counting, for example, a collection of seven objects, we set up a correspondence between the objects counted and the numbers from one to seven. Each object is assigned a unique number and each number (from one to seven) is assigned to some object of the collection. If we say that two collections are similar when each has a unique associate in the other, then counting a collection may be said to determine a collection of numbers similar to the collection counted. 
+
+So, the answer is: perhaps indirectly, it says so. 
+
+Mind (nous) is “the part of the soul by which it knows and understands” (De Anima iii 4, 429a9–10; cf. iii 3, 428a5; iii 9, 432b26; iii 12, 434b3). 
+
+A quite authoritative source can be Aristotle... 
+
+His treatment of logic: The Principles of Logic was published contemporaneously with Frege's Grundlagen and today is considered "archaic". 
+
+In phil of math we "usually" speak of platonism, while in phil of other branches of science we prefer the term realism, which seems more "palatable" and less "ontological committed".

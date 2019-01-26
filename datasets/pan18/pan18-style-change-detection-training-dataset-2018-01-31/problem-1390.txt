@@ -1,0 +1,55 @@
+I've found this project on github, but it's no longer maintained. 
+
+You should put a blank line between each group of imports. 
+
+Decided to post it as an answer, since clearly: 
+
+It'll be good to see the csv file itself, but this might work for you, give it a try, replace: 
+
+Whether the session should accept all SSL certs by default. 
+
+How can I retrieve performance logs using python selenium bindings? 
+
+Quote from Initialization process docs: 
+
+For this particular example, currently latest available versions are 1.6.2 and 3.3.4 for Django and lxml respectively. 
+
+It'll take time and additional challenges to understand how exactly they are detecting Selenium, but what can we say for sure at the moment: 
+
+As a workaround, I'm calling Optimize Imports after that organizes the imports correctly. 
+
+When invoking a management command. 
+
+This function is called automatically: 
+
+I'm trying to follow the idea suggested in the Web Performance Testing with WebDriver google test automation conference talk and ChromeDriver "Performance Log" documentation page to get the trace data which I want to submit to webpagetest for performance analysis later. 
+
+I'm about to embark on some large Python-based App Engine projects, and I think I should check with Stack Overflow's "wisdom of crowds" before committing to a unit-testing strategy. I have an existing unit-testing framework (based on unittest with custom runners and extensions) that I want to use, so anything "heavy-weight"/"intrusive" such as nose, webtest, or gaeunit doesn't seem appropriate. The crucial unit tests in my worldview are extremely lightweight and fast ones, ones that run in an extremely short time, so I can keep running them over and over all the time without breaking my development rhythm (e.g., for a different project, I get 97% or so coverage for a 20K-lines project with several dozens of super-fast tests that take 5-7 seconds, elapsed time, for a typical run, overall -- that's what I consider a decent suite of small, fast unit-tests). I'll have richer/heavier tests as well of course, all the way to integration tests with selenium or windmill, that's not what I'm asking about;-) -- my focus in this question (and in most of my development endeavors;-) is on the small, lightweight unit-tests that lightly and super-rapidly cover my code, not on the deeper ones. 
+
+So, before diving in and spending a day or two of precious development time "rolling my own" simulations of GAE subsystems for unit testing purposes, I thought I'd double check with the SO crowd and see what y'all think of this... or, if there's already some existing open source set of such simulators that I can simply reuse (or minimally tweak!-), and which I've just failed to spot in my searching!-) 
+
+So, in this sense (what do typical implementations do), Python is an "interpreted language" if and only if C# and Java are: all of them have a typical implementation strategy of producing bytecode first, then executing it via a VM/interpreter. 
+
+This popular meme is incorrect, or, rather, constructed upon a misunderstanding of (natural) language levels: a similar mistake would be to say "the Bible is a hardcover book". Let me explain that simile... 
+
+Listing the contents loops over the slots, and so keys are listed in the order they currently reside in the table. 
+
+Note that as of Python 3.3, a random hash seed is used as well, making hash collisions unpredictable to prevent certain types of denial of service (where an attacker renders a Python server unresponsive by causing mass hash collisions). This means that the order of a given dictionary is then also dependent on the random hash seed for the current Python invocation. 
+
+There is no such function; the easiest way to do this is to use a dict comprehension: 
+
+The exact output for your scan-time option then becomes: 
+
+You misunderstand how boolean expressions work; they don't work like an English sentence and guess that you are talking about the same comparison for all names here. You are looking for: 
+
+The order is not arbitrary, but depends on the insertion and deletion history of the dictionary or set, as well as on the specific Python implementation. For the remainder of this answer, for 'dictionary', you can also read 'set'; sets are implemented as dictionaries with just keys and no values. 
+
+Note that if an exception is raised at this point (possibly resulting in a 400 Bad Request response), your JSON data is invalid. It is in some way malformed; you may want to check it with a JSON validator. 
+
+The following sequence also creates a full-on property, by using those decorator methods. 
+
+You need to use the proper git URL: 
+
+If you got that Unicode value from a string literal, it was decoded using the wrong codec. It could be your terminal is mis-configured, or that your text editor saved your source code using a different codec than what you told Python to read the file with. Or you sourced it from a library that applied the wrong codec. This all has nothing to do with the JSON library. 
+
+Other implementations are free to use a different structure for dictionaries, as long as they satisfy the documented Python interface for them, but I believe that all implementations so far use a variation of the hash table.

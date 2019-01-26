@@ -1,0 +1,13 @@
+While you can do what you're trying in some scripting languages such as PHP (and this question is often asked by many PHP programmers who start Java), this is not how Java works, and in fact variable names are a much less important than you may realize and hardly even exist after code is compiled. What is much more important and what is key are variable references -- the ability to gain access to a particular object at a particular point in your program, and you can have Strings refer to objects easily by using a Map as one way. 
+
+Some (jeanette/kleopatra) say to almost never use ActionListener, and to instead use Actions such as an AbstractAction. It's almost always a bad ideal to have your GUI class implement your listeners though as this breaks the Single Responsibility Principle and makes your code more difficult to maintain and extend,and so I strongly urge you not to do that. 
+
+Addendum: "mm" in the format String is not the same as "MM". Use MM for months and mm for minutes. Also, yyyyy is not the same as yyyy. e.g.,: 
+
+But regardless, you pass references of GUI objects the same as you would standard non-GUI Java code. If one window opens the other (the second often being the dialog), then the first window usually already holds a reference to the second window and can call methods off of it. The key often is when to have the first window call the second's methods to get its state. If the second is a modal dialog, then the when is easy -- immediately after the dialog returns which will be in the code immediately after you set the second dialog visible. If it is not a modal dialog, then you probably want to use a listener of some sort to know when to extract the information. 
+
+And again, if this information doesn't help you, then please tell us more about your program including showing us some of your code. The best code to show is a small compilable example, an SSCCE similar to what I've posted above. 
+
+For a simple example that has one window open another, allows the user to enter text into the dialog windows JTextField, and then places the text in the first window's JTextField, please have a look at this: 
+
+The answer is of course to create a SimpleDateFormat object and use it to parse Strings to Date and to format Dates to Strings. If you've tried SimpleDateFormat and it didn't work, then please show your code and any errors you may receive.

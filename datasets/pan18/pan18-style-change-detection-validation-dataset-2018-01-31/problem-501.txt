@@ -1,0 +1,65 @@
+On the other hand, I don't see any reason to keep this. 
+
+Smart phones Full size tablets Mini tablets eBook readers Next gen consoles New tech/wearable This was already present in 2012 with older choices. They should be updated. 
+
+The age of the code base was I found the code base The test coverage of the code base was If you found a good or adequate test coverage, the test suites included If you found a good or adequate test coverage, in relation to preventing bugs from reaching production, the test suite was Overall, our testing strategy has made us deliver I am very interested in this because it would give us real data about people's experience of testing, and in particular test these hypotheses: 
+
+Do you agree with the above statement? 
+
+A religious group is likely to find offensive some talk about abortion. Should we disallow any talk about it? Blasphemy laws are not OK, I came from a country with one. Do we want to enable that kind of bigotry? 
+
+Since it's so easy, it has a lot of answers, a few of which are not even coding related. There's one answer about economics and another about workplace politics. Come on. 
+
+Treating good questions with the appropriate attention is the best way to help people change in the way you want 
+
+The other three questions are in place to separate likely confounding factors, such as the age of the code base (1.) and the kind of testing strategy (3., 4.). 
+
+Sometimes the community can take care of itself, however on things like bugs and feature requests, we are basically waiting for the magnificent Stack Overflow posse to do something. 
+
+Thanks for this useful guidance, I agree with everything. Except... 
+
+I am personally convinced that reviewing the whole Internet presence, including Stack Overflow reputation points, is fundamental to finding valid candidates. 
+
+Since the new search was introduced in 2012 there haven't been many changes to the way we score results and in general the search feedback has been good. However, we think we can do better -- therefore, we should. 
+
+A couple of examples that happened to me in the past 2 months: 60-score feature request without answer, 40-score bug report without answer. I'm sure there are dozens of similar examples. 
+
+Why are we even considering to keep it? 
+
+Thus, as of last week, we have begun improvement work to make our search moar awesome. We decided that a good starting point is tracking search sessions -- the series of actions a user makes when performing a search. 
+
+Creationists are likely find offensive any talk about paleontology which does not support or include their wrong views. 
+
+I don't like the bigotry blanket clause, as it will enable bigotry instead of the opposite. 
+
+In other words, not all flags should require an action beyond a review to be deemed useful. 
+
+Since it's so easy, it has a lot of answers, all possibly correct and equivalent. Voting basically becomes a beauty contest on who has the nicest way of generating a random person out of a fixed pool. 
+
+It's not the kind of content we want: question is not very interesting, answers are in some cases poor, the overall example is not a great beauty to behold. 
+
+This is the only possible way this could work. 
+
+Some valid reasons for flagging (mark as VALID): 
+
+The point is: where does it end? 
+
+Performance "score cards" like this one are very useful to us: for example if we find that users searching for a particular term are getting bad results, we've found something concrete that we can fix. 
+
+It doesn't require any programming expertise to answer. In fact, it's no different from asking "Good methods how to pick who's 'it' at the playground". 
+
+Please do not take offense at other's display of religiosity (or lack thereof). Demonstrate tolerance. We all have equal rights to be wrong :-) 
+
+We often find these sites have great ideas and great communities. Looking at them helps us serve you better! 
+
+Flags are useful because the help moderators (and high-rep users) to keep an eye on all hot spots in the site they moderate. For this reason, flagging should (and is!) encouraged whenever possible. On the other hand, signal/noise ratio should also be kept high. 
+
+At Stack Exchange we do so all the time. Among all the factors we do consider: 
+
+It will sound lame and self-referential, but it's also very true. 
+
+This allows us to create search performance reports similar to miniprofiler. They look something like this. 
+
+You can see my profile at http://careers.stackoverflow.com/sklivvz. We actively encourage showing off your Stack Overflow reputation points. 
+
+I am interested because I have a hunch that developers tend to struggle to gain trust in many companies. I think it's an important variable to measure.

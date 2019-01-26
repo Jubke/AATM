@@ -1,0 +1,65 @@
+I've been playing around with some code I have found online, and I almost have it where I want it. I just can't figure out how to accomplish the last part. In this JSfiddle: 
+
+EDIT: The buttons in the corner will not be submitting the search. The go button would still be clicked to submit it. 
+
+EDIT: Okay, so I have learned that you cannot apply pseudo elements to inputs as they are technically empty. What would be the best work around that would involve not changing the inputs? I'm open to jQuery options. 
+
+NOTE: This looks similar to a previous question I have posted, but is about another issue. 
+
+So, I'm playing around with an idea I have. What I want to accomplish is to have a 6x6 table, and as you hover over a cell, it will change the BODY background color. I plan on only applying this to select cells in this table. 
+
+All you should need to add is this: 
+
+As of right now, I have it working with a single div. After a lot of googling and searching on StackOverflow, I can't for the life of me get it working with a table. 
+
+I made this one as basic as possible and should 100% fit your needs now. 
+
+So, I'm working on a little project when I'm bored at work. It isn't meant to be anything serious and I'm teaching a bit of javascript, jquery, html and css as I go (Thanks to you fine folks of course). This part I can't figure out, or find anything about. 
+
+EDIT: I now have this: http://jsfiddle.net/cGZxv/115/ What if I want to get rid of container div and just use "document"? Is there a cleaner way to do this? 
+
+Final Edit: http://jsfiddle.net/7Dr2S/6/ 
+
+I'm open to jQuery, javascript, or pure CSS solutions, whatever would work the easiest. 
+
+My page is: http://afrohorse.netau.net/ 
+
+http://jsfiddle.net/cGZxv/114/ 
+
+As of right now, I have a form that when you type in, and press go, it will search google. I plan on having it so I can click one of four buttons (located on each corner of the page) and it will change where it searches when you submit. Here is the code for my form. 
+
+I've developed an application that creates absolute links by prepending urls with the site root (of whichever site it is hosted). 
+
+I'm thinking this can be done with an iFrame, but I've never done this before so I don't know the best way to do this. 
+
+Note: I'm not trying to go up a directory, otherwise I would use ../ I'm simply trying to stay in the same directory. Since there is a slash after SITE_ROOT, I can't leave it blank or it would become a root relative link. 
+
+I am starting to build "drill-down" select elements (select elements that filter their options based on previous options you have selected. 
+
+I am trying to style the divs to fill the entire contents of the table cell. That means that the background color should fill the height of the table cell. How can I get the div to fill the height of the table cell? 
+
+Here is a jsfiddle to play with. 
+
+Solution I originally thought of hiding and showing options, but it turns out that approach is not cross-browser compatible. The easiest, cross-browser method I have come across is creating a copy of the original select options and replacing the options once the user has made a selection. I wrote a little jQuery plugin that makes it a bit more reusable. 
+
+http://jsfiddle.net/cGZxv/114/ 
+
+NOTE: This looks similar to a previous question I have posted, but is about another issue. 
+
+I'm open to jQuery, javascript, or pure CSS solutions, whatever would work the easiest. 
+
+All you should need to add is this: 
+
+As of right now, I have it working with a single div. After a lot of googling and searching on StackOverflow, I can't for the life of me get it working with a table. 
+
+EDIT: The buttons in the corner will not be submitting the search. The go button would still be clicked to submit it. 
+
+My page is: http://afrohorse.netau.net/ 
+
+So, I'm playing around with an idea I have. What I want to accomplish is to have a 6x6 table, and as you hover over a cell, it will change the BODY background color. I plan on only applying this to select cells in this table. 
+
+EDIT: I now have this: http://jsfiddle.net/cGZxv/115/ What if I want to get rid of container div and just use "document"? Is there a cleaner way to do this? 
+
+EDIT: Okay, so I have learned that you cannot apply pseudo elements to inputs as they are technically empty. What would be the best work around that would involve not changing the inputs? I'm open to jQuery options. 
+
+I made this one as basic as possible and should 100% fit your needs now.

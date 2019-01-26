@@ -1,0 +1,37 @@
+If you're unsure how to edit your textures, you can read about it here. 
+
+You can also set waypoints with it. 
+
+EDIT: Since the maps of Minecraft 1.6 are virtually useless, I've just installed the new update for this mod, which now displays coloured wool as the appropriate colour, and as a bonus, no longer requires Modloader to install. I'll also include a video of the mod in action. 
+
+      I found a really neat video a while ago of a Mega Mob Factory someone had made for farming Ham. I'm sure you could do the same with a mob of creepers. 
+
+Try getting everyone on the server to leave the area, and come back. The easiest way I can think of to achieve this if there are a lot of people playing is to try a server reset. This should cause them to despawn. 
+
+Note: the following is for a Windows machine. 
+
+Updating the game will also remove the mod, as it will update your minecraft.jar file, but it won't remove the craftscripts folder or WorldEdit from your bin folder. However, leaving those two items there will not affect your game at all, so updating your game is a much faster way to remove the mod from your gameplay. 
+
+So villagers will always breed, but also, will always be killed if you AFK for long enough. 
+
+On the wiki, I have found no indication as to the range at which a spanwer makes noise. Is it 17m Euclidean? (That is the activation range.) 
+
+I have the following underground farm. It's not optimal in terms of space, but for a farm, it's very efficient, and has automatic harvesting. Planting is always manual on these things unfortunately, and that's the bottleneck for massive production. 
+
+On the far right, I place a water gate. 
+
+There are many tutorials on the topics, in particular, google: Minecraft automatic tree farm (or minecraft AFK tree farm). A video from a more famous youtuber than previously posted is here: 
+
+A while back, (release 1.2 ??) I had a skeleton XP farm in vanilla Minecraft, that would crash minecraft whenever it got more than 300 skeletons trapped into it. (That number is from old memory, that's my best effort recollection.) 
+
+I bumped up memory to 4 Gig, and I've never had minecraft crash since due to excessive numbers of mobs. (It will get laggy, whenever there are more than 500 mobs around) 
+
+REALLY IMPORTANT EDIT: With 1.5, this method of installation no longer works: you need to append the class files of the mod into the minecraft.jar file. If you're unsure how to do this, you can simply download a copy of the already modded minecraft.jar Here. 
+
+So what I'd suggest, is that you save your near-empty inventory, give yourself enough material to get back home, and then reload your old inventory. 
+
+EDIT: Since the maps of Minecraft 1.6 are virtually useless, I've just installed the new update for this mod, which now displays coloured wool as the appropriate colour, and as a bonus, no longer requires Modloader to install. I'll also include a video of the mod in action. 
+
+Try getting everyone on the server to leave the area, and come back. The easiest way I can think of to achieve this if there are a lot of people playing is to try a server reset. This should cause them to despawn. 
+
+Updating the game will also remove the mod, as it will update your minecraft.jar file, but it won't remove the craftscripts folder or WorldEdit from your bin folder. However, leaving those two items there will not affect your game at all, so updating your game is a much faster way to remove the mod from your gameplay.

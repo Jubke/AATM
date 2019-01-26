@@ -1,0 +1,31 @@
+It seems irregular to me as well. 
+
+For a Japanese speaker, it would probably be difficult to hear the difference between Czech syllable pairs like "dý" vs. "dí", or "dí" vs. "ží" vs. ""zí". 
+
+The sequences /ɸa/ /ɸi/ /ɸe/ /ɸo/ contrast with /ha/ /hi/ /he/ /ho/. 
+
+So why does Modern English have /g/ at the start of the second syllable of "begin," which the OED says is from Proto-Germanic *ginnan? 
+
+However, later on the sound debuccalized to [h] (at least in Standard Japanese) in all contexts except for before the vowel /u/. Before /u/, the sound change is still in progress, and some speakers have [ɸ] while others have something more like [h]. A common synchronic analysis of this situation is that there is a single phoneme /h/ with a conditional allophone [ɸ] that is possible before /u/. I don't know of any synchronic alternations between these sounds in modern Japanese within inflectional paradigms or due to derivation (which I think would be the strongest evidence of allophony, if such alternations were shown to be productive with neologisms and nonce-words) but they do behave similarly in the context of the (somewhat phonologically productive) process of rendaku: both become /b/. 
+
+I'll update this answer once I find more discussion in scholarly journals. 
+
+Yes, English has influenced at least one language's phonology (and probably many more). 
+
+Even if nobody knows about these specific words, I would appreciate any more general information on the stress patterns of words ending in -ence or -ance in Middle English, and how they may have changed in the development to present-day English. 
+
+So the only issue is with the pronunciation of the word "door." According to the Online Etymology Dictionary, "door" actually appears to continue two OE words: 
+
+My understanding is that the reflexes of Proto-Germanic velar consonants before front vowels were usually palatal consonants in Old English, which in turn generally yield palatal or palato-alveolar consonants in Modern English, as in yellow from Proto-Germanic *gelw-. 
+
+You may be aware of this already, but the use of e.g. /eə/ to transcribe the SQUARE phoneme does not necessarily mean that the transcriber intends to indicate a phonetically diphthongal pronunciation. For example, John Wells used /eə/ in his transcriptions for the Longman Pronunciation Dictionary but he has a blog post explaining that this is meant to cover monophthongal pronunciations as well. 
+
+I found this PDF that mentions this exact matter on page 43, in the abstract for Germanic *ga(-) revisited. Some thoughts on etymology, phonology and inherited word formations by Christiane Gante: 
+
+–the article "Proto-Germanic grammar" on Wiktionary 
+
+Question B: How did the usual modern pronunciation originate? I can imagine at least three possibilities: 
+
+I know there are words where /g/ is thought to have been established before a front vowel due to Scandinavian influence, such as get and give, but I haven't found any mention of that for begin. The OED and Etymonline say that in Old English, a more common word built on the same root was onginnan, but this still seems like it should have palatalization. 
+
+Evidence from the 2002 edition: In the 2002 edition, page 56, accessed through Google Books, Gensler uses the notation "D ∨ B" as equivalent to "D unless B". The ∨ sign is used for inclusive disjunction, so that does indeed appear to be what he means with this supposed translation of logic into ordinary English words. In other words, by "A unless B" he really means "Either A, or B, or both".

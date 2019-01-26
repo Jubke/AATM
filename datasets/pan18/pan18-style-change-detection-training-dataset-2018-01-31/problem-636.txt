@@ -1,0 +1,19 @@
+The idea behind poker, especially tournament poker, is to maximize your win when the opportunity presents itself. Simple EV can "leave money on the table" so to speak. If you can maximize your EV you'll, over time, simply win more money/chip is a shorter period of time. And money/chips over time is how we keep score in poker. 
+
+Also, "maximized EV" plays go both ways with poker players. This is what the top players mean when they talk about the "mental warfare" that goes on in big tournaments and big cash games. While you are working our your EV maximization strategy, your opponents, if they are good, are working out theirs. You have to incorporate what you think they are thinking and what they think your are thinking into your EV calculations. Some guys are just natually good at this. That is poker talent, IMHO. 
+
+Here is a link to a good article on the subject: 
+
+Sure, the basic EV calculations say to either bet, call or fold based on card odds vs pot odds. Usually, you're only really looking for a positive or a negative EV. However, when you start playing against better players, you need to work on maximizing your EV to get the most value of a particular situation. This gets into implied odds and equity. 
+
+You might notice that some of these situations would potentially give you a positive EV even though your cards have you drawing dead. Then your playing real poker, my friend. Just don't do this with idiots or beginners, as the great Doyle Brunson sagely put in Super System I: "you can't bluff an idiot." 
+
+Direct EV calculations are the first step in figuring out how to calculate "maximized EV" based on situational considerations. To become a better player, you will very much care about the size of your positive EV. 
+
+So there you go the floor person has to decide what is going to happen with this pot when no player at the table has a legitimate claim to the pot. The really bad thing in this situation is that there is no totally correct ruling. The ruling is totally a judgment call. The rules cover the conditions under which a player may be awarded the pot, very little is said about what should happen when no one qualifies to win the pot. Here is what the floor person can do. 
+
+Just because the player is loose and aggressive, it does not mean he will not lay down a hand. I would seriously consider that letting him stay the aggressor just might be the best play. Check raising the river all in might work a little better if he has a hand or is on a bluff. If he is bluffing you really have not lost anything because he is not going to call an all in. Better to let him try one more bluff. 
+
+The villain may also made two pair or is just bluffing, because he figure the board is very wet and you would lay down a lot of hands here. The range of hands he could put you on do not generally involve draws. 
+
+Having said that, I agree with Toby, the operator of your game saw enough of your hand that he knew that he could not beat what he saw. He should of just gave you the pot. I would quit playing his game, he is a bit of a sleaze ball.

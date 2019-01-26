@@ -1,0 +1,29 @@
+Fowler-3 (i.e. Burchfield 1996/2004) clarifies the confusion: 
+
+Those inlaut (and possibly Auslaut) fricatives didn't get all voiced in all words overnight nor did stress in Proto-Germanic shift within a week. Verner's Law didn't stop functioning on the winter solstice. These processes took a long time, they overlapped, not all words got affected (due to various reasons) etc. 
+
+This process is not unique to General American. It happens in British dialects as well. 
+
+Cf. Hogg 1992 “with the degree of allomorphic variation noted in §7.41, it would be expected that there should be considerable analogical levelling and extension” (Hogg 1992/2011: 269) and later he claims that “[a]mongst strong verbs there appear not to be clear-cut examples [of analogical levelling – Alex B.] in OE” (p. 270; emphasis mine - Alex B.). 
+
+Norman Blake writes that English monasteries started receiving a lot of monks trained in France who started copying OE texts applying spelling practices found in the languages they were familiar with (Old French and Latin?). He argues that these changes do not necessarily indicate any phonetic changes (Blake 1992: 10). 
+
+Sara Pons-Sanz (2015) traces this idea back to Björkman 1900. 
+
+1. Scandinavian influence (Dieter Kastovsky, e.g. Kastovsky 1992 specifically mentions OE beginnan): 
+
+As for OE beginnan, two explanations are possible. 
+
+Reinterpret the conditioning factors of Verner's Law. 
+
+Here's a screenshot of the relevant section from http://www.blackwellpublishing.com/shockey/ 
+
+In The Linguistic atlas of England, you can find excellent maps; see, for example, the word "oak" (or loaf, toad etc.), which is not diphthongized in some dialects. 
+
+A couple of very important notes. 
+
+An interesting similar case could be the development of OE ongean (> PDE again). The ODEE (ed. Onions, 1966) says “the native forms in aȝ-, ay- did not survive beyond XVI, being superseded universally by forms in ag-, derived from Scand. and appearing first in northern and eastern texts XIII.” 
+
+However, there is no conclusive evidence to support this, either. We have to remember that even though it is “inherently irregular,” it is a “fairly systematic process” (Hock and Joseph 2009: 152; emphasis mine - Alex B.), which means we should be able to find other examples – very few but they should be out there. 
+
+Putting theoretical differences aside, I am afraid you didn't quite understand your professor or textbook very well. For instance, you ask us, "Why is it that certain nouns takes modifiers and others complements?"

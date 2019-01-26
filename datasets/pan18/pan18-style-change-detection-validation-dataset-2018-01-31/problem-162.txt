@@ -1,0 +1,21 @@
+There are two dimensions that matter: 
+
+The real issue is in the top tube length. Basically, for shorter riders you need to move the handlebars closer to the seat. But then you have to deal with the wheel possibly colliding with the pedals ("toe strike"), changing the head angle or the fork's rake, which compromises the handling, and/or having a proportionally longer top tube than would otherwise be indicated by the seat tube length. 
+
+For your frame, it sounds like the Park Tool directions for securing bosses on carbon frames should work equally well. The top mount on the seat-tube is also the easiest to repair using this method, so you're in luck. The first thing to do is to check to see if your frame was built with an aluminum insert for the seat tube. Given that you currently have a carbon seatpost this is unlikely, but it would alleviate the main concern. Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+In both cases, you can use a caliper to determine the dimensions precisely, but a simple measuring tape or ruler should be sufficient. Dropout thickness. This is the thickness of the metal plate comprising the dropout when looked at end-on. The tensioner cups the ends of the dropout, so must be large enough to fit over them. Steel dropouts are typically 5mm thick, while aluminum frames can have 8mm thick dropouts. I'm not sure how the formatting in this article got so ruined, but you can read more in this VeloNews Technical Q&A with Lennard Zinn. Axle diameter. 10mm is the standard, but you'll also find models designed for 9.5mm (3/8") and 14mm axles on BMX bikes. Heres a 1998 mongoose road bike that shares a lot of features with your frame's design. This one is aluminium, and has the original fork still. 
+
+You can get seat posts that have a setback, to hold the saddle further aft but this moves your center of mass backwards, increasing the wheelie effect and making steep hillclimbs a little harder. Identifying steel is easy - touch it with a magnet (like an old hard drive magnet) and see if it attracts. Aluminium or titanium won't attract a magnet. To tell Aluminium from Titanium is harder - neither require painting. Titanium will spark a lot, bright blue/white when touched with a grinder, and aluminium won't really spark at all. 
+
+I think the spring reproduces some of the trail that would otherwise be absent. Personally I've never seen a bike with such a spring. If they're not uncommon in your area then there may be a regional influence on them. Is it mostly step-through frames that have this? Is it budget/BSO bikes? I've done this by putting an 8 speed free-hub wheel with a 7 speed cassette into a bike that had a 5 speed freewheel wheel. 
+
+You can buy seatposts up to 400mm or 450mm long, but they tend to poke up so far that your body weight combined wiht the leverage will bend the pole. My fix was to find a second steel pole with an outer diametre just smaller than the inner diameter of my seat pole, and hammer it in using grease. Downside, my seat pole is ridiculously heavy and long, but they don't bend now. Doesn't look wrong when fitted though, just looks long. 
+
+Cathetus and hypotenuse apply to a right (90 degree) triangle. There is not a 90 degree triangle on the BS. If it does die if you don't need a folder you can find decent used bikes for $400. But for commute I would recommend a cyclocross and and put touring tires on it. 
+
+Technically rust is limited to iron. What is bad is the rust starts and continues. The water / oxidizing agent is not consumed. Found a quoted number. Just because it was on the Internet does not make it right but here is a 5-10 year quote. Bike Frame: Aluminum Vs. Steel 
+
+If you want fatigue free and rust free then get titanium. If you look at the full resolution it is clear. BS is center to center (head to seat) along the (sloped) top tube. Since the seat tube is slanted that is a shorter distance. Geomemtry C2C 
+
+Another user of serial number is fraud detection. Is it even a valid serial number? Is it the correct frame for that serial number? Multiple bikes with the same serial number - definitely some counterfeiting going on.

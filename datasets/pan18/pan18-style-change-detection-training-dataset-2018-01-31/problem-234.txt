@@ -1,0 +1,45 @@
+This Technical Machine item is used to teach your Pokémon a new Fast Attack. Your Pokémon will acquire a new Fast Attack and forget their old Fast Attack. 
+
+CP - On average, the Pokémon I have caught within the favored weather typically have much higher CP and are closer to being maxed out than those those who are not apart of the favored weather. 
+
+I have reviewed a few different sources and they all say Pokemon Go will use a good amount of data. 
+
+You can detect if your phone contains a Gyroscope via this app Sensor Kinetics (Android). I am not an Apple device owner, so I do not know any Apple version of the app. If your device is compatible with a Gyroscope, many say that a possible solution is to enable your auto rotation. 
+
+I was walking about and I loaded up Pokemon Go to check if there were any Pokestops in my area. There were two, but one looked different than normal. When I clicked on the Pokestop, there were floating hearts around it. 
+
+Your biggest Pokémon Go questions, answered 
+
+Since the Generation II release, the "Dark" and "Steel" type backgrounds were added to the mix, but "Flying" still remains unaccounted for. 
+
+As many other server connection issues, there is not much we can do on our end aside from reloading the app. If in the event you experience server connection issues while catching a Pokemon and watching the sitting-pokeball-of-saddness, the in-game mechanics may still work, although not guaranteed. 
+
+According to this article, which references this reddit post, and it is calculated that Pokémon lose motivation over time at: 
+
+When the Pokémon is defeated, it is calculated the motivation will drop an additional ~20% 
+
+While CP and motivation are not the same thing, they are connected, as losing motivation decreases a Pokemon’s CP. Just to throw out some examples of how motivation can affect CP, one Reddit user found that a 3348CP Tyranitar and a 3094CP Gyarados both lost 3CP roughly every 30 seconds; a 2800CP Blissey, a 2795CP Donphan, and a 2753CP Alakazam all lost 3CP in four minutes; and a 2409CP Dragonite lost 3CP in 4 minutes and 20 seconds. 
+
+Unfortunately there is no way to install a Gyroscope into your device, this is only done during the manufacturing period. I have checked if an app-based Gyroscope will work, but Pokemon Go requires a built-in Gyroscope 
+
+Based on this information, if half of a 2GB data plan is allocated to playing Pokemon Go, users can reasonably expect to play four to six hours per day without an any issue. If Pokemon Go is played for more than six hours per day, an upgraded data plan may be needed 
+
+I've been monitoring the data used of Pokemon Go to further test how much data is actually being used. Between the release and as today, Pokemon Go has accumulated 65.43MB worth of data. Roughly 90% of that was used while using 3G rather than connected to Wi-Fi. Most of the time I was in a sedentary environment hoping Pokemon would come my way, but I was also out-and-about a good bit of the time. 
+
+When I walk the first 10KM, would I receive more Stardust from the one 10KM egg or the five 2KM egg? 
+
+After a little bit, I received a message saying something along the lines of "Gyarados seems happy, try feeding berries to another Pokémon". 
+
+A number of players using iOS 10 beta 1/2 are reporting issues related to their phone not detecting orientation for AR mode. If possible, uninstall iOS 10 beta 2 and revert back to an older OS. 
+
+Encountered a 137 Krabby, which server connections occurred on first Pokeball throw. After I waited a few seconds for the spinning-pokeball-of-death to go away and let the connection refresh, I reloaded the app to see Krabby was caught and appear in my journal/Pokelist. 
+
+So what’s the solution? For now, you can play by turning off the camera (AR) mode to see the Pokemon. This problem seems to affect older devices that lack Gyroscope more often but there are records of it affecting new devices as well. Some people reported new devices like the iPhone 6S for this problem and such devices might have a faulty Gyroscope. 
+
+Yes, you can use Legendary Pokémon in raid and gym battles 
+
+In regards to which Pokemon are hatched, a 10KM egg will provide rarer and better Pokemon than a 2km egg. Disregarding the Pokemon that are hatched, I am more interested in the Stardust provided. 
+
+Yes, Pokemon GO Uses a Lot of Data and Battery 
+
+I am hearing the new music, but I have not a difference in the map prior to the update. What updates were made for this night-mode map?

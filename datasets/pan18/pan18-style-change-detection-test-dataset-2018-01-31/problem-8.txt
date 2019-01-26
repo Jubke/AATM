@@ -1,0 +1,13 @@
+Lewis Carroll Does Scrum Consider a story like: 
+
+Tracking Overruns and Inaccurate Estimates The other use case is demonstrated by the third card, located in the Done column. In that card, you can see that the team estimated the story as three story points, but later claim that it took eight story points to complete. 
+
+A team's capacity can certainly change over time: capacity can go down during holiday periods or reorganizations, or go up as teams gain domain knowledge, leverage iterative improvements to their test-driven designs, or pay down technical debt. 
+
+Should the story be two points, or thirteen? That's up to the team. Maybe the whole story is really 13 points overall, or the team discusses it and realizes that the story really ought to be 21 points once they factor in the need for an emergency medical team to be kept on standby. Then again, perhaps the team decides to reduce uncertainty by switching in a five-point Vorpal Sword story as a prerequisite, which reduces the Jabberwock story to only eight points in the next sprint. 
+
+Basic Example Without Statistics Assume you have 20 user stories in your backlog, and a Scrum Team of 6 people including the Scrum Master and Product Owner. Each story is estimated at 5 story points, and your historical average velocity is 10 story points per sprint. 
+
+Discard outliers, then calculate the mean. This is usually my preferred method when a story has been properly decomposed. Calculate the average, including any outliers. Split out contentious tasks into separate-but-dependent stories that can be estimated separately. Remembering that estimates are educated guesses, not promises written in stone. The bottom line is that the team can (and should) make its best guess and move on. If the team can't build a consensus, or at the very least agree to disagree, then you may have an underlying problem with the quality of the story being discussed. 
+
+But wait! In Scrum, as in most successful agile frameworks, each story is either done or not-done. The whole framework is designed to get away from false precision and pointless status reports claiming that 60% of something is 80% done. In Scrum, a story is either 100% done (per the Definition of Done, of course!) at the end of the Sprint, or it is simply incomplete and must be returned to the Product Backlog unfinished, where it may be rewritten, reprioritized, rescheduled, and replanned.

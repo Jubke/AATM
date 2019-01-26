@@ -1,0 +1,57 @@
+Never thought it could be so easy, just do this: 
+
+/fill X1 Yn+2 Z1 X2 Yn+2 Z2 minecraft:lava 0 replace minecraft:air ... (until you reach the top) 
+
+Why does the /testfor command not output anything? 
+
+I think you can remove the Repeater :-) 
+
+This setup does not output signal only when input 2 is on and input 1 is off (so it's kind of a reverse implication, but with the same functionality). Currently, my setup takes up 4x2x8 (64) blocks. 
+
+This is ablout what you said, this does it, works on erything maybe excluding stairs. Try it yourself: 
+
+Method 2: Use this all-version-usable Command block & Redstone syntax: 
+
+Summon the mob that you want to get angry. This mob mush have specified a UUID: 
+
+This happens when the command finds no entities that fit into all the parameters and conditions you entered - it's just a false output. For example, if you enter 
+
+Example 2 (requested in the comments): 
+
+First, create a new scoreboard objective: 
+
+The repeat command block will test if there is a specific block one block under the Player: 
+
+It's easy-to-build! Go do it yourself! 
+
+I have tons of two-lever implication gates in a map I'm making, and in some cases there isn't enough space to place it. The gate, a bit expanded for simplicity, looks like this: 
+
+Use pairs of one Repeat and one Chain Command block, one pair for each type of block (or for smaller numbers use good ol' Redstone clocks). 
+
+Here is the command I used to obtain the sword: 
+
+I did not see the pocket edition tag when I gave this answer. This answer will not work for pocket edition. These commands are for Java Edition 1.12.2 
+
+My head hurts. Tough question. 
+
+I am going to use a sword as for this example. With name, lore, and enchants. 
+
+Those commands will go positive if a player has the item(s) but is not very useful otherwise. You can also add a scoreboard tag to the player who has the item(s). This allows you to target the players that have the item in other commands: 
+
+From the ocelot data values wiki link in the answer above: 
+
+This will add 1 to the damage-radius objective of only the player that is near the armor stand. 
+
+Use 2 command blocks in a chain. The first command block removes the tag from all players. The second command block tags any player holding a snowball. These command blocks have to remain loaded. I recommend putting them in the spawn chunk. I recommend silencing command block output to prevent chat spam for op's. Use command: 
+
+In your case, the command inside the other command requires double escaping of special characters. The tellraw list is what needs the extra escaping. 
+
+Here is a command to check all player's inventories for a diamond: 
+
+Targeting As an example, the two skeletons to summon, each with a UUID: 
+
+Please be aware that you should not create multiple entities with the same UUID, as they are meant to be unique. In 1.8, you will run into targeting issues, while in 1.9 entities with duplicate UUIDs will be deleted when loading the chunk. 
+
+The error message might not be too useful since, when receiving it via a command block, it only concerns the last iteration of the command. In this case, the last item entity that had its NBT data checked. If the item you want found is indeed found, but there's another item lying around somewhere that's next in line to check, the error is going to be about that incorrect item even though the command was actually successful. 
+
+The following would simply test for the mob's existence, while you would invert the signal. If the mob was found, the signal will be off. If the mob dies, it will no longer be found and the signal is on:

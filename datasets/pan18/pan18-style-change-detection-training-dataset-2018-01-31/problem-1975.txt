@@ -1,0 +1,45 @@
+The form of the following syllogism is valid, but it shows how a false mathematical premise can lead to a true conclusion: 
+
+Poincaré thought that mathematical induction consisted in an ∞ number of syllogisms. Is that true? (cf. Pierre Duhem's article contra Poincaré: "The Nature of Mathematical Reasoning" from "La nature du raisonnement mathématique," Revue de philosophie 21 (1912): 531-543.) 
+
+Also, is "quantificational logic" a particular type of "mathematical logic"? 
+
+Thus, it doesn't seem traditional logic can handle mathematical reasoning. Didn't Aristotle, the medieval logicians, et al. realize this? 
+
+In other words: Are all the consequences of a science in the science's principles? 
+
+For example, the equations modeling the motion of a double-pendulum, , are relatively simple compared to the "chaotic" consequences of these equations: 
+
+See this article for more information: "The Quo/Quod Fallacy in the Discussion of Realism" (part 1, part 2) by the semiotician John Deely, which discusses how it is really a trichotomy: quo / quod / in quo. 
+
+Can all mathematical reasoning be translated into traditional (Aristotelian, syllogistic) logic? 
+
+"Chaotic" differential equations are very simple principles compared to the more complex consequences of them. 
+
+This doesn't work because "greater than 2" ≠ "2", or 2 ≯ 2. 
+
+Arithmetic Geometry Astronomy Music ) 
+
+See also this book, which is about what "concept" is. 
+
+It would of course be absurd and anachronistic for me to try to vindicate Aristotle's choice of subject-matter by suggesting that he was consciously guided by anything like the modern idea of quantification. But without committing this mistake there are two observations which I think may properly be made. One is that if it is anachronistic to suggest that Aristotle's logic is 'really' a theory of quantification then it is equally anachronistic to suggest that it is 'really' a theory of primitive functors A, I, etc. As Łukasiewicz himself remarks in his book, "the logic of Aristotle is formal without being formalistic"; and what I have for the sake of convenience called the 'traditional' theory in § 2 is, both in its conscious conception as an algebra of non-empty classes and in its formalistic vocabulary and axiomatisation, as distinctively 'modern' as the logic of quantification. The other remark to be made is that the logic of many-sorted quantification is in no sense something existing "apart from other deductive systems". Not only is it formally no more than a systematic reduplication of the standard single-sorted logic, but it is also the obvious framework for the formalisation of a whole range of mathematical theories: any branch of geometry will furnish one example and Russell's or von Neumann's set theories another. I should like therefore to think that the translations introduced above would help to counter the suggestion of even a residual incompatibility between the modern and the Aristotelian formal logic. 
+
+Aristotle's logical works (Prior and Posterior Analytics) are part of his works that later philosophers grouped as the Organon (tool). Hence, logic was seen as a tool. 
+
+How is this not a violation of the principle that "one (e.g., a relatively simple differential equation modeling a double-pendulum) cannot give more (e.g., a complicated, 'chaotic' trajectory of the pendulum) than it has"? 
+
+This ordering is based on the three degrees of abstraction, of which mathematics was the second. Boethius, following Aristotle, proposed that the "Speculative sciences may be divided into three kinds: physics, mathematics, and metaphysics:" 
+
+What is "mathematical logic"? Is it the logic of mathematical reasoning, or is it the claim that mathematics and logic are identical? 
+
+It would seem not ∵ one cannot syllogistically establish the validity of the reasoning in the following argument: 
+
+Physics [i.e., the natural sciences] deals with that which is in motion and material. [ens mobile or "mobile/changeable being"] Mathematics deals with that which is material and not in motion. [∵ mathematical objects, "mathematicals," do not move or change] Metascience* deals with that which is not in motion nor material. *i.e., "metaphysics" in the Aristotelian sense of the study of "being qua being" (cf. §II of Boethius's De Trinitate) 
+
+Concepts are whereby (quo) we know, not what (quod) we know. Confusing the two is known as the "quo/quod fallacy." 
+
+Physics deals with that which is in motion and is material. Mathematics deals with that which is material and is not in motion [∵ mathematical objects do not move or change, but they are abstracted from physical objects, which do move or change] Metascience deals with that which is not in motion nor is material. (cf. §II of his De Trinitate) 
+
+There must be indemonstrable truths because if everything were demonstrable, there would be an infinite regress (cf. the regress problem). 
+
+Our own doctrine is that not all knowledge is demonstrative: on the contrary, knowledge of the immediate premisses is independent of demonstration. (The necessity of this is obvious; for since we must know the prior premisses from which the demonstration is drawn, and since the regress must end in immediate truths, those truths must be indemonstrable.) Such, then, is our doctrine, and in addition we maintain that besides scientific knowledge there is its originative source which enables us to recognize the definitions. *[Circular demonstration ultimately leads to saying "if A is, A must be—a simple way of proving anything." (source).]

@@ -1,0 +1,53 @@
+Source: p 287, Sweet Reason: A Field Guide to Modern Logic (2010 2 ed) by Henle, Garfield, Tymoczko. 
+
+Source: pp 152-153, A Concise Introduction to Logic (12 Ed, 2014) by Patrick J. Hurley 
+
+Source: A Concise Introduction to Logic (12 Ed, 2014) by Patrick J. Hurley 
+
+[p 106:] Although it is conceivable that extensional definitions could also serve as techniques for theoretical and persuasive definitions (though this would be highly unusual), 
+
+The above does not appear fallacious, and instead appears to lack only a Suppressed Premise, which (when revealed) would validate the argument. What have I neglected? 
+
+[4.] Why can only IND determine END? Eg: an IND for a cat may not resolve unclear and vague cases; eg, some strange felid hybrid may match all your attributes, but may still not be a cat. 
+
+In the 2 Logic textbooks read (the above and Hurley's), from the given premises, no exercise will ask you to determine the conclusion yourself; instead the textbook divulges the conclusion and then asks you to deduce it. But this is irrealistic; real life, one must determine conclusions oneself. 
+
+So without computers, from given premises (that may be long and convoluted), how can you conjecture, before deducing, the conclusion yourself? One must at least conjecture a conclusion before attempting any deduction or (dis)proof. 
+
+I do not understand the grey above, but do understand all else. 
+
+I desire to, but I am unsure whether I should, abridge my long quote; feel free to emend my post. Source: A Concise Introduction to Logic (12 Ed, 2014) by Patrick J. Hurley 
+
+See the Wikipedia entry, for example. 
+
+you do not appear to really be understanding the issues involved--speciation at various levels, drift, the distinction between abiogenesis and evolution, etc. etc. etc.. There is a huge gulf between explaining the first cell and everything just being "maintenance", for instance. I'm not sure that better structured philosophical treatises are what's going to help you here as opposed to a much deeper understanding of the history of life on earth and the physical processes that underlie life and evolution. Planet Earth: Cosmology, Geology, and the Evolution of Life and Environment by Cesare Emiliani is a decent starting point. (If you read various books by Dawkins carefully, you can get a lot of the same material, but it's not very efficient or complete.) Without approximately that much background, I'm not sure it's possible to even understand why Dawkins, for instance, seems to think there are not any gaps for God to hide in any more. 
+
+This is a biology question more than a math or logic (philosophy) question. It turns out that we need to know three biological facts: 
+
+Hermaphroditism is negligible compared to these numbers. 
+
+What is the probability that men vs. women will go to a party shrouded and ask random strangers questions about their sex after revealing that they have a brother? What fraction of people identify as some gender that is different than their biological sex? Ignoring the sociological facts as irrelevant by construction in a thought experiment, we can focus on the biology. 
+
+Now, back to your question: knowing that you don't know something is, of course, not a reason to say that something is false, or true, or unknowable. But when you're trying to come up with a compact predictive framework to describe observations, the theory that lets you best deal with those things you can know, and lets you adequately work around that which you don't (or can't--even if you don't know whether it's "don't" or "can't"), is the superior theory. Once that theory is shown to agree with many observations over long periods of time and under a wide range of conditions, it is pragmatic to accept that theory as true in the scientific sense (i.e. in the sense that it is "true" that you cannot fly by flapping your arms). 
+
+The nested-if definition calls the second one dishonest appropriation, but not the first. It's 
+
+Are siblings' sex correlated to each other at all? What is the (uncorrelated) sex ratio in humans (males/females)? What is the rate of atypical physiological sexual morphology (hermaphrodite, etc.). and we need to know two sociological facts: 
+
+Edit: had the outer implication backwards. 
+
+Note that in English, the implication of "some days" is that there are other days that are different. If you said "some days it rains" but it actually rains every day, it would be technically correct but the listener would feel justifiably misled. Almost every phrasing carries some impliciation like this, though: "there has been a day where I neither rode nor drove" suggests such days are rare; "it is not the case that I always ride or drive" suggests that riding or driving is the norm; "sometimes I avoid driving and avoid riding" again suggests rarity; "usually I drive or ride" suggests that sometimes (rarely) you do one but occasionally none; "usually I avoid riding and avoid driving" suggests that you sometimes must do at least one but usually don't. Language is rich with implicature, and if you wish to avoid this, you generally must stick with logical formalism. 
+
+[p 106:] Although it is conceivable that extensional definitions could also serve as techniques for theoretical and persuasive definitions (though this would be highly unusual), 
+
+[4.] Why can only IND determine END? Eg: an IND for a cat may not resolve unclear and vague cases; eg, some strange felid hybrid may match all your attributes, but may still not be a cat. 
+
+Source: p 287, Sweet Reason: A Field Guide to Modern Logic (2010 2 ed) by Henle, Garfield, Tymoczko. 
+
+So without computers, from given premises (that may be long and convoluted), how can you conjecture, before deducing, the conclusion yourself? One must at least conjecture a conclusion before attempting any deduction or (dis)proof. 
+
+Source: pp 152-153, A Concise Introduction to Logic (12 Ed, 2014) by Patrick J. Hurley 
+
+I do not understand the grey above, but do understand all else. 
+
+In the 2 Logic textbooks read (the above and Hurley's), from the given premises, no exercise will ask you to determine the conclusion yourself; instead the textbook divulges the conclusion and then asks you to deduce it. But this is irrealistic; real life, one must determine conclusions oneself.

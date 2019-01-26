@@ -1,0 +1,23 @@
+Encounter an awful question or answer Get curious about the author See that the author is responsible for a trail of poor content Remember that serial voting is discouraged and rolled back, and feel frustrated. The frustration is piquant when the poor content is all 0 in vote score. I feel no need to pile on things that are already downvoted. 
+
+Why do I care? I want to be able to visit the flag page, and quickly see if anything there deserves further attention. If I have to wade through a long list of innoffensive items, it's a lot more time consuming. 
+
+All voters are free to vote their conscience on any answer or any question for any reason at any time. If you see something downvoted and you disagree, upvote it. Your upvote costs you nothing and delivers more rep than the downvote subtracted. 
+
+I continue to feel cognitive dissonance between the desire for community moderation and the 'no serial voting' rules. The pattern goes like this: 
+
+One other perhaps constructive suggestion to remind people of: a way to nominate content for the 'low quality' review queue. Abuse of such a button would be low-impact, as the reviewers (we hope) would decline to act on spiteful nominations. 
+
+There is no such thing as the 'uncommented downvote' problem. There is no problem with uncommented downvotes. There is no requirement to comment. There is no purpose in particularly encouraging commenting with votes. Crowd-sourcing means trusting the judgement of the crowd. The net vote ends up where it ends up, and the individual votes just aren't very important. The 'pity upvote' effect, in any case, has turned out to mean that the occasional downvote is the best rep thing that can happen to the average producer of mediocre content. No downvote- net vote 0, net rep 0. One downvote followed by pity upvote: net vote 0, net rep ... 
+
+Vote to delete answers. There is a constant stream of 'thank you notes,' snarky remarks, and other stuff which isn't formally spam but is clutter. 
+
+Arguments about 'voting policy' are a waste of time. In a crowd-sourced system, people will vote for all kinds of reasons. No vote is invalid or against the rules, it's just a vote. 
+
+The answer must have the score of -1 or lower It requires 3 votes. Also, the tools deleted tab has been amended to include deleted answers so we can audit this. 
+
+OK, the strict construction is that CW question should still ask a question with a single answer, just one where it might be a team effort to construct the answer. Has anyone ever seen this actually happen? 
+
+I am a regular reader of tools/flags. A common category in there is a non-answer with, not surprisingly, a 'not an answer' flag. 
+
+Accept rate dunning is not considered appropriate. Some of us routinely flag all such comments, and if enough of us do so, they get removed.

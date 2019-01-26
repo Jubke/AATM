@@ -1,0 +1,29 @@
+I've been studying Locke recently and I'm having trouble understanding how his epistemic position differs from Kant's, and by implication, why did Kant see his epistemology as being so revolutionary given that it is not too different from Locke's. Both of them seem to assert the following: The logical positivists' basic premise was that for any statement to be meaningful, one had to be able to confirm its truth or falsehood using formal logic and empirical observation. Any statement that cannot be verified with a combination of logic and observation was meaningless. This is called the principle of verification (or verificationism). Thus the statements "There are pandas in China" and "There are green polka dot elephants in China" are both meaningful, although one is true and the other is false. On the other hand, "unicorns are smart" and "horses are cynical" are both meaningless statements. What is it that I am missing here that makes Locke's realism and Kant's realism so different? 
+
+The Philosophy Stack Exchange and other humanities SE's are obviously more subjective and hence more susceptible to opinion/consensus biases. But ideally, we are dealing with philosophy (and other fields) as academic disciplines for which a certain amount of objectivity is possible. It is my experience that objective questions (Such as "Is Derrida considered an analytic philosopher?") tend to result in objective answers ("No, he isn't"). The onus in Stack Exchanges like the philosophy SE is really on the askers to ask the right questions, more so than on the users to upvote the right answers. 
+
+For both terms to think and to know philosophical definitions exists: 
+
+Kant, Immanuel: Metaphysical Foundations of Natural Science (German: Metaphysische Anfangsgründe der Naturwissenschaft) (1786) 
+
+Second law of mechanics. Every change in matter has an external cause. (Every motionless body remains at rest, and every moving body continues to move in the same direction at the same speed, unless an external cause compels it to change.) (A119) The term wavelength is an objective physical concept, while the colour impression is a subjective experience. 
+
+Your question operates on two different levels: On one hand you describe how people search natural explanations in daily life. On the other hand, you ask on a theoretical level 
+
+According to important voices from antique Greek culture Homeric Gods have "predictive power", i.e. that they have the capability to make prophecies. The most well known example is the Delphic oracle, an institution attached to the Olympic god Apollon. I agree with @virmaior that a theist would not accept that his religious believes on one hand are unjustified by his religion, but are justified on the other hand by their use for society. Instead he will emphasize that both is true: They are justified in a double way. 
+
+The truth value and certainty are independent concepts. A person can be certain about a proposition, but the proposition is false. A long time everybody was certain: The sun revolves around the earth. 
+
+Also Greek tragedies often attribute the tragic in their hero's life to a prophecy which has not been understood by the receiver, e.g., King Oedipus by Sophocles. 
+
+The list of emotions comprises fear, anxiety, pleasure, joy, contempt, disgust, curiosity, hope, disappointment, expectation, exaltation, depressiveness. Both laws are equivalent in propositional logic, which can be proved by inspecting their truth-tables. 
+
+Philosophy of languages discusses the two concepts of extension and intension. Since the 1960ies Putnam published a series of papers on topics like the meaning of meaning. He argues against the view that meaning exists in the brain only: “ ’meanings’ just aint’t in the head!” By the famous thought experiment of water on the twin earth he clarified his point of view, that the meaning of a term has to take into account more than just brain states. 
+
+Here you are referring to the problem of underdetermination of theories by experiments, a well known issue in philosophy of science which was most famously addressed by W.V.O. Quine. See here and here for details on this issue. 
+
+But then if a field of inquiry is able to provide accurate, objective and useful information regarding a question, doesn't that field simply become part of science? 
+
+Based on that explanation, a method for making decisions if one is faced with future scenarios similar to or related to the current state of affairs, and for predicting future states of affairs with a certain amount probability, i.e the explanation is useful for future purposes. If you resort to older definitions of philosophy, when the natural sciences were considered part of philosophy, then the answer would be different. Questions in physics and mathematics might - emphasis on might - be independent of the human observer, but not questions of philosophy. You are mixing two issues here: 
+
+Douglas Hofstadter, in his book "I am a strange loop", has a section (or chapter) I forget, called "On souls and their sizes". In it he posits that, there isn't a specific break between animals and humans, but that instead there is a gradual increase in complexity of their abilities of self perception. The complexity of thoughts possible also followed a similar gradient. Presumably the animals would perceive themselves using the same types of symbols they perceive the world with, so that is how their thoughts are structured. Animals with an advanced sense of smell might associate smells with their mental images instead of sounds for example.

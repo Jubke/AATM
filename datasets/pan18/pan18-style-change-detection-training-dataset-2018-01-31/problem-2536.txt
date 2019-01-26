@@ -1,0 +1,23 @@
+What is the difference between the two? I had long believed there was such a thing as a "set phrase". I thought I had learned it in my school days. I've had conversations with German speakers insisting that German doesn't have a subjunctive. The sister languages of Georgian (Laz, Mingrelian, and Svan) also use the version concept. But recently I have heard of a term "mixed language". 
+
+The second most common word in Albanian is "të", which Wiktionary describes as an "adjectival article". (A neat coincidence after my recent question asking what other kinds of articles exist). Here are Wiktionary's senses: I've been thinking about pairs of contrasting words such as these: Also, I'm not sure if other pairs would fall into the same category or not. Such as: 
+
+But is a cognate only a word directly inherited from an ancestor language, or is it correct to say that any two words than can be traced back to a common ancestor word are cognates? Are there terms for the type on the left vs the type on the right of each pair? 
+
+If the two are different what is the difference? If not why the different name? Are there some more solid references? Is this a linguistics concept? Do I have the right term but the wrong definition? Please note I'm trying to make value judgements about individual languages, just looking for the best way to describe these two culturally and/or linguistically different approaches to number. Perhaps Wikipedia says it better than I could: It's also possible that the same term might apply to concepts encoded in other parts of speech. For instance "Number and case are two YYY's of nouns"... One property of the verb is called "version", "version markers" or "versioners". And it is used to describe the role of a vowel in the agglutinative verb template which relates to how polypersonalism works. 
+
+Set phrases included but were not restricted to idioms. So what is an "adjectival article"? Where can I read more about them? What other languages have them? 
+
+The three most well known would be tense, aspect, and mood. But person, number, and voice are others, and there must be many more. 
+
+A creole is defined as a pidgin (or trading language) which becomes a full language after being used by a new generation as their first language. Generally they take most of their grammar from one parent langauge and most of their vocabulary from the other. 
+
+I'm just going to tackle the "terminology" aspect of your question: Pure vowels have a single "target" where diphthongs (etc) have two (or more) targets. So for the English vowel sound in "pie" the first target is like the "a" in "car" and the second target is like the "ee" in "fee". This seems to be unintuitive for many people not acquainted with linguistics and could be compounded in English where the spelling of diphthongs often doesn't reflect its components. Other set phrases were transparently based on their parts but still tended to occur as fixed units. Perhaps like at this point in time (but there may be better examples). 
+
+Many languages have a subjunctive mood but German has a conjunctive. However is the German conjunctive just a different name for the same mood? 
+
+So are classifiers different to noun classes? What's the best way to sum up the differences? 
+
+I had trouble phrasing a recent question because I couldn't find simple wording to convey the difference between languages like English where all kinds of numbers are expressible, such as "nineteen thousand four hundred and sixty two" and other languages like most Australian Aboriginal languages with only a very basic or minimal number system that typically have only "one", "two", and "three". 
+
+There are many named concepts which relate to verbs across many languages. How should we most correctly use the term cognate? However the Wikipedia article on set phrases has always been very poor, which makes me wonder if the concept I learned may not be as widely held as I thought: Just to be clear, I'm not talking about the terms "TAM" or "screeve" which are used to describe verb inflections that result from the interaction of say tense and mood. I'm talking about what word to use in the sentence "Aspect and mood are two XXX's of verbs". What term belongs in the place of XXX?

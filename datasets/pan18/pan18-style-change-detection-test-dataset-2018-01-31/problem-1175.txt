@@ -1,0 +1,45 @@
+As a realistic example, many natural languages require that the formal grammar used to analyse them be Mildly context-sensitive. 
+
+I don't know enough to recommend textbooks on psycholinguistics, but how about this course page: http://www.coli.uni-saarland.de/courses/experimental_psycholinguistics_2011/schedule.php? 
+
+For example, I'm working on a project right now that needs the software to deal with tweets. Depending on your mindset, such text can either be considered "awful" or, be considered to be of a dialect that parsers haven't been trained for. Either way, "full" parsers of either kind, constituency or dependency, fail pretty badly. Chunking gives me useful nuggets of information. 
+
+People had already given me the answer I was looking for, but as comments to the question. I'll just paste them here for posterity, and mark the question answered. 
+
+Thue is a Type-0 language which also cannot be represented in BNF. 
+
+* Though some parsing techniques find it useful to have heads of a PS marked. 
+
+Cerberus: Another useful term is scope, which more or less means "that which is modified", so the scope of the prepositional phrases is different between the two examples: in the first one, the scope of with an umbrella is (the) woman; in the second one, the scope of with a telescope is (John) saw the moon. Here is an interesting article about the scope of adverbial clauses, although it uses many technical terms at some point: Adverbial clauses, Functional Grammar, and the change from sentence grammar to discourse-text grammar. 
+
+1 — The first time I came across DCS was just a few minutes ago when I googled up some phrases while answering this question. 
+
+Benefits: I don't think you can compare one with the other for benefits... if you go through the references I gave for quantifiers, you'll see that the mathematics would become very cumbersome and ugly (or maybe even impossible... I don't know) if you try to make the semantic heads correspond with PS heads. 
+
+Chunking is a kind of constituency parsing. The theoretical motivation for chunking comes from constituency parsing, à la NP, VP, etc. Though chunking is considered to be only "shallow" parsing, i.e. not the proper kind, it is still useful for practical applications. 
+
+We now have NPs that have become functions that accept Vs and VPs as arguments. Determiners, that play a subordinate role in Phrase Structures, play a key role here in controlling the scope of variables, and the order in which functions apply over arguments. 
+
+Yes, there are linguists/computational linguists who are working to create software to identify aspects of the author, be it country of origin, or even personal identity. Speech is definitely an aspect that many are working on (example). There are many others who are focusing on the errors of non-native writers (example). The field, in general, is called stylometry or computational stylistics. If you want to try out some such software, stylo and JGAAP are good apps to start with. 
+
+We created eztreesee so that rank beginners can try out sentences without having to install parsers, models, etc. on their own computers. The backend runs entirely off the Stanford Parser. And therefore, what you see there are Penn Treebank tags. 
+
+In all this, we haven't brought in (Neo-)Davidsonian Event semantics, so we have made no commitments at all about whether or not the visit(s) to the garden(s) happened at the same time. 
+
+Evaluation based on experimental work, active participation in lectures and the final research report. 
+
+P.S.: I'm not convinced that automated dependency parsing is significantly faster than automated constituency parsing. The speed of parsing depends on many factors such as the algorithms used, the programming language, the quality of implementation, etc. All I can acknowledge right now is that some parsers are fast and some are slow. 
+
+BNF is a Type-2 language in the Chomsky Hierarchy. A context free grammar has rules of the type: 
+
+Wikipedia has a Type-1 example which I don't know how to write here. [Feel free to edit this post.] 
+
+In HPSG, the CAT derivation is somewhat like the regular phrase-structure derivation, with heads having a correspondence to phrase-structure (PS) heads. (Though, AFAIK, there is no need for the concept of "head" in PS.*) The CONT derivation is somewhat like the derivation in Montague semantics. 
+
+The key issue is the contrast between lay intuition, and mathematical logic. Lay intuition tells us that nouns and verbs are the most 'contentful' parts of a sentence. Mathematical logic brings its rules for operators and their scopes. 
+
+In syntax, the noun is considered the head of the noun phrase because it is the more "contentful" part, in the way people understand sentences. 
+
+I have no idea about the specific person that you mentioned, or how to go about identifying his country of origin. My answer addresses the general aspect of it. 
+
+jlawler: 'Receiver' is not a grammatical term; I assume you mean 'modify'; and what you call a 'complement' is called an 'object'. Prepositional phrases can modify other phrases or whole clauses, as well as nouns. With an umbrella modifies the woman, a noun phrase; it's identificational, describing the woman. With a telescope modifies saw the moon, a verb phrase; it's instrumental, describing the means used. He saw the woman with a telescope is ambiguous between these two meanings.

@@ -1,0 +1,37 @@
+If you're asking about the moral aspects of forcing them into society, there are different approaches you could look at: 
+
+Your example of eating and being eaten does not produce an unsolvable moral problem, for it is easy to defend the position that killing living things in order for human beings to survive is right, as is always has been done (although there certainly are valid opposite positions, e.g. Singer's preference utilitarianism). 
+
+The categorical imperative does not give licenses to others, it doesn't concern others, it's about verifying that your act is contradiction-free. Stealing that cent is not generalisable because that act, among other problems (e.g. stealing, see NotThatGuy's answer), reduces to absurdity the concept of a bank where you put your money, which is rightfully yours, to keep it safe. By definition an act that is not generalisable is, according to Kant, unethical. 
+
+The answer to your first question is "yes". Consequentialism, from the perspective of deontological ethics, lacks justification. If you do accept the idea that a person is and always must be treated not "merely as a means to an end, but always at the same time as an end" (Kant, Groundwork of the Metaphysic of Morals), then you can't defend a moral concept of maximizing happiness (or the like), because this is a consequence of actions that might come into conflict with your premise. Easy example: ship sinks, there aren't enough lifeboats, do we risk our boat sinks, or do we drop somebody to drown? If one dies, the other live, happiness is maximized, but dropping a person to their freezing death conflicts with our moral premise that a person must be treated as an end. Consequentialism and Kant don't go along. 
+
+Are there alternative theories about how people are motivated? 
+
+Interestingly, a friend and I struggled with the opposite conundrum from what concerns Singer. We were both married to women who did not wish to have more children. My friend commented to me that submitting to sterilization would be like killing his unborn and unconceived children. As soon as he said it, I understood my own grief. How could anyone choose between the idea that conceiving children brings more suffering into the world and the idea that not conceiving children denies them the benefits of existence? 
+
+Many of the traditional solutions to the dilemma turn on some conception of a monotheistic God. I'm not sure how many, if any, will work for secular ethics. 
+
+Pascal expands this point by saying that people choose different methods, not because some like to be happy and others don't, but because all are pursuing a better life. Over a lifetime of bad decisions, suicide may seem the happiest choice. For both men, the context of the idea is ethics. 
+
+Whatever criteria we pick will then, itself, be subject to the Euthyphro dilemma. 
+
+But this might not suffice, because how do we know that the empty human shells have preferences, and even if they do, it might be preferences as "not getting my system stopped, e.g. by getting shot in the head", but not "I want to be considered an equal being". This might be an indication that the consequentialist standpoint can't help solve this problem. To solve the utilitarian calculus, you have to know the facts (and pretty much all of them, which is in itself problematic). If you don't know what is going on in the humans around you, how can you evaluate their right to having their preferences considered? I'd say: utilitarianism can't solve this problem. No matter how you'd act in relation to your fellow humans, it would be a wager. We have to make the assumption that they are like us before we decide to consider their interests at all. 
+
+I am mentioning this because even if you're not a subjectivist, the argument that majority is always just or that the will of the majority must be considered 'right' is impeachable. 
+
+For instance, the term ‘obligation’ in the singular or ‘obligations’ in the plural is univocal when it refers to what one party has agreed to perform under the terms of an agreement. In this sense, the positive counterpart of the obligation is the right (‘rights and obligations’), that is to say what the creditor is entitled to receive from the debtor. This is a classical view of the term ‘obligation’ seen as ‘a tie which exists between at least two individual persons which enables one person to request something from the other’1. The obligation should therefore be perceived as including a legal tie, a legal tie between at least two persons and a coercitive power enabling the enforcement of the obligation. 
+
+In the version I know, it's not about the number of children starving, therefore your counterargument doesn't count. According to Singer you have to donate until you can't afford to without losing something that has an equal moral value to you as the lives of strangers (No one can ask you to donate more than that). It doesn't matter if, with your resources, you can save m or n children. But the value of every one of their lives if the same, and the obligation doesn't sink, it's there, and then it's not. 
+
+Whatever criteria we pick will then, itself, be subject to the Euthyphro dilemma. 
+
+Are there alternative theories about how people are motivated? 
+
+Many of the traditional solutions to the dilemma turn on some conception of a monotheistic God. I'm not sure how many, if any, will work for secular ethics. 
+
+But I don't see why the question couldn't be generalized to: 
+
+The principle of reciprocity can be seen in all human cultures, but the key breakdown occurs with the word "others". It can be imagined, for instance, that slaves fall outside the requirement to be treated as we want to be treated because they aren't really people. We find that idea repugnant, but if we could grant that premise, the principle of reciprocity need not apply to slaves. 
+
+In a word: no. You have it all wrong. That would be like suggesting that every time we take a journey or stay at home, we are taking a stance on the issue of Immaterialism. Or perhaps more to the point, we can reject or accept Immaterialism completely independent of how we chose to spend our time. Accepting it might slightly bias us toward staying at home (I imagine), but we wouldn't be rejecting our ideals by traveling to a distant country.

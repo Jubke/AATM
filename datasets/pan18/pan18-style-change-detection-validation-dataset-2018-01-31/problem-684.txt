@@ -1,0 +1,35 @@
+This behavior was deemed undesirable when the language was designed. As a better approach, it was decided to follow the "name hiding" specification, meaning that each class starts with a "clean sheet" with respect to each method name it declares. In order to override this behavior, an explicit action is required from the user: originally a redeclaration of inherited method(s) (currently deprecated), now an explicit use of using-declaration. Also note, that neither C nor C++ provides a strictly defined feature that would allow you to assign a specific physical address to a pointer. So your question about "how one would assign 0 address to a pointer" formally has no answer. You simply can't assign a specific address to a pointer in C/C++. However, in the realm of implementation-defined features, the explicit integer-to-pointer conversion is intended to have that effect. So, you'd do it as follows 
+
+The decision, the rationale behind the name hiding, i.e. why it actually was designed into C++, is to avoid certain counterintuitive, unforeseen and potentially dangerous behavior that might take place if the inherited set of overloaded functions were allowed to mix with the current set of overloads in the given class. You probably know that in C++ overload resolution works by choosing the best function from the set of candidates. This is done by matching the types of arguments to the types of parameters. The matching rules could be complicated at times, and often lead to results that might be perceived as illogical by an unprepared user. Adding new functions to a set of previously existing ones might result in a rather drastic shift in overload resolution results. 
+
+For example, the following code C++14 contains a similar wording in 3.10/4, but it is presented as a note: "[Note: class and array prvalues can have cv-qualified types; other prvalues always have cv-unqualified types. See Clause 5. —end note ]" 
+
+2 EXAMPLE An example of unspecified behavior is the order in which the arguments to a function are evaluated. 
+
+2 NOTE Possible undefined behavior ranges from ignoring the situation completely with unpredictable results, to behaving during translation or program execution in a documented manner characteristic of the environment (with or without the issuance of a diagnostic message), to terminating a translation or execution (with the issuance of a diagnostic message). 
+
+If you define a constructor yourself, it is considered non-trivial, even if it doesn't do anything, so a trivial constructor must be implicitly defined by the compiler. 
+
+3.4.3 1 undefined behavior behavior, upon use of a nonportable or erroneous program construct or of erroneous data, for which this International Standard imposes no requirements 
+
+EDIT: Using unions for the purposes of type punning (i.e. writing one member and then reading another) was given a more detailed definition in one of the Technical Corrigendums to C99 standard (see DR#257 and DR#283). However, keep in mind that formally this does not protect you from running into undefined behavior by attempting to read a trap representation. 
+
+Because you can't. In C++ language fully-qualified names are only used to refer to existing (i.e. previously declared) entities. They can't be used to introduce new entities. 
+
+My guess would be that there are some new (for C++14) language features that can somehow "see" cv-qualifications of prvalues under the right circumstances (before the aforementioned adjustment takes place). Do they exist? And if so, what are these features?2 This question is tagged as [C] and [C++] at the same time. The original code is indeed invalid in both C and C++, but for completely different unrelated reasons. I believe this important detail was missed (or obfuscated) by the existing answers. 
+
+Note that both compilers gladly accept the code once the reference parameter is replaced with pass-by-value parameter. 
+
+Renaming types without changing their exposed semantics/characteristics doesn't make much sense. In your example 
+
+15 If a return statement appears in a handler of the function-try-block of a constructor, the program is ill formed. 
+
+Additionally, 12.1/12 states that 
+
+Because the normal mathematical notion of "remainder" is only applicable to integer division. i.e. division that is required to generate integer quotient. 
+
+The problem is that you define objects with external linkage in header file. Expectedly, once you include that header file into multiple translation units, you'll get multiple definitions of the same object with external linkage, which is an error. Judging by the wording of your question (you used the word "hide"), you already know what is going on here. The phenomenon is called "name hiding". For some reason, every time someone asks a question about why name hiding happens, people who respond either say that this called "name hiding" and explain how it works (which you probably already know), or explain how to override it (which you never asked about), but nobody seems to care to address the actual "why" question. Access control in C++ is implemented as a static, compile-time feature. I think it is rather obvious that it is not really possible to implement any meaningful per-object access control at compile time. Only per-class control can be implemented that way. The purpose of unions is rather obvious, but for some reason people miss it quite often. In order for a special member function to satisfy the above requirements, the class must have a very simplistic structure, it must not require any hidden initializations when an object is being created or destroyed, or any hidden additional internal manipulations when it is being copied. This 5/6 entry is new in C++14. It now treats cv-qualifications of prvalues using the same approach that has always been used with results of reference type (see 5/5). 
+
+2 EXAMPLE An example of implementation-defined behavior is the propagation of the high-order bit when a signed integer is shifted right. 
+
+Run-time assertions in many cases can be used instead of static assertions, but run-time assertions only work at run-time and only when control passes over the assertion. For this reason a failing run-time assertion may lay dormant, undetected for extended periods of time.

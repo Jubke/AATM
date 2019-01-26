@@ -1,0 +1,31 @@
+In short, I believe you're assuming the author to have said something that he hasn't. It's still an interesting point though. 
+
+Specifically, opening a small pocket pair from any position should be considered with regard to just a few important things: 
+
+A8s is approximately within the top 13% of hands depending on how you use hand rankings but it's very close whichever way you look at it. In this instance, your opponent would have to restrict his calling range to approximately 7% of all hands to be a ~55% favourite, give or take a small adjustment because of the blinds already in play. 
+
+(note: I'll stick to talking about open-betting pre-flop and not cold-calling which leads to similar post-flop situations, but infers different ranges for all players involved. Also, I consider small PP's 22-88; mid PP's 99-TT; and big PP's to be JJ-AA. JJ is a special case. Closer to being a mid PP IMO, as I find it's commonly misplayed and is often better considered more like 88, 99, TT than it is QQ, KK, and AA.) 
+
+Using PP's solely to flop sets isn't a winning strategy. 
+
+Generally, mid to large PP's 99-AA are likely profitable from anywhere due to their underlying strength. They have all the advantages of small PP's, plus the addition of better showdown value. 
+
+Oh, I just noticed the "in the BB" in the title, so the pre-flop tells are less relevant to your question. Though I guess it's possible that your face lights up when you see the aces! Assuming that opponents don't know what your cards are, you're not significantly more or less likely to have 72o in the BB than AA during a walk than at random. You may be slightly more likely to have aces here than at random, since lots of players will enter the pot if they hold any ace and their absence from the pot implies that the deck remains enriched in aces, but this is not a significant effect. 
+
+So, if they're folding too much in general, raise more often. If they're always folding only to your premium hands, try to evaluate your own pre-flop play a little more. 
+
+If everyone is folding to your raises more often than they should, raise more hands. This is particularly true if you have tighter players on your left and action is folded to you. You can either steal blinds pre-flop or win post-flop with a single continuation bet many times when your opponent misses. 
+
+If they happen to only be folding when you have a really strong hand, though, you might ask yourself if you're subconsciously providing clues regarding your hand strength. Maybe you have bet sizing tells. Maybe your timing changes when you have a strong pocket pair. Maybe you start grinning uncontrollably. (Maybe the cards are marked and others at the table know what you're holding.) 
+
+In general, you'll get 72o more often than AA, because there are 12 ways to get 72o while there are only 6 ways to get AA. 
+
+Using PP's solely to flop sets isn't a winning strategy. 
+
+The equity advantage of starting hands is exponential. Chens formula give more weight to Aces than to Kings, etc. but that will mean nothing on, for example, a four flush board with no card of that suit in your hand! 
+
+Specifically, opening a small pocket pair from any position should be considered with regard to just a few important things: 
+
+A8s is approximately within the top 13% of hands depending on how you use hand rankings but it's very close whichever way you look at it. In this instance, your opponent would have to restrict his calling range to approximately 7% of all hands to be a ~55% favourite, give or take a small adjustment because of the blinds already in play. 
+
+Obviously, the nuance you're considering is valid. Our ability to outplay this opponent and whether that is more valuable in the long run than just taking a more volatile approach and trying to get stacks in now is worth considering. That said...

@@ -1,0 +1,15 @@
+Cutting scope within a Sprint is certainly possible, but: 
+
+The goal of Scrum (and iterative agile development in general) is to have a sustainable and predictable development cadence. As such, it is generally better to aim for consistent velocity over time rather than for increasing velocity. 
+
+This is correct. The estimate developed in Sprint Planning is the estimate; it must not change within the Sprint. 
+
+Remember, the first half of Sprint Planning involves the participation of the Product Owner, so a contentious story estimate is a perfect opportunity to work hand-in-hand with the PO to re-scope or refactor stories which have potential issues. The PO can work with the team to split or rewrite stories, or re-prioritize the Product Backlog on-the-fly to swap in a different story that fits better within the current sprint. 
+
+Options for Compromise Within the Team You can do whatever seems reasonable in such cases. Generally, teams agree beforehand on a compromise process, but it's okay to change it on the fly so that the end result is always somewhat reasonable. 
+
+It's certainly possible that there are edge cases where it's best to fix scope and unconstrain one of the other dimensions, but in my own practice that has rarely been the best choice when following Scrum. Your personal experience might differ. 
+
+The simplistic answer is that a project's velocity should only increase until the team has developed a stable, predictable cadence that can be maintained over time. There are a few caveats, of course, but it's a solid rule of thumb. 
+
+Do the best you can with it; the story will then either be done or not done at the end of the Sprint. If the story is essential to the Sprint Goal, coordinate with the Product Owner to see if the story's scope can be modified without negatively impacting the Sprint Goal. If neither the Sprint Backlog nor the story scope can be changed without risking the Sprint Goal, then: Regardless of how you deal with the issue, the mis-estimation (including assumptions, unexpected process issues, roadblocks, and so forth) should be grist for the mill at the next Sprint Retrospective. The point is not to lay blame for the incorrect estimate, but to understand the root cause and to continuously improve the estimation and planning process.

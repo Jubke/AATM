@@ -1,0 +1,27 @@
+DocBook is a spec, not a tool (as Viktor said). It is XML, so you can use any XML editor to write content. Possibilities include XML Notepad (free), XML Spy (used to be free, not now?), Oxygen ($), Epic ($$). (Personally I just use Emacs, but my cowkrers think I'm weird. :-) ) 
+
+1 Technically this is not an equivalent statement; if the system allows customers to be assigned and then un-assigned, then a server might have had customers assigned but still not have customers assigned (at the present time). If you're going to use the "past" formation, make sure this does not render your documentation incorrect! 
+
+During the last couple of sprints before the release, start thinking about what will need to go into the release notes. I assume that the release notes are a team project, as they usually include things like a bug list from QA. Your part of this is to identify what is important enough to document that isn't going to make it into the user guide, and then figure out how to address that in release notes. This should result in a story for your last sprint, with the team agreeing on the tasks to be included. 
+
+I am assuming that your organization does not have an official style guide, or that this is a personal project. (If you are bound by a style guide, consult it.) I am also assuming that you aren't using a semantic markup already; if you're using a DTD/schema/tool/markdown that already has a notion of "keyboard input", you'd use that unless there's a good reason not to. 
+
+I'm going to treat your task as if you're writing a new book. From your description, you'd be replacing the vast majority of the content anyway, so better to think of it as a new book (for which you might be able to take advantage of the occasional previously-written bit) than an update. 
+
+This looks like a present-tense verb ("do not have"), but its function here is as a description of state. What is important is that these servers do not, at the time that a user tries to delete them, have customers. This is perfectly acceptable. You may sometimes see "...that have not had Customers assigned to them" instead;1 do whatever is consistent with the documentation set your work is part of. (Possibly there's a house style guide that calls this out, but you may just have to read other examples to determine this.) I have only anecdotal evidence here, but I've found that the "present" formation ("do not have") leads to better reader comprehension (measured in requests for help) than the "past" formation ("have not had"). 
+
+I would write the description as follows: 
+
+Use a bug-tracking system: works if everybody is using the same tools and the folks overseeing the bug database don't mind, but that's not always the case. 
+
+I am an experienced technical writer specializing in API documentation. In my experience, in order to be successful a technical writer needs enough technical aptitude to (1) understand the users' needs and (2) probe the subject-matter experts (SMEs). If all you're going to do is parrot what the SMEs tell you, you're going to miss important details. SMEs (in any field) have blind spots; they've been living in the depths of their code so long that they can forget that the "obvious" assumptions aren't obvious. They also tend to have a particular model of how users will use their product, which might be more speculative than reality-based. (I'm not criticizing them; they often don't have enough information.) It's the technical writer's job to dig into all that. (Also the tester's, if you have one.) 
+
+I've seen this done with a "watermark" that says (usually) "sample data" (kind of like this, from here, though that's a table rather than a chart). Think of the "draft" watermark you sometimes see on documents; same idea. Saying something in the text (or figure caption) can be helpful, but this approach has the advantage of embedding the information directly in the graphic -- particularly useful if you're publishing online where somebody might save and reuse your image file, or if you're using the same chart in multiple sections of your document or multiple documents. 
+
+So what should you write for the description? Start by clarifying what "find" means. Is this a lightweight operation that returns a value from an in-memory map? Is it making a database call? Is it calling a service on a slow connection? Don't reveal implementation if it's not part of the contract, but do give readers some hints about what to expect. For example: 
+
+1 To do this you need to determine what the contract actually is -- what promises are you making to your users? This is a large software-design topic beyond the scope of this question. 
+
+Some companies add bold face to this, e.g. Ctrl+Shift+?. In my experience this is especially common if the documentation also refers to UI elements like menu names. I think the reasoning is that "user-entered stuff" should look the same whether it's Ctrl+Z or File->Open. 
+
+I am going to be writing some user-facing documentation for a database that visitors can query. That is, the people writing queries are not the ones who created the database; they can come in, look at what the database offers, and write their SQL queries. Think of something like SEDE.

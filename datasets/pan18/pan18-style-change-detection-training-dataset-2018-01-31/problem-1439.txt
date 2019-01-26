@@ -1,0 +1,49 @@
+One method I've seen used to get around this is a static instantiation method of some kind. 
+
+<my_or_their_group translate="label"> is the name of the group your config variable will show up in. Groups are the Ajax drop downs that contain config fields. For example, the General section has a "Country options" group and a Local options" group. Again, check existing core modules if you're unsure how to place a value in an existing group. 
+
+It's been a while since I've dealt with frontend catalog pages, but give this a try. 
+
+If a product object is returned you're on a product page. 
+
+One approach that's common when you're uncertain which way to go (as mentioned by cletus below) is to create an interface, and then have your abstract class implement that interface. 
+
+Future Proof: Winner JSON. JSON is a "standard", in the sense that Javascript is a standard, and isn't likely to change anytime in the future. The PHP group has made no promises about the future of the serialization format, and while it's unlikely to change in the future, the fact that a single group controls the format means you may end up with future data that's unreadable. 
+
+Here's an alternative solution to this problem: 
+
+In your example you're returning an array that's not referenced from anywhere else. If it were, you would still get the message, i.e. this second point would not be true. 
+
+You can use an anonymous function to pass the matches to your function: 
+
+Let's analyze these in more detail. 
+
+Conclusion I think this impressively shows that modern regex is not only capable of parsing non-regular grammars, but can even parse non-context-free grammars. Hopefully this will lay to rest the endless parroting of "you can't do X with regex because X isn't regular" 
+
+So how should one handle dependency autoloading? 
+
+Inspired by NullUserExceptions answer (which he already deleted as it failed for one case) I think I have found a solution myself: 
+
+So: Is there a better solution to this problem? 
+
+This behavior could be classified as bug, so you should definitely not rely on it. 
+
+Given two equal-length strings, is there an elegant way to get the offset of the first different character? 
+
+Does anyone know of a tip, trick, or obscure documentation that will allow me to either give these fields a border or some other means of determining their exact size and position? 
+
+Request.class.php is definitely in the /home/someuser/public_html/subdomains/test/includes/classes/ directory. 
+
+You have to set cookies before any headers are sent out. 
+
+I have begun outlining how I expect the API to work (and starting documenting it as well) and I want to make sure I get it right, or as close to right, as I can from the beginning as I know once you have declared a public API you want to avoid changing that API at all costs. 
+
+What's an effective way to handle data validation, say, from a form submission? 
+
+This means you will need to look into output buffering if you wish to use this code as is. 
+
+I have created a website which allows users to sign up for, and use, an online service. To help promote the website we will be have re-sellers who will be offering their own branded services through us. The initial plan is to allow re-sellers to place registration, login, and lost password forms on their own website and use an API created by us to handle these requests. 
+
+The server at my old employer was rooted this past weekend and apparently the server provider made changes to the server which is affecting the PHP code. 
+
+I'm playing around with the SPL autoload functionality and seem to be missing something important as I am currently unable to get it to work. Here is the snippet I am currently using:

@@ -1,0 +1,33 @@
+Smaller stories are generally easier to get a feel for and less likely to involve multiple systems etc. 
+
+It's important to actually visit and sit with people. It builds trust so if you later have suggestions that affect an area they're less likely to resist. Most critically, it lets to see how the work actually flows rather than relying on people telling you how the work should happen if processes are all followed (which is what you tend to get if you just email/speak to people in a meeting). 
+
+We also run communities of practice amongst the different disciplines (Dev, QA, BA, ScrumMaster). These tend to be more focused on detail than the brown bags, e.g. informing devs of major changes that have been made to systems that everyone needs to be aware of. More info on Mike Cohn's blog on that http://blog.mountaingoatsoftware.com/cultivate-communities-of-practice. 
+
+Keep the story from the vertical slice option (note, that story didn't have any implementation details about where the data comes from or is held) but change the acceptance criteria to not expect a scheduled import but put the data in the DB manually (as in the manual approach). 
+
+However, in order to implement this simple model, there are many prerequisites: 
+
+This is easier to understand if you contrast Scrum with Waterfall In the waterfall process, tickets are assigned to individual developers by name. At any given point in time, at a minimum, each developer will be working on one ticket. The developer will typically complete the development, unit test it, check it in and move on to the next ticket. At some pre-determined interval, a build will be taken and thrown over the wall to the testing team. Sometimes each developer may be working on more than one ticket, either because one ticket is blocked or because, in the developer's opinion, it is more convenient to work on related tickets together. 
+
+From David Anderson Interview: The most commonly cited instance where Kanban is extremely successful is software maintenance. Anderson says this involves fixing production bugs and doing small incremental improvements. Kanban works well with software maintenance because such work isn't a natural fit for projects and one to four week sprints. Anderson says, "It makes more sense just to take the requests, work on them, and when they're ready, find some way of deploying them to production." 
+
+I feel that since I am not hands on coding, the support that I can provide is limited, given that I cannot try different things out with the code. If I am required to start developing, than that is going beyond my job description. I have made it clear to my boss that I have no interest at all writing code again. 
+
+2) Use Kanban, not Scrum for external clients. 
+
+Since Kanban is based on cycle time and not velocity it is perfect for delivering work where there are fixed deadlines. It is also agile, since any new requirement goes to the bottom of the backlog where delivery is done in a conveyer belt style way. 
+
+1) How to handle change requests 
+
+Minor tweaks are fine, but at some point you will need to be firm, charge the clients for them and make them aware how the changes will impact the delivery date. 
+
+I do not mind at all doing this, but I have expressed the following concerns: 
+
+How can I convey this to my boss without getting to confrontational? Is he correct, and is the level of support that I am supposed to provide? 
+
+I suggest keeping a change log to track all change requests, and try and ensure that the requirement gathering is done thoroughly before work has begun. 
+
+I feel that at best I can point him in the right direction and give suggestions on how to solve the problem, but in the end, he has to find the solution. My boss doesn't seem to get that and expects me to hand hold him. 
+
+As an agile project manager, I am currently working with one sub contractor, the problem that I am currently facing is that he is just not pulling his weight with not only doing the work but also answering technical queries, and my boss is expecting me to investigate and on a theoretical level solve the problem for him.

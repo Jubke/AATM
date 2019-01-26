@@ -1,0 +1,27 @@
+It would more accurately reflect that the OP isn't always the most qualified person to judge on the perfect answer - the community with its upvotes is. The idea is interesting, but it wouldn't help what (if anything) is the real issue at hand: You can "earn" 10 upvotes with a correct answer to a question like "What was that string concatenation function in xyz called again?" while a brilliant, deeply researched and double-checked answer to a complex problem nets one or two upvotes simply because much fewer people understand the issue. 
+
+Yes. Or rather - as you say yourself, it's already easy to gain significant reputation just by giving trivial answers that don't require any kind of in-depth expertise. There doesn't even need to be an illegal market for SO accounts (which btw I think might be an urban myth) for reputation to be only a very, very rough measure of competence (if that). Show us a question that really cost some effort on the OP's part, or is a great, clever question in some other way, that has more than 30 answers. I predict most, if not all, questions you'll manage to come up with are "what is the best X" type kind of questions (which have become off-topic on SO in the meantime, btw). What makes SO extremely valuable in my opinion, despite the narrowness that the reputation system sometimes encourages, is the fact that it works, that means, brings together a huge number of extremely good programmers. It keeps you up to date about best practices, tools and standards simply through the constant buzz of the huge crowd. It provides a platform of exchange that - at this moment - has no comparison on the global Internet. It is functioning well in many ways I wouldn't want to miss - in ease of use, quality of questions and answers, visitor frequency and transparency in management. 
+
+Now I'm not saying that any of SO's high-rep users gained their score by answering only string concatenation questions - I can't see anyone there who doesn't deserve theír "status", and isn't a knowledgeable professional. (Actually, this is pretty surprising and a sign that the system works somehow, even if in theory it doesn't.) 
+
+But all these things are still possible to do, and they happen every day. The really interesting conversations sometimes take place in the comments sections. Rather few of them, that is true, but that is not necessarily only down to the system. 
+
+Think of Meta as an (extremely imperfect and often erratic) polling system. 
+
+I don't think the change was communicated clearly enough: The bar was/is only shown on Meta. Had it been shown on S(OFU), I'm sure the number of questions would have significantly decreased. Percentage of your total rep that came from accepted answers 
+
+While I still think it would be a good change in principle, I guess this is enough to make sure it's never going to materialize. 
+
+However: while reputation points don't really matter that much, your SO track record as a whole does. Any recruiter worth their salt will look at what you actually do on SO, what kind of knowledge you expose, what kinds of solutions you propose, etc. that's valuable no matter what. 
+
+Personally I think it would be bad to remove the reputation penality! Be acting how we are acting right now, we encourage people to clean up bad questions (by bad I mean bad for this site) and making sure that the content is right before posting. 
+
+Now if it wasn't for transparency, I guess we could consider hiding the names of the voters but would it really be worth it? I mean, are new users the real problem? I'm sure users with a bit of rep would still consider writing to you and we would end up with the same problem. 
+
+Maybe the problem is how the user got your email address in the first place? Correct me if I'm wrong but this information is private in your account. Also, just mark him as spam it will probably never happen again. If it does, mark it as spam again, there isn't really much you can do about it. Ignore the user he will stop eventually. I encourage you really take the time to read a question to make sure it is a good formulated, that it belongs here and everything. 
+
+I say that after -100 or maybe -300 instead of banning the user (is that what you mean by sin bin?) I say that all actions they take should be more closely moderated. Of course, this requires more moderators but still. This idea is in place for a lot of forums. 
+
+I originally thought this too, and I did have trouble getting my first 50 rep. (basically I browsed things for a week before I answered enough questions/asked enough to get 50 rep.) 
+
+And also more importantly, if I had been able to comment then I would have ended up giving a lot of answers as comments rather than answers. I still do this sometimes.. Then, during the public beta for every 30 days it ramps up closer to normal by say 50% closer to normal. And when the public beta is over, then it should basically be back to the normal amount. This would fix the bad problem of "how am I going to ever get 3k so I can start closing inappropriate questions!?" when the site has only been like for 2 weeks

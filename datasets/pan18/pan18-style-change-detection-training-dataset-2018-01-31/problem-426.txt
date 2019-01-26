@@ -1,0 +1,31 @@
+The picture does not make the situation totally clear, but it appears that tube is not centered in the tire, and the tire is not centered over the rim. This tends to happen especially near the stem, because the thicker part of the tube gets caught between tire and rim and prevents the tire from sliding into place. 
+
+If you have Presta valves then you need to unscrew that little knobbie thing on top until the knobbie is all the way unscrewed against the bump on the end of the shaft it rides on. 
+
+The tire is defective (least likely). The tire is simply not settling onto the rim properly. You managed to twist/pinch the tube while installing. If you twisted/pinched the tube then there will be low spots, where the tire does not seem to inflate fully. If you suspect this, of course, remove and reinstall the tube. 
+
+To use the boot you get the tube repaired and installed, and just before you put the tire back on the rim you work the boot in between the tube and tire so that it covers the hole. Then put the tire back on the rim and inflate. 
+
+If you're convinced the tube is not twisted, slowly inflate the tire while you inspect the junction between tire and rim, all around on both sides. (There is generally a rib on the tire sidewall positioned such that it will be about 1/8" from the rim edge all around when the tire is perfectly centered.) With your hands, "work" the tire one direction or the other to keep this distance equal all around as you slowly inflate. 
+
+(If, on the other hand, what we're seeing is the sidewall failing and the tube pressing through the sidewall then the tire's toast.) 
+
+The inner tube has no significant effect on max pressure. The valve stem area is the only area sensitive to pressure, and in general the valve can withstand 200 PSI or better. (And if you exceed whatever limit there is the result is "catastrophic" failure, not simply the inability to pump in more air.) 
+
+With either Presta or Schrader you can have a problem with the pump if you do not press the pump chuck all the way onto the valve. Especially with Schrader there is a pin in the chuck that needs to depress a pin inside the valve to open it up. And sometimes you need to adjust the chuck by screwing the collar on the business end of the chuck on or off a turn or two, so that the chuck will go on and seat tightly. 
+
+The procedure is to remove the wheel from the bike, then use the tire "irons" (most of which now are actually made of plastic) to pry one side of the tire off the rim. (This procedure is a bit more complicated than that statement -- it takes practice to do without damaging the inner tube further, and an entire article could be written on this topic alone.) Then remove the inner tube from inside the tire. 
+
+Hole The normal case is that there is no obvious damage to the tire, but when you try to pump it up it doesn't hold air. Then you need the pump, "tire irons", and either a patch kit or a spare inner tube. You may also need wrenches to loosen your wheel, if it does not have a "quick release". 
+
+Large hole If you discover that you have a large hole or cut in the tire then it's necessary to use some sort of "boot" inside the tire, to keep the new/repaired tube from bulging through the hole. Of course, some holes are simply too large for this to work, but usually it's worth a try regardless of how big the hole is. 
+
+At this point, even if you have a spare tube, it's wise to attempt to find the hole in the old tube and then look at that spot inside the tire to see if there's still a nail or thorn sticking through. 
+
+Change them when they're worn out -- either cracking on the sidewalls (due to age, sun, and underinflation, possibly exacerbated by poor tire quality) or the rubber in the center is getting paper-thin and you start getting a lot more punctures. Simple lack of tread is no problem. 
+
+Some people apparently confuse "Kevlar belted" tires with "Kevlar bead" tires. The latter are "folding" tires and are supposedly desired because they are a hair lighter than metal bead tires, plus they can be folded and stuffed in a pannier. But you can buy Kevlar belted with a metal bead (my preference, since folding tires are a PITA to install), and Kevlar bead tires are not necessarily Kevlar belted (in fact, most often not). 
+
+What kind of valve do you have? 
+
+I'll add that sometimes the problem is that the thickened portion of the tube near the valve has gotten caught between the tire bead and the rim. This will prevent the tire bead from seating on the rim hook properly in the vicinity of the valve. The solution is to completely deflate the tube, then press the valve most of the way in with your finger while you manipulate the tire in the area of the tube. This should cause the "captured" part of the tube to work loose.

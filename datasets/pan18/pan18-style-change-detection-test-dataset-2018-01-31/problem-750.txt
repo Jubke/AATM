@@ -1,0 +1,63 @@
+See also: Stephen Gaukroger, The Metaphysics of Impenetrability: Euler's Conception of force (1982). 
+
+In addition to AW Moore, The Infinite (1990), I suggest also Shaughan Lavine, Understanding the Infinite (1994). 
+
+In the relevant passages of Apology (see 24b-c and 26b), Plato does not use πίστις in speaking about Socrates' "belief in (city) gods". 
+
+Regarding gods, we can see the discussion of the accusation that Socrates does not believe in the “the gods the city believes in”, in : 
+
+πίστις is a Platonic term, used into Republic, Book VI, 511d-e in the context of the "classification" of knowledge: 
+
+Thus, the agent is an individual: "the sculptor causes the statue, in another sense Polyclitus causes it, because the sculptor happens to be Polyclitus" and, more specifically, a human being (we assume that no other animals are able to produce sculptures). 
+
+διάνοια (the second form : reasoning), 
+
+5) ¬ (Body(x) & Possess(x,Thought)) 
+
+4) ¬ (Force(Thought) & Contrary-to-Inertia(Thought)) ∨ ¬ (Body(x) & Possess(x,Thought)). 
+
+that, by tautological implication, amounts to: 
+
+Specifically, I don't think that Ayer is the most representative of logical positivists. Is first book had a good success as the first syntheses in the english-speaking world of a new trend in philosophy that was basically "continental". 
+
+I do not think that Searle will agree on labelling with "Social constructivism" his theory about Social relaity. 
+
+3) ¬ [Body(x) & Force(Thought) & Contrary-to-Inertia(Thought) & Possess(x,Thought)] 
+
+[1013b29] [...] But besides all these varieties of causes, [...] some are called causes as being able to act, others as acting, e.g. the cause of the house’s being built is the builder, or the builder when building. 
+
+Based on [Engl.transl.,page 2] analysis of "current" (still quite incomplete) understanding of matter and bodies and of knowledge of only a few of their properties. 
+
+1st premise : No body can have a force contrary to inertia. 
+
+And this is the source of troubles : where are numbers ? where are sets ? 
+
+Comment: see the discussion [page 5] about "the force of attraction — with which bodies are endowed, in the opinion of English philosophers [the Newtonians] — can easily be disproven." Gravitation is not, according to Euler, an intrinsic property of matter but must be explained in some way: either mechanically (see the Cartesian vortex theory) or by intervention of some external "active power", like in Leibniz. 
+
+The argument fails on Proposition #1. 
+
+The relationship between mathematics and physics is approximately the same as the relationship between baseball statistics and baseball. (Substitute "cricket", or some other local sport if necessary.) 
+
+I fear I may not have made my point clearly enough, so let me try again. 
+
+Actually, there are a number of significant arguments against the principle of sufficient reason; you can find them in Sextus Empiricus, Hume, Wittgenstein and Nāgārjuna to name but a few. 
+
+However, this system of statistics is not the equivalent of baseball. To think so is confusing the map for the territory. 
+
+I should clarify that none of these thinkers suggest that there are events that are uncaused; this is one of the positions that Nāgārjuna explicitly rejects in the first verse of the Mūlamadhyamakakārikā. Rather, each calls into question the notion of causality, and attacks either the notion of "sufficiency" or the notion of "reason" with regard to the matter. 
+
+We can say that baseball statistics is the language of baseball, and can expect that the formalisms of the statistics will form a coherent system (in that the numbers balance, and there are no conflicts or contradictions.) 
+
+Way 2: Metaphysical opposites: Here, the claim is that what is true in our world is false in this world, and what is false in this world is true in that world. In other words, it's not that they say "2" when they mean -2, it's that they use language in the same way but the objects that populate their world are opposite. 
+
+In your example, you seem to be looking at two samples of [digital] writing in different colors and asking whether he sees syllable as a concrete instance or abstract type. 
+
+So I take it that no material cause is an abstraction. But there can be material causes of different things (words vs. images) in the same overall object. 
+
+What this does show us, however, is that the units for position functions are arbitrary. (We can put the origin (0,0,0,...) wherever we want and just move everything from there). Mass functions and many other types of evaluative functions are not. To give an example: 
+
+Aristotle refers to letters as the cause (his word aitia) of a syllable in Metaphysics BK 1 and Physics book 2 part 3. He doesn't specifically say material cause (but you're not the first to draw the inference by a long shot). 
+
+Conversely, substantive forms/ideas are substantiated by objects in the world (either through the activity of the demiurge or the creator) as reflections on it. None of that is necessary to accept the continued veracity of 1 + 1 = 2. 
+
+Separately, not everyone is committed to the eternal truth of 1 + 1 = 2. There are also other positions that posit that this is a function of our mental apparatus rather than reality. (See for instance the considerations at http://www.math.harvard.edu/~mazur/papers/plato4.pdf ).

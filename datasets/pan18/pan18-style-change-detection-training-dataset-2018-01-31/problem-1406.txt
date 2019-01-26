@@ -1,0 +1,34 @@
+ps. Maybe it's not possible to optimize the code above and I'm doing the best I can? 
+
+I'm trying to create EMF in my unit test: Maven 3 reporting is different. 
+
+BTW, on a second thought, such constants are bad design: Public Static Literals ... Are Not a Solution for Data Duplication 
+
+My Java application is using JPA for object persistence. The business domain is very simple (just three classes are persistent, with 3-5 properties in each). Queries are simple as well. The question is which approach I should use: JPQL or Criteria API? 
+
+Finally I found a neat solution, thanks to Apache Commons: 
+
+A very simple replacement for String.format() in GWT 2.1+: Polymorphism through inheritance: With these JDBC URL params it works: I'm trying to use a constant instead of a string literal in this piece of code: Decorator design pattern that exploits encapsulation is what you're looking for. 
+
+Is there a possibility to instruct "checkstyle" that a certain method should be silently ignored? 
+
+This is what I'm trying to do: Amazon S3 is the best solution: http://www.stackoverflow.com/questions/850570/maven-s3-wagon-provider, because: No installation procedures Hosted by Amazon, highly available Fully supported by Maven through a few wagons (see the link above) You may also find this article helpful: http://www.yegor256.com/2015/09/07/maven-repository-amazon-s3.html The same applies for typed collections... 
+
+So use this in your test, and it works fine: 
+
+This all compiles nicely. Run the test, though, and you get a type casting runtime exception: So my question is, do you use an alternative means of validating XML against Schema, that gives a more useful output on validation failure? The solution is mentioned in 3.11.3. Fine-tuning annotation-based autowiring with qualifiers: 
+
+I've tried getting clever with generics: When I want to validate my XML docuemnts against a schema in my server-side Java, I use the built-in JRE Xerces implementation and javax.xml.validation.Schema. It works fine, but when validation fails, Xerces gives error messages that are very close to useless, for example: 
+
+This is due to a rather obscure part of @Autowired's behaviour, specified in 3.11.2. @Autowired: Please not that this is server-side Java, so please don't say "use XML Spy" or similar. 
+
+So if it worked in Hibernate 2, it seems that was by coincidence, rather than by design. I think this was because the Hibernate 2 HQL parser would replace the bits of the query that it recognised as HQL, and leave the rest as it was, so you could sneak in some native SQL. Hibernate 3, however, has a proper AST HQL Parser, and it's a lot less forgiving. 
+
+However when I run the code the preferred width is -1, so adding 200 to the preferred width gives a maximum width of 199. Sort & Search   : 15
+Binary Search   : 0
+asList.contains : 0
+ When using a 100K array the results where: Problem is I really don't understand the whole signing process. 
+
+The following code parses a String into String Objects and places the values in an Object array. For any strings that represent a number it then attempts to replace the String with a Double object. However I get the following Exception: 
+
+Currently I start by creating a .jar file with a command like: The action is the key to selecting the radio button. I created a generic action to be shared by all buttons: "Option 1" is selected when the program starts. When I use Alt+3, the program beeps at me, all the mnemonics become underlined and "Option 3" becomes focused but NOT selected. The GUI now looks like this:

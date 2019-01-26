@@ -1,0 +1,39 @@
+Automatic conversion after 5 users edited the post: 
+
+The most important thing I want to see from the user statistics is whether the site is gaining or losing active users. A site that is steadily gaining users that actively participate in the site, either by contributing posts or maybe just by reading and voting on the content, is a site I would consider healthy (barring any other severe problems). If a site that is hemorrhaging users, if the number of active users is shrinking over time that would be a very clear warning sign that there are severe problems with the site. 
+
+Excluding beta sites probably made a lot of sense when the beta phase was supposed to last only 90 days and when updates to the Data Explorer were performed manually. With sites staying in the beta phase for years now this exclusion doesn't seem justified to me anymore. 
+
+This statistic would be most interesting for beta sites, so a SEDE query would be not possible. Integration with the moderator tools, so that the mods could see the number of active users over time would be most useful. 
+
+I'm not sure on how exactly this weighting should be done, as a complete normalization would likely not work across the huge difference in scale for all the SE sites. 
+
+My idea would be to add a way to automatically generate a citation from a DOI or a Pubmed ID. Those two identifiers are readily available and can easily be copied from a Pubmed search result or the journal homepage. 
+
+The problematic part is merging, which used to be the default way of dealing with sock puppets. Merging is an incredibly dangerous tool, and the reason for my feature request is that I think it should never be used without explicit consent of the account owners. A hostile merge like one performed for sock puppets also merges login credentials, potentially giving a user access to a different account if such a merge was performed in error. A merge is also not easily reversible, though some rudimentary undo functionality exists now. 
+
+I think this would just overcomplicate the whole process, there is a lot to improve about the graduation process as it is right now, but you're attacking it from the wrong side. 
+
+I'll sketch an example of how I think an initial version of this feature could work. For the areas I'm interested in, pretty much every journal is indexed in PubMed, this would cover the whole life sciences, biology, medicine and chemistry. 
+
+This would make it far faster and easier to cite scientific articles, encouraging users to back up their answers with primary literature, making posts that use the feature look more professional and by using the DOI safeguard those links against link-rot. 
+
+Community wiki was used a lot to avoid giving out reputation for certain types of more subjective questions. This is strongly discouraged now, but some sites continue this usage. 
+
+I'd replace this with two mechanisms. First, users should get a warning once they edited a post more often than x times, the warning should remind them to make only substantial edits and to avoid excessive bumping. This should educate users about the issue, and it should be sufficient to deal with users that bump excessively out of ignorance. 
+
+One idea would be to limit the edits in the grace period to small fixes below a certain character count. This would still allow to fix small typos and bad grammar that inevitably creeps into some posts, but would prevent the gaming of the feature you want to get rid of. 
+
+So, why would we want to change the bumping behaviour and allow non-bumping minor edits? 
+
+Here's another instance where one site is overrepresented at the top of the list: 
+
+Very large mass edits also obliviate the main reason why edits are bumped to the frontpage, once the mass edit is larger than the frontpage capacity, most users likely won't review the changes that were made. The edits are off the frontpage again before someone takes the time to check if they actually improve the post. 
+
+Allow mods to "rewind" user actions When moderators see on the frontpage that a user is performing a misguided mass edit, it is likely already too late and a lot of damage is already done. The easiest way to limit the impact of such misguided or malicious mass edits would be to allow moderators to undo all edits of a certain user in a specific timeframe at once. 
+
+If an edit fulfills any of the following criteria I would consider it minor: 
+
+A significant amount of migrations are rejected by the target site, the most problematic being migrations from SO to Programmers.SE. Rejected in this case means the question is closed also on the target site, either for being off-topic or generally not being a good question (NarQ, not constructive, ...). 
+
+So I think one part of the algorithm should try to identify questions that get an unusally high amount of votes and views for that site, and give the smaller sites a chance this way.

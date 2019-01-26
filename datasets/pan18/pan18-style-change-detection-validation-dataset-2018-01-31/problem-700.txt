@@ -1,0 +1,27 @@
+If you want the next sibling that matches a selector, you can use this: I've just been playing with jQuery for a little while - been using YUI for awhile and while I really appreciate a lot of what the jQuery library has to offer, I'm finding it to be quite a pain to step through jQuery code in the debugger and I'm wondering if there are any tricks other than the obvious things? 
+
+You can do it like this by iterating through the array in a loop, accumulating the new HTML into it's own array and then joining the HTML all together and inserting it into the DOM at the end: In response to a successful request, the function's arguments are the same as those of .done(): data, textStatus, and the jqXHR object. For failed requests the arguments are the same as those of .fail(): the jqXHR object, textStatus, and errorThrown. Refer to deferred.always() for implementation details. 
+
+jqXHR.always(function( data|jqXHR, textStatus, jqXHR|errorThrown ) { }); An alternative construct to the complete callback option, the .always() method replaces the deprecated .complete() method. 
+
+But, if you just move the DOM elements to a new place in the DOM, all events stay attached because the DOM elements are only reparented without changing the DOM elements themselves. Here's a quick function that would swap two elements in the DOM. It should work with any two elements as long as one is not a child of the other: In case of duplicate jQuery instances the problem is the jQuery version to which the plugin is attached might be different from the one which you are accessing to use the plugin at that point the plugin will not be found. Now what I observed is that all data required by the page is loaded when the table is created. It will create problem if the page has to deal with a huge amount of data and it is not used at that point of time. Another solution is to use select event, because the change event is triggered only when the input is blurred What you should use is the errorLabelContainer 
+
+Since you have stated you have included jQuery and the other libraries correctly, 1 possible case is there could be multiple instances of jQuery in the page. 
+
+I'm trying to use the jquery datatable plugin in my project. It supports ajax loading of values in the table. But my question is does it support lazy loading of value? means If the table is paginated, can I load data required by each page using ajax when it is requested than load all the values at the startup of the page? 
+
+If you want to retain your structure then 
+
+If this plugin cannot handle it can anyone suggest any other plugin which will support this requirement. I need a data table which supports pagination and lazy loading of contents. Let's look at jQuery's use of it first, then talk about it more generally in JavaScript (a bit). You have a fundamental misunderstanding of what Live example | Live source (The live links no longer work because of changes to JSBin) 
+
+If you're not using jQuery, you can do this: 
+
+You know the elements will be there, so the check is pointless => no check To the general point: jQuery is set-based. This means that operations on sets with no elements in them are no-ops. E.g.: You're better off passing the event object into the function: Here's an example of code that fails the test because of the asynchronous call: 
+
+But your best bet, by far, is to hook up the event properly: 
+
+If we re-run the query at that point: You don't know the elements will be there, but you don't care and just want to operate on them if they're there => no check You care whether the elements are there for some other reason => do the check When I say official API, I mean not hacking internals, going straight to Sizzle, adding a plug-in into the mix, etc. (If I end up having to do that, so be it, but that's not what this question is.) If you're using chained syntax: No, there's no jQuery (or CSS) selector that does that. 
+
+So when dealing with an accessor that doesn't return a jQuery object, if you don't know for sure you're dealing with a set containing at least one element, you need more defensiveness, e.g.: 
+
+EDIT: Just realized that I didn't actually answer your question: I don't think there's a cross-browser event that's fired, no. There is if you work hard enough, see below. You can test for symbols and use setTimeout to reschedule:

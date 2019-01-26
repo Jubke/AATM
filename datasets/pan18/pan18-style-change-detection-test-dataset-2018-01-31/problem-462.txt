@@ -1,0 +1,43 @@
+The system knows you have other accounts because it shows the "join this community" 2 link rather than "sign up" and "log in" links, so it's not as if that information isn't available to the page. 
+
+If they don't flag before the suspension runs out then they should still be shown the dialog and at least have to click through it before flagging. I know people don't read these things properly, but we can at least say that they were shown the information. 
+
+yet I am seeing it questions that are just bad questions and answers that are just wrong or just links, for example. In the former case down-votes and close-votes are the appropriate responses, in the case down-votes and/or comments are the appropriate responses. 
+
+Your answer is basically a link to another question on the same Stack Exchange site. So you should be doing one of two things: 
+
+To that end I'd like to suggest some improvements to the "possible vandalism - deletions" flag. 
+
+Well, they could just add something along the lines of the following to their post: 
+
+I've cast my votes in both the Stack Overflow and Super User primaries, but I've changed my mind about one of the votes I cast. 
+
+I can't see the utility in this. 
+
+You should be voting/flagging to close a duplicate in cases like this. 
+
+(thanks to BoltClock for suggesting that, albeit indirectly) 
+
+The next time the user tried to flag they'd see this message instead of the flag dialog and the time left on their suspension. 
+
+It may be worth displaying the message if the user has fewer than (say) 5 accounts and the oldest account is less than (say) a month old as they probably are a new user and perhaps do need reminding of how the system works. 
+
+However, I can see a potential problem with the account association bonus. If this were applied to the account then it would become clear that this is a linked account so people would starting asking "Why has this account with no other accounts got the association bonus?". I think in this case you would have forego the bonus if you wanted to keep this account separate. 
+
+I know these might sound a bit contrived, but you get the idea. 
+
+If you're active enough on the site to be bothered by the ads then it should be possible for you to get the extra 100 points of reputation you need not to see them (assuming you have the 100 point bonus from associating a 200+ account). 
+
+The suspension doesn't need to be more than a day at most, and should usually be a couple of hours. All it is there for it to get the users attention and tell them "stop, you're doing something wrong". 
+
+NOTE: This is not the same as the current now removed "Accept Rate" - i.e. how many questions have accepted answers. 
+
+Remove the 2 day limit on voting to delete closed questions. 
+
+Given that the base "off topic" option has a link that points to the current's site's FAQ page, this would be consistent. It's also more important with more sites coming out of beta and being added to the close dialog. 
+
+It would be far better if this process could be automated. Then when the mods on the second site react to the spam flags and destroy the account on their site, this would initiate the network wide destruction of accounts. If that's deemed too extreme then the destruction of the second account raises a "flag" on their network profile for the CM's to investigate. 
+
+Or possibly, in plainer English: 
+
+I am seeing an increasing number of people using the offensive flag incorrectly. The description reads:

@@ -1,0 +1,21 @@
+You don't necessarily even need full second-order induction, which is part of the original Peano definition. We get away with one pass of inductions to establish the behavior of addition and define multiplication, but then we only need the first-order version for the second pass of inductions. 
+
+Given the ways we have chosen to frame relativity and thermodynamics, we have backed ourselves into a place where information is already a subject of physics. The infamous Hawking equation that indicates black holes eat themselves involves information as a primary factor. 
+
+He invests some time in addressing the notion that science is overly rationalistic, blaming the misinterpretation on the Romantic Movement.) 
+
+At the same time, water has a range of roles in the lives of people near the sea, or in places where very bad weather is about precipitation. It is associated with is the most necessary functions, but also often the most dangerous situations one can be in -- storms, especially at sea, are 'angry' water. We like to imagine the early world as either empty and infinitely peaceful or ultimately chaotic, and those two states are modeled in most places by pools or storms, and therefore as water. Clearly what is comes out of what was 'before it was'. 
+
+Historically, we tend to split the self-reference the other direction: vertically instead of horizontally. 
+
+I would argue that as information accumulation increases, this refinement of the paradigm happens more and more often, at a smaller and smaller scale, and we don't see as much of the disruption that the word 'revolution' implies. Recent 'revolutions' like relativity caused much apprehension and dynamic interest, but preserved almost all of the existing knowledge. 
+
+But that does not mean we are headed back to anything like Lucretian atoms. We can frame the part of a control equation that is guided by information as a field effect from a different kind of 'substance', if we really want to. But we cannot jump from there back to the notion that there are consciousness or entropy 'particles', in the same way there are plasma particles or gravitons. We see what entropy is, and it spreads by sheer combinatorics, not particle exchange. His hierarchy of relations (which just seems to be Leibniz's with better knowledge of physics) captures this, and betrays the idea this is a state of matter. 
+
+Sciences use up the predictive range of their paradigms, or slowly come to admit they cannot work out some internal inconsistencies which make them less and less convincing. When a science's paradigm becomes overtaxed or weak, the science founders, and stops being efficient. At those points a science needs to fall back on the rest of philosophy to reshape its ideas and give it a new paradigm. Historically, this happens with great regularity. Kuhn calls this a 'revolution'. 
+
+A lot of modern philosophies are already self-referential metatheories. So the label for philosophy-of-philosophy may just be unproductive. 
+
+Infinities in the sense of Cantor are cardinalities. There is no cardinal equivalent to infinitesimals. If you are counting, the smallest thing other than zero is one. 
+
+In the next bumper crop of philosophies people like Schopenhauer and Nietsche were ashamed at how little traction things they found obvious in Eastern philosophies gained in the West. Neitsche made a point of quoting Sanskrit and Schopenhauer tried to attribute most of this thought to Buddhist philosophers. But it largely came to nought. We end up declaring those great thinkers' principles as 'nothing' quite literally, classifying them as 'nihilists' in overview courses. (Someone of the period said accusatorily "In the Western history of philosophy there is one page for all the Hindus and a half a page of footnotes for each German graduate-school tutor (Privatdozent).")

@@ -1,0 +1,41 @@
+Modern mathematical logic is "mathematical" also in another sense: some branches of it are simply mathematical disciplines, like e.g. Computability theory and Constructive mathematics, or they are 
+
+The modern term is due to George Boole, with his booklet of 1847: NO; in order to accomodate 2n people we need the first 2n rooms... of course. But the Hotel has an infinite number of rooms; thus, for every finite n, we have always rooms enough for n people, and also for 2n of them, and also for 3n of them ... About the relationship of math with "empirical" sciences (mainy physics) I stay with Morris Kline, Mathematics and the Search for Knowledge (1985), Preface, page v : 
+
+where it is argued for a "rejection of the logicist thesis of the reduction of mathematics to logic." [Also available here]. For instance, if ‘q’ is a singular term, its semantic interpretation must fix the truth-conditions of ‘q = y’ for any given object y. 
+
+But, and this is the point of view shared by some "distinguished philosophers which have studied the philosophy of mathematics, like Frege and Russell, and currently debated under the headings of Naturalism and Indispensability argument, can we "make sense" of all mathematical science only considering it some sort of "formal game" deprived of any reference ? 
+
+Added March, 12 - about the "relationship" with other sciences In the same booklet, Boole set also a link with language: See Euclid's Elements, Book VII, Defs.1&2 : 
+
+There are of course other communities not "devoted" to mathematics, nor to science in general, but mathematicians know perfectly well how to "recognize" a theorem from a spell or a bowling game or a religious rite. 
+
+See e.g. La Science et l'Hypothèse (1902), English transl. (1905), Ch.1 : On the Nature of Mathematical Reasoning, page 17 : 
+
+Thus the arithmos indicates a definite number of definite things. It proclaims that there are precisely so and so many of these things. Trivially, newtonian mechanics assume the existence of the planet, of an attractive force called gravitation, and so on. The same for relativity or biology. 
+
+Definition 5 : The greater number is a multiple of the less when it is measured by the less. [...] 
+
+The signs belong either to logic or to arithmetic proper. The signs of logic that occur here are ten in number, although not all are necessary. The link with language supports the basic distinction between propositional calculus, where the level of "analysis" of logical structure of language is very rough, considering only the sentential connectives, and quantification theory, where we have a more "fine-grained" (but still very far from describing the "real life" functioning of natural language) level of detail, based on quantification. You can see his Intuitionism and formalism (1912) : And this is the source of troubles : where are numbers ? where are sets ? 
+
+Of course, if you want some book references, following @Paul Ross suggestion, I will add : 
+
+I have denoted by signs all ideas that occur in the principles of arithmetic, so that every proposition is stated only by means of these signs. 
+
+All of them deal with the "mathematical side" and not with the philosophical. 
+
+The modern codification of logical languages has many "fathers", but the official birth is Gottlob Frege's Begriffsschrift (1879). 
+
+The only "definition" we may have is the "trivial one" : 
+
+For a different form of philosophy of mathematics based on intuition, and less philosophically muddled than Brouwer's, see Henri Poincaré and his conception of: 
+
+Like for all sciences, we can identify a community of people (the mathematicians) which share : goals, methods, theories, languages, traditions. For a recent historical overview, see: Thus, every non-trivial axiom system that is finitely axiomatized can be formulated in an equivalent form with a single axiom. I totally agree with it. My personal "connection" with the above views about the "mathematical community" is that - as some comments have said - there a lot of "communities". 
+
+Having said that, I think that mathematics has been also an art in the past : the art of reckoning. Today it is certainly a science. 
+
+YES, It is : every infinite process is never-ending. Definition 2 : A number is a multitude composed of units. If we start with a minimal set, like {¬,⇒}, the other ones are usually introduced as abbreviations. 
+
+In the case of Frege’s attempt to define the cardinal numbers, the problem is that the provided criterion for being the number belonging to the concept ϕ does not determine the Bedeutung of the number words completely, and thus it does not justify the definite article ‘the’. Errett Bishop & Douglas Bridges Constructive Analysis (1985) This link was "already there" from the beginnig: see Aristotle's Categories and Leibniz's calculus ratiocinator and lingua characteristica. 
+
+Intuitionism is a philosophy of mathematics that was introduced by the Dutch mathematician Luitzen Egbertus Jan Brouwer (1881–1966): he developed a very personal philosophy of mathematics that founds mathematics (partially following Kant; see Kant's Philosophy of Mathematics) on a pure intuition of time. The "mature" Fregean solution in Grundgesetze der Arithmetik (1893/1903) is based on the introduction of value-courses (Wertverläufe): In a nutshell, the issue arises from the definition of number of as a second-order concept (i.e. a numerical quantifier) in Die Grundlagen der Arithmetik (1884).

@@ -1,0 +1,29 @@
+Another source is William of Sherwood's logical treatise Introductiones in logicam, written in the middle of the 13th century. It must be read as an explanatory schema devoided of (current) phisycal or chemical interpretation. 
+
+Marko Malink, Aristotle's Modal Syllogistic (2013). 
+
+But both modal logic and analysis of fallacies dates back to Aristotle : the second one in his De Sophisticis Elenchis (Sophistical Refutations), an appendix to the Topics. 
+
+In a nutshell, during Renaissance there were a "revival" of Rhetoric (as part of Dialectic, and thus linked to logic) as a "tool" for discovering new knowledge (a "method") as opposed to traditional Aristotelian logic (syllogism) as the fundamental tool for science. 
+
+Richard Patterson, Aristotle's Modal Logic: Essence and Entailment in the Organon (1995). Walter Ong, Ramus, Method, and the Decay of Dialogue: From the Art of Discourse to the Art of Reason (1958); for more than 100 brief "portarits" of Islamic and European medieval philosophers. 
+
+Daniel Garber & Michael Ayers (editors), The Cambridge History of Seventeenth-century Philosophy (1998) : Part II Logic, language, and abstract objects; 
+
+See also Euclid, Book X: units are counted while magnitudes are measured. 
+
+Atomism then involves some sort of ontological reduction. But the fundamental properties need not all be similar in type to the ones which they are invoked to explain; and in some cases (particularly those to do with perceptual properties) the apparent macro-properties are simply emergent upon suitable arrangements and configurations of atomic qualities. Atoms really do possess solidity,resi stivity,and weight as well (On Generation and Corruption 1. 8. 326a9–10; Theophrastus, On Senses 61; Simplicius, On ‘On the Heavens’ 712 = 573–5 KRS);243 and these properties are invoked to explain the creation of macroscopic objects,and their behaviours. By contrast, atoms do not have colour, taste,or temperature in and of themselves (215 above; cf. Lucretius 2. 730–864). We do not know precisely how Democritus accounted for perceptual properties, except in the case of taste, where Theophrastus (On Senses 66 = 591 KRS) reports that bitter flavours are caused by ‘small,smooth, rounded atoms’ while saltiness is the result of larger,jag ged atoms (Epicurus offered fuller explanations along the same lines: To Herodotus 51–4; cf. Lucretius 4. 615–72). Thus whether or not something tastes sweet depends upon a set of facts about its structure that are not themselves phenomenal at all. This supplies the sense to his claim that things are merely by convention hot and cold,sweet and bitter,and so on. [RJ Hankinson, Cause and Explanation in Ancient Greek Thought (1998), page 203]. 
+
+In short, if questions of interpretation interest you at all, there's not much point in going any further before you have grappled with this text. 
+
+Despite my better judgment, I'm going to try to flesh out this answer a bit. 
+
+I'd suggest you take a look at Gadamer's "Truth and Method". 
+
+In short, we don't know, and have no way of knowing, what Plato didn't write. 
+
+So, the question then becomes one of the interpretation of texts: how do we know when we have interpreted a text "correctly"? Further, what would "correctly" mean in this case: the recovery of authorial intent? The branch of philosophy [*] that these questions belong to is termed 'hermeneutics', and there exists a vast literature on the subject. If one were interested in a historical view, Schleiermacher would be the place to start, but I wouldn't recommend that, for the following reason: 
+
+If your interest is not so much in the content of the unwritten doctrines, but in the fact that they were oral and not written, there is a body of literature on Plato and the transition from Orality to Literacy. Eric Havelock's Preface to Plato is the primary work on the subject, but it is almost half a century old. A more recent (but briefer) trip through the material can be found here. 
+
+I intentionally wrote "Socrates was a living person" instead of "it's extremely unlikely that Socrates was merely a figment of Plato's imagination", because I'm convinced that the available evidence for this statement is not weaker than the available evidence for other commonly accepted statements. Important support for Stone's conclusion comes from the earliest surviving reference to the trial of Socrates that does not come from one of his disciples. In 345 B.C.E., the famous orator Aechines told a jury: "Men of Athens, you executed Socrates, the sophist, because he was clearly responsible for the education of Critias, one of the thirty anti-democratic leaders." Socrates was a living person, and was really sentenced to death. He wasn't the only one being sentenced to death for contrived reasons during that time in Athens. People fleeing Athens for fear of persecution sometimes referred to Socrates death for justification. I see this as some form of convention, because the accusation "not holding the gods in honor" often just masked reasons more closely related to xenophobia, and referring to Socrates allowed the victims to avoid giving the real reasons why they feared persecution.

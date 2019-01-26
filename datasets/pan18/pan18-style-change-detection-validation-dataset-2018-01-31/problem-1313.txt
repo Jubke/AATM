@@ -1,0 +1,49 @@
+These are synonymous (if one is true, so is the other, and if one is false, so is the other), even though they look and sound different. So the meaning of the Passive is predictable from its corresponding Active. Furthermore, the form of the Passive is also predictable from its corresponding Active, by the following "algorithm": 
+
+Edit: Rereading the question, I just realized that example (1) 
+
+Surely any scientific theory of grammar should be able to describe such a simple correlation between simple sentences in a simple way. This is one such way. If you've got a neater way, tell us about it. And Passive is just one rule of several hundred in English, and this way works for all of them. 
+
+OK, this is an Answer, not a book, and conversations are inhibited here. So I'm going to observe some restrictions to keep this relatively short. 
+
+Now the kind of word that introduces a clause and doesn't have meaning as such is a Complementizer. Clearly this is the right term for the that in that the Earth is an oblate spheroid. And it's obvious that it's the term for the way Chaucer used it, too. 
+
+By the way, this is not a question about syntax so much it is about English syntax -- be aware that things can work very differently in different languages. 
+
+As to whether the claim still holds, that depends on who you talk to. Everett and many others still hold it, and I'm quite certain there are plenty of others who never held it. Universal Grammar is itself merely a claim, since there's no actual evidence for it, nor for the Language Organ. 
+
+Most people capable of forming a scientific opinion on the matter are probably waiting to see what the evidence turns out to be. Evidence first, claims later. 
+
+Everett's book on the topic, Language: The Cultural Tool, will be released on March 13 this year. Check the bibliography, or write Dan Everett for a copy of it. I'm sure it'll cite everything published on the Pirahã that's come to his attention so far. 
+
+Nothing much. The distinction is a more or less artificial one. 
+
+The thing is that that has been used for over 600 years to introduce tensed subordinate clauses. And it still is used that way for two out of the three kinds of subordinate clauses in Modern English. Tensed Noun clauses and Adjective clauses require or allow that, under varying rules: 
+
+Haj Ross is responsible for the name Pied-Piping for this phenomenon. In his dissertation Constraints on Variables in Syntax, he says it reminded him of the story of the Pied Piper of Hameln, who led the rats (and later the children) out of the city with his music. 
+
+Well, this is not helpful, since you constantly have to be trying to scry out the mental calculations of various speakers in various situations to tell whether you're studying semantics or pragmatics. This is especially troublesome when semantics gets mixed up with logic -- which is rather like confusing speech with writing, since logic is just a written representation for natural semantics. 
+
+As for the classification of believe, the syntax lab reports from these same exercises list believe as 
+
+There is no evidence that there is such a thing as "the linguistic mind" as a separate or separable entity (even ignoring problems with the ontological status of mind), except in the imaginations of theorists. 
+
+Dislocated constructions, like most constructions that indicate speaker attitude by intonation, are features of speech rather than writing. 
+
+The next step, which is not taken in the example, is to Extrapose the heavy subject, producing 
+
+This allows the form and the meaning of passive sentences to be described, simply, by means of reference to the corresponding active sentence. And, by unwinding, to produce a corresponding active from a passive. This cuts the number of sentences that have to be described way down, because now Passives can be completely specified by reference to the prototype Active. And every time you discover another rule, you simplify the prototype that much more. That's the rationale, basically. 
+
+It's also an example of Extraposition from NP, since the pied-piped relative clause without which you can't finish the report has been moved from a position following book, which it modifies, to one following the VP did you return, at the end of the sentence. 
+
+Essentially, English want governs A-Equi when it meets the conditions   (coreferential subjects of both want and its complement clause) but governs B-Raising when it doesn't meet the conditions for A-Equi   (complement subject not coreferential to the subject of want) 
+
+is ungrammatical. It should be 
+
+For instance, take the Passive construction in English. I call it a Construction, but it could be called a Rule just as well, or an Alternation, though it's not cyclic. You have asked "Why say the active is basic and the passive derives from it?" 
+
+It's the same problem with anything alive; there are a lot of worms, for instance. How do we describe them? By noting similarities and differences, and positing clades, like species. Same thing in syntax. We look for similarities and differences, and posit clades. 
+
+There is not even any evidence that different people speaking the same native language use the same internal syntactic processes. Much less all humans speaking all languages. Forget about "the linguistic mind" and "universal grammar"; it would be nice to be have telepathic X-ray syntax vision, but not even Superman has that. 
+
+the reason why Bill said the sentence "John was fired" (say, Bill wanted me to know), or the reason why John was fired (say, John lit a firecracker under Bill's desk). The rule of Wh-Question Formation is not a cyclic rule, limited in its effects to constituents in the neighborhood of a single clause, and therefore Wh-Question Formation can move a wh-word from anywhere in the question to the beginning. In this case, it has a choice of moving one from the main clause or one from a subordinate clause.

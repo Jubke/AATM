@@ -1,0 +1,31 @@
+Of course, the answers are myriad. Religion knowledge is often justified without testing hypothesis, relying on other justification methods. Many martial arts include knowledge which could theoretically be traced back to millions of small tested hypotheses through one's career, but is typically justified in other ways. Knowledge of Self often comes without testing of hypotheses as well. Knowledge of Love also works this way. One does not find many arguments that you must test hypotheses to know if you are in love. The most common phrasing is simply "you'll know." 
+
+* As nir pointed out in the comments, technically an observer in SR is not actually a person, but merely a frame of reference. I use observer here in the colloquial sense because the original question appears to be using "observer" in the colloquial sense as well, and it looks like some of the confusion may stem from the fact that SR doesn't actually need an individual observing. 
+
+Science is a very deductive learning approach. It depends upon one writing a hypothesis in highly objective terms and then testing it. There are many situations where deductive learning does not work. Procedural learning is often viewed as an alternative approach. Consider the case of an athlete. They collect large amounts of information from scientific approaches, but the final bit that takes them from a "good athlete" to a "great athlete" is all "feel." There may be no written hypotheses. There may be no statistical testing. Yet, the mind absolutely learns in this way. Thus, procedural learning like this would be a valid alternative method. In fact, many Chinese martial arts focus almost entirely on procedural learning because it is so hard to learn deductively. 
+
+Just kidding, as a fellow engineer, I have an inkling where you are digging at. Welcome to the fascinating underbelly of mathematics, which is constantly churning and mixing with the philosophy of mathematics. It behaves a bit differently than the upper tiers. Instead of trying to make powerful earth shattering statements about our reality, like proving there are countably infinite primes, they're trying to define the most subtle and intuitive assumptions you can make to get there. Your concept that it is an appeal to intuition is valid, because that's what it is. 
+
+It is at least logically possible that the universe be designed in such a way that the designer is undetectable. It's an internally consistent hypothesis, and it's consistent with everything we observe. However, it doesn't follow from that that it's a reasonable thing to believe. 
+
+So, I would suggest there are significant differences between Popper's view and Lakatos's sophisticated falsificationism. Lakatos personally, e.g. in his published letters with Paul Feyerabend, adopted a stance of opposition to Popper, along with reverence. So, while the similarity is a matter of degree, I would suggest there are sufficient differences to understand them as different positions. 
+
+But you've asked about a version which includes the stronger Premise 4, that “There are more false beliefs that lead to survival-promoting behavior than there are true beliefs that do the same.” It's hard to imagine how Premise 4 could be true, and your example certainly does not support it. The person who goes south and finds water because of the false belief that there are monsters in other directions could just have easily have gone east because of the false belief that there are monsters in the south. Indeed, other things being equal on this simple model, that way of using beliefs to guide action would fail to lead someone to water 75% of the time! Biologically, organisms confused about their environments don't last very long. 
+
+Minkowski uses this metric to anchor his interpretation of Einsteins theory, which explains why Hippolyte says 'it, in a way, dominates the structure'. 
+
+The 'constant' that he alludes to could be the speed of light, which was the speculative move of Einsteins that framed his entire theory. But this does not make sense, as Hippolyte says that this constant is a combination of spacetime. This points us in the direction of the spacetime metric on a four-dimensional manifold, an elegant reformulation of Einsteins theory of relativity by his friend Minkowski, and in this reformulation the metric is an invariant, that is a constant. 
+
+This is a question about the philosophy of physics. If one takes a glance at the philosophy of mathematics its easy to see that the idea of number is filled with philosophical niceties and is a much more subtil beast than practical common-sense would give it credit for. 
+
+Kuhns book The Structure of scientific revolution is based on Hegels philosophy of history and uses, as Hegel did, the dialectic as the motor of history. What Kuhn terms paradigm shifts, in Hegelian terms is sublation, the standard translation of aufheben. 
+
+The question is: are we biased in our pre-emptive choice of intuitionistic logic? Are there any conditions we can demand such that a paraconsistent interpretation of a physical event is chosen over an intuitionistic one? 
+
+Are there similar such Gedankenexperiments in continental philosophy? 
+
+Is it then love - Number Theory being the material incarnation of a mathematicians embrace and adoration of Number? 
+
+One notes here that the synthesis retains concepts from both theses - for example the fundamental notions of mass and energy as well as many derived notions - moment of inertia etc but they are significantly modified by the presence of the anti-thesis. 
+
+One also notes that Hume gleefully applies the new critical spirit endemic to the then new science to empirical phenomena to deny cause & effect and stall the scientific project. It took Kant to restart it by injecting human consciousness into the world and distinguishing a phenomenal realm where science can happen and the noumenal realm on which we have no purchase.

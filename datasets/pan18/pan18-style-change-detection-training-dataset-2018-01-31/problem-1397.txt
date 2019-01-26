@@ -1,0 +1,77 @@
+I had written an article on the subject, please check it out: 
+
+Note: Currently I am showing an alert box but once i know how to center a div, i will replace the alertbox with this dynamically generated div which will also provide some lightbox-like effect. 
+
+There are some tutorials which suggest to use jquery path which is from google eg: 
+
+If you hover over Link Two or Link Three, the black panel comes perfectly replacing the respective blue link, however if you hover the Link One, the black panel comes little below that link. What's wrong I am doing there? How can I fix this? 
+
+Notice also that arguments specified to self-invoking function remain within the scope of that function and do not conflict with outer scope/variables. 
+
+http://www.google.am/support/forum/p/Chrome/thread?tid=2c81c3e3fd99b388&hl=en http://forums.sharethis.com/topic.php?id=2742 
+
+Update Based On Question Edit You can get them like this now: 
+
+http://www.facebook.com/apps/application.php?id=120196931351044&v=app_120196931351044 
+
+What I want is that div should only go away when mouse leaves its area. How to do this? 
+
+Note: For reference, you can download latest version of this script here. 
+
+First of all, I am not an advanced JQuery developer, however, I have been creating what I call Strips Menu with JQuery, you can see it here by clicking the Preview link on top: 
+
+Here is the script you can see the preview of by clicking the Preview link there and edit it there too: 
+
+As shown in the comments below, it doesn't seem to work even in Safari as well. 
+
+Edit: Jquery documentation says: 
+
+Here is how your html should look like: 
+
+I have been creating an image gallery with JQuery, all is done. The images are placed side by side horizontally within a div whose overflow id hidden (don't want to show scrollbars). I have two images arrow left and arrow right within links. Now I want to do is that when i click left arrow, it should show previous image and when i click right arrow image, it should show next image. I suspect I will have to move scrollbars in the right direction when corresponding arrow image is clicked with jquery. 
+
+Please note that i dont want to use external css for this because this is validation script and it should be able to do it programatically. For example: using something like this can be helpful: 
+
+How to create imaged scrollbars, for example: 
+
+I think you are looking for this. 
+
+Aren't we dependent because we are not sure it will be there after a year or beyond? 
+
+When I click on a strip, it promptly shows the contents relevant to hovered strip but I need sliding effect something that has been done on this site: 
+
+How do I give it sliding effect like that of jeemsolutions for which the link is provided above. 
+
+The same code seems to work in chrome when run outside of the iframe, here is the link to working page: 
+
+That's my question, why is it not recommended? Should we ever use it in our projects? 
+
+How do they create custom scrollbars? 
+
+I have created a facebook fan page here: 
+
+Your help will be greatly appreciated. 
+
+Strange, the same code works on jsbin but not on my page: jquery version is also same. 
+
+http://www.openstudio.fr/jquery/index.htm 
+
+It incorporates iframes to call certain pages/image galleries which use jquery. Everything works fine in all browsers except for Chrome. Nothing shows up in Chrome from the iframes, just empty white background. 
+
+Notice that extra outer braces are just convention, you could also write it up like: 
+
+I have been trying to create a menu panel with JQuery that can be seen here by clicking the Preview button on top: 
+
+I generate a div for my javascript automated validation script. It is generated with below code: 
+
+Suppose I have this html markup: 
+
+Basically, I want to create my own image slider with JQuery but I don't want to show default scrollbars. Instead, I would like to have imaged scrollbars. 
+
+I am trying to create a menu panel in jquery, all is complete except for one problem. When I hover over a link, it shows a black panel, i want to be able to hide that panel only when mouse is out of that black panel area. Currently it fades out even if i am inside that black box. 
+
+The big images in the header come through iframe,a page incorporating jquery. 
+
+Note that you can also write self-executing anonymous function like this: 
+
+The reason why I have asked this question is that there are some people who go in favor of that.

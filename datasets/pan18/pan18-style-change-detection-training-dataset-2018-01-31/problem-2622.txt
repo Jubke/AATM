@@ -1,0 +1,61 @@
+Questions that syntax attempts to answer include: 
+
+So let's take a look at your example: 
+
+However, I don't understand what you mean by "I have to remove "dem Lehrer das Buch" to become adjunctions to Verb Phrase (VP)" Where do you remove them from? I also think they should not be adjuncts, but arguments, since geben is a three-place verb and the direct and the indirect objects are obligatory (if you left them out, the sentence would be ungrammatical), so you shouldn't merge them with the VP by adjunction; rather, they should be included in the VP. 
+
+Apart from my infantile handwriting, I'm not entirely happy about the picture yet especially because I haven't figured out a neat way to place phonetics so just dropped it - so please, everyone, feel free to criticize! - but I'll explain why I'm happier with it than the "classical" graph: 
+
+Update If we need to move the whole VP instead of just the V, in order to be able to analyse the sentence Dem Lehrer das Buch gegeben hat Hans, we would probably have someting like this: 
+
+Your first test is correct: The adverb "always" is - together with the negation "not" which modifies (negates) it - a constituent serving to modify the verb phrase (the being a result is modified w.r.t. time, namely that it is "not always" being one). Since the head of the constituent is the adverb "always", most syntacticians would call this constituent an adverbial phrase and locate it as an adjunction to the verb phrase. 4. sounds very weird to me; I'm not a native speaker though. Looks like the part starting with "always" was topicalised, i.e. moved to the front of the sentence to make it the sentence's topic (where the "not" is in focus). Might be that this information structuring legitimates such a construction, but it is at least very marked I'd say, since the adverb ("always") was detached from its negation ("not"), making it hard to reconstruct the constituent. 
+
+If you prefer kinship terminology, reword "X is contained in Y" as "X is a daughter or granddaughter or great grandaughter or great great ... granddaughter of Y", and "immediately contained" as "X is a daughter, but not a granddaughter or great great ... granddaughter of Y" (i.e. there are no other mothers in the family line between X and Y). 
+
+Edit: Givón also mentioned that verbs spread their modal scope over object NPs (p. 304). Since 'a teacher' is not an object, the test doesn't really look at it. 
+
+3) Certain fixed constructions: 何 (interrogative word) + Object + 之 (meaningless particle) + 有 (exist), 惟 (only) + Object + 是 (meaningless particle) + Verb 
+
+Subtypes of deixis include person (e.g. personal pronouns), spatial (e.g. NPs denoting places with reference to the point where the speaker is standing) and temporal (e.g. tense, time with reference to the present) deixis, and all three need to be changed when transforming from direct to indirect speech and vice versa: 
+
+My question is, has there been any literature that explains these phenomena under the GB framework? If Koopman's analysis is correct, how do these guys pass the Case Filter? If not, can I be pointed to literature regarding similar phenomena in other languages? 
+
+Though BillJ is right in saying that full NPs have no case in English, I think your question would become valid if we replace the full NPs with personal pronouns: 
+
+Cleft: It is [of the Church of England] that he is the founder. 
+
+(The elements in {} represent, in the word-to-word translations, concepts that take more than one word in English but only one in Classical Chinese.) 
+
+Al is watching TV. => Al has watched TV. 
+
+Single-event compatibility with "in"-phrases: 
+
+*Al gave Mary a ring for a year. 
+
+Single event compatibility with "for"-adverbials: 
+
+Al watched TV a lot last night. 
+
+Single-event compatibility with "a lot": 
+
+In brief, whether speech error data is relevant to the question of derivational order in syntax depends on just how much explanation syntactic theory owes to a theory of linguistic performance. 
+
+Al gave Mary a ring in a year. 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+Entailment from the progressive to the perfect: 
+
+Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x 
+
+Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): 
+
+That's why 'the founder of' is not a constituent. 
+
+3) Certain fixed constructions: 何 (interrogative word) + Object + 之 (meaningless particle) + 有 (exist), 惟 (only) + Object + 是 (meaningless particle) + Verb 
+
+EDIT: To clarify: I'm not looking for crosslinguistic studies regarding canonical/unmarked A-N order and other word-order parameters. I'm looking for crosslinguistic tendencies of factors that explain adjective-noun order variation within languages (for example, is it common for colours to go after and size to go before, in languages with variable A-N order?). 
+
+Describing constituency is the main purpose of syntax trees. The subset of a tree which is dominated by a single node - such as 'of the Church of England', which is a PP in the final version of Tree #1 in lemon's answer - is known as a constituent because it acts as a unit in syntax. We can look for evidence for constituency in various ways, for example:

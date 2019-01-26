@@ -1,0 +1,83 @@
+I think we can stop the flow of crap by improving our existing systems, while being transparent about what it is we are doing. 
+
+We can also use this to give people "badges" for finding lots of great canonical answers and so on. 
+
+One slight open question is how to add a filter that allows you to see stuff that you downvoted in the past and now is no longer vote locked. For the time being you can trawl through your downvoted list. 
+
+Turns out careers really wants me to type in a personal statement. I agree with it and think its really important.... but lack inspiration at the moment. 
+
+I think that introducing such a system would be far more effective than what we have today, would heavily reduce mod workload, and would lead to better canonical answers. It would also eliminate the annoyingly long comment threads on possible duplicate questions. 
+
+We just made a change that gives visibility to all the moderator flags that come with canned messages and stripped out comment and spam flags. This means that if a post is flagged: 
+
+Once this "shadow community wiki answer" shows up it can be subject to voting and being accepted. 
+
+"I like waffles" is just not going to cut it. 
+
+Voting drives the economy of Stack Overflow, this trend of decreased voting can not be helping. 
+
+Nothing is set in stone, everything depends on the quality and type of edits that are submitted in our real world trial runs. 
+
+When we stop people from asking questions, we stop them from asking questions; we do not put them in a virtual reality sandbox. 
+
+What I seemed to understand is this: 
+
+During this process we are tweaking stuff so handling the proposed edits is super easy. We are also adding some more restrictions to edits, such as you must enter a substantive comment for any suggested edit, edits must not be no-ops, etc. 
+
+It is ... complicated but this is what it looks at: 
+
+It is very hard to make the argument that using extreme evil to battle evil makes the internet better. 
+
+Take Hans for example, where the complaints are directed at: 
+
+For these shadow answers, editing should be locked (and only accessible on the original question, so we do not create fragments) 
+
+I'm adding this for everyone's amusement. 
+
+And it is now full fledged. We can see different vote casts. 
+
+Upvotes Downvotes Delete Votes Undelete Votes Closure Votes Reopen Votes 
+
+I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days. 
+
+The trouble was that these are the easiest flags for us mods to deal with. The trickier ones to deal with are all the rest. 
+
+Theoretical problems are fantastic things. I have over 1000 theoretical problems with over 1000 theoretical features. 
+
+I like the way you're thinking (let's err on the side of sensitivity on serious issues), but I'm not sure this phrasing represents a real problem when used this way. 
+
+We will be awarding it retroactively, so you don't need to do anything if you already filled out your "About Me" to receive it. (But be patient, we're awarding them in batches for the next day or two.) 
+
+The last one is particularly unfortunate for two reasons: 
+
+Ultimately, we're interested in using it as forum anything we think might interest or entertain our community, devs in general, or members of the Joel Spolsky Fan Fiction Society. 
+
+We are not going to hell in a hand basket. We (mostly you) are AWESOME. It's often not much harder to be just as clear, but be NICER. Do that. 
+
+What, if anything, is the appropriate response in such cases? 
+
+The game is supposed to reinforce behavior that supports the community. We have to make a buck to keep things going, but the reinforcement system shouldn't go anywhere near that side of the business. And it wasn't - we don't use that data in any real valuable way. Or almost any way at all. The only thing I could find that we ever use most of it for is an annual aggregate survey/report on what our users look like. Put another way, we don't even care much about it, so making users think the game was part of some monetization scheme made them less enthused about the system based on something we weren't even doing intentionally. If the badge is supposed to encourage you to feel more like you've chosen an identity here, it should be based on what you choose to share, not a bunch of stats that we might think are useful to others. 
+
+Don't forget the "be nice" rule". 
+
+It makes me happy to see it staring at me up there, but it looks squished, and like there's probably room to expand a few pixels in each direction? 
+
+Following Jon's answer - I am looking for what people should do, as well as what they shouldn't. 
+
+If a "How to ask a good question" FAQ were to be compiled, what do people here think are the top issues that it should address? 
+
+In short - this is the battle between the core people of the community - those few who care for the long term health of the community vs the greater numbers of people who are only in it for themselves (whether spammers, give me teh code, answering bad/off-topic questions etc...). 
+
+We welcome Jewish, Christian, Atheist and other viewpoints as long as they take seriously the process of understanding the Biblical texts. 
+
+Short term gain vs long term health of the community. Many people who come to Stack Overflow and see a question they can answer, will jump and answer it in the hope of gaining reputation. 
+
+This helps with teaching new users as well as the OP. 
+
+Personally, I don't see an issue with such comments. 
+
+They do not think of the community as a whole or the long term benefits to the site of not doing so. 
+
+You've come to the right place if you have questions about: 
+
+So, this site is about the text of the bible as a work of literature and its study.

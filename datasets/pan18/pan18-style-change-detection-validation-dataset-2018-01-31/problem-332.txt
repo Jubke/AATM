@@ -1,0 +1,23 @@
+Player 2 has K9, so his 7 cards are KKK9642. Ignoring suits, the best possible hand here is KKK96, or trip kings with a 9 kicker. As with most things poker, it depends. I presume your goal here is to maximize your profit in this tournament, and you want to know what action with your JJ is most likely to maximize your profit in the whole tournament. Some things your decision depends on: No. The player with KQ would win the whole pot. The winner of the pot is the player who can make the best 5-card hand from the 7 possible cards -- 5 board cards plus their two hole cards. For both players, their second card plays as part of their best possible hand, so in this case the player with the KQ will win the whole pot. 
+
+How many players remain? How many blinds do you have overall? What are the prizes for each remaining place? What are the exact stack levels of other players? In general, what you are asking is the question that the ICM (independent chip model) is intended to address. It's a way to help decide questions of equity near the end of a tournament which will help you translate an action into a dollar amount. 
+
+You have a strong hand, but this isn't a good spot for a check-raise. Check-calling is a litte too nitty in my opinion. Your bet is fine. I like the sizing. 888's structure is 4-handed as opposed to pokerstars' 3-handed games. This increases variance. Before you sit down at the table you should have developed a reasonable strategy against the expected player pool. This should be a balanced strategy so that you are a winning player against every player in the pool (this is of course very hard). Then you can make notes against certain players and adjust your strategy accordingly. It is wrong to assume you are never supposed to bluff in a certain spot, because of the bad player pool, since they will always call you down. This is not an assumption you can correctly make. 
+
+To conclude, I think pokerstars is your better pick. However, I don't know the skill level of the players. If you are going to play buy-ins larger than 30 I think 888's playerpool will be softer. Player 2 has K9, so his 7 cards are KKK9642. Ignoring suits, the best possible hand here is KKK96, or trip kings with a 9 kicker. 
+
+How many players remain? How many blinds do you have overall? What are the prizes for each remaining place? What are the exact stack levels of other players? In general, what you are asking is the question that the ICM (independent chip model) is intended to address. It's a way to help decide questions of equity near the end of a tournament which will help you translate an action into a dollar amount. 
+
+Player 1 has KQ, so his 7 cards are KKKQ642. Ignoring suits, the best possible hand here is KKKQ6, or trip kings with a queen kicker. 
+
+For both players, their second card plays as part of their best possible hand, so in this case the player with the KQ will win the whole pot. 
+
+No. The player with KQ would win the whole pot. The winner of the pot is the player who can make the best 5-card hand from the 7 possible cards -- 5 board cards plus their two hole cards. 
+
+888's structure is 4-handed as opposed to pokerstars' 3-handed games. This increases variance. 
+
+There is more content available for 3-handed shortstack games, therefore studying will be easier and with more options to choose from. And also, plenty of other sites have 3-handed structures, so your studying can also be applied elsewhere. In the end, I don't think there is a huge difference in your hourly rate, but pokerstars has my slight preference. 
+
+888 has a higher rake percentage of 6.12%-10% as opposed to pokerstars' 5%-8%. 
+
+Before you sit down at the table you should have developed a reasonable strategy against the expected player pool. This should be a balanced strategy so that you are a winning player against every player in the pool (this is of course very hard). Then you can make notes against certain players and adjust your strategy accordingly. It is wrong to assume you are never supposed to bluff in a certain spot, because of the bad player pool, since they will always call you down. This is not an assumption you can correctly make.

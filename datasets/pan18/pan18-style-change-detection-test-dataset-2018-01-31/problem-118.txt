@@ -1,0 +1,55 @@
+What are the pros (rewards, other advantages, etc.) and cons of selling the ring to either Harold or Svea? Feel free to post unhidden spoilers. 
+
+It is important to use the Staff for a sufficient amount of time on the Eye of Magnus- until it returns to a solid, non-glowing sphere - because the protective barrier gives Ancano near immunity to magic and physical attacks when the Eye of Magnusis only partially weakened. When the glow surrounding Ancano dissipates he will be vulnerable to attacks. 
+
+Filled soul gems can lose their souls when placed into a container, such as a bedside table for example, if you take them back out of the container and put them back into your inventory. This can usually only happen if you have empty soul gems of the same size and value in your possession already. This is possibly because filled gems can get mixed back in with your empty ones due to some sort of bug. This usually occurs with Common, Lesser and Petty soul gems. 
+
+For example, if I'm wearing a robe or armor like the Robes of Extreme Destruction or Vampire Armor of Extreme Destruction (Fortify Destruction, 22 pts; Enchantment description: Destruction spells cost 22% less to cast) – will those apparel lessen the charge cost of using Destruction staves like the Staff of Fireballs or Staff of Ice Storms? 
+
+In TES IV: Oblivion, you don't have to buy a house nor join a guild/organization to have access to containers where you can safely store items, without them being reset every few in-game days. 
+
+If you're playing on the PC, try teleporting your follower to your location through console commands. This is easier and faster (no loading screens) than going to your follower's location and getting him or her to follow you again. 
+
+Another option is to use the No NPC Greetings mod. This will affect all NPCs though, not just guards. Depending on which components of the mod you installed, this will either completely stop NPCs from auto-greeting you or reduce the distance required before an NPC automatically talks to you or greets you. That should shut those snotty guards up. 
+
+More info on console commands here: http://uesp.net/wiki/Skyrim:Console 
+
+The conversation that he insists on talking about is his daedric quest, The Only Cure. This is the last conversation he gives you before giving you the quest reward, and letting you go. Even if you 'finish' the conversation, he'll initiate another conversation a second or two later. Going to another indoor location, will not stop Peryite, as he will initiate the same conversation again. 
+
+Avoiding the bug About the Forsworn Conspiracy quest: 
+
+More info: http://uesp.net/wiki/Skyrim:Main_Quest http://uesp.net/wiki/Skyrim:Stormcloaks http://uesp.net/wiki/Skyrim:Imperial_Legion 
+
+Aside from containers in bought houses and guild/organization-provided containers, are there also similar 'safe' containers in Skyrim? Where are they located? 
+
+So in most cases, leveling up the player character will also make your follower level up, increasing the follower's sneak skill (the maximum and by how much, will depend on the specific follower and their NPC class). 
+
+and here: http://www.loverslab.com/showthread.php?tid=6368 (some forum user avatars are NSFW) 
+
+I have installed the 2x Skill Increase mod (it also has a 'half-increase' version), which claims to "double the skill increase rate for all skills". 
+
+Whenever I try to buy something from Talvas Fathryon, he shows me that he has absolutely nothing to sell: 
+
+Just launch Skyrim or SKSE through the Nexus Mod Manager, to avoid the vanilla launcher messing up the load order of your installed mods. 
+
+(I know OP has already posted a solution that worked for them. Just posting alternative solutions in case someone else experiences a similar issue.) 
+
+Followers that are good at sneak, light armor and archery are: Aela the Huntress, Cicero and Dark Brotherhood Initiate. 
+
+The UESP wiki states that (from the Retaking Thirsk article): 
+
+My character is a Thieves Guild member (now the leader) and tries to kill any unnamed thief that randomly shows up in towns (mostly in Riften) and receives no repercussion whatsoever from guards, Thieves Guild members or any other NPC. The random unnamed thieves carry assorted valuable gems and other items, so you might want to loot their body when they die. 
+
+From: UESP Wiki, "The Forsworn Conspiracy - Bugs" I'd recommend not having a follower while doing this quest to avoid them getting stuck in the Shrine of Talos. Or you could ask them to wait outside the Shrine. Multiple backup saves are also recommended. 
+
+GDO fixes All the Skyrim Guards dialogue bugs and does much, much more. 
+
+Based on the reports I found below and their dates, this happens on Skyrim versions 1.4.21.0.4 – 1.5.24.0 - 1.5.26.0.5. 
+
+GDO alters the effect that Skyrim Guard dialogue has on the mood of your game. Rather than annoying you, guards will enhance your experience of the game and increase your immersion in the world of Skyrim by properly recognising your actions and not making disrespectful comments to a character that they are supposed to respect. 
+
+The HorseRidingFollowers mod description also states that you can make your follower ride non-horse mounts (like Mammoths and Wolfs) with this mod (and also, probably other similar mods): Like a Boss 
+
+from: Reddit /r/Skyrim comment on the post, "Erm.. I found this in a Whiterun?? Explain" 
+
+Note: 1 - I suggest you to never mount the follower horse, it may result in the follower mounting yours and after you dismount you'd have to catch your horse that tries to go back to stables. 2 - You can fast travel but note that your follower may not be teleporting with you if you were mounted, IT IS NOT AN ISSUE tho your companion will come back after a while (specially if you transition to doors etc) 3 - Once their AI kicks in followers are rather slow (they walk) to catch their horse ( just go.. they will catch up ). 4 - The AI will not enter combat unless you dismount and so the normal behavior starts. 5 - If your follower is very close to you and you dismount, they may not dismount at first... but once you start moving they will. 6 - Follower horses are not owned by the player so they will show with Red name.. this is totally normal! they are not supposed to be mounted by you! 7 - If for some reason follower horses aren't showing up, mount up on your horse and then dismount.. in few seconds follower horses should show up.

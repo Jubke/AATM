@@ -1,0 +1,15 @@
+The correct solution would be to check which one to use, depending on browser If it's for a DIV, you'd have to target the element that has the scrollbar attached, to get the scrolled amount You can of course use any datepicker you want, jQuery UI's datepicker is probably the one most commonly used, but it does add quite a bit of javascript if you're not using the UI library for anything else, but there are hundreds of alternative datepickers to choose from. 
+
+Indeed, there are several ways to convert a Set to an Array: 
+
+Also, if any of the scripts fail to load, the fail handler will be called, and subsequent scripts will not be loaded To add some animation to the rotation all we have to do is add CSS transitions To toggle the rotation we can keep a flag, a simple variable with a boolean value that tells us what way to rotate. I am trying to do a substr on a UTF-8 string like हिन्दी. 
+
+The following code will help you out. Add the class "delete" to each of your img. The problem is that it becomes totally screwed up=> with some weird box in the end (does not show here, although i copy pasted) (its something like [00 02]): हिन... I have a number of hex colors (as part of a theme) in say a shade of green. I want to find equivalent colors in another shade say blue. Wondering if there is some function to solve this problem? Atleast I want to remove that funny box. I have heard of JSONP, but was wondering if someone could give me an concrete example to go about the whole process. I want to make minimal changes if possible to my script. Should I use a proxy.php of sorts? 
+
+I have an existing jQuery plugin which makes a lot of AJAX calls (mostly JSON). I am wondering what is the quickest to allow it to do cross-site calls i.e. the $.get and $.post URL's will not be from the same domain. 
+
+You can of course use any datepicker you want, jQuery UI's datepicker is probably the one most commonly used, but it does add quite a bit of javascript if you're not using the UI library for anything else, but there are hundreds of alternative datepickers to choose from. JSON is a lightweight data-interchange format, and doesn't really have anything to do with JavaScript other than being named "JavaScript Object Notation" because it's written like a JavaScript object. 
+
+If using jQuery 1.7+ you could try using .on() to delegate the event and bind to all future forms with the same class. Try finding the closest parent that is not inserted dynamicly instead of $(document). The correct solution would be to check which one to use, depending on browser To add some animation to the rotation all we have to do is add CSS transitions If it's for a DIV, you'd have to target the element that has the scrollbar attached, to get the scrolled amount 
+
+Yes it can, you can combine the attribute starts with and the attribute ends with selector

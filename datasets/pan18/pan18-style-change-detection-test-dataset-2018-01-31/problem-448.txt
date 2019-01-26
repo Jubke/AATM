@@ -1,0 +1,23 @@
+Most of the existing privileges have an effect that's visible immediately. You can observe them passively or quickly find a way to use them, at least if you participate in activities other than asking and answering. 
+
+Ok. From a moderator's perspective there isn't that much difference between “rude and offensive” and that — in both cases, a moderator needs to evaluate the context, delete the comment if the flag is warranted and possibly take further action (e.g. mod message). But from flaggers' perspective it's nice to have the “be nice” remember in there. If the target site doesn't want the question, the question should not be migrated. That is a problem with the current migration rules. Not the age, but who decides. 
+
+Hmm, ok. Let me go find a question to protect! 
+
+Pfff, that's disappointing. I waited so long for this privilege and it's basically useless! Arguably “rude or offensive” should be merged with “not constructive”, but there are comments that don't reach the threshold of violating the “be nice” rule, but are nonetheless “not constructive” because they're provocative or otherwise driving towards conflict, typically a sign of escalation in a comment thread. Moderators do need to be aware of such cases, ideally before they reach the “rude or offensive” threshold, so the flagging dialog should make it clear that flagging such situations is encouraged. (Note: this paragraph is written with my understanding of “not constructive” in mind. The phrase “not constructive” is so vague and non-consensual that it loses a lot of efficacy, which is one reason why it might be a good idea to remove this middle ground. It's useful, but only if people agree what it means, which is not always the case.) 
+
+Do not add micro-privileges Micro-privileges intrinsically fail criterion #1: 
+
+No! This goes in the wrong direction altogether. Please bring back the directly visible meta link. As a default — I know I can bring it back with a user script, but that's no use to inform users of the existence of meta sites. From my closed-as-dupe question where I expound about how awesome this would be: Note the proposed duplicate is already status-completed. This proposal also doesn't consider reputation as an indication of trust, is about instant closure not increased weight... it's not a match at all. A moderator has two choices. They can delete the answer and move on, or... 
+
+I'd suggest that there should be the ability for high-rep users to say, "thanks, but no thanks" to some of the "features" of being a high-rep user. I think that not wanting to see deleted trash would be first among them. A large majority of users seem to believe that tags are really important; so important they like to decorate the titles of their questions with tags (I'm not talking about the organic ones; I'm not that anal). So, why not light rather than fight? 
+
+A possible workaround may be to increase the number of questions we can have on the front page, like 100 or 200 or something. 
+
+Creates the chat room "Private chat with user Foo" if it doesn't automatically exist Gives Foo write access Opens that chat room in a new tab Automatically places a link in Foo's inbox telling him that he should join that chat room This would turn a ten step process into a one step, and would also allow mods to forego leaving comments to reply to flags or other concerns. Pfff, that's disappointing. I waited so long for this privilege and it's basically useless! 
+
+That sounds like a solution in search of a problem. Nowhere in your proposal do you mention what problem migration of old questions have (that migration of new questions doesn't have). Do not add micro-privileges Micro-privileges intrinsically fail criterion #1: No! This goes in the wrong direction altogether. 
+
+If the question was on-topic it wouldn't be migrated. If your problem is that on-topic questions are migrated, tell off the people who are migrating on-topic questions. If your problem is with questions that were once deemed on-topic but are now no longer considered so (e.g. the kind of SO questions that were once moved to Programmers), that's a different matter that should be juged on a case by case basis. Micro-privileges are disappointing. This is particularly visible with one of the existing privileges, the 15k (3.5k on beta) privilege to protect questions. This is an oft-repeated scene: 
+
+Ok. From a moderator's perspective there isn't that much difference between “rude and offensive” and that — in both cases, a moderator needs to evaluate the context, delete the comment if the flag is warranted and possibly take further action (e.g. mod message). But from flaggers' perspective it's nice to have the “be nice” remember in there.

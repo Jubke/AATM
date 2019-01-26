@@ -1,0 +1,47 @@
+So the next apparent hack would be to use a Unicode zero-width space, which will still disrupt the escaping behavior, but won't render as an ugly gap in your comment. Thus, 
+
+Ah, solved it: The syntax you're looking for is: 
+
+Yes, there is. It's right here. You already found it! 
+
+The problem is that the syntax you would expect 
+
+However, by inserting a space between the backslash and the backtick, you can cleverly disrupt this escaping behavior: 
+
+I obviously can't provide an official response, but the way I read the blog post, yes, this does apply to self-deleted posts. 
+
+Note the following paragraph under the first point (emphasis added): 
+
+But please remember: moderators are people, too. They sometimes make mistakes and/or have temporary lapses in judgement. Just because they were harsh with you once or made a decision that you disagree with doesn't mean that they're bad moderators, that they'll hold a grudge against you, or even that they'll make the same decision a second time. 
+
+The TOS states that users are responsible for filing DMCA takedown counterclaims, and gives guidance: 
+
+Also, a general design tip if you have a specific project: Start out by documenting your high level requirements, then do a rough actual design (often on paper if you have to), this will give you concrete criteria when searching for solutions and tools. Then you can take a more methodical approach and do your research on available technologies and piece together a collection of compatible solutions that allow you to implement all of your requirements. Implement rough prototypes of individual components and/or experiment with individual tools as you go if it helps you evaluate an option. Don't be afraid to try out a technology and discover that you don't care for it that much or that it has unexpected shortcomings, if you run into problems, keep track of why, this will help you search for better alternatives next time around. 
+
+SEDE was updated this morning so now is a good time. 
+
+As for sites that currently exist it really depends on what you're asking about: 
+
+If you see a post with a link to software that contains a virus, you have a few options, basically boiling down to: 
+
+My goals: I'm not questioning whether or not users should or should not delete their content. That's a whole different debate. But my goals here are, assuming my interpretations above are correct (and please, correct me if I'm wrong, that's part of my question): 
+
+Is it possible to raise a "moderator" style flag (with the explanation) from the transcript if it is no longer in the current chat window? 
+
+This seems to work, it's not the best but at least it's controllable. It's all I've discovered so far: 
+
+When you click the flag button on a message in the transcript or on the star wall, it reads "flag as spam/offensive" and the flag is immediately raised. 
+
+However, by inserting a space between the backslash and the backtick, you can cleverly disrupt this escaping behavior: 
+
+But please remember: moderators are people, too. They sometimes make mistakes and/or have temporary lapses in judgement. Just because they were harsh with you once or made a decision that you disagree with doesn't mean that they're bad moderators, that they'll hold a grudge against you, or even that they'll make the same decision a second time. 
+
+Note the following paragraph under the first point (emphasis added): 
+
+I obviously can't provide an official response, but the way I read the blog post, yes, this does apply to self-deleted posts. 
+
+Yes, there is. It's right here. You already found it! 
+
+Ah, solved it: The syntax you're looking for is: 
+
+So the next apparent hack would be to use a Unicode zero-width space, which will still disrupt the escaping behavior, but won't render as an ugly gap in your comment. Thus,

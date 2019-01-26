@@ -1,0 +1,39 @@
+Villian Jamming Range (42.08% of hands) 
+
+With a polarized range, your hand only contains strong hands and air (bluffs). This is an ideal range to have in most spots. Playing against an aggressive opponent who has a polarized range can be quite difficult at times. 
+
+Take, for instance, the following situation that frequently occurs in heads-up hyper-turbo SNGs. Most regs will open 90%+ of all hands on the button. When playing other regs, they will frequently exploit this by 3-bet shoving a wide range of hands. But how do they choose said hands? 
+
+Now we're 3-bet shoving with our value hands as well as weaker suited hands that don't necessarily play well postflop (including weaker suited connectors is debatable here, it can go either way really). We've increased the expectation of weaker hands like J4s immensely by doing so, are exploiting the reg Villian's strategy quite well, and still have a good flatting range which consists of middling/strong hands that will flop well. Our strategy is hard to exploit unless the reg is paying attention and knows the appropriate adjustments (which, surprisingly, isn't the case a lot of the time). 
+
+With a capped range, you have no strong hands. You only have bluffcatchers/air. Your range is extremely weak. 
+
+The main point here is that of information hiding. Each time you have to make a decision, there will be multiple actions you can take. Check, call, raise, check/raise, check/fold, check/call, etc. To make it harder for opponents to figure out what you're taking each action with, you need to split your ranges so that each action is balanced. If you ALWAYS slowplay strong value and just check/call, check/call, check/shove all the time, your opponent is obviously going to know that your check/raises on the flop are weak. As such, you'll be highly exploitable. 
+
+You haven't provided enough information. This is entirely dependent on what the action was leading to the all-in, current stack sizes, and the frequency with which your opponent is taking said action. I can tell you, just from experience, that your opponent would either need to be very short stacked, ~13-15BB or less, or jamming all-in with a very wide range, ~40%+ of hands, for you to call off with A4. 
+
+When playing against recreationals, all you really have to think about is maximally exploiting your opponent so that you can maximize your profits. But if you are playing against a skilled, thinking opponent that is trying to do the exact same thing you are, things get far more complicated. 
+
+But, remember, we're playing a reg. We don't want to implement a strategy that is so obviously exploitable against a thinking opponent. And, on top of that, we are trying to maximize our expectation with each hand in our range. As such, we shouldn't be 3-bet shoving a hand like JTs as it will obviously have a better expectation by flatting his open than it will by 3-bet shoving it. Therefore, we polarize our 3-bet shoving range. 
+
+What actions could I use to make it harder for my opponents to figure out what I'm calling, raising or folding with? Ah, now we're getting into the territory of balance and game theory optimal play. This has been quite a hot topic for some years now. 
+
+With a merged range, you have strong, medium strength, weak, and air hands in your range. Basically, linear distribution of hands — you have something of everything. 
+
+The math works out that, if an opponent is opening his button to 2x the blind with 70%+ of all hands, and is only calling with a tight value range {44+, A7s+, A8o+, KQs}, you can basically jam any two cards when he does so. 
+
+The numbers below each hand are the expected value, or EV, of calling with each hand, using percentages of the prize pool as the unit of measurement. 
+
+What kind of plays could I make to convince my opponents that I have a polarised hand range? You don't make plays to convince your opponents that you have a polarized hand range, you just polarize your hand range. If they fail to pick up on that, you've profited greatly. 
+
+It becomes paramount to balance your strategies so that they aren't easily exploitable. 
+
+There are generally three types of ranges: 
+
+Hero's Maximally Exploitative Calling Range (22.17% of hands) 
+
+Villian jams all-in on the first hand. You have A4o. What do you do? You fold. Villian would need to be jamming here with 42.08% of hands to justify calling with A4o. As such, you can't call off this wide until you gain reads that Villian is jamming a maniacal range. This is even more important as stacks get deeper. 
+
+Regardless, you should learn to use a program like ICMIZER or CREV which will enable you to come up with maximally exploitative calling ranges based on the current variables. Here's an example: 
+
+You value greatly when an opponent doesn't realize you've polarized your range to include only strong value and air since you've obviously greatly increased your expectation with said air hands (your bluffs). As such, it's entirely counter-productive to try and convince opponents you have a polarized hand range.

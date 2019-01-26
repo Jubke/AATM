@@ -1,0 +1,71 @@
+Your assumption that pure virtual function cannot be called is absolutely incorrect. When a function is declared pure virtual, it simply means that this function cannot get called dynamically, through a virtual dispatch mechanism. Yet, this very same function can easily be called statically, without virtual dispatch. 
+
+For some reason, this original purpose of the union got "overriden" with something completely different: writing one member of a union and then inspecting it through another member. This kind of memory reinterpretation (aka "type punning") is not a valid use of unions. It generally leads to undefined behavior is decribed as producing implemenation-defined behavior in C89/90. 
+
+(1) You can put your definitions into the header file, but make sure that they have internal linkage. 
+
+It has little to do with rank of the type defined in 4.13. 4.13 defined internal rankings used to describe integral promotions and usual arithmetic conversions. They by itself do not directly affect overload resolution. Rankings relevant to overload resolution are defined in "13.3.3.1.1 Standard conversion sequences" and then used in "13.3.3.2 Ranking implicit conversion sequences". 
+
+As an additional note: the very design of the language is obviously tailored towards statements. Statements can freely invoke expressions, but expressions can't invoke statements (aside from calling pre-defined functions). This situation is changed in a rather interesting way in GCC compiler, which supports so called "statement expressions" as an extension (symmetrical to "expression statements" in standard C). "Statement expressions" allow user to directly insert statement-based code into expressions, just like they can insert expression-based code into statements in standard C. 
+
+As an example, this set of operations: 
+
+Suppose you have a function called "run this in the UI thread". 
+
+Is there a compiler setting or workaround that can leave the auto-vectorization intact, while not invoking SSE4_1 instructions on Core2 SSE2 enabled computers? Is there a bug in my code that is causing this to happen? 
+
+13.3.3.1 tells me how to determine if there is a valid conversion. I can cheat for this by using the compiler to do a conversion for me, and use SFINAE to detect if it occurred for a given argument passed in and the signature of one of the "overloads". 
+
+Garbage collection solves certain classes of resource problems that RAII cannot solve. Basically, it boils down to circular dependencies where you do not identify the cycle before hand. 
+
+The last problem with GC is that deallocation is indeterminate, and can sometimes cause performance problems. Modern GCs make this less of a problem than it has been in the past. 
+
+Basic version, for use in a header file: 
+
+If we create another toy type: 
+
+I am aware of 5 general categories where recompiling a C++03 compiler as C++11 can cause unbounded performance increases that are practically unrelated to quality of implementation. These are all variations of move semantics. 
+
+Stack-buffer based STL allocator? is a SO Q&A with at least two "stack" allocators in the answers. They will need some adaption to automatically get their buffer from TLS. 
+
+It is sometimes still worth it. 
+
+Elision cannot occur with assignment, but move-from can. 
+
+Your code, if part of a larger project, could conditionally call some 3rd party code (say, a shell extension that previews an image type in a file open dialog) that changes the state of some flags (floating point precision, locale, integer overflow flags, division by zero behavior, etc). Your code, which worked fine before, now exhibits completely different behavior. 
+
+C language (as well as C++) is historically a mix of two completely different programming styles, which one can refer to as "statement programming" and "expression programming". As you know, every procedural programming language normally supports such fundamental constructs as sequencing and branching. These fundamental constructs are present in C/C++ languages in two forms: one for statement programming, another for expression programming. 
+
+Again, the possible examples are numerous, all of them stemming from the basic fact that inlined calls are immersed into the specific caller's context, thus enabling various inter-context optimizations, which would not be possible with non-inlined calles. With inlining you basically get many individual versions of your original function, each version is tailored and optimized individually for each specific caller context. The price of that is, obviously, the potential danger of code bloat, but if used correctly, it can provide noticeable performance benefits. 
+
+12 No return type (not even void) shall be specified for a constructor. A return statement in the body of a constructor shall not specify a return value. 
+
+Here's a little bit of additional research. Consider this code 
+
+Well, this is basically a straight copy-paste from the standard 
+
+It is like a room in a hotel. Different people live in it for non-overlapping periods of time. These people never meet, and generally don't know anything about each other. By properly managing the time-sharing of the rooms (i.e. by making sure different people don't get assigned to one room at the same time), a relatively small hotel can provide accomodations to a relatively large number of people, which is what hotels are for. 
+
+Suppose you have a function called "run this in the UI thread". 
+
+There are two linkers I know of that fold function definitions together. 
+
+Basic version, for use in a header file: 
+
+And if you are taking say 2 to 10 arguments, the reduction in code is exponential -- 2x times less with 1 argument, 4x with 2, 8x with 3, 16x with 4, 1024x with 10 arguments. 
+
+Are symptoms less likely on x86 due to the x86 memory consistency going above and beyond what C++ demands? 
+
+As an example, this set of operations: 
+
+If we create another toy type: 
+
+Using the UB might be worth it, for the performance boost. It is rare that you gain something other than performance (speed or memory usage) from such UB hackery. 
+
+And lots of generated functions means larger executable code size, which can itself reduce performance. 
+
+The scope of the real problem is large; millions of lines of code, and I want to swap out TypeIDoNotOwn for TypeIOwn at many thousands of locations, but not at many hundreds of others. And at thousands of locations they interact in a way that causes the conversion ambiguity. 
+
+C++11 added alias templates such as: 
+
+13.3.3.1 tells me how to determine if there is a valid conversion. I can cheat for this by using the compiler to do a conversion for me, and use SFINAE to detect if it occurred for a given argument passed in and the signature of one of the "overloads".

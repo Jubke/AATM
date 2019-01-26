@@ -1,0 +1,27 @@
+Chomsky says that Merge is putting alpha and beta together. If you want to add gamma to it, then you add gamma to a object [alpha+beta]. The issue here is that for [alpha+beta] to be different from a mere sum of alpha and beta, some new property must arise, otherwise we’ll end up with iteration. What is this new property? For example, the dominant of the synonymic series "strong, stout, sturdy, stalwart, tough, tenacious" is strong. It is also the most usual term in language acquisition studies (see curiousdannii's post above with a quote from Paul Nation). 
+
+An apple, on the other hand, can be described as "the round firm fruit, typically having crisp white flesh and green, yellow, or red skin" (from OED). All apples share certain properties (round, firm, fruit, having skin etc.). 
+
+This is traditional phonology, not generative. 
+
+There is no such "universal" definition - and if there were one, it would be useless. Ladd, D. R. 2011. Phonetics in phonology. In John A. Goldsmith, Jason Riggle, and Alan C. L. Yu. 2011. Handbook of phonological theory. Oxford: Wiley-Blackwell. 
+
+It denotes a unique entity at the level of established linguistic convention to make it psychosocially salient within a given basic level category [pragmatic]. 
+
+Iterative "signals that an action is repeated on a single occasion and differs from the habitual and frequentative, which both signal the repetition occurred on different occasions" (p. 160). Here are the two examples they use: For a very readable, recent and succinct discussion of wordhood see The Oxford Handbook of Word (2015), esp. Wray 2015. Here are some most common ones - based on Granger and Paquot 2008. 
+
+Less common terms: derivational family, lexeme family. He searched for his keys all morning. iterative 
+
+What happens is that in connected, fast speech function words get unaccented and "show reductions of the length of sounds, centralization of vowels toward /ə,ɪ,ʊ/ and the elision of vowels and consonants" (Cruttenden 2014: 273). It's also an example of Extraposition from NP, since the pied-piped relative clause without which you can't finish the report has been moved from a position following book, which it modifies, to one following the VP did you return, at the end of the sentence. 
+
+Everything else is supplied by the multiple inflections or derivations, rather than by auxiliaries and articles, prepositions and particles, like English. Fillmore's linguistic work on Deixis, for instance, is clearly ontology, as is his concept of Frame, programmed as Framenet. And why we use body-part metaphors so often. Protagoras got it right: Word is a popular term, which means that everybody has their own idea about what it means, aided or hobbled by whatever education they may have encountered that claimed to deal with language or languages. That varies quite a lot. 
+
+Optionally, to avoid stranding the preposition by moving the relative pronoun as part of normal relative clause formation, the entire prepositional phrase (with the relative pronoun as the object) may appear. 
+
+Well, this is not helpful, since you constantly have to be trying to scry out the mental calculations of various speakers in various situations to tell whether you're studying semantics or pragmatics. This is especially troublesome when semantics gets mixed up with logic -- which is rather like confusing speech with writing, since logic is just a written representation for natural semantics. 
+
+It is standard to talk about the prosodic hierarchy, which is a theoretical construct that divides utterances into smaller, phonologically relevant constituents called phrases, which are in turn divided into smaller constituents called prosodic words, and so on. There is not an absolute consensus as to what the exact levels of the prosodic hierarchy are or even how many there are, and (as with many theoretical constructs in linguistics) slightly different models lend themselves to different languages. For example, the mora is a prosodic unit that is more motivated in some languages than in others. 
+
+Often, presumed prosodic constituents are motivated by more phonetic-y phenomena. For example, in English it is common to observe the lengthening of word-final, phrase-final, and utterance-final syllables. In many languages there is also a pitch reset (where the downward trend of the overall pitch range—sometimes called declination—stops and starts again at a higher pitch) at phrase boundaries. 
+
+I hope at least part of this explanation clears things up for you a bit! Let me know if there is anything in particular that is still unclear and I will try to improve my answer.

@@ -1,0 +1,29 @@
+Do a couple of sprints, but keep the eye on the size of the features in the batches and how they got implemented. Use this data during the next planning meetings. The ultimate goal would be to have the same size for the features - of course you can break down features during the planning meeting. 
+
+Summary The planning poker as an event is good for understanding the product/context until you don't use the points for estimation. Move the focus from estimation to continuous learning and throughput. 
+
+Second, instead of the points, focus on a number of features - batches - the team thinks that they can deliver. Talk about the possible difficulties and challenges, but keep the discussion on the batch level. 
+
+If you have a product owner (PO), he/she should negotiate the deliveries with the customer based on your progress and delivered user stories. The PO should figure out which user stories are must for your customer to start his business. It is a subset of the whole product backlog, and therefore the formula above should provide a better estimate, because the uncertainty is lower than for the whole backlog. 
+
+TL;DR Story estimates are estimates, not guarantees. They contribute to an overall average velocity range that is useful for capacity planning. They are not management targets, and changing story points within a Sprint tends to sweep process problems under the rug and artificially inflate/deflate a team's velocity. 
+
+How to Change Scope and Sprint Goals in Scrum There is no such ceremony as "Sprint Replanning." It sounds like you've created a special ceremony for cutting scope from the current Sprint, but Scrum already supports this process within the standard framework. 
+
+Yet another option is fixed time and flexible scope. For example, a client may present a backlog that the team estimates at 26 sprints. The contract can specify a fixed number of sprints, and then the client and team work together to maximize the value delivered within the agreed-upon number of iterations. 
+
+TL;DR Much of Scrum's value to an organization is in creating transparency. 100% agreement isn't the real point of planning poker; the goal is actually to narrow the cone of uncertainty around feature estimates as much as possible, and to make the level of effort and potential project risks of each story visible to stakeholders through their chosen proxy, the Product Owner. 
+
+Discard outliers, then calculate the mean. This is usually my preferred method when a story has been properly decomposed. Calculate the average, including any outliers. Split out contentious tasks into separate-but-dependent stories that can be estimated separately. Remembering that estimates are educated guesses, not promises written in stone. The bottom line is that the team can (and should) make its best guess and move on. If the team can't build a consensus, or at the very least agree to disagree, then you may have an underlying problem with the quality of the story being discussed. 
+
+The wisdom of the crowd is the process of taking into account the collective opinion of a group of individuals rather than a single expert to answer a question. A large group's aggregated answers to questions involving quantity estimation, general world knowledge, and spatial reasoning has generally been found to be as good as, and often better than, the answer given by any of the individuals within the group... (from wikipedia) 
+
+Second, instead of the points, focus on a number of features - batches - the team thinks that they can deliver. Talk about the possible difficulties and challenges, but keep the discussion on the batch level. 
+
+Summary The planning poker as an event is good for understanding the product/context until you don't use the points for estimation. Move the focus from estimation to continuous learning and throughput. 
+
+Do a couple of sprints, but keep the eye on the size of the features in the batches and how they got implemented. Use this data during the next planning meetings. The ultimate goal would be to have the same size for the features - of course you can break down features during the planning meeting. 
+
+Discard outliers, then calculate the mean. This is usually my preferred method when a story has been properly decomposed. Calculate the average, including any outliers. Split out contentious tasks into separate-but-dependent stories that can be estimated separately. Remembering that estimates are educated guesses, not promises written in stone. The bottom line is that the team can (and should) make its best guess and move on. If the team can't build a consensus, or at the very least agree to disagree, then you may have an underlying problem with the quality of the story being discussed. 
+
+During a round of planning poker, the programmers on the team might estimate this story at only two points, since adding a tooth-count column to a database table is a minor change for them. However, the testers might estimate this story at 13 points, since getting close enough to count a Jabberwock's teeth to gather accurate fixture data is a dangerous (and potentially fatal) task.

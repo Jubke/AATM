@@ -1,0 +1,25 @@
+Single-event compatibility with "in"-phrases: 
+
+Entailment from the progressive to the perfect: 
+
+(*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+*Al gave Mary a ring a lot last night. Single event compatibility with "for"-adverbials: 
+
+*Al gave Mary a ring for a year. 
+
+In general, talk of syntactic derivations as top-down versus bottom-up is understood to be purely metaphorical: the theory of grammar aims to explain static knowledge, not dynamic process. A forthcoming paper considers how to understand directionality of derivation for syntactic processing (and what that may imply for an adequate theory of syntactic competence). From the introduction: Al is giving Mary a ring. !=> Al has given Mary a ring. 
+
+Al watched TV a lot last night. 
+
+Single-event compatibility with "a lot": 
+
+Al is watching TV. => Al has watched TV. In brief, whether speech error data is relevant to the question of derivational order in syntax depends on just how much explanation syntactic theory owes to a theory of linguistic performance. I found a paper which treats about a language (well, two, but one is mainly treated, since it's the principal object of the dissertation) being in possess of the structure "number-Classifier". The Language is the Yucatec Maya Language. I'll try to summarize the content through the paper, but I linked it anyway, both for a complete reference but also for attribution. If I misunderstood the paper or made some mistakes, please let me know by commenting under the answer. I don't want to leave mistakes floating in the internet. The title is "The DP-adjoined plural in Yucatec Maya and the syntax of plural marking", a dissertation by Lindsay K. Butler 1. Going forward3, we see that «plural marking and classfiers co-occur even within the same phrase, in Yucatec Maya»: Parts between «» (and italic) are directly pasted from the paper. This is true for many languages, but it's not for the Yucatec Maya, and the paper states that «plural marking in the noun phrase is not necessary for a noun to be interpreted as referring to a plurality». By not displaying inverse scope, I mean that an equivalent translation of (1) would support the interpretation in (2) but not in (3). Perhaps the same for (4) with the interpretations paraphrased in (5) and (6): (*'s in the below indicate low acceptability. Note that the absence of a phrase must be interpreted as the absence of any inferrable phrase--adding a phrase silently will increase acceptability, but this should be avoided in order to understand the judgments. It is also intended that a difference in transitivity not change the meaning of the verb, so sometimes a * might indicate that example is not interpretable in the same way as the corresponding non-*ed examples.) 
+
+Al is watching TV. => Al has watched TV. Some student saw every professor There is a (single) student (say, John) such that he saw every professor For every professor x, there is a (different) student that saw x There is a solution to every problem There is a (single) solution such that it applies to every problem For every problem x, there is a (different) solution for x The title is "The DP-adjoined plural in Yucatec Maya and the syntax of plural marking", a dissertation by Lindsay K. Butler 1. 
+
+In many well-known Indo-European languages «number is inflectional and obligatory». If we have a sentence with a determiner (such as an article), a noun and a verb, they must agree by number. Taking the same examples2 from the paper: I'll try to summarize the content through the paper, but I linked it anyway, both for a complete reference but also for attribution. If I misunderstood the paper or made some mistakes, please let me know by commenting under the answer. I don't want to leave mistakes floating in the internet. 
+
+This is true for many languages, but it's not for the Yucatec Maya, and the paper states that «plural marking in the noun phrase is not necessary for a noun to be interpreted as referring to a plurality». 
+
+I found a paper which treats about a language (well, two, but one is mainly treated, since it's the principal object of the dissertation) being in possess of the structure "number-Classifier". The Language is the Yucatec Maya Language.

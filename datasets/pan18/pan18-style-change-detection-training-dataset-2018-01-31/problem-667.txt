@@ -1,0 +1,59 @@
+*Comments about expectation are general, things like if your playing limit or PLO, or the nature of your opponents that would effect EV are not within the scope of the question. I am using the term EV (Expected Value) loosely, as a ratio of value between hands, rather then the more standard way that assigns a actual money value to a hand. 
+
+The EV of all Omaha hands falls within a much narrower range then the EV of all holdem hands. The EV of the worst starting hand in holdem is more negative than the worst starting hand in Omaha and the EV of the best starting hand in Holdem is more positive then the EV of the best starting hand in Omaha. 
+
+Nothing, besides perhaps criminal investigation. Poker is not a sport with a sanctioning body like the NBA, NFL etc, that has sanctioning powers in this respect. 
+
+On the flop the lose of EV is more pronounced then it is in holdem. In holdem you don't often hit or miss a flop with some hands like big pairs, or you may hit a flop with middle pairs and back door outs. Missing a flop in Omaha you are virtually drawing dead. Hitting weak you are generally drawing much thinner then you would be with Holdem. In other words what ever cards you have in your hand need to have a stronger piece of the flop in Omaha then in Holdem. 
+
+To give you a simple example: your hand is 9945. Flopping a set of nines with the flop 789, is not really that good of a hand. Your straight draw is worthless, it is a gut shot and your drawing to the bottom end. If their are any suites on the flop, more players have cards to beat you. If the game is eight or better your value is even less. 
+
+There are five board cards in hold'em. Since you start with two known cards, there are 50 unknown. That means there are 50x49x48x47x46 ways the board can come. Since the order of the cards on the board doesn't matter, divide that by the number of ways 5 cards can be arranged (120), that's 2118760 total distinct boards. There are 47x46/2 of those boards that contain the three cards we need, so dividing again we get 1960. So 1 out of 1960 times we'll eventually make the royal. There are 46x45/2 boards that make each straight flush (with no ace--else they'd make the royal as well), so that makes 1 out of 1023 5/9 for the straight flushes. 
+
+Poker is not like that. You see cards first, and then you base you decisions to bet, fold, or raise based on the cards, your position, your stacks, you opponents, and other information. Which player will have the best hand is determined by chance--but which players will stay for showdown, which will leave early, which will win the pot, and how large the pot will be, and how those results will add up over time, are heavily influenced by player choices. 
+
+Suppose we modifiy your example so that your straight draw has 2 gaps: 
+
+Probability of hitting the first card: 8/47; Probability of hitting the second card: 4/46; 
+
+the second card must be one of the 4 cards of the other rank (if, for example, a 5 was dealt on the turn, the 4 cards are 4c, 4d, 4h, 4s). 
+
+To convert backdoor draws into probabilities, you need to multiply the probability of hitting the first card by the probability of hitting the second card given that you hit the first card. 
+
+Not considering the turns and rivers with ranks matching the cards of the board, you will hit a trips or two pair if: 
+
+By the way, the same method will give you the probability of hitting a flush: 
+
+The betting behavior of players does not affect the order in which action takes place in later betting rounds. When new community cards are dealt (flop, turn and river), the new betting round starts with the first player left of the dealer, if he/she hasn't folded in the previous betting round. In the examples you give, nobody folds so this would be the small blind. 
+
+The only combination of ranks that will give you a straight is 4-5. Then, 
+
+By multiplying the two, you get (10/47 * 9/46) =~ 4.16% 
+
+The easiest way is to combine these two outcomes. 
+
+By multiplying the two (because you need the first AND the second card), you get (8/47 * 4/46) =~ 1.48% 
+
+Hole cards: 2:diamonds:3:diamonds:. Flop: T:hearts:6:diamonds:J:spades:. 
+
+Other: (No Pair, One Pair): 8228 
+
+With one gap in your straight draw. For example: 
+
+By multiplying the two, you get (6/47 * 5/46) =~ 1.4% 
+
+Randomly dealing a turn and a river on the example hole cards and flop from your example 10 000 times got me these results: 
+
+idem for the second card (but there are only 5 of them left in the deck). 
+
+And with no gap, like in the example you gave, there are 3 types of combinations that will give you a straight: 2-3, 3-7 and 7-8. Each of them has 1.48% so you have 4.44% chance of hitting your straight. 
+
+idem for the second card (with 9 diamond cards left): 
+
+Hole cards: 2:diamonds:3:diamonds:. Flop: T:hearts:5:diamonds:J:spades:. 
+
+Probability of hitting the first card: 10/47; Probability of hitting the second card: 9/46; 
+
+Two Pair with board cards: 691 
+
+Now, there are 2 types of combinations that will give you a straight: A-4 and 4-6. Each of them has 1.48% probability, so you have 2.96% chance of hitting.

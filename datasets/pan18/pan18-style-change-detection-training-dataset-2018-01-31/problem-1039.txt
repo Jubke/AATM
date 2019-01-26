@@ -1,0 +1,27 @@
+I'm seeing suggested edits to tag wikis on Stack Overflow which I do not have the ability to approve. Could you just not show me those? 
+
+This could be resolved if Gravatar would send a proper Last-Modified header. Tell them about it here. (Note: that page is technically for reporting abuse, but it is the only way I could find to send a message to an actual person. If there is a page to report problems please let me know.) 
+
+And because I know a screenshot with freehand circles will be requested... 
+
+Alternatively, clicking "edit" could load the edit form right there on the page. This would help in some cases where you want to copy/paste something from a comment or from another answer. 
+
+http://img38.imageshack.us/img38/8764/postsperdayofweeksmall.png 
+
+Likewise, the "m" in "1.5m" doesn't mean the SI unit "mega". It is an abbreviation for "million". If that number got to billions, we'd see "1.5b", not "1.5g". 
+
+Update: Looks like Gravatar has fixed this problem and sends a proper Last-Modified header. 
+
+Can we get one of those "n characters left" statuses when editing "About Me" in our user profile? This would be similar to the status message you put under comments. 
+
+I find the word "later" in both badge descriptions to be very clumsy and non-grammatical. I’d prefer the clearer, but slightly more verbose, “after it was asked”- 
+
+You'd just need to add a time zone preference for users, and default it to UTC. 
+
+Here's one I just made, plotting posts per day vs. age of site. Actually looks more like O(log(n)) to me, or somewhere between O(n) and O(log(n)), but I'm no statistician. The big spike is the public launch. The dips correspond to American holidays: Thanksgiving around 120, Christmas around 150, Easter around 250, Memorial Day around 300. See a higher-res version here. 
+
+The issue would also be partly resolved in Chrome if Ctrl+F5 refresh actually ignored cache like it is supposed to. (I opened a Chrome bug report about this, which was closed as a dup of this bug report.) 
+
+As for votes, I would suggest (and I realize that maybe this is more radical) that instead of showing the number, another type of visual cue is used. For example, maybe questions with > 10 votes get a larger font, and questions with negative votes are semi-transparent (like an ignored tag). This would leave only the number of answers, which is probably what a most people really care about. Or just leave votes and answers, but remove views, if you don't like that suggestion. 
+
+Edit: 13 months ago, when I wrote the above, there was no StackExchange. I've changed my opinion now that SE sites are launching. I think for some of them it would make real sense. I still don't think it's necessary as a platform-wide feature (in particular, no need on SO proper), but on a few SE sites I think it is needed.

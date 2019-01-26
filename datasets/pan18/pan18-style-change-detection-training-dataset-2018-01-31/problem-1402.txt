@@ -1,0 +1,77 @@
+That said, whether or not the compiler/run-time will be able to do this optimization when you expect it to is another story. So I usually prefer to do these optimizations myself if it also enhances readability. 
+
+The answer is yes. This is called Common Subexpression Elimination and is a standard (and powerful) compiler optimization used in Java, C/C++ and others... 
+
+In Java, unreachable code is a compiler error. So in order to maintain compatibility, the language spec defines exactly "how hard" the compiler should try. (Which according to the other answers, is "don't go inside another function".) 
+
+This problem has been proven to be unsolvable. 
+
+The Intel compiler is trying to vectorize the loop. But the overhead added seems to outweigh the benefit of vectorizing it in the first place. Hence why it's slower. 
+
+From the docs (emphasis is mine): 
+
+Because it is an unsolvable problem, the compiler (in Java or any other language) doesn't try very hard to solve it. If it happens to determine that it really is unreachable, then you get the warning. If not, it may or may not be reachable. 
+
+Per 3.10.5: Pooling of string literals is actually mandated by the standard. 
+
+All things equal, disabling vectorization will hurt performance in this floating-point case. 
+
+Remember that mathematically, there are 3 cube-roots. Assuming you want the root that is real, you should do this: 
+
+ICC x64 with no vectorization: 
+
+If we walk these instructions down one-by-one, we can see how ICC tries to vectorize it: 
+
+Here's where the 4 sums are recombined: 
+
+Binary literals require Java 1.7. So if that's not available, you can go with this: 
+
+Why? It is the equivalent to the Halting Problem. 
+
+But it turns out that the overhead of vectorization happens to outweigh the benefits of vectorizing. 
+
+This page confirms that the HotSpot JVM will do this optimization. 
+
+It violates encapsulation. You shouldn't be able to bypass the parent class's behaviour. It makes sense to sometimes be able to bypass your own class's behaviour (particularly from within the same method) but not your parent's. For example, suppose we have a base "collection of items", a subclass representing "a collection of red items" and a subclass of that representing "a collection of big red items". It makes sense to have: 
+
+Rather than keeping everything string-based, you should use a class which is designed to represent a file system path. 
+
+Is there a way to persuade ICU4J to fall back to tz abbreviations? In my very specific case, that's all I'm looking for. 
+
+It's not clear to me whether ICU4J is getting its abbreviations from the tz data or from CLDR - I suspect it's the latter, given that there's nothing in the tz data to suggest a difference here. 
+
+That's pretty much exactly what I want - but that doesn't go earlier than 1970 either in most cases, nor does it include all the relevant data: 
+
+The output format I'm targeting includes the abbreviation in effect for a particular time - such as "BST" for "British Summer Time", or "PST" for "Pacific Standard Time". 
+
+The same generics FAQ has several sections on this topic, starting with "What is an "unchecked" warning?" - it's well worth a read. 
+
+Note that the class name has to be a fully-qualified one, i.e. including the namespace. For nested classes, you need to use a dollar (as that's what the compiler uses). For example: 
+
+(EDIT: Like other answerers, I'd definitely prefer to put the inner loop in a different method. This answer just shows how the requirements in the question can be met.) 
+
+Sometimes Java generics just doesn't let you do what you want to, and you need to effectively tell the compiler that what you're doing really will be legal at execution time. 
+
+I'm currently trying to write a suite of time zone validation programs to see whether various platforms interpret the IANA time zone data. 
+
+It also seems to be affected by locale, which I suppose is reasonable - using the US locale I can see EST/EDT for America/New_York, but nothing for Europe/London; with the UK locale I see GMT/BST for Europe/London, but nothing for America/New_York :( 
+
+The class using a string for the implemetion, I mean that it's only private value is a string. Let's call it String1 
+
+For example: If first=1, last=3 and K=2, so the result will be {1,2},{1,3},{2,3}. 
+
+I want to write in Java a method that will gets three values: first, last and K, so and creates all the sub-sets of size L of numbers within the bounded interval [first,last], 
+
+Now, I'm trying to Implement Method2 and I need to use Method1 in order to get what I want. 
+
+Method2 afcourse uses this.String1 but in order to use this Method1 you need to be from this new class type. 
+
+I wrote a class that implements some kind of method providing specific service to the specific values that will be from this kind of class that I wrote. 
+
+I'd love your help with this following problem: 
+
+Now I want to use this utility for another method within the same class. 
+
+I hope it's clear and Thank you. 
+
+I need isPrivateNetwork to use getOctet. isPrivareNetwork will do things according to a result that is get by using getOctet on a string (string1.getOctet) after we set string1 to be IPAddressString type. the string that I use through writing the class is a string type and not a IPAddressString type obivously. Is it more clear?

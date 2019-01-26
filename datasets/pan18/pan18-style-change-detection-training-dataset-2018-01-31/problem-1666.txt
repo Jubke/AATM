@@ -1,0 +1,25 @@
+Finally, circular reasoning is not problematic if somewhere in the circle are a set of safe assumptions; it just shows you how things you already know are interrelated with others that you didn't. If you have a really small circle e.g. "Ben stole the cookies because he is a thief; Ben is a thief because he stole the cookies" then the problem is not the circularity per se but the detachment with anything that we believe we know. So it could all be false or all true. But if you have a circle that encompasses some very safe assumptions ("I have a hand" -> (many steps) -> "electrons are real" -> (more steps) -> "I have a hand") then you are not detached; you've demonstrated that the claims in the circle are as safe as your safe assumptions. Your safe assumptions aren't proven correct, of course. But if by "correct" you mean that they let you model and predict the world with high reliability, and those assumptions do, then your circular reasoning has just expanded the reach of your model. It might not be True but you don't really care as long as the whole framework does the job. (Coherentism makes a similar point.) 
+
+If you drop the premise that you are emergent from the atoms that compose you, then, well, any answer is possible, isn't it? One could suppose that this would be an experimental test of emergent consciousness, except you can't actually do the experiment, so it's kind of a moot point. 
+
+This is probably not how it works, but there is no known reason why it couldn't be, so it satisfies "what could possibly be a correlate". 
+
+Afferent copies of the computations underlying conscious processing could be detected by centers for conscious processing, giving a conscious sense that, "Yes, I am conscious right now". 
+
+A better illustration of your claim might involve, say, cutting your ice-cream with a knife instead of a spoon. Ridiculous! Except there's no particular reason why spoons are better than knives at serving ice cream; they each have their own advantages (knives penetrate hard ice cream better, spoons scoop up soft ice cream better, it's easier to get the ice cream to come off of the knife, but spoons are less likely to damage the container). Or, that almost all objects are nearly entirely empty space. Ridiculous! (But true.) Honestly, I have little idea why people find such things ridiculous, but I am pretty sure that historically prominent psychologists and philosophers didn't get the right answer if they speculated on it. It's really hard to know these things with confidence--very hard to do appropriate experiments--and there are such a huge number of mutually contradictory just-so stories you could tell that one should suspect any individual one of being wrong. 
+
+Only when you actually have a thought does it exist. Also, only when you walk in the park are you actually walking in the park. 
+
+I don't dispute your statement that people tend to ridicule the unfamiliar, but you have chosen two particularly poor examples--in fact, they serve to illustrate an alternate phenomenon, which is that people ridicule things that are known to be wrong or not make sense. 
+
+Some afferent copies of neural activity would then presumably go to centers for conscious processing. 
+
+Does this have anything to do with the ridicule of things functionally important or informational, rather than cultural? I don't know. I'd be surprised if there isn't some link, but human behavior is full of surprises. 
+
+But this is not at all problematic. There are lots of people who have their own experiences. That two of them happen to be identical would be weird, but there's nothing deeply perplexing here. You don't see out of other people's eyes whether or not those people are built exactly the same way as you. 
+
+A potential thought does not exist, just like a potential walk in the park does not. You don't ask "is someone/something in the park because I can imagine walking in the park"? At least, I hope you don't. If you do, pretty soon you're imagining imagining everything and postulating a countable infinity of utterly useless imaginary entities that you wish to say exist. Personally I find this a really poor way to define the concept "exist". 
+
+I, as the zombie, can't conclude much of anything from this other than that the universe is not the empty set. (Nor can Descartes, actually.) 
+
+Although one can imagine various isomorphisms between thoughts and other things (electrical impulses in a computer for instance), until we can actually demonstrate an actual isomorphic process I think we have to withhold judgment as to whether those are thoughts. Details may matter. There certainly isn't anything adequately isomorophic now.

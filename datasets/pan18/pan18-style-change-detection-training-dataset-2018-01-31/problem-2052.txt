@@ -1,0 +1,81 @@
+In fact it is not "real" knowledge, as we can see applying A's point of view : it is deduced from a false premise. 
+
+You can see in SEP The Problem of Induction 
+
+See in Stanford Encyclopedia of Philosophy : 
+
+διάνοια (the second form : reasoning), 
+
+and εἰκασία (visual imagination). 
+
+Consider nowe the set N wich include an "initial" element, call it 0, and for each element n, it includes also its "successor", call it S(n). 
+
+In mathematics, when we assert the equality: 1+1=2 we are not asserting that the two strings of symbols 1+1 and 2 are equal, but we are asserting that the objects named respectively with "1+1" and "2" are the same object: the number two. 
+
+The notion of "valid argument" is as old as "formal logic" itself; see Aristotle's logic : 
+
+The core of this definition is the notion of “resulting of necessity” . This corresponds to a modern notion of logical consequence: X results of necessity from Y and Z if it would be impossible for X to be false when Y and Z are true. We could therefore take this to be a general definition of “valid argument”. 
+
+clearly, with n "little, we have no problem to "hold epistemically" (to imagine ? to visualize ?) it. 
+
+I agree with the above answer, but I'll attack the issue from another point ov view. 
+
+So Deleuze’s version of the phantasm is that it combines actions and passions, not as an image or representation, but as something that expresses them. The phantasm is not a conscious or unconscious picture that we can give rise to or that happens to us; it is a process resulting from passive situations and active ones. It is therefore not ‘in the mind’ but rather party to thinking processes. 
+
+Theaet. What do you mean, Socrates? 
+
+In your case the position of blueism entails at least two claims: 
+
+I interpret the difference in the following way: Williams holds that "to believe that p" equals "to believe that p is true", while Kvanvig holds concedes the weaker view that "to believe that P" implies "to believe that P is true" (under certain premises). 
+
+I. Kant, Ueber den Gebrauch teleologischer Prinzipien in der Philosophie, 1788. 
+
+First, the fields you listed are not all mutually exclusive, so I don't think you would come to a result by ruling something out. 
+
+He explains what he means by that: 
+
+There are a few qualifications to this answer: 
+
+With all the usual disclaimers about postmodernism in place (i.e. not being a single approach, including a variety of contrasting ideas, etc.)… 
+
+You can read more about verificationism and verifiability in principle here: 
+
+Note that we have seen the "far side" of the moon by now, so the question is verifiable in practice. But you can find many other examples in the literature, such as "There are horses on Alpha Centauri". 
+
+it would seem thus that Williams' position is the standard view. 
+
+To show another route, consider a more concrete example (presupposing that pessimistic meta-induction is a sound argument): 
+
+Kant was acquainted with so-called natural history his time, i.e. the work of Linnaeus and Buffon. Kant introduced an important distinction between "description of nature" (Naturbeschreibung) and "history of nature" (Naturgeschichte). Only the second can aspire to be science proper. As Kant writes, 
+
+(http://classics.mit.edu/Plato/theatu.html) 
+
+On the other side, I found a passage in Kvanvig (2003): 
+
+it is important to stress that this is exactly not Kant's point. The opposite is the case: TD itself is the verification! – The "proof" that his categories apply to the objects of experience is exactly what Kant tries to achieve through TD. 
+
+Further, you might be interested in the so called paradox of analysis, which is related to your initial worry. 
+
+The multiplicity of meanings has therefore two sources: the many layers of meaning coming from "tradition"; and the plurality of readers (and their understandings) a text is exposed to. Different strains within postmodernism expound on one or the other (or both). 
+
+The consensus seems to be that DV is untenable and thus doxastic involuntarism is the standard position. This shows in the use of the technical term, which is employed – in a similar way to "relativism" and other fighting words – as ultimate objections in arguments ("Position X implies DV and is therefore untenable"). 
+
+Formal languages are structured deductively and that's is why you have primitive notions. Natural/constructed languages are not structured deductively and thus do not have (stable) primitive notions. They have more of a network-like structure and the meaning of terms are not set only (or mainly) by intensional definitions, but also (and mainly) by partial extensional definitions, particularly ostensive definitions. As your question regards the Theaetetus, I take it that you are interested in primitive notions in (2). The answer to your question 
+
+The "culprit" here is the wide reception of French literary critic Roland Barthes and his essay The Death of the Author from 1967. 
+
+The main point in saying that a position is true or false is that there's some kind of (compelling) evidence for or against the claims entailed by that position. 
+
+This paper contains a more detailed discussion: 
+
+Your understanding of transcendental deduction (TD) is much broader than how Kant actually employs the term in his Critique of Pure Reason (CPR). TD is a much smaller step in Kant's outline of his transcendental philosophy. 
+
+I would submit that cognitive psychology is really the field of research you are looking for. 
+
+To get an overview of the actual argument deployed in TD and also get a better grasp on how TD fits into Kant's broader project, you may read a very good summary from a philosophy course at UC Davis. 
+
+Please note Because you write that 
+
+Update: I enlarged my question to clarify it in response to the answers given so far. 
+
+A unified sensory experience can only possibly be accounted for if the categories apply to that sensory experience. [Insert complex/puzzling justification of claim (1) here…] Since we do perceive that kind of unified experience, the categories do in fact apply to our sensory experience. With Hume against Hume In order to understand Kant's philosophical move, TD must be set against Hume's empiricist psychological theory. Hume denied that apriori concepts could correctly apply to objects featured in experience, because only concepts (Hume: ideas) deriving from sensory experiences (Hume: impressions) can actually apply to the objects in our experience. Apriori concepts lack such a connection and therefore, according to Hume, fail to apply to the objects of experience - they lack objective validity.

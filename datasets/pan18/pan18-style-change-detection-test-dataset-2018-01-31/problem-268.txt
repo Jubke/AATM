@@ -1,0 +1,11 @@
+On the flop and turn in every hand you have to have a raise range with both very strong hands and bluffs that have equity. I think on the flop you are too deep to check-raise. If the chips go in, you are committed, but always behind. It is not a good spot. A better hand to choose would be 98 without a flush draw, for example. Where you could still fold to a reshove. 
+
+In short, start with your strategy, which is a balanced and correct strategy fit for the expected player pool, and adjust accordingly against certain players who you think play an exploitable strategy. 
+
+In short. There is no optimum for these number without context and you should definetely not use them without it. I know this answer did not really help, since I only told you what not to do and not what to do. But I wanted my answer to be within the scope of this question. 
+
+Overbetting only really makes sense when your opponent's range is capped, not yours. However, caecilius is a great player and I would love to hear his reasoning. 
+
+Caecilius checks it back, which is pretty standard with bottom pair. Even though some protection would be nice, especially without a heart in your hand, on a flop this wet. You are incredibly vulnerable for check-raises. Therefore you should be checking most of your bottom pairs here. 
+
+Now you do decide to bet full pot here and get raised. Should you call? Now let's take a step back. You fired full pot on flop, turn and river. What could your opponent have here? Perhaps he could have AJ, KJ or J9 but would he really play a hand like this when you represent such a strong range? Since he limped on the button he has a bunch of flushes in his range. He can easily have you beat. Now let's look at your range. What hands would you play this way? Probably any set and a flush right? If you call with tens here you are calling with close to 100% of your range. This is very bad, since if your opponent figures this out, he will just never bluff you anymore. Additionally you don't have a diamond in your hand, so you don't block him from having a flush. You should definitely fold your hand here.

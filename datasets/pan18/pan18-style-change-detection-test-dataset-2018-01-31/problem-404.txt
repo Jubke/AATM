@@ -1,0 +1,21 @@
+Found it!; the offending code is intended to deal with double-negatives: 
+
+A related issue is "correcting" the language in the title/body. In the case of the question in hand, the UK term seems entirely correct. In general, I have to concede (and I'm UK) that the US mis-spellings have become the standard. Much like the accidental referer/referrer. We're stuck with color etc, and too many "z"s to be helpful, but such is life ;-p 
+
+Update: should be fixed now; the problem was that in part of the logic we "pre-explode" the synonyms so that we can quickly go from any tag to the effective tag; when new tags were added, the pre-exploded value was left at a default value ("no tag") unless the synonyms were re-exploded, which would happen if the synonyms were changed in some way (or if the data was re-initialized). So the relevant code interpreted the newly added tags as though they hadn't been included. 
+
+You "create" a tag simply by using it on a post. If it doesn't let you, you don't have enough rep (you need 250 on SO; 100 on SF and MSO - if the FAQs are up to date...). In reality, a tag (be it [financial-year] or [fiscal-year]) with 5 posts is probably not helping much anyway. I'd be tempted to bunch them all in with [accounting] and let the title worry about such nuance. 
+
+all affected posts should now be fixed. To be clear: no fault here lies with the people reviewing them - they would have looked perfect on screen - it was only when applying the change that it broke. 
+
+Edit; looks fine to me... you were clearly hallucinating: 
+
+We now do a better job of handling this when new tags are added! We still have a little way to go, and we might need to still think about what characters we allow per-site (in particular, to avoid 7 versions of the same tag, with/without accents - there's only so much synonyms can do). 
+
+Update: this is now enabled on russian.SE, as an initial proving ground, and will be released to additional sites where it makes sense assuming no huge "eek" issues are reported. Well, that would seem to be my fault; I think our newly deployed changes to the code that does all the tag filter / combination / exclusion code is having a hard time with newly added tags. If I use my dev console to see what it is doing: 
+
+That is what happens when a silly developer (trying to rip out some old legacy hacks that have persisted for 4 years) makes a mistake in the way tags are composed for suggested edits; the bug has been fixed; I will now have fun repairing the damage... 
+
+Depending on what that tablet is, either take less of them or take more of them. (Stack Exchange does not offer medical or psychological advice; please consult a relevant professional before adjusting your medication) 
+
+Our original implementation of tags was written with stackoverflow (and similar sites) in mind, and due to technical reasons would not support much by way of non-latin characters. This has seen a lot of work lately, in particular changing the implementation so that it theoretically supports a wider character set. So: we're working on it.

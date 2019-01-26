@@ -1,0 +1,29 @@
+With said rear wheel disc brake adapter, a rotor, and a cheap set of mechanical calipers -- you're all set. 
+
+Then there's the liability issue. Any time you add new technology, the manufacturer has to assume some liability on its use. Trailers in the USA are most often used to carry children and no manufacturer is going to go near there on that at a price point consumers are going to swallow (i.e., the only way you could upsell a $200 feature like trailer braking is to say it's safer but your lawyers won't allow you to say that). 
+
+The brazing appears to be for a bottle / friction dynamo. The giveaway is that it's only on the right side. Which means this is a bike from Japan or another left drive country. 
+
+p.s. This photo shows an interrupter on the right hand side going to the rear brakes. 
+
+Your brake pads are worn down. As a result, you've had to cinch down on the brake cable so much that there's almost no brake movement possible. 
+
+Then replace the pads on both sides. 
+
+A note about reach (from the comments): With my 700c wheels, I'm near the limit of 73mm required reach in the front and 70mm at the rear. With 27" you should be in the middle as the 700c is 8mm smaller than 27". You can measure your current reach quite easily with a ruler. I tossed my mafacs so can't help sorry. 
+
+The first thing you need to do is get new brake pads. 
+
+Semi-metallics are a tradeoff between braking performance and pad wear/noise. They still stop very well but can be a little less noisy and cause a little less rotor wear. They may also offer better lever modulation than sintered metallic pads. This pad type can often be found on higher end all-mountain, trail, and cross country oriented brakes, though some manufacturers opt for sintered pads while others may opt for organics. 
+
+Sintered metallic pads offer the best stopping power, but also cause the most rotor wear and can make the most noise, especially when wet. They are also the least affected by adverse conditions. Sintered metallic are typically used in downhill/freeride applications, but can be used for less demanding riding types as well. Depending on the setup, sintered pads can feel "grabby", that is, that they lack modulation at the lever. That problem tends to arise on more powerful brakes with larger rotors though, and both of those factors play towards that perception. 
+
+Metallic pads tend to make really ugly sounds at lower speeds. If it is a rather high pitched grindy-squeaky sound that isn't particularly loud, there is no visible damage to the rotor, and there is no perceptible reverberation through the frame or brake lever that coincides with the sound then it is likely normal. With metallic pads, you literally have metal rubbing against metal and this can make some rather nasty sounds. From my experience the sound can be worse with a wavy rotor which is what most manufacturers use now. If you're not used to running this type of brake, it may be difficult to form a basis for what sounds normal vs what sounds like trouble, so if you still have doubts I recommend you pay a visit to your local bike shop. 
+
+These levers were marketed as 'Safety Levers' and they were a requirement for bikes imported into the USA for a time. Exactly what the law was requiring the 'Safety Lever' and when it was no longer a requirement is a matter for further research - not a lot exists online. 
+
+Furthermore, Shimano did a 'Microsoft' on the OEM market, to use the indexed gears you had to have the whole groupset. There was no mix and match like you have today. 
+
+In the wet, with regular brake blocks, the alloy rim will have a better coefficient of friction than the steel rim. This much is known and these brake blocks are the wrong ones for your steel rims. You need the brake blocks designed for the job, the ones with a leather face: 
+
+If you want the in depth on 'coefficient of friction' as it applies to bike wheels and different materials, here you go:

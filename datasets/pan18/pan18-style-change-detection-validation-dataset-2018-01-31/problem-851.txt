@@ -1,0 +1,31 @@
+The observations of these philosophers from antiquity highlight some of the properties which distinguish the mind and the soul from the physical world. In addition to that, each of them provided what might be considered a unified argument to the effect that conscious experience cannot be material because of a necessary incompatibility, but each of them approached it in a slightly different way. Anaxagoras' approach was that the intellect would be unable to "dominate" its objects of thought if there wasn't an ontological distinction to be made. Aristotle essentially agreed with Anaxagoras, but he also asserted that the active must be superior to the passive. Augustine argued that bodily vision alone would be inadequate because otherwise sensation would not be "accompanied by a thought of the soul." Finally, Aquinas asserted that an impression on the passive intellect could only be made provided that there is a common mode of existence with the human intellect. 
+
+In the third sense, Aquinas sometimes used the Latin word species instead of the Latin forma: 
+
+Thomas Aquinas was strongly influenced by Aristotle, and the influence of Augustine is evident in his work as well. Aquinas continues with Aristotle's idea of the mind taking on the forms of physical objects. In Aquinas' account, the idea of forms is used in three different senses: 
+
+A brain state in the visual cortex is said to contain information in virtue of it being downstream in the causal chain from photoreceptors in the eye. In the same way, any state of matter (such as a crystal) could be said to be downstream from a causal chain and, thus, be said to contain information. However, the idea of information presupposes some means of interpreting its significance. 
+
+The only exception I can think of is Libet's result, interpreted as support for epiphenomenalism. 
+
+In this lecture Hilary Putnam says the following: 
+
+All Descartes really proved is that thinking is happening, but there can be thinking without there being a thinker to do the thinking. Just as there can be raining without a "rainer", or snowing without a "snower", there is nothing illogical about thinking occurring without a thinker. The move from "there is thinking" to "I think" is not a necessary one. 
+
+I don't think the two statements are contradictory. What he is saying in the first one is that the statement "the brain is a digital computer" while accurate, doesn't fully describe the brain. To use another example, the statement "The brain is a lump of organic matter" is accurate as well, but doesn't describe the brain's functioning either. In the second statement, he is further elaborating, saying that just as the brain can be identified with a digital computer (or a lump of organic matter), it can also be identified with abacuses and books and so, but none of these are accurate since they fail to convey what the brain really does. 
+
+One refreshingly new angle in Conway and Kochens argument, is that they take freewill seriously enough to see what can be said, because of it, about the physical world. 
+
+Pretty much every part of your body is continually changing at a molecular level. So physically after a certain number of years you are literally not the person you were before. Though manifestly you remain the same self. 
+
+This in contemporary language is called Lamarkism - a competing theory to Darwins at the time of Darwin; but he questions this theory which posits a purpose. 
+
+I haven't read anything by Dennet, so I can't comment directly; but it might be worth noting that an illusion exists: it exists as an illusion; but what is of course being implied here is that it is not the most basic level of reality. 
+
+The transcendental ego is introduced by Kant & adopted by Husserl, it lies 'above' or 'behind' consciousness. 
+
+No, I don't think it is wise to see emotions and intelligence as algorithms. It certainly isn't the traditional way to think about the world of human experience. 
+
+He considers this as not fact, as such; or beyond contesting; he introduces the possibility that chance plays a part during the life of natural kinds; and not at the beginning: 
+
+What does he mean by this? I read this first meaning the quest for all knowledge; but this cannot be right; I suspect given his theory of falsifiability one cannot attain proven knowledge of the world - there can always be new evidence that fails it. However, given Kants starting point I think Kant means knowledge of a more basic kind - measuring a metre, measuring a second, that there are two bottles there; or taking that this has caused that. But perhaps, and probably more likely, he means more. What was Kants 'quest for knowledge'?

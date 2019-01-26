@@ -1,0 +1,17 @@
+Second, on our apparently spherical planet it came as a slow-moving shock to modern humans to discover that if you travel in a "straight line" away from, say, Lisbon, you will get further and further away. Eventually, when you are as far away as possible, you will find that you have returned to Lisbon! But from the "other side." The Lisbon your ships left returns as the "end of the straight line" backwards, in reverse. The non-Euclidean "straight line" or "great circle." 
+
+Something similar happens with randomness or having "no correlation" with anything else. From what viewpoint can we ascertain that there are no correlations, no hidden variables? Hasn't the observation itself already "correlated" the particular events, whatever they are? We argue that what we mean is simply that it is unpredictable, yet obviously nothing can be known to be "perfectly unpredictable." Unpredictability in the single event can only get down to 1/2 never less and never 0. 
+
+There are, of course, many developments of mathematics that are highly speculative, far from any physical origins, and seem to have no physical applications, a possible example being Cantor's infinities or even Godel's platonism. Can the mathematician then follow these increasingly pure forms and wean himself from their physical origins? Cantor went mad, "left his senses," and Godel starved himself to death. So perhaps there is a "way out" for you, if that's what you really want. 
+
+Fourth, a physicist (can't remember which one) said that if we had only thought more carefully about the ambiguous definition of a "point" we would never have been surprised by quantum paradoxes. Our instinct is to think additively. A good corrective to this is information theory, in which knowledge increases by the elimination of "uncertainty." A Hegelian "negation of negation." 
+
+What are the objections to Hilbert's version of Formalism other than the two mentioned above? 
+
+However, I can't find any objection to Hilbert's version of Formalism (apart from the question of applicability) and this made me wonder two things, 
+
+Russell was well aware of at least some of these difficulties. To solve them he formulated his theory of systematic ambiguity. This is most easily understood with respect to an example. Take the statement of the Axiom of Reducibility. According to Russell, this has to be understood (for fixed i) as indicating not a single proposition, but an infinitude of propositions: one for each order that f might be. Russell, himself, explains the point with respect to a similar example as follows): 
+
+Finally, again to rub it in, note that one can express the quantifier 'for every propositional function' as 'for every n and every propositional function of order n'. (And thus systematic ambiguity is often taken to be expressed by schematic uses of order-subscripts when these are made explicit.) Hence the very first sentence of Russell's own explanation of the principle of systematic ambiguity, quoted above, violates the VCP, since it talks of all propositional functions (of a). Moreover, this statement cannot be understood in terms of systematic ambiguity since this universal quantifier does not have the whole of the rest of the statement in its scope. 
+
+To add insult to injury, the very theory of orders cannot be explained without quantifying over all functions, and hence violating it. For to explain it, one has to express the fact that every propositional function has a determinate order. Hence, the theory is self-refuting.

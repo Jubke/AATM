@@ -1,0 +1,29 @@
+Imagine a situation like the following: 
+
+I think what you're actually asking about are polling places, the location where you cast your ballot, not districts. These are typically preallocated to certain voters because of the difficulty in keeping track of who has voted. Your ballot can't contain your name because your vote is supposed to be secret, so to ensure that each voter votes only once and only registered voters can vote, each polling place has a list of the people eligible to vote there and can cross people off as they arrive. Allowing people to vote at any polling place requires that each polling place have a complete list of registered voters, and a way to stop you from driving from place to place voting over and over; they can't wait till later to sync up, since there's no way to invalidate your ballot after you've voted. 
+
+Assume that the 60% don't like C, and the 40% don't like A and B (it doesn't really matter either way, since FPTP doesn't care who you like after #1). It's unclear if A or B should win, but clearly C shouldn't -- a majority of people don't like him. However, if half the 60% vote for person A and the other half vote for person B, the results are: 
+
+As to the title question of whether a Super PAC can give to both sides, there is nothing to prevent them from doing so. The only restriction on how Super PACs spend their money is that they may only make Independent Expenditures: 
+
+I had a whole long answer written up saying that it was theoretically possible under federal law, but would almost certainly never happen in reality. However, at the end of my research I found a perfect quote as to why. 
+
+I can't answer about typical, but I can quote what the Wisconsin laws actually say about it. (All emphasis mine) 
+
+Additionally, this article summarizes it: 
+
+In other words, it's perfectly legal for the board to have everyone who isn't officially associated with a candidate sit on one side of the room watching people on the other side of the room count. Only the candidate and their representatives have any right to actually be close enough to see the ballots (and even then they can't touch). 
+
+As it happens, the Western Australia vote you mention in your question is equivalent to those: The entirety of the affected area (i.e. Western Australia) had to revote, not just whatever areas the missing ballots may have come from. But the rest of the country was unaffected, since it was just a state-level position. 
+
+Be eligible to vote by Election Day — Nov. 8, 2016 ....[Details snipped] 
+
+The board of canvassers shall exercise reasonable control over the conduct of the recount to assure that the canvassers and tabulators do not experience interference from any person observing the recount. All persons who are not under the supervision of the board of canvassers are considered observers and are subject to the observer rules established by the Wisconsin Elections Commission and the board of canvassers. All observers shall wear badges or nametags identifying themselves and their role (candidate, media, etc.) 
+
+However, with computerized record keeping this is no longer a problem, and indeed there are counties that allow voting at any polling place. The reason it's uncommon is just because it was so recently infeasible to manage, but I imagine it will become more widely available as we rely more on technology to handle elections 
+
+Imagine a situation like the following: 
+
+Because person A and person B were so similar, they split the vote and neither got enough to win; they would've been better served if one of them had dropped out. 
+
+I think what you're actually asking about are polling places, the location where you cast your ballot, not districts. These are typically preallocated to certain voters because of the difficulty in keeping track of who has voted. Your ballot can't contain your name because your vote is supposed to be secret, so to ensure that each voter votes only once and only registered voters can vote, each polling place has a list of the people eligible to vote there and can cross people off as they arrive. Allowing people to vote at any polling place requires that each polling place have a complete list of registered voters, and a way to stop you from driving from place to place voting over and over; they can't wait till later to sync up, since there's no way to invalidate your ballot after you've voted.

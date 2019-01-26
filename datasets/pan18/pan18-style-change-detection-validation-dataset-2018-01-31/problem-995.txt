@@ -1,0 +1,31 @@
+Plato would have said yes - as a form of the Good. Some modern day philosophers of Number suppose it all might be some kind of fiction, but not a hoax. Others suppose both. 
+
+Is this notion of truth different from model-theoretic truth? 
+
+and this together with either reflexivity or symmetry implies transitivity. 
+
+Wittgenstein might say that we're using the word 'truth' in many different and significant ways, and each one should be labelled ie truth-1, truth-2 etc. As truth-for-me is different from truth-for-you in subtle ways for the same concept, one should label these truths by individuals which multiplies them endlessly. Truth as language in this sense ramifies spectacularly. Despite this, one might suppose that he did think truth was one but chose to remain silent about it. 
+
+Does it have undecidable statements? 
+
+Philosophically this is leading to the idea of a 'multiverse' of set theories in which ZFC is a distinguished one. A theory is interpreted in a topos. Compare this with model theory where one interprets a theory in a model which has set semantics. 
+
+Euclid, a mathematician, based geometry on the first fully and aesthetically pleasing axiomatic system. Axioms are traditionally held to be self-evident truths. But sometimes the truths are so self-evident, or that the purpose of an axiomatic system is so inevident that no-one bothers to form axioms for them - for example arithmetic wasn't put into this form until the 20C by Peano. 
+
+The following quote is from the wikipedia entry on Structuralism: 
+
+This idea has discernable effects in physics which leads to Bose-Einstein statistics in which probability does not behave classically. For example, two photons with the same energy are not discernable which is unlike two identical coins which are in fact discernable. 
+
+Modern mathematics has many different disciplines but they're natural outgrowths of each other or related in an organic fashion; and the relations change in time; plus, of course there are relations with other subjects; hence one shouldn't think of it like a tree but Rhizomatically. 
+
+Historically mathematics has had a symbiotic relationship with physics - ideas of algebra & calculus have mutually impacted both. But, consider that set theory despite its foundational aspect has had no contact with Physics. This, despite appearances, argues against taking set theory as foundational. This also goes for set theory's relationship with other areas of mathematics inside mathematics proper. Category theory has impacted physics, for example the idea of a TQFT is most elegantly formulated as a functor from the category of n-corbordisms. Another example is higher gauge theory which is a generalisation of ordinary gauge theory, important precisly because it is the language within which the Yang-Mills Theories & EM are written, and with a little cunning Gravity. 
+
+Given the anti-intuitive results of Quantum Mechanics, it is not surprising that Physicists would look for a deeper reason in the structure of the theory to explain what was then (and still is) startling phenomena. 
+
+The quick answer is that the hyperbolic plane is two-dimensional. In fact any surface is 2-dimensional no matter how it bends or curves. 
+
+'Quite often you may hear non-mathematicians, especially philosophers, say that mathematics need only draw conclusions from clearly given premisses and that it is irrelevant whether those premisses are true or false – provided they don’t contradict themselves. Anybody who works productively in mathematics, however, will talk in a completely different manner, In fact, those people base their judgements on the crystallized form in which mathematical theories are presented once they’ve been worked out. The research scientist, like any other scientist, does not work in a strictly deductive way but essentially makes use of his imagination and moves forward inductively with the help of heuristic aids.' 
+
+But there is more, two objects may not only be isomorphic, they may be isomorphic in more than one way, in which case we get higher order isomorphisms. This is the beginning of higher category theory. This may also be interpretable as proofs between types: for example, we may have two different proofs that two types are isomorphic, and then a proof that two proofs are in fact equivalent. This interpretation also allows ideas of homotopy theory in where we consider the 'shape' or 'topology' that all these proofs make (metaphorically, if one visualises a proof as a string of assertions, with one following another; the question is can we deform one string f proofs into another). This is the beginning of higher toposes. 
+
+Cantors theories of the infinite may have appeared to encroach on that territory as Dain points out in his answer; and Kronecker with a new converts zeal, may have attacked him on this very point, hence the call of impiety, an attack on his faith and, since he didn't believe in infinities or the reductio, his charge of the socratic corruption of youth away from truth, was him being simply consistent with his position.

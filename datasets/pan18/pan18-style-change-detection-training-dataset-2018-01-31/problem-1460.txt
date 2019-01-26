@@ -1,0 +1,45 @@
+What can I do to track down memory peaks? The memory is all being cleaned up by the application when it discards whatever it's using, but it doesn't seem to be discarding things until the app terminates. 
+
+What you are asking for is neigh impossible. The only solution I could think of to develop on Linux would be to use GCC or Clang to compile Objective-C. There are no Apple Frameworks or simulators, save GnuStep, and that isn't 100% compatible. 
+
+Make sure that your model is selected in the left hand navigator, or else you might not see the options on the right. You should end up with something like this: 
+
+For the Patient entity might want either deny or cascade, depending on how you want to manage your data. Based on your usage case, you probably don't want nullify, since Checkpoints are dependent upon Patient entities. 
+
+How can I select a string from the beginning until a specified character? 
+
+How do you plan to sign your app from Linux? 
+
+Next, scroll down. You will see a link to sell in specific countries. 
+
+There are a few tests that fail when I run the whole suite, but pass on their own. 
+
+Now, in iTunes, your App's documents directory will be visible. 
+
+I've got a kiosk app, which, essentially shows a bunch of slides with various bits of information on them. I initially began coding this over a year ago, when I was beginning with Objective-C and iOS development. I find that my code style is much cleaner now than what it was, and I'm much more experienced, so I've decided to rewrite from scratch. 
+
+You want nullify for the Checkpoint, since the Cascade would prevent you from deleting a checkpoint without deleting the entire patient, and Deny would effectively force the same. 
+
+I've added a bounty. I'm looking for an answer that works across devices and on iOS 4 and iOS 5. 
+
+OPTIONAL: You should configure an audio session. It's not required, but if you don't, audio won't play if the phone is muted. I do this in the demo app's delegate, but do so where appropriate. 
+
+You can save the text to your app's Documents directory and allow them to export it through iTunes. You can also allow them to email it. 
+
+This example has a little bit more code in there to log out remote events, but it's not all that complicated. I just define and pass around some string constants. 
+
+Other tests fail, but making requests with the same URLs return appropriate data when pasted into a browser. 
+
+In Hebrew, there are certain vowels that NSPredicate fails to ignore even when using the 'd' (diacritic insensitive) modifier in the predicate. I was told that the solution is to use regular expressions to do the search. 
+
+What can I look at to fix these tests? After reading this post on objc.io, I'm assuming they are suffering from some sort of isolation problem. 
+
+At risk of shameless self plugging, here's a project I wrote that's overly commented and fairly simple. The app is a "speed dial" for iPhone. Set a number, flip a switch and you don't need to jump into the phone app to tap on a number in favorites anymore. One tap dialing right from your home screen. I've got two apps based on this code that are out on the App Store, but this app itself is not. 
+
+Edit: As I said, here's some more info. 
+
+Is there any API or URL endpoint I can use? Do I need to use the SDK, or can I manually craft HTTP requests using Objective-C? (I'm thinking LRResty or something similar.) 
+
+Another approach that I have taken is to define my own property-list format and code around it. 
+
+I ran my app with the Allocations instrument to see what the memory usage was. Considering that this is a kiosk app, everything needs to run smoothly, without leaks. (Of course all apps need to run without leaks, but a kiosk app makes this an even more important goal.) I saw some interesting results, so I ran the old version of the code as well.

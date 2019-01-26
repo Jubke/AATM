@@ -1,0 +1,25 @@
+Answers are the raison d'être of Stack Overflow. Not comments. The manner in which comments are moved to chat on "noisy" websites is incredibly disruptive. It goes something like this: 
+
+When a comment flag shows up in the moderator queue, the moderator has two choices: they can either delete the comment, or take no action by dismissing the flag. When a comment flag is dismissed, it shows up as "declined" in the user's flagging history. That's all. I agree that they are not especially constructive comments. However... Leave a link to the new chatroom under the post. 
+
+The answer (now deleted, so I don't have access to the comment permalink anymore) to which the comment is actually posted is http://area51.stackexchange.com/proposals/60741/mobile-devices/60750. No, it is not a good practice, and it is not encouraged. I only delete comment threads in the C++ tag if they have devolved into pointless bickering. However.... 
+
+Moderators' time is limited, so some mods prefer to use their precious mod time moderating actual posts, reserving their comment moderation for the actively harmful comments. 
+
+In short, answers are for answers, not anything else. 
+
+Oddly enough, this worked until I deleted the answer. Area51 apparently uses the same ID for questions and answers, but if the answer is deleted, the site cannot distinguish it from a proposal. The audience for answers is the entire Internet. Casual viewers are looking for answers to their questions, not meta commentary. They don't need to see meta conversations; that kind of content is useless to them. Putting such information in answers gives the false impression that we're some sort of communication network, like Facebook, Twitter or email, and that's not what we're about. Thank you for asking this question, rather than just continuing to post non-answers, or giving up and going somewhere else. Your dilemma is indeed the same dilemma faced by countless new users who are used to posting messages in forum environments. 
+
+Comment links for answers that appear in the Collider for Area51 point to the wrong place. 
+
+The problem occurs with certain tags that are very chatty (you know who you are); noisy comments become interspersed with the useful comments, and the comment thread veers off-topic. In such cases, it can be easier for the moderator to just hit the nuke all the comments button, rather than trying to sift through all the comments and delete the useless ones. 
+
+Forcing new users to post answers instead of comments causes spammy answers and non-answers to surface very quickly and prominently, so that they can be removed. Answers so removed have a system link that points to the FAQ and other resources, explaining how the system works. These answers are subject to the same system quality checks that everyone else is bound by (answer bans, and so forth). While there might be some valuable information in these comment chains, the information that arises in the resulting discussion should be incorporated into the actual post, as the discussion that arises in the comments is, honestly, only of interest to the people having the discussion. 
+
+Comments do not have these system checks and resources, and are largely an unregulated system for the most part, so we require people to gain some system trust before we let people use them. 
+
+In general, informative comments that are related to the post are never deleted. 
+
+Few future visitors to the post have the patience to sift through a lengthy trail of comments to find whatever nuggets of gold might be there. 
+
+When the number of comments under a given post reaches a certain, site-specific threshold, move all of the comments to a new chatroom.

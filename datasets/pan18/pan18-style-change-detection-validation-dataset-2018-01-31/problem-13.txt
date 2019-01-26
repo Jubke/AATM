@@ -1,0 +1,51 @@
+Correct. For bug handling in Scrum, take a look here. 
+
+I'm far from advocating working on weekends, but as software development is mostly thinking I have experienced that some developers just thought over some issues during the weekend. 
+
+Create a plan for implementing improvements to the way the Scrum Team does its work. Was that happening on first few retrospectives? 
+
+Problem statement. What’s the good way to keep the backlog maintainable for PO and useful for the DT? 
+
+So now I'm agile coach and line manager in one. 
+
+By definition each and every Product Backlog Item should be estimated. Therefore each and every Sprint Backlog Item should, as well. 
+
+Comparing to monday-friday the advantage of mid-week cycle is that there is a weekend in the middle of the sprint, when already some issues should have been discovered. 
+
+Assuming you'd like to be Scrum Guide compliant. 
+
+Identify and order the major items that went well and potential improvements; and, 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+Create sense of freedom by introducing The Core Protocols, especially Pass and Check-In protocols. That will give them a safety belt when needed, it's universal and can be used beyond Scrum. You, on the other hand, would be more encouraged to ask the team and engage them, as they'll just simply pass if not interested. 
+
+I've been working as an agile coach for little over one year for one team. Recently I became a line manager for the same team. 
+
+Should I measure the teams performance by the average amount of points they can complete in the sprint or attaching time to the points as an approximation. 
+
+I want to help him improve, but not sure how - I have already put him on a training schedule, which he completed but he is lacking a lot of commercial experience. What is the best way to deal with this? 
+
+I use the approximations as a guide for how long the task would approximately take. Using this as a guide to work out a weeks worth of work worth is. My sprints are typically 4 days long. So in that case the team the points will add up for the week equivalent approximately. 
+
+After tracking my teams progress after 3-4 sprints, I am finding that allocating time against the points is becoming pointless, since the total amount of story points they can complete increases as the weeks go on. Last week it was 6.2 points, this week that figure has increased to 9, typically this varies and I am trying to find the team's average velocity. 
+
+I am the scrum master, using the following system loosely: 
+
+I do 1 week sprints with my scrum team, and every Monday I do a sprint planning where my team estimates by allocating story points to the cards, this then allows me to measure the progress of a sprint in a burndown chart. The trouble that I am having is that whilst one of the two developers is quite good, the other is struggling to complete the work to meet the sprint goal. It has been a couple of weeks now where we have missed the sprint goal. 
+
+The important thing is that you look carefully at why you do those things and replace them with something else that gives you the same result, in a way that works better for your team. 
+
+That's not always easy with 3rd parties with limited availability. An analyst can make a good customer proxy in these cases. Getting them pairing with dev/QA is better than getting them to write a doc. 
+
+This works for us but I advise you go through the same process as we did and examine what value you do get out of your current process before making any changes. 
+
+To communicate a story to the team and allow the team to question the PO. To force a conversation about the complexity and risks involved in a story. To ensure that a story is not too big to be worked on in a sprint. So, we looked at ways we could generate the same outcomes in different ways, stopped doing planning and introduced: 
+
+The tech team can then look at the work and decide whether we'd be able to meet the core requirements with that investment. This type of benefits led sign off feels more healthy to me as it avoids fixing the scope up front, and helps focus everyone on the final objective rather than the detail. 
+
+There are some valuable suggestions in other answers but I thought I'd share what my team has been doing. 
+
+You don't need to be a registered education provider to offer training (in the UK at least). 
+
+In every team I've been in that's used a virtual board, people update it very infrequently (typically in a rush before standups after the Scrum Master has had to go and ask them to do it) so it doesn't always have a good picture of what's going on.

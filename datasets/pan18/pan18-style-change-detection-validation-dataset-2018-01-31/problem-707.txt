@@ -1,0 +1,22 @@
+For what its worth I ran a test comparing the 3 suggestions for speed. I generated random integers, converted them to a String and added them to an array. I then searched for the highest possible number/string, which would be a worst case scenario for the asList().contains(). 
+
+Also, why can't I just use Alt+mnemonic as a single key combination to select a radio button? So, how do we access the preferred size/width of a control? 
+
+java.lang.ArrayStoreException: java.lang.Double 
+
+JTable already provides a default renderer for icons. You just need to tell the table what data is stored in a given column so it can choose the appropriate renderer. This is done by overriding the getColumnClass(...) method: The process is more involved and expensive than I thought. I don't want to pay a Certificate Authority to sign my .jar files. Also, I currently use a free web hosting site that doesn't support SSL so I wouldn't be able to use the signed .jar files anyways as I don't want to find a new hosting site. It was just pointed out to me that the Java Web Start applications from my blog, for example my Key Bindings entry, no longer function because of the follow security error: I would think those are the results most people would expect. Here is the test code: For a more complex solution that allows the user to hide/show columns as they wish check out the Table Column Manager. 
+
+In my example code below I set the number of each radio button to be the mnemonic. 
+
+press and release the Alt key. Now the mnemonic of each radio button is underlined. press the number and the radio button becomes focused. However, I now need to use the space bar to select the radio button. Why do I need to press the space bar? Should the radio button not be selected when the mnemonic is pressed? 
+
+Since I only do my blog for fun, I don't want to incur the extra cost of using signed .jars so I guess I will have to find a different way to demonstrate the code. 
+
+I think the code is something like: 
+
+When using a 10K array size the results where: Sort & Search   : 156
+Binary Search   : 0
+asList.contains : 32
+ So if the array is created in sorted order the binary search is the fastest, otherwise the asList().contains would be the way to go. If you have many searches, then it may be worthwhile to sort the array so you can use the binary search. It all depends on your application. 
+
+My first attempt at playing with JavaFX and I'm trying to understand a little bit about layout management. How do we access the preferred size of a control?

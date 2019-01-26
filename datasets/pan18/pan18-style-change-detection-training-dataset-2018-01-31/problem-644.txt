@@ -1,0 +1,31 @@
+Flop Pot is 17 bb A♠ J⋄ 7⋄ which is semi good for me check, 9 bb, call, fold (me) 
+
+A draws should put as little chips in as possible but still put yourself in a position to get more chips in the pot if you hit. Surprising an open ended straight draw of flush draw about 19%. That is surprising to me and I will run the numbers again but also got that number from a link from Herb Wolfe. 
+
+A problem is you have to raise kind of big to give them bad odds. If you just raise to 2.5 BB they are getting 3.5 : 1. In position they can call a lot. 
+
+On the flop check check bet. That could be a made hand or just a cbet. You are hoping he has a pair. If he is on a bigger set that is poker. You are beat by a flush but like I said then don't check the flop. 
+
+You are rarely getting odd to chase a set if you miss the flop. 
+
+If someone enters from early position that is tight then you are likely a dog or at best close to even money if they will play AK. So you should not play 99. You should not even play QQ against a tight player from early position. You need to learn their range from position. Will answer my own. I am really hoping for a good support of Doug's play. 
+
+Cove on the button with 8♠7⋄ calls Starts with 16 BB A coin flip is not a good bet in a tournament. Unless you are up against a small stack. 
+
+What is your EV on sizing your bet? What if you bet 1/2 the pot and they will call 1/2 the time? You have to subtract the sure call. What is the EV of the over bet. 1/2 the time they fold and you get 0 from the bet. .5 * pot * 0 + .5 * pot * (26/35) - 9/28 * pot * 26/35 = (5 / 28)(26 / 35) pot = 13% the pot Many people will get emotionally attached to a hand call a slight over-raise Against a player married to their flush draw I will bet 1/2 the pot on the turn (and flop) 
+
+You are looking to flop 2 pair or better. Will flop that about 5.6% of the time. And that is not using any pair on the board. 
+
+They could be on any of those hands plus big pairs. They could be on a semi bluff with 89s. A raise to 6 BB you are getting over 3.5:1. You can call and close out action. If you fold the whole table is going to bluff you. If you pair you are probably ahead as if you pair a K there is only one KK left in the deck but you also could be out kicked unless you are playing AK. If you do hit the flop I think I would just check to them. If you don't hit I would check. They are likely to C bet even if they don't hit so maybe you could maybe call up to 1/2 pot with AK even if you don't hit but I think you have to fold all the other hands. 
+
+Seiver opens in early position for like a min raise - hard to tell as don't know if antes were in play K♠T♠ I am writing a poker game where you play against 5 bots and I just can't get my head around playing straights and flushes. They are solid hands but you can get stacked by a boat or higher. UTG+1 not understanding the donk bet maybe he is repping a big queen wanting to charge a flush draw he does have the back door nut flush draw seem like a flush draw would check 
+
+The calculation for chips to commit (stack that you want) in 3 even bets is 3p/b + 6p/b/b + 4p/b/b/b 
+
+Not sure if that is from Chen or a comment on the web page. 
+
+Say hero fires a pot sized bet at the pot and gets one caller. If a 9♣ comes up on the turn should hero fire again? 
+
+For strong hole cards it is more of a slow play than a bluff. If you just limp those like 1/3 or 1/4 of the time to balance you give up a lot. A better play there is to just smooth call a raise. You have disguised your hand, you have a pot, and you have position on at lease one player. 
+
+Same thing with 1/2, 3/4, and full pot call on flop. If you can get that same action between the turn and river if you hit then a positive EV. If you hit on the river or before then again bet 1/4 the pot. You are representing top pair or better. If they made 2 pair or make a set and bet out then raise the size pot. If there is a pair on the board then slow down - you may be up against full house. At any point if the board pairs slow down and get away from calling a big bet.

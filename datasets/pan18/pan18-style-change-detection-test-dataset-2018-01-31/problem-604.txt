@@ -1,0 +1,35 @@
+3 EXAMPLE An example of undefined behavior is the behavior on integer overflow. 
+
+12 No return type (not even void) shall be specified for a constructor. A return statement in the body of a constructor shall not specify a return value. (1) You can put your definitions into the header file, but make sure that they have internal linkage. However, it is not even remotely limited to that. In general, the optimization opportunities enabled of inlining are significantly more far-reaching. For another example, when the function body is inlined into the specific caller's context, the compiler in general case will be able to propagate the known aliasing-related relationships present in the calling code into the inlined function code, thus making it possible to optimize the function's code better. (Updated to take into account @John Bollinger's comments.) That's exactly what union does. If you know that several objects in your program hold values with non-overlapping value-lifetimes, then you can "merge" these objects into a union and thus save memory. Just like a hotel room has at most one "active" tenant at each moment of time, a union has at most one "active" member at each moment of program time. Only the "active" member can be read. By writing into other member you switch the "active" status to that other member. 
+
+I have the following function that will convert a string into a numeric data type: 
+
+Is there a way to create a single function that combines both of these? You can get a pointer to the first element as follows: Let the compiler do the hard work, and 99.9% of the time it'll be exactly what you wanted anyway. When it isn't what you wanted, you'll usually get a compilation error which is easy to identify and fix. 
+
+Per C++11 §5.1.2[expr.prim.lambda]/11: 
+
+Also remember that when the vector gets destroyed, the underlying array gets deleted as well. I've played a bit with the template arguments but haven't come up with anything; it'd just be nice not to have to call one function for enumerated types and another for everything else. Assuming the container has at least one element in it, you need to get the address of the initial element of the container, which you can get via Note that you can concatenate string literals by placing them next to each other; for example, the following two are equivalent: There are lots of subtleties with these new language features, but if you follow one simple rule, it's pretty easy: The purpose of union is to save memory by using the same memory region for storing different objects at different times. That's it. 
+
+However, it is not even remotely limited to that. In general, the optimization opportunities enabled of inlining are significantly more far-reaching. For another example, when the function body is inlined into the specific caller's context, the compiler in general case will be able to propagate the known aliasing-related relationships present in the calling code into the inlined function code, thus making it possible to optimize the function's code better. 
+
+Here's a little bit of additional research. Consider this code 
+
+Which method you will choose depends on your intent. 
+
+For one simple example, this function Note that in accordance with the above rules in 
+
+If one of these functions required a mere integral promotion (as opposed to integral conversion), it would win the resolution and the call would be considered unambiguous. But alas both of your functions require integral conversions. Yes, using return statements in constructors is perfectly standard. As another additional note: in C++ language functor-based programming plays an important role, which can be seen as another form of "expression programming". According to the current trends in C++ design, it might be considered preferable over traditional statement programming in many situations. 
+
+Well, this is basically a straight copy-paste from the standard 
+
+It is like a room in a hotel. Different people live in it for non-overlapping periods of time. These people never meet, and generally don't know anything about each other. By properly managing the time-sharing of the rooms (i.e. by making sure different people don't get assigned to one room at the same time), a relatively small hotel can provide accomodations to a relatively large number of people, which is what hotels are for. I've played a bit with the template arguments but haven't come up with anything; it'd just be nice not to have to call one function for enumerated types and another for everything else. 
+
+You can get a pointer to the first element as follows: In your example, we make the call: 
+
+Note that you can concatenate string literals by placing them next to each other; for example, the following two are equivalent: There are lots of subtleties with these new language features, but if you follow one simple rule, it's pretty easy: Assuming the container has at least one element in it, you need to get the address of the initial element of the container, which you can get via 
+
+Is there a way to create a single function that combines both of these? Let the compiler do the hard work, and 99.9% of the time it'll be exactly what you wanted anyway. When it isn't what you wanted, you'll usually get a compilation error which is easy to identify and fix. 
+
+Also remember that when the vector gets destroyed, the underlying array gets deleted as well. 
+
+Per C++11 §5.1.2[expr.prim.lambda]/11: I have the following function that will convert a string into a numeric data type:

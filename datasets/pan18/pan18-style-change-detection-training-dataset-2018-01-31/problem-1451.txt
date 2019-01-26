@@ -1,0 +1,37 @@
+That's why your tab bar is disappearing. You are covering your tab bar controller, with it's 2 tabs, with a new instance of your TabBarController2. 
+
+I'm working on some graphics code that does live drawing of smooth, continuous curves. I want to add support for feathered brushes. For that, I need to be able to calculate "normals", or lines perpendicular to, the line segments that make up my curve. 
+
+As @iosDev82 says in his answer, sender is an optional that names the object (if any) that triggered the segue. 
+
+Say I want to draw a soft-edged curve that's 6 points thick. The curves that follow the user's finger-track on the left and on the right would each need to extend 3 points from the user's curve. 
+
+I'm working in Swift 3, but am "multi-lingual". I'm fine with integrating code written in C/Objective-C as well. (or perhaps converting it to Swift.) 
+
+They can't really override the code of already-existing methods. (They can, but you can't call the super implementation, and if there are multiple categories with implementations of the same method, the results are undefined, so you should not do this.) 
+
+I decided to rewrite the calculation code to use dispatch_async, and run it on my 8-core Mac Pro. 
+
+Lately I've been using dispatch_after instead of performSelector:withObject:afterDelay when I want to trigger some code after a delay. The code is cleaner, it has access to the enclosing scope, I can put the code in-line instead of writing a throw-away method, etc, etc. 
+
+Categories help you get around the fact that there is no multiple inheritance in Objective-C. (In the example above of adding animation behavior to UIViews, you can't create a subclass of UIView AnimationView, and then create a UITextView that inherits from both UITextView and AnimationView and also create a UIImageView that inherits from AnimationView.) 
+
+Does anybody else see anything that might cause this, or have any other insights to offer? 
+
+When you're running Face Dancer if you two finger double-tap on the image, it displays the grid of control points it's using to create the morph so you can see what it's doing. 
+
+Unfortunately I don't think the app uses GLKit, which is a much easier way to use OpenGL ES 2.0. GLKit offers a number of features that make it much easier to use, including GLKViews and GLKViewControllers. 
+
+The code that uses the "processed" variable is just a way of figuring out how many points have been calculated when run in concurrent mode. I added that code after I discovered the horrid performance of the concurrent version, so I'm confident it isn't a cause of the slowdown. 
+
+You'd create a constraint that placed the view where you wanted it, and control-drag from that constraint into your code to make an outlet to it. 
+
+Changing weak properties to assign will get rid of compiler errors, but it will potentially cause memory management problems if you don't understand how to use manual reference counting. 
+
+You'd then install an arc into the shape layer that spanned a full 360 degrees, and had a radius that was half the center-to-corner distance of your image. You'd give it a line width that was the same as the radius. 
+
+For simplicity on the first pass, all 8 blocks write to the same array of NSUInteger values. There is a small chance of a race condition on a read/modify write to one of the array entries, but in that case, that would simply cause one value to be lost. I was planning on adding a lock to the array increment later (or perhaps even creating separate arrays in each block, and then summing them after.) 
+
+There are a couple of significant limitations to categories: 
+
+To scale an image the system has to load it at full size and do a complex scaling operation each time it draws it. It's the worst of all possible worlds - slower, 4x as much memory, and the images don't look as good.

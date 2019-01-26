@@ -1,0 +1,27 @@
+Then, when you've done, wipe off the excess oil with something dry. A bit of rag or kitchen towel will do. 
+
+you need to oil the pin/roller area. There's no point oiling the face plates (which I think is what you're saying?). For frequency of lubing, the answer is "it depends". We all have different preferences. If its a bike that doesn't get ridden often, you'd maybe lube the chain before every ride. A commuter, ridden daily, you'd maybe lube every week or two. 
+
+I think it is a judgement call, but I don't think you can separate lubing from cleaning. Assuming that these parts are actually ok, then the problem becomes one of poor mechanics. Two things spring to mind: Give the cogs a decent clean at the same time as you clean the chain, otherwise you're just going to transfer muck from on to the other. The only other thing I could think of is that if you do end up with an imperfect chainline, despite your every effort, then a 3/32" chain will be more forgiving than a 1/8" chain. 3/32" chains are designed to be able to traverse cassettes so have a little more flexibility in them. 
+
+When you think of cleaning a chain, you need to think of two things. First, there is the cleaning - getting off the dirt and lube that has caked itself onto the chain. Then, there is lubing the chain to make it run nicely, (As part of a lube you'd maybe give the chain a rub with a dry cloth to try and get surface crap off, but wouldn't be soaking it in degreaser). 
+
+One of my bikes has had the same cassette since at least 2006, that cassette has over 10K km on it and it shifts like brand new with almost no signs of wear. I'd guess it's been through somewhere around 15 chains. I replace my chains as soon as they show any wear with the Park CC-2 chain gauge. ( New chains generally read 0.5, I replace them at 0.75) 
+
+You could try the "soak chain in paraffin wax" method. That would at least keep the water out of the rollers. Good how to page: You can often get away with not replacing the chainrings when you replace a worn cassette, but if you really run it into the ground, you may have to replace at least the smaller chainring as well. In particular, the smallest rings on a triple can be quickly destroyed in just a few days of riding with a worn chain. 
+
+Every new 9 spd chain I have bought came out of the box with 0.5% wear according to the Park CC2 chain checker. I replace my chains when they start to show any wear (i.e. 0.75 %), because chains are cheap and the rest of the drive train is not. 
+
+Salt water will pretty much destroy every part of a bicycle, washing with fresh water every day might be your best investment in keeping the bikes running as long as possible. The wax method helps there as it is very resistant to washing out. 
+
+Every measuring tool takes some practice and skill to get accurate measurements. 
+
+http://eehouse.org/fixin/fixmeup.php 
+
+http://www.instructables.com/id/Lubricating-a-Bicycle-Chain-using-Paraffin/ FWIW, a single speed bike means your almost always in the "wrong" gear. Any change you make will only change when you're in the wrong gear, not the amount of time you spend in the wrong gear. If you're not happy being in the wrong gear, just buy a derailler and a shifter. It would be much simpler to change the front chainring, if you can find a magical combo that matches what you want for a gear. There are also "half links" available that allow you to tweak the chain by less than a full 1 inch link pair. 
+
+Moving to the 16T is not full chain link. A horizontal drop out is typically a little longer then one chain link. If you get all the way back and have slack then you take out link and you will be up in the horizontal drop out. 
+
+Every manufacturer seems to count chain length the same in chain packages. Here is a safe definition if you want to remove the possible confusion of plate, half, or full. 
+
+Kerosene is technically a paraffin which comes from the greek word wax. Kerosene is used as a fuel and a solvent. A waxy solid extracted from petroleum is called paraffin wax. Pouring a liquid kerosene on a chain is not going to leave much if any waxy lubricant behind. Compare your cassette to a picture of a new one. It the teeth are sharp and the dip worn long you need a new cassette. And you should replace the chain when you replace the cassette.

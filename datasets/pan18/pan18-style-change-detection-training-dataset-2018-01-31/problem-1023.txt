@@ -1,0 +1,33 @@
+What would be the best way to convey that message earlier and more clearly? 
+
+This way, I'd know where to click when the button is activated, because it always stays in the same place. Sounds reasonable enough, does it? 
+
+Here's why the queue is important: First answers are very likely to be: 
+
+I decided to break this up in three parts, each with proposals highlighted within a blockquote. 
+
+Many merges would need an additional cleanup before the actual process, and I haven't really seen that. Many users don't even care to clean up duplicates, make answers consistent, flag obsolete content for removal, etc. As merging is an even more complicated process, at this point I don't trust the community to do it. 
+
+Proposal While this may seem like "not a big thing", from a point of user interface design it is unexpected behavior. It obviously would be better to have the button stay in its place, for example here: 
+
+This makes it necessary for them to enable line numbers as well, even if they don't want it, because they have no other means of understanding what you're referring to. 
+
+Sure. In most cases, the room owner is more or less arbitrary, because it's just the person who was first to create the (e.g.) PHP room. But of course it makes sense to have several owners, especially for rooms that are quite active and have developed their own "style", and have those owners be people who know their way around. 
+
+I believe that this is actually the reason for the (perceived) better results: You phrase your search differently. 
+
+So this word "beyond" will be presented to users solving reCaptchas all over the world, and if 95% of them type "beyond" into the box, reCaptcha can be pretty confident that the word actually is "beyond". 
+
+Update: Meta is now running on jQuery 1.7.1, we'll be monitoring it for issues for a while and then roll it out to the rest of the sites. 
+
+All that said, I ask you again to inform yourself a little more about the background of reCaptcha and think about whether it might be a good thing after all to actually enter "beyond". 
+
+The fact that you think it's insulting users is part of the problem. It's not - it's insulting a user's post. If someone downvotes me, that doesn't mean they disrespect me - it means that on this particular occasion, they think I'm wrong. They may have just upvoted another of my answers elsewhere. 
+
+That's a lot easier to read (IMO) than: 
+
+If not, what was the reason for removing said link, and is there any chance we could have it back please? (Or have a copy of the question in the edit page, probably collapsed to start with but expandable.) 
+
+Personally I'd like a few other bits of markdown to be available in comments, but I know Jeff wants to discourage more significant comments - it ends up leading to discussion rather than Q&A. Personally I like discussion, but it's Jeff's prerogative :) 
+
+It's perfectly possible for wrong answers to get upvotes - downvotes are necessary to provide a counterbalance, IMO. Yes, I may have already written or upvoted the correct answer - but I still want to be able to say that a given answer is just plain wrong. It's even better now that you can click on the aggregate to get the separate upvotes/downvotes tally.

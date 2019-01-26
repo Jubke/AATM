@@ -1,0 +1,61 @@
+It doesn't relate to template strings; the pre-MCVE version of this didn't use them (and did use promises, which is how we ended up with arrows inside arrows). 
+
+So reiterating from above: Why not? Surely there must be a specific reason it was not desirable/possible. What was it? 
+
+A very simple version would look like this: 
+
+Based on Parsing If you want it to be a normalized decimal integer string over a reasonable range of values, you can do this: 
+
+Of course, if you do that, you have to update the map when you modify the array, which could become a maintenance problem. 
+
+It requires that I set a fixed size for the label spans, but the names of those labels can be from configuration and so I don't want to have to measure each of them at runtime and adjust the fixed size to the largest. 
+
+Including fractional months in the above is much more complicated, because three days in a typical February is a larger fraction of that month (~10.714%) than three days in August (~9.677%), and of course even February is a moving target depending on whether it's a leap year. 
+
+Failing an HTML/CSS-only solution, is there a simple JavaScript solution? (If not, I'll write the complex one; not asking people to do significant amounts of code if that's what it takes.) 
+
+(You're not searching through "JSON", you're searching through an array -- the JSON string has already been deserialized into an object graph, in this case an array.) 
+
+If you need it to all be within one expression, you can do that without the temporary property: 
+
+...but that's unsatisfactory for several reasons: 
+
+There are also some date and time libraries available for JavaScript that probably make this sort of thing easier. 
+
+encodeURI assumes that the input is a complete URI that might have some characters which need encoding in it. 
+
+It depends on what you are actually wanting to do. 
+
+Given numbers between 1 and 100. 
+
+Douglas Crockford, who wrote JSLint (a tool which gives that error message), is of the opinion that is is better to use dot notation where possible. 
+
+Given numbers between 1 and 1000. 
+
+A more useful demonstration would be: 
+
+That is backwards. It creates a new array and doesn't destroy other references. 
+
+It doesn't have a type, it isn't a value. 
+
+So if you select some at random, then that vast majority of selected numbers will have the same number of digits, because the vast majority of possible values have the same number of digits. 
+
+encodeURIComponent will encode everything with special meaning, so you use it for components of URIs such as 
+
+Google Adsense uses globals because it splits scripts into two distinct parts (one local and one remote). A cleaner approach would be to call a function defined in the remote script and pass the parameters as arguments instead of having it pick them up from the global scope. 
+
+If, in ES6, you want to use a variable for a property name, you can use the new ComputedPropertyName syntax. Place the variable name between square brackets: 
+
+The most powerful thing directives can do is extend HTML. Your extensions are a Domain Specific Language (DSL) for building your application. E.g., if your application runs an online shopping site, you can extend HTML to have "shopping-cart", "coupon", "specials", etc. directives -- whatever words or objects or concepts are more natural to use within the "online shopping" domain, rather than "div"s and "span"s (as @WTK already mentioned). 
+
+A service can be dynamically injected (by name) into a controller using the $injector. Being able to inject services via controller arguments is just a convenience that Angular provides. Under the hood, the $injector is used by Angular to retrieve object instances. But we can use the $injector ourselves also. 
+
+See https://docs.angularjs.org/guide/scope#integration-with-the-browser-event-loop 
+
+If the attribute value is just a constant, e.g., 
+
+All watches are evaluated (sometimes multiple times) every digest loop. The digest loop is entered as a result of some event, or calling $apply(). Watches are not called periodically based on a timer. 
+
+† A directive normally only has a (post)link function. A complicated directive could have a compile function, a pre-link function, and a post-link function. 
+
+A directive is essentially a function† that executes when the Angular compiler finds it in the DOM. The function(s) can do almost anything, which is why I think it is rather difficult to define what a directive is. Each directive has a name (like ng-repeat, tabs, make-up-your-own) and each directive determines where it can be used: element, attribute, class, in a comment.

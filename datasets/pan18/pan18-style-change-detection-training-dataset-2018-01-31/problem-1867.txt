@@ -1,0 +1,19 @@
+This is still different from dialethism or true contradictions - formally for example one solution of the liars paradox is to adopt a three-valued logic which allows a statement to be both true & false. One still of course has to explain quite what this means. The Dao begins with a famous line: 
+
+Considering that the current consensus of the physical sciences is that the universe was 'created' at the Big Bang, one should say yes, they are. It isn't because there is an embargo on terms with theological import - its part of its sociology; this does not mean that scientists cannot hold religous views - plenty do; its simply not expressed in public scientific forums - journals, papers etc; they remainprivate or are expressed in public forums that explicitly engage in theology; but notably the Templeton Foundation amongst others are explicitly engaged in bridging this divide publicly. 
+
+Another example in mathematical physics: Coordinates were introduced in Greek Antiquity as a device - it took two millenia before Descarte applied it to mathematics, and Newton picked up on it to develop the calculus. It appears thus - that coordinates are a simplifying device. However, after the invention of tensor calculus and its successful use in General Relativity by Einstein which prompted the development of smooth manifold theory - Weyl declared 'coordinates are a violence visited on nature' and in modern differential geometry the extrinsic coordinate view is banished. This is the modern expression of calculus which is intrinsic and coordinates are seen as being a vulgar (but sometimes neccessary) imposition. In post-modern differential geometry the smooth structure is made non-unique ie relative; this is accomplished by stating what possible coordinate systems are functionals are allowed. So coordinates are allowed back to allow this profound relativisation of smooth structure. In modern descriptions of geometry - algebra and geometry are seen as dual descriptions. This is reminiscent of the dual description of wave-particle duality in QM. 
+
+this, I tell you, is a path wholly without report: 
+
+There are prominent scientists who admit human limitations, Verlinde of entropic gravity fame, said as much in an interview. Freeman Dyson in this article says: 
+
+Given that there are several conservation laws in physics - angular momentum, linear momentum etc. One needs to modify the above observation; and simply say are there substances in physics? Is there only one substance or many substances. If there are many then one cannot convert (part of) one to another as that would violate its identity as a substance. 
+
+Now Derridas essay, was not on Relativity, nor did it make any substantive scientific claims. It is primarily on the structural anthropology of Levi-Strauss although it touches on the thought of Foucault, Althusser & Lacan. So why does Hippolyte choose an example from the Physical Sciences to interrogate Derridas notion of the 'centre'? Putting this question aside, let us examine his. 
+
+Well before Krauss, it was Finkelstein & Putnam in the sixties that began to aggressively push the non-classical logic centre-stage, mainly it seems to get the mainstream take these kinds of logics seriously. 
+
+There is no generally accepted formalism that makes sense of the Feynman Path Integral, though there are special cases that have been formalised. But I think most physicists would accept that this will be a matter of time & human ingenuity. When Newton invented calculus to investigate problems in dynamics, he was famously criticised by Berkeley for his fluxions, they were only put on a more certain (cumbersome) basis a century later. 
+
+The first thing to note is that there is no such notion as an 'Einsteinian constant' in physics, but Derrida is not referring to any concepts in physics in a specific way, here he is using the qualifier 'Einsteinian' to name the constant that Hippolyte brings up in his question.

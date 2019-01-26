@@ -1,0 +1,53 @@
+A - Depends on who you ask and your organization may have guidance on this. Personally I never do this because it tends to hide tasks that may be on the critical path. 
+
+A - It's the longest path of tasks to either a deadline or the last task in the project. 
+
+Hope that helps! (please mark whichever answer you find the most suitable as the answer) 
+
+Hopefully these questions stimulate a conversation & some reflection on the tool. As you know MS Project is very rich and thus very complex. There is almost always more than one way to do anything. 
+
+Q - Have you used resource leveling? What are the pitfalls? 
+
+Q - How does MS Project determine a task is on the critical path? 
+
+Almost at the bottom of that menu, next row to the last, should be a selection for Display AutoFilter. 
+
+Then look for the Filter drop down. It's about in the middle and has a little funnel next to it. 
+
+Second is the idea of "natural" -vs- "workable" days. I would call those calendar days and working days. These kinds of restrictions are set up by creating different calendars or just putting different periods of working days or non-working days in whatever calendar you are using. 
+
+Please mark this as answered if it at least tells you what you needed to know. 
+
+Then ... you can assign one calendar to a task. MS Project does not support calendar assignments to predecessor / successor links. That would be pretty complex and would require additional settings for which calendar to honor if the tasks and the links had calendars assigned. I digress. 
+
+A - Usually the answer is to set up a custom text field with a pick list, assign the team names to the tasks, filter on that field and either print to PDF or export to Excel. A more advanced solution is to create a custom view. 
+
+Q - Do you prefer auto schedule or manual & why? 
+
+Q - Tell me two ways to filter in Project. 
+
+Based on the use case my solution would be to put a tasks in for pouring, allowing the concrete to set, and installing the pipe for each section. (I assume set time is the reason for the 5 day wait) 
+
+A - If total slack is <= 0 it's on the critical path. Depending on the version this can be configured. 
+
+Q - How do you make MS Project information available and understandable for non PM team members? 
+
+A - Again more of a discussion point. The biggest pitfall can be that leveling can push tasks around time wise if it's not set correctly. Most folks don't like that. 
+
+A - Typically this will involve views printed to PDF, exports to Excel, sometimes people have experienced Project Server and the answer will involve web based reports. 
+
+To do this with the menus do this. 
+
+A - "Small" projects. To me that means not more than 50 tasks and not more than a month or two in duration. An exception here is if it's a program that is made up of many small projects that all need to be linked to show critical path or reporting across the program (or portfolio) 
+
+Q - Say someone wants a custom view for their team, how might you do that? 
+
+Click on that and the auto filter arrows should get turned back on. 
+
+A - One is with the Auto Filters. Two is to create a custom filter. 
+
+The advantage of the 2nd way is you can copy/paste at the summary task level to more easily replicate many pipe sections. 
+
+The short answer is no. You are asking about two concepts neither of which works in MS Project. I want to be sure I address each. 
+
+A - Again, more of a discussion point. There are reasons that both make sense. I use auto and sometimes set constraints on a tasks by task basis. Small schedules sometimes are better off with manual scheduling. The more experienced someone is with MS Project the more likely, I believe, they are to use automatic scheduling.

@@ -1,0 +1,17 @@
+We're currently working around that on Skeptics by copying deleted comments to the mod-only chat, but that solution can't really scale with increased traffic. 
+
+Check some other posts if you can see the edit link there, the usual reason you don't see one is that there is already a suggested edit in the queue. If there is already a suggested edit on a post, sub-2k users don't see the edit link. 
+
+If we type the site name, we'll always get two options: the actual site and the per-site meta. This sometimes leads to the moderators migrating to the meta site accidentally. But there is no reason to ever migrate to a foreign per-site meta, the only useful meta targets are the site's own per-site meta and the main Meta Stack Exchange. So I suggest to remove the foreign per-site metas from the list of migration targets. 
+
+For the gaming ads there is the added problem that the design of the ads is Fallout-specific, so it would have to be changed to show something other than Fallout question. I think that is not a problem for most of the other sites. 
+
+Am I misunderstanding the flag counts displayed on that page or is this a bug? 
+
+Another small thing that applies also to the moderator analytics is the error in the last data point of the traffic graph. This data point is often misleading because it contains traffic data for less than a whole day. The data point should only be shown if the data for the whole day is known, avoiding that artificial drop in traffic for the newest data point. 
+
+This behaviour hinders a bit the moderation by the community, and makes diamond moderator intervention necessary in cases where they shouldn't be needed. Explaining e.g. that the post is "not an answer" in a commment is something that any established community member should be able to do, no diamond necessary for that. 
+
+Elections are important, more important than nearly everything else that is posted in that bulletin. They should be emphasized on the bulletin in some way. 
+
+The SE team is categorically and emphatically opposed to using the system banners for elections, so this alternative is out. What I propose is to at least make important events more noticeable by changing their color or distinguish them in any other way from the other events displayed in the bulletin.

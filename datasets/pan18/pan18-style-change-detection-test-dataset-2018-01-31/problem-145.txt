@@ -1,0 +1,29 @@
+While the aluminum frame itself will be relatively ok, the problem will be your bottom bracket (almost certainly made in part of steel) which was most probably sitting in a big puddle of water. Even if the water didn't cause the bearings to rust, a freezing/melting cycle can cause damage to the bearings themselves, force lubricants out, and otherwise mess-up the bottom bracket. 
+
+After the final layer had dried, apply the clear coat. 
+
+If the protector was epoxied on, then it is very hard to take off without damaging the finish. 
+
+Or you can try the use of GooGone or similar adhesive thinner/solvent (try on an inconspicuous place first to make sure it won't damage the finish). 
+
+Since it's a metal bike, sanding it down won't hurt it and if it is a crack, your bike is toast anyway. Aluminum frames can't affordably rewelded like a steel frame. 
+
+If you want to use tape, then you want to use what's commonly called "helicopter tape" (or "racing tape" or "repair tape") by car customizers. It looks like transparent packing tape but is much stronger. The story goes that the tape was used to cover the leading edge of helicopter blades to protect them. So it's tough, waterproof, and won't easily peel. And when you do have to peel it off, it comes off relatively cleanly (the remainder cleans up with GooGone or similar removal liquid). 
+
+The seat should be positioned so that your leg is almost fully extended at the bottom of the stroke (the knee should not go perfectly straight). 
+
+(And, of course, due to the weight of the frame, the frame strength would have to be beefed up, so you'd need more gold still.) 
+
+However, Cannondale, in their push to develop good aluminum bikes, invented the technique of rapid welding (since aluminum can't be brazed, and traditional welding worked poorly). This technique was transferred to the manufacturer of steel bikes, which is why most modern steel bikes are welded (without lugs) rather than lugged and brazed. 
+
+According to Wikipedia, Gold has an "ultimate tensile strength" of 100 MPa, while steel runs from 400 to 5000. (Carbon fiber laminate is 1600.) 
+
+The question is, can you do your MIG welding rapidly enough to not destroy the temper of the tubing? 
+
+Gold has a specific gravity of about 19, while steel has a specific gravity of about 7.8. So it would take about 4 times as much pure gold by volume, or about 9.7 times as much gold by weight. A 15 pound steel frame would weigh about 145 pounds in gold. 
+
+I would start by pulling the seatpost, fork and the bottom bracket. Use a small mirror similar to a Dentists type to try to see if the wire is attached in the frame or just passes thru. You may then be able to remove it. If possible attach a string to the end of the cable. You can then use the string to pull the repaired light cable back through the frame. 
+
+According to the Weight Weenies.com web site listed weight can differ from actual weight by as much as 10-13%. One thing you should be aware of is there is some variations between identical frames due to manufacturing tolerances. Most weights listed in advertising literature are not for large frame sizes. Looking at the listings on the site it appears that a 20-40 gram difference between carbon frame sizes is about the average. 
+
+Way back when safety bike were becoming popular women wore skirts. Skirt lengths were to the ankle. The dropped top bar made getting on possible while maintaining resectability. Women were considered to fragile to risk hitting the top tube hence the slanted bar. The trend continued even long after women stopped riding in long skirts. Modern WSD (women specific design) geometry differs from conventional bike geometry. The difference goes beyond just size. Whether it is needed depends on who you ask. While some women may be smaller than the average male many are as tall, height is not the only issue. Many women have a different leg to torso ratio than the male average and the frames are built to fit that difference. This is not to say that a women needs a female specific frame or that a male wouldn't fit on a WSD frame. It all depends on the individual physical traits of the rider.

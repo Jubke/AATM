@@ -1,0 +1,19 @@
+All in all, you'd be left with pure math spending being $20Mil... that's 1/200th or 0.5% of entire NSF budget... and a rounding error of a rounding error of a typo for US budget. 
+
+Also, some of what is produced (and exported) is intangibles: finance, health care, information, scientific/technical services, administrative services, educational services, management, entertainment. That is actually growing and hard to estimate because I never saw IP broken out. 
+
+Because, in a typical corporate structure, CEO is merely an employee hired by the shareholders' board of directors - in other words, he's supposed to do what's best for shareholders by the nature of the job - whether CEO themselves is a shareholder or not does not change that, but it changes their incentive to try extra hard to do what they are supposed to. 
+
+For example Nassim Nicholas Taleb argues (in Black Swan and later) that for resiliency's sake, debt financing needs to be gone alltogether and replaced with full on equity financing (sorry for lack of citation, as I heard it first hand at his talk I attended). 
+
+Japan's sovereign debt was 65% of GDP in 1992 (the Lost Decade started in 1991). The rise to 200% was the consequences of trying to dig themselves out of the hole, not the cause of the lost decade. 
+
+Annulaized results As per @Philipp's comment, federal spending is an annual figure, whereas campaign spending for 2016 should really be amortized over 4 (pres) and 2 (congress) years. As such, the discrepancy and impact is even more than my original answer stated - campaign spending is 1/3600th of full budget (0.03%) and rises to a whole 0.037% if you only count budget pieces spent on "the people" directly. 
+
+Verdict: Impact is insubstantial in the extreme. 
+
+Based on that, and given the practical need for pure math research as being the driver for much of technology innovation (all of our computer revolution is based on pure math work of preceding couple of centuries; all of modern finance and economics is based on previous "pure" math; I won't even go into cryptography and number theory dependency since Gilles covered that. So it's a pretty easy sell to spend $20Mil with not much political gnashing of teeth by pretty much anyone. The only reason that there's not more being spent is probably because there's no need for more. There aren't all THAT many mathematicians on a level that warrants supporting their lively-hoods so they can do pure math research. 
+
+Please see explanation below why the interest rate environment matters here and what the difference was. 
+
+However, the estimated effect on risk-taking is small and we do not find a negative (or positive) market response to option-induced risk-taking. In sum, although options appear to increase firm risk, there is no evidence that this effect is either large or damaging to shareholders.

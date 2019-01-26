@@ -1,0 +1,47 @@
+Current we have to go to the review queue to handle a pending flag on a post (like NAA/VLQ). Sometimes you come along an active post which you want to flag. You don't know it is actually already in the review queue. 
+
+Given that number of 10 million ad impressions: That's two or three per page, so after 3.3-5 mln page views a month SO Inc. has to pay. Stack Overflow only has over 24 milllion page views per day... 
+
+Users must be able to find the right site themselves. Often looking for a programming related issue they will come to SO anyway, about their cat to Pets.SE. Or use the StackExchange sites overview; The community effort to redirect all those questions is too much, with no clear gain for those people working their butt off. 
+
+When opening the same question twice, it shows the second one on top of the first one. This seems unnecessary to me. 
+
+Reasons I can think of this is a good idea: 
+
+You lose 1 reputation for every answer you down-vote. Questions don't have this, and it is actually a good quality control measure (how many will downvote bad questions when they lose reputation for it?). Downvoting on answers can be a done out of competition of another answerer, downvotes on questions never. 
+
+I disagree. New users are helped a lot to know how to act inside the community. When they don't follow the rules, they should be treated like everyone else. 
+
+No, it is not. Questions and Answers are important. Nothing else matters. 
+
+It makes clear that the vote casted doesn't do more than just get stored for analysis (through SEDE as Shog9 explained in the linked post). 
+
+To keep the 'we do something with your feedback' part of the message, my counterproposal is: 
+
+When clicking on a question it opens the app. When opening another question it puts it on top of the previous one. This seems all to make sense to me. 
+
+Congratulations. This is implemented already on answers, not on questions (it was, not any more). And I think it is good that way. 
+
+Please make sure that if a question is put on top, it isn't the same as the previous one. 
+
+I noticed I had a user ignored on chat which was very offensive. I ignored the user times ago so I even forgot about all this. Now I was seeing my chat preferences and I noticed the profile card of that user, which was still as offensive as it was, so I wondered if that user kept his account or not. 
+
+If you ask a question, you can comment already, so the place where you would need comments most is covered already. 
+
+Although I like the suggestion of helping users to find the right site, a site just to redirect question is a little bit too much I think. 
+
+Can we please automatically delete the chat profile if the main user is deleted? 
+
+You make a mistake in your first sentence. 
+
+Hence, emoji are not supported since it ads fluff to posts and that defeats the purpose of the sites: clear-cut questions and answers. 
+
+Your proposal makes things worse instead of better. 
+
+I wonder what it would mean if we show the current number of flags and give the option to click through to the flag dialog. This would allow using canned comments, but also to reject the flag. These two points are not covered by the proposed duplicate. 
+
+Indeed. The current message is very misleading and actually wrong. It makes you think the votes will be automatically applied, which they aren't. 
+
+It seems the main user got deleted, but not the chat user. I am not sure if this is a bug or intentional, but I assume it is never though of for now, so this is the future request: 
+
+Can we force the duplicate that was chosen by the gold tag badge holder to be on top when closing the question? (Or at least when it outnumbers the existing close votes.)

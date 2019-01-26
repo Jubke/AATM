@@ -1,0 +1,35 @@
+Edit: After writing the answer, the question has changed. Having less skid patches is a good idea, if your aim is to wear the tire to cords faster. It will not help with braking because the tire has skid patch facing ground when you brake. It will also not help much with lateral grip, because the smooth patches will be even smoother. Descend so fast that air resistance takes most of the force (the force depends roughly on second power of speed). This is the idea behind the advice to brake sharply for corners: You go faster between them, which lets the rims cool. 
+
+Too hot to touch isn't necessarily too hot for the rims and tires. Also, one thing to do is to reduce tire pressure before big descents, the temperature will increase it back. Jobst Brandt's posts on descending also touch the subject: http://yarchive.com/bike/descending.html 
+
+The summary is that there are differences but not necessarily correlated with price. One exception is that carbon rims require special pads, and those are always expensive. The differences between them may or may not be equally large, I don't know. 
+
+Increase your air resistance. A big flappy wind jacket slows you down by a surprising amount. 
+
+And to answer the question, the best ones of the bunch were not cool-end: no fancy shape or packaging, no advertising except word of mouth and either black or color that is more ugly than flashy. perhaps this video might help. I'm not sure if you have the same brake levers. The part where he installs the brake levers is about 6 minutes in, which the link should go right to. Also, I found this forum post that says they are probably not titanium rotors, but steel rotors with titanium bolts, which seems to fit well (well enough anyway) with the description in the store link above. Most likely what you have is a steel, or alloy (use the magnet test) rotor, with possibly titanium bolts. To test if the bolts are titanium, weight them in your hand against a steel bolt of similar size. The titanium bolt should be significantly lighter. Or you could use a magnet. But it's probably easier to just figure it out by feeling the weight then to go around searching for magnets. 
+
+Looks like the TRP Parabox Hydraulic Disc Brake is what you're referring to. Basically it allows you to use your existing mechanical brake levers to control the hydraulic pistons. So you can use your old brifters, and still have hydraulic braking. Here's a review that explains how they work, as well as provide and idea of the performance characteristics. The installation instructions linked to from the page you linked to shows the "fixing bolt" labeled as "3" in the following diagram There's a small hex key bolt on the outside of the brake levers. You should be able to see it in the following picture, I have circled what I'm pretty sure are the screws you are looking for. 
+
+Ok, after doing a little bit of research, here is what I found. On this site it lists the Titanium rotor, but when you read the description, it says: 
+
+Archimedes figured this trick out a long time ago. Place it in a measuring cup submerged in water to determine it's volume. Convert the volume to cm^3. Then weigh it, and covert to grams. Divide the weight by the volume to obtain the density. The density of steel is about 7.8 g/cm^3, while the density of titanium is about 4.5 g/cm^3. You don't have to be that accurate since the density of the two materials is so different. 
+
+To spread skid patches around the tire, you need to have chainring and cog that have mutually prime tooth counts, i.e. no common divisors. With a common 42 tooth chain ring, 21 is the worst possible choice because it produces a straight 2:1 ratio. If this did no seem to make sense, search for "skid patch calculator" to find interactive visualizations. 
+
+And to answer the question, the best ones of the bunch were not cool-end: no fancy shape or packaging, no advertising except word of mouth and either black or color that is more ugly than flashy. 
+
+There are huge differences in durability, braking performance and picking up grit between brands and models. In this case I believe comparing specific brands is justifiable. My experience has been following: As you already found out, dividing the load between two rims helps. 
+
+Edit: After writing the answer, the question has changed. Having less skid patches is a good idea, if your aim is to wear the tire to cords faster. It will not help with braking because the tire has skid patch facing ground when you brake. It will also not help much with lateral grip, because the smooth patches will be even smoother. If you disagree with any part of this answer, please make comments. 
+
+Edit: Here's the official instructions from Kool Stop about MTB brake blocks. Disk/Disc brakes are on the must-have list, but the descriptions of brake pads are confusing. 
+
+Sintered: with metal in the pads, better in the wet and for heavier riders, and transits more heat than resin. Longer lasting 
+
+Honestly, the back brake contributes so little to braking that its not worth fitting a dual pivot. 
+
+Replacing the fork is easier, but you're going to need a 1" threaded MTB fork with disk mounts. Short answer: No. There are no caliper mounts on the rear triangle of the frame so you can't mount brake calipers there. 
+
+I'd simply change the brake pads to Kool Stop, maybe run a new inner and outer cable, and leave that single pivot in place. Clean the rim's braking track too. 
+
+Most braking is done on the front wheel, so fitting a disk brake there will get you 90% of the improvements anyway. You need a disk brake rotor, disk-compatible hub, a caliper, possibly a mounting adapter, a cable or hose, and a new brake lever. Buying all that new could cost as much as a good lightly-used bike.

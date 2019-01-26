@@ -1,0 +1,23 @@
+Anyways, a gold reviewer badge: 20000 reviews, over 4000 actioned 
+
+For your continued efforts in reviewing posts, even though the system sometimes messes up and doesn't let you actually review things and keeps displaying them over and over and over. So also, for your patience in putting up with the glitches in the review panel too! Haha 
+
+With this somewhat nicer looking screen: 
+
+Perhaps this will make it easier to see how close together the colors are: 
+
+Even though comment flags don't count towards your flag weight, I think it would be nice to add them into your flagging history so we can still see if they were acted upon or not. Could the flagging history be made into a dual-tab page, where by default it shows all of your flagging history, then with three additional tabs to select answers, questions, and comments individually. 
+
+Looking at your network profile, there is no number anywhere in your entire profile that has a sum of all your reputation across the network except for the flair page, which isn't always accurate because it's cached, and isn't exact because it rounds. Yet, there's so much empty space on the profile page. 
+
+Nice and simple and matches the rest. :D 
+
+My simple idea is to list the user's total reputation and badge counts below their Gravatar image like on any normal profile page across the network (keeping the rule of only accounts with over 200 reputation). It would make it incredibly easy to find and I wouldn't have to go search for myself on Area 51 to figure it out. 
+
+This has happened to me twice recently. One was serial downvoting here on MSO by a... certain user glares... and the other was serial upvoting on SO. When they get reversed, it lists out a ton of "undownvote" or "unupvote" events in my history, like I don't already have enough entries from all the "downvote" or "upvote" events. When the serial vote checker runs, could it not group all of these events into a single, expandable event? 
+
+Update: Now that comment flags can be tracked in your flagging history, would it not make sense to also make those flags visible in your history? I don't see the point in providing statistics on your comment flags and then not be able to see what comment flags you've issued and which one have been declined, etc. 
+
+If this can't be implemented, could someone explain why it shouldn't and/or why the limit for number of moderation flags per day should remain limited as such? 
+
+It would be nice if there was some way for helpful flaggers to get additional flag votes during the consecutive day if their flags continue to prove helpful to moderators. I think a good implementation would be to still allow the same limit and forbid them from continuing to flag until a majority of those flags have already been reviewed. If the user maintains a helpful record throughout the day, they should continue to receive 3 or 5 more flag votes as they continue running out so they can keep flagging things here and there and remain helpful. Once the user gets 2 or 3 declined flags for the day, they will cease to receive additional flag votes for the day and any remaining bonus flag votes they had should be revoked.

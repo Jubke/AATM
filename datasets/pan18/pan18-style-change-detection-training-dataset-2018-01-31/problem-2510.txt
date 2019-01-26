@@ -1,0 +1,31 @@
+(page 173—it's page 93 of the PDF I linked to) 
+
+Wikipedia says that emphatic "p" also occurs/occured in some Semitic languages (Hebrew and Ge'ez), although it might have been a secondary development related to loanwords. 
+
+How did a rough breathing develop before all words starting with an upsilon in Ancient Greek? This is a commonly noted fact about the distribution of these sounds (or rather spellings), but I’m having a hard time figuring out the etymological reason for it. 
+
+Wikipedia also says spirantization of [kʰ] to [x~ʜ] and and [pʰ] to [ɸ~f] is found in some varieties of Bengali. One parallel to this pattern outside of the Indic languages might be Vietnamese, which has a current inventory containing /f tʰ x~kʰ/ that are all thought to derive from earlier aspirated plosives. 
+
+I'm not sure why similar pressures did not cause "monkey" to be pronounced with /ɒ/. One thing I notice is that the word "monkey" is older and so it may have had more time to get an established upper-class pronunciation that people were widely aware of. In contrast, "donkey" is more recent, and seems to have started out as a slang or lower-class word (the formal term used to be "ass") so when it started to be more widely used, it may have been easy to assume that the pronunciation with /ʌ/ was just some kind of lazy pronunciation or lower-class corruption of /ɒ/. 
+
+I don't know if it's also relevant that the PIE word-initial cluster *wr- merged with the reflex of the cluster *sr- in Greek, giving ῥ (rh, rho with a rough breathing). 
+
+So [dʒ] does exist for some speakers of German, although it sounds like it can be considered marginal. (I don't know if this is a perfect analogy, since I don't speak German, but you might compare its status to /x/ in English words like loch and Bach.) The voiceless sound [tʃ] (usually written tsch) has a more stable pronunciation and is more common, but I've read that even [tʃ] is rare in German compared to other sounds such as [ts]. 
+
+I would guess it's just an areal feature within the Indic languages, but I don't know very well. Dravidic languages generally don't distinguish between aspirated and unaspirated series of consonants in their native vocabulary (although they may in vocabulary taken from Indic languages), so it seems unlikely to me to have arisen from Dravidic influence. 
+
+I have encountered, I believe mostly in works from Generativist phonological traditions along the lines of Chomsky and Halle's The Sound Pattern of English, the idea that words like potency, latency, decency, presidency end at some level of morpho-phonology with the sound /j/ rather than some nuclear vowel sound like /i/. 
+
+[Edit: At first, I completely misread this question as asking about voiced aspirates. Sorry about that!] 
+
+The referenced paper is cited as follows: 
+
+Anyway, I guess I don’t understand the motivation for the analysis made in the quoted material. In what sense should we consider words like “obesity” an exception? Obviously, it is one in terms of frequency (there are more items in the lexicon that alternate than ones that don’t). But Chomsky and Halle seem to be saying that it is mentally classified as an exception by native speakers. If this is the case, I don’t understand why this extra complexity in the lexical representation of the word originated historically (the word used to be pronounced with /ɛ/, and over time came to be pronounced with /i/). My default intuition would be to consider the words with historical phonological alternations as marked, in the sense that they're harder to process psychologically (for example, I have to consciously think to apply them sometimes, and avoid saying stuff like /səˈriːnɪti/), and the non-alternating forms like "obesity" as unmarked. I would not reject the rule entirely, but I don't understand why the rule is taken to be the default situation. 
+
+Czech has an unusually rich array of palatal or historically palatalized sounds that are phonemically distinct and may be difficult for speakers of other languages to distinguish, such as the distinctions between all of /d/, /ɟ/, /j/, /ʒ/, /z/, /r̝/. Listening to the video you linked to, I as a native English speaker had a hard time hearing the difference between "eř" and "eš". 
+
+The OED's earliest citation is "c1340," spelled "concupyscens" which does seem earlier than the first OED citation for "adolescence" ("?a1425") or "pubescence" (?a1425). I also wasn't able to find any earlier attested use of an "-escence" word in the Middle English Dictionary quotations. 
+
+Has anyone attempted to do so? 
+
+This is native-speaker bias at work, Czech phonemes aren't actually especially easy to distinguish in general if you don't speak Czech natively.

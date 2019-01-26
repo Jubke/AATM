@@ -1,0 +1,23 @@
+Verb and noun-adjective at the same time The interesting thing about these forms is that they are both verb and noun/adjective at once; that's why nominal verb is the only label that seems to cover what they are. Externally, they function as nouns or adjectives, in that they can be the subject or object of verbs and prepositions or modify nouns, etc. (I want [a pony | to run], she failed at [running | love], I see a [running | fast] donkey). 
+
+This leaves criterion B (adjective property) to do the job, because C (noun identity) only works if the verb can take a noun as a secondary complement at all, which was shown to be dubious above. As to B—does "fast" assign a property to the subject? One could say it does, since "I" am "fast" when I'm walking fast. However, this should also be the case with other adjectives, then: *I walked rapid. This proves that "fast" was not an adjective in the original example, which had the same construction and the same meaning. 
+
+When describing proto-languages, this usually means that a certain root or word has been reconstructed: based on phonological rules, we think it must have been somewhat like this—but we cannot be sure, as it is always possible that some unique irregularity would result in a different form, and we have no written sources that contain this form. When a form has never been found in a real source, we say it has not been attested; in other words, it is unattested. In most proto-languages, all forms are hypothetical, so that they should all be preceded by an asterisk. 
+
+It can be seen that copulae + subject complements fail at least one of these tests, which is why they are normally not considered transitive verbs + direct objects. 
+
+I am not entirely sure about the broader definition and how it differs from verbal phrase, but I think it is something like "any kind of verb and its dependencies". What constitutes a "verb" is defined by the kind of arguments it takes, I would say (in both definitions). I am not sure whether the broad definition includes the "subject" of a participle in the clause (probably yes). 
+
+Thirdly, many foreign languages still have clearly marked cases or genders, like German, in which subject complements are easier to identify than in English. The construction and the criteria I set out above are the same. Should we then call the same construction by different names in different languages? That is possible, but it obscures interlingual connections, and I would prefer to do that only if we have a very pressing reason to do so. 
+
+It allows for the transitive verb to be passivized, and it then becomes the subject if the meaning of the sentence is to remain intact (the cat likes me => I am liked by the cat, but she remained a cat => *a cat was remained by her ). 
+
+D. It cannot take an object. Note that the same verb can be a copula in one sentence and a transitive verb in another, if it is used with a different meaning / predicate frame. 
+
+A note on clauses It appears that two current definitions exist. Some branches of linguistic studies and disciplines use the strict definition of clause, which is "a finite verb and all its dependencies, including its subject". 
+
+1.) All the finite forms of a verb. 
+
+Normally a copula should fulfil all these criteria. I think it is safe to say that this is quite a reliable test to exclude transitive verbs. 
+
+Because of this, many linguists have resorted to using the present tense v. the (synthetic) past tense as a more practical way of distinguishing between finite and non-finite forms. English doesn't really have endings that can be conveniently separated from tense, so a problem as with the Greek optative endings above (which have no tense) does not occur in English. So a way to test whether a verb form is a finite form or not is by testing whether it can be put in the (synthetic) past tense and present tense without changing the structure of the sentence. He goes to school => he went to school: that is possible, so it must be a finite form.

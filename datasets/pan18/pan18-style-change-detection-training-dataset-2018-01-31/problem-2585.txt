@@ -1,0 +1,23 @@
+The answer to this question very much depends on who's asking and why. And what stage of your linguistic studies you are at. 
+
+But today, I would be more interested in discussing with how various linguists' theoretical preoccupations direct what they study and how. For instance, in order to understand the divide between the Chomskean tradition and the rest of linguistics, theoretical concerns are paramount. Like many social sciences, linguistics has a bit of a science envy, which can lead to overcompensating with formal approaches that obscure more than they reveal. 
+
+The reading I might recommend at this stage is Stephen Pinker's Language Instinct (although I completely disagree with his conclusions, it is a good initial overview). 
+
+It might also be useful to distinguish linguistics from philology - the latter dealing with a description of specific languages and from pedagogic or prescriptive grammar. 
+
+And if you wanted to get more in-depth: 
+
+For the lay person, I'd start with James McCawley's "To ask a professional linguist how many languages they speak is just like asking a doctor how many diseases they have." This pointing to the dual meaning of the word 'linguist' in English but also to the fact that theoretical linguistics is concerned with general principles common to all languages. 
+
+Some authors who addressed this (off the top of my head): 
+
+The definition I would have parroted back to a professor during my undergraduate studies would have been something like: "Theoretical linguistics is characterized by a concern with general principles governing how language works using methods including corpus analysis, contrastive analysis, psycholinguistic experiments, etc.)." 
+
+To perform this kind of analysis, first you must determine which sounds are constrastive in the output. For example, in English, [pʰ] and [p] are not contrastive, because [pʰæt] and [pæt] "pat" are judged to be "the same" word by (most) native speakers (even though [pæt] would be ill-formed). However, in Hindi, [kapʰi] "coffee" and [kapi] "copy" are two separate words. The generative hypothesis is that each set of non-contrastive sounds is stored as a single unit in the brain, called a phoneme (in slashes), which is transformed into a final form (in brackets) passed to the articulators by a series of serially-ordered rules or simultaneous constraints on the possible output forms. 
+
+In linguistic description, the "broad" and "narrow" designations are defined somewhat loosely, generally according to whatever convention the linguist reporting the language feels is most useful. Under the Generative Phonology framework, however, these are assumed to represent two distinct stages of phonological processing, each with a psychological reality. Square brackets denote the final stage of processing (which is sent to the articulators), called "phonetic transcription", while slashes denote the form stored in the mental lexicon (stripped of all predictable information), called "phonemic transcription". 
+
+For example, in English, voiceless plosives are aspirated word-initially and in stressed onsets. Thus, a narrow transcription of "cool" might be [kʰul], while a broad transcription would be /kul/. Similarly, "lack" could be represented as [læk] and /læk/ - note that broad /k/ can become narrow [k] or [kʰ], depending on its position in the word and surrounding sounds. Because this information is predictable by the above rule, the aspiration is left out of the broad transcription. 
+
+You're absolutely right - the choice is completely arbitrary. Generally, before the publication of The Sound Pattern of English (Chomsky & Halley 1968), whichever underlying representation required the fewest number of rule derivations to produce the output forms was chosen, i.e., whichever was the most elegant.

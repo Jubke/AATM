@@ -1,0 +1,47 @@
+Gettier Problems arise from Gettier's critique of the Justified True Belief account of knowledge; according to this view, 
+
+Popper is right when he says that refutation is the driving force in the progress of scientific theories. But Popper's critics are also right in saying that the scientific community give up a theory only when it has found a better one. 
+
+The justified true belief came about, as the result of entailment (the inference licensed by disjunction introduction) from justified false beliefs that "Jones owns a Ford". 
+
+All the oppositions presented by nature exhibit this fundamental dualism. Light and dark, day and night, east and south in opposition to west and north, represent in imagery and localise in space the two contrary classes of supernatural powers: on one side life shines forth and rises, on the other it descends and is extinguished. 
+
+What the scientific community (and mankind in general) never give up is the metaphysical assumption that regualrities and causal connections are "out there" and that we can describe and explain them. 
+
+JTB is a tentative account of knowledge which try to address this issue. 
+
+The dispute his a fundamental one in modern philosophy, and culminated in the kantian attempt to synthetize the two points of view. 
+
+"british" empiricists : Locke, Hume. 
+
+If you are following Russell's Introduction, I'm not sure that we can find a Theory of Knowledge in the Tractatus... According to your indications, it must be section 2.0. 
+
+On this issue, a good recent book is 
+
+But the issue regards the "belief" involved in the definition : today we know that A's point of view regarding the possibility of achieving "absolutely" certain first principles to be used as starting points for science and knowledge is difficult to maintain. 
+
+In fact, Jones does not own a Ford, but by sheer coincidence, Brown really is in Barcelona. Thus, Smith had a belief that was true and justified, but not knowledge. 
+
+Assuming that it is equal to c, here we have to start from the so-called real line; what is the role of a "continuous" magnitude in our thinking ? We need it "only" inside mathematics ? 
+
+The preponderance of the right hand is obligatory, imposed by coercion, and guaranteed by sanctions: contrarily, a veritable prohibition weighs on the left hand and paralyses it. The difference in value and function between the two sides of our body possesses therefore in an extreme degree the characteristics of a social institution. 
+
+Saying that you are "committed" to them by the "authority" of the mathematical community, it seems to me incorrect : see modern interset in non-standard or "deviant" logics, and see the richness of alternative axiomatizations of set theory. 
+
+In this way, mathematics is the set of logical truth of the form (=> is the connective "if ... then ...") : 
+
+In addition to AW Moore, The Infinite (1990), I suggest also Shaughan Lavine, Understanding the Infinite (1994). 
+
+According to Ian Hacking, Searle's book The Construction of Social Reality (1995), is not a social construction book at all. For sure, Searle is not a relativist. 
+
+In mathematics, in general, you can see axioms in two ways : 
+
+You can see the (old but still authoritative) book of Benson Mates, Stoic Logic (University of California Press, 1953) at pag.84, on the Liar Paradox in Stoic Logic. 
+
+From Hans Reichenbach, The Direction of Time (1956 - Dover reprint), page 10 : 
+
+The dabate between Rationalism and Empiricism dates back, in modern times, to XVII century : 
+
+Analysis of the characteristics of the right and the left, and the functions attributed to them, has confirmed the thesis of which deduction gave us a glimpse. The obligatory differentiation between the sides of the body is a particular case and a consequence of the dualism which is inherent in primitive thought. But the religious necessities which make the pre-eminence of one of the hands inevitable do not determine which of them will be preferred. How is it that the sacred side should invariably be the right and the profane the left? 
+
+We have "specified" in a easy and understandable way the set N of natural numbers, which has infinite (exactly : countable many) elements.

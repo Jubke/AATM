@@ -1,0 +1,73 @@
+From my own notifications, I could find the following: 
+
+Such suggestions should be rejected and even edits rolled back unless done by official Stack Exchange employee. (Who will usually erase the original revision itself leaving no trace of the code) 
+
+Other answers here are correct, I just want to clear a confusion caused here. 
+
+Nope, resized images still can't be transparent. 
+
+I clicked "Sign Up" and provided name and email (same email from which I sent the request) however was greeted with: 
+
+This message appears all by its own after I leave the browser open for some minutes (~5) and coming back. Clicking the message is displaying the new question, same result as reloading the page. 
+
+​ot rè̑ͧ̌aͨl̘̝̙̃ͤ͂̾̆ ZA̡͊͠͝LGΌ ISͮ̂҉̯͈͕̹̘̱ TO͇̹̺ͅƝ̴ȳ̳ TH̘Ë͖́̉ ͠P̯͍̭O̚​N̐Y̡ H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘ ̶̧̨̱̹̭̯ͧ̾ͬC̷̙̲̝͖ͭ̏ͥͮ͟Oͮ͏̮̪̝͍M̲̖͊̒ͪͩͬ̚̚͜Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ 
+
+I don't have email/password account of that kind, and couldn't see any option to log in using OpenID, even Stack Exchange OpenID, as in the real Stack Overflow site. 
+
+That is not true. ale did not explicitly edit, but rather it was an edit conflict. That's what happened: 
+
+I am not challenging the change, just curious to know the reasoning behind it, what motivated such a change, and whether it's successful or not e.g. more incoming traffic from the portal to sites needing traffic? 
+
+I know I can see all my comments via my profile --> Activity tab. But right now in order to see if someone else added a comment (for example: OP asks a question, I ask for clarification in comment and then I want to see if he answered) I have to go to each question separately and search for new comments made there. 
+
+"A user has already signed up with the given email"?? But not me! 
+
+So, I just saw this in The Tavern: 
+
+90% of those ads belong to Careers, which is also good. 
+
+My question is: do you have any faster way to see comments made on my comments, or added to questions I commented on? 
+
+I pressed the "edit" link and started editing. While I was editing, ale pressed the "edit" link and started editing. Note he was editing the original post. I submitted my edit, where "SO" became "Stack Overflow", and other changes. ale submitted his edit, where he simply forgot/did not change "SO" to "Stack Overflow", so the "SO" part was still there. ale's edit "overwrote" my edit since we both have full edit privileges and his edit was more substantial. My edit was essentially lost. The similar parts are just coincidence, parts we both edited the same. 
+
+http://stackexchange.com/ went through a major change somewhere between June 11th and June 12th according to the Wayback Machine. 
+
+However, 1 out of 10 times I get such and ad, which is just a plain image which directly links to http://careers.stackoverflow.com/: 
+
+If there is really copyright violations, DMCA request should be submitted directly to the team as described in the terms of service in section 15, "Copyright Policy". 
+
+From responses here and in chat, looks like it affects only part of the users, while others see the messages in the correct order. So I guess it's something with the cache servers. 
+
+90% of the Careers ads are served via adzerk, e.g. this one: (full link) 
+
+At some point a field IsAnonymous was added as well, to let us know when the vote was cast by a logged in user with less than 15 reputation. At this time (September 2016) there are about 800,000 such recorded votes. 
+
+Clicking around on sample profiles, I noticed most have the default gravatar picture, but some don't have that default gravatar, leaving just a blank space there. 
+
+Such requests should be done in private with the team, not like this. 
+
+I don't have anything against the ad itself which is nice however, I see possible issues with this: 
+
+What black magic is involved here? 
+
+Does this have any meaning? Or is it just me being too nitpicking? 
+
+I believe the notification about edited post is new since moving the notification to the Stack Exchange™ MultiCollider SuperDropdown™ so assume there might be more. 
+
+The second message was posted before the first, yet appears after that message. 
+
+Note, it's not relevant for answers, only when I added a comment without a full answer. 
+
+The normal ads open the target site in a new tab, the direct non adzerk ad in the same tab. It can be unpleasant surprise. In the normal ads, I can click "like" or "dislike" and it affects how often I'll see them in rotation. The direct ad, being plain image, doesn't have those icons. I assume adzerk is used for a reason, e.g. tracking popularity of ads, so Stack Exchange is not getting this information for those direct ads. Is there a reason behind this? Or just some oversight? 
+
+Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞Ẁ̰̲̞̠͇̯̯̟̠͍̻ͬ̐̀̓̓́͆̄̒̉́͢Ţ̐͆ͭ̈́̾͆͂ͧ̿͐͐ͤ̈́ͩͪͪ̒̄̚͟͜҉̫̞͓͙ͅF̶̛͕̫̦̩̳̈̈́̃̇̈ͫ̏̌ͧ͊ͪ̿̍́͜͞ 
+
+(last month doesn't really count as it's not yet finished) 
+
+Not giving up yet, I reached https://stackexchange.zendesk.com/auth/v2/login/password_reset and filled my email, got the promising "Email sent" message.... but no email landed in my inbox or spam folders. And that is where I gave up and decided to post here. 
+
+Of course I clicked the "View ticket" button, just to reach a dead end: (on https://stackexchange.zendesk.com) 
+
+Just noticed this here on Meta: 
+
+Another interesting query is Anonymous feedback votes over time, showing steady increase in votes:

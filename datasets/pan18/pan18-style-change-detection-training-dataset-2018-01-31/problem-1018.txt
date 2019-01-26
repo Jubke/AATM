@@ -1,0 +1,17 @@
+How could the chat moderation system be changed to address this issue? The current system was designed for very fast response times, which can be necessary in a realtime medium. How could we still keep the fast response times but avoid broadcasting the drama across the entire SE chat? 
+
+I'm not proposing any hard number, that should be done by evaluating all the existing successful betas, but I'd estimate something like ~15-20 users at 3k+ that have been active in the last month. Enough to handle most closings by the community without the diamond moderators. 
+
+Too many users getting involved often just makes it worse, and it also leads to endless discussions on what exactly went wrong this time, who's fault it is, why the mods are abusing their powers and why the chat flag system sucks. 
+
+Your paragraph on "be honest" represents quite a departure from the way this was handled in the past by moderators. In most cases, the answer to suspensions has always been "no comment", regardless of the amount of drama a suspension caused. 
+
+In your specific case I can't actually see how this would have worked, though. I don't see enough personal information in your profile. 
+
+I've never heard of a case where a high-rep user was hacked by a spammer, I don't think wasting the time of a lot of users due to a largely theoretical concern is a good idea. The other two cases are real dangers that happen reasonably often. 
+
+But do we actually need Captchas for established users? I certainly see the need for them for unregistered or relatively new users, but for high reputation users there are only three scenarios that I can think of where they might be useful: 
+
+I agree that some rate-limiting is necessary even for trusted users to prevent certain kinds of abuse. But I do think the limits should be implemented differently than they are currently, and I'd even go as far and to discontinue Captchas for reasonably high-rep users entirely and replace them with hard throttling. Of course this would be extremely annoying with the current limits, they would have to be implemented in a way that users would not encounter them during normal usage of the site. 
+
+The important part when providing links to resources that are not freely available is that the content of the answer must be a complete answer on its own. Linking to additional information that is behind a paywall is acceptable in my opinion. But a link-only answer that leads to a paywalled article is not acceptable, it is useless to most users.

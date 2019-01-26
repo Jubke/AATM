@@ -1,0 +1,25 @@
+It is more complicated than a merely instrumental/metaphysical division. The "logics as mere instruments" were not meaningful until well into the 20th century, after the general disillusionment in foundationalist epistemologies, and the subsequent pluralism of formal systems and interpretations. Originally, Logic meant the study of Logos, reason, its laws, how it functions, etc., the meaning closer to what we now call epistemology. This is how Plato, Spinoza, Leibniz, Kant, Hegel, Peirce, Husserl, etc. understood Logic, and it is closer to what is now called epistemology, although "logic" is still used in the old sense by some continental philosophers (Adorno, Deleuze). When Boole, De Morgan and Peirce produced first logical algebras they were just formalizing some aspects of that grand Logic, not shattering it into multiple mini-logics. Indeed, the logicism of Frege and Russell, the idea of a universal logical shell, was a derivative of this grand meaning, only they dreamed, along with Leibniz, that human reason, or the scientific side of it at least, could actually be formalized wholesale. In Carnap's late version of logicism, following the foundational crises in both physics and mathematics, this universal shell was already shattered into multiple "linguistic frameworks", but still with the analytic/synthetic distinction left in place. 
+
+How would a set of fundamental mental laws or dual substance laws be any different from physical laws? If an idealist reductionism is as atomistic as a physicist one, then how is it any different? Would it have to include intention and teleology? 
+
+It seems to me very easy to explain care for the dead as an evolutionary spandrel, i.e. an unintended side effect of naturel selection: 
+
+If you resort to older definitions of philosophy, when the natural sciences were considered part of philosophy, then the answer would be different. Questions in physics and mathematics might - emphasis on might - be independent of the human observer, but not questions of philosophy. 
+
+Quantum randomness follows objective probabilities because of the wave function, which gives a quantifiable measure of the probability of each outcome. Again the mathematics of quantum wave functions have been validated successfully by experimental means (they are the basis of the C-mos circuits which constitute whatever device you are accessing Philosophy SE on). 
+
+But modal arguments that end with a mere possibility of something are not very interesting. Under different physical laws faster than light travel is possible. Perhaps it is even "metaphysically" possible for a mind to be disembodied. But so what? It is when possibility is used as a premise to draw conclusions about the actual that they show real bite, e.g. that mind and body are separate entities because they are possibly so because we can imagine them so. And as van Inwagen points out thereby lies the problem: 
+
+There was one issue discussed by scholastics that may have a bearing on the OP question, the issue of change in death. The form is supposed to be unchangeable, it is matter that changes in form-matter composites, or put differently, only the accidental part of the form. So what happens to the form of the body when its "principle of life" departs? To answer some postulated multiple substantial forms, which fueled the debate between unitarians, like Aquinas, and pluralists, like Ockham. The latter posited three distinct substantial forms within a human being: a rational soul, a sensory/nutritive soul, and the "form of corporeality", which makes the body "bodily". Here is Pasnau: 
+
+You touch upon the fact that there is a hierarchical relationship between observer and observed, with observer being at a higher level since she/he does the observing, while the observed is the object of the observation, and is thus at a lower level in the hierarchy. 
+
+It is still possible for a non local hidden variable theory to reproduce the results of quantum mechanics. We would eliminate the quantum randomness, but at the cost of removing locality as well. 
+
+How would a set of fundamental mental laws or dual substance laws be any different from physical laws? If an idealist reductionism is as atomistic as a physicist one, then how is it any different? Would it have to include intention and teleology? 
+
+Colloquially we often speak of ideas having causal relationships: 
+
+So what makes substance dualism metaphysically different from scientific theories which describe different categories of substances? 
+
+That these propositions are objectively true (independently of any subject) would make them true facts about the world, but they would be independent of any physical facts as well. Wouldn't this amount to a form of dualism or platonism? Is this what Kant meant by "metaphysics of morals"?

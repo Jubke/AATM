@@ -1,0 +1,47 @@
+The solution to this would be a combined search: Find only answers matching certain criteria, in a question matching certain other criteria. 
+
+It seems to happen both when logged in as myself, and when not. Can anybody else reproduce this? 
+
+Yes. How can you treat so badly your users from a country that invented a waffle variation as beautiful as this? (Yes, apparently we came up with the heart-shaped waffle.) 
+
+I am in an Internet Café because roadworks in front of the house damaged the phone cable. 
+
+I feel this is something SO simply should have as a growing major resource on programming, no matter whether the feature is going to be used ten times, or ten thousand times a year. 
+
+As TRiG mentions in the comments, the name could be retained completely using percent encoding: 
+
+I sucked a lawyer's toes once and her powers were transferred to me. That's how it works, right? 
+
+Can you tell me more about my twin? Is he the evil twin, a representation of the dark side of the soul that every human being has? Or do I need to talk to my parents about the exact circumstances of my birth? 
+
+I got a heap of strange undownvotes yesterday: 
+
+This functionality does not add anything dangerous that you can't do already. It just helps automate a terribly, terribly dreary task and this is needed! Let's face it: We have 4,000 new questions a day, and not enough users, time, nor the inclination to deal with every one on an individual basis. That includes comments about frequent mistakes in posts. Either we use an automated tool to deal with the most common patterns (like in PHP, the eternal "you are not escaping your mySQL data. Use prepared statements or escape your input using ....."), or many mistakes will simply go uncommented. 
+
+And to those fearing that this tool would encourage hasty, incorrect comments: The same thing already happens every day - just with much more cryptic messages like "escape your input" or "use xyz library" that more often than not, leave the OP baffled and none the wiser. 
+
+To wit, this is what my profile looks like with and without my favourite SO answers. 
+
+That means that we, who license content to Stack Exchange, are supposed to retain the rights to our own work, to publish it whichever other way we please, for example on our blog, without having to attribute Stack Exchange. 
+
+The same might have happened for two other invitations I sent out. 
+
+It would be more internationally friendly. A transition process could start changing the profile URL the next time the name is changed (for example). 
+
+I learned yesterday that the invitation never arrived - it probably got caught in a spam filter. 
+
+Seeing as the numerical ID is used to look up the record, and the real name is there for human eyes only, this shouldn't be a huge problem. 
+
+How about not making it entirely free though, to keep a tiny safeguard in place? Like, making every 5 or 10 downvotes cost one point? 
+
+Disclaimer: I am eight lawyers. 
+
+How about expanding the scope to: 
+
+The layout in the new "answers" view (and only there!) could look like this: 
+
+The new way of vote messaging doesn't tell me when I am about to reach my answer vote limit. Reaching the limit comes as a complete surprise. 
+
+In addition to that, it might be useful to know which questions in the list have been used as originals to duplicates in the past, and how often. 
+
+The team has a way to track how the solution works, and what kinds of comments are being emitted this way.

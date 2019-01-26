@@ -1,0 +1,45 @@
+P.S. If this is the correct definition of ScrumBut (ScrumButs and Modifying Scrum) then I didn't see anything wrong with this. If a programmer stands up and says, "Today, I will finish the data storage module," everyone knows that in tomorrow's meeting, he will say whether or not he finished. This has the wonderful effect of helping a team realize the significance of these commitments, and that their commitments are to one another, not to some far-off customer or salesman. 
+
+Looks like that your process adheres agile approach. But there are too many details, that you didn't describe. Scrum Master must have enough authority in organization for these activities. And more deteils from ExtremeProgramming.org: 
+
+Find "verbs" dependencies and put them in a timeline. - i.e. GANT diagram 
+
+Estimate "verbs" considering risks. 
+
+Also, Daily Scrum provides capability to inspect Sprint Progress and adapt Sprint Backlog with daily plan (daily plan is not Scrum term, but Scrum Team always have it, doesn't matter explicitly or implicitly). 
+
+If development process has iterations, this mean only that you use Iterative Development Model. Development process based on Iterative Development Model may be not agile, but agile process should use iterative development model. As you can see, it is more complicated than initial story mapping, and looks more like “heavy waterfall” style, than “agile” style. As I understand Agile philosophy, accuracy of estimation of final release date is not high priority, because "responding to change over following a plan". Story Points (SP) is a good measurement, that allow to estimate User Stories. 
+
+Ok, you said, that customer can change unfinished features, but can he change requirements to functionality, that you are already implemented? 
+
+All is good with pit digging. But what if the next story is "catching of an elephant"? So, if you already implement some feature, but Product Owner want to change or improve it, I don't see any problem for closing this task and adding new PBI to Product Backlog. 
+
+SP (in my understanding, it's important note) is convenient because it is relative and not related with time. All estimates are based on comparison with common basis. But what if two stories have completely different bases? 
+
+Each system (product) goes through several phases during it life. This always happens and is not dependent on methodology. 6) Vote. Each participant is given two votes (or three, depending on the size of your group). Simple dot-voting is quick and effective. Note that you may cast all your votes on one topic or spread them across multiple cards. If you have such strict time limitation for retrospective, then lean coffee format is that you need (by my opinion, of course): 
+
+If your working area is software development, then the definition from JIRA golossary may be more understandable for you: 
+
+7) Prioritize the cards based on the voting results. Rank the more popular topics higher in the backlog (the “To Do” column). So, as roles "Scrum Master" and "Product Owner" are on the same hierarchy level. But persons, who play this roles, could have job positions on different hierarchy level. 
+
+Ok. You have an one week iterations. This principle passed =) Points stories is not for exact measurement, story point is for relative measurement. While we using Story Points, we can talk that this Story is bigger or harder than another Story, but we can't be sure how much exact time we will implement it. 
+
+In really, I don't understand, why Daily Scrum with Three Questions should be a sign of team immaturity. Before answering your question, I want to make two comments: 
+
+According to Scrum Guide Scrum Master should: Team commitment, constraints of budget and time. I had one fix-price project (in truth two). Yes, we had strict limitations during these projects. But customer couldn't change already agreed SRS (in truth, he could, but it was additional pain and money for him and more time for us). And, obvious, our development process in that moment was not Scrum, but it had some of Scrum characteristics. 
+
+First solution: it will motivate Team to hurry up. But demotivate, if team will not doing all planned work. By my experience, second case happen more often. 
+
+This is a good article (by Craig Larman and Ahmad Fahmy) which describe this problem in real-life situation. Decompose scope to "nouns" (deliverable items). - i.e. WBS structure 
+
+If technical skills of developer are very rare and specific and this developer hasn't full-time employment on one product, can he work with other product inside other Developer Team at the same time? The same problem with Tracker. Who should be the conscience of team? Scrum Master or it's better to appoint this to another person? Going back to the planning list: in Scrum we implicitly did 1-3 steps during initial Release Planning and steps 4-6 during each Sprint Planning. I suggested to do all these steps during Release Planning explicitly. I suggested they do following: 
+
+For simplicity, let's look for example that is not related with any specific area. Like digging a pit. 
+
+In reality, I don't see the problem here. Frequent changes are absolutely normal for Agile. Even more, this is a part of Agile. You can't make part of product "at all". There is always a chance that there will be new requirements for this part. Second principle of agile is: 
+
+8) Now that you have a democratic agenda, move the top item into the middle (“Doing”) column. 
+
+Reporting inside Scrum Team is unnecessary. Scrum provide good transparency of whole process and participating in prescribed Scrum Events cover all reporting needs. Product Owner could reporting outside Scrum Team, but description of it goes beyond of Scrum. 
+
+And of course, Daily Scrum is not Daily Status Reporting Meeting. It's for Team synchronization, not for team members reports to managers. If your Daily Scrum have trend to "quickly degrade into a status session", it's not a problem of Daily Scrum, but it's the problem of your Scrum Master.

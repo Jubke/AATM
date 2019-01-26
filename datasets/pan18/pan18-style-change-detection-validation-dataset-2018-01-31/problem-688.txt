@@ -1,0 +1,31 @@
+I'm playing around with C++/CLI, using the MSDN documentation and the ECMA standard, and Visual C++ Express 2010. What struck me was the following departure from C++: 
+
+In other words, do managed objects "live forever" and can have both their destructors and their finalizers called over and over again? 
+
+Is this actually undefined behaviour? 
+
+I would like to ask for clarification, confirmation and corrections on my understanding of character handling in C (and thus C++ and C++0x). First off, an important observation: 
+
+Following many very nice comments I'd like to add a few observations: 
+
+The only reason not to always pass by value is that copying a shared pointer comes at a certain price on account of the atomic reference count update; however, this might not be a major concern. 
+
+In response to @Hans's demand for a non-trivial class, you may also consider this version (with destructor and finalizer made to conform to the multiple-call requirement): 
+
+Java envisions a fairly systematic, object-oriented programming model, and all class-based types are essentially always handled through a pointer, and so this fact isn't exposed to the user at all. 
+
+That's indeed the idea. The point is that you are explicit about what you mean, so that an otherwise silent error can be diagnosed: 
+
+An entity is captured if it is captured explicitly or implicitly. 
+
+The C++ standard contains a semi-famous example of "surprising" name lookup in 3.3.2, "Point of declaration": 
+
+Question: Does this dynamic dispatch get optimized by the compiler? If not, is there any way to rewrite the code to force this optimization, or at least enable the compiler to recognize this? Is there any good test code that can tell me quickly whether this is getting optimized already? 
+
+With unordered containers, I have no idea. 
+
+Does any C++ compiler optimize dynamic dispatch out of a loop? If not, is there any kind of construction that would allow the author to force (or strongly encourage) such an optimization? 
+
+(I do really have a situation in which I would like to initialize a vector of tuples with a defaulted element value which I would prefer to construct directly from the arguments, without spelling out each tuple element type again.) 
+
+[Edit: I believe the main difference is usually described as follows: A C program has fewer, larger, long-lived allocations, while a C++ program has many, small, short-lived allocations. Feel free to chime in if that's mistaken, but it sounds like one would benefit from taking this into account.]

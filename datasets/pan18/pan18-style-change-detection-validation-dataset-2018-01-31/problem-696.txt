@@ -1,0 +1,17 @@
+Since performance is almost the same for 20 or 200 concurrent users, we don't need to spend huge amounts of time "tweaking". Instead we simply need to keep our base performance up through ordinary SSL performance improvements, ordinary database design and implementation (indexing, etc.), ordinary firewall performance improvements, etc. 
+
+We're doing load testing now. We think we can support 240 concurrent requests (a sustained rate of 120 hits per second 24x7) without any significant degradation in the server performance. That would be 432,000 hits per hour. Response times aren't small (our transactions are large) but there's no degradation from our baseline performance as the load increases. We're all in one VM on a 64-bit Dell with (I think) 32Gb RAM. 
+
+Doesn't too much matter. Whatever makes you happy will work. There aren't a lot of silly rules because Python projects can be simple. We're using Apache front-ending Django and MySQL. The OS is Red Hat Enterprise Linux (RHEL). 64-bit. We use mod_wsgi in daemon mode for Django. We've done no cache or database optimization other than to accept the defaults. 
+
+mixedCase is allowed only in contexts where that's already the prevailing style This is done explicitly in the view. No hacking around. 
+
+For example, you're working on something that reads spreadsheets, does some calculations and loads the results into a database. What do you want your main program to look like? We've been using this test procedure for quite a while. Currently, it's stopped working. We've made numerous code structure changes, upgraded to Django 1.1.1 and Python 2.6. All are possible culprits. Use a license key which expires. This is cruel, and will give you a bad reputation, but it certainly makes your software stop working. "Is there a good way to handle this problem?" No. Nothing can be protected against reverse engineering. Even the firmware on DVD machines has been reverse engineered and AACS Encryption key exposed. And that's in spite of the DMCA making that a criminal offense. 
+
+Offer upgrades and enhancements that make any reverse engineering a bad idea. When the next release breaks their reverse engineering, there's no point. This can be carried to absurd extremes, but you should offer new features that make the next release more valuable than reverse engineering. ForeignKey is represented by django.forms.ModelChoiceField, which is a ChoiceField whose choices are a model QuerySet. See the reference for ModelChoiceField. 
+
+Update. The error messages are... 
+
+I'm trying to launch Django through the runfastcgi interface (per the FastCGI deployment docs). Fedora Core 9 seems to have FCGID instead of FastCGI as a pre-built, YUM-managed module. [I'd rather not have to maintain a module outside of YUM; so no manual builds for me or my sysadmins.] Java uses interfaces because it doesn't have multiple inheritance. Since no technical method can stop your customers from reading your code, you have to apply ordinary commercial methods. Has anyone copied their library? Is it that simple? 
+
+Fedora Core 9 includes Python 2.5.1. I can use YUM to get latest and greatest releases. I've got several sites, each with a distinct settings file -- and with distinct names. There's a floral theme to all the variant settings. We have to keep the sites separate.

@@ -1,0 +1,19 @@
+So, it's fairly simple: just tag all entities with an Age of 0 as an adult. 
+
+So this method isn't by any means easy, but it's no worse than some of the other command block solutions I've come up with in the past. 
+
+While it's true that functions don't take any inputs or return any outputs, there are ways to fake it. A good way to conceptualize it is to look under the hood of how a language like C++ actually does function calls. Take this function declaration: 
+
+First things first, though, I'm doing this in 1.9, but the commands will work fine in 1.8, with a little adjustment and a 20Hz fill clock. 
+
+Next, you'll need a scoreboard objective to hold the current day time: 
+
+And this is really something that should be on a clock anyway. Maybe even the fastest clock available. A fill clock. If you are using command blocks in a map, then there is no reason at all for using anything other than fill, setblock, and falling sand clocks. Your apprehension to using a clock or timer is probably because traditional redstone clocks caused a lot of server lag. But redstone dust itself is evil, and not the clock it made up. Fill clocks do introduce some lag, but it's not nearly as much as traditional redstone dust clocks. At this point, pretty much every command block heavy map runs on fill clocks. If you are making a map that uses at least a dozen command blocks, you're probably going to need a fill clock. 
+
+So, all friendly mobs will have an Age of 0 unless they're either a baby or were recently bred. This means we can easily tag them with a scoreboard value. Now we won't get newly minted parents, but if we use version 1.9 (or, at this point, the snapshots for 1.9), we don't have to worry about that, since we're going to tag all adults ready to breed. Even after you breed them, they'll still keep their tag; adults can't turn back into babies, so there's no reason to remove the tag. 
+
+So my comment above was wrong, this is doable, albeit with a caveat. The important thing to realize is what the Age tag actually represents: 
+
+The next three commands manage the 2 second timer and dole out the arrows. In 1.9, the first is unconditional, while the other 2 are conditional. For 1.8, you can use comparators off each side of the first command block, but this is a little inelegant. 
+
+SirBenet's answer made me realize I could simplify things a little (well, a lot): I don't need to actually tag friendly mobs, I can just do a data tag check instead:

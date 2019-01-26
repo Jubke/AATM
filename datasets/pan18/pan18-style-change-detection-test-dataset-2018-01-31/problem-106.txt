@@ -1,0 +1,33 @@
+* According to the wiki. However, I have not been able to observe the unloading of the chunks on 1.8.7 in a singleplayer test world. IIRC SP is functionally identical to MP. 
+
+Click on Search → Chunk Finder.... Enter the X and Z coordinates you wrote down into "Chunk" and click Find Chunk. 
+
+In this case, the minecraft launcher needs to execute javaw.exe from the minecraft directory, rather than the java installation folder, something like: Kind of in 1.9 However, as part of the new Snapshots/Upcoming version 1.9, Mojang Dev Grum (Erik Broes) has worked on rendering all item on entities and published a world showing off zombies wearing items, including flower pots: 
+
+I also ran some tests in the 1.9 pre-release right now. I created a 3x4x3 obsidian box with water at the bottom (to prevent burning), and a single block window at one side as well as the top open. The window was used to trigger a set of command blocks to teleport me into the center of the box and summon a Fireball with Explosion power 3 above myself, heading downwards: Put them in the Spawn Chunks The Spawn Chunks are a 16×16 set of chunks centered around your world spawn. These chunks are loaded at all times, unless no player has been in the overworld in the last 60 seconds*. 
+
+PATH is a list of directories (or paths) in which your OS is supposed to look for executable files (like *.exe) when running things via the command line, if it is not in the current working directory. The blank map can be activated by right clicking it, which turns it into a map at the most zoomed in level (1 px/1 block) Once installed it has a very simple chat interface: I'm going through my rail network, replacing boosters with powered rails. However I'm finding that unlike boosters, which 'break' the laws of minecraft physics (by giving the cart much more momentum than its speed should allow), powered rails can't propel carts over very long distances, and it seems that even making a very long boost doesn't help this. 
+
+What are the new conditions that a block can be set on fire? 
+
+Using the chunk tool, completely delete the missing chunks 
+
+Reload your chunks Press F3 + A I can shoot pigs, sheep and cows with a bow when they're in minecarts, but I'm having difficulty shooting chicken. Is it even possible? I can only hit the minecart. Notch has changed the way fire behaves. It appears that previously unreachable blocks are now in danger of being set on fire! In particular, those that have no direct contact with the fire block itself: The size of any single ocean is limited by the maximum size of a biome, meaning oceans in the region of ten thousand blocks wide and long (source). If you've travelled 15km North-East, you should be arriving at land soon, unless... 
+
+Reopen Minecraft and it will regenerate the missing chunks 
+
+Of course, in newer versions if you choose the 'Large biomes' option when creating your world the oceans will be much larger still! The number of seconds we want to count is 43200. This can be expressed as 2^6 x 3^3 x 5^2, or 64 x 27 x 25. These three coprime numbers can be used as the times on three timers, with the results anded together. They will then only all pulse in step once every 12 hours. 
+
+The fastest way to travel upwards is on an upward slope of powered minecart rails. Notch has just implemented lightning. I'm now too terrified to open up my treehouse map in case a storm burns it to the ground! Is this possible? 
+
+Update I've un-answered this question and added a bounty to reflect the changes in 1.6. 
+
+Either they automatically float to the top at all times — most of them do — or they sink to the bottom. Iron Golems will for example will not even chase you into water because they can't swim at all and will sink like a rock. A quarry needs 22 EU/t to run at full efficiency. However, if you use conductive pipes, the Energy Link will drain a whopping 72 EU/t. I'm not sure if this is a bug, or if it's just that the Energy Link can't tell how much MJ the conductive pipes are going to need. Anyway, you should really place the link directly next to the quarry. Vanilla server commands related to saving/backups: The world data, which also includes player inventories, is saved to a folder in the current working directory of the server. 
+
+Another thing about it is that you can give the Energy Link a Redstone signal, which makes it stop converting energy. This allows you to turn the quarry on and off (with some delay though, the quarry has an internal energy storage). More detailed info: JAR File Specification To fill the entire rectangle, dump a bucket every other row on one side. The very edge block always has to be filled. It used to be possible to get water into the Nether with this, but as of Minecraft 1.3.1, ice blocks in the Nether simply disappear when they're broken (or when they melt from a light source). By deleting the META-INF directory, you remove the signature completely. Depending on your security settings, you might get an "unknown publisher" warning, but you'll be able to run it. 
+
+There is another block that does this, though! It's called an Energy Link, courtesy of the Power Converters mod, and it's a bit expensive. 
+
+Minecraft's data files are in a proprietary file format called NBT (named binary tag). 
+
+(Note that if you're playing Tekkit Lite, this block does not exist. However, you have access to several engines that can indirectly be powered by sunlight. Namely, the 4 different Electric Engines that run off EU – effectively replacing the one from Forestry – and the Blulectric Engine from RedPower that runs off blutricity.)

@@ -1,0 +1,15 @@
+Technical FAQ: Tire grip in wet conditions 
+
+Holes in tires can be "temporarily" repaired by applying an emergency tire boot (e.g., TB-2 Emergency Tire Boot) to the inside of the tire over the hole. These patches are stiffer than a regular inner tube patch (providing some structural integrity) and they should have a sticky compound on one side to help keep them in one place. They are also much cheaper than buying a new tire. Inner tube patches may not be stiff enough to support the break in the tire carcass, so I would recommend against taking this approach. 
+
+Where I found they worked well Here I disagree with Batman about not studded snow tires not being useful in snow. In the Pacific North West (PNW; or there about) the climate can be mild. When we do get snow, and the snow stays, many paths and trails can become compacted from foot traffic. The top layer can melt in the day and freeze at night. This can put a nasty layer of ice on the top of the snow. Here studded tires excel. 
+
+Tire Construction & Tire Pressure Traction is gained by the tire interacting with the road surface. If you have a very stiff tire (i.e., not supple) or pump it to a very high pressure the tire rubber will have a hard time interacting with the imperfections in the road surface providing less traction. In the wet traction is already reduced so this effect can become more important than in the dry where roads provide a lot of traction even under a bad setup. Finally as mentioned by Criggie, please consider patching the tube before replacing with a new tube. If you use classic glue on patches (not the glueless variety) these repairs can last years. If you need to replace, please consider recycling the old tube. 
+
+From Alex Brauns President, Challenge Handmade Tires As I said these tires are a luxury item in our climate. If you are dedicated to never miss a day commuting then they could be useful, or you could simply drive or take the bus on those rare occasions they are needed. 
+
+These typically will not have puncture protection, further adding to the suppleness. Lack of puncture protection is less of an issue in large volume supple tires, because the force placed on encountered objects by the tire is reduced due to the fact the tires flex easily and the tires are run at a lower pressure. This means the regular tire rubber is typically strong enough to resist the object and an extra puncture strip is not required. 
+
+There is plenty of discussions on the internet about larger volume tires actually being faster than narrower tires. For example, a recent Cycling Tips pod cast has a good discussion. However, real world experience will likely be the opposite due to the tire construction used on the majority of tires available in the market place. 
+
+Look to @Jackson's answer for some remedies (i.e., caliper alignment, are the pads fully retracting, getting the rotor trued).

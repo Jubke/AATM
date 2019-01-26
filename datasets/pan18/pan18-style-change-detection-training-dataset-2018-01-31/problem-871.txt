@@ -1,0 +1,33 @@
+There is no feedback about flags to the commenter, giving the process zero educational value. 
+
+It is also always perfectly legitimate for any user on the site to take the commenter's information, and turn it into an answer. (Of course, you need to make sure that it's a complete, good, and correct answer.) Of course, it's polite (and technically, even required) to credit the commenter in the answer. 
+
+Hide flagged comments quickly, before the deletion threshold is reached (say, after 2 flags) from the eyes of unregistered and low-rep users. This hides bad comments from the world but gives the community enough time to dispute bad flaggings. The comments stay visible to registered and higher-rep users; when enough flags have amassed, the comment gets deleted and becomes visible only to mods, just as it works now. 
+
+"RTFM" is rude, no doubt about it. However, links to the manual in comments are perfectly acceptable, and sometimes the only appropriate response to a question. 
+
+If you see such a thing, and the comment is the perfect answer to the question, you can suggest to the commenter that they provide a full answer. There are many good reasons to do that, for example the fact that comments are second-class citizens and may get deleted by moderators, or perhaps you have follow-up questions. 
+
+Clicking on that link makes the comment permanent, ie. it does not vanish when reaching the maximum lifetime. It works like all comments do currently. Other than that, it remains a perfectly normal comment. It can still be deleted by the author or by moderators, of course. 
+
+That means that if 5 users think a comment is snarky or rude, it can be hidden from the public and newbie users, who learn a site's style from the interactions that take place there. To everyone else, the comment would be greyed out, an indication that the community is unhappy with it. 
+
+Don't submit it, but leave the page by entering a URL in the address bar. 
+
+It's not terribly grave, but weird enough. Plus it can lead to awkward situations if a comment gets posted that you didn't want posted after all. Also I'd be curious to learn what's causing it! 
+
+Flagging removes a comment without notice when enough people are upset about its contents. It's a great tool and needs to stay. Downvoting would help express discontent with tone and contents in a much better way. Nobody likes to get downvoted, and if the community starts downvoting snarkiness, I'm sure it would effect a real change. 
+
+Many people use it to remove obsolete discussions without involving a moderator to do the cleanup. 
+
+Here's a concrete feature request. 
+
+As discussed repeatedly already, the following scenario happens a thousand times every day on Stack Overflow: 
+
+Cleaning up comments becomes less important. Mods have less work. 
+
+I'm against this - be it noise or not, a comment can be part of a meaningful conversation that would be rendered useless without it. 
+
+Make sure the comment is long enough to be submitted. 
+
+In general, however, as jmort253 points out, humour is welcomed as long as it doesn't distract from the issues. A question entirely designed for a laugh but with zero technical substance is likely to be closed and/or deleted, even by those who love humour.

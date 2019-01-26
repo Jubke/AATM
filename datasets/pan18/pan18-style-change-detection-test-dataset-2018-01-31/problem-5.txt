@@ -1,0 +1,37 @@
+The question about combining the Product Owner and Scrum Master is a frequent one. It's been asked here on Project Management Stack Exchange and here (by me) on Software Engineering Stack Exchange. Mike Cohn also wrote a blog post on the subject. Although the things done by the Product Owner and Scrum Master are typically done by someone in a Project Management role in other process frameworks, there are advantages to splitting up the role. I do think that a very skilled person may be able to be a Product Owner and Scrum Master, it's easier to ensure that all of the functions are being done at their peak by splitting them up to be done by two people. The Product Owner can focus on optimizing the product while the Scrum Master can focus on optimizing the team and process used to make the product. 
+
+Personally, until your organization and team understands the underpinnings of the agile methods and Scrum (the Manifesto for Agile Software Development, the 12 Principles of Agile Software), I would want to stick as close as possible to a framework (such as Scrum) and then explore the things that are and aren't working. I would want the Product Owner to be someone focused on the product, the Scrum Master to focus on the process, and the Team Lead to focus on the people (and, to be truer to Scrum, a member of the Development Team). The people in these roles should work together to maximize the effectiveness of the team, especially over time as the team and product change. 
+
+Second, if your company roadmap includes things like new technology development, technology acquisition, or any kind of transformation, you may want to plan spikes as appropriate to see how various projects can support this roadmap. You may also need to account for people supporting activities on the company roadmap, both technical and non-technical, which will take them away from projects and reduce project velocity. Of course, depending on your funding structure, you may need customer buy-in and support to add stories and tasks related to internal changes to project plans, which you may or may not get. 
+
+In both cases, your mileage may vary. 
+
+You specifically mentioned two things, so I'm going to focus on those in this answer. However, you can probably generalize for a wide variety of work. 
+
+Alternative one, you can check your historical data and see how long did it take to deliver a similar app, check the risks you see and provide an estimation using this. 
+
+If you don't have the improvements on your Scrum Board, they won't be visible, and this means that they don't exist (yes, you can have improvements on your Scrum board). 
+
+You have historical data about your team The only tool you have in Scrum to help this situation is your velocity. I believe you know your velocity - how many story points you do in a sprint -, check the product backlog and do planning on each user story. Using these two, you'll have an estimation on a possible delivery date. 
+
+Budgeting is an interesting question. A good Product Owner knows, that continuous improvements are crucial in Scrum - the framework is about continuous improvement - so it is not a question whether to have them or not. If you still have trouble, then you need to do more coaching and help people understand the importance of continuous improvements on each level. Doing them off the record is not a good idea, because then there is no real transparency any more, which eventually will lead to mistrust between the Product Owner and the Scrum Team. 
+
+In the first part, you do the idea collecting - nothing new here -, but in the second part you pick only one idea, which the team will implement during the next Sprint. In the third part, you do a planning meeting like session on how to implement that idea and bring the result - the tasks - to your Scrum board. It is highly recommended to timebox these parts so that you have enough time for the third part. 
+
+100% user story completion vs 100% productivity Think in terms of value delivered vs utilization. Goal of Scrum team should be to maximize output and not maximize utilization. Anything (whether a machine or person) working on 100% capacity for longer duration will eventually break. 
+
+Some reference about the use of MoSCoW in agile: 
+
+Feedback gets implemented based on the priority set by the PO. If PO wants a feature/story to be completed before the feedback items then the team will implement the feedback in a future sprint. 
+
+PO has to prioritize the backlog (the what part) where as the team decides amount of work that can be delivered in each sprint (the how-much part). Similarly PO provides feedback on the sprint during sprint review meetings and decides to approve or reject the sprint which has been delivered by the team thus causing conflict of interest. 
+
+http://scrumreferencecard.com/scrum-reference-card/ 
+
+Every task that the team is going to perform should be documented and accounted for in each sprint. Whether it is a user story, bug, or technical debt, every item should be assigned appropriate points so that the team continues to monitor its proper velocity. Another advantage of this is that all the stakeholders know that is being done and why. 
+
+Full utilization concept may fit well in the traditional project management domain. However, software development is usually not a predictable / well-defined process, it is more of an empirical process in which you may end up in a situation where you have to discard a full days worth of work and restart from scratch. People have to attend meetings, answer to support calls, etc. in addition to writing code. So it may happen that a story gets completed earlier than estimated (or may get delayed too). 
+
+https://www.mountaingoatsoftware.com/agile/scrum/daily-scrum 
+
+This is a lot of work for a PO which would require undivided attention. For highly aligned and high performance teams, Scrum Master role may need less amount of time but a PO will still have to spend similar amount of time regardless.

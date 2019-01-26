@@ -1,0 +1,19 @@
+There are two ways that this will go down. Either the user will improve their success rate by not making bad flags, or they will continue to get warnings and eventually suspensions for ignoring the warnings. In the case of the former, they have every reason to be getting more flags per day, because they won't have that abysmal success rate. 
+
+When your flagging style is of a consistently great yield such that you're well on your way to 500 weight, it's almost a foregone conclusion that you'll be at 500. The only thing holding you back would be the lack of flaggable content, which is a good thing for the site. Making the process take longer in response to doing well seems to be prolonging the journey for no real benefit. If all of your flags are excellent, does it really matter if it takes 1 or 20 to complete the last leg? In the end, your next 20 are all going to be great anyway. 
+
+I think your proposal is not a wise idea because it encourages stagnation of growth for low weight users and it, perhaps ironically, undermines the impact and meaning of flag weight as reliability. 
+
+I love the new moderator feature that alerts us of new questions on the Meta site we belong to. I always keep on top of the Gaming Meta while I'm online, but this does a lot to either speed up my notice, or give me an alert that something happened overnight. 
+
+We don't want to receive bad flags, but your proposed system is more tolerant if the bad flag comes from someone with a history of flagging badly - this is not the message that we want to send as moderators. Comparatively on the other side of the scale, suppose someone with a very excellent style that produces streams of high quality flags has a bad day and makes 3 one-time mistakes in flagging. These one-time mistakes have a lot more impact on that user's flag weight than the entire history of high quality flags. That seems to very readily discard the intent of flag weight to mean reliability, because we suddenly don't think that user is nearly as reliable. 
+
+This was a pretty large issue with the original conversion requirements. The dogpile of multiple folks who all not only think to edit the same post, but also edit all differently too. Sometimes they just saw different things to fix, other times they fixed the same thing just with different words. No matter how it was spun, of all the triggers this had the highest amount of false positives. This was an issue not just within the first few minutes of a post's life, but really in general. Sometimes it takes people some time, as you just have a bunch of people who see a post and notice someone missed something. And people notice that person missed something. 
+
+Can an already-dismissed flag not affect the flag weight when it shows up again? 
+
+Yes, it's very early into the new phase to report bugs, but technically this is a bug in the definition phase! 
+
+In the case spoken of in this post, the velocity of editing is actually more reason that a moderator should pay attention to a post. If a huge bunch of people pile on a post, it may be an edit war or it could be something else that may require a more definitive edit path, if not outright temporary locking. 
+
+This is what I meant by my very first statement in this answer: this system places too much weight on occasional points in time, and weakens the impact of trends. As with the reverse, one single great flag does not redeem someone with a history of bad flagging, especially if they're going to just keep at it.

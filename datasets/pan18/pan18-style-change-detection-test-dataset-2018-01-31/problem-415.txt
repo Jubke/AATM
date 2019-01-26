@@ -1,0 +1,99 @@
+So, in your first scenario, Alice will only see the comment by Charlie♦ (assuming he deleted within an hour of posting the comment and that the comment was for Alice). 
+
+If this was not you, I suggest you look around at who else has access to your computer who may have done this. 
+
+We were hit by a botnet causing the slowdowns seen earlier. 
+
+And then, we hope you follow the advice and start asking better questions - at this point, this is up to you. If you ask better questions, you will not get blocked. If you don't ask better questions... well, you did get a warning, right? 
+
+In the second scenario, Alice will see no comments. 
+
+Hopefully this is something that will be easy/fast to fix/mitigate. 
+
+Once a question that has been put on hold has been edited, it is placed in a reopen queue, for peers to review and (if deemed good enough), reopen. 
+
+If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) 
+
+Has flagging recently been changed to allow more than one flag, is this a bug, or have I missed something? 
+
+https://api.stackexchange.com/docs/me-comments#order=desc&sort=votes&filter=default 
+
+Be quick though, after 5 minutes your vote will be locked in: 
+
+Is this a problem with Stack Exchange's servers, or with my ISP? 
+
+I've been trying to diagnose the problem in the JavaScript chat room; the transcript is here (the messages from then on, between myself and @OctavianDamiean): 
+
+I'm just wondering what the community average is, across all users on Stack Overflow? 
+
+I thought one could only flag a post once, and that after that it should display: 
+
+I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections): 
+
+Is it possible that I've had 100 audits? What could cause this discrepancy? 
+
+I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. 
+
+Any advice much appreciated! Trying to chat is very difficult with constant timeouts. 
+
+Here's an API link (using version 1.1, I know): 
+
+http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes 
+
+The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. 
+
+We were hit by a botnet causing the slowdowns seen earlier. 
+
+The message is there to be read, understood, its links followed, read and understood as well. 
+
+In the second scenario, Alice will see no comments. 
+
+Since notifications are cleared after the answer was deleted, commenting on a deleted answer would indeed keep the notification, which is reasonable as only moderators can comment on deleted posts and users can see their own deleted posts. 
+
+If this was not you, I suggest you look around at who else has access to your computer who may have done this. 
+
+And then, we hope you follow the advice and start asking better questions - at this point, this is up to you. If you ask better questions, you will not get blocked. If you don't ask better questions... well, you did get a warning, right? 
+
+Hopefully this is something that will be easy/fast to fix/mitigate. 
+
+I mentioned to the Community Team that the help center documentation on this could probably use some love in regards to "next steps". 
+
+Once a full post-mortem of the event has been finished, it will be posted on http://stackstatus.net 
+
+When an answer is deleted, only comment notifications to the OP left by the deleting moderator within that last hour will remain in the inbox. 
+
+We are aware of the speed issues and are currently investigating. 
+
+Is it possible that I've had 100 audits? What could cause this discrepancy? 
+
+Be quick though, after 5 minutes your vote will be locked in: 
+
+https://api.stackexchange.com/docs/me-comments#order=desc&sort=votes&filter=default 
+
+Here's an API link (using version 1.1, I know): 
+
+Just click the upvote button again to undo: 
+
+If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) 
+
+Any advice much appreciated! Trying to chat is very difficult with constant timeouts. 
+
+I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. 
+
+But my flag summary shows that I've managed to flag a question twice (I didn't realise I had): 
+
+I've been trying to diagnose the problem in the JavaScript chat room; the transcript is here (the messages from then on, between myself and @OctavianDamiean): 
+
+http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes 
+
+Has flagging recently been changed to allow more than one flag, is this a bug, or have I missed something? 
+
+The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. 
+
+I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections): 
+
+Is this a problem with Stack Exchange's servers, or with my ISP? 
+
+I'm just wondering what the community average is, across all users on Stack Overflow? 
+
+I thought one could only flag a post once, and that after that it should display:

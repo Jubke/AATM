@@ -1,0 +1,55 @@
+A lot of chain checkers read the chain being worn to x% even on a new chain (esp. on higher speed chains). The variation in new chains and reading inaccuracies can make tools essentially useless. Following these tools will lead to you replacing your chain sooner than necessary. 
+
+Your best bet is to go to your LBS or hardware shop and try a few bolts until you find one that fits. 
+
+Try to avoid a so-called ‘chain washing machine’ in combination with solvent. This will instantly ruin your chain. 
+
+Generally the differences are minor if existing other than a bit of weight in the cassettes and chains, but manufacturers suppose that people who buy expensive parts in the beginning will replace them with just as expensive parts further down the line (see the "looks cool" point above). 
+
+(**) On 10/11 speed systems, they are normally one time use links. On lower speeds, you can open and close the chain a bunch of times. 
+
+You have way too much money (generally, people who buy top end equipment fall into this group). 
+
+Edit: I've added some notes on chain cleaners from some chain manufacturers (Shimano, KMC, SRAM). Follow at your own desire. Many people use chain cleaning machines like the Park Tool CM-5.2 or remove their chains and soak them in a solvent for a bit, but manufacturers are generally against this. YMMV. FWIW, I own a CM-5.2, but I don't use it very often. 
+
+Some lubricant brands advise you to completely degrease the chain, KMC does not recommend this. 
+
+Shimano recommends wiping the chain with degreaser. 
+
+[In fact, if there was a special washer, you're almost surely not going to find the exact same one aside from buying the same/similar derailleur (e.g. on eBay) and taking it off there, since the parts are over 20 years old. ] 
+
+KMC does not recommend the use of a chain cleaner like the Park Tool CM-5.2 (in the CG-2.2 kit): 
+
+You should also check the chain, chainring and cog for wear. If the chain is old and poorly maintained it may be time for a new one (and possibly replacement of other drivetrain parts). 
+
+(*) On lower speed chains / old days, people used to push the rivet out partially then re push it back in to close the chain. It is now recommended to use the special closing rivet or a quick link, depending on what the chain manufacturer suggests. 
+
+If your old chain was sized appropriately for your drivetrain, and you're not changing anything, then you're going to shorten the new chain to the length of the old chain (via counting links, or lying the chains on the ground and pinching them together). 
+
+In the second picture, the second vertical link from the top is a quick link. You push the plates together (perpendicular to the table) and then push them in opposite directions (parallel to the table in the direction of the chain). 
+
+(From Shimano SI-09R0A-002-00) 
+
+In picking your cassette, I'm assuming that (a) it is the right number of speeds for your shifter and (b) your derailleur has enough capacity to use lowest gear. If this is the same sized cassette as you had before, this should be satisfied. 
+
+You will need a chain tool anyway when you get your new chain in order to size it appropriately; this link will give you appropriate directions. And if you have to install a special rivet (e.g. Shimano) to close the chain, you'll need a tool (*). 
+
+The most accurate way seems to be hang the chain off the bike and use a calibrated ruler/tape measure over several links (in the hanging case, they suggest 100+ links, the longer measurement reduces measurement error). If you don't want to do that, a good ruler/caliper on the bike and measuring lengths. 
+
+In any case, the quick link isn't usually the place of failure, so theres not really a reason not to use it unless your chain doesn't come with one. 
+
+(*) Well, check the documentation that comes with the chain. Normally, if there is a quick link, the manufacturer will tell you to use it, which the end of the paragraph will tell you why. 
+
+The answer is not really. Chains are dirty and they get you dirty. 
+
+Why would you need chains and cassettes that cost in excess of 300 dollars? 
+
+(***) As the comments point out, Shimano chains ship with a special pin to use (as do some Campy chains). You have to use this pin in this case (see this link for details/intricacies). 
+
+Do not use acidic or alkali based detergents (such as rust cleaners), these can damage the chain and may cause breakage. 
+
+Then, you throw the remaining links into your tool box in case of needing them as spares for a repair in the future. Eventually, you have enough spare links in your tool box and you start throwing the spare links away when you get a new chain (or better yet, as Kibbee suggests, donate them to a bike co-op/shop). 
+
+From SRAM Technical Manual 2010: 
+
+I don't know if this derailleur came with a special washer to help hold the cable or not, but its not really important that you get an exact match on this part. So long as you find a bolt (and possibly washer) that fits and holds the cable under tension, its fine. If you go to your LBS, they should have something that works (it wouldn't surprise me too much if some random Shimano/SRAM bolt worked; Nathan in the comments notes that its probably M5x0.8).

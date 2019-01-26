@@ -1,0 +1,41 @@
+First of all, DoTA is only about 20GB. Secondly, your download constantly restarts (well, backtracks; progress jumps) because when your computer power goes out (assuming it's the instant-powercut-and-everything-goes-black-and-the-system-suddenly-shuts-off type of power cut), Steam doesn't have a chance to properly finish finish downloading the file it is patching. Because of this, when the system restarts, Steam checks for the progress and will think the file it was patching is corrupted (not properly and fully downloaded). From there, it will restart downloading that file. Usually, Steam downloads several files at once, which explains why there are big jumps. 
+
+Regardless of having a profile created or not, there'll still be a "Add Friend" button, followed by a message in red asking you to encourage the "friend" to create a profile, if one hasn't been set up yet. This also applies to Private accounts where instead of asking you to ask your friend to setup a profile, it simply gives a "This profile is private." message. (And the "Add Friend" button.) 
+
+You can find the link by asking her to click on her own name (at the bottom corner of the Steam Client) and copying the link given at the top to you. 
+
+However, region restrictions still apply based on the IP address you're connected to Steam using. 
+
+As for how to make skins, that's complicated. More on that later when I get the time to complete. I found this: http://www.scribd.com/doc/87688286/Guide-How-to-Make-a-Steam-Skin-2 (not by me), but should explain how to make skins. 
+
+Based on your title: The Steam Limited account restrictions (as far as I can recall) have been around since before 2012. The recent update was only simply a rule change. Previously, you only needed to activate a CD key or make any purchase to lift the restrictions. Now, you have to spend a minimum of $5USD. 
+
+Note: If an update has come up between your install date and the date the backup was created, Steam will mark the game for updating and will update it as if you had it installed previously, as opposed to redownloading the whole game. 
+
+The cause of your problem is because you have so many (about 1,268 addons), and that there are many updates, you're not waiting for them to complete, thus stopping the update process before the point where it unpacks the new addons (that are downloaded through Steam), which happens after all updates are finished. 
+
+Also, don't delete anything (not even use the "Uninstall" button in Steam) whilst something isn't downloading properly. Let Steam manage that; it automatically scans for any corrupted/incorrect files and delete/redownload/reaquire them. Deleting/uninstalling will only mean it will have to redownload everything again. from scratch, which is the same as hindering your progress. 
+
+EDIT: It is possible for three people plus one co-op to join a single match/game too. Just invite them. Remember, as long as the number of players (including co-ops) don't exceed 4, you can invite as many people.. Ish. So your partner plus you and your co-op plus your partner's friend (1 + 2 + 1 players) will still work. and Obviously four parties (1 + 1 + 1 + 1 players) will work. 
+
+Warning: This file can be used to bypass all two-factor authentication, so keep it safe and DO NOT give it to anybody (not even upload it anywhere). To be on the safe side, don't make any backups of it. Besides, you can always generate a new one with a new installation of Steam. 
+
+Due to the way the store works, the only way to switch stores is to send a ticket to Steam support for them to change the default store that you are assigned to automatically. (Basically - You need to ask them to make that US/Australian store the default for you regardless of the country you're in instead of the system default; the store for the country you're in). 
+
+Your sister has logged in at least once (web or client, does not matter) Your sister's profile is set to public (should be by default) If you are unable to find your sister's account through searching, try asking her to give you her community profile link, since all accounts are allowed to have a profile. 
+
+However, there are exceptions to the rule but only apply to games purchased from the Steam Store, and are granted as a Steam Gift (item). 
+
+You can restore the license by going to the support page, navigating to the game that you've think you've removed; is missing... And if you did remove it, you'll see this in the It's not in my library menu: 
+
+As you know, CD keys can only be used once (or deactivated before it is used, from the developer's side). Once used, they'll go into a list of used keys, where it'll be eventually (after a very long time^) be reused. 
+
+Either way, the buy button will always lead you to the store page since payment confirmation happens there. 
+
+Answering your question To allow people into your game just do this: 
+
+As for having to download the games again, he does not have to. However, updates will be a different story. Steam allows multiple accounts to access the same installed game (if they both own it or have a license via Family Sharing) if it's already downloaded. 
+
+Counter-Strike: Global Offensive has been excluded from Steam's Family sharing services. It says so right here: 
+
+As for making the buy button appear, you have one of three choices:

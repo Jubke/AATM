@@ -1,0 +1,53 @@
+For some discussion based on the material of English dialects (the so called goat test), see Wells, J. C. 1981. Accents of English. Cambridge: CUP. 
+
+It looks like your question is based on Cognitive Grammar. 
+
+Note the key word "conceptual," because this is very different from other formal syntax theories. 
+
+When you post a question next time, please mention what theory it is based on. Do not assume that the terms (and implicit assumptions) are necessarily shared and/or easily recognized by everyone. Your OP is a good case in point. 
+
+Here's how I would analyse your sentences. 
+
+So far, this is a short general post about some exceptions in which palatalization of /g/ before a front vowel did not happen. 
+
+OE gyldan – geald – guldon, cf. PDE yield (yielded) 
+
+I'm not a Hebraist (nor a Semitologist) but here's what I've been able to find about the origin of the Hebrew proper noun "Gad". I strongly recommend looking it up at least in Klein 1987: 
+
+There are several ways to tackle it: 
+
+An important addition. Cecily Clark (Clark 1992) argues it is incorrect to ascribe such changes solely to "widespread scribal ignorance of the English language." 
+
+Notice that when those terms were coined, they were used as Latin words. In other words, the Latin word "borealis" was used, not the name of a Greek god. 
+
+For instance, from the point of view of generative syntax, in both of your examples, we can see complements. 
+
+This is a well-known phenomenon and virtually all books on historical phonology of English worth reading devote a special section to this topic - see e.g. Hogg 1992, Lass and Anderson 1975 or Minkova 2014. cf. Durkin 2014: 195 
+
+The term "aurora borealis" was arguably first used by a French scientist Petrus Gassendus aka Pierre Gassendi in 1621, in his treatise "Physics." For further discussion, see Siscoe, George. 1986. An historical footnote on the origin of 'Aurora Borealis.' In History of geophysics, volume 2 
+
+cf. Michaelis and Jones 1913 or Jones 1917 give one variant only, with [aɪ]. For some reason, it's missing in Walker 1859. 
+
+The letter Q was rarely used in OE; thus, [kw] was usually spelled cƿ (c followed by wynn). So called Norman scribes started to latinize it by replacing it with "qu" in English words: 
+
+At first, you misquoted Wikipedia. What it actually says (the current edit) is that "in the north of the Netherlands and in North Central American usually diphthongized to [oʊ]." The same Wikipedia article has lots of examples when it "stands just by itself." 
+
+Examples of levelling (strong verbs, West Saxon): 
+
+In MP (in Adger's interpretation), all of the problems above are elegantly solved with the help of strong/weak EPP, strong/weak tense value on v, feature checking and phi-features - see chapter 6 in Adger 2003. 
+
+First, gone is the time of the notorious Neogrammarian motto "sound laws have no exceptions." See Hoptman 2002 and Tsimmerling 2007 for more exceptions to Verner's law; Bernhardsson 2001 for a possible explanation. 
+
+"In the end, it is up to the linguist’s judgement and his / her willingness to accept the Norse derivation of a term without a formal Norse imprint that determines whether or not it will make it to the list of medieval English words with a Norse etymon. This, of course, is a serious problem for historical linguistics, given the central place of many Norse-derived terms in the English language." 
+
+It's not entirely clear what you meant there. If you are talking about the English word "god", then why would you expect to come across an English word in a Latin or Greek text? If you are talking about the concept of "god(s)", then your assumption is inaccurate. It is a well-known fact that various Indo-European peoples had gods, attested by names of deities (Jupiter, Zeus, Perkunas etc.) and the word 'god', e.g. Latin 'deus', Vedic 'devas' etc. As a matter of fact, Father Sky is a very common deity in many IE cultures. A common motif is the main god fighting/killing some chthonic creature (a snake or a dragon). 
+
+The phenomenon itself has been known for a long time in Europe; for example, the ancient Greeks called it "blazing skies" or "flaming sky dragons" (Hesiod, Theogony). 
+
+Unfortunately, there's been a lot of terminological variation and hence confusion in aspect studies (e.g. Sasse 2002 or Slabakova 2002). So, when you read any research on aspect, make sure you know how the terms are understood/used in that particular paper. The following is mostly based on Filip 2012. 
+
+Reject PIE*kom > PGm *ga. However, as far as I can see, communis opinio is the opposite (e.g. Lehmann 1986), cf. the following suggested cognates: Proto-Italic *kom (e.g. Latin perfectivizing co- and preposition cum), Proto-Celtic *kom, Slavic ** sъ-, and Hittite =kkan (encl. locatival sentence particle) ‘?’ Kloekhorst 2007 writes it was Sturtevant 1927 who first suggested this etymology. The reconstructed PIE form is * ḱom. 
+
+Trask 2010 basically says the same thing, perhaps in a more understandable way: 
+
+Also, I don't think the term "modifier" is very common in generative syntax and is used as an umbrella term for anything attached to the head, the more common opposition being complement-specifier-adjunct (all of those are different types of modifiers).

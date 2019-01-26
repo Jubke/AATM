@@ -1,0 +1,27 @@
+Reverse PTR lookups generally hold a clue (and there is a DNSBL-like service), but we already do a lot of expensive checks on established sites when people post - there's quality blocks, spam checks, spam bucket checks (yes, there's several layers), not to mention the regex blacklist and ugh .. there's not a lot more room there. And there's also exit policies to consider. 
+
+I agree that we're only partially solving the problem that comments were designed to solve by locking them up at 50 rep, or any level, because those who can't use them will continue to exhibit the behavior that they're designed to stop. 
+
+If a moderator goes to send a message to a user where there is a pending draft, they should be taken immediately to the draft at which point they can send it, or discard it. If they elect to discard it, take them back to the screen where they can click to select another message. Drafts should live however long they do for normal posts so that expectations can remain consistent. 
+
+Most of the time, messages that we have to send privately to users are quite cut and dry. We're either explaining an action that we took, or describing an action that we'll need to take. Many of the issues that we address have been addressed hundreds, if not thousands of times before. 
+
+This was one of the single most frequent complaints about the system, as the workflow basically forced moderators to validate bogus flags in an effort to not penalize valid ones - it was a major feature upgrade in what we have brewing. 
+
+The reason we don't blacklist a tag until it's all but gone is the UI basically says "You can't add that tag", which confuses the heck out of people when they see it applied in lots of places. Similar frustration exists where the system demands that you tag a question, then tells you that you don't have the rep to create new tags. 
+
+We have a scale problem here that is showing serious signs of strain. It's only getting more expensive in volunteer hours month over month and this isn't acceptable. 
+
+Do not worry about the affect this might have on the spam system, this system is specifically designed so that you don't have to worry about this stuff, and for the most part, it'll all come out in the wash. 
+
+This would be extremely problematic for the following reasons: 
+
+I agree that it's something that the quality filters should be keeping out. I don't think it would interfere with people asking normal questions with code snippets. 
+
+Would it be possible to optionally include our Gravatar in the PDF that Careers 2.0 produces? This would be useful for people that use their actual picture as a Gravatar. 
+
+I think your suggestion is the simplest path to avoid irritating the users of the receiving community, and most importantly, the person who asked a question. 
+
+Also, umm, the primary use case for reasons was so we could tell why you nuked an account when the previous owner came asking where it went. That still very much applies, so try to give additional context in the text box if the reason itself doesn't quite explain things sufficiently. 
+
+I'm guessing that at least 50% of the ones I've noticed are due to users simply being out of close votes and using flags instead. That's perfectly fine.

@@ -1,0 +1,33 @@
+Regarding having the stories burn down before they're accepted, I would caution against it. What if the validation fails? Would the story get burned back up again? Now that would make the chart hard to read! 
+
+You could also append something like "even from a malicious attacker", which should make it more testable (see INVEST mnemonic) - make sure all common attacks (other than social engineering, which isn't really solvable...) fail. 
+
+One final thing, you might want to look into how you're defining User Stories. A commonly-used format is "As (identity), I would like to (action) in order to (reason)." See the INVEST mnemonic for more details. 
+
+What you describe as 'GREEN', finishing all user stories of a sprint (I assume, based on your question) is a useful indicator for this, but not a valid replacement goal. Consider the situation where you write up a bunch of nice, lovely-looking stories. They are all completed on time with wonderful, quality code. And then you show it to the customer and they ask why you bothered with any of that, because it's all useless. 
+
+I would focus on the need, rather than the implementation. The user story would then simply be: 
+
+"As a user, I want any personal information I give (Company) to remain private and secure." 
+
+There are so very many things wrong with that statement, from a Scrum perspective. I'll go through them in order. 
+
+Now, to answer your actual question, 
+
+You've provided insufficient context to answer that, or indeed even to answer whether or not anything did go significantly wrong. Ask your Team. Bring it up in the Retrospective. But keep in mind that you should avoid leading questions - asking 'What do you guys think caused the Sprint to go wrong?' is not a great question to ask when your Team wasn't thinking it went wrong at all in the first place. 
+
+Scrum works better as a pull-model, not as a push-model. No one assigns work to developers. In the Planning Meeting, the Scrum Team accepts work from the backlog (with the Product Owner prioritizing which work is most important, and the Development Team deciding how much they can get done that Sprint). During the Sprint, developers will, on their own initiative, pull down unassigned work and start working on it. 
+
+This, I think, is the crux of your problem. Look into (and have your Development Manager look into) the 100% Utilization Fallacy. 
+
+My team (Devs, Analyst, QA, PO) meets for 30 mins every day or so to discuss upcoming stories, their acceptance criteria and how we're going to test them. This gives everyone the opportunity to ask questions and for the Product Owner to be confident everyone understands what they're asking for. 
+
+The finance team agree that infrastructure will give them a pipe delimited flat file each night, delivered to a certain location via SFTP with a list of all account numbers and their associated balance. 
+
+We have a ready for sprint column on our board - stories can only move from the backlog to ready if they are sized appropriately, have acceptance criteria and have completed, signed off designs. This still gives us visibility of forthcoming stories that we need designs for without having 'design for xyz page' separately in the backlog and the design work is done outside of the sprint so it doesn't affect estimation or planning. 
+
+Not ideal but that's the best approach we've managed so far. 
+
+We run regular 'Brown Bag' sessions where the company provides lunch (usually Pizza, nom nom) and people from teams can come and present cool new stuff they are working on. Topics have included MVC, Facebook API, Deming's red bead experiment, dependency injection and so on, as well as more specific session on particular projects people are working on. 
+
+2) Since Project I has no external customer value instead of doing it as a separate project, have Projects A and B pick up those elements of it they need when they need them for the customer facing work.

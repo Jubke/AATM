@@ -1,0 +1,33 @@
+I guess another related issue is how variable the common spoken source was e.g. is it more accurate to call Common Indo-European a "language" or a "dialect continuum", but that's just dealing with a matter that is fuzzy even today: the distinction between "language" and "dialect". 
+
+My guess is that the /g/ is due to some kind of analogical leveling under the influence of the past-tense and past-participle forms, which have back vowels and therefore wouldn't have regularly developed a palatal consonant. Is this thought to be correct? If so, I'm curious about if we have any evidence of the date of this, and if the word is ever thought to have had /y/, or if the spellings with "y" are likely just ways of representing /i/ after a velar consonant (or mere unconditioned variants of the spelling with "i" used by scribes who had lost the phonemic distinction between /i/ and /y/). I don't see any real phonetic basis for rounding this vowel, unlike in "busy" (< PG *bisig-) where there is at least an adjecent labial vowel, but perhaps the "u" of the past participle and some past tense forms provided an analogical basis. 
+
+Is there any linguistic explanation of this? Native English words don't seem to me to have a general preference for the penultimate syllable, but I may be wrong — please tell me if there's evidence for this. 
+
+I would guess it's just an areal feature within the Indic languages, but I don't know very well. Dravidic languages generally don't distinguish between aspirated and unaspirated series of consonants in their native vocabulary (although they may in vocabulary taken from Indic languages), so it seems unlikely to me to have arisen from Dravidic influence. 
+
+However, in some cases, el apparently became the diphthong eu (Modern French /ø/). 
+
+Some example words (I’m taking these from Wiktionary): 
+
+Pretty much everyone agrees that languages, in general, seem to change continuously. For example, there is a language called “English” today, that is a continuation of a language that existed 200 years ago that was also called “English” which was slightly different. 
+
+Also, it doesn’t seem to be common for languages to just appear out of thin air (the only examples that I know of of this apparently happening are sign languages, such as Nicaraguan Sign Language). 
+
+So why does Modern English have /g/ at the start of the second syllable of "begin," which the OED says is from Proto-Germanic *ginnan? 
+
+When he says that "...the few proposals cutting across my four basic groups have received no general support," this would be an accurate statement today, as it was in 1989: There haven't been any well-received proposals for language families which crosscut members of Greenberg's four families. e.g., there is nothing like a proposal for a family which groups together the Chadic languages (Greenberg's Afroasiatic) and the Benue-Congo languages (Greenberg's Niger-Kordofanian). 
+
+What is interesting about the proposal is that it combines traditional lexical evidence with morphological data. An idea which has been gaining support in recent years is that templatic morphology (cf. Good 2003), when sufficiently complex, may be especially stable over time. This theme was discussed in a workshop at the recent annual meeting of the LSA entitled "The Diachronic Stability of Complex Templatic Morphology," at which Vajda presented a paper. 
+
+However, when he claims that "[a]ll disputes have been at the level of subgroupings," this would not be correct today, though it may have been in 1989. Concerning the first three families (Niger-Kordofanian, Afroasiatic and Nilo-Saharan), disputes about these have usually been about subgroupings: e.g., Atantic may not be a branch of Niger-Congo, etc. However, concerning Khoisan, disputes have not been about subgroupings, but about the coherence of the whole family itself. As for Khoisan, there is a dispute about the basic coherence of the family as a whole, and most Africanists no longer believe that Khoisan is a proper genetic unit, although the term "Khoisan" is still used to refer to something like "the click languages in southern Africa". For discussion on the problems of Greenberg's Khoisan, and new proposed groupings for the languages formerly classified as Khoisan, see Gueldemann (2008). 
+
+I requested entries for all of the words listed by the OP on the English Wiktionary. 
+
+Old Armenian had such forms as լինիմ, լինենամ, and back to the earliest known *լէնիմ (lēnim) - which looks to be a hypothetical form from its asterisk. 
+
+If you follow links around the Armenian and Old Armenian entries you will find some other words. "To be" is a pretty fuzzy word over time in most languages and can float around concepts such as existence on one hand, a mere syntactic copular on another hand, and then there are can be senses like "there is" which can blur into words that also mean "stand", "lie", etc. 
+
+According to Wiktionary the ultimate origin of the Armenian word for to be "լինել" (linel) is unknown. 
+
+My Armenian friend in Yerevan who contributes Armenian and Old Armenian to Wiktionary and has an impressive collection of Armenian etymological dictionaries has now made (or added etymology to) the entries on every word plus provided these notes which I've copied verbatim thanks to both Vahagn and Wiktionary:

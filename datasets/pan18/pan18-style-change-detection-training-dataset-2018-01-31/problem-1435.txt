@@ -1,0 +1,75 @@
+I can fairly understand what casting is required if two operands has different types. But why it does "usual math" when both are strings? 
+
+When PHP came to the scene, everyone were impressed with main differences from Perl: 
+
+Suppose we're sending trivial feedback and going to make these fields dynamic: 
+
+RSS feed being generated on demand. As far as I can see, for I have 2 options for lastBuildDate - current time or pubDate. Which one would you choose and why? 
+
+According to my experience, prepared statements (which considered to be main and mostly used mysqli feature) makes debugging dynamical SQL pretty hard - you just cannot have regular query out of prepared query to be copied in console. So, I am eager to know what are these capabilities and how to use them. Is it on debugging SQL or on something else? How to use it? What are practical use cases? 
+
+Yes, you can. But First argument should be an array. 
+
+To send a query to the database, you have 2 options: 
+
+So, the question is: is mysql[i]_real escape_string() totally unacceptable? Or is it's still possible to use this function to create your own kind of prepared statements? 
+
+Everyone who wants to be a PHP programmer, always takes only the first word and completely ignores the second. 
+
+Build a query usual way, to make it look exactly as SQL query you can run in sql console. To do it, one should understand a whole set of rules, not just "use mysql_real_escape_string". Rules such as: 
+
+There are no "illegal" characters for the database. Database that cannot store some characters is a nonsense. There are some service characters, like quotes, used to delimit strings. These characters should be just escaped, not eliminated. 
+
+The question is: Why PHP does so? What is the reason for probing strings for being numeric, and then casting if so? Why can't we just compare two strings already? 
+
+Am I missing something or is this just a way to decrease performance? 
+
+This leaves me to belive that the only use for namespaces is function names. Now we can finally have three functions all named the same thing! 
+
+Update I thought perhaps I would add more food for thought. One of the problems with string translations it is that they doesn't support dates, money, or conditional statements. However, thanks to intl PHP now has MessageFormatter which is what really needs to be used anyway. 
+
+So far I have come up with the following function which I hope solves this problem and allows foreign UTF-8 data also. 
+
+Our quest for "a better wheel" has lead to things like a 3Kb javascript framework, a 1kB ORM, a tweet sized framework & DI container, an entire forum in 1kb, a 960Byte (& even 1 line) CSS grid. 
+
+I'm hoping someone can correct me on this, but it just seems like a repeat of the whole "Tables are evil" CSS thing. Tables are only evil if used for layouts - not tabular data. Using DIV's for tabular data is a style violation of WC3. 
+
+Database Schema Below is a simplified example of how this might look at the database level. 
+
+Most people simply repeat the phrase "prepared statements protect against SQL injection" which doesn't full explain the problem. The provided "escape" method for each DB library also protects against SQL injection. But it is more than that: 
+
+When i see the headers in my emails on gmail, i find that the class is successfully injecting DKIM in the email header but gmail doesn't even care. 
+
+Example of how the generation would be: 
+
+P.S. i'd like a pure SQL solution but php is ok if it's needed. 
+
+Tumblr and other blogging websites allows people to post embeded codes of videos from youtube and all video networks. 
+
+RFC822 Format: 18 Feb 2012 14:27:18 -0000 
+
+The issue is that now when i do: 
+
+but how they filter only the flash object code and remove any other html or scripts? and even they have an automated code that informes you this is not a valid video code. 
+
+I'm trying to sign emails with DKIM using PHPMailer Class and i can't get it to work. 
+
+What's a good approach to achieve this? 
+
+I'd like to have a function that accepts a geo location (Latitude, Longitude) and generates random sets of coordinates around it but also takes these parameters as a part of the calculation: 
+
+What's the difference? and is that why Gmail doesn't verify my emails? & do you recommend any alternative & robust classes to sign emails with domain keys on php? 
+
+Nowadays, "Prepared statements" seem to be the only way anyone recommends sending queries to a database. I even see recommendations to use prepared statements for stored procs. However, do to the extra query prepared statements require - and the short time they last - I'm persuaded that they are only useful for a line of INSERT/UPDATE queries. 
+
+To my knowledge I have handled all the problems I could think of in the following code. Are their any attack vectors I haven't thought of? (A rather naive question I know) 
+
+...The variable types are predefined, and hence MySQL take into account these characters, and they do not need to be escaped. 
+
+Database Schema Below is a simplified example of how this might look at the database level. 
+
+Our quest for "a better wheel" has lead to things like a 3Kb javascript framework, a 1kB ORM, a tweet sized framework & DI container, an entire forum in 1kb, a 960Byte (& even 1 line) CSS grid. 
+
+Like wise, plain SQL (or that generated from AR's) seems to be much more useful for 80% of the queries used, which on most sites are a single SELECT not to be repeated again that page load (I'm speaking about scripting languages like PHP here). Why would I make my over-taxed DB prepare a statement that it is only to run once before being removed? 
+
+I thought about using gettext, but I'm not sure that users of the CMS will be comfortable working with the gettext files. If the strings are stored in a database, then a nice administration system can be setup to allow them to make changes whenever they want and the caching in RAM will insure that the fetching of those strings is as fast, or faster than gettext. I also don't feel safe using the PHP extension considering not even the zend framework uses it.

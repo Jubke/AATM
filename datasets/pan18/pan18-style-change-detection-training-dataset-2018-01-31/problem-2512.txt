@@ -1,0 +1,33 @@
+In linguistic description, the "broad" and "narrow" designations are defined somewhat loosely, generally according to whatever convention the linguist reporting the language feels is most useful. Under the Generative Phonology framework, however, these are assumed to represent two distinct stages of phonological processing, each with a psychological reality. Square brackets denote the final stage of processing (which is sent to the articulators), called "phonetic transcription", while slashes denote the form stored in the mental lexicon (stripped of all predictable information), called "phonemic transcription". 
+
+For example, the following rule set describing (simplified) Korean stop allophony: 
+
+To perform this kind of analysis, first you must determine which sounds are constrastive in the output. For example, in English, [pʰ] and [p] are not contrastive, because [pʰæt] and [pæt] "pat" are judged to be "the same" word by (most) native speakers (even though [pæt] would be ill-formed). However, in Hindi, [kapʰi] "coffee" and [kapi] "copy" are two separate words. The generative hypothesis is that each set of non-contrastive sounds is stored as a single unit in the brain, called a phoneme (in slashes), which is transformed into a final form (in brackets) passed to the articulators by a series of serially-ordered rules or simultaneous constraints on the possible output forms. 
+
+For example, in English, voiceless plosives are aspirated word-initially and in stressed onsets. Thus, a narrow transcription of "cool" might be [kʰul], while a broad transcription would be /kul/. Similarly, "lack" could be represented as [læk] and /læk/ - note that broad /k/ can become narrow [k] or [kʰ], depending on its position in the word and surrounding sounds. Because this information is predictable by the above rule, the aspiration is left out of the broad transcription. 
+
+You're absolutely right - the choice is completely arbitrary. Generally, before the publication of The Sound Pattern of English (Chomsky & Halley 1968), whichever underlying representation required the fewest number of rule derivations to produce the output forms was chosen, i.e., whichever was the most elegant. 
+
+Unfortunately, there is no straightforward syllabification method that is accepted by a majority of linguists. As you pointed out, different dictionaries provide different syllabification methods. Usually, syllabification is considered from a phonological point of view (a phonetic perspective is possible but less common, see below). 
+
+German has for more than 1000 years been in contact with West Slavic languages, notably Polish and Czech. This is highly likely to have led to borrowing or interference between these languages, in both directions. It seems that discussion of this is usually restricted to influence from German on Polish and Czech. For example, the Polish dialect spoken in the Poznań region is reported to be heavily influenced by German. There is also a great number of German loanwords in Polish, such as malować from G. malen (both to paint). 
+
+The acoustic characteristics of the realisation of a given phoneme may vary depending on phonological context. For example, [v] may have a higher Zero Crossing Rate if it follows a consonant than if it follows a vowel. 
+
+To perform this kind of analysis, first you must determine which sounds are constrastive in the output. For example, in English, [pʰ] and [p] are not contrastive, because [pʰæt] and [pæt] "pat" are judged to be "the same" word by (most) native speakers (even though [pæt] would be ill-formed). However, in Hindi, [kapʰi] "coffee" and [kapi] "copy" are two separate words. The generative hypothesis is that each set of non-contrastive sounds is stored as a single unit in the brain, called a phoneme (in slashes), which is transformed into a final form (in brackets) passed to the articulators by a series of serially-ordered rules or simultaneous constraints on the possible output forms. 
+
+You're absolutely right - the choice is completely arbitrary. Generally, before the publication of The Sound Pattern of English (Chomsky & Halley 1968), whichever underlying representation required the fewest number of rule derivations to produce the output forms was chosen, i.e., whichever was the most elegant. 
+
+For example, in English, voiceless plosives are aspirated word-initially and in stressed onsets. Thus, a narrow transcription of "cool" might be [kʰul], while a broad transcription would be /kul/. Similarly, "lack" could be represented as [læk] and /læk/ - note that broad /k/ can become narrow [k] or [kʰ], depending on its position in the word and surrounding sounds. Because this information is predictable by the above rule, the aspiration is left out of the broad transcription. 
+
+Possible influence The rounded vowels /y/ and /ø/ are realised as /i/ and /e/ in the Saxon dialect and used to be pronounced this way in Silesian and East Prussian dialects of German: 
+
+But I've always found this stress pattern surprising, to me the context in these examples doesn't warrant this kind of contrastive focus (as in "No, I want ChiNESE food, not ITAlian food."). Then again, I'm not a native speaker. So my questions are: 
+
+The Slavic influence on some German dialects might have occurred as early as the 10th c. as this is the time German eastward expansion into (not only) Slavic territory started. The relevant Wikipedia article states that old and new population frequently mixed, so there were many opportunities for contact between people. 
+
+The acoustic characteristics of the realisation of a given phoneme may vary depending on phonological context. For example, [v] may have a higher Zero Crossing Rate if it follows a consonant than if it follows a vowel. 
+
+2) Is "contrastive stress/focus" the best analysis of these examples? 
+
+Unfortunately, there is no straightforward syllabification method that is accepted by a majority of linguists. As you pointed out, different dictionaries provide different syllabification methods. Usually, syllabification is considered from a phonological point of view (a phonetic perspective is possible but less common, see below).

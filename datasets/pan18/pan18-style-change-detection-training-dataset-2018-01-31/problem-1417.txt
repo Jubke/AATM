@@ -1,0 +1,33 @@
+I find this a very interesting thing in general, seeing as Tablet PCs are becoming at least a bit more common. (Not that they get the attention I feel they deserve). This works up to a certain point when the path becomes too long and complex. For example, what if the user 
+
+The best approach I can think of is passing on a "from" value that points to a temporary record in a database or session. That record contains all the information about the current path, and can thus always provide the right "back to page x" value. 
+
+I have a JavaScript WYSIWYG editor (not unlike CKEditor) running on a site. What I would like to hear most is experiences from people who have successfully implemented this, and how they did it. 
+
+Is there an "invisible" tag in HTML (4) that I can use to make CSS distinctions My question is, is there a ready-made, high-quality PHP solution that does this well, and takes the quirks into account? A common issue when building Content Management Systems for end-users using WYSIWYG Editors like CKEditor is that users can upload images within the editor, embed them, and then resize them. 
+
+I am looking for a solution that keeps the tweaking to an absolute minimum, e.g. a component that adds itself to the onsubmit event of a normal form, performs the file upload, displays a nice progress bar, puts the resulting temporary (server side) file path into the form, and submits it. On the server side, I just have to modify my script to use the file path provided by the flash uploader, instead of $_FILES and consorts, and think about security for a moment. Due to the architecture of uploading files, this is most likely not possible without some tweaking on the client side. 
+
+Also, what is the situation with Mac OS and Linux? 
+
+I am building some basic HTML code for a CMS. One of the page-related options in the CMS is "background image" and "stretch page width / height to background image width / height." so that with large background images, the whole thing becomes visible. 
+
+I can not add a product name that is visible as text (the name is already very prominently on each image) but can add text elements that are not visible. Are there any advanced solutions for capturing a hand drawing (from a tablet, touch screen or iPad like device) on a web site in JavaScript, and storing it on server side? FF4, Chrome support is a must; Opera, IE8/9 support is desired. 
+
+Of course, I could create a "parentTabs" JS array and be done with it. But storing it in the input itself would be so much more elegant. It would also have to have a high level of graphical quality, i.e. antialias the penstroke. Nothing fancy here but a MS Paint style, 1x1 Pixel stroke won't cut it. However, I have seen clients that have trouble displaying even advanced punctuation symbols declared as unicode characters (Example). 
+
+My current screen resolution is 1280 x 1024. Essentially, this would be a simple mouse drawing canvas with the specialty that its resolution (i.e. the number of mouse movements it catches per second) needs to be very high, otherwise round lines in the drawing will become "polygonal" when moving the pen / mouse fast: Now in addition, I want not only every changed field to be marked with a star, but also the tab it is in. 
+
+You all know the new generation of fancy, mostly Flash-based file uploaders like SWFUpload that can show a progress bar while uploading - a great improvement especially for shaky and low-bandwidth connections. 
+
+Because I love it simple, I would like to store the element ID of the tab as an attribute somewhere in each field's HTML tag (something like "parentTab"). The JS function then highlights the field and its "parentTab" element (and maybe that one's "parentTab" as well). I am looking for a Flash based image uploader with resize and possibly rotate function. I have checked many possibilities, and the very best in simplicity and unser experience I found is Kroppr at a very affordable €29/license. 
+
+A JS field iterates through each field, compares its value, and sets a CSS class for it if necessary. So far, so good. 
+
+Works everywhere except IE6 and many mobile devices. 
+
+For example, when a user is editing a web page, they may want to open the template the page is attached to (another item in a completely different branch), make a change there, and when clicking "save" expect to come back to the page they were editing. At the moment, I solve this using 
+
+Have you implemented a robust "unstructured" navigation that works well with multiple windows open (=one user doing multiple different things with different navigation paths)? The downside is, it comes with encrypted PHP code to bind the product to a subdomain. That is understandable, but while I'm perfectly happy to pay money for a tool as great as that, and ready to sign all sorts of legal agreements to protect the license, I am not ready to use encrypted PHP code, especially not from an outlet that doesn't even have a postal address on its web site. 
+
+These are protocol relative URLs. They point to an address, keeping the current protocol. After saving the content, the embedded (original) image URLs need to be replaced by their properly resized counterparts. Imagine a 3000 x 3000 photograph uploaded by a user, manually resized in the WYSIWYG editor to 300 x 300 Pixels - it needs to be resized automatically to prevent a huge source file from being loaded.

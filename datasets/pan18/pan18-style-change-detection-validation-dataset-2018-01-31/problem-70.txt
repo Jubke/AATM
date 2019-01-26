@@ -1,0 +1,11 @@
+Just right click the item. A short cast bar animation will appear and you'll identify the item yourself, no need to go anywhere. I don't have either of these to test it out, but I'm curious to see if they are worth the investment. 
+
+Required Level 61 - These items are actually scaled to be appropriate for anywhere between level 61 and level 65. They just all have a chance at dropping as soon as you reach level 61. This is actually better than the old system. 
+
+A primary boon of this approach is you know that items you find early on in your leveling experience (around 61-62) aren't replaced immediately upon reaching 63. That awesome item you found at 61 should be able to stick with you up through 69. When there are too many tiers of items, you transition through them rapidly and the items start to feel transient. Why bother gemming or enchanting an item if you expect to find an upgrade in 30 minutes? The Mystic’s Enchanting is powerful, but it doesn't feel worth using if you don’t have confidence your item will still be useful in 2 levels. Another benefit of this design choice is that it is alt-friendly. We think it's really fun to have the option to twink characters. Why not allow items you find at the upper echelons of the 60's to be passed down to your new characters fairly easily? Required Level 66 - Same as above, but for levels 66-69. 
+
+(I know this varies by monster type, I would like an answer addressing them all) Can anyone shed some light on exactly how Leoric's Signet and the Cain's Fate set bonus work? 
+
+It is by design! There are two tiers of items while leveling from 60-69, at 61 and 66. 
+
+There are Resist Poison items (easily searchable on the AH) that would help you against the insects in particular, and more armor always helps, but I found the right combination of tactics was all I needed to bring them down.

@@ -1,0 +1,29 @@
+Level 61/63 Drop Rates after Diablo 3 Patch 1.03 After patch 1.03 the item level drops at Inferno difficulty have been changed. High-end items (items level 61-63) will now drop in all Acts of Inferno and Acts III and IV of Hell difficulty. The new approximate drop rates are the followings: 
+
+I am trying to understand if there is a logic in health/life globes drops in order to setup a correct strategy in monster killing order. Are they completely random in chance and "size"? Are there monsters (types) that guarantee the drop of a life globe on death or at least that guarantee a certain globe "size" when it drops? 
+
+No, they do not work if follower is dead. Reducing impairing effects Is not possible preventing fear effects (dodge is does not work with status effects) but there are few possibilities to reduce the duration of its effect. 
+
+Diablo 3 cooldowns, by design, are generally longer than Diablo 2 cooldowns. You have the possibility to reduce them slightly with various passive and runes. 
+
+I just read the changelog of patch 1.03 and it seems they have fixed this bug, but only for new dropped items. As Barbarian unfortunately you have no skill that can help you resist fear effects. Other 3 classes, Demon Hunter, Witch Doctor and Wizard are almost ranged, therefore they should be less affected by this threat. As Monk you have only one option to be more resistant to fear, but you need to reach level 50 first. It has been designed in this way to discourage their usage at higher level difficulties. By design their role is to let players get used to play with others at Normal difficulty, and substitute followers with "human" players at highest difficulties. 
+
+Try to remake Act 1 and see if the cinematic unlocks. It should be possible also use items that reduce the duration of control impairing effects, like this one (disclaimer: do not look at the red circle; this screenshot was used in another answer and I attached here only as example) *The item tooltip will show level 60 in any case. 
+
+Patch 1.02 and previous (history) Before Diablo 3 patch 1.03 the item level drops at Inferno difficulty were the following: 
+
+The cause of error 31071 is not clear but it seems related to auction house server or connectivity problems. In the meanwhile Blizzard develop a retroactive fix for bugged items, if I want to buy any Legendary item in Auction House, how can I understand if the item listed is new (AS working as intended) or old (AS not working)? Finally, there are passives/runes that prolong the effect of certain abilities. 
+
+Some Legendary items in Diablo 3, like for example Inna's Glory, are bugged. They declare to have Attack Speed, but in reality bonus is not working when equipped. The best defense is a good offense Finally, in my experience, having a lot of crowd control (stun, fear, etc.) help dealing with nightmarish mobs because when they are impaired they not trigger fear to you. While audio codec is Vorbis Audio (vorb). 
+
+There are many users report that it happens when trying to buy gems or tomes, but it could be only a coincidence linked to the fact that these are items with a big market. There are users that got this error also on other equipment. 
+
+You can use MPQ Editor if you want to try extract cinematic videos and play them outside Diablo 3 client. 
+
+I tried in the very beginning with the Templar that in fact has a very useful ability, but it seems that this is completely automatically and cannot be forced in anyway. 
+
+from Bashiok - Blizzard Entertainment, Community Manager 
+
+Mantra of Evasion with Perseverance rune, reduces duration of all control impairing effect by 20%. Passive Skills that reduces cooldown Barbarian Demon Hunter Monk Wizard Witch Doctor Runes for Active Skills that reduces cooldown Barbarian Demon Hunter Monk Witch Doctor Wizard Items that reduces cooldown There are very few items, all specific to Witch Doctor, that can reduce the cooldown of some skills. 
+
+If you played Act 1 in single player could be a bug related to server issues in that moment. Unlocked cinematics can be played also if you are not logged in, but probably the unlock is done through a server-side interaction.

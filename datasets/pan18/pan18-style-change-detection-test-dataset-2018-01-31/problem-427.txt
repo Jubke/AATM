@@ -1,0 +1,29 @@
+That's the fallacy of "Moderators will watch over chat..." (when they're around) 
+
+~207,000 people searching this site 
+
+What makes this proposal so suspicious, really? The only thing usual here is someone is using Area 51 exactly the way it was intended: 
+
+Why does this work? Even social discord can be a healthy way of building cohesiveness if expressed properly. Social systems harness the power of crowds to create self-regulating systems. But those means have to be expressed properly, and they have to work from the bottom up to create socially-pleasant macro-behaviors. You don't call in the singular authority when things start to veer off course. 
+
+As a user, I was always wary about deleting my own part in those conversations because it would leave the other user's comment looking orphaned or silly. But as a moderator, I have delete-access to both ends of the conversation. 
+
+Almost all Christianity questions are on-topic for Judaism. If [a subject for] Judaism already exists, it already has a tag for Christianity, and nobody is complaining You’re not creating such a big group that you don’t have enough experts to answer all possible questions There’s a high probability that users of Judaism would enjoy seeing the occasional question about Christianity. The missive above doesn't sound workable to me, but whether you agree or not with that technical assessment, there is still one incontrovertible problem: Users seeking answers to their deepest "expert" questions on Judaism (or Christianity) are not going to show up on a generic "religion" forum — And site is not much good to a group of users if they will not show up. 
+
+No, this rule is badly worded. Any such rule should be around the mens rea -- about the intentions -- and categorically not solely about the effect. 
+
+...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+What sites are there, similar to Stack Overflow, but in different languages? 
+
+There is a difference between pointing an insult to you personally, and pointing an insult to something you merely believe in, namely that in the latter case it's well within the boundaries of freedom of expression ("This idea blows goats") and not in the boundaries of personal attacks ("You blow goats"). 
+
+The outcome of the flagging decline policy should be to have at the same time: 
+
+Here's why (a trivial example): 
+
+Meta already provides an adequate feedback mechanism for public review of moderator actions. 
+
+You're not going to like this answer, but I approved every one of his suggested edits (that were in the queue) except four, where someone got to them first and declined them. On those four, I went ahead and made the requested spelling changes. 
+
+"We're all in this together," "Focus on the post, not the person." If you want people to avoid some specific behaviors, then you need to be specific about what those behaviors are. Those of us who have been here for awhile already know what you're talking about in these paragraphs, but the new people don't. "Attacking or harassing individuals based on gender, sexual orientation, disability, gender identity, age, race, or religion – and any and all other type of personal attack – is unacceptable. " -- That's specific.

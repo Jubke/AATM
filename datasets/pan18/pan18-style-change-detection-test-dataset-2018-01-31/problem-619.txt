@@ -1,0 +1,53 @@
+Eastern Daylight Time (EDT), when observing daylight saving time (spring/summer) is 4 hours behind Coordinated Universal Time (UTC−04:00). 
+
+Whatever I try, I have problems to describe the overruling nature of an ancestor with the matching predicate over an ancestor with a non-matching predicate. 
+
+The data URI you have in your example is not a valid PNG image. This will never work and is unrelated to the code, it's related to the data. 
+
+I think these are enough examples for one answer. You can find the full source-code as well as an example to display nice-looking ascii-trees in this gist: https://gist.github.com/3599532 
+
+If your plugin needs the dictionary object, it has to ask for it: 
+
+I have got a large file in PHP of which I would like to replace the first 512 bytes with some other 512 bytes. Is there any PHP function that helps me with that? 
+
+So how would that work? The plugin needs to be created somewhere, so this needs a factory. The factory build method knows what your plugin needs: 
+
+Is there a method or annotation that signals Phpunit to not execute this abstract test (but does not mark it as skipped or incomplete)? 
+
+Technical differences in short: 
+
+I might run into a bug here when I see the output across multiple PHP versions, looks like that HHVM does not have this issue by transposing it: 
+
+I've used both PHPUnit & SimpleTest and I found SimpleTest to be easier to use. 
+
+Doing it like http://mywebsite.com/user would be a lot easier to set up if it's an option. 
+
+As far as TDD goes, I haven't had much luck with it in the purest sense. I think that's mainly a time/discipline issue on my part though. 
+
+Here are the headers I'm sending: 
+
+I've also tried ports ranging from 9000 (default), 9005, 8083, etc. 
+
+Here's a simple example which uses curl and the GET interface. 
+
+And why am I allowed to instantiate SillyDB from inside itself at all? 
+
+Let's say I'm writing a PHP (>= 5.0) class that's meant to be a singleton. All of the docs I've read say to make the class constructor private so the class can't be directly instantiated. 
+
+I tried this but it just barfs. 
+
+I have the following code which is attempting to upload an image with metadata to a Picasa web album. 
+
+When the layout rendering code encounters this 
+
+Using the Magento Ecommerce system, is is possible to remove an item from the Admin Panel Navigation menu? More generally, is there a way to use the config override system to remove existing elements from a configuration? 
+
+<my_or_their_group translate="label"> is the name of the group your config variable will show up in. Groups are the Ajax drop downs that contain config fields. For example, the General section has a "Country options" group and a Local options" group. Again, check existing core modules if you're unsure how to place a value in an existing group. 
+
+One approach that's common when you're uncertain which way to go (as mentioned by cletus below) is to create an interface, and then have your abstract class implement that interface. 
+
+Performance: Who knows, it depends, profile. 
+
+You main code entry point in Java will be a method to a class, as opposed to PHPs main global entry point 
+
+So, for step 1, create a file at app/etc/modules named "Stackoverflow_Customconfig.xml", and place the following inside

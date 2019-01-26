@@ -1,0 +1,27 @@
+So you may not be able to state in simple premises the exact basis upon which you trust your observations, or state the degree of your certainty. But to act on the basis of that certainty is still often rational. 
+
+Flat space is only one among a number of different kinds of spaces. But instead of a nice symbol polymorphism we have a duality relation: (A => B) = (a in A <= a in B). This is just a compact version of Zeno's paradox. Instead of time and space, what you are dividing against one another are two spaces. The corner has zero probability of ending up anywhere, the same way that the point where Achilles overtakes the tortoise has zero breadth. 
+
+"Some unicorns are red" means the same thing for both the classical and Boolean cases. It implies there is a red unicorn. The two agree here, because 'Some' is an extension of 'or' and not 'and'. Something is true of some things if it is true of one or another of them. From the fact that clouds are the cause of rain we have: Particularly relevant are the comments Gödel gave one of the prestigious Gibbs Lectures at the American Mathematical Society in 1951. 
+
+We have to be clear about the difference regarding: assuming something as true, and proving something. 
+
+For simplicity, we will consider the case when Γ is the emptyset; in this case we have the previous version : Let assume some "technical" facts regarding Gödel's Incompleteness Theorems : 
+
+See Doxastic or Epistemic Logic : In classical and intuitionistic logic, the Principle of Explosion is often a basic law of inference. It is enough to consider a truth assignment v such that: 
+
+Your fallacy regards the "basic property" of validity : is quite useless; "cannot be" means "impossible". Thus, necessity is simply the negation of the possibility of the negation, which is quite "standard" in modal logic, but only moves the problem one step back. 
+
+If a theory T is complete (in the second sense, plus a second "technical" condition : effectively axiomatized), i.e. T is able to prove all true sentences φ expressible in the language of the theory, due to the fact that either φ is true in T or ¬φ is true in T, then T is decidable. Unfortunately, the semantics leaves the most interesting — and difficult — philosophical questions largely unanswered [emphasis added]. 
+
+6) ¬ P --- assumed [d] for ∨-elimination NO, completeness of first-order logic does not imply decidability. 
+
+2.2) Assume ¬R and derive Q from ¬R → Q and then derive Q ∨ R. Then ¬G is false; so, by soundness of F : F ⊬ ¬G. 
+
+[Note. If we consider the two formulae above, and we consider their meaning regarding the single arithmetical interpretation, now we have that one of them is true and the other is false. Due to the fact that there are infinite natural numbers (and so, more than one), we have that the formula : ∃x∃y ¬(x = y) is true in the arithmetical interpretation (consider e.g. 1 and 2), while its denial ∀x∀y (x = y) is obviously false (not all numbers are equal)]. Wiki's entry deduces it from Disjunctive syllogism: But nothing is said about the converse : we cannot have clouds without rain. 
+
+Side comment : the proof is intuitionistically valid. We can read it as : if we assume the Law of Excluded Middle, then the conclusion follows. But it would not answer this question. Universal Algebra and its cohorts Model Theory and Category Theory are fascinating in that they highlight commonalities we see between different logical structures we never imagined were so similar, and lets us classify them in a clean and compelling way. 
+
+You can tell, because you have thoughts that you have not articulated to yourself on which you act. You move toward something interesting across the room without even noticing you are doing so. You unconsciously avoid stepping on people's toes in a moving crowd. You absent-mindedly pet your dog... Flat space is only one among a number of different kinds of spaces. It seems to me that propositional logic itself, as usually used, is a top-down set theory. Instead of starting with elements, it begins with restrictions, and it may never converge upon an element. 
+
+But the new mathematical logic was precise and efficient enough to diagnose that its own paradoxes really are unavoidable (it is not that they are absent from Aristotle, just harder to see.) In light of these problems, one response is Intuitionism, which wants to see mathematics as something more psychological than we currently do.

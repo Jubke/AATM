@@ -1,0 +1,63 @@
+1). The last-aggressor situation. 
+
+2). The check-check situation. 
+
+Now, let's do it for 8 players. If you give 1 random card to each one, there will be: 
+
+Let's strip it down to its core: Pocket pairs are good because if you go against an opponent that doesn't have a pocket pair, he needs to hit the flop/turn/river somehow in order to have showdown value. You don't have to connect to the flop to do this, because you already have a pair. 
+
+Well, obviously like everything in poker, the answer is: "it depends". 
+
+This is a rare occurrence but, if it happens, then it's not a mistake to fold pocket Aces. Your chance of winning is less than 50 % and, since the bubble is about to burst, it makes sense. 
+
+Please note that these are the "official" rules. Each casino or home-game organizers can make up their own rules. However, you'll rarely see this, since it's pretty standard. 
+
+I usually never play 22-55 unless I'm deep enough (at least 40 BB). When it comes to 66-88, the value increases a bit so you can play the hand a little more often. 
+
+When to use a low-value range There is no time when an exclusively low value range is optimal. The purpose of including low value hands in a range is to extract additional value from high value hands, or to play more hands in general against opponents that fold too often. In the first case, you need high value hands in your range to make the strategy work. In the second, there is no reason to limit yourself to low value hands. 
+
+Effective stacks remaining are around $420. Hero checks. Villain instantly shoves all in. 
+
+The linear method is terrible - starting around 5/10 blinds, the structure would end up looking something like: 
+
+I call. 
+Board: Ts 6s 3h Qs
+Dead:  
+
+         equity   win     tie     pots won  pots tied   
+Hand 0:  64.352%  62.88%  01.47%  747       17.50     { KdKs }
+Hand 1:  35.648%  34.18%  01.47%  406       17.50     { JJ+, AQs+, AKo } 
+
+Preflop: Hero dealt Q♢ Q♣ 2 limpers to Villain in CO who makes it 13. Button and SB fold, Hero raises to 33, 2 folds, Villain calls. 
+
+The reason we need opponent tendencies here is to come up with an accurate preflop range to call a 3 bet with. I would default it to JJ+, AQs+, AKo. 
+
+To have every nut hand in your range: 22+, 32s+, 42s+, 52s+, ATs (pocket pairs; suited 0, 1, and 2 gappers; ATs) 
+
+Running it twice isn't really part of any official poker rules, so it will always follow the house rule. I would prefer that known cards not be reshuffled between - if the point is variance reduction, which it usually is, you have a better chance of realizing your true equity if the cards are not reshuffled. 
+
+Note that both values are one percentage point larger than the actual odds. Call this optimistic evaluation. 
+
+When you bet and you get raised, is there a situation where it is justified to just call instead of raising or folding? 
+
+In general to calculate your percentage of hitting you can do the following: 
+
+Five best cards win. Your five best cards would be TT222, hence indeed you have a full house which beats his TT66J hand. 
+
+If the player is quite aggressive, there is quite a large change he has a draw and tries to semi-bluff. If you just call you give him the opportunity to make his hand. Moreover, when faced a large bet/raise on the turn you have no idea where you are at (it might still be possible he made his hand on the flop). I think raising would be the best option, but you would probably have to invest allot to give him proper odds to fold a draw, so folding might still be a valid option. 
+
+Pocket Aces is the best. But it's not unbeatable. 
+
+Let's strip it down to its core: Pocket pairs are good because if you go against an opponent that doesn't have a pocket pair, he needs to hit the flop/turn/river somehow in order to have showdown value. You don't have to connect to the flop to do this, because you already have a pair. 
+
+This also applies to the community cards. And to the different ranks of cards as well (not just the suits). Which means that there's the same chance of someone making a straight or a flush when there 3 players at the table or 8 players. 
+
+Now, let's do it for 8 players. If you give 1 random card to each one, there will be: 
+
+Please note that these are the "official" rules. Each casino or home-game organizers can make up their own rules. However, you'll rarely see this, since it's pretty standard. 
+
+2). The check-check situation. 
+
+This is a rare occurrence but, if it happens, then it's not a mistake to fold pocket Aces. Your chance of winning is less than 50 % and, since the bubble is about to burst, it makes sense. 
+
+Now here's the key point: The next time you want to give to each of your 3 OR 8 players a card, the probability for each of them of getting a club, diamond, heart or spade is still 1/4, EVEN THOUGH there may be more or less cards in the deck.

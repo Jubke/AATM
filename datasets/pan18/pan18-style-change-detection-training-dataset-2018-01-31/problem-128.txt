@@ -1,0 +1,27 @@
+Cursed Chests operate in the exact same manner as resplendent and exquisite chests once the curse on them has been lifted. When you find a cursed chest, there is generally a short event you have to fight your way through to lift the curse. The events range from killing an elite mob that spawns nearby, killing a certain number of enemies within a time limit, or simply surviving a a few waves of enemies. In some cases, you can improve your loot by meeting certain pre-requisites, which will be outlined for you in your quest pane. 
+
+Normal enemies CAN drop a Legendary. Breaking barrels can drop a legendary. There is a chance of it happening, albeit a small one. The Auction House seems to be having a lot of problems right now, so be wary that it may be awhile before they have a response for you. While in menus, if you are on their friends list, they will have an option to "Quick Join" you. If they mouse over your name in that list, they will see who you are playing, what quest, and who you are partied with (but not their names, just portraits). While it's important to realize the random nature of the game and it's drops, here are some general observations I have made in my playthroughs. Keep in mind, your experience may vary: 
+
+In game, using just the friends list, they don't get this extended amount of info, however they will still see who you are playing as (name and class), what quest, and how many people. Is there a cooldown or do faster ticks/attacks proc the burn more times? Does it stack? 
+
+Now that I have 3x more DPS than the old tank build, even though I'm down quite a bit on defense, its easier since I kill them faster so I don't have to tank as long. Also, the really deadly effects such as arcane turret and ground effects can't be blocked anyway, making blocking less useful than killing the target faster. Lets assume you have 20% chance to crit base with 200% crit damage and 2 attacks per second. There is only a single enemy for you to hit. You can open up all 3 portals at the same time, you don't have to worry about portal placement like in d2 (raise your hand if you've borked yourself like I did by opening up 2 portals at the same place in D2), each portal shows up in a prearranged position. They are arranged in a triangle. When you use the inferno machine in the shack, one random portal will open up in one of the locations. I recommend just opening 1 at a time though, in case you can't handle the boss on that MP or if the game crashes, so you don't waste 3 inferno machines. 
+
+Finally, for the solo xper, this is my favorite XP path in act 1: An even faster way now is to join the Rift it Forward community (assuming you have enough keystones to open rifts) to quickly farm Rift Guardians as well as to gain blood shards for gambling purposes. You'll want to fight on the highest MP you can tolerate at since each additional level grants a 10% chance of dropping an organ. 
+
+I also tried to give my follower 2 of the same unique ring. He was only able to equip one of them, so followers also cannot bypass the unique equipped requirement. 
+
+Go to Festering Woods to gain NV stacks. TP to cemetary of the forsaken and take the northwest exit to Fields of Misery. Clear FoM using an optimal path until you either find the crypt or complete the area. Clear crypt if it exists. (optional) clear halls of agony level 2 (this area has pretty good xp/hour, higher than weeping hallow) Start new run. 
+
+What sources of damage trigger this effect? In particular, I'm asking about the passive equipment procs such as the Fire Chains from Maximus, Fire Walkers, and Pox Faulds. Do those count? What about damage from summoned units (Bowmen from Phalanx) and followers? 
+
+There are some limitations for this rerolling: 
+
+I disagree with the premise that SS will become useless as a glass cannon DH, starting out the fight strong is always important. If you can take things out within seconds, there's less chance of something getting close enough to kill you. 
+
+Currently I don't see why any class would use a 2 handed weapon (Except the Crusader for obvious reason) 
+
+Let's take a quick example by comparing 2 situations: 
+
+So you don't even have to worry about Kridershot turning elemental arrow into a generator. 
+
+While it's clear what toughness is, it's harder to understand how to optimize it. A common mistakes is to have a really high life pool (lot of vitality) and overlook armor and all resist. While your sheet toughness will look the same, if you don't have enough resistances and armor, your life pool is just a big amount of lie. It provides a fake sense of toughness when you can actually die really easily. If you need to finish a set, you can also use the receipe Skill of Nilfur that allows you to swap an item from a set to another random item from that set. Then use the Law of Kulle to get the desired affixes.

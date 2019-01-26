@@ -1,0 +1,21 @@
+Your skill relative to your opponents Your long-run winrate at a given stake/structure. As your skill increases relative to your opponents, you'll win more. As you win more, your long-run winrate increases. Simple. As your winrate increases, your variance decreases. The best .05/.10 player in the world might have a huge winrate measured in tens of BB/100 online, and a very low variance. 
+
+What I'll discuss is the relevance of StdDev in poker. So, what does StdDev tell you about your game? StdDev is an indicator of your variance. Your variance, in turn, is effected by many things. Two of the most important are: 
+
+In other words, StdDev has no direct relation to your absolute skill at poker. Other variables do. StdDev only has an indirect (at best) relation to your skill. 
+
+That is not to say that when your StdDev is high you need to work on your game. I mean, yes -- you need to work on your game, all the time, but it has nothing to do with your StdDev. The best online $25.00/$50.00 player in the world is probably going to have a long-term winrate that is much lower, probably measured in the low single digits in terms of BB/100. They have an edge, but their edge is smaller. So their variance and StdDev are going to be higher than the world's best $0.05/$0.10 player. Does that mean that the .05.10 player is better than the 25/50 player? Hardly. 
+
+But skilled players tend to move up in stakes. As you get better at poker and move up in stakes, you'll find that your skill relative to your opponents actually decreases. You may still have an edge, but your edge will be smaller. This will reduce your winrate, thereby increasing your variance and your StdDev. 
+
+I'm not going to discuss actual, hard numbers as most people familiar with StdDev in poker will declare something that can be interpreted as "StdDev is completely useless until you have 100k+ hands," -- a sentiment I disagree with in principle. You can gain some insight with far fewer hands. 
+
+That said, to play tournaments at the expert level requires balancing a lot of variables that can be mostly (or completely) ignored by play at the average level. There are a huge array of subjects when you start looking at ChipEV vs $EV considerations and many many complications created by differing stack sizes (both for you and your opponents) and by the state of the tournament. Many of these complications have no equivalent in cash games (though expert-level cash play has its own set of complications). Which leads me to the conclusion that moving into the expert level puts the two back onto a fairly even footing. 
+
+First, a look at ranges: I think he has AA/KK/Tx/88/33 here no more often than he has JJ or a busted draw (to the straight or the flush). And sometimes he'll turn up with utter crap. So if we say it's an even money bet, we're getting good odds on a call. 
+
+The reasoning behind this is, as John Dibling stated, cash games require more postflop play. That complication is forced into the game much more than any of the complications of high-level tournament play, and as such, average-level players must learn more to hold their own in cash games (while in tournaments, they can rely more on comparatively simple preflop decisions). 
+
+Theoretically, no. For every dollar you and your opponent add to the pot, you stand to win your dollar back plus some of his, regardless of his hand. However there are a few practical edge-cases worth considering. 
+
+You shouldn't be buying in with a stack that you can't lose. If you have $1000 to your name, you shouldn't be playing 5-10. Though it's still possible to win up to this amount. Consider you have $10,000 in your bankroll, and decide to take a very aggressive shot at 5-10 with 1 buy-in. If you lose it, you will move back to 2-5. But then the shot goes very well, and you run your $1000 up to $8000 or so. Most of the time, you should stand up. But let's also pretend it's a very soft table; someone is buying in for $1000 and losing it every hand with no sign of stopping. There may be a situation here that warrants folding AA against a different player; the value in the game so great that you don't want to leave, but you also don't want to take a 20% shot of losing roughly half of your net worth.

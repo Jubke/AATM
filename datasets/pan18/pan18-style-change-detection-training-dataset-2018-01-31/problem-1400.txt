@@ -1,0 +1,75 @@
+Working example: http://jsbin.com/udowo3 
+
+So when dealing with an accessor that doesn't return a jQuery object, if you don't know for sure you're dealing with a set containing at least one element, you need more defensiveness, e.g.: 
+
+For example: Live copy | source 
+
+No, there's no jQuery (or CSS) selector that does that. 
+
+Live example | Live source (The live links no longer work because of changes to JSBin) 
+
+Let's look at jQuery's use of it first, then talk about it more generally in JavaScript (a bit). 
+
+You don't know the elements will be there, but you don't care and just want to operate on them if they're there => no check 
+
+You care whether the elements are there for some other reason => do the check 
+
+Here's an example of code that fails the test because of the asynchronous call: 
+
+If you're using chained syntax: 
+
+You have a fundamental misunderstanding of what 
+
+So basically, there are three scenarios: 
+
+Or for that matter, give yourself a new tool: 
+
+To the general point: jQuery is set-based. This means that operations on sets with no elements in them are no-ops. E.g.: 
+
+When I say official API, I mean not hacking internals, going straight to Sizzle, adding a plug-in into the mix, etc. (If I end up having to do that, so be it, but that's not what this question is.) 
+
+But your best bet, by far, is to hook up the event properly: 
+
+Can someone please help me out here? 
+
+but then the other functions setTimeouts go into a tizzy and they get called a million times in a row without paying attention to the time 
+
+Here is a fiddle that shows a little of what I am trying to do: http://jsfiddle.net/maniator/K2B3q/ 
+
+in FF and Internet Explorer the dialog box shws up in the center, but in chrome it ends up on the left side. 
+
+What is the different in performance and the handling of these two different jQuery statements: 
+
+Extra Info to recreate the page without the fiddle: 
+
+In the end, isn't it the same? 
+
+My code is located here: http://jsfiddle.net/maniator/qAWuA/ 
+
+But it seems that it gets messed up at some points. 
+
+Ok based on you comment on your question: 
+
+Is there any difference if I do: 
+
+I am trying to set it up so that when you drag the item, it only gets dropped to the div element which you can see, and is not covered up. 
+
+I guys i'm using a datetimepicker by trentrichardson.com. 
+
+I have these textfield and dropdown menu for a 'Facebook' like autosuggestion: 
+
+p.s. the files both in local and remote are the same thanks Luca 
+
+Anybody have had this issue before? 
+
+I have a form with two input fields : from and to and i want to be able to set dynamically a minDate to my "to" field equal to the value of my "from" field. 
+
+The problem arises whenever i change the "localhost" src-path (inside the body tag)for a remote one (absolute or relative same issue..the js script doesnt work) 
+
+I know i should use a beforShow option but don't know how to implement the function. 
+
+plus you're missing the "-" between "element" and "id": 
+
+Your problem is that you didnt' close your php statement: 
+
+I'm using datetimepicker by trentrichardson.com and edited to give a green color to few days' cell at my choice with this css (through the beforeShowDay) :

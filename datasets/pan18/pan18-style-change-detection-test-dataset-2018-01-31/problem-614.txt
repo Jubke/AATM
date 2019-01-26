@@ -1,0 +1,45 @@
+Having said this, the details will all depend on your program structure, and you'll need to tell us more about this if you want more specific help. 
+
+When calling setLayout on a JFrame, you're actually adding the layout to the JFrame's contentPane not the JFrame itself since this method is more of a convenience method that transmits the method call to the contentPane. The BoxLayout constructor must reflect this since you can't add the BoxLayout to one container and then pass in as a parameter a different container. So change this: 
+
+First of all, your program design seems a bit off, as if you are using a JFrame for one of your windows where you should in fact be using a JDialog since it sounds as if one window should be dependent upon the other. 
+
+When using GridBagLayout for a tabular display of JLabel : JTextField, I like to have a method that makes my GridBagConstraints for me based on the x, y position. For example something like so: 
+
+The third phase (§15.12.2.4) allows overloading to be combined with variable arity methods, boxing, and unboxing. 
+
+Recently Apple modified their Technical Note TN2265 - Troubleshooting Push Notifications. They added a section about throughput and error checking. 
+
+Both variants would cause the following series of recursive calls : 
+
+It can take a while for the dropped connection to make its way from APNs back to your server just because of normal latency. It's possible to send over 500 notifications before a write fails because of the connection being dropped. Around 1,700 notifications writes can fail just because the pipe is full, so just retry in that case once the stream is ready for writing again. 
+
+If you try to send a large number of notifications in a high frequency (lets say hundreds per second), you can't stop after each message to wait for responses from Apple (even if you wait for a response only for 20ms, that would limit you to 50 messages per second, and you have no way of knowing how long it would take Apple to write the error response, so a short wait may not be enough). If you don't stop to read possible errors after each message, you risk your connection being closed during the sending of messages to Apple, in which case you won't be able to get the Id of the message that caused the connection to close. 
+
+When using GridBagLayout for a tabular display of JLabel : JTextField, I like to have a method that makes my GridBagConstraints for me based on the x, y position. For example something like so: 
+
+This is exactly what I meant when I said that the name of the variable is not as important as you think it is. The variable name is not the "object name" (this really doesn't exist in fact). 
+
+When calling setLayout on a JFrame, you're actually adding the layout to the JFrame's contentPane not the JFrame itself since this method is more of a convenience method that transmits the method call to the contentPane. The BoxLayout constructor must reflect this since you can't add the BoxLayout to one container and then pass in as a parameter a different container. So change this: 
+
+edit: this code below is all that is needed to demonstrate your error and its solution: 
+
+For example if you create a dog in a variable named Fido, and then assign it to a new variable named spot, both variables, despite having different names will refer to the very same object: 
+
+After seeing all the traffic this question got, I thought it would be worth it to expand the answer a little. 
+
+I am researching server side development of Apple Push Notifications in Java. I am using the enhanced format, in order to detect failed messages and resend messages that follow bad messages. I know that Apple to not guarantee the delivery of Push Notifications, but I wish to be able to know whether Apple received my messages and whether the contained any errors. 
+
+The return type of the ternary conditional operator must be such that both the 2nd and 3rd operands can be assigned to it. 
+
+Recently Apple modified their Technical Note TN2265 - Troubleshooting Push Notifications. They added a section about throughput and error checking. 
+
+It can take a while for the dropped connection to make its way from APNs back to your server just because of normal latency. It's possible to send over 500 notifications before a write fails because of the connection being dropped. Around 1,700 notifications writes can fail just because the pipe is full, so just retry in that case once the stream is ready for writing again. 
+
+Once everything has been sent, do one last check for an error response. 
+
+Both variants would cause the following series of recursive calls : 
+
+The third phase (§15.12.2.4) allows overloading to be combined with variable arity methods, boxing, and unboxing. 
+
+I noticed that when I try to send an invalid message (invalid device token, too large payload, etc...) to Apple, I can send several more messages before the socket is closed. When the socket is closed it's too late to read the error codes from Apple, so I have no idea which message was the bad one (or even if there was a bad message, since Apple say the connection may close occasionally even when there is no error).

@@ -1,0 +1,45 @@
+Note that this will not allow you to use one copy of Left 4 Dead to play with two people. Only one person can be playing games from the old account at a time. You also need to keep access to the old account so you can set family sharing up again on any future computers. 
+
+But, how do I do it? I've looked over all the menus and settings, and don't see anything for Big Picture Mode anywhere! 
+
+If two people are in the same group, they can message each other without being Steam-friends. This is a potential scam/spam vector. However, it's not a common one, in my experience. 
+
+On Steam, you have a Library and an Inventory. Your Library is the list of games you own and can play, but can't trade; your Inventory is the list of games you can trade but can't play. 
+
+Steam officially released Big Picture Mode today, for navigating Steam with a controller. They claim it can be used from the computer, without the need to hook up to a TV. 
+
+Opting out of the Steam beta (view --> settings --> account --> beta participation) fixed the problem for me. 
+
+The author was referring to the steam holiday gems. 
+
+Alright, so I signed up for the Steam Family Sharing Beta. I followed the instructions to share my games on my family member's computer. 
+
+They are a new feature (released yesterday) in which a steam user can turn their extra junk cards/backgrounds/emotes into "gems." These gems can be used to buy more cards; or, during the upcoming holiday event only, to bid on games. 
+
+If not through Steam, then maybe by visiting some website? Or using a browser plugin? Or an external program? 
+
+Also, according to this page, ARMA II Free can be used to play DayZ Mod (you still need to purchase ARMA II: Operation Arrowhead). That page also confirms that you get ARMA II Free using the "Download Demo" button in Steam: 
+
+When this question was asked, Steam Family Sharing was in beta. However, as of March 3rd 2014, Steam Family Sharing is out of beta and available to everyone. 
+
+Users on this page have confirmed that DayZ does indeed work with ARMA II Free. 
+
+Do'h! Looks like I just needed to restart Steam (even though I had already gotten the update...) 
+
+If you want to play a game in your Inventory, you can add it to your Library, but games can't move in the other direction - once a game is in your Library, it's there forever and can never be traded. 
+
+It doesn't seem like Steam was really designed with this use case in mind. (There's no such thing as Steam Parental Controls, for instance, although both my Xbox 360 and my Wii have parental controls, if I remember correctly.) I've found several threads where people were having similar issues with their kids. 
+
+Any shortcuts you drop into this folder will show up on your Start Menu, and any folders you create here will be created on your Start Menu as well. 
+
+Another thing that was brought up in that thread that I think needs to be said is this: 
+
+That having been said, if you're not interested in the online components of Steam for a given game (ie, Portal 2's co-op mode, and certain game achievements), it is possible to play multiple games -including multiple copies of the same game - from a single account on multiple computers at once. You'll have to put Steam into "offline mode" on all but one of the machines you plan to play on. 
+
+If you hold your cursor over "All Programs" for a couple of seconds, the menu will expand. You can then drop it into any of the folders, or leave it in the root of the "All Programs" listing. 
+
+They go further to suggest that in addition to protecting the content, you should also realize that kids with unsupervised access to computers will figure out a way around any level of protection - regardless of how foolproof, given enough time. (I was a living example of this as a child, sorry Mom & Dad!) You might consider putting the machine somewhere public in addition to these security measures, so that it's more likely that their computer time will be more closely supervised. 
+
+One suggestion was to change the shortcut to Steam so that it supplies a username and password from the command line, like so: 
+
+Note that Steam shortcuts are protocol shortcuts - like links to URLs, and not program shortcuts - like links to an application. If you move your Steam installation, they won't need to be updated. However, if you uninstall Steam, shortcuts to your non-Steam games that were created through Steam will probably cease to function.

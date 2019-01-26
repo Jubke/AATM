@@ -1,0 +1,45 @@
+The minimum is 4 characters as shown in the screen shots below. 
+
+an alternative to the bukkit plugin mentioned by Mathperson. 
+
+AMD Catalyst Drivers Recommended versions are 13.12, 14.4. 
+
+Have a world for mining then regenerate this world every day or week. even with a dif seed to make it interesting. That way the main world isn't an issue, Just make sure no one builds in the ore world. You can even make this have better ore gen and make it a rich world that way. 
+
+New blocks! Two new types of wood. Stained glass! With both blocks and panes. Packed ice, red sand, podzol. Lots of new flowers, including double-tall versions of current plants. Portals can be bigger sizes! 
+
+I used to make videos which had a lot of system-intensive gameplay, for example, 10,000 TNT exploding at the same time. 
+
+Once the mod is properly installed, there are a few things you can do to ensure maximum performance. 
+
+This is the only method i know of that works as you need a controller mod anyway as you cannot have two keyboards plugged in working for seperate programs. 
+
+Screenshot for Minecraft 1.7.2 
+
+New world generation! Double the amount of biomes, with new trees/flowers/blocks. New “Amplified” world option. Less ocean, more awesome. 
+
+to get items like glass and Ice you need to enchant these with Silk touch(quite Rare) 
+
+If the builds use these items they will simply not appear when you downgrade but what you could do is go into single player use a world edit utility and convert the blocks yourself to something similar 
+
+You will still see the old 3 digit usernames and the odd 2 digit ones. they are legit probably old accounts or developer exceptions. 
+
+Stone Pickaxe - Iron and above 
+
+The only solution i have been able to find which is still maintained is Ore Respawn which is a bukkit plugin which changes the mined ore to Bedrock and then after a configurable amount of time it will turn it back to the original ore. 
+
+I have attempted it without any special settings or modifications, and my Minecraft installation just crashes. 
+
+Item elevators can be made with pistons and solid blocks and you can use the example below created by Etho 
+
+Just to be thorough, for anyone using Nvidia, since a few updates to the mod we have a slightly different issue that we can use any Versions 32x.xx drivers, so make sure you have a driver that is 335.23 or newer Link to 64 bit version 
+
+Hit Next twice and then give the rule a name (minecraft Multiplayer) and click finish. Do this twice for both TCP and UDP and they will not be able to connect to multiplayer. 
+
+I have a project which I want to result in a large explosion, and I will be using about 50,000 TNT. I have a better computer than I had then, but with shaders I would be hard pressed to find anyone that could pull it off. How could I record something like this? 
+
+And last but not least. My favourite solution is to create a multiworld server using the MultiWorld Plugin 
+
+Though you could use a combination of hoppers and water, having the water flow into a hopper. This solution helps by not using as much iron. This would also help if you want to collect items dropped e.g. a wool or cactus farm 
+
+Another idea which doesn't affect generation is the OreGenerator Plugin which gives cobblestone generators a chance to spawn Ores.

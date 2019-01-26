@@ -1,0 +1,55 @@
+We've tried at the local bike coop, and nothing really works. A shim or boot on the inside helps but putting anything on the outside won't last. 
+
+Question What was the cause of this tear in my tyre? 
+
+The other numbers are useless to you. 
+
+Then a service - clean/lube your chain, clean your cassette, check wheel and BB axles for play/wobble. If you can do this yourself its free, otherwise its a service cost at the LBS. 
+
+Learn to unweight your bike if there's unavoidable potholes, or ideally learn to bunny hop. 
+
+My road bike has 700x25 tyres, so I picked 100 PSI and aim for just over that when inflating. The tyres are rated to 120 but that feels harsh and I get a lot more flats at those pressures. 
+
+You should also practice putting the tyre's logo at the valve stem. This way when you find the puncture in the tube you can lay it out on the tyre, and identify a 50mm area of the tyre to inspect closely. Makes finding the cause a lot easier. 
+
+By comparison, glueless patches are really glorified stickers. They don't bond to the rubber of the tube as well as one with vulcanising fluid/cement. But they're also a lot quicker to buff, slap on and ride more. Their maximum pressure seems to be lower too, so bad for roadies on 100psi, workable for MTB on 30psi. 
+
+Technique should not be discounted too - stop riding through roadside detritus and go around it. 
+
+And your fork and frame clearances would need to be enormous to let two wheel rims and two skinny tyres sit side by side. 
+
+There was a slight knobbly pattern to the shoulders of the tread, but the bare face had a solid line of flat rubber all the way around. So when riding straight and vertical, it was a slick. 
+
+Next options cost money, sorry. 
+
+Carry the right stuff - Water and some fuel is useful. A small thing like a lolly or a square of chocolate or a gel per hour of riding works for me for up to 3 hour rides, after that I need a more solid snack like a muesli bar or bliss balls. 
+
+These aren't likely to be the cause of the patch peeling off 
+
+The tyre is not new but its not old either - plenty of tread left. 
+
+Another technique to revise is how to fit your tubes/tyres. A mistake in fitting can contribute to later punctures, so never use screwdrivers as levers only plastic tools if you need one at all. 
+
+From https://gearjunkie.com/4-wheel-bike-antarctica-van-weelden 
+
+The tyre may be too wide for the rim - but its the original tyre which came on this bike from new. 
+
+Curiously, none of those numbers say anything about tyre pressures. 
+
+As motivation, consider a lot of lighter road bikes have a maximum rider weight of 90 or 95 kilos, so consider setting this as a target weight before buying a new bike. 
+
+When the ground was a little irregular, or when cornering the small lugs had a chance to bite. Cornering on the road stayed mostly on the ring of rubber though, so it was not squirmy. 
+
+Confirming that this is a wet-glue patch that has failed to stick? Possible causes for failure of a patched tube 
+
+Even using rubber cement and a puncture plug (like a car tyre) doesn't stick very well because bike tyres are not very thick, so there is insufficient "meat" for the plug to bond to. If you make the plug longer, it becomes a spike aimed at your tube and pressing in every rotation. 
+
+If its unopened you might be able to take it back to the shop and swap for the right size, but the difference between 2.125" and 2.175" is 0.05" which is only 2.3 % smaller so it would probably work fine. 
+
+Technique - look closely at others and see if you can observe differences between your technique and theirs. 
+
+I fitted hybrid tyres to my ebike and road speed improved, while track speed was unchanged. Sadly its gone now so I can't show a photo. 
+
+Downside, the pressures were 80 PSI , which took ages to get to on a 1.75" tyre. Plus it was a bumpy ride should the road be less than smooth. The weight of my batteries would have contributed too. 
+
+Another option that may work is dual rims, aka Dualies. Again a concept from the automotive world, this is where two rims are mated to each side of a vehicle's axle, giving four rims and four tyres per axle. The main purpose is increased load capacity, with secondary advantages of spare wheels for flat tolerance, and increased road contact for more grip.

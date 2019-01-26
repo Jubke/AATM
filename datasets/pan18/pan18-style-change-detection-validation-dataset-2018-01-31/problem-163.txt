@@ -1,0 +1,55 @@
+For a standard bike in normal use you should not, from the seat, be able to touch the ground (without leaning, or except, perhaps, on extreme tip-toe). 
+
+(And, of course, due to the weight of the frame, the frame strength would have to be beefed up, so you'd need more gold still.) 
+
+The reason that brazing is traditionally used on steel bikes is so that the temper of the chromoly tubes won't be wrecked. (The high temperatures associated with conventional welding would seriously damage the tubing.) 
+
+Gold is currently trading about $1300 per (Troy) ounce, so that works out to 145 * 12 * $1300, or $2.26 million. I think even carbon would be cheaper (and lighter). 
+
+A standard diamond frame (with horizontal top bar), for road use, should be sized so that you can stand flat-footed over the top bar with a "comfortable" margin (but no more) between the bar and the stuff above the bar. (A bike used off-road will generally be a bit more compact, and, of course, the top bar is often not horizontal.) 
+
+If that's not the case, there are still some precautions you can take. As Calfee notes, anodization will provide some protection. As well, regular removal and cleaning and reinstallation with carbon paste can help prevent excessive buildup. 
+
+The real issue is in the top tube length. Basically, for shorter riders you need to move the handlebars closer to the seat. But then you have to deal with the wheel possibly colliding with the pedals ("toe strike"), changing the head angle or the fork's rake, which compromises the handling, and/or having a proportionally longer top tube than would otherwise be indicated by the seat tube length. 
+
+Dropout thickness. This is the thickness of the metal plate comprising the dropout when looked at end-on. The tensioner cups the ends of the dropout, so must be large enough to fit over them. Steel dropouts are typically 5mm thick, while aluminum frames can have 8mm thick dropouts. 
+
+Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+Axle diameter. 10mm is the standard, but you'll also find models designed for 9.5mm (3/8") and 14mm axles on BMX bikes. 
+
+In both cases, you can use a caliper to determine the dimensions precisely, but a simple measuring tape or ruler should be sufficient. 
+
+It's likely that Sheldon's concern was for galvanic corrosion between carbon fiber and aluminum. This is an issue that's well-trod in both the bicycle and aeronautics fields. In essence, in the presence of an electrolyte (sea air, your sweat) and a cathode (carbon fiber-embedded resin) the anode (aluminum) will corrode. In the case of a seatpost/seattube interface, this corrosion will wedge the seatpost in place. This can, at best, make it extremely hard to remove the seatpost. At worst, it can render the frame unusable. 
+
+However, Cannondale, in their push to develop good aluminum bikes, invented the technique of rapid welding (since aluminum can't be brazed, and traditional welding worked poorly). This technique was transferred to the manufacturer of steel bikes, which is why most modern steel bikes are welded (without lugs) rather than lugged and brazed. 
+
+Gold is currently trading about $1300 per (Troy) ounce, so that works out to 145 * 12 * $1300, or $2.26 million. I think even carbon would be cheaper (and lighter). 
+
+See "J.C. Higgins Girls Flightliner" on this page. Perhaps not the exact bike, but quite close. And I think Western Auto was also fond of the "tank" between the bars. 
+
+(And, of course, due to the weight of the frame, the frame strength would have to be beefed up, so you'd need more gold still.) 
+
+Gold has a specific gravity of about 19, while steel has a specific gravity of about 7.8. So it would take about 4 times as much pure gold by volume, or about 9.7 times as much gold by weight. A 15 pound steel frame would weigh about 145 pounds in gold. 
+
+For your frame, it sounds like the Park Tool directions for securing bosses on carbon frames should work equally well. The top mount on the seat-tube is also the easiest to repair using this method, so you're in luck. 
+
+In both cases, you can use a caliper to determine the dimensions precisely, but a simple measuring tape or ruler should be sufficient. 
+
+It's likely that Sheldon's concern was for galvanic corrosion between carbon fiber and aluminum. This is an issue that's well-trod in both the bicycle and aeronautics fields. In essence, in the presence of an electrolyte (sea air, your sweat) and a cathode (carbon fiber-embedded resin) the anode (aluminum) will corrode. In the case of a seatpost/seattube interface, this corrosion will wedge the seatpost in place. This can, at best, make it extremely hard to remove the seatpost. At worst, it can render the frame unusable. 
+
+Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+On the significantly more expensive side, you could also consider a titanium seatpost, which wouldn't corrode. 
+
+Rodriguez Cycles did an excellent multipart essay on choosing between 650c and 700c wheels for road bikes, and the illustrated Cliff notes they provide should prove illuminating. 
+
+Dropout thickness. This is the thickness of the metal plate comprising the dropout when looked at end-on. The tensioner cups the ends of the dropout, so must be large enough to fit over them. Steel dropouts are typically 5mm thick, while aluminum frames can have 8mm thick dropouts. 
+
+There are two dimensions that matter: 
+
+Axle diameter. 10mm is the standard, but you'll also find models designed for 9.5mm (3/8") and 14mm axles on BMX bikes. 
+
+If that's not the case, there are still some precautions you can take. As Calfee notes, anodization will provide some protection. As well, regular removal and cleaning and reinstallation with carbon paste can help prevent excessive buildup. 
+
+I'm not sure how the formatting in this article got so ruined, but you can read more in this VeloNews Technical Q&A with Lennard Zinn.

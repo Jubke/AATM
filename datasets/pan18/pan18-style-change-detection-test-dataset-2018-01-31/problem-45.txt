@@ -1,0 +1,57 @@
+If not through Steam, then maybe by visiting some website? Or using a browser plugin? Or an external program? 
+
+If two people are in the same group, they can message each other without being Steam-friends. This is a potential scam/spam vector. However, it's not a common one, in my experience. 
+
+But, how do I do it? I've looked over all the menus and settings, and don't see anything for Big Picture Mode anywhere! 
+
+If you want to play a game in your Inventory, you can add it to your Library, but games can't move in the other direction - once a game is in your Library, it's there forever and can never be traded. 
+
+They are a new feature (released yesterday) in which a steam user can turn their extra junk cards/backgrounds/emotes into "gems." These gems can be used to buy more cards; or, during the upcoming holiday event only, to bid on games. 
+
+Note that this will not allow you to use one copy of Left 4 Dead to play with two people. Only one person can be playing games from the old account at a time. You also need to keep access to the old account so you can set family sharing up again on any future computers. 
+
+This only seems to work if you specifically exit the game, rather than let it close when you restart your computer. 
+
+Performing a partial reinstall (keeping your games) If you're certain this is not an issue with your anti-virus/internet security application and you haven't opted in to the beta, you can try one of the following to see if it resolves your problem: 
+
+Highlight the entry for "PATH" and click "Edit...". 
+
+Steam hides early access games from the "new releases" section of the store and provides a dedicated Early Access page to find new early access games. However, there isn't a general feature available in either the Steam client or the store website that allows you to completely remove early access games from the store. 
+
+Now there is a generic Downloads Restriction setting, too! Under Steam > Settings > Downloads, there is now an option available that allows you to specify a specific time frame to download updates. If you know you're going to be using mobile data for a specific time frame, you could use this functionality as a workaround to ensure that updates are not downloaded during that specific time frame: 
+
+In the Advanced tab, you'll see a button for "Environment Variables". Click it. 
+
+Steam not correctly closing when you shut down your PC Another thing that is mentioned in the Steam forums, is allowing Steam to verify all of its files and then closing Steam properly (rather than letting Windows kill it as it shuts down). What you'd do here is wait however long it normally takes to verify files and get into the main Steam interface, and then close Steam with the menu option (or system tray icon) before restarting it. After restarting in this manner, the file verification window shouldn't appear, since Steam would have properly closed all of its files when it exited. 
+
+If two people are in the same group, they can message each other without being Steam-friends. This is a potential scam/spam vector. However, it's not a common one, in my experience. 
+
+Alright, so I signed up for the Steam Family Sharing Beta. I followed the instructions to share my games on my family member's computer. 
+
+When this question was asked, Steam Family Sharing was in beta. However, as of March 3rd 2014, Steam Family Sharing is out of beta and available to everyone. 
+
+Users on this page have confirmed that DayZ does indeed work with ARMA II Free. 
+
+On Steam, you have a Library and an Inventory. Your Library is the list of games you own and can play, but can't trade; your Inventory is the list of games you can trade but can't play. 
+
+But, how do I do it? I've looked over all the menus and settings, and don't see anything for Big Picture Mode anywhere! 
+
+Meanwhile, I found this workaround at the Steam forums: 
+
+As for a solution - I've searched online and experimented a bit, and while I could easily bypass the first dialog, I could not bypass the second. To bypass the first dialog, just don't click "play" directly in the Steam game library. Instead, choose one of the following: 
+
+Sometimes, hitting Esc during cutscenes will pause the game - hitting it again will un-pause it. The sound is correctly paused and resumed as well, even mid-sentence. 
+
+Unfortunately, this doesn't always work. 
+
+Some people point out that if Steam is ever disbanded, you lose access to all the games you bought from them. If you will still have the physical copies of the games, it wouldn't be an issue. Note that some games require Steam anyway, so with those games the physical media won't help. 
+
+This is just a guess, though... if you want to know for sure, I suppose you can monitor the Steam process at the moment it is launched (e.g. with a network analyzer and some process monitor such as sysinternals). 
+
+If you aren't sentimental about the box, manuals etc., you can throw those away and just keep the DVDs in some designated disk holder - those are very efficiently packed together, I don't really see an issue with space or weight. 
+
+So, looks like it's a known issue being looked at. 
+
+This issue is also being actively discussed on the Steam forums, with no resolution at the moment. 
+
+If you feel your game will become a classic later on you can hold on to the manuals and sell them again in 15 years for collectors :)

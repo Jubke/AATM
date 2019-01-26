@@ -1,0 +1,39 @@
+The English "j" sound is a voiced postalveolar affricate, transcribed in the International Phonetic Alphabet as /dʒ/. It is indeed the voiced counterpart to the voiceless "ch" sound /tʃ/. 
+
+Yin, Yun-Mei. 1986. An Autosegmental Approach to Retroflex Suffixation and Reduplication in Chinese. Taipei: The Crane Publishing Co. 
+
+Some example words (I’m taking these from Wiktionary): 
+
+The words concúpiscent, concúpiscence, concúpiscible seem to be irregularly stressed (at least, according to their dictionary pronunciations; regularized pronunciations apparently have been heard "in the wild") when compared to words like reminíscent(-ce), dehíscent(-ce), oblivíscible, immíscible, permíscible, not to mention a lot of other words with -éscent(-ce). 
+
+A similar phenomenon to Irish eclipsis exists in Modern Greek, although more limited in terms of the number of consonants it applies to. According to Wikipedia's article on "Modern Greek Phonology": 
+
+But in other words, there is no *s reconstructed for the PIE form. Are there any historical linguistics hypotheses about the source of the rough breathing in these words (e.g. a prothetic *s- prefix that later weakened to a rough breathing, a shift [w] > [v] > [f] > [h], a sound change inserting /h/ before all word-inital /u/ at some point in Ancient Greek (that seems phonetically unmotivated to me, although I guess it's the most straightforward option), something like that). 
+
+In loanwords into Semitic, words that in the source language had unaspirated voiceless stops or back vowels have sometimes been given naturalized pronunciations with "emphatic" consonants. 
+
+In fact, it may even exist in several of the languages you mentioned, depending on the variety spoken, and how you define what you mean by "the English j sound." 
+
+(note: this answer is not complete, I am not a linguist and I have no personal knowledge of Chinese. I hope it is still of some use despite this.) 
+
+"Is it actually impossible for humans to pronounce a plosive at the end of a word?" No, not at all. In French, word final plosives often have audible release (I just say "often" because I only have an intermediate level of proficiency and don't want to make too absolute claims; this may be understating things). I'm talking about words that end with a consonant in the phonology, not in the spelling. E.g. the word "tape" in French is generally pronounced [tap] with one syllable ending in a released /p/. A disyllabic pronunciation [ˈtapə] exists, but is not usual except for in poetry/singing or in southern France, so I usually see it transcribed phonologically as /tap/ (although it seems that some more abstract analyses of modern French make use of the idea of some kind of underlying final schwa in words like this). 
+
+To give an example, in the dialect of Vietnamese spoken around Cần Thơ, open syllables whose vowel is represented by an orthographic i or y are pronounced approximately with a vowel sounding like [ɨi], so mì 'wheat noodles' is pronounced approximately [mɨi]. Orthographic o, on the other hand, is pronounced more or less like [ɑ], so mỏ 'snout' is pronounced [mɑ]. It is difficult to argue that [ɨi] is really a combination of [ɨ] and [i], because there are no open-syllable words having nuclear vowel [ɨ], and none having [i]; there is also no difference in vowel length between mì and mỏ. Anyways, let's try not to quibble over the this specific example more than necessary... 
+
+Eventual attacks on the phoneme from the side of generative linguists are anticipated by Martinet (1949), who argues that while most phonological concepts should be regarded as fictions, it is necessary to select at least one having status in reality, so that the theory could be grounded in facts describable in the languages of other branches of science. The concept he selects as "...la seule unité pour laquelle nous postulions une existence réele..." (1949: 46) [the only unit for which we postulate actual existence] is the feature rather than the phoneme. Martinet, however, appears to favor a non-mentalist conception of the feature. 
+
+Sapir's position is challenged by Twaddell (1935: sec.2), who is suspicious of the whole enterprise of inferring mental entities. A fine quotation from that work is given here: 
+
+Gussenhoven & Jacobs (1998: 55) "The term phoneme is used to refer to the segment category that the various allophones are variants of." 
+
+I am looking for any recent studies dealing substantially with "broken vowels," or vocoid elements which have a noticeably nonstable formant trajectory, yet for which there are no good phonological arguments that they are diphthongs. "Broken vowels" might alternately be referred to as vowels with an "offglide" or "onglide". 
+
+This situation is probably rare because it just happens to be difficult to produce a nonhomorganic nasal-obstruent sequence. A process like vowel harmony, on the other hand, is different, since it is not especially difficult to produce, say, a [+ATR] vowel and a [-ATR] vowel in consecutive syllables (see Archangeli & Pulleyblank 2007 for discussion of some examples of opacity in vowel harmony. There would be no strong articulatory pressure against an opaque rule interaction involving vowel harmony like there would with nasal place assimilation. 
+
+But in other words, there is no *s reconstructed for the PIE form. Are there any historical linguistics hypotheses about the source of the rough breathing in these words (e.g. a prothetic *s- prefix that later weakened to a rough breathing, a shift [w] > [v] > [f] > [h], a sound change inserting /h/ before all word-inital /u/ at some point in Ancient Greek (that seems phonetically unmotivated to me, although I guess it's the most straightforward option), something like that). 
+
+The phones [dʒ] and [tʃ] are both fairly common, as far as affricates go. Voiced obstruents are generally less common than voiceless ones, and [dʒ] is less common than [tʃ]. I found the following article that describes some phonetic reasons for this tendency for sibilant affricates in particular: Phonetic explanations for the infrequency of voiced sibilant affricates across languages. Nonetheless, [dʒ] is still not really rare. 
+
+The words concúpiscent, concúpiscence, concúpiscible seem to be irregularly stressed (at least, according to their dictionary pronunciations; regularized pronunciations apparently have been heard "in the wild") when compared to words like reminíscent(-ce), dehíscent(-ce), oblivíscible, immíscible, permíscible, not to mention a lot of other words with -éscent(-ce). 
+
+This is somewhat like how some languages have geminate stops at the start or end of a word, even though gemination is not always audible in these positions (I am thinking of Swiss German in particular).

@@ -1,0 +1,25 @@
+But in itself giving contradictory definitions with non-existent referents, and reasoning about them, is not a fallacy, although it does pose an old philosophical puzzle. Quine in On What There Is gave it a nickname that stuck:"Nonbeing must in some sense be, otherwise what is it that there is not? This tangled doctrine might be nicknamed Plato's beard". Plato mused over the nature of fleeting "sensibles", and famously assigned to them less than being, the becoming. This was a major point of difference between him and Aristotle, who saw becoming as a form of being, and argued against its dismissal by Parmenides and Plato. But objects nonexistent due to inconsistency, like round squares, pose the same logical problem: if round square is not what is it that there is not? 
+
+Thinking back, one realizes that Aristotle's solution was always incomplete: he says what time is not, which is enough to dismiss the paradox, but not what it is, which is needed to explain the puzzles of motion that give rise to it. Under different assumptions, physical theories give much more pointed and detailed answers. It is possible that some future theory would vindicate Aristotle somehow, but its description of time would have to be far more elaborate than his. 
+
+This is not to say that the ratio does not genuinely occur in nature (along with many others), or that some artists did not consciously use it, e.g. Dali in the Sacrament of the Last Supper. Le Corbusier, the architect, developed a whole system of proportions, called Modulor, which "was supposed to provide a standardized system that would automatically confer harmonious proportions to everything, from door handles to high-rise buildings." 
+
+Probability works when it narrows possibility to a manageable set of determinate outcomes at the expense of limiting their range and making them highly schematic. Modal logic tries to do the same, but trades quantitative precision for a wider applicability of qualitative conclusions. Even that may distort the notion of possibility. As Felt writes in Impossible Worlds: 
+
+The quote describes what Brouwer calls the first act of intuitionism, the splitting off of discrete from the comprehensive intuition of which discrete and continuous are idealized poles. 
+
+So to refine the short answer, probability quantifies not possibility in general, but a somewhat impoverished projection of it. 
+
+Moreover, in Kolmogorov's definition, the random sequence cannot be compressed, reduced, or divisible by... anything not equal to "itself." Or at least, I believe this is a crude rendering of his meaning. So this too contains a hint of absolute "singularity." 
+
+Fourth, a physicist (can't remember which one) said that if we had only thought more carefully about the ambiguous definition of a "point" we would never have been surprised by quantum paradoxes. Our instinct is to think additively. A good corrective to this is information theory, in which knowledge increases by the elimination of "uncertainty." A Hegelian "negation of negation." 
+
+We simply cannot reason about, re-flect upon, or re-cognize singular events, they are like the Kantian ding-an-sich. Yet the idea of randomness introduces this assumption of a kind of noumenal singularity. It surely exists, but we cannot know it exists. Like zero, it is a kind of negative construct that we introduce into ordering processes for certain abstract manipulations, but nothing the eye or even the mind's eye can see. 
+
+One form of Platonism entails the actual existence of mathematical objects. Godel and others were known to feel intuitively that they were working with and actually perceiving entities different from, but every bit as "real" as, physical objects. 
+
+It is well known that every Boolean algebra can be represented as the set-algebra of clopen sets of its associated Stone space. 
+
+The label conjecture is only used for proposition that might one day be decided to be true, false or undecidable. The proposition P≠NP is considered to be a conjecture, but the consistency of ZFC is not considered to be a conjecture. The reason why we believe that both propositions are true is that we haven't found efficient algorithms for NP complete problems, despite intense efforts, and we haven't found a contradiction in ZFC, despite making heavy use of it. We found unpleasant properties of ZFC like the Banach-Tarski paradox, but being an unsuitable model of physical reality is different from a mathematical inconsistency. 
+
+You might want to consider some potential commitments related to strong forms of mathematical idealism: Foundations of mathematics are neither necessary nor possible. Axioms have to be intuitively true, like Euclid's axioms for geometry. Mathematical object are at least as real as any object in the physical world. The question of whether objects like zero, infinity, square root of two, or square root of minus one actually exist is non-trivial and must be answered for each of these objects separately.

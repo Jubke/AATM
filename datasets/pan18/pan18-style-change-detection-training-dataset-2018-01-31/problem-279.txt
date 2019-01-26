@@ -1,0 +1,51 @@
+No. Spells, Magical enchantments, and Poison damage are never multiplied by sneak / power attack multipliers. 
+
+If you're looking for a general history of Tamriel, the realm in which The Elder Scrolls takes place, the UESP has you covered there too. 
+
+268.35 - this is a shot from my normal bow. It includes a 15 damage fire enchant. This implies that my bow shot did 33 damage, and 15 fire damage. 
+
+The more people like you, the more willing they are to let you "borrow" their stuff (and sell it back to them, in many cases). 
+
+You might want to double-check your wolf bites. Wolves have a chance of carrying "Rockjoint", a disease which decreases your melee damage dealt. NPCs use those responses for all diseases, not just Porphyric Hemophilia Sanguinare Vampiris (aka, Vampirism). 
+
+But the NPCs are probably right too - you're suffering from something. The simplest way to fix all this is to cast a Cure Disease spell on yourself, chug a Cure Disease Potion, or the like. 
+
+Consider: A Daedric Sword has only 7 more base damage than the Iron Sword you get in the tutorial. Percentage wise, this is pretty massive -- Daedric is 200% of Iron's damage -- but once you add in the +10 from smithing, you get 17 and 24. Suddenly, Daedric is only 140% of Iron. The higher above Legendary (Smithing: 91) you go, the closer the relative percentages. 
+
+You're going to need access to a Fence if you want to sell your bucket-gotten gains. The Thieves guild provides access to them (after completing the 2nd quest). 
+
+Important NPCs are invulnerable, like Oblivion. 
+
+The Cyrodillic Fighter's Guild from Oblivion does not return in Skyrim. Instead, you may want to check out The Companions, a group of soldiers, fighters, and mercenaries for hire. 
+
+The level 46+ version of Chillrend (a blue Glass Sword) also narrowly edges out daedric, again, by one base damage.] 
+
+So the good news: You're probably not accidentally a vampire. 
+
+Other than that, the games are completely distinct, character-wise. 
+
+Because it takes place so far from the rest of the games in the series (both temporally and geographically), there are few characters or locations that are relevant to any of the past games. 
+
+According to the in-game book "Killing - Before You're Killed" by Eduardo Corvus, blocking with a weapon is less effective than blocking with a shield: 
+
+You can test the effects on yourself with the following potions: 
+
+Ravage Health reduces your maximum HP. Damage Health deals damage. 
+
+The high elf is even better at magic than either of these races. They start with +50 Magicka and have the racial ability to increase Magicka regeneration rate once per day. 
+
+According to the Elder Scrolls Wikia page on the Block skill, you also cannot block with a spell in one hand and a weapon in the other. 
+
+Any race makes about an equally good stealthy wizard. Unlike many RPGs, elves in Skyrim are not physically weaker than humans. The only significant differences between the Breton and the dark elf are: 
+
+In the Elder Scrolls V Skyrim: Official Gameplay Trailer, the character fights a dragon at the edge of a cliff. What is this location? Is it a real location in the game? 
+
+There isn't even infinite variety in generated quests, as they are "parameterized", meaning that they're in the form of "Steal an <item> from <person>" or "Kill the <group> leader in <dungeon>". Each parameter can only be selected from a preset list, meaning it's possible to get duplicates. This is particularly apparent in the Thieves' Guild's bedlam jobs, which appear to only have a single parameter and a very short list (the nine holds). 
+
+Via drop-test (dropping an item and seeing whether its fall stops), the following actions appear to pause time: 
+
+For this reason, there's no specific limit to the number of quests you can be on — you're on all of them at once. Generated quests (those which are "infinite") simply have your progress reset when you complete them, allowing you to take them again (and because they're random, they're unlikely to be the same twice). 
+
+opening any of the tabs of the System menu any action which indirectly opens your invenory opening your Favorites 
+
+Rather than tracking a list of quests you're on, Elder Scrolls games track your progress on every quest simultaneously. If you haven't discovered a quest, you simply have no progress at all. (And it therefore isn't "active".)

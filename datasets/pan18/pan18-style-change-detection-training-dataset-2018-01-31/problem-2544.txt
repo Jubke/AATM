@@ -1,0 +1,57 @@
+Note that whichever operator is "higher" or "outside" can "see" the "lower" or "inside" one, so linear logical notation is suitable for describing the inevitable ambiguity of multiple operators. 
+
+There are two basic varieties of grammar; all languages have some of both kinds, but, depending on the kind of language involved, there's a lot of variation in how much of each kind they have. 
+
+And that's why we take "things", and their properties, and their consequences, for granted in natural language; and why all this has to be spelled out in painstaking and pathetically detailed form for computers, which don't have bodies or experiences to refer to. 
+
+In other words (sorry), linguists don't define the notion of "word", except in particular circumstances, under particular conditions, for particular purposes. It's not up for general revision, and linguists have no authority to change people's vocabulary in any case. 
+
+This can be extended ad libitum, with stacked prepositional phrases. Among others, Ross gives the extreme example (antecedent and coreferential relative boldfaced): 
+
+is ungrammatical. It should be 
+
+In a polysynthetic language like Lushootseed, on the other hand, there are a lot of situations where it's hard to tell the difference between a word and a sentence. For instance, 
+
+In other words, ergative/absolutive systems don't normally have a category "subject", just as nominative/accusative systems don't normally have a useful category "absolutive". Every clause has a subject in one system, and every clause has an absolutive in the other; and in both systems there are specialized cases that occur only with transitive verbs. 
+
+Epistemology is usually studied (and cited) together with ontology, because epistemology tries to answer how we can know about reality, including "things", i.e, how do we know what a "thing" is? and how do we know what properties "things" have? Etc. 
+
+Scope comes originally from a Greek word skopoi, 'a target to aim at'. The Greek root skop- is an ablaut variant of the verb σκέπτομαι skeptomai '(I) look at/examine/consider/think' (that's where both scope and skeptic come from). The earliest senses of scope in the OED have that same meaning -- a mark or target to aim at. 
+
+Absolutive, on the other hand, is a generalized replacement for many other earlier names, including nominative, for the most common, default case in an ergative/absolutive system, which, besides being theoretically "the unmarked case", is often actually unmarked. Some preferred nominative because in split-ergative systems like most Pama-Nyungan languages, where the nouns use an ergative/absolutive system while the pronouns use a nominative/accusative one, the same morpheme often shows up as both absolutive with nouns and nominative with pronouns. 
+
+Linguists only get to define technical linguistic terms in a technical linguistic contexts, like, for example,the fact that there are only two tenses in English, instead of the 6 or 12 or 67 that one might have been told about in what we laughingly call "grammar school". Or like Matthews' distinctions between three different senses of word. 
+
+Supposedly, pragmatics is any part of what we laughingly call the "meaning" of an utterance that can be figured out by the listener. 
+
+Jim McCawley put it this way, when he was describing his research areas: 
+
+Edit: Rereading the question, I just realized that example (1) 
+
+All of physical ontology -- real "things" -- is based on the human body and its sensory systems, since we need to perceive things in order to be sure they exist, and since the sensations of a human body -- like our experience of position, gravity, movement, and color -- are the only things humans have in common that everyone can depend on others' understanding, too. 
+
+and other topics, like speech acts, irony, and politeness. Everything else is semantics. Or so it goes. 
+
+Haj Ross is responsible for the name Pied-Piping for this phenomenon. In his dissertation Constraints on Variables in Syntax, he says it reminded him of the story of the Pied Piper of Hameln, who led the rats (and later the children) out of the city with his music. 
+
+To take the questions in order, ... 
+
+The other part is called Syntax. It has to do with the external economy of words, including word order, agreement; like the sentence For me to call her sister would be a bad idea and its syntactic transform It would be a bad idea for me to call her sister. That's syntax. English grammar is mostly syntax. English is an analytic (uninflected) language. 
+
+As stated in the Intro Syntax textbook, the statement is biased; or, if you prefer, it's a category error. 
+
+This is an optional rule that applies only in a minority of relative clauses where the relative pronoun is not a subject or object, but rather the object of a preposition. 
+
+Grammar is a (occasionally the) set of rules for the organization of meaningful elements into sentences; their economy, in one sense of that word. 
+
+And so is Berlin and Kay's work on color terms, which is squarely based on the structural differences between how humans perceive colors physiologically and how we talk about them. 
+
+And even in English it's not so simple to identify words, let alone count them. 
+
+In a case system that uses Ergative and Absolutive case names, there is no such thing as a "subject" or "object". It's precisely equivalent to the statement 
+
+has three semantic roots:   1. haʔɬ '(be) good, well'   2. yiqʼ- 'weave [baskets]'   3. luƛʼ 'elder [person]' 
+
+As for the etymologies, ergative comes from the same Greek root as energy; with transitive verbs, the ergative is normally the agent (prototypically human), and in many languages this is generalized to a mark of agency or volitionality with various verb classes and constructions. 
+
+Yes, but the term "ontology" is not always used; it's pretty general, after all, just the Greek for "words about things". In the case of philosophy or science, it means "questions about 'things' -- i.e what are "things"? and what properties do "things" have?

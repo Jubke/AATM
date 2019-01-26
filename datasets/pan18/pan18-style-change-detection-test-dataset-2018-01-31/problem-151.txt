@@ -1,0 +1,29 @@
+Example of the debris removed from a new chain after the first solvent bath. 
+
+3-speed drive trains should naturally have a straight chain line and lots of room for the chain, which is typically wider. So I doubt that the chain is too wide. 
+
+UPDATE The online retailer (guessing chainreaction) may also be selling an OEM (Original Equipment Manufacturer) chain: 
+
+Lubes I noticed you mentioned choice of lube 
+
+I suspect the LBS did not correctly insert the chain pin, when reassembling. If this was the case the pin could be protrude on one side and potentially catch on various drivetrain components. Continually catching will stress the chain. If the protrusion is significant enough to catch, on the opposite side of the protrusion the pin may not be sufficiently inserted into the outer link plate. Eventually the catching could cause the partially inserted pin to pop out of place, breaking the chain, leaving you stranded. Check where the chain broke to see if the pin at the break point is reasonably flush to the outer link plate or protruding by a large amount on the side where the pin is still in place. 
+
+I have never personally had access to OEM (equipment purchased by bicycle manufacturers) so I cannot confirm whether or not this is how the chains come. Either way, the forum thread suggests assembling with these short pins can be difficult (other answers discuss how to do this). You may wish to purchase a connector pin as this is how Shimano intends home mechanics to assemble chains. 
+
+To remove mud or sand, use the bristle brush (which comes with every 120ml packing of KMC’s chain lube Pro), use light soapy warm water, if necessary. 
+
+So, it doesn't matter which one you buy in the long run -- the chain just has to be long enough to begin with (unless its a bike which needs a longer chain, like a tandem in which case you need to buy 2 chains and combine them). 
+
+Do not forget the sprockets, front changer and derailleur pulleys. 
+
+Regular lubrication will extend the chain's service life. Apply oil to the chain links rollers and allow to work in. 
+
+I'd get a new chain and use a chain tool next time. 
+
+The PG-1070 is a 10 speed cassette, so you just need a SRAM 10 speed chain (PC 1031, PC 1051, PC 1071, PC 1091, PC 1091R) [KMC also makes some SRAM compatible 10 speed chains if you choose to go that route, but the SRAM chains are reasonably priced and might work a bit more smoothly, so I don't see a point in going non-SRAM.] 
+
+This link explains how various common tools are inaccurate (including yours). Tools which are accurate are Shimano TL-CN40 and TL-CN41 and Pedro’s Chain Checker Plus. To quote Sheldon Brown on the reason why: 
+
+The other options are chain guards or full chain cases (possible with an IGH if you need gears) or belt drive. And tying your pant legs helps a good amount too. 
+
+You can clean your chain periodically (e.g. Park Tool CM-5.2 Cyclone (TM) Chain Scrubber, which clamps onto the low tension part of the chain, runs the chain through a pool of cleaner with some foam and bristles to scrub it as you back pedal), and relube it, but the crud from road and stuff will make any lube dirty quite quickly. Some more elaborate and thorough ways of cleaning a chain (with considerably more work) are outlined here.

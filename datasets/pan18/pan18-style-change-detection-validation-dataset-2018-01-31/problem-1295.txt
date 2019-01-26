@@ -1,0 +1,35 @@
+This process is not unique to General American. It happens in British dialects as well. 
+
+Obviously, as David Crystal puts it, "the incomers had no interest in preserving the distinctive Anglo-Saxon letters" (Crystal 2012: 60). Moreover, the West-Saxon educated elite that was responsible for developing and maintaining the WS standard gradually lost power and by the end of the 12th century their spelling practices were abandoned (Blake 1992). 
+
+OE cwen => eME cuen, cwen, quen, quuen, qween, kuen etc. 
+
+Phonetics isn't my forte, so I don't follow literature on phonetics and I might be wrong. Here's my guess. An affricate is a stop followed by a fricative, homo- or heterorganic (same or different place of articulation). The tip of the tongue is retracted (moved back) for "t/d" in anticipation of the following "r". In fact, O'Connor 1994 argues that it is on the front of the hard palate. See below what he says: 
+
+In British English, things are way more complicated. Although [əʊ] is the most common variant now, there are other variants, too; see part 8.10.4 in Gimson's Pronunciation of English (7th ed.). 
+
+What happens is that in connected, fast speech function words get unaccented and "show reductions of the length of sounds, centralization of vowels toward /ə,ɪ,ʊ/ and the elision of vowels and consonants" (Cruttenden 2014: 273). 
+
+In The Linguistic atlas of England, you can find excellent maps; see, for example, the word "oak" (or loaf, toad etc.), which is not diphthongized in some dialects. 
+
+dr: "there is friction as the voiced air passes over the tongue-tip for the /r/." 
+
+The letter Q was rarely used in OE; thus, [kw] was usually spelled cƿ (c followed by wynn). So called Norman scribes started to latinize it by replacing it with "qu" in English words: 
+
+It doesn't provide rules for how these must be used for any particular language. Hence you will find for many languages, including English and Mandarin Chinese, that many sources will use the IPA a bit differently. 
+
+So what's happening here? I can't seem to find anything mentioning approximants or semivowels in Georgian at all. 
+
+From the Wikipedia article on Malay phonology: 
+
+I've always seen a dot below the syllabic consonant. This is common in British dictionaries which indicate syllabic consonants - the various dictionaries vary quite a bit in this regard as it happens. But the majority of British dictionaries do use IPA which is still quite uncommon in their American counterparts. 
+
+I'm an armchair linguist. By this I mean it's been an absorbing hobby for decades by reading books and online and playing with many languages. But I've never taken any course or other kind of formal training. So I'm lacking knowledge of things which are best learned in a formal setting or which require special equipment. 
+
+It's pretty well accepted (I think) that it's hard to linguistically analyse your own speech. 
+
+So is this a case of language pride or is Czech really the only language with this sound? 
+
+And the answer is in. Check the new English Wiktionary entries for 做错 and 做錯: 
+
+I am now interested in knowing exactly where on the cartesian vowel chart each of the vowel phones of my personal idiolect occur.

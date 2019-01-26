@@ -1,0 +1,47 @@
+The words derived from non-IE language were often anglicized, latinized or hellenized before entering English. 
+
+Below is an excerpt from Fortson's "Indo-European language and culture". All listed words are supposed to be Russian and used to analyze sound changes: 
+
+Also each vowel can be stressed or not, but no more than one vowel per word. 
+
+Proto-Indo-European is widely believed (see e.g. Beekes) to have only /e/ and /o/ (and their leghtened variants). This is somewhat a simplification because u̯ and i̯ which behave as consonants morphologically, could be vocalized into vowels between consonants. So it is better to just say that PIE had only /e/ and /o/ kernel vowels. 
+
+For soft version of it, Serbian uses Ђ ђ (Đ đ in Serbo-Croatian Latin), Altai uses Ҹ ҹ, Tatar uses Җ җ, Macedonian uses Ѓ ѓ (in Macedonian it is an allophone of another consonant though) 
+
+Russian contrasts soft [р'] with hard [р]. 
+
+The suffix -ism is derived from PIE adjective suffix combination+ending -ismos 
+
+For hard version of it Serbian and Macedonian use Џ џ letter, Tajik uses Ҷ ҷ letter, Azeri Cyrillic uses Ҹ ҹ (Azeri Latin uses "c" in some positions), Khakassian uses Ӌ ӌ, Gagauz and Moldovan (Romanian Cyrillic) use Ӂ ӂ, Udmurt uses Ӝ ӝ, Kalmyk and Turkmen use Җ җ. 
+
+The vowels come in 2 variants for me: the variant coming after a soft consonants and the variant coming after a hard consonant. I would call them "soft" and "hard" vowels, although the Russian phonology does not use this distinction. For me the distinction is like between German u and ü and o and ö. For me soft vowel comes always after a "soft" consonant and a "hard" vowel always comes after a hard consonant (that's why they are not considered distinct phonemes in Russian phonology), yet for me either "soft" or "hard" vowel can be at the beginning of a word, a distinction not existing in Russian, but existing in German. 
+
+Leviathan is just a borrowing from Hebrew with little change. 
+
+I can tell you that when I read professional linguistic literature, I usually face with ad-hoc transcription systems, without any proper description. The professional comparative linguists even when dealing with Russian that contrasts the two, often use "j" where there is no such sound! For instance, I often see things like "bjelo" when dealing with Russian, even though this field requires precision in depiction of phonemes! 
+
+For instance, the traditional reconstruction for the word for daughter is dhuga̯tēr which has vocalized /u/, but according to Kloekhorst the most ancient form was dhu̯ega̯tr. 
+
+But what??? How does he indicate palatalization? In multiple different ways! At the end of the words he uses apostrophe, except the word kakoj where he does not indicate it at all. In the middle of the words he either uses "j" in words that do not have this sound (knjaz', desjat') or simply does not indicate palatalization at all (čtenie has all 3 consonants palatalized, but it is not indicated by Fortson, dennica has 2 palatalized consonants, d and n). In word desjat' all 3 consonants are palatalized, but Fortson does not indicate palatalization at all in the first case, uses "j" in the second case and apostrophe in the third case. Three different methods in one word! 
+
+plea̯ti̯om a kind of dress (cloak) 
+
+Other words derive from PIE words ending with -m-os and -n-os (which was a common derivational construction) with the ending -os later disappearing. 
+
+I do not know for an average person, but I can describe my own situation. 
+
+For example, the -tion suffix comes from Latin, where it is inherited directly from PIE -ti̯om. It is a common combination of suffixes plus nominative ending of neuter/inanimate gender. Some examples of the reconstructed PIE words with that suffix: 
+
+If you are asking how to understand it based on IPA notation, the following "j" in IPA means that the following consonant is /j/, while palatalization should never be indicated this way. It is usually indicated either with superscript "j" or special character for the consonant or special character for the following vowel, depending on language. 
+
+This is because the Proto-Indo-European language from which English derives had the ending -om in nominative for inanimate(neuter) nouns. Some words and suffixes were borrowed into English from Latin and Greek who also derived from PIE. 
+
+This may be not the case for the most older stage of PIE, the so-called pre-PIE. In that language it is quite possible that the only two vowels were /e/ and /o/ and possibly even only /e/ because /o/ appeared as unstressed /e/. 
+
+Python and Marathon are borrowings from Greek where -on is the nominative ending directly derived from PIE nominative ending -om. 
+
+Of course there are other phonemes in different languages, but I have just described what I myself can recognize and produce. 
+
+I also recognize the following vowels: 
+
+This is normal consonant, as you mentioned, it is the voiced version of "ch". Besides voicity it (like "ch") can exist in soft and hard variants.

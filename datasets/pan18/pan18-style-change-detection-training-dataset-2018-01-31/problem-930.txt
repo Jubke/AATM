@@ -1,0 +1,15 @@
+This is the real problem with trolls, they exhaust a community's regulars and create a - frankly quite counterproductive - atmosphere of suspicion. Don't fall in that trap, if you don't have concrete evidence that a question is actually from a troll, assume good faith. Unusual questions appear all the time, there are several other reasons that might lead to unusual and seemingly arbitrary requirements in questions. 
+
+As I pointed out in comments, your question isn't really specific to our profession, at least not in the way it was presented, as it applies to every creative profession. It's really off topic for Programmers, but I elected to close it as "not constructive" because I thought it better conveyed the message of what was wrong with your question and that it would be easier for you to revise it and make it a bit more specific for Programmers. If you have issues with that, please bring them to Programmers Meta, they are off topic for Meta Stack Overflow. 
+
+But at the end of the day Stack Exchange is not the software, it's the community. Let see if Guru.com can clone the community. 1 An industry standard term, used when not even the slightest effort is made to hide the fact that a UI is a knock off. 
+
+All contributions on Stack Exchange are licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license, and by posting code on Stack Overflow you agree to be bound by the terms of that license. 
+
+computational is now also burninated. It was being used most frequently to refer to computational complexity, which is covered by complexity (and, irritatingly, computational-complexity, which I'll be fixing in a moment). While nuking, I discovered var-export and var-dump, which has around 46 questions. I've nuked var-export, as it only had 4 questions, but I've left var-dump alone when it wasn't paired with print-r. It should also be nuked, but that'll be a different discussion. Most of the questions are probably going to be about debugging (or, worse, parsing output... sigh). 
+
+I've now completed removing computing. 
+
+I cleaned up half of computing. It turns out that someone synonimized cloud with cloud-computing, which is going to make it hurt for people that don't know to look for tag synonyms when picking tags. Sigh. 
+
+Sigh. We don't need a tag for every single function in every single programming language. Most of the questions in print-r are "why does it look like that" and "how do I parse the output." A few were about using it to assist in debugging.

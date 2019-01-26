@@ -1,0 +1,53 @@
+Solution I originally thought of hiding and showing options, but it turns out that approach is not cross-browser compatible. The easiest, cross-browser method I have come across is creating a copy of the original select options and replacing the options once the user has made a selection. I wrote a little jQuery plugin that makes it a bit more reusable. 
+
+Here is a jsfiddle to play with. I am trying to style the divs to fill the entire contents of the table cell. That means that the background color should fill the height of the table cell. How can I get the div to fill the height of the table cell? 
+
+Note: I'm not trying to go up a directory, otherwise I would use ../ I'm simply trying to stay in the same directory. Since there is a slash after SITE_ROOT, I can't leave it blank or it would become a root relative link. Update: If possible, I would also like to offer the ability for the user to style the content. Is that possible with an iFrame? I want the embedded content to look as much like the rest of the page as possible. Update: Will this work with IIS? I've developed an application that creates absolute links by prepending urls with the site root (of whichever site it is hosted). 
+
+I have a Zend Framework PHP web application. I am going to create a simple API that will output a report for the user's account. The content will be as simple as this: 
+
+I am starting to build "drill-down" select elements (select elements that filter their options based on previous options you have selected. 
+
+Also, the reason I am asking this is because I can't style the td tag due to a workaround in my JavaScript. 
+
+Update: This may help to visualize my specific problem: http://jsfiddle.net/pjd6x/8/ There is an overlay that is appearing on top of the table (intentionally) and below the divs (also intentional), but I would like the divs to be the same height (to look as if they are filling the contents of the tds). 
+
+If you want to state that a document is written in Spanish then use: 
+
+You can have an entire table inside a form. You can have a form inside a table cell. You cannot have part of a table inside a form. Browsers may perform error recovery, but you should never depend on that. Attributes are defined by HTML. Properties are defined by DOM. Use one form around the entire table. Then either use the clicked submit button to determine which row to process (to be quick) or process every row (allowing bulk updates). 
+
+This is a poor man's version of a real HTTP header and should really be expressed in the headers. For example: 
+
+This isn't defined in any specification (including the HTML5 draft) 
+
+There is space below that line for the descenders you find on letters like f, j, p and q. 
+
+The most obvious, practical example is: 
+
+Any element can be styled. Take, for example: This allows each radio button to be labeled while also providing a label for the group as a whole. This is especially important where assistive technology (such as a screen reader) is being used where the association of the controls and their legend cannot be implied by visual presentation. 
+
+Because they are HTML elements like any other and there is no reason to write special case rules in the HTML specification (which would add complexity) to prevent CSS from applying to them. By default, an image is rendered inline, like a letter. Yes. Only comments and the end tag for the html element are allowed after the end tag for the body. 
+
+It sits on the same line that a, b, c and d sit on. 
+
+Certainly no common ones, but general rules aren't designed to make sense for everything that you can apply them to. They are designed for the common cases. Note the use of float. You can play with this (as in the answers above) to achieve the results you want. 
+
+For the first part of your question, you can add the borders without changing your markup generation by adding a simple css rule: I've put an example jsFiddle up for you. 
+
+You can simply use the HtmlAnchorClass. See http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.repeater.itemdatabound.aspx 
+
+In effect, a simple example is: 
+
+By moving the image div into the area below content, and floating it left, whilst sizing the other elements to fill their parents (and to float), img will now be below the header and content. 
+
+You are almost there - your use of apply-templates is causing you the problem. 
+
+You can then avoid the looping and structure your table in the ASPX, which will make maintenance a lot easier. 
+
+For the second part of your question: 
+
+You can find the image control by doing: 
+
+Lots of options, and you have a cleaner separation of presentation and code. 
+
+Your problem is that you have child elements that are floated, in a parent element that isn't floated. In this instance, the children, although contained by the parent, will not be "aligned" with it, as they aren't in the same "positioning" hierarchy.

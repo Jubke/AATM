@@ -1,0 +1,13 @@
+I mostly don't have any problems with the title of our labels. They are the type of labels which most of you did mention in your answers. 
+
+A simple example would be something like this (this is a manual check procedure for the service technicians, it's not meant for the operators of the machine): 
+
+Again, I don't have any problems with these labels. 
+
+I have to further explain my intent here. I'm writing down some procedures in operating manuals and servicing manuals. I mostly use numbered lists and sometimes just bulleted lists. Recently I started to realize that some of the steps that I've written were in fact not ordered steps but parallel processes. My first reaction to correct those problems was to merge such steps into one step and describe the simultaneous character of the processes in the step explanation itself but this solution turned out to create very ugly and long procedure explanations. This problem is best seen in the textual parts of how-to processes in a flowchart's text. 
+
+My question is if there are common practices to write parallel processes in a step-by-step procedure. I saw some kind of visual solutions before which combined the use of boxes in a flowchart-like outline but when you already write step explanations for how-to steps of a flowchart this solution doesn't apply. 
+
+Thanks for your answers. I mostly conclude with every answer but I have to apologize to all of you because I think I did mislead you by not presenting my case in detail. I'll give more details even if it's a little bit late. 
+
+Note: These label are printed on a transparent material which is the reason for different font colors. The ones with black fonts are meant to be fixed on light colored panels whereas the ones with white fonts are meant to be fixed on dark colored panels to enhance the readibility.

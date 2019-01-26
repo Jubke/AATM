@@ -1,0 +1,33 @@
+The ruling I made was simple, it was a small pot and nobody really cared how it was ruled. I did however pause for a bit before I ruled and seriously considered leaving the pot in the middle. The two players involved were father and daughter, experienced and just simply ignoring the rule. I just took the path of least resistance and controversy and let it be split, and gave a warning that it would not be split again if this happened. 
+
+At this point there are a lot more things to consider. The play has gone wrong. He has not succeeded in taking the blinds, which would be the A plan, and part two taking a little more with a follow up bet, is no longer likely to happen. 
+
+In other variants of poker such as five card draw, Seven card stud etc. Where you posses all your cards the best five cards rule still applies. 
+
+Being in position at a low price with a hand that needs help is not a bad thing. But if it is going to cost you, and you are going to be able to find better spots, it is often better to let this hand go. The real negative about playing this particular hand is that the villain is going to be able to bust the hero out much more often then he is going to go broke in the situation. 
+
+Generally speaking he should call, the villain made a huge mistake by making his raise to small. If your going to reopen the action with pocket kings, you should make an assumption that you dominate and raise enough to pick up the dead money, something like three to five times the original bettors raise, or you should not raise at all and trap your player on the flop. In a tournament I would prefer to make a big reraise with Kings, in a cash game out of position I would lean a little more toward calling depending on the raiser and the field. 
+
+With a capped range, you have no strong hands. You only have bluffcatchers/air. Your range is extremely weak. 
+
+Continuing our previous example, this is why many good heads-up hyper-turbo regs split their button ranges in half when playing other regs. They limp and min-raise polarized ranges, making it unprofitable for their opponent to 3-bet shove very light whilst still playing 85%+ of all hands from the button. 
+
+What actions could I use to make it harder for my opponents to figure out what I'm calling, raising or folding with? Ah, now we're getting into the territory of balance and game theory optimal play. This has been quite a hot topic for some years now. 
+
+It's worth pointing out that you should consider reraising against this type of opponent. Villian's range is quite wide and his donk-betting, and it's sizing, are huge indicators of a weak range. The population tendency here is for him to have a weak pair or weak draw. Bad players tend to size their bets according to hand strength. You have a lot of equity from your two overs, gutshot, and backdoor flush draw, which, when combined with the significant amount of fold equity a healthy raise would generate against this opponent in this spot, make reraising a profitable move. 
+
+Whatever happens next, I always seem to get burned: 
+
+This question relates to pre-flop play and is aside from the obvious point of being more aggressive the later your position. 
+
+This is a 6 handed ring game with no ante and various positions for hero & villain. This is also the fast online variant (rush/snap/zoom etc) so hard to get a read on players without a pretty good memory! 
+
+The flop comes and it contains a rocket. 
+
+The end result is invariably the same - a pair/set/trip rockets and I'm out of pocket. 
+
+I've had a few hands where I have say, KQ and the flop contains K rag Q. Clearly I am favourite here so tend to ram and jam on the flop, turn and river. 
+
+It would seem daft to constantly fold when A/K arrives on the board without any clear evidence villain has a pair/set/trips. 
+
+Now there is something to be said for raising and something for seeing the flop as cheaply as possible, but why the two different views? Are these just styles or should something else drive whether I choose one or the other? N.B. I tend to play the fast online variants so there are no player reads to be had. Such examples are Rush (Full Tilt), Fast Forward (Party Poker) and Zoom (PokerStars).

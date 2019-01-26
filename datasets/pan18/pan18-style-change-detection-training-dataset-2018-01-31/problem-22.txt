@@ -1,0 +1,29 @@
+Definitely remind anyone looking at your forecast that it is an estimate Quickly check out how variable your velocity is. What is the team's last 3 iteration velocity? Current iteration? Total project duration? A highly variable velocity should prompt you to lower your confidence in any long-term forecasting results. List all your assumptions and the method you used to derive the forecast before presenting your number(s). Make sure your audience understands the impact of the assumptions you had to make. Be honest about your confidence in providing the forecast Try and provide a date range rather than a specific date with best, middle, and worst case numbers. You can go all kinds of fancy with Monte Carlo simulations and tools like Crystall Ball if you want. Use your scenarios as a chance to escalate risks DON'T make any long-term timing commitments based on your forecast numbers. The forecast should be used primarily as a tool to discuss and highlight risks/deficiencies that should be addressed to meet the customer's high level needs. 
+
+We can also plot lines assuming every future sprint is as good as our best sprint and one assuming every future sprint is as bad as our worst sprint. This gives us a window of when I'll reach an expected scope. I am very unlikely to be done by my optimistic date and very unlikely not to be done by my pessimistic date. 
+
+Prioritization: Let's say something is lower on the backlog and I don't need it done right now, but I need it done before New Years. I can use these lines to know how far up the backlog it needs to be in order to be certain it's done in time without having to throw it to the front. 
+
+Multiple Projects: I've seen teams add stories done for work outside of the project into their burnup, but leave the scope line the same. For obvious reasons, it messes up your chart. Either increase your scope line when you add extra stuff in or don't include it in your burn-up line. 
+
+It's also important to remember how much Agile stresses sustainable pace. People working nights and weekends has a massive cost to it that is often hidden. You don't want to accidentally encourage cowboy heroics for a monthly reward by sacrificing the long-term health of your teams. 
+
+Some Things That Throw Them Off 
+
+Yes/No/Maybe Scope questions: It's easy to plat a particular amount of work or particular feature on this chart and say that it will, will not, or might be done by a certain time. 
+
+Obviously being able to give the PO and stakeholders some idea of how the overall project is awesome, but there are some other things it's great for too. 
+
+There isn't anything inherently wrong with the idea, but there are some places that you may find problematic. This isn't really a scrum problem, but Scrum can exacerbate the problems. 
+
+For those not familiar, when we use a burn-up chart to track work toward some scope marker, like a release, on a project, we can take the average velocity and plot a line forecasting when the total amount of work complete will meet expected scope (when it'll be done). 
+
+Definitely remind anyone looking at your forecast that it is an estimate Quickly check out how variable your velocity is. What is the team's last 3 iteration velocity? Current iteration? Total project duration? A highly variable velocity should prompt you to lower your confidence in any long-term forecasting results. List all your assumptions and the method you used to derive the forecast before presenting your number(s). Make sure your audience understands the impact of the assumptions you had to make. Be honest about your confidence in providing the forecast Try and provide a date range rather than a specific date with best, middle, and worst case numbers. You can go all kinds of fancy with Monte Carlo simulations and tools like Crystall Ball if you want. Use your scenarios as a chance to escalate risks DON'T make any long-term timing commitments based on your forecast numbers. The forecast should be used primarily as a tool to discuss and highlight risks/deficiencies that should be addressed to meet the customer's high level needs. 
+
+From Mike Cohn's blog on the Daily Scrum Meeting - ...many teams enforce a rule in which only those who are committed are allowed to talk during the daily scrum meeting. All team members are required to attend scrum meetings. Since both the ScrumMaster and product owner are committed team members, they are expected to attend and participate. Anyone else (for example, a departmental VP, a salesperson or a developer from another project) is allowed to attend, but is there only to listen. This makes scrum meetings an excellent way for a Scrum team to disseminate information -- if you're interested in hearing where things are at, attend that day's meeting. 
+
+Good luck with your transition! Feel free to come back and ask additional questions here on PMSE. 
+
+I would say, in order of priority, you should consider the following steps, if you are not doing so already: 
+
+[Management sets the] boundary within which self-organization occurs.

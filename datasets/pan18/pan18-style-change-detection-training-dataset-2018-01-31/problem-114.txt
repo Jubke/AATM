@@ -1,0 +1,33 @@
+If this does not help, there is more wrong than just your wifi adapter. I have wireless too and if mine is disconnecting for whatever reason, Steam just stops downloading. 
+
+https://support.steampowered.com/kb_article.php?ref=3134-TIAL-4638 
+
+You can find it out if such a binary is protected or not by using a hex editor, however it requires a lot of reverse engineering which is a bit out of the scope of this site. 
+
+It depends on the game. There are many DRM free games on Steam, (e.g. Gnomoria and in fact most Games from "Arcen Games" and some Paradox Titles) which will run without launching Steam when copied outside the Steam folder. And many more do not utilize CEG (which means Custom Executable Generation), which is the name of the system you are asking about. 
+
+As a further workaround, you can use this batch script: 
+
+I recommend a complete refresh of your installation, because Steam should not crash if you lose connection: 
+
+It simply checks if Steam is running and if not, it relaunches it. You can cancel the script at any time by pressing Ctrl-C in the black window that it opens and answering the question with Y. 
+
+If a game chooses to utilize CEG, then yes, a custom binary is generated for every customer, no matter which operating system you use. 
+
+For further problems with your computer that do not involve any gaming related software, I recommend asking on superuser, which is a site of Stack Exchange. 
+
+(And to be honest, I am not a cracker, so I can't really tell you and if I would, it would be very wonky on the legal side of the matter) 
+
+For changing your status you might want to utilize these commands: 
+
+The Steamworks CEG system generates a custom binary for each customer. When you link your application with the Steamworks CEG, we provide you with several tools that you use to generate metadata about your executable file. This metadata is stored on the Steam 3 DRMS Server. When a user installs your game, the DRMS server collects information from the customer's computer that uniquely identifies it. The collected information is used in combination with the metadata regarding your executable file to generate a custom binary, that checks that it is running on the user's computer. If the user changes the configuration of their computer such that the CEG checks would fail to identify the computer, the CEG system will automatically generate a new executable file for the user, and update their game installation. These checks occur whenever your game is run, regardless of whether the computer is connected to the Internet or not. In addition to examining the user's computer, the CEG system will detect tampering with the executable file, and will conceal its workings from reverse engineering 
+
+To clarify, this is where I'd like to comment: 
+
+Also, as Juan Manuel pointed out in the comment to your question, sharing your steam games is prohibited as per their terms of service. Seeing how New Vegas simply relies on Steam for DRM and you are talking about retail copies this may not be the same case, but it's something else to consider. 
+
+Strictly speaking, once you've tied the older game to your steam account you can't really give it away through Steam (as I am sure you know). 
+
+A friend of mine made a purchase I wholeheartedly approve of on Steam, and I would like to congratulate them on their wise decision. I'd also like to toss in a semi-personal question while I'm at it, so I was wondering: If I comment on a friend's activity, who can see said comment? Just the friend? My friend's friends? My friends? Everybody? 
+
+While I have no knowledge of the extent of Steam integration a retail version of New Vegas possesses, the following article claims that:

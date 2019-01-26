@@ -1,0 +1,11 @@
+I've helped smaller riders a number of times over the years and in my experience there are really only three wheel sizes that work: 406 (20"), 559 (26") and 622 (27"). Anything else will make tyres somewhat harder to find (you will end up buying online because your LBS won't stock more than one tyre in your size, and it will never be the tyre you want), and wheels with be a giant PITA to find. 406 wheel adult bikes might look a bit odd but you can get tyres and wheels for them easily. 
+
+(italics mine) Which incidentally means you should be able to get a complete refund for your current wheel if they can't fix it. 
+
+A company called SunUP make a dynamo that attaches to the spokes, and they sell it mainly as a rear wheel dyno but also show it attached to a trailer. The advantage of that appears to be that you can fairly easily pull it off one wheel and mount it elsewhere. The disadvantage is that it mounts where a disk brake would go, so you're forced to use rim brakes. 
+
+My experience is with load bikes rather than people who are loads, but the principle is the same. A tandem rated wheel is your best bet, and possibly a heavier frame. Unfortunately most Dutch bikes are built for tall Dutch people who are generally not that heavy. 370 pounds is about 170kg, which is heavy. Pacific Island rugby player heavy. 
+
+In any crosswind there will be some side force that applies a turning torque on the front wheel of almost any bike (viz, zero rake bikes have been made, but they have less trail than is common today). The diagram below shows the normal design, somewhat exxaggerated as was the style in the 1960's: 
+
+The bike you have pictured has the opposite design - as the wind pushes the bike and rider away, the drag behind the steering axis will turn the steering into the wind. I predict that in many cases the centre of mass will move downwind while the support moves upwind, resulting in a fall. But note that the front wheel design pictured is at best going to require clean, dry conditions to operate, and those are normally only found on indoor velodromes, making side winds a non-issue.

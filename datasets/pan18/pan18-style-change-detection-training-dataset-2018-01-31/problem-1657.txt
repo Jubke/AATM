@@ -1,0 +1,33 @@
+There are also arguments for realism that say that it would be a miracle that our concepts are so successful if they were not corresponding to real entities. Brain in a vat scenarios are kind of conspirational, and would need extraordinary evidence to be warranted (but they cannot have evidence by their very nature). 
+
+Your question is about metaphysical realism and skepticism. There are indeed radical sceptic arguments against realism such as Descartes's demon, brain in a vat or the idea that one is actually dreaming, but also reasons to resist these arguments. 
+
+One could also provide a transcendental argument to the effect that a minimal form of realism is a prerequisite for knowledge, so that realism is a priori justified. 
+
+To complete Cort Amon's answer, I would say that there is a difference between reproducing physical phenomena and computing them. 
+
+All this is related to the debate on the foundations of knowledge. You can have a look at these resources: http://plato.stanford.edu/entries/skepticism/ http://plato.stanford.edu/entries/epistemology/ 
+
+If your question is more on the illness/disease distinction: both words have the same translation in many languages ("maladie" in french). The distinction is probably minor and unrelated to the physical/mental distinction. I found this link, where it is argued that disease refers to a precise cause, whereas illness refers to an unspecified state: http://www.anglaisfacile.com/forum/archives2/forum-anglais-2383.php In which case the question amounts to whether mental illness can be further specified. My answer below is that it is controversial, in that the field of psychiatry is not yet a mature science. 
+
+The theorization of the primary process does not increase the perceived complexity of thought, or render it more holistic and independent of biology. Instead it reduces the apparent complexity by presuming that emotional and logical resolution happens in passes, much like Chomsky's notion of deep-structure and transformation makes language more easily modeled mechanically, rather than less so, by theorizing layers of processing that can be detached from one another and separately analyzed. 
+
+So basically, they could be wrong, or you could be wrong, or there could be nothing wrong. But this is not as simple as you would like it to be, primarily because you have an interpretation of the source of emotion that most of us do not find compelling. 
+
+This reminds me of the TED talk about being wrong. It opens with the question "What does it feel like to be wrong?" And, of course, the answer is that it feels just like being right. It is only after you determine you are wrong, that you feel differently. 
+
+For example, divorce is very odd: there is not a slow and natural problem-solving process for dissolving a relationship, with adequate support of those involved. Instead there is an abrupt cliff where long-term decisions are made in the heat of intense disappointment, and frozen in documents that are awkward to renegotiate. Money is extracted from the family structure at this point and at the points of renegotiation, but these are points where it should be injected, to even out the transition. And even though divorcees are a major component of society, they barely fit in until they return to one of the approved (profitable) statuses. 
+
+Let's toss all that to the side though and just look at the question from this angle: that philosophizing is a normative conscious process that most people engage in at some point of their lives. The question we can ask now is, do people need to engage in this process before they can have a theory of mind? It's not trivially false, but it's easy enough to come up with a counterexample. Just ask any six-year old "what is it like to imagine a pink pony?" 
+
+Let's start with "a theory of mind" here. Do you want it to be an explanation of why minds exist, how they come to exist, etc., or do you mean it in the sense that a theory provides us with a mental framework for understanding what a mind is? 
+
+I like the question, but the answer is pretty simply "no" unless you take a very weak view of your "unconscious philosophizing" - so weak, in fact that you may want to consign it to the heap. It could also stand a little editing for clarity. 
+
+We all have an understanding of what a mind is, because we can't very well not have one and then philosophize about it. So additional philosophizing may refine that understanding, that theory, and may very well be crucial to having a good theory, but it's clearly not necessary to having a theory of mind. 
+
+If the former, the answer is trivially no- it's easy to hypothesize that we could have a complete explanation for how minds arise and function based entirely on neuroscientific facts. Let's say (for argument's sake) that someone discovers Descartes was right, and I can affect what a person thinks about with complete control just by squeezing the pineal gland like a stress toy. Thus ends the explanatory Theory of Mind, and there's not really anything to philosophize about. You could be philosophical about the situation, in the more colloquial sense, but that's not part of the theory given a squishy, gland-based mind. 
+
+So on to the latter view: that "a theory of mind" is how we understand what a mind is, and philosophy is a crucial (i.e., logically necessary) component to understanding. Here, the problem is that you want to draw a line from philosophizing to this understanding, but we need to unpack this notion of "unwilled philosophy" first. If you mean to say that the philosophizing is wholly unconscious, how do you get the "thinking about" which is endemic to philosophy in any sense, out of an unconscious process? That resembles cold information processing, and even if you want to say all "thinking about" is just information processing (à la Dennett et al.), you'd still have to account for what makes it 'willed' or 'unwilled', which is incoherent. I'm pretty sure that's not what you want to say. 
+
+You could potentially take something closer to a panpsychist view, and say that "unconscious" thinking is only unavailable to consciousness, in much the same manner as other people's minds are. If this is the case, then fine. However, it would turn out that this brand of unconscious philosophizing would be crucial to having a theory of almost anything, let alone a theory of mind, because we're still using "thinking about" as the only qualifying term for philosophy here. This is a horribly weak sense of philosophizing - you'd need to narrow down what you mean by "unconscious philosophizing" to make it sensible. Still, this seems to fit the bill of your belief that "all men and women are philosophers" in some respect.

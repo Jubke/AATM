@@ -1,0 +1,25 @@
+The Stoics argued that the soul is a bodily (corporeal) substance. Although the soul is a body, it is best to avoid calling Stoic psychology materialist. The Stoics contrasted soul and matter. For this reason scholars generally prefer to call Stoic psychology corporealist, physicalist, or vitalist. 
+
+See Essais: Of experience (translated by Charles Cotton): 
+
+ff F is 1-consistent [or other condition, strictly "stronger" than consistency], then F ⊬ ¬G. 
+
+that, by tautological implication, amounts to: 5) ¬ (Body(x) & Possess(x,Thought)) 
+
+He moved from a conception of philosophy conceived of as theoretical science, to a philosophy conceived of as the practice of free judgment. 1st premise : No body can have a force contrary to inertia. 
+
+(2) A given colour always has the same degree of refractability, and a given degree of refractability always goes with the same colour. [...] 
+
+See also: Stephen Gaukroger, The Metaphysics of Impenetrability: Euler's Conception of force (1982). Only some philosophers may think that we lear it "by ostension"... 
+
+Marcus Aurelius' "sympathetic link" is a mechanism of transmission of this sort which establish the communication between body and soul. Based on [Engl.transl.,page 2] analysis of "current" (still quite incomplete) understanding of matter and bodies and of knowledge of only a few of their properties. Conclusion : Therefore, no body can possess the faculty of thought, A corresponding primitive in his thought is reference ("Bedeutung") and in the same way Frege does not explain how the relation of denotation (i.e. the relation between a name and an object) works. 
+
+Frege says that thoughts are real ("wirklich") because they act on the mind, like a physical object acts on the eye. The act of "seeing" performed by the eye is the (visual) perception of the object; in a similar way, we may say that the act of "grasping" performed by the mind is the (mental) understanding of the thought (or sense). 
+
+[page 6] However, even though the force of inertia completely excludes all other forces, for the matter at hand I will not assume anything except that two forces diametrically opposed to each other are not able to exist in the same entity. Therefore, since each body is endowed with the force of conservation of state, a contrary force — namely, the force of continual change of state —, cannot be admitted to exist in any body. From 2) and 4), by modus tollens, we derive: 
+
+2nd premise : The faculty of thought is a force contrary to inertia. Particularly relevant are the comments Gödel gave one of the prestigious Gibbs Lectures at the American Mathematical Society in 1951. You will find the doctrine comprehended and illustrated in the following propositions. Comment: we have here a cartesian approach: the autonomous capability of a living being to move itself is due not to the body [i.e. matter] alone but to soul. It is interesting to note that Euler is equating soul with the "faculty of thought"; what about animals' capability of self-motion ? According to Descartes, there is no mind or soul in animals. 
+
+The unprovable statement is built-up in such a way that : There is a discussion of TLP in the Frege-Wittgenstein correspondence [1918-1919; see: Burton Dreben and Juliet Floyd, Frege-Wittgenstein Correspondence, into : Enzo De Pellegrin (editor), Interactive Wittgenstein : Essays in Memory of Georg Henrik von Wright (2011), with a reference by Frege in a footnote to Der Gedanke], but it seems to me that there is no discussion of this topic. The "syllogism" runs as follows: 
+
+Again by the condition F ⊢ G ↔ ¬ProvF(⌈G⌉), we have that ¬ProvF(⌈G⌉) is true. But G ↔ ¬ProvF(⌈G⌉), and thus G is true I move now to the third property of all matter, as widely acknowledged as the two already mentioned, and which seems much more closely connected to the innermost nature of bodies. I understand that the force of inertia [vis inertiae] was discovered first by Kepler, but then explained by Newton, who derived from it the principles of all mechanics. The idea of sensation as the transmission of sensory information is illustrated in the final two analogies of the soul. [...] The second analogy states that the soul is like a spider in a web. When the web is disturbed by an insect the movement is transmitted through vibrations to the spider sitting at the center. The human soul in a like manner extends through the body like a sensory grid establishing a sensory tension. All perceptual information is transmitted by a tensional motion.

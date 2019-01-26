@@ -1,0 +1,83 @@
+Go download NBTExplorer. It's free. It is a small editor for NBT files. 
+
+The command will not fit into chat, you are correct about that causing your error. 
+
+Note: Using only these commands, if a player ever wears the chestplate, they will be tagged and the effect will be applied forever, even if no longer wearing the chestplate. (unless the tag is manually removed via a command) 
+
+Open it. Click on the world name you want to search. (In my case BigRed) 
+
+Your command summons armor stands and villagers. 
+
+It will find that command block and you will see something like this: 
+
+Here are the exact commands but updated: 
+
+Here is your command with proper escaping of special characters: 
+
+Your other two commands will work as they are. 
+
+One last thing, a suggestion. Make a new world to test things like your command. This way you can delete it if you really mess something up. It removes the risk of damaging a world you play and care about. 
+
+As an example, lets make them all say hello: 
+
+You have the OnGround portion inside the enchantment section which is inside the item section. You want it to be a part of the data tag but outside the item section. Also, you have OnGround value at b1 but that should be 1b. Similarly with the enchant values, they are missing s after id:0 and lvl:1. 
+
+Make sure you don't have the world open in minecraft and double click the line containing Command and set the command value to nothing from NBTExplorer. Click File -> Save before trying to play the world. When you go to that command block in game, the command portion will be blank. 
+
+You could also set their score to 0 instead of resetting their score. This would prevent the sidebar display from blinking but players outside the maze would still see the sidebar. 
+
+The only problem with doing it this way is the sidebar display will blink on and off for the players outside the maze when they walk as the stat will increase and then be reset. 
+
+You are using a previous version of the command. My answer is for if you are playing latest release (1.12.1). 
+
+I also recommend preventing command block output to prevent OP players from having their chat filled with command block spam. Use command: 
+
+You could define that area using coordinates and volume in the target selector of a command that adds a scoreboard tag. Anyone without that tag would then be outside that range. The only downside in your case is that the defined area will not be circular but square. 
+
+Go stand next to the couch and run these two commands: 
+
+Command block is Repeat Unconditional Always Active with command: 
+
+Also, just to note it, you don't need underscores in the name or lore. This is what it looks like if you don't: 
+
+Also, if you don't know where that command block is, NBTExplorer is showing you the command block coordinates. In my case x:66, y:40 z:-50. 
+
+This is a good place to use scoreboard tags as opposed to a scoreboard objective. This will allow you to tag any player holding a snowball and use that tag to target them in a command without having to setup an objective to track a score. 
+
+Edit: Response to the comment. 
+
+Here is your command with correct data types: 
+
+Then use those tags in the other commands: 
+
+Make command block that is RepeatUnconditionalAlways Active with command: 
+
+Here is the ocelot data values on the wiki if you want to mess with tags a little more. 
+
+If you need to test for a specific amount, you can add count to the command: 
+
+This command is probably about what you are looking for: 
+
+It all has to deal with the escaping of special characters. I am guessing that you used a tellraw generator and then stuffed that into a command sign generator of some sort. They do well but are not very good at escaping characters when it gets complicated. The above linked sign generator even includes: 
+
+To remove the tag from all players: 
+
+To have more tags for more pieces of armor you would change the first command: 
+
+You may also want these commands to undo other things that command did: 
+
+You could reset that stat objective for anyone not within that radius. You would use a target selector with the radius minimum argument. I recommend putting the command block in the spawn chunk as it will never unload. 
+
+The saddle portion of the command is not correct either. 
+
+I am going to explain what your commands are actually doing. 
+
+These command blocks have to remain loaded. I recommend putting them in the spawn chunk. I also recommend stopping command block output to prevent chat spam for op players. Use command: 
+
+Here is the corrected command: 
+
+Here is the same solution but it uses scoreboard tags instead of objectives. This means you don't have to setup the objectives. 
+
+Here is the command with the quotes: 
+
+Edit: I updated the command to include the requested hideflags. The command above is now hiding the enchantments and modifiers.

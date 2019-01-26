@@ -1,0 +1,35 @@
+Didn't look at the 2015 model (just your link - 2016 model). On the rear there are rack bosses that can be used to mount a conventional rear rack. The rear brake is also on the lower stay which will keep it out of the way when mounting a rack (good news). There are however no such bosses on a suspension fork so you will need a more specialized rack (e.g., old man mountain) that uses clamps in place of bosses, if you want a front rack. 
+
+First off, when riding over rough terrain you should be hovering above your saddle, not sitting on the saddle. This holds whether riding a hard tail (no rear suspension) or riding a full suspension bike. If you are sitting you have less ability to move your weight around, and therefore less control of the bike. When sitting it is easy for a large bump to throw you off balance making you crash or swerve into a crash. 
+
+If you are riding uphill or on the flats try to keep steady power on the pedals as you have less traction to work with. Some find a faster or slower pedal cadence easier - try both and take your pick. Also make sure to conserve momentum, if you slow down to much you won't be going anywhere. Finally, don't get discouraged, riding on sand is a learned skill and always work to 
+
+If the MTB tires have an aggressive MTB tread pattern the mismatch would be best addressed by matching tires and getting another road tire. 
+
+Pro XC racers often like a responsive bike. 'Twitchy' in the hands of a pro is fast. My guess is you are used to the 29er and the new bike is a 650B - 29ers like straight lines and turn like beached whales. If you are used to a 29er, anything remotely responsive will feel twitchy and take a bit of getting used to. I had the opposite problem moving from 26 - 29er - same end result - crashes and swearing for the first few rides. 
+
+Zero cost fix is to keep with the bike till you get used to it... 
+
+There are things you can do nothing about -geometry, wheel size, things that cost a fortune to change - fork rake, and low cost fixes. Low cost fixes I would look to first are stem length (Increase to reduce responsiveness) and wider handle bars. 
+
+For the same force between the disc and pads, a bigger rotor generates more torque on the wheel - i.e. more stopping force. It is running though the pads faster, generating more friction for the same pressure, more stopping power, and as it has bigger surface area, is dissipating more of the generated heat, meaning the disc and pads run colder. So, for the same caliper and brake pad, a bigger rotor generates more braking for the same pressure or the same amount of braking for less pressure. 
+
+Length : Although long Shrader valves are available, if you have deep rims you are more likely to find Presta in long valves. 
+
+Reliability - Shrader are used in every car tire in the world. Presta are probably at least as reliable, nuf said 
+
+So why use one or other - I mostly run Presta because many people still think Schader is a mark of a BSO, and although I ride a 10 year bike, I would not be seen dead on a BSO. 
+
+Valve Length - Although tubes with long Shrader valves are now available, its more common for rims requiring long valves to be Presta. 
+
+A 4 pot caliper provides advantages of more and more even pressure, meaning better braking. Also as there are usually larger pads - more heat dissipation can be achieved. 
+
+Option #1 is a decent option given 9 speed alivio or whatever shifters are not too expensive now, and you get a fresh set of cables if you buy a set of Alivio shifters. But, if you have brake-shift combined units, you may also have to buy new brake levers. Its also more work, but if your shifters aren't working too well, this is a good choice - there isn't much on the market for good quality 7 speed shifters anymore, so if you're going to be using the bike a lot, this may be a good choice (I just upgraded my 7 speed commuter to 8 speed because the shifters went). 
+
+Now to part 2 of the question: What can you change on a bike to improve your commute? This question has been asked on SE a bunch of times, but typically the answer for commuting on a mountain bike is to lock out your suspension if you can (or switch to a rigid fork) and fit slick tires. You could also try a smaller cassette if you want, but other than that, you're going to want to get a new bike. If you have a road bike, you sometimes will want to fit a big cassette so you have lower gears available (you may need a new chain, and to make sure all the capacities of the derailleurs are within spec, else you may need a new rear derailleur) and bigger tires to make things more comfortable. 
+
+Generally, if you haven't bent the derailleur (or its hanger) [such as by having a crash], you should have been using the barrel adjuster as shown in this image 
+
+Wheels: Mountain rims are often wider to support wider tires at lower pressures and are usually built to be more robust. Your hub widths are often the same, but mountain axles can cause compatibility issues (not just your usual QR) with different frames. Note 700c = 29". Often wheels built for tougher road riding (e.g. touring) use mountain bike hubs. 
+
+As pointed out in DWGKNZ's answer, you can't swap a lot of the parts (the Specialized Demo 8 uses pressfit BB, so you'll get a new crank at the minimum), but given the tools required and the fact that the sirrus comp is a nice bike, you're better off selling it and buying new parts. On top of that, the parts for mountain biking (e.g. derailleurs, etc.) are built more robustly for mountain biking than for the road so you'd likely want to buy better parts anyway (esp. for a nice frame like a Demo 8).

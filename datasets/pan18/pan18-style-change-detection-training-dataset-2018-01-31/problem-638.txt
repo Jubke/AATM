@@ -1,0 +1,19 @@
+Preflop: Hero dealt Q♢ Q♣ 2 limpers to Villain in CO who makes it 13. Button and SB fold, Hero raises to 33, 2 folds, Villain calls. 
+
+Table Stacks: Hero (BB) 600 Villain (CO) ~650 Limpers have 200-300 
+
+Hero's recent hands: Hero has ~180. Villain is BB, UTG stradles to 6. Hero sees black TT in UTG+2, limps planning to limp/rr, villain makes it 43, UTG calls, hero shoves. Villain calls, UTG folds. Villain says "You're ahead". Board runs out K95A9, hero shows 2 pair, villain mucks. 
+
+1/3 at Rivers Casino, Pittsburgh Pa. Villain is a Hines Ward lookalike - he started out playing as a seemingly competent LAG, playing lots of hands fairly aggressively, putting opponents in tough spots. Turns out he's just a maniac. Has bought in for the 4th time, buying in full each time. Preflop raises have increased from teens, to 20s, to 40s. Folds maybe 1/4 of hands pre, raises everything else. Has been getting paid when he has the goods, and giving it all back with misplaced aggression. Table in general has seemed frustrated by villain. Hero 3-bet once before villain arrived and got a fold - other than that, there hasn't been any 3-betting preflop. 
+
+Poker Stars rake. This is a straightforward listing - Rake is a percentage of the pot up to a certain maximum, based on the number of players that were dealt into the hand. Right now, at .01/.02, there is a 3.5% rake with a $0.30 max per pot. 
+
+Deep As stacks get deeper, lower speculative hands begin to drop in value. A set of 2s becomes less valuable - you will still make some money, but you will not get a 200+bb stack from 2 pair, or AA. Likewise, when you hit your flush with a low suited connector like 54s, and stacks go in, you are much more likely to be against a higher flush. So, in general, you can play a fairly wide range of hands when deep stacked, but you need to be able to get away from non-nut hands. Axs and Kxs have much more value than lower suited connectors. High pocket pairs have much more value than low pocket pairs. High connectors have mcuh more value than low connectors. Hands that are coolers with 100bb stacks are disasters with 300bb stacks. This is the concept of reverse implied odds. 
+
+This dynamic also allows tremendous opportunities for varied play when deep. There is a lot more room to create fold equity when deeper, and there is also a lot more room to bet/fold when deep. When 2 players with 100bb stacks each get 100bb in by the flop, everyone is all-in, and no more mistakes can be made. When each player is 300bb deep, and they each get 100bb in by the flop, there are still 2 streets of big decisions left. The dynamics of a match, and quick adjustment, become much more important with deeper stacks. 
+
+Medium Moving into a more mid-stacked range, "traditional" poker ranges and thoughts apply - you will tend to get implied odds to set-mine and play speculative hands like suited connectors. You will be able to get paid by weaker hands when you hit the bottom end of a straight or a low flush, two pair can pay off your set, and a flush might call the occasional paired board. 
+
+Hero bets $100, villain calls fairly quickly. 
+
+Against a different player who had shown a propensity to make what he considered big laydowns against villain, and has also been seen bluffing late streets. Hero A♠J♠ in HJ raises to 18 behind a couple of limpers, button hems, haws, and calls (he had been doing this often). 2 players in EP call. Flop comes J23 rainbow, one ♠. Hero bets 65 (misclick, meant 60), button hems, haws, and calls again, EP folds. Turn 6♠, Hero bets 100, button shoves for his remaining 70, hero calls and spikes a J against KK.

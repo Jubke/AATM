@@ -1,0 +1,51 @@
+If you imagine some very obscure language like Chechen for which there are no researchers who know the rules and parsers, stemmers etc and no tools, it may be more clear to you for which languages a statistical approach will beat a rules- and tools-based approach. 
+
+Most of the major Python libs use Cython, so the implementers know C++, although the consumers need not. 
+
+In the old days, C/C++ was the language of Moses, Giza etc, and the language of the research pipelines and production infrastructure at Google (and I assume Microsoft) for search, translation, speech recognition, handwriting recognition and so on. fastText is in C++. 
+
+(As an aside, I do not remember if this was the case for Japanese-English only, English-Japanese only or both. As a rule, x-English systems perform better than their complements, again for reasons that have little to do with the inherent structure of the languages.) 
+
+Statistical approaches are better suited to open-ended problems, but they require initial investment and plenty of data, and people who understand the principles of linguistics and statistics (and software). They can update as the data update or with humans in the loop. But as they always produce results they can produce surprising results, for one they trained on imperfect data, and not all machine learning systems make explainable or even deterministic decisions. 
+
+So the decision of which approach to use is only partly a function of the problem type. Just as important are the goals, scope, data and so on. At another extreme there is even the human-backed approach - a human pretending to be a machine pretending to be a human - which has high accuracy, high latency and high cash burn. 
+
+That said, it is as important to know technologies and resources as languages. For example, Unicode, ISO codes, file formats, distributed computing, TensorFlow seq2seq, containerisation, AWS, GitHub, StackExchange... 
+
+Japanese-English does not used rules-based machine translation. 
+
+Choosing research papers over lines of code or other metrics is subjective, there are also some idiosyncrasies because these names could refer to other concepts or have synonyms like C. And it will depend which subfield, which company, which region and so on. 
+
+You could read more about parsing at https://spacy.io/blog/how-spacy-works. Note that good parsers like spaCy do infer the function of a made-up word from context, for example: 
+
+You could try doing truecasing first. 
+
+That being so at that time had more to do with the available tools and data for the pair than some inherent property of the structure of one of the languages in the pair. 
+
+I recommend that you read on how this is handled in syntax parsers for Russian or Hindi. It was also an issue for Irish, Hungarian, Japanese, Turkish, Arabic and many other languages. 
+
+C++: 705 (2017: 16) Python: 19,900 (2017: 2,640) Java: 35,900 (2017: 2,310) 
+
+This phenomenon is called zero copula. It especially common for third person present tense. 
+
+To prove to yourself that this has nothing to do with typology, consider the case of a language like Swiss German, which has tools like Chechen but typology like English. 
+
+How you tune it and set the threshold will depend on your application. (Do you prefer false positives to false negatives?) Ideally the truecaser gives you a probability or other indication of ambiguity, but to do it perfectly requires full AI. 
+
+(Machine learning is used in some statistical approaches. Given the timeframe of the development of the field, the earliest statistical approaches, for example those of SMT pioneers, surely can or will be seen as classical.) 
+
+For example, if we search Google Scholar for "NLP" OR "computational linguistics" OR "natural language processing" x: 
+
+My approach for answering this pseudo-objectively would be to count the number of libraries or commits with certain keywords in GitHub, questions on SE and so on. 
+
+There are examples where the caseless version is ambiguous. 
+
+As another user wrote in a comment: 
+
+I believe you seek a syntactic language model (as opposed to a basic lexical (n-gram) language model). 
+
+(There are various libs for that. You will probably need to add a few domain-specific fixes for your data too. And you should try smashing all case before truecasing. It's not a completely solved problem either.) 
+
+For that you need text data that has been annotated with the syntactic trees, or a parser (which was trained on such text data, and will give some good - but imperfect - annotations on your data). 
+
+If you re-read the Norvig quote, you will notice that he did not write that a rules-based system was being used for Japanese-English in production, he wrote only that for that one pair the results of the statistical system were only equal to those of the rules-based system.

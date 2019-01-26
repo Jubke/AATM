@@ -1,0 +1,31 @@
+⟨e,t⟩ is the type of intransitive verbs like "walks", "is red", and so on. The two types ⟨e⟩ and ⟨e,t⟩ are combined to give an expression of type ⟨t⟩, a boolean. The problem is that the concept horse should be a concept (a thing of type ⟨e,t⟩) and not an object (a thing of type ⟨e⟩), but because of Frege's commitment to (1), he's forced to say that the concept horse is actually an object and not a concept. 
+
+The Empty Set Axiom allows us to conclude that there is an empty set. Suppose there are two empty sets A and B. Vacuously, every member of A is a member of B (since A has no members), and vice versa. Therefore by the Axiom of Extensionality it follows that A and B are the same set. These facts (of the existence and the uniqueness of the empty set) allow us to denote it by the familiar symbol '∅'. 
+
+Whenever you have two languages Lo and Lm such that the expressions of Lm are used to talk about the expressions of Lo, the two languages are respectively called 'the object language' and the 'metalanguage'. For example, so far I've been using English both as an object language and a metalanguage. You can notice the spots where I've gone beyond the object level to the meta level by finding the quoted expressions ' 'metalanguage' ' and ' 'the object language' '. Notice that I used double quotes there, because now I'm using English to talk about expressions (e.g. ' 'metalanguage' ') that are used to talk about expressions (e.g. 'metalanguage') of English. 
+
+I don't see a paradox, strictly speaking, but I see three ways (and combinations thereof) in which the inconsistency that you mention can be dissolved: 
+
+The fact that set theory is today a FO theory is probably due to Thoralf Skolem. In 1923 Skolem presented the original FO axiomatization of Zermelo set theory. Now, there is a standard view that sees a Skolem-Gödel "axis" as urging to adopt a FO set theory and being responsible for the ultimate establishment of FO set theory. It is, however, not clear at all that this was the case, i.e. that Skolem (and Gödel) were pushing an FO object language in set theory. While Skolem was critical of second-order set theory as a foundation of mathematics, he proved his (downward) theorem to hold in FOL. The result - in a countable model it is true that there is a uncountable set - he called a philosophical (albeit not formal) paradox in order to argue that also FOL could not serve as a foundation of mathematics: 
+
+This is not a specific (argumentative) fallacy. It is a humorous conflation between the ordinal and the cardinal use of numbers, e.g. "the sixth finger" vs. "five fingers" in this case. 
+
+(Please note: Just because they are not deductive, it does not mean that they are never valid. Informal logic has had a particular interest for informal fallacies in the past (see below), which might have given the impression that the standpoint of informal logic is that every non-truth-preserving argument is a fallacy. This is certainly not the case. Informal logic is interested in what makes ampliative inferences context-dependently valid.) 
+
+3. The emergence of FOL It is not a coincidence, I think, that it was in this metatheoretical setting, and in the Schröder-Hilbert-Zermelo tradition, that logic was put on the operating table to be dissected, so to speak. It was a direct consequence of the need to investigate metalogically the properties (soundness, completeness, compactness, consistency, categoricity etc.) of various logical fragments: In 1918 Bernays gave the first rigorous proof of completeness of such a subsystem of logic, i.e. propositional logic. Another fragment turned out to be what we now call FOL. Specifically, it was first developed in 1917 under the name restricted functional calculus by Hilbert as a subsystem of his functional calculus (effectively a ramified type theory), but was only published in the classic textbook coauthored with Ackermann Grundzüge der theoretischen Logik in 1928, where it was still treated as a subsystem. 
+
+Teller's boldface capitals are used as metavariables for arbitrary sentences of his object language. Suppose the object language is that of propositional logic: 
+
+Now, let's look at the other stuff you said, without talking about the above mentioned problem. Consider: 
+
+                                                §1. Object-language vs Metalanguage 
+
+We then instantiate (P4) with A for P and O for Q, obtaining: 
+
+This tells us that the object language we're working with has the following sort of primitive expressions: "p", "p′", "p′′", "p′′′", etc., as well as compound expressions formed by logically connecting the primitive expressions, e.g.: "p ∧ p′", "¬p′′′", "(p ∧ p′′)", and so on. Now suppose that we want to introduce a helpful connective such as "∨" (inclusive disjunction) into our discussion. I didn't make the alphabet explicit, but Lo does not include the symbol '∨' among its symbols, so we are denied the option of simply positing the following equivalence for all substitutions of 'p', 'p′': 
+
+4) ∃xDx ∧ ∀x∀y((Dx ∧ Dy) → x=y) There is a dog, and any two things that are dogs are identical. 
+
+The first one (often called semantic brackets) is mostly found in formal semantics, and it's the name of the evaluation function, which maps expressions in a formal language to objects in the model of evaluation. Suppose A is the sentence "snow is white." Here's how semantic brackets are used: 
+
+⟨e,t⟩ is the type of intransitive verbs like "walks", "is red", and so on. The two types ⟨e⟩ and ⟨e,t⟩ are combined to give an expression of type ⟨t⟩, a boolean. The problem is that the concept horse should be a concept (a thing of type ⟨e,t⟩) and not an object (a thing of type ⟨e⟩), but because of Frege's commitment to (1), he's forced to say that the concept horse is actually an object and not a concept.

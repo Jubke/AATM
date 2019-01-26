@@ -1,0 +1,47 @@
+I would have checked the turn hoping to get the villain to bet. You don't want to announce you made the flush. 
+
+If you are on the draw then you are playing this totally wrong. 
+
+Villain was trying to bluff you off the pot, it did not work, and he got mad. 
+
+That is a very wet board that is very likely to have draws. 
+
+You are not going to run that at the table so here are some numbers 
+
+If you are short stacked then you need to look at it as you are getting 4:1 and you are not going to get a better chance to get your money in. 
+
+Let's just go with 10 BB in the pot preflop 
+
+No only is your approach backwards but your sizing calculation is way off. If you want them off the pot then bet to get them off of their hand not off your hand. On the flop with a 4 flush they are 2:1 to make flush by the river. You have to bet the pot to give them the 2:1. Betting 60 into 160 you are barely giving odds to get them off a flush draw for ONE card - 220:60. If you are betting 60 into a pot of 160 with a flush draw that is mathematically about the worse possible bet. You are not giving yourself pot odds and you are inviting even minor made hands like a pair to stay in. 
+
+No reason to bet the flop out of position on a draw. 
+
+Those number are wrong 19.15% turn 19.57% river 34.97% turn or river (I think you are missing that 5 cards are out) 
+
+Slowing down to get keep more player the pot does not seem to pay out. Blanks are going to fold to even 1/2 pot. You just don't lose that many from 1/2 to full pot compared to the payout. 
+
+Avoid all-in unless you are pretty sure you have your opponent dominated. Add in speculative hands like suited connectors as when they hit you will typically have your opponent dominated. Go for pot control. Some opponents are not going to let you play for pot control. But you cannot auto fold or they will abuse you. Even if you are 2:1 not really looking to get all your chips in. If they put you all in then you should call if you think you are 2:1. Avoid bigger stacks unless you are on premium cards. 
+
+UTG open for 4 bb with one caller, I call, btn fold, sb fold, bb calls. 
+
+Say villain will over call a pot sized bet on a flush draw. Go ahead and abuse them. Be aware they are going to hit on the next card like 20% of the time and they might actually already have you beat. If villain raises back the pot you can get away but if you bet 3x the pot and they call you cannot get away. 
+
+if they bet the pot then leave 
+
+Now limp call. Say you have blinds / table that does not raise pre flop, will call post flop, and have trouble noticing a straight or flush. I would call 89, 78, 67, 56 suited from mid or late. Pretty much only if you are playing fish. A table of play money that does not raise pre flop. And if you are on that table and get a real hand punish with a pot size raise. 
+
+You might end up playing bigger pots as now someone that might call 2.5BB would raise to 4BB. If you are going for pot control it needs to be a passive table. 
+
+On the river GTO can be solved but GTO is not always the best way to play poker. 
+
+At the flop if either are all in then you can count on no more bets on the turn. 
+
+p = pot b = bet as fraction of pot - the denominator (number on bottom) 
+
+Yes the board could have a made hand that has hero beat. That board also could have draws that a made hand should chase off. 
+
+If there is no fold equity then you don't need to go into EV 
+
+You are 8:1 to hit trips on the flop and if they have a big stack and you think you can get them to bet/call if you hit then go for it. 
+
+River 7♣ Pot 20 Firth straight Cove trips Firth bets 19 Cove all in for 150 Firth has her covered and naturally calls

@@ -1,0 +1,23 @@
+Particularly relevant are the comments Gödel gave one of the prestigious Gibbs Lectures at the American Mathematical Society in 1951. But from "Nothing is better than butter" we can infer "cheese is not better than butter" and also "margarine is not better than butter". 
+
+⊨ φ (i.e. φ is valid) iff ⊢ φ (i.e. φ is provable). 
+
+in term of the the relation "_ is better than ...". Then ¬G is false; so, by soundness of F : F ⊬ ¬G. Now use R ∨ ¬R (Excluded Middle) for a new ∨-elim: The second observation regards the fallacious analysis of From the fact that clouds are the cause of rain we have: Your fallacy regards the "basic property" of validity : 
+
+6) ¬ P --- assumed [d] for ∨-elimination It is enough to consider a truth assignment v such that: 
+
+Assume F ⊢ G; then ProvF(⌈G⌉) and, by the condition F ⊢ G ↔ ¬ProvF(⌈G⌉), we have that G is false. Then, by soundness of F (i.e. F proves only true sentences) : F ⊬ G, contradicting our assumption that F ⊢ G. Thus, by propositional logic : F ⊬ G. 
+
+But we have also ¬P. Thus, we may conclude with Q. Going back to decidability, why a complete theory is so ? 
+
+We can rephrase the above assertion as : "when there is rain, there are clouds" and also with : "there is rain, only when there are clouds". is quite useless; "cannot be" means "impossible". Thus, necessity is simply the negation of the possibility of the negation, which is quite "standard" in modal logic, but only moves the problem one step back. 
+
+For simplicity, we will consider the case when Γ is the emptyset; in this case we have the previous version : 
+
+In other words, either the mind actually has a non-algorithmic and not fully “mechanizable” nature, or else there exist absolutely undecidable mathematical problems. But [Gödel's Theorems] don’t allow us to go further and conclude that the true disjunct is the first one. According to Gödel, then, what follows from [them], and especially from [the Second one], is that if our mind is a computing machine, it is one such that it “is unable to understand completely its own functioning.” 
+
+This (negative) result concerns another aspect of intuitive "completeness" (in the sense of adequacy) : for a mathematical theory, like arithmetic or set theory, it is a reasonable expectation that the axioms (formalized with first-order logic) are able to "capture" all the mathematical truth expressible in that theory. Side comment : the proof is intuitionistically valid. We can read it as : if we assume the Law of Excluded Middle, then the conclusion follows. 
+
+Assuming that the system F is sound with respect to truth in the structure of the natural numbers (called N), we have that : There are plenty of contexts (intensional contexts) in which identity relations appear to violate the indiscernibility of identicals. For example, "Mary knows that George Orwell wrote 1984" might be true, while "Mary knows that Eric Blair wrote 1984" might be false (even though George Orwell = Eric Blair). In general what this means is that while a given identity relation might correspond to a purely extensional equivalence in a particular logic, there might be a more expressive logic in which that identity relation is not extensional. 
+
+To say 1=1 does not express identity because there is a spatial difference between the left and right is confusing the thing with the symbol that denotes it. The number one is identical with itself. Of course a serious issue arises over how symbols denote things, and there is much debate over this. Frege held that names are a kind of abbreviated definite description, but this is only one of many accounts of the meaning of names.

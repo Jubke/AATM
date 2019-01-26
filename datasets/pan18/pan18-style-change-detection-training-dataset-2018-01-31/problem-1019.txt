@@ -1,0 +1,35 @@
+On Stack Overflow, we often get clusters of spam accounts from the same location, so my usual spammer workflow is to delete the spam post, then pull up the account information for the spammer. If they have other spam answers, I deal with them as well, but I make sure to read each of the answers to avoid removing a legitimate answer inadvertently. 
+
+After going through posts in the /review page, one of the trends that I noticed was that very few non-answers were upvoted at all. Now that results are presented in random groupings if a query has more than a certain number of results, there isn't a way to sort these results by votes or by those which perform worst on the review algorithm. 
+
+I'm not sure that I'd want this account auto-deletion, because it might make hunting down other spammers a little harder. (See my update below.) 
+
+I propose that answers deleted via five Recommend Deletion votes from the review queues require the normal three undelete votes that posts deleted using regular community delete votes do. This would prevent users from bringing back their non-answers after the flags on them had been cleared, potentially allowing non-answers to come back and clutter up the site. 
+
+If it's your desire not to help them, just be one of the remaining 5% and don't enter "beyond". Entering 
+
+Given that he's by far the most active one in the room (and nobody objected when I asked), I've made ircmaxell owner of the PHP room; he can make other people owners himself then. 
+
+Update, one year later: For Winter Bash 2014, we switched to using SVG images, and you can now rotate and scale your hats. 
+
+I believe that this is actually the reason for the (perceived) better results: You phrase your search differently. 
+
+Sure. In most cases, the room owner is more or less arbitrary, because it's just the person who was first to create the (e.g.) PHP room. But of course it makes sense to have several owners, especially for rooms that are quite active and have developed their own "style", and have those owners be people who know their way around. 
+
+As others have said, you might want to question your motives for this request. 
+
+So this word "beyond" will be presented to users solving reCaptchas all over the world, and if 95% of them type "beyond" into the box, reCaptcha can be pretty confident that the word actually is "beyond". 
+
+The current vandalism flag contains a list containing a sampling of posts relating to the flag 
+
+I would propose a link on the mod menu for a user 
+
+We've seen it a hundred times. A cookie-based user asks a question. Later, they log on from a different machine and cannot edit their question, so they add an answer to leave comments or add details. 
+
+User has a history of being active on the website User has a history of being active on the website's meta In addition, I would suggest that in order to use this power, the trusted user would have to add a comment (wait, let me explain before you go recast that downvote!) to explain why this extraordinary action was taken. This also will allow the user to cast a non-binding close vote--If you don't leave a reason, it is a regular vote. If you do, instaclose. 
+
+the canonical question could be about derp rather than c#. How this would flesh out I'm not quite sure... 
+
+This process takes a long time, and can definitely be automated, as the only thing you really need to check is how many new users are posting non-answers or are spamming their awful products. 
+
+In other words, let the little moleyoutube link take off his spectacles so that this

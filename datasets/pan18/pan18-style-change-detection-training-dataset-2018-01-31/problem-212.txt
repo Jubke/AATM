@@ -1,0 +1,39 @@
+MOBA terms seem not widely used and, for the records, is currently redirected to DotA genre on wikipedia. 
+
+So how do you manage the dynamic of creeps on a lane? 
+
+I think a common agreement is not defined. And in my opinion, this is gonna end speaking of those games as "Dota-likes" as it was for Doom and its "Doom-likes". 
+
+Terms commonly used to refer to the Dota genre include but are not limited to "AoS style games" (Note "Aeon of Strife" a mod in StarCraft), "DotA style games", "DotA based games", "Dota games", "DotA clones", "DotA-Likes", "Action Real-time strategy games", and "Action RTS games". Dota games can also be simply referred to as DOTAs.[3] Riot Games has also been known to use the self-coined term, "Multiplayer Online Battle Arena". 
+
+But all these terms are still not clearly defined (what is slow push vs fast push) and I am not quite sure of how to set these up. 
+
+I have heard a lot about lane management. I know it has to do about setting up a lane for slow pushing, pushing, freezing or whatever you want the lane to go with. 
+
+Also always remember that not kills, gold or baron win the game. Those help you winning but the actual goal is to kill the Nexus (sometimes I feel like even pros forget this). No matter how many kills you get. When your toplaner is always mid to gank, top will get pushed and maybe even to the inhibitor/nexus which will cost you the game. And there are only two results: Win or lose. 
+
+First of all, even as support or jungler, knowing when to push or freeze a lane is a big factor of winning your lane. So now: 
+
+Make sure to always land at least one hit on the turret within 10 seconds of its death since you will gain some extra gold which would otherwise be lost (Of course only if you are near the turret). 
+
+Remember that Tahm Kench can keep allies in his mouth longer than enemies (6s for allies, 3s for enemies). So you'll spit out enemies faster than you would allies. 
+
+For Bot it's not exactly the same. Usually It's a big advantage to take down the Blue side turret since it allows you to control Dragon a lot better. The purple Turret however isn't too important. If you stand behind the purple turret you're a lot more vulnerable to ganks. Also if you are playing a longrange or poke ADC you shouldn't rush a turret since you can even poke them with the turret still alive while the turret itself denies them Gold. 
+
+The only way this happens in a game is either in a one for all game mode or in a blind-pick game where 2 Tahm Kench are present. 
+
+The team comp is the most important factor in team rankeds/tournaments. Currently i would say the most used comps are: 
+
+Of course there are some other comps but these are the most frequently used ones that can really be categorized 
+
+Catcher comp This comp focusses on catching champions off guard and/or taking down high priority targets like an adc quickly. They usually have lots of single target burst and one or two assassins that can get in and out quickly. Their biggest strenght lies in the early game and it forces the enemy to stay in a group since they can't really risk staying alone and getting caught. Their weaknesses are teamfighting and their dependency on snowballing. If you screw up early game with a comp like this the game is pretty much over. Pro Target lock down, Control of the enemy team, Splitpushing. Con Teamfights are hard, If you can't kill the high priority target the teamfight is over, Really risky to use in high level play. Example champions Lee sin, Kha'Zix, LeBlanc, Elise, Thresh, Leona Strongest phase Early-Mid 
+
+If somehow the ganker was very sneaky and comes undetected, Caitlyn's 90 Caliber Net is a great escape tool. It shoots a net at the enemy to slow them AND shoots Caitlyn backwards. This in addition to flash(if she has that as a summoner skill) will widen the gap between the ganker and Caitlyn. 
+
+It is also possible that you are not used to how Tumble works. You do not need to click on the map for Tumble to work. You will tumble towards your mouse. When I first started playing Vayne I had a bad habit of clicking where I wanted to land. This will indeed break focus from your target. 
+
+When choosing a strong early game damage dealer, take a look at their base attack damage and their skills. A champion like Ganglank, has a strong early game because he has multiple sources of damage. His auto attacks can proc his passive that can not only deal additional damage but provide a slow, AND his Parrrley which has a relatively low cooldown can add a lot of additional damage. 
+
+As Drake has said above, the graphical effect can still be seen by the opponent if Sona cast a heal on an invisible ally. 
+
+This should be a philosophy that should apply to late game too but it is especially important early game because each of your teammates will only have on skill available to them instead of all 4. Choose a team that is balanced. You need a good balance of crowd control plus damage. A team that focuses too much on damage but has no crowd control will not be able to focus down on a single target enough to kill them. With the use of a snare or a stun, it provides a definite bull eyes sign for all your teammates to focus, usually screwing up their team formation and it will also prevent the enemy from getting away from the damage by preventing them from flashing away and making them become easier targets for skillshots.

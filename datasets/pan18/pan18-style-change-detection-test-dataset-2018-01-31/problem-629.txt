@@ -1,0 +1,45 @@
+You don't have to calculate how far to shift everything down, there's a build in property for this. In Interface Builder, highlight your view controller, and then navigate to the attributes inspector. Here you'll see some check boxes next to the words "Extend Edges". As you can see, in the first screenshot, the default selection is for content to appear under top and bottom bars, but not under opaque bars, which is why setting the bar style to not translucent worked for you. 
+
+Now obviously the higher resolution photos would use more memory, but what I don't understand is that why the low resolution photos don't seem to be using more and more memory as I go, whereas the high resolution photos continuously use more and more until a crash. 
+
+After profiling in Instruments I see that my apps memory footprint holds at about 20-25 MB when using the lower resolution front camera image, but when using the back camera every view change adds another 33 MB or so until it crashes at about 350 MB (on a 4S) 
+
+Can anyone shed some light on why I'm stock piling my devices memory? (Hopefully something simple I'm completely overlooking) Did I somehow manage to throw ARC out the window? 
+
+What my basic declarations look like: 
+
+This second screenshot shows what happens when you deselect the "Under Top Bars" check box. As you can see, the view controllers view has been shifted down appropriately for its y origin to be right underneath the navigation bar. 
+
+As you can somewhat see in the first screenshot, there are two UI elements hiding below the navigation bar. (I've enabled wireframes in IB to illustrate this) These elements, a UIButton and a UISegmentedControl both have their "y" origin set to zero, and the view controller is set to allow content below the top bar. 
+
+How I am saving and reading the image: 
+
+This is actually easier than you would think. You just need to make sure that you enable user interaction on the imageView, and you can add a tap gesture to it. This should be done when the cell is instantiated to avoid having multiple tap gestures added to the same image view. For example: 
+
+If that wasn't bad enough, a Google search provides 7 results (8 when they find this post) all of which are either Apple class references, API diffs, a SO post asking how to achieve this in iOS 5, or 3rd party copies of the former. 
+
+I know this is something that it probably a simple fix but I can't quite get it. Any help would be greatly appreciated. Thank you in advance! 
+
+1: You can't downcast from Int to CGFloat. You have to initialize a CGFloat with the Int as input. 
+
+I have created an app that uses a tableViewController, and populates its cells from the contents of .plist file. I thought my app worked perfectly until I attempted to build it to my iPhone. It turns out my cells will only populate while running in the simulator, and I can't for the life of me figure out why. Here are some screen shots of the problem. 
+
+I'd recommend you use a single mutable attributed string a @Linuxios suggested, and here's another example of that: 
+
+I've stripped this code down to the bare basics of the picker attempting to isolate the problem and it persists. Has anyone run into this issue before? Any pointers or direction would be greatly appreciated! 
+
+Other than availability being iOS 6+ and OS X 10.8+ that's it. 
+
+Normally, I wouldn't be guessing at this, but resources on this topic are virtually nonexistent. Apple's class reference states: 
+
+EDIT: How I call for the image in my other views 
+
+this is killing me but is there any simple way to have objective-c code inside my UITextView if I'm creating it with code and not in interface builder? 
+
+I am working on an application that will utilize a custom image picker and try as I might, I can not seem to get the application to run quite right. Xcode debugger flags the following "Thread 1: Program recieved signal: "SIGABRT"." 
+
+This answer has been updated for Swift 3. If you're still using Swift 1 or 2, see the revision history. 
+
+I've tried adding this key to the detectors options dictionary using every object I can think of that is remotely relevant including, my AVCaptureStillImageOutput instance, the UIImage I'm working on, YES, 1, etc. 
+
+I'm writing an app in which the user takes a photo of them self, and then goes through a series of views to adjust the image using a navigation controller. This works perfectly fine if the user takes the photo with the front camera (set as default on devices that support it), but when I repeat the process I get about half way through and it crashes after throwing a memory warning.

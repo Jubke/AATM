@@ -1,0 +1,27 @@
+My question is - how often can you get away with just thinking one decision ahead, and deferring the rest of your strategy to the next round of betting? It certainly makes the mental load lighter if you know the situations where you don't need to bother calculating the effective odds, and can just work with the pot odds for this round. Conversely, if there are situations where it is beneficial to calculate the effective odds, I want to know what they are! 
+
+AKQ game There are two players, and the deck contains AKQ. 
+
+If X < 52 then you can call as long as X > 42, because you need to be getting at least 4.2 : 1 odds from the pot to win immediately. If you don't get a heart on the turn, you plan to fold to your opponent's next bet. 
+
+Both players ante $1. Both players are dealt a card from the deck. Player 1 may either bet $1 or fold. If player 1 bets, player 2 may either call or fold. If player 2 calls, the game goes to a showdown, with A > K > Q. This seems more complicated since there are more cards and both players have information, but it's not that much more complicated. You can show that player 1 should bet all his aces, bet all his kings (it's a pure value bet - since p2 will always call with aces and fold with queens, your expectation from betting is -0.5 vs -1 from folding) and bluff at least some of his queens. Player 2 should always call with an ace, fold with a queen and call some of the time with a king. 
+
+I'm interested in games that are still simple enough to be solved, but are closer to "real" poker. The major thing that these examples leave out is the lack of further streets (more cards to come, which might improve or detract from a player's hand), the number of players and the effect of stack sizes. Can anyone point me in the right direction? 
+
+You call if X > 42, because you're getting the 4.2 : 1 odds you need. 
+
+However, you actually reach the same result if you only think one step ahead, i.e. you consider your pot odds but not your effective odds: 
+
+Is there a list of simplified poker games - preferably ones for which there is either a complete solution (ie the optimal strategy for all players is known) or at least some extensive analysis, either theoretical or as a simulation. 
+
+[0,1] games In this situation the players aren't dealt a poker hand, but instead both receive a number uniformly from the range [0, 1]. The rules might allow reraises, they might not. There are various games of this kind discussed in The Mathematics of Poker by Chen and Ankenman, some of which can be solved exactly. 
+
+This game is simplified because (a) there are only two possible hands, (b) there is only one street, (c) only player 1 has any information, (d) there are no reraises, (e) the only options are bet $1 or fold (ie it is a limit game), (f) there are only two players. 
+
+That means that before the turn, you know you will go all the way if X > 52, otherwise you will fold after the turn if you don't get your heart. So we can analyse those cases separately - 
+
+Here are some examples of the kind of thing I'm talking about - 
+
+Then on the next round, you do another pot odds calculation, and call if the pot is $82 or more. 
+
+Both players ante $1. Player 1 is dealt a card from the deck, and the other card is put aside. Player 1 may either bet $1, or fold. If player 1 bets, player 2 may either call or fold. If player 2 calls, the game goes to a showdown - and player 1 wins if he holds A. In this game it can be shown the the optimal strategies are for player 1 to bet if he has an A, and bluff 1/3 of the time if he holds K. Player 2 should call 2/3 of player 1's bets.

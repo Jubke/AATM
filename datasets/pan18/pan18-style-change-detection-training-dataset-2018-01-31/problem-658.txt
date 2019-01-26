@@ -1,0 +1,13 @@
+The math works out that, if an opponent is opening his button to 2x the blind with 70%+ of all hands, and is only calling with a tight value range {44+, A7s+, A8o+, KQs}, you can basically jam any two cards when he does so. 
+
+Identifying your opponents strategy. Determine, and implement, the maximally exploitative response. So, before you even sit down at a table, whether it's online or live, you should have, at the minimum, a readless starting hand range that will maximally exploit the strategies of the average population. That's a pretty complex task but you can, once you understand the general idea, come up with a rough starting hand range that will do well versus the population. 
+
+But, remember, we're playing a reg. We don't want to implement a strategy that is so obviously exploitable against a thinking opponent. And, on top of that, we are trying to maximize our expectation with each hand in our range. As such, we shouldn't be 3-bet shoving a hand like JTs as it will obviously have a better expectation by flatting his open than it will by 3-bet shoving it. Therefore, we polarize our 3-bet shoving range. 
+
+25, 50 cash game with a $100 straddle 
+
+It is just a rule of poker. When you take a seat you must wait for the BB to come to you before you can start playing. Or you can post a BB to start playing immediately. I assume you mean chances (not change). Alec check; Doug bets $6350, Alec makes a big call and takes down the pot 
+
+Not the only way to play a tournament. Some go aggressive early to build chips. This quide says don't play 99 in early position (and I clearly agree) This quide says play any pair in early position Oh, and I saw zero evidence that wsop is rigged. 
+
+When you get into 78 board 9TJ people play KQ unsuited so you have lot more ways to be beat. I heard Daniel Negreanu on a final table say this is the first time I have been all in the entire tournament. Assume both players are deep like 100 BB Range will play different unless you are small stacked. A hand like 78s is more valuable as if you hit a flush, straight, or trips then you are likely good. A one gapper is valuable as more disguised. So you play more hands if you can get in for the right price. A weak ace goes down in value as you can lose a big pot. Don't let your bet sizing telegraph your hand. Come in for like 2.5 BB.

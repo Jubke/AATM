@@ -1,0 +1,35 @@
+I want to do the backgrounds, Selected/deselected and selected item won't be cone to the center of the screen. 
+
+To make the scrollbars invisible use this attribute. 
+
+How i can listen that Default back key on device? Mainly the Window Leaked error raises the Illegal Argument Exception? how to rectify both og this. Please Help. 
+
+Any Idea or Articles are most Thankful. I am having two activities A and B. when i click the button in A that will shows B. when i click the Button in B it backs to A. i had set the overridePendingTransition method after the finish() method. it works properly. but in case the current Activity is B. on that time i click the default back button in the device. it shows the right to left transition to show the Activity A. I have tried to get using 2 ways. that are: how to change the color of the text indicator of tab? i can change the icon using selector tag refered the example. but cant to the text color. how? Gradle Plugin v0.12 and higher: 
+
+So I'm trying to speed up some drawing we're doing (drawing a portion of an arc with alpha transparency) and was attempting to cache the entire arc into a separate bitmap, and show it selectively with an alpha mask. EDIT: Did some more thinking, seems to be just the first and the last, so I found: 
+
+From the research I've done (the Xfermodes API demo for Android, this example, and this tool), if I have for example the following two graphics: 
+
+I'm trying to allow a user to select a number of directories from a checklist, and return them upon clicking a "Submit" button. Here's a snippet of my code. It populates the ListView with all the directories on /sdcard/, and for the initial selection (of however many I pick) when I submit, the log shows the correct choices returned. However, if I uncheck an item, and click "Submit" again, it still shows as if all are selected. Do I need to write a handler to uncheck an item? I thought that was taken care of by the choiceMode selection? Thanks! 
+
+Now here's where it gets weird. I can confirm that the drawables are all there and detected, as if I launch the app in landscape, I get the correct landscape drawable. However, on rotation, the landscape drawable remains, and I do not get the portrait one. Conversely, if I launch in portrait, I'm stuck with the portrait drawable. I'm working on a UI for an app, and I'm attempting to use grayscale icons, and allow the user to change the theme to a color of their choosing. To do this, I'm trying to just apply a ColorFilter of some sort to overlay a color on top of the drawable. I've tried using PorterDuff.Mode.MULTIPLY, and it works almost exactly as I need, except that whites get overlayed with the color as well. What I'm ideally looking for is something like the "Color" blending mode in Photoshop, where the graphic retains its transparency and luminosity, and only modifies the color of the image. For example: becomes After doing some research, it appears that the ColorMatrixColorFilter class may do what I need, but I can't seem to find any resources pointing to how the matrix is used. It's a 4x5 matrix, but what I need to know is how I go about designing the matrix. Any ideas? Pulling my hair out here. So I'm working with an application that has several types of drawables, and I have them in a structure like so: 
+
+I'm trying to simplify some graphics from requiring a 9-patch for each density, to just using an XML drawable. It's a fairly simple graphic: 
+
+i want to load some photos into my sd card image in the emulator. how to do this by command prompt.how to do that? I have Problem on Both to get the proper output. 
+
+what i mean is you have to create a 3 layout xml files. check this sample project it helps. add multiple addOverlay()s on ur multiple times 
+
+To make the scrollbars invisible use this attribute. 
+
+image http://www.freeimagehosting.net/uploads/cce47da969.png How to trace the Memory Leaks in Android Development? I am working on eclipse IDE to develop the application. i cant find out how to rectify the memory or window Leaks Exceptions? Any Idea. 
+
+I have tried to get using 2 ways. that are: Could you give me some examples, or starting points where to look to start writing such an app? 
+
+and differentiate the video view and video player in android.. 
+
+Mainly the Window Leaked error raises the Illegal Argument Exception? how to rectify both og this. Please Help. 
+
+How i can listen that Default back key on device? 
+
+To Achieve the Animation for the Views. You have use the startAnimation Method like below I am having two activities A and B. when i click the button in A that will shows B. when i click the Button in B it backs to A. i had set the overridePendingTransition method after the finish() method. it works properly. but in case the current Activity is B. on that time i click the default back button in the device. it shows the right to left transition to show the Activity A.

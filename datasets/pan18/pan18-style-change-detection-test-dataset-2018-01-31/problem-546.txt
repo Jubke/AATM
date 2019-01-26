@@ -1,0 +1,33 @@
+Essentially, the key is to select a good random sample. In general, the sample is accurate to half of the square root of the number of people who are asked. Given the standard number of 1000 people, that means that the number should be accurate to within 17 people or so. Divide by the original 1000 people in half, and taking 17/500, and you have the traditional 3.4% error boundaries typically given for polling data. 
+
+Assuming that these are true, then we fall into the realm of sampling statistics. The general formula is sqrt((p-p^2)/n). Assuming that the race is nearly split, then this gives sqrt(.25/n), or 1/(2*sqrt(n)). Again, for the random sample of 1000, this will let you know how accurate one portion of the numbers is. Dividing it by the half of the full body, and you get 3.4%. 
+
+Specifically, the following is the key to a good poll: 
+
+If these are not true, then some corrective factor could be applied to the poll. This is where things get tricky. Most polls are conducted via phone. For those who do not have access to phones, this will skew the data. What is typically done to correct for these is to gather additional information about the person being polled, and correcting the overall data to better fit the model of who is actually voting. 
+
+On April 18th 2017: (2 days after the snap election was called) YouGov reported that when asked the question: 
+
+The best example of a Prime Minister who lost his seat but remained prime minister is William Lyon Mackenzie King who lost his seat in in the 1925 Canadian general election and in the 1945 Canadian general election, but still kept the job as Prime Minister of Canada. He returned to parliament shortly after each of these elections by persuading a member of his own party to resign from a safe seat (which triggered a by-election) where he stood in turn and won. 
+
+In Britain Prime Minister Arthur Balfour lost his seat of Manchester East in the 1906 general election, but remained Conservative party leader, without a seat. 
+
+Alternatively if there are only two candidates it is determined by coin toss with a £1 coin (although don't ask me if it's going to be the new £1 coins or the old ones). 
+
+But in the actual scenario where absolutely nobody voted. Well the candidates would draw lots. The candidates for MP's would stick there names into a hat, and the returning officer would draw out a name who would then become the MP. The parliament will then be filled with 650 random candidates and the Queen would just call upon whoever she thought could command the most respect to become PM. 
+
+This is, as far as I know, nearly always the case in France, which uses a two-round system for almost all elections (including the regional elections, where it does not make much sense, but not the elections to the European parliament, where it's not possible). 
+
+It does not cost much either, you mostly need to find some activists who don't have a political career and don't mind being publicly associated with your party and the defeat that is sure to come. In some cases, it could be young politicians who hope to impress and get a winnable seat next time around. In others, like the Front National, they do not campaign at all and the party leadership mostly hope they will shut up and avoid saying something stupid that could embarrass them in the national media. 
+
+Thus, in a slightly different context, the French Front National made a point of fielding candidates in each and every district. That's a way for them to increase their showing in the parliamentary elections and to show they are not some fringe group hoping to stage a protest or become the junior partner in a governing coalition but a real contender to lead the country. 
+
+Because the electoral system is designed to favour clear majorities, there is often a minor reshuffling a couple of months later but no need to look for a completely new coalition so that it does not make a big difference. The 2017 election is unusual in that there is a very real chance that the president would end up without any parliamentary majority behind him and his platform. 
+
+In other countries, like Germany, cabinet formation is entirely driven by the parties, and the formal process only starts after some sort of coalition has emerged. Concretely, the two biggest parties invite potential junior partners to discuss a potential coalition and to make their demands. Depending on their strategies, smaller parties can also decide to talk to only one or both large parties or perhaps none at all. 
+
+Finally, note that doing so would create some practical problems for countries that never organise several elections concurrently (I am thinking about France for example) and potentially many many elections in short succession, although it's not too difficult to imagine some pragmatic fixes for these issues or to simply let countries do as they see fit. 
+
+For presidential elections, the difference isn't huge because turnout is already high and possibly also because many people still vividly recall what happened in 2002 (in France, you just need to say "April 21" without any other qualification and everybody who is old enough and cares at least a bit about politics should know you are speaking of the results of the 2002 presidential election). For regional elections, the difference can be up to 5 percentage points, which means over 2M people (out of population of 66M people, with slightly more than 46M registered voters). 
+
+Incidentally, it's sometimes possible to vote in all polling places in your city or constituency but there are also places where you have to register for a single polling place. It might sound old-fashioned but that's a low-tech relatively fool-proof way to reduce the risk that someone would cast several votes, as the lists can thus be cross-checked well in advance and voting is impossible if you are not on the list.

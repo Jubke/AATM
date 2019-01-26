@@ -1,0 +1,23 @@
+The blinds are slightly looser than us both, but importantly they are generally passive and straight-forward. Villain seems to understand who to take advantage of and who not to get out of line with. At a few showdowns he's been able to extract thin-value from opponents calling too wide so my read is he's capable of betting with a wider range of marginal and value hands in this spot. Turn : (46 bb, 3 players) J:diamonds: SB checks, MP checks, Hero checks I'd bet $55 on the flop, $130 on the turn. 
+
+In a little more detail, player C can only win a multiple of his total staked amount ($9), thus the $27 main pot, or 3 players in that pot for $9 each. Players A & B can win the main pot and the side pot, where the side pot consists of the extra money staked above what the lowest amount staked was (i.e. above $9). Player A only has to match this extra amount of $1 (i.e. difference between what player B & C staked), thus 2 players in the side pot totaling $2. 
+
+If we do happen to have 2-Pair or better at this point, if your opponent is capable turning weak made hands into bluffs (e.g. He has pairs) or gutshots/turned flush draws that missed, sometimes check-raising is a good option to create even greater +EV situations in the future, and deter your opponent from bluffing at too many rivers. p.s. [To be clear, I'm not complaining. I just think we're capable of better answers. I like upvoting stuff, so please do your best to make it worth it!] I've made a few of these questions now, and it seems that either some people aren't bothered to put more detailed analysis into their answers or they aren't sure how to. I should say that short answers aren't that useful. Anyone can do that! I can do that!! What I'm looking for and hoping will become the standard are detailed answers that use some range analysis, possible equity analysis (if applicable). I've done the detailed analysis myself, but I'm asking it here because I'd like to get the communities input as well. 
+
+Villain is 20/17/10% 3bet. AF 3. Over 93 hands. Less positionally aware than average. I've seen him 3bet light with 96s but not from this positional situation. He's what I'd consider TAG-ish. 
+
+$1.00 NL FAST (6 max) - Holdem - 6 players Hand converted by PokerTracker 4: http://www.pokertracker.com Pre Flop: (pot: 1.5 bb) Hero has 6:diamonds: 5:diamonds: fold, MP calls 1 bb, fold, Hero raises to 5 bb, SB raises to 15 bb, fold, MP calls 14 bb, Hero calls 10 bb Hero raises to 2.5 BB, fold, fold, fold, fold, BB calls 1.5 BB 
+
+SB posts SB 0.5 BB, BB posts BB 1 BB 
+
+As for pot odds it's a mute point. That's a relative assumption based on range reading, as to whether it's good value or not. Unless you can put him on a range, you can't judge the pot odds correctly. 
+
+With only a few bluffs and many, many value combinations in villains range, check-folding is usually the best choice. 
+
+Firstly, the term "short stack" only really relates to a pre-flop description of relative stack sizes of all players. It doesn't have a reasonable use after the action has started. That said, a player may be "short stacked" post-flop but that's entirely down to what action has occurred. K⋄Q⋄ and K⋄J⋄ are possible but unlikely. K⋄Q⋄ wants to showdown and we lose to the K⋄J⋄ straight anyway. Q⋄J⋄ and Tx want to showdown more than they want to bluff. 
+
+Flop: ($45, 2 players) Q♣ 5⋄ 3♠ MP bets $39, Hero calls $39 
+
+As for the side pot issue, player A is involved in ALL pots as his bet covers everyone. That said, in your example: River: (24.3BB, 2 players) K♠ BB bets 9 BB, Hero ??? 
+
+Bad Villain #1 appears to have a very wide range here if your description is accurate. I'd say there are a few particularly important things to consider... After all bets are matched, player A still has $1 behind which is not in play (i.e cannot be lost or won with), and players B & C are All-In. Flop: (5.5BB, 2 players) Q♥ 2⋄ J♥ BB checks, Hero bets 4.4 BB, BB calls 4.4 BB

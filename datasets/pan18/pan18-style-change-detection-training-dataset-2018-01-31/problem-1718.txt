@@ -1,0 +1,27 @@
+Aside. I agree with Mauro that "eternal" is not synonymous with "having no beginning". But I consider this point not relevant for the reasoning about the question. 
+
+In many cases the psi-function does not make a deterministic predict about the outcome of a single experiment. It predicts only the probability of all different outcomes when the experiment is repeated several times with the same preparation. The typical example is the decay of an radioactive atom. 
+
+Actuality and potentiality are one concept of Aristotle's ontology but not the only one. A second concept is the notion of substance (= ousia). The substance is that which does not change during the lifetime of an object. 
+
+According to the Special Theory of Relativity one has to consider spacetime. Only the combined concept has an objective meaning, independent from the observer. According to the General Theory of Relativity spacetime is a physical entity because it is affected by mass distributions. Big masses like the sun or black holes warp specetime in their neighbourhood. That's a step beyond Ernst Mach. 
+
+The field of rationals (QQ,+,*) embedds into the ring (Omega_QQ,+,*). Elements of the latter are the equivalence classes of sequences of rational numbers; two sequences are considered equivalent when their difference is zero for all but finitely many elements of the sequence. 
+
+I know that my question makes clear that I neither see nor expect any results from metaphysics concerning spacetime and the derived concepts of space and time. But I am also sure that my question 
+
+One has to discriminate between ideas and facts. Both live in different ontological domains. 
+
+The examples cited above consider two separate entities, 1) space and 2) time, which are a “philosophical pairing”. But spacetime is not just adding space and time. One of the main conceptual changes of special relativity was to introduce 4-dimensional spacetime as its basic concept. There is a certain freedom how to decompose spacetime into a component space and a component time. The decomposition depends how the observer chooses its frame of reference. 
+
+2) We lack any example of an object which exists without beginning in time. Big Bang would be a candidate because it is said that Big Bang created spacetime. Unfortunately Big Bang is not part of the cosmological standard model but only a limit point of it. 
+
+E.g., according to the Jewish and the Christian religion life and human life in particular has a high value in itself (intrinsic value). 
+
+Possibly you are mixing the two philosophers Descartes and Leibniz and some of their fundamental claims. 
+
+Summing up, Greene writes concerning acceleration 
+
+1) Your question concerning the value of life has been answered differently. The answer depends on the worldview of the person who gives the answer. 
+
+Determinism and randomness play a double role in Quantum Mechanics (QM): The fundamental equations of QM like Schroedinger or Dirac equation are differential equations similar to the differential equations of classical mechanics. And differential equations are the paradigms of a deterministic development.

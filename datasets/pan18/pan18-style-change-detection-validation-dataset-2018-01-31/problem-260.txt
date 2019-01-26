@@ -1,0 +1,41 @@
+I would then suggest two strategies. 
+
+For a work by three to five authors (which is what applies to your example), list all five names the first time you cite the work in either a single phrase or in parenthesis. 
+
+Source: https://owl.english.purdue.edu/owl/resource/560/03/ 
+
+Then, for each subsequent citation use the first author's last name followed by "et al.". 
+
+For a work by two authors, you either name both authors in the single phrase, or in the parentheses each time you make reference to the work. For example: 
+
+Drinking regular water helps maintain alertness, and improves cognitive abilities. 
+
+It is vital to eat plenty of vegetables because they are extremely important in helping your body to blah blah. Also eat protein because it is necessary for ... Finally, we recommend you drink water regularly, because it helps maintain alertness and improves cognitive abilities. 
+
+2. How to Deal with Earthquakes 
+
+The only study on bullet points I could find was done by Chris Atherton looking at the usage of bullet points in Power Point slides, and this concluded that they did not work when it came to the audience remembering the information presented. However, in written form, this study would likely not apply since it's a completely different setting. 
+
+2. How to Deal with Earthquakes 
+
+For six or more authors, you always use the first author's last name, followed by "et al.", either within the phrase or in parenthesis. 
+
+Yes, you should be good at grammar to expect to get published. It's highly unlikely you will get your foot in the door if your manuscript has basic grammatical errors from the outset, because this will detract from your overall story. From a business perspective, poor grammar can also mean it may cost someone more money to publish your book, because it would need a lot more editing compared to someone who has taken the time edit their own work, and fix the grammar as best as possible. 
+
+Edit: Oh, and obviously, the third option is to just present bullet points with headings, and no paragraphs. Example: 
+
+Protein is an important ingredient because ... 
+
+The world did not end (Foo & Bar, 1994). 
+
+It's worth pointing out, too, that the example you've given suggests you are grouping together items in a list that are not related. For example, it doesn't make sense to have "Company policy for what to eat" and "how to deal with earthquakes" in the same bullet point list. Those are better served as headings for each section, since these are not for "remembering" something, but rather used for "finding" the information you need to know. I would therefore rethink about what actually needs to be in my bullet points, and then number your headings into sections and subsections. 
+
+The world did not end (Foo et al., 1994). 
+
+This would suggest that long bullet point lists such as what you propose could hamper learning, and possibly understanding. Although they're brief, and bullet points are useful for scanning, the quantity and hierarchical organisation of that information may not lend itself well to cognitive performance. 
+
+Something that could help is a study that was done in the fifties of the "magical number seven", which suggests that the number of objects or chunks of information a person can hold in working memory is around seven, plus or minus two (in reality, the number is probably in the region of three or four). 
+
+The first is to present three or four bullet points that outline a particular section, and then include your paragraph(s) of text. In other words, the bullet points can be viewed as a summary of what follows. You're therefore outlining in brief the central points a person needs to understand, but also providing more in-depth information. 
+
+Eating vegetables is vital to your body because blah blah.

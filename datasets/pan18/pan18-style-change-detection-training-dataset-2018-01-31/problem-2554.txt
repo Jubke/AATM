@@ -1,0 +1,26 @@
+Below are some non-Indo-European language examples. Squliq Atayal, Austronesian family, Taiwan. Here we see musa' 'go' used as an auxiliary to indicate irrealis/future: 
+
+The use of motion verbs to mark tense and/or aspect and/or modality is very common across the world's languages, both as part of serial verb constructions or as auxiliary verbs. (3)  musa’ m-nbu’  yaya’  =mu
+     IRR   AF-ill  mother =1S.GEN
+     "My mother will be ill"
+ George Lakoff (1993: 218) suggests that the metaphorical basis of describing time in terms of space is biologically determined: “In our visual systems, we have detectors for motion and detectors for objects/locations. We do not have detectors for time (whatever that could mean). Thus, it makes good biological sense that time should be understood in terms of things and motion.” (2)  a   na   taa
+     3sg come go
+     "He/she will go."
+ Grammaticalisation of the motion verbs 'go' and 'come' as future markers is common in Bantu languages. More examples in this paper. Anyhow, there is more to what linguists do than assign semantic interpretations to sentences. We use formalisms for all aspects of language, and at least for the non-quantitative, the interpretation of those formalisms requires the use of logic. Formal logic is important in interpreting these formalisms, since it provides a clear method of interpretation. Modal logic has proven useful in accounting for the meaning of sentences, and is of no use in interpreting phonological rules. Not every useful tool have to be useful for all problems. The second regards roots vs. words. If "glit" is a verb, you can form multiple inflected forms from it such as "glits", "glitted", "glitting" and so on. Some people don't want to include inflected forms because they aren't "really" different words, they are just forms of one word. Which then requires you to ask "What do you mean by 'word'?". There are languages with very robust morphology which allow huge numbers of words, and languages with recursive or at least iterative morphology, which have infinite word-formation potential. 
+
+This also happens in Shona and some other African languages, and there's a book on the topic, Quotative Indexes in African Languages: A Synchronic and Diachronic Survey by Tom Güldemann, which mentions other languages with this construction. Here are some possibilities, I guess it depends on your test of telicity. In English telicity depends to a large degree on the semantics of the arguments. 
+
+rent; allow; cause; cost; guarantee; leave; owe. 
+
+(1)  Zànhe sí dùfugé    kɛ̀  ɛ̀  gɛ̀     
+     rain  go maize.DEF spoil
+     "The rain will spoil the maize."
+ Bambara, Niger-Congo family. Here the motion verb na 'come' is used as an auxiliary indicating futurity: Squliq Atayal, Austronesian family, Taiwan. Here we see musa' 'go' used as an auxiliary to indicate irrealis/future: (2)  a   na   taa
+     3sg come go
+     "He/she will go."
+ Grammaticalisation of the motion verbs 'go' and 'come' as future markers is common in Bantu languages. More examples in this paper. 
+
+(3)  musa’ m-nbu’  yaya’  =mu
+     IRR   AF-ill  mother =1S.GEN
+     "My mother will be ill"
+ George Lakoff (1993: 218) suggests that the metaphorical basis of describing time in terms of space is biologically determined: “In our visual systems, we have detectors for motion and detectors for objects/locations. We do not have detectors for time (whatever that could mean). Thus, it makes good biological sense that time should be understood in terms of things and motion.”

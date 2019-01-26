@@ -1,0 +1,29 @@
+Additionally, the three sizes of slimes require different amounts of room (i.e. non-opaque blocks like air, signs, torches, etc.) for them to spawn: 
+
+So, another solution is to simply fill in the area as much as possible. 
+
+While exploring abandoned mine shafts, I was certain to strip the place bare of all the fencing that was present in the tunnel supports. This gave me a few full stacks of fencing which I then used to encircled the lone desert village I have found thus far. You could also chop down a bunch of trees and craft the fence yourself. Either way, it's very good at keeping all the nasty nighttime crawlies out of the village (except for the spiders, but they go after you, not the villagers). A few well placed fence gates make it easy for you to get in and out, and I have yet to see a villager manage to open one (they seem to only use wooden doors). 
+
+If there are 16 adult villagers and at least 21 houses (i.e. doors) then an Iron Golem should spawn eventually. If your village is small, or you are impatient, you can craft one yourself with a pumpkin and 4 blocks of iron (36 iron ingots). You should leave at least two blocks of space between your structures so that they can freely move around your village and get to where they are needed. 
+
+And just for the record, if you want to scan right-clickable things with a thaumometer you have to hold down Shift for the scanning to work. 
+
+Based on this table of status effects from the wiki, a potion of regeneration or a golden apple will give you regeneration for a short time, which should heal hearts over time faster than you lose them from the wither effect (1 gained every 25 ticks from the regeneration versus 1 lost every 40 ticks from the withering). 
+
+Also, drinking a bucket of milk can remove all status effects. 
+
+How often do you die? Zombies have the ability to pick up and equip items that are on the ground. If you die near them, then return for your stuff, they may be poised to use it against you. 
+
+An Ender Pearl: Jumping up and throwing it will teleport you out of the hole. If you're patient you could even wait until night to lure a passing Enderman over and kill it for one. 
+
+Saddled pig rescue: If there's a saddled pig nearby, or a nearby pig you could saddle, then jumping up and right-clicking on it will also get you out. 
+
+Food poisoning seems to work rather effectively as well, so chow down on all the Rotten Flesh and Raw Chicken you can find for additional exhaustion while you sprint and jump around like a madman. 
+
+Note that I had to add an extra row of hoppers to the back side of the furnaces in order to create a separation between the tracks (or else they tended to try and connect to one another). 
+
+And I can confirm this is true for the Librarian, because I maxed one out already. ;) 
+
+I don't believe it is possible to achieve this using only hoppers, at least not without a crap-ton of complicated redstone. However, if you're willing to add in a simple rail system and a chest minecart, you can do it quite easily. Here's the setup: 
+
+Strategy for "Normal" Difficulty There's no additional strategy other than what I list for the general strategies above. On "Normal" (or "Easy") difficulty, zombie sieges are possible, so zombies can occasionally appear inside your well-lit village barriers. Villagers are generally smart/fast enough to get inside a house and shut the door before the zombies get them, and since zombies are unable to break down wooden doors on "Normal" difficulty, they will be stuck outside the house until an Iron Golem can lumber over and dispatch them.

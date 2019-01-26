@@ -1,0 +1,33 @@
+Also, since the quote implies that the saying is a current Nordic/Scandinavian saying, look at this thread. 
+
+I've never heard of it. Source: I'm a Norwegian. 
+
+No, there is simply no way to finish the quest without killing Miraak. Furthermore, there is no way to kill Hermaeus Mora (in the base game/DLC, at least). 
+
+It appears that these are all World Interactions (see here). Here is a thread that involves two users discussing how one would go about making such a mod (if you're up to the task!) 
+
+However, I found this oddly specific mod that apparently allows you to do exactly what you've described in the question. The mod allows you to cast Bend Will on Miraak and team up with him against Hermaeus Mora, as well as unlocks Miraak as a follower and marriage candidate. 
+
+Apparently, you were up to the task! Here is a link to the impromptu mod created by @ZauberParacelsus to make NPCs ignore dropped items! 
+
+Since you haven't mentioned which quest you are talking about, I'll answer for all of her related quests. 
+
+As others have mentioned in the comments, this is likely a bug that was introduced when Hearthfire was added. As @pushasha has noted, it appears that you did, indeed, put your Volsung mask on a mannequin. Thus, you unintentionally caused the item duplication glitch, described here: 
+
+No matter whether you kill her or she is killed by the traps, it shouldn't prevent you from advancing in this quest. 
+
+The child is revealed during the story to be Narathzul. 
+
+Here is a good summary of the plot (spoilers present, naturally). The most relevant takeaway from the summary is this line: 
+
+Here's an interview with Todd Howard, Bethesda's Chief Game Developer. 
+
+Since you're playing on PS3, you cannot resurrect her with console commands, so the only way to bring her back would be to reload a previous save from before her death. However, this isn't necessary, as her questline involves her death regardless of what you choose to do. 
+
+No, it actually doesn't. It was apparently just made up by Bethesda employee Emil Pagliarulo, not expecting it to become an enormous meme. 
+
+After copying my save files to skyrim folder, i get 'This save game was created on later version. Please update your game'. 
+
+In fact, even if you are able to save her from being impaled, her fate seems to be sealed: 
+
+I have found no other method for duplicating armor aside from this, so it seems quite likely that this is what happened to you.

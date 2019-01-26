@@ -1,0 +1,21 @@
+According to Geoff Lindsey, in Standard British English the STRUT vowel is actually [ə]. In his blog post on the STRUT vowel, he notes that old RP speakers (esp. Queen Elizabeth) use [ɐ] for the STRUT vowel. I can recognise the difference in the more pronounced examples, but not generally. 
+
+To account for these, you should be interested in diphone coverage. If you want to modify phonemes based on their environment to model processes like assimilation, you should be interested in triphone coverage. It can work with diphone coverage, but it makes the processing more complex. Both of these increase the amount of units involved (although not all combinations are present in English). 
+
+How can I learn to recognise where people are using the STRUT vowel? 
+
+Another elicitation paragraph I have found was The Tiger and the Girl. 
+
+Wikipedia has a fairly comprehensive description of various accents and the different splits and mergers. 
+
+I can look up each word in a dictionary to find that e.g. 〈hundred〉 has the STRUT vowel, however I want to be able to identify the STRUT vowel when people are speaking it (e.g. on recordings of Public Domain books on LibriVox, or on TV). 
+
+The dialect being used is important, because that affects the distribution of phonemes. This includes splits, mergers and sound shifts. 
+
+You can search google for other elicitation paragraphs. 
+
+Using the formal syllable identification rules, you have the following (with an example pronunciation): 
+
+John Wells' Lexical Sets define a FOOT vowel /ʊ/ for words like 〈full〉, 〈look〉 and 〈could〉, and a STRUT vowel /ʌ/ for words like 〈cub〉, 〈rub〉 and 〈hum〉. However, I am from the North of England and do not have the FOOT-STRUT split and am having a hard time identifying and hearing the difference for words in each group. 
+
+The Rainbow Passage is used by the International Dialects of English Archive, so should have good phoneme coverage across accents.

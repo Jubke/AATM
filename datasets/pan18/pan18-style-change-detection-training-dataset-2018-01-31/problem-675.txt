@@ -1,0 +1,21 @@
+Say you are facing an all in with AKs and put your opponent on AA, KK, or QQ Yes the last mile might be easier for a flush but the first 4 miles are harder. Chance you (both) make a flush by the river = 0.0393 = 25 : 1 
+
+Range Add up all the cards your opponent could have based on action and your opponent. If you beat 2/3 of them then that is your odds. There are only 6 ways to make a pair. If you are worried about a set there are only 3 ways. Suited connector 1 way. Unsuited connector 16 ways. If there is a clock it is hard to get done. 
+
+Looking at just combination and only matching your pocket pair Quads on the board is possible 
+
+What are the chances of a 4 or 5 flush on the board 0.0048 = 207 : 1 You are in a situation of getting beat by a single card Second player has nine ways to match 0.73% 
+
+If you play 87s multi-way then yes your chance of pairing goes up base on card removal. And if you hit top pair on the flop your chance of being top pair goes up as K8- and a lot of other combos don't play. Newsflash 99+ is playing the hand and still has you beat. Card removal is real but does not really even rise to statistical noise. 
+
+in total 2.77070501274892E-007 = 1 / 3609190 
+
+In early to mid position only 77, 88, 99 would open. Mid suited connectors might open, call, or raise from middle to late. 
+
+evaluate board shuffle then one player at a time get the order (hand score) record win, tie, and loss to the player Opponent same flush - one card Let's say one card and T or greater You are playing 89s You can infer that the probability of any of your opponents having had hands like AA, KK, QQ, AK, AQ is slim, so you can expect there to be a very slightly increased probability of A's, K's, and Q's appearing on the board than you would expect if you had no additional information. This means that the KJ has a slightly increased chance of hitting a straight, however this will have a pretty small impact on your probability of winning with JJ. In fact, hitting his straight will allow you to chop if he has paired his K, so the improvement to his hand by factoring in the folded cards is even smaller. Frisbee's answer is correct. But it only answers for eight players (although the other numbers are hidden in that table). Since the OP asked for 8-10, I will add the answers for nine and ten players. It is almost always the case that factoring in the folded cards will have a very small impact on your pot equity, and it is impossible to measure exactly unless your opponents are playing like robots and you know their exact hand ranges. For these reasons, it is usually impractical to do so. 
+
+I chose this matchup, because hand 1 can only make two different straight, however on both straights hand 2 will end up with the better end of the straight. Hand 2's suits are the same as the aces. I don't know why but this results in higher equity for hand 2. So my side question: why do hand 2's suits to be the same as the aces cause higher equity for hand 2? 
+
+I will have to get technical, sorry. There are 35 possible ways to make quad sevens. They are all equally likely. You can get this number by writing out all possibilities like this: I ran the numbers on hand 1: A♥A♣3♠2⋄ versus hand2: 6♣7♣8♥9♥. Turns out aces have 46.82% equity. Significantly less than 50! 
+
+Main question: Is this the worst possible scenario pre-flop for aces? Or is there another hand which is even worse? If you dont want to do the math yourself, there is a quicker and easier way to calculate odds and probablity. Use propokertools.com, it is a great site. Not only can you calculate one hand versus another. But also one hand versus a certain range of hands. Just put in your hand, the board and the range you expect your opponent(s) to have and you can calculate your odds.

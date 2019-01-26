@@ -1,0 +1,1353 @@
+problem,topic,subtopic,numAuthors,mixMethod,docLengthChars,docLengthToken,paragraphSplitMode,avgAuthorSectionLengthChars,avgAuthorSectionLengthTokens,borderPosChars
+problem-1.txt,pm,scrum,2,A1-A2,3280,595,RANDOM,1640,297.5,[1369]
+problem-2.txt,pm,scrum,2,A1-A2,2996,516,END_OF_PAR,1498,258,[1484]
+problem-3.txt,pm,scrum,3,A1-A2-A3,3197,561,RANDOM,1065.666667,187,"[1206, 2213]"
+problem-4.txt,pm,scrum,2,A1-A2-A1-A2,4347,715,END_OF_PAR,1086.75,178.75,"[1130, 2090, 3159]"
+problem-5.txt,pm,scrum,3,A1-A2-A3,6013,1026,END_OF_PAR,2004.333333,342,"[2298, 3932]"
+problem-6.txt,pm,scrum,2,A1-A2-A1,2963,504,END_OF_PAR,987.6666667,168,"[1024, 2030]"
+problem-7.txt,pm,scrum,1,A1,3319,586,RANDOM,3319,586,[]
+problem-8.txt,pm,scrum,1,A1,2415,404,END_OF_PAR,2415,404,[]
+problem-9.txt,pm,scrum,1,A1,4943,797,END_OF_PAR,4943,797,[]
+problem-10.txt,pm,scrum,2,A1-A2,2564,425,END_OF_PAR,1282,212.5,[1208]
+problem-11.txt,pm,scrum,1,A1,4679,795,WITHIN_PAR,4679,795,[]
+problem-12.txt,pm,scrum,1,A1,2818,505,WITHIN_PAR,2818,505,[]
+problem-13.txt,pm,scrum,1,A1,3031,522,RANDOM,3031,522,[]
+problem-14.txt,pm,scrum,1,A1,2092,344,WITHIN_PAR,2092,344,[]
+problem-15.txt,pm,software-development,2,A1-A2-A1,4620,806,RANDOM,1540,268.6666667,"[1141, 3527]"
+problem-16.txt,pm,software-development,1,A1,3817,650,RANDOM,3817,650,[]
+problem-17.txt,pm,planning,2,A1-A2-A1,5636,977,END_OF_PAR,1878.666667,325.6666667,"[3028, 4402]"
+problem-18.txt,pm,planning,1,A1,3732,661,END_OF_PAR,3732,661,[]
+problem-19.txt,pm,estimating,2,A1-A2,4852,841,RANDOM,2426,420.5,[2814]
+problem-20.txt,pm,estimating,1,A1,4175,715,WITHIN_PAR,4175,715,[]
+problem-21.txt,pm,agile,3,A1-A2-A3,5504,967,RANDOM,1834.666667,322.3333333,"[1031, 4454]"
+problem-22.txt,pm,agile,1,A1,3761,683,WITHIN_PAR,3761,683,[]
+problem-23.txt,pm,agile,1,A1,2759,461,END_OF_PAR,2759,461,[]
+problem-24.txt,pm,agile,3,A1-A2-A3,5966,1013,RANDOM,1988.666667,337.6666667,"[1127, 2531]"
+problem-25.txt,pm,agile,1,A1,3416,590,RANDOM,3416,590,[]
+problem-26.txt,pm,agile,3,A1-A2-A3,5265,908,RANDOM,1755,302.6666667,"[1417, 2897]"
+problem-27.txt,pm,agile,2,A1-A2,5405,903,RANDOM,2702.5,451.5,[2234]
+problem-28.txt,pm,agile,1,A1,5459,948,END_OF_PAR,5459,948,[]
+problem-29.txt,pm,agile,1,A1,2561,450,END_OF_PAR,2561,450,[]
+problem-30.txt,pm,agile,2,A1-A2-A1,4944,896,WITHIN_PAR,1648,298.6666667,"[1599, 3941]"
+problem-31.txt,pm,agile,1,A1,2819,462,WITHIN_PAR,2819,462,[]
+problem-32.txt,pm,agile,3,A1-A2-A3,5421,941,RANDOM,1807,313.6666667,"[2316, 4098]"
+problem-33.txt,pm,agile,1,A1,4494,794,RANDOM,4494,794,[]
+problem-34.txt,pm,agile,2,A1-A2,5012,861,WITHIN_PAR,2506,430.5,[1538]
+problem-35.txt,pm,ms-project,2,A1-A2-A1,3970,692,END_OF_PAR,1323.333333,230.6666667,"[1401, 2706]"
+problem-36.txt,pm,ms-project,1,A1,3728,692,END_OF_PAR,3728,692,[]
+problem-37.txt,pm,kanban,3,A1-A2-A3,4134,725,WITHIN_PAR,1378,241.6666667,"[1393, 2428]"
+problem-38.txt,pm,kanban,1,A1,2306,395,WITHIN_PAR,2306,395,[]
+problem-39.txt,pm,team-management,2,A1-A2,3749,681,RANDOM,1874.5,340.5,[2298]
+problem-40.txt,pm,team-management,1,A1,3685,618,END_OF_PAR,3685,618,[]
+problem-41.txt,pm,team-management,1,A1,4948,862,WITHIN_PAR,4948,862,[]
+problem-42.txt,pm,team-management,2,A1-A2,4020,724,RANDOM,2010,362,[2071]
+problem-43.txt,pm,communication,3,A1-A2-A3,4656,809,WITHIN_PAR,1552,269.6666667,"[1586, 2619]"
+problem-44.txt,pm,communication,1,A1,3026,506,WITHIN_PAR,3026,506,[]
+problem-45.txt,gaming,steam,3,A1-A2-A1-A3,5390,954,END_OF_PAR,1347.5,238.5,"[1128, 2949, 3824]"
+problem-46.txt,gaming,steam,3,A1-A2-A3-A1,6336,1070,END_OF_PAR,1584,267.5,"[1938, 4049, 4942]"
+problem-47.txt,gaming,steam,1,A1,2845,506,RANDOM,2845,506,[]
+problem-48.txt,gaming,steam,2,A1-A2-A1,5378,938,END_OF_PAR,1792.666667,312.6666667,"[1746, 3006]"
+problem-49.txt,gaming,steam,1,A1,3820,661,END_OF_PAR,3820,661,[]
+problem-50.txt,gaming,steam,1,A1,3353,589,WITHIN_PAR,3353,589,[]
+problem-51.txt,gaming,diablo-3,3,A1-A2-A3,5592,1017,RANDOM,1864,339,"[2804, 4534]"
+problem-52.txt,gaming,diablo-3,2,A1-A2,1957,353,RANDOM,978.5,176.5,[957]
+problem-53.txt,gaming,diablo-3,1,A1,4645,820,WITHIN_PAR,4645,820,[]
+problem-54.txt,gaming,diablo-3,1,A1,3172,586,RANDOM,3172,586,[]
+problem-55.txt,gaming,diablo-3,3,A1-A2-A3,4690,849,RANDOM,1563.333333,283,"[2820, 3728]"
+problem-56.txt,gaming,diablo-3,1,A1,5310,948,WITHIN_PAR,5310,948,[]
+problem-57.txt,gaming,diablo-3,3,A2-A1-A3-A1,5883,1035,WITHIN_PAR,1470.75,258.75,"[2320, 3610, 4488]"
+problem-58.txt,gaming,diablo-3,2,A1-A2-A1,3368,603,WITHIN_PAR,1122.666667,201,"[927, 2449]"
+problem-59.txt,gaming,diablo-3,3,A1-A2-A3-A1,5266,908,WITHIN_PAR,1316.5,227,"[1022, 3005, 4359]"
+problem-60.txt,gaming,diablo-3,1,A1,3341,591,END_OF_PAR,3341,591,[]
+problem-61.txt,gaming,diablo-3,3,A1-A2-A3,3757,653,END_OF_PAR,1252.333333,217.6666667,"[1171, 2612]"
+problem-62.txt,gaming,diablo-3,1,A1,2805,493,END_OF_PAR,2805,493,[]
+problem-63.txt,gaming,diablo-3,2,A1-A2,2621,483,END_OF_PAR,1310.5,241.5,[1462]
+problem-64.txt,gaming,diablo-3,1,A1,2537,458,END_OF_PAR,2537,458,[]
+problem-65.txt,gaming,diablo-3,2,A1-A2-A1-A2,4299,762,WITHIN_PAR,1074.75,190.5,"[1153, 2016, 3106]"
+problem-66.txt,gaming,diablo-3,1,A1,2773,504,WITHIN_PAR,2773,504,[]
+problem-67.txt,gaming,diablo-3,1,A1,2661,458,END_OF_PAR,2661,458,[]
+problem-68.txt,gaming,diablo-3,1,A1,1772,321,END_OF_PAR,1772,321,[]
+problem-69.txt,gaming,starcraft-2,1,A1,2799,484,WITHIN_PAR,2799,484,[]
+problem-70.txt,gaming,starcraft-2,2,A1-A2-A1,4852,853,WITHIN_PAR,1617.333333,284.3333333,"[2072, 3422]"
+problem-71.txt,gaming,starcraft-2,3,A1-A2-A3,3505,618,END_OF_PAR,1168.333333,206,"[1112, 2258]"
+problem-72.txt,gaming,starcraft-2,1,A1,2969,510,WITHIN_PAR,2969,510,[]
+problem-73.txt,gaming,starcraft-2,3,A1-A2-A3,5039,918,END_OF_PAR,1679.666667,306,"[2241, 3355]"
+problem-74.txt,gaming,starcraft-2,2,A1-A2-A1,4565,817,RANDOM,1521.666667,272.3333333,"[1384, 2801]"
+problem-75.txt,gaming,starcraft-2,1,A1,3063,550,END_OF_PAR,3063,550,[]
+problem-76.txt,gaming,starcraft-2,1,A1,2869,486,WITHIN_PAR,2869,486,[]
+problem-77.txt,gaming,starcraft-2,2,A1-A2-A1-A2,4481,823,END_OF_PAR,1120.25,205.75,"[939, 2138, 3166]"
+problem-78.txt,gaming,starcraft-2,2,A1-A2,4445,807,RANDOM,2222.5,403.5,[3074]
+problem-79.txt,gaming,starcraft-2,1,A1,2578,472,RANDOM,2578,472,[]
+problem-80.txt,gaming,starcraft-2,1,A1,2074,389,WITHIN_PAR,2074,389,[]
+problem-81.txt,gaming,minecraft-commands,2,A1-A2-A1-A2,5879,1063,WITHIN_PAR,1469.75,265.75,"[1937, 3372, 4919]"
+problem-82.txt,gaming,minecraft-commands,1,A1,2986,543,WITHIN_PAR,2986,543,[]
+problem-83.txt,gaming,technical-issues,1,A1,3588,579,WITHIN_PAR,3588,579,[]
+problem-84.txt,gaming,technical-issues,2,A1-A2-A1-A2,4570,1156,WITHIN_PAR,1142.5,289,"[1201, 2292, 3553]"
+problem-85.txt,gaming,league-of-legends,3,A1-A2-A3,3065,554,WITHIN_PAR,1021.666667,184.6666667,"[1132, 2076]"
+problem-86.txt,gaming,league-of-legends,1,A1,2587,480,WITHIN_PAR,2587,480,[]
+problem-87.txt,gaming,league-of-legends,3,A1-A2-A3,3596,621,END_OF_PAR,1198.666667,207,"[1059, 2368]"
+problem-88.txt,gaming,league-of-legends,1,A1,5238,913,WITHIN_PAR,5238,913,[]
+problem-89.txt,gaming,league-of-legends,1,A1,3339,589,END_OF_PAR,3339,589,[]
+problem-90.txt,gaming,league-of-legends,1,A1,5495,982,WITHIN_PAR,5495,982,[]
+problem-91.txt,gaming,league-of-legends,1,A1,2952,515,END_OF_PAR,2952,515,[]
+problem-92.txt,gaming,league-of-legends,1,A1,5516,984,RANDOM,5516,984,[]
+problem-93.txt,gaming,league-of-legends,3,A2-A1-A3-A1,5793,1040,RANDOM,1448.25,260,"[1917, 3444, 4457]"
+problem-94.txt,gaming,league-of-legends,2,A1-A2,3710,654,END_OF_PAR,1855,327,[1785]
+problem-95.txt,gaming,league-of-legends,2,A1-A2-A1,3496,620,WITHIN_PAR,1165.333333,206.6666667,"[1316, 2397]"
+problem-96.txt,gaming,league-of-legends,1,A1,3866,706,WITHIN_PAR,3866,706,[]
+problem-97.txt,gaming,league-of-legends,3,A1-A2-A3,4560,827,RANDOM,1520,275.6666667,"[1041, 2541]"
+problem-98.txt,gaming,league-of-legends,2,A1-A2-A1,5520,1003,WITHIN_PAR,1840,334.3333333,"[2457, 3886]"
+problem-99.txt,gaming,pokemon-go,3,A1-A2-A3,4179,751,RANDOM,1393,250.3333333,"[1914, 3158]"
+problem-100.txt,gaming,pokemon-go,3,A1-A2-A3,5361,970,WITHIN_PAR,1787,323.3333333,"[3578, 4435]"
+problem-101.txt,gaming,pokemon-go,1,A1,2646,475,END_OF_PAR,2646,475,[]
+problem-102.txt,gaming,pokemon-go,1,A1,3133,554,WITHIN_PAR,3133,554,[]
+problem-103.txt,gaming,minecraft,2,A1-A2-A1,3042,538,WITHIN_PAR,1014,179.3333333,"[888, 2054]"
+problem-104.txt,gaming,minecraft,1,A1,3875,695,END_OF_PAR,3875,695,[]
+problem-105.txt,gaming,minecraft,1,A1,2975,541,RANDOM,2975,541,[]
+problem-106.txt,gaming,minecraft,3,A1-A2-A3,5611,999,RANDOM,1870.333333,333,"[1463, 3538]"
+problem-107.txt,gaming,minecraft,1,A1,3907,712,RANDOM,3907,712,[]
+problem-108.txt,gaming,minecraft,2,A1-A2-A1,5653,1035,WITHIN_PAR,1884.333333,345,"[2259, 3460]"
+problem-109.txt,gaming,minecraft,1,A1,4461,802,END_OF_PAR,4461,802,[]
+problem-110.txt,gaming,minecraft,1,A1,3302,587,END_OF_PAR,3302,587,[]
+problem-111.txt,gaming,minecraft,2,A1-A2-A1-A2,4888,870,END_OF_PAR,1222,217.5,"[1091, 2410, 3959]"
+problem-112.txt,gaming,minecraft,3,A1-A2-A3,5711,1014,RANDOM,1903.666667,338,"[1395, 3195]"
+problem-113.txt,gaming,minecraft,2,A1-A2-A1,3487,625,END_OF_PAR,1162.333333,208.3333333,"[1134, 2263]"
+problem-114.txt,gaming,minecraft,1,A1,5275,961,WITHIN_PAR,5275,961,[]
+problem-115.txt,gaming,skyrim,1,A1,4024,648,RANDOM,4024,648,[]
+problem-116.txt,gaming,skyrim,2,A1-A2-A1-A2,4533,780,WITHIN_PAR,1133.25,195,"[1095, 2065, 3449]"
+problem-117.txt,gaming,skyrim,1,A1,3201,557,WITHIN_PAR,3201,557,[]
+problem-118.txt,gaming,skyrim,1,A1,6445,1077,END_OF_PAR,6445,1077,[]
+problem-119.txt,gaming,skyrim,2,A1-A2-A1-A2,4884,863,END_OF_PAR,1221,215.75,"[1167, 2204, 3709]"
+problem-120.txt,gaming,skyrim,2,A1-A2-A1,4699,837,RANDOM,1566.333333,279,"[963, 3451]"
+problem-121.txt,gaming,skyrim,1,A1,2740,462,END_OF_PAR,2740,462,[]
+problem-122.txt,gaming,skyrim,3,A1-A2-A3,3323,574,RANDOM,1107.666667,191.3333333,"[1406, 2445]"
+problem-123.txt,bicycles,brakes,2,A1-A2,4192,736,RANDOM,2096,368,[1707]
+problem-124.txt,bicycles,brakes,1,A1,4141,745,END_OF_PAR,4141,745,[]
+problem-125.txt,bicycles,brakes,3,A1-A2-A3,3953,709,END_OF_PAR,1317.666667,236.3333333,"[1362, 3112]"
+problem-126.txt,bicycles,brakes,1,A1,5224,947,WITHIN_PAR,5224,947,[]
+problem-127.txt,bicycles,brakes,1,A1,2913,513,WITHIN_PAR,2913,513,[]
+problem-128.txt,bicycles,brakes,3,A1-A2-A3,3231,582,RANDOM,1077,194,"[1184, 2255]"
+problem-129.txt,bicycles,road-bike,2,A1-A2,2113,369,END_OF_PAR,1056.5,184.5,[1096]
+problem-130.txt,bicycles,road-bike,1,A1,6306,1149,WITHIN_PAR,6306,1149,[]
+problem-131.txt,bicycles,road-bike,3,A1-A2-A3,4758,862,END_OF_PAR,1586,287.3333333,"[1128, 3059]"
+problem-132.txt,bicycles,road-bike,1,A1,1817,330,END_OF_PAR,1817,330,[]
+problem-133.txt,bicycles,road-bike,2,A1-A2,3138,558,END_OF_PAR,1569,279,[1915]
+problem-134.txt,bicycles,road-bike,2,A1-A2-A1,5690,1037,RANDOM,1896.666667,345.6666667,"[2437, 4759]"
+problem-135.txt,bicycles,road-bike,2,A1-A2-A1-A2,5814,1047,RANDOM,1453.5,261.75,"[1874, 2952, 3949]"
+problem-136.txt,bicycles,road-bike,1,A1,2845,508,RANDOM,2845,508,[]
+problem-137.txt,bicycles,road-bike,2,A1-A2,2662,474,WITHIN_PAR,1331,237,[1088]
+problem-138.txt,bicycles,road-bike,1,A1,4618,786,END_OF_PAR,4618,786,[]
+problem-139.txt,bicycles,road-bike,1,A1,2053,387,RANDOM,2053,387,[]
+problem-140.txt,bicycles,road-bike,1,A1,3476,619,END_OF_PAR,3476,619,[]
+problem-141.txt,bicycles,road-bike,1,A1,5206,952,WITHIN_PAR,5206,952,[]
+problem-142.txt,bicycles,road-bike,1,A1,3350,581,RANDOM,3350,581,[]
+problem-143.txt,bicycles,road-bike,3,A1-A2-A3,3101,581,RANDOM,1033.666667,193.6666667,"[1166, 2239]"
+problem-144.txt,bicycles,road-bike,2,A1-A2-A1,4078,728,END_OF_PAR,1359.333333,242.6666667,"[1582, 2857]"
+problem-145.txt,bicycles,frames,3,A1-A2-A3,4161,732,END_OF_PAR,1387,244,"[1349, 2474]"
+problem-146.txt,bicycles,frames,2,A1-A2,6343,1171,WITHIN_PAR,3171.5,585.5,[3131]
+problem-147.txt,bicycles,frames,1,A1,4064,708,END_OF_PAR,4064,708,[]
+problem-148.txt,bicycles,frames,1,A1,4939,926,RANDOM,4939,926,[]
+problem-149.txt,bicycles,chain,1,A1,2024,375,WITHIN_PAR,2024,375,[]
+problem-150.txt,bicycles,chain,3,A1-A2-A3,3896,746,RANDOM,1298.666667,248.6666667,"[1908, 2822]"
+problem-151.txt,bicycles,chain,2,A1-A2,3277,582,END_OF_PAR,1638.5,291,[1509]
+problem-152.txt,bicycles,chain,1,A1,4119,723,WITHIN_PAR,4119,723,[]
+problem-153.txt,bicycles,chain,2,A1-A2,2575,496,RANDOM,1287.5,248,[1084]
+problem-154.txt,bicycles,chain,1,A1,5235,932,END_OF_PAR,5235,932,[]
+problem-155.txt,bicycles,chain,2,A1-A2,4649,828,RANDOM,2324.5,414,[2385]
+problem-156.txt,bicycles,chain,1,A1,3049,558,END_OF_PAR,3049,558,[]
+problem-157.txt,bicycles,mountain-bike,1,A1,4052,722,RANDOM,4052,722,[]
+problem-158.txt,bicycles,mountain-bike,2,A1-A2,2637,478,WITHIN_PAR,1318.5,239,[1175]
+problem-159.txt,bicycles,mountain-bike,2,A1-A2,4618,847,RANDOM,2309,423.5,[2091]
+problem-160.txt,bicycles,mountain-bike,2,A1-A2-A1-A2,3557,649,WITHIN_PAR,889.25,162.25,"[811, 1682, 2644]"
+problem-161.txt,bicycles,mountain-bike,1,A1,2755,482,WITHIN_PAR,2755,482,[]
+problem-162.txt,bicycles,mountain-bike,2,A1-A2-A1-A2,4973,955,WITHIN_PAR,1243.25,238.75,"[1265, 2445, 4014]"
+problem-163.txt,bicycles,mountain-bike,1,A1,3742,651,WITHIN_PAR,3742,651,[]
+problem-164.txt,bicycles,mountain-bike,2,A1-A2-A1-A2,4068,726,WITHIN_PAR,1017,181.5,"[1009, 2044, 3034]"
+problem-165.txt,bicycles,mountain-bike,1,A1,1829,335,END_OF_PAR,1829,335,[]
+problem-166.txt,bicycles,mountain-bike,1,A1,4910,863,WITHIN_PAR,4910,863,[]
+problem-167.txt,bicycles,wheels,2,A1-A2-A1-A2,4389,791,END_OF_PAR,1097.25,197.75,"[1068, 1967, 2915]"
+problem-168.txt,bicycles,wheels,2,A1-A2,3377,646,WITHIN_PAR,1688.5,323,[1403]
+problem-169.txt,bicycles,wheels,3,A1-A2-A3,5844,1087,RANDOM,1948,362.3333333,"[1614, 4541]"
+problem-170.txt,bicycles,wheels,1,A1,4130,748,END_OF_PAR,4130,748,[]
+problem-171.txt,bicycles,wheels,1,A1,4742,868,RANDOM,4742,868,[]
+problem-172.txt,bicycles,wheels,2,A1-A2-A1,3597,655,RANDOM,1199,218.3333333,"[1010, 2594]"
+problem-173.txt,bicycles,wheels,1,A1,1845,342,RANDOM,1845,342,[]
+problem-174.txt,bicycles,wheels,1,A1,2896,536,RANDOM,2896,536,[]
+problem-175.txt,bicycles,shimano,1,A1,3514,642,WITHIN_PAR,3514,642,[]
+problem-176.txt,bicycles,shimano,2,A1-A2,5411,972,END_OF_PAR,2705.5,486,[3858]
+problem-177.txt,bicycles,maintenance,2,A1-A2-A1,3314,595,END_OF_PAR,1104.666667,198.3333333,"[1125, 2306]"
+problem-178.txt,bicycles,maintenance,1,A1,5479,975,END_OF_PAR,5479,975,[]
+problem-179.txt,bicycles,maintenance,1,A1,4601,838,RANDOM,4601,838,[]
+problem-180.txt,bicycles,maintenance,2,A1-A2-A1,3511,620,END_OF_PAR,1170.333333,206.6666667,"[1052, 2462]"
+problem-181.txt,bicycles,maintenance,1,A1,4514,848,END_OF_PAR,4514,848,[]
+problem-182.txt,bicycles,maintenance,2,A1-A2,3043,533,END_OF_PAR,1521.5,266.5,[1700]
+problem-183.txt,bicycles,tire,1,A1,1886,353,WITHIN_PAR,1886,353,[]
+problem-184.txt,bicycles,tire,1,A1,5469,1007,WITHIN_PAR,5469,1007,[]
+problem-185.txt,bicycles,tire,3,A1-A2-A3,5401,1008,END_OF_PAR,1800.333333,336,"[1136, 3469]"
+problem-186.txt,bicycles,tire,2,A1-A2-A1-A2,5859,1129,RANDOM,1464.75,282.25,"[1460, 3097, 4139]"
+problem-187.txt,bicycles,tire,1,A1,4303,792,END_OF_PAR,4303,792,[]
+problem-188.txt,bicycles,tire,2,A1-A2-A1,4888,872,RANDOM,1629.333333,290.6666667,"[1599, 3649]"
+problem-189.txt,bicycles,repair,1,A1,4352,782,WITHIN_PAR,4352,782,[]
+problem-190.txt,bicycles,repair,1,A1,4816,868,RANDOM,4816,868,[]
+problem-191.txt,bicycles,repair,2,A1-A2,2300,413,END_OF_PAR,1150,206.5,[928]
+problem-192.txt,bicycles,repair,2,A1-A2,2476,461,WITHIN_PAR,1238,230.5,[1003]
+problem-193.txt,writers,publishing,1,A1,6164,1038,END_OF_PAR,6164,1038,[]
+problem-194.txt,writers,publishing,1,A1,5714,980,WITHIN_PAR,5714,980,[]
+problem-195.txt,writers,publishing,3,A1-A2-A1-A3,5914,1011,RANDOM,1478.5,252.75,"[1102, 3531, 4945]"
+problem-196.txt,writers,publishing,2,A1-A2-A1,4370,741,WITHIN_PAR,1456.666667,247,"[1161, 2979]"
+problem-197.txt,writers,technical-writing,2,A1-A2-A1-A2,5818,988,END_OF_PAR,1454.5,247,"[1138, 3425, 4620]"
+problem-198.txt,writers,technical-writing,1,A1,1828,316,END_OF_PAR,1828,316,[]
+problem-199.txt,writers,creative-writing,1,A1,3722,651,WITHIN_PAR,3722,651,[]
+problem-200.txt,writers,creative-writing,3,A1-A2-A3,6186,1043,WITHIN_PAR,2062,347.6666667,"[3054, 4635]"
+problem-201.txt,writers,creative-writing,3,A1-A2-A3,3708,652,END_OF_PAR,1236,217.3333333,"[1512, 2552]"
+problem-202.txt,writers,creative-writing,1,A1,4599,779,END_OF_PAR,4599,779,[]
+problem-203.txt,writers,creative-writing,3,A1-A2-A3,5242,909,END_OF_PAR,1747.333333,303,"[2888, 4279]"
+problem-204.txt,writers,creative-writing,3,A1-A2-A3-A1,5115,893,WITHIN_PAR,1278.75,223.25,"[915, 2923, 3936]"
+problem-205.txt,writers,creative-writing,1,A1,3749,673,RANDOM,3749,673,[]
+problem-206.txt,writers,creative-writing,3,A1-A2-A1-A3,5733,1044,RANDOM,1433.25,261,"[933, 2806, 4210]"
+problem-207.txt,writers,creative-writing,1,A1,2550,442,END_OF_PAR,2550,442,[]
+problem-208.txt,writers,creative-writing,2,A1-A2,2341,404,RANDOM,1170.5,202,[1316]
+problem-209.txt,writers,creative-writing,2,A1-A2,3619,641,RANDOM,1809.5,320.5,[2099]
+problem-210.txt,writers,creative-writing,1,A1,4646,857,RANDOM,4646,857,[]
+problem-211.txt,writers,creative-writing,1,A1,1859,344,WITHIN_PAR,1859,344,[]
+problem-212.txt,writers,creative-writing,1,A1,3737,662,END_OF_PAR,3737,662,[]
+problem-213.txt,writers,creative-writing,2,A1-A2-A1-A2,4887,938,WITHIN_PAR,1221.75,234.5,"[1567, 2628, 3921]"
+problem-214.txt,writers,creative-writing,1,A1,2581,457,RANDOM,2581,457,[]
+problem-215.txt,writers,plot,1,A1,4738,805,WITHIN_PAR,4738,805,[]
+problem-216.txt,writers,plot,3,A1-A2-A1-A3,5935,1037,RANDOM,1483.75,259.25,"[1257, 3318, 4824]"
+problem-217.txt,writers,plot,1,A1,5453,1011,WITHIN_PAR,5453,1011,[]
+problem-218.txt,writers,plot,2,A1-A2-A1-A2,4286,772,END_OF_PAR,1071.5,193,"[1060, 2081, 3194]"
+problem-219.txt,writers,character-development,1,A1,3262,578,WITHIN_PAR,3262,578,[]
+problem-220.txt,writers,character-development,3,A1-A2-A3,6091,1037,WITHIN_PAR,2030.333333,345.6666667,"[1526, 2816]"
+problem-221.txt,writers,character-development,2,A1-A2,3725,649,RANDOM,1862.5,324.5,[2617]
+problem-222.txt,writers,character-development,1,A1,3583,630,RANDOM,3583,630,[]
+problem-223.txt,writers,style,2,A1-A2,3168,530,RANDOM,1584,265,[1418]
+problem-224.txt,writers,style,1,A1,3101,567,END_OF_PAR,3101,567,[]
+problem-225.txt,writers,style,3,A1-A2-A3,5970,1008,WITHIN_PAR,1990,336,"[2849, 3994]"
+problem-226.txt,writers,style,2,A1-A2-A1,4572,768,RANDOM,1524,256,"[1360, 3668]"
+problem-227.txt,writers,style,1,A1,2815,499,RANDOM,2815,499,[]
+problem-228.txt,writers,style,1,A1,4543,773,RANDOM,4543,773,[]
+problem-229.txt,writers,technique,3,A2-A1-A3-A1,5881,1046,END_OF_PAR,1470.25,261.5,"[2119, 3028, 4348]"
+problem-230.txt,writers,technique,3,A1-A2-A3,3097,533,END_OF_PAR,1032.333333,177.6666667,"[1141, 2173]"
+problem-231.txt,writers,technique,1,A1,6142,1040,RANDOM,6142,1040,[]
+problem-232.txt,writers,technique,2,A1-A2-A1,5499,951,RANDOM,1833,317,"[1141, 4539]"
+problem-233.txt,writers,technique,1,A1,4069,715,WITHIN_PAR,4069,715,[]
+problem-234.txt,writers,technique,1,A1,2334,438,RANDOM,2334,438,[]
+problem-235.txt,writers,technique,2,A1-A2,2545,476,WITHIN_PAR,1272.5,238,[1197]
+problem-236.txt,writers,technique,1,A1,4508,759,END_OF_PAR,4508,759,[]
+problem-237.txt,writers,novel,2,A1-A2-A1-A2,4687,790,WITHIN_PAR,1171.75,197.5,"[1019, 2086, 3070]"
+problem-238.txt,writers,novel,1,A1,3490,636,WITHIN_PAR,3490,636,[]
+problem-239.txt,writers,novel,1,A1,2227,399,RANDOM,2227,399,[]
+problem-240.txt,writers,novel,1,A1,4204,749,RANDOM,4204,749,[]
+problem-241.txt,writers,novel,2,A1-A2-A1,3586,643,WITHIN_PAR,1195.333333,214.3333333,"[1469, 2525]"
+problem-242.txt,writers,novel,3,A2-A1-A3-A1,5628,1036,RANDOM,1407,259,"[2079, 3549, 4506]"
+problem-243.txt,writers,fiction,1,A1,4790,844,END_OF_PAR,4790,844,[]
+problem-244.txt,writers,fiction,2,A1-A2-A1,3019,526,END_OF_PAR,1006.333333,175.3333333,"[1017, 2054]"
+problem-245.txt,writers,fiction,1,A1,2814,519,END_OF_PAR,2814,519,[]
+problem-246.txt,writers,fiction,2,A1-A2-A1,3491,610,END_OF_PAR,1163.666667,203.3333333,"[1007, 2253]"
+problem-247.txt,writers,fiction,3,A1-A2-A3,4178,734,WITHIN_PAR,1392.666667,244.6666667,"[1420, 2834]"
+problem-248.txt,writers,fiction,3,A1-A2-A3,5028,862,END_OF_PAR,1676,287.3333333,"[2026, 3629]"
+problem-249.txt,writers,fiction,1,A1,5695,989,END_OF_PAR,5695,989,[]
+problem-250.txt,writers,fiction,2,A1-A2-A1,5355,946,WITHIN_PAR,1785,315.3333333,"[1700, 3688]"
+problem-251.txt,writers,fiction,1,A1,5807,989,END_OF_PAR,5807,989,[]
+problem-252.txt,writers,fiction,2,A1-A2,2077,392,RANDOM,1038.5,196,[1153]
+problem-253.txt,writers,fiction,1,A1,2843,474,END_OF_PAR,2843,474,[]
+problem-254.txt,writers,fiction,2,A1-A2,2895,500,END_OF_PAR,1447.5,250,[1073]
+problem-255.txt,writers,fiction,1,A1,5879,1001,END_OF_PAR,5879,1001,[]
+problem-256.txt,writers,fiction,1,A1,5543,994,RANDOM,5543,994,[]
+problem-257.txt,writers,characters,1,A1,3211,569,WITHIN_PAR,3211,569,[]
+problem-258.txt,writers,characters,3,A1-A2-A1-A3,6395,1145,RANDOM,1598.75,286.25,"[1028, 4591, 5479]"
+problem-259.txt,writers,characters,1,A1,5250,934,RANDOM,5250,934,[]
+problem-260.txt,writers,characters,3,A1-A2-A1-A3,6384,1117,END_OF_PAR,1596,279.25,"[1190, 3101, 5172]"
+problem-261.txt,writers,characters,3,A1-A2-A3,4671,819,END_OF_PAR,1557,273,"[1726, 2997]"
+problem-262.txt,writers,characters,1,A1,1914,334,RANDOM,1914,334,[]
+problem-263.txt,poker,nlhe,3,A1-A2-A3,4592,921,END_OF_PAR,1530.666667,307,"[2607, 3322]"
+problem-264.txt,poker,nlhe,1,A1,3940,728,RANDOM,3940,728,[]
+problem-265.txt,poker,texas-hold-em,1,A1,2726,523,RANDOM,2726,523,[]
+problem-266.txt,poker,texas-hold-em,1,A1,2565,495,WITHIN_PAR,2565,495,[]
+problem-267.txt,poker,texas-hold-em,2,A1-A2-A1,4573,880,RANDOM,1524.333333,293.3333333,"[881, 3303]"
+problem-268.txt,poker,texas-hold-em,1,A1,2114,396,END_OF_PAR,2114,396,[]
+problem-269.txt,poker,texas-hold-em,2,A1-A2-A1,5126,1063,END_OF_PAR,1708.666667,354.3333333,"[1192, 3841]"
+problem-270.txt,poker,texas-hold-em,2,A1-A2-A1,5794,1173,WITHIN_PAR,1931.333333,391,"[1667, 4395]"
+problem-271.txt,poker,texas-hold-em,1,A1,5114,983,END_OF_PAR,5114,983,[]
+problem-272.txt,poker,texas-hold-em,1,A1,3791,689,END_OF_PAR,3791,689,[]
+problem-273.txt,poker,texas-hold-em,3,A1-A2-A3,6171,1150,END_OF_PAR,2057,383.3333333,"[2927, 4826]"
+problem-274.txt,poker,texas-hold-em,1,A1,4715,869,RANDOM,4715,869,[]
+problem-275.txt,poker,texas-hold-em,2,A1-A2-A1-A2,4468,825,END_OF_PAR,1117,206.25,"[1135, 2178, 3057]"
+problem-276.txt,poker,texas-hold-em,2,A1-A2,3779,702,END_OF_PAR,1889.5,351,[2395]
+problem-277.txt,poker,texas-hold-em,2,A1-A2,5180,964,END_OF_PAR,2590,482,[3634]
+problem-278.txt,poker,texas-hold-em,1,A1,3225,595,END_OF_PAR,3225,595,[]
+problem-279.txt,poker,cash-game,3,A1-A2-A3,4284,753,RANDOM,1428,251,"[2099, 3205]"
+problem-280.txt,poker,cash-game,1,A1,4336,753,WITHIN_PAR,4336,753,[]
+problem-281.txt,poker,cash-game,3,A1-A2-A3,4251,763,END_OF_PAR,1417,254.3333333,"[1975, 3234]"
+problem-282.txt,poker,cash-game,1,A1,4316,791,WITHIN_PAR,4316,791,[]
+problem-283.txt,poker,betting-strategy,1,A1,3580,604,RANDOM,3580,604,[]
+problem-284.txt,poker,betting-strategy,3,A1-A2-A3,3633,731,RANDOM,1211,243.6666667,"[1682, 2626]"
+problem-285.txt,poker,betting-strategy,1,A1,3872,738,RANDOM,3872,738,[]
+problem-286.txt,poker,betting-strategy,3,A1-A2-A3,3654,729,WITHIN_PAR,1218,243,"[1708, 2768]"
+problem-287.txt,poker,tournament,1,A1,3915,700,END_OF_PAR,3915,700,[]
+problem-288.txt,poker,tournament,2,A1-A2-A1,2822,549,END_OF_PAR,940.6666667,183,"[850, 2024]"
+problem-289.txt,poker,poker-strategy,1,A1,4348,755,END_OF_PAR,4348,755,[]
+problem-290.txt,poker,poker-strategy,3,A1-A2-A3,4761,872,WITHIN_PAR,1587,290.6666667,"[2077, 3898]"
+problem-291.txt,poker,poker-theory,2,A1-A2-A1,2907,530,END_OF_PAR,969,176.6666667,"[978, 1850]"
+problem-292.txt,poker,poker-theory,2,A1-A2-A1,3789,690,WITHIN_PAR,1263,230,"[1374, 2716]"
+problem-293.txt,poker,poker-theory,1,A1,3628,706,END_OF_PAR,3628,706,[]
+problem-294.txt,poker,poker-theory,1,A1,5068,863,END_OF_PAR,5068,863,[]
+problem-295.txt,poker,odds,1,A1,4214,760,WITHIN_PAR,4214,760,[]
+problem-296.txt,poker,odds,2,A1-A2-A1,3537,659,WITHIN_PAR,1179,219.6666667,"[1333, 2298]"
+problem-297.txt,poker,rules,1,A1,2516,467,WITHIN_PAR,2516,467,[]
+problem-298.txt,poker,rules,3,A1-A2-A3,3467,651,WITHIN_PAR,1155.666667,217,"[1439, 2675]"
+problem-299.txt,poker,rules,1,A1,2766,501,RANDOM,2766,501,[]
+problem-300.txt,poker,rules,2,A1-A2-A1,5037,915,WITHIN_PAR,1679,305,"[2107, 3177]"
+problem-301.txt,poker,online,1,A1,3002,565,RANDOM,3002,565,[]
+problem-302.txt,poker,online,1,A1,5916,1104,RANDOM,5916,1104,[]
+problem-303.txt,poker,online,2,A1-A2-A1-A2,6288,1170,RANDOM,1572,292.5,"[2292, 3693, 4882]"
+problem-304.txt,poker,online,2,A1-A2,2594,473,RANDOM,1297,236.5,[1418]
+problem-305.txt,islam,fiqh,1,A1,4495,823,WITHIN_PAR,4495,823,[]
+problem-306.txt,islam,fiqh,2,A1-A2-A1,5159,924,END_OF_PAR,1719.666667,308,"[1805, 3704]"
+problem-307.txt,islam,fiqh,2,A1-A2-A1-A2,4779,850,WITHIN_PAR,1194.75,212.5,"[1321, 2221, 3508]"
+problem-308.txt,islam,fiqh,1,A1,5134,918,END_OF_PAR,5134,918,[]
+problem-309.txt,islam,fiqh,2,A1-A2-A1,4784,840,WITHIN_PAR,1594.666667,280,"[928, 2857]"
+problem-310.txt,islam,fiqh,1,A1,3690,669,END_OF_PAR,3690,669,[]
+problem-311.txt,islam,salat,3,A1-A2-A3,3669,642,END_OF_PAR,1223,214,"[1541, 2532]"
+problem-312.txt,islam,salat,1,A1,5405,981,RANDOM,5405,981,[]
+problem-313.txt,islam,salat,3,A1-A2-A3,3702,645,WITHIN_PAR,1234,215,"[1565, 2769]"
+problem-314.txt,islam,salat,1,A1,4506,813,END_OF_PAR,4506,813,[]
+problem-315.txt,islam,salat,1,A1,3559,629,WITHIN_PAR,3559,629,[]
+problem-316.txt,islam,salat,2,A1-A2-A1,4522,792,END_OF_PAR,1507.333333,264,"[1647, 2737]"
+problem-317.txt,islam,nikah,2,A1-A2-A1,4536,779,WITHIN_PAR,1512,259.6666667,"[1403, 2485]"
+problem-318.txt,islam,nikah,3,A1-A2-A3,5074,858,END_OF_PAR,1691.333333,286,"[1752, 3223]"
+problem-319.txt,islam,nikah,1,A1,2056,366,RANDOM,2056,366,[]
+problem-320.txt,islam,nikah,1,A1,2879,522,RANDOM,2879,522,[]
+problem-321.txt,islam,nikah,1,A1,2638,464,WITHIN_PAR,2638,464,[]
+problem-322.txt,islam,nikah,2,A1-A2,3168,540,END_OF_PAR,1584,270,[2028]
+problem-323.txt,islam,quran,3,A1-A2-A3,4796,889,END_OF_PAR,1598.666667,296.3333333,"[2442, 3637]"
+problem-324.txt,islam,quran,1,A1,3794,676,WITHIN_PAR,3794,676,[]
+problem-325.txt,islam,quran,3,A1-A2-A3,5676,1047,WITHIN_PAR,1892,349,"[2416, 4535]"
+problem-326.txt,islam,quran,1,A1,5415,954,RANDOM,5415,954,[]
+problem-327.txt,islam,quran,1,A1,3158,562,END_OF_PAR,3158,562,[]
+problem-328.txt,islam,quran,3,A1-A2-A3,6460,1185,RANDOM,2153.333333,395,"[2018, 5301]"
+problem-329.txt,islam,quran,1,A1,5081,862,END_OF_PAR,5081,862,[]
+problem-330.txt,islam,quran,1,A1,2396,439,WITHIN_PAR,2396,439,[]
+problem-331.txt,islam,quran,3,A1-A2-A3,4893,887,END_OF_PAR,1631,295.6666667,"[2248, 3627]"
+problem-332.txt,islam,quran,1,A1,5364,953,END_OF_PAR,5364,953,[]
+problem-333.txt,islam,quran,3,A1-A2-A3,4994,908,WITHIN_PAR,1664.666667,302.6666667,"[1238, 3362]"
+problem-334.txt,islam,quran,3,A1-A2-A3,4890,852,RANDOM,1630,284,"[2979, 4102]"
+problem-335.txt,islam,practical-islam,1,A1,3331,602,WITHIN_PAR,3331,602,[]
+problem-336.txt,islam,practical-islam,1,A1,3415,606,END_OF_PAR,3415,606,[]
+problem-337.txt,islam,practical-islam,3,A1-A2-A1-A3,5894,1002,WITHIN_PAR,1473.5,250.5,"[1190, 3231, 4795]"
+problem-338.txt,islam,practical-islam,2,A1-A2,4915,849,RANDOM,2457.5,424.5,[1586]
+problem-339.txt,islam,sharia,1,A1,1830,339,END_OF_PAR,1830,339,[]
+problem-340.txt,islam,sharia,2,A1-A2-A1,5563,947,WITHIN_PAR,1854.333333,315.6666667,"[2741, 3545]"
+problem-341.txt,islam,sharia,2,A1-A2,5758,1028,WITHIN_PAR,2879,514,[3547]
+problem-342.txt,islam,sharia,1,A1,3703,673,WITHIN_PAR,3703,673,[]
+problem-343.txt,islam,sharia,2,A1-A2-A1-A2,5977,1097,RANDOM,1494.25,274.25,"[998, 2334, 3697]"
+problem-344.txt,islam,sharia,1,A1,3607,686,END_OF_PAR,3607,686,[]
+problem-345.txt,islam,prophet-muhammad,1,A1,2476,438,RANDOM,2476,438,[]
+problem-346.txt,islam,prophet-muhammad,1,A1,4641,808,END_OF_PAR,4641,808,[]
+problem-347.txt,islam,prophet-muhammad,2,A1-A2-A1-A2,6446,1100,END_OF_PAR,1611.5,275,"[944, 2402, 3591]"
+problem-348.txt,islam,prophet-muhammad,2,A1-A2,2867,480,WITHIN_PAR,1433.5,240,[1265]
+problem-349.txt,islam,prophet-muhammad,1,A1,4276,771,END_OF_PAR,4276,771,[]
+problem-350.txt,islam,prophet-muhammad,1,A1,3994,710,WITHIN_PAR,3994,710,[]
+problem-351.txt,islam,prophet-muhammad,2,A1-A2-A1,5938,978,RANDOM,1979.333333,326,"[1317, 4904]"
+problem-352.txt,islam,prophet-muhammad,2,A1-A2-A1,5677,985,RANDOM,1892.333333,328.3333333,"[964, 3751]"
+problem-353.txt,islam,halal-haram,3,A1-A2-A3,3798,639,WITHIN_PAR,1266,213,"[1818, 2792]"
+problem-354.txt,islam,halal-haram,1,A1,3154,565,WITHIN_PAR,3154,565,[]
+problem-355.txt,islam,halal-haram,1,A1,2203,391,END_OF_PAR,2203,391,[]
+problem-356.txt,islam,halal-haram,2,A1-A2-A1-A2,5535,961,END_OF_PAR,1383.75,240.25,"[1181, 2606, 4134]"
+problem-357.txt,islam,halal-haram,3,A1-A2-A3,6149,1056,RANDOM,2049.666667,352,"[3318, 4509]"
+problem-358.txt,islam,halal-haram,1,A1,4097,754,WITHIN_PAR,4097,754,[]
+problem-359.txt,islam,halal-haram,3,A1-A2-A3,5029,864,END_OF_PAR,1676.333333,288,"[2592, 3483]"
+problem-360.txt,islam,halal-haram,1,A1,5294,951,END_OF_PAR,5294,951,[]
+problem-361.txt,islam,halal-haram,2,A1-A2,4432,752,END_OF_PAR,2216,376,[2627]
+problem-362.txt,islam,halal-haram,1,A1,4840,872,RANDOM,4840,872,[]
+problem-363.txt,islam,hadith,3,A1-A2-A3,5098,895,RANDOM,1699.333333,298.3333333,"[1166, 3708]"
+problem-364.txt,islam,hadith,1,A1,4575,808,RANDOM,4575,808,[]
+problem-365.txt,islam,hadith,1,A1,4478,797,END_OF_PAR,4478,797,[]
+problem-366.txt,islam,hadith,2,A1-A2,4459,753,WITHIN_PAR,2229.5,376.5,[1205]
+problem-367.txt,islam,hadith,2,A1-A2-A1-A2,4799,802,END_OF_PAR,1199.75,200.5,"[1128, 2587, 3661]"
+problem-368.txt,islam,hadith,3,A1-A2-A3,4232,740,END_OF_PAR,1410.666667,246.6666667,"[1293, 2778]"
+problem-369.txt,islam,hadith,1,A1,4031,691,WITHIN_PAR,4031,691,[]
+problem-370.txt,islam,hadith,1,A1,2222,402,END_OF_PAR,2222,402,[]
+problem-371.txt,islam,tafseer,1,A1,4091,709,END_OF_PAR,4091,709,[]
+problem-372.txt,islam,tafseer,2,A1-A2-A1,4184,746,END_OF_PAR,1394.666667,248.6666667,"[1123, 2055]"
+problem-373.txt,islam,tafseer,1,A1,3109,543,RANDOM,3109,543,[]
+problem-374.txt,islam,tafseer,3,A1-A2-A3,3154,558,WITHIN_PAR,1051.333333,186,"[1168, 2126]"
+problem-375.txt,islam,tafseer,1,A1,3369,631,END_OF_PAR,3369,631,[]
+problem-376.txt,islam,tafseer,2,A1-A2,3298,592,WITHIN_PAR,1649,296,[1627]
+problem-377.txt,meta,comments,1,A1,5217,930,RANDOM,5217,930,[]
+problem-378.txt,meta,comments,1,A1,5320,956,WITHIN_PAR,5320,956,[]
+problem-379.txt,meta,comments,2,A1-A2-A1-A2,5596,998,END_OF_PAR,1399,249.5,"[2435, 3252, 4659]"
+problem-380.txt,meta,comments,1,A1,4641,814,RANDOM,4641,814,[]
+problem-381.txt,meta,comments,2,A1-A2,2991,557,END_OF_PAR,1495.5,278.5,[1873]
+problem-382.txt,meta,comments,2,A1-A2,4177,777,WITHIN_PAR,2088.5,388.5,[2698]
+problem-383.txt,meta,reputation,1,A1,5716,976,END_OF_PAR,5716,976,[]
+problem-384.txt,meta,reputation,2,A1-A2-A1,5003,892,END_OF_PAR,1667.666667,297.3333333,"[1922, 3084]"
+problem-385.txt,meta,status-completed,1,A1,3705,663,END_OF_PAR,3705,663,[]
+problem-386.txt,meta,status-completed,3,A1-A2-A3,4661,785,WITHIN_PAR,1553.666667,261.6666667,"[1268, 2872]"
+problem-387.txt,meta,status-completed,1,A1,5204,915,WITHIN_PAR,5204,915,[]
+problem-388.txt,meta,status-completed,1,A1,4698,870,RANDOM,4698,870,[]
+problem-389.txt,meta,status-completed,1,A1,2182,386,END_OF_PAR,2182,386,[]
+problem-390.txt,meta,status-completed,2,A1-A2,2604,428,END_OF_PAR,1302,214,[1273]
+problem-391.txt,meta,status-completed,2,A1-A2-A1-A2,4271,756,RANDOM,1067.75,189,"[990, 2266, 3290]"
+problem-392.txt,meta,status-completed,2,A1-A2-A1-A2,4454,768,END_OF_PAR,1113.5,192,"[1021, 2059, 3524]"
+problem-393.txt,meta,status-completed,1,A1,2287,399,END_OF_PAR,2287,399,[]
+problem-394.txt,meta,status-completed,2,A1-A2,5444,939,RANDOM,2722,469.5,[1256]
+problem-395.txt,meta,status-completed,3,A1-A2-A3,3639,623,END_OF_PAR,1213,207.6666667,"[1711, 2760]"
+problem-396.txt,meta,status-completed,1,A1,1936,323,WITHIN_PAR,1936,323,[]
+problem-397.txt,meta,bug,2,A1-A2,2042,368,END_OF_PAR,1021,184,[1137]
+problem-398.txt,meta,bug,3,A1-A2-A3-A1,5829,991,RANDOM,1457.25,247.75,"[1382, 3394, 4496]"
+problem-399.txt,meta,bug,1,A1,4689,838,END_OF_PAR,4689,838,[]
+problem-400.txt,meta,bug,2,A1-A2,5084,916,WITHIN_PAR,2542,458,[1595]
+problem-401.txt,meta,bug,1,A1,3074,531,END_OF_PAR,3074,531,[]
+problem-402.txt,meta,bug,1,A1,3890,700,WITHIN_PAR,3890,700,[]
+problem-403.txt,meta,tags,3,A1-A2-A1-A3,5853,986,RANDOM,1463.25,246.5,"[1324, 3718, 4779]"
+problem-404.txt,meta,tags,1,A1,3076,550,RANDOM,3076,550,[]
+problem-405.txt,meta,stackoverflow,1,A1,2700,486,END_OF_PAR,2700,486,[]
+problem-406.txt,meta,stackoverflow,3,A1-A2-A1-A3,5376,916,END_OF_PAR,1344,229,"[926, 3378, 4380]"
+problem-407.txt,meta,stackoverflow,1,A1,5387,959,WITHIN_PAR,5387,959,[]
+problem-408.txt,meta,stackoverflow,3,A1-A2-A3,4041,723,END_OF_PAR,1347,241,"[1817, 2885]"
+problem-409.txt,meta,support,2,A1-A2-A1-A2,5630,962,END_OF_PAR,1407.5,240.5,"[1196, 2238, 3408]"
+problem-410.txt,meta,support,2,A1-A2,3126,574,WITHIN_PAR,1563,287,[994]
+problem-411.txt,meta,support,1,A1,2353,421,WITHIN_PAR,2353,421,[]
+problem-412.txt,meta,support,1,A1,4261,765,WITHIN_PAR,4261,765,[]
+problem-413.txt,meta,support,1,A1,4966,898,END_OF_PAR,4966,898,[]
+problem-414.txt,meta,support,1,A1,5558,988,WITHIN_PAR,5558,988,[]
+problem-415.txt,meta,support,2,A1-A2-A1-A2,5305,880,END_OF_PAR,1326.25,220,"[859, 2348, 3676]"
+problem-416.txt,meta,support,1,A1,4636,834,RANDOM,4636,834,[]
+problem-417.txt,meta,support,3,A1-A2-A3,3210,580,END_OF_PAR,1070,193.3333333,"[1137, 2124]"
+problem-418.txt,meta,support,3,A1-A2-A1-A3,5811,1032,RANDOM,1452.75,258,"[1682, 3593, 4801]"
+problem-419.txt,meta,review,1,A1,4791,862,WITHIN_PAR,4791,862,[]
+problem-420.txt,meta,review,2,A1-A2,2275,427,WITHIN_PAR,1137.5,213.5,[965]
+problem-421.txt,meta,review,3,A1-A2-A3,5775,1034,END_OF_PAR,1925,344.6666667,"[1968, 4143]"
+problem-422.txt,meta,review,1,A1,3201,582,END_OF_PAR,3201,582,[]
+problem-423.txt,meta,discussion,1,A1,1903,361,END_OF_PAR,1903,361,[]
+problem-424.txt,meta,discussion,2,A1-A2,2788,503,WITHIN_PAR,1394,251.5,[1640]
+problem-425.txt,meta,discussion,3,A1-A2-A3,4429,766,END_OF_PAR,1476.333333,255.3333333,"[2342, 3338]"
+problem-426.txt,meta,discussion,2,A1-A2-A1,3481,615,END_OF_PAR,1160.333333,205,"[979, 2513]"
+problem-427.txt,meta,discussion,3,A1-A2-A3,3429,571,END_OF_PAR,1143,190.3333333,"[1647, 2532]"
+problem-428.txt,meta,discussion,1,A1,3111,526,RANDOM,3111,526,[]
+problem-429.txt,meta,discussion,1,A1,3446,627,WITHIN_PAR,3446,627,[]
+problem-430.txt,meta,discussion,1,A1,5328,946,WITHIN_PAR,5328,946,[]
+problem-431.txt,meta,discussion,2,A1-A2-A1,4000,695,END_OF_PAR,1333.333333,231.6666667,"[1046, 2844]"
+problem-432.txt,meta,discussion,2,A1-A2,4701,796,WITHIN_PAR,2350.5,398,[1733]
+problem-433.txt,meta,discussion,1,A1,3499,653,WITHIN_PAR,3499,653,[]
+problem-434.txt,meta,discussion,1,A1,4166,730,RANDOM,4166,730,[]
+problem-435.txt,meta,discussion,2,A1-A2-A1,5231,910,RANDOM,1743.666667,303.3333333,"[976, 4243]"
+problem-436.txt,meta,discussion,3,A1-A2-A3,4857,869,RANDOM,1619,289.6666667,"[3008, 3898]"
+problem-437.txt,meta,discussion,2,A1-A2-A1,4196,723,END_OF_PAR,1398.666667,241,"[990, 1909]"
+problem-438.txt,meta,discussion,2,A1-A2-A1-A2,4820,835,WITHIN_PAR,1205,208.75,"[1289, 2260, 3827]"
+problem-439.txt,meta,discussion,2,A1-A2,5765,1005,END_OF_PAR,2882.5,502.5,[3605]
+problem-440.txt,meta,discussion,1,A1,2951,539,RANDOM,2951,539,[]
+problem-441.txt,meta,discussion,1,A1,4584,756,END_OF_PAR,4584,756,[]
+problem-442.txt,meta,discussion,3,A1-A2-A3,5217,910,END_OF_PAR,1739,303.3333333,"[2878, 3753]"
+problem-443.txt,meta,discussion,1,A1,4369,770,WITHIN_PAR,4369,770,[]
+problem-444.txt,meta,discussion,1,A1,4095,760,WITHIN_PAR,4095,760,[]
+problem-445.txt,meta,discussion,1,A1,5755,993,WITHIN_PAR,5755,993,[]
+problem-446.txt,meta,discussion,1,A1,4151,755,WITHIN_PAR,4151,755,[]
+problem-447.txt,meta,feature-request,1,A1,5028,905,END_OF_PAR,5028,905,[]
+problem-448.txt,meta,feature-request,2,A1-A2-A1,4722,790,RANDOM,1574,263.3333333,"[2034, 3369]"
+problem-449.txt,meta,feature-request,2,A1-A2-A1-A2,5727,1034,WITHIN_PAR,1431.75,258.5,"[1943, 2887, 4463]"
+problem-450.txt,meta,feature-request,1,A1,2689,500,WITHIN_PAR,2689,500,[]
+problem-451.txt,meta,feature-request,1,A1,2797,507,END_OF_PAR,2797,507,[]
+problem-452.txt,meta,feature-request,3,A1-A2-A3,5487,956,RANDOM,1829,318.6666667,"[2708, 4019]"
+problem-453.txt,meta,feature-request,1,A1,5852,992,END_OF_PAR,5852,992,[]
+problem-454.txt,meta,feature-request,2,A1-A2,3165,559,RANDOM,1582.5,279.5,[1878]
+problem-455.txt,meta,feature-request,2,A1-A2,5771,984,RANDOM,2885.5,492,[3063]
+problem-456.txt,meta,feature-request,1,A1,3010,536,RANDOM,3010,536,[]
+problem-457.txt,meta,feature-request,3,A1-A2-A3,5087,884,WITHIN_PAR,1695.666667,294.6666667,"[1315, 3054]"
+problem-458.txt,meta,feature-request,2,A1-A2-A1-A2,5165,891,END_OF_PAR,1291.25,222.75,"[1864, 3102, 4122]"
+problem-459.txt,meta,feature-request,1,A1,2885,525,WITHIN_PAR,2885,525,[]
+problem-460.txt,meta,feature-request,2,A1-A2-A1-A2,4388,750,RANDOM,1097,187.5,"[933, 2402, 3382]"
+problem-461.txt,meta,feature-request,1,A1,4814,850,END_OF_PAR,4814,850,[]
+problem-462.txt,meta,feature-request,1,A1,3484,622,END_OF_PAR,3484,622,[]
+problem-463.txt,meta,feature-request,1,A1,3710,676,END_OF_PAR,3710,676,[]
+problem-464.txt,meta,feature-request,2,A1-A2-A1-A2,6700,1175,WITHIN_PAR,1675,293.75,"[1565, 2925, 4331]"
+problem-465.txt,meta,feature-request,2,A1-A2,2508,437,END_OF_PAR,1254,218.5,[1196]
+problem-466.txt,meta,feature-request,1,A1,5797,1011,END_OF_PAR,5797,1011,[]
+problem-467.txt,sports,statistics,1,A1,4863,817,END_OF_PAR,4863,817,[]
+problem-468.txt,sports,statistics,3,A1-A2-A3,4465,824,WITHIN_PAR,1488.333333,274.6666667,"[2110, 3219]"
+problem-469.txt,sports,american-football,2,A1-A2-A1,3908,695,END_OF_PAR,1302.666667,231.6666667,"[1163, 2579]"
+problem-470.txt,sports,american-football,3,A2-A1-A3-A1,5847,1038,RANDOM,1461.75,259.5,"[2146, 3317, 4393]"
+problem-471.txt,sports,american-football,1,A1,5290,902,END_OF_PAR,5290,902,[]
+problem-472.txt,sports,american-football,1,A1,5726,1010,RANDOM,5726,1010,[]
+problem-473.txt,sports,american-football,2,A1-A2-A1,5159,917,WITHIN_PAR,1719.666667,305.6666667,"[1516, 3248]"
+problem-474.txt,sports,american-football,1,A1,3885,707,WITHIN_PAR,3885,707,[]
+problem-475.txt,sports,football,1,A1,4411,759,WITHIN_PAR,4411,759,[]
+problem-476.txt,sports,football,2,A1-A2-A1-A2,4885,823,WITHIN_PAR,1221.25,205.75,"[893, 1989, 2942]"
+problem-477.txt,sports,football,1,A1,4477,728,RANDOM,4477,728,[]
+problem-478.txt,sports,football,1,A1,3052,543,WITHIN_PAR,3052,543,[]
+problem-479.txt,sports,football,2,A1-A2,3668,636,WITHIN_PAR,1834,318,[2204]
+problem-480.txt,sports,football,2,A1-A2-A1,3278,544,RANDOM,1092.666667,181.3333333,"[1040, 1990]"
+problem-481.txt,sports,officiating,1,A1,4097,764,WITHIN_PAR,4097,764,[]
+problem-482.txt,sports,officiating,2,A1-A2,2920,535,WITHIN_PAR,1460,267.5,[1233]
+problem-483.txt,sports,cricket,1,A1,2025,380,RANDOM,2025,380,[]
+problem-484.txt,sports,cricket,2,A1-A2-A1,4696,883,RANDOM,1565.333333,294.3333333,"[1348, 3311]"
+problem-485.txt,sports,cricket,1,A1,3751,645,END_OF_PAR,3751,645,[]
+problem-486.txt,sports,cricket,2,A1-A2-A1,3971,723,RANDOM,1323.666667,241,"[1083, 3069]"
+problem-487.txt,sports,baseball,2,A1-A2,4943,915,WITHIN_PAR,2471.5,457.5,[2842]
+problem-488.txt,sports,baseball,1,A1,2593,483,RANDOM,2593,483,[]
+problem-489.txt,sports,baseball,1,A1,3960,696,WITHIN_PAR,3960,696,[]
+problem-490.txt,sports,baseball,3,A1-A2-A3,3753,687,END_OF_PAR,1251,229,"[950, 2770]"
+problem-491.txt,sports,baseball,3,A1-A2-A3,3458,633,RANDOM,1152.666667,211,"[1419, 2434]"
+problem-492.txt,sports,baseball,1,A1,3936,705,END_OF_PAR,3936,705,[]
+problem-493.txt,sports,trivia,1,A1,2569,446,RANDOM,2569,446,[]
+problem-494.txt,sports,trivia,2,A1-A2,3056,547,RANDOM,1528,273.5,[1790]
+problem-495.txt,sports,rules,1,A1,5836,1011,RANDOM,5836,1011,[]
+problem-496.txt,sports,rules,3,A1-A2-A1-A3,4985,892,END_OF_PAR,1246.25,223,"[921, 2782, 3945]"
+problem-497.txt,sports,rules,2,A1-A2-A1-A2,4868,848,END_OF_PAR,1217,212,"[1097, 2382, 3535]"
+problem-498.txt,sports,rules,1,A1,5019,862,RANDOM,5019,862,[]
+problem-499.txt,sports,rules,1,A1,5053,917,RANDOM,5053,917,[]
+problem-500.txt,sports,rules,2,A1-A2-A1-A2,5452,965,WITHIN_PAR,1363,241.25,"[1857, 2809, 4074]"
+problem-501.txt,sports,rules,3,A1-A2-A3,4413,792,RANDOM,1471,264,"[1216, 2691]"
+problem-502.txt,sports,rules,1,A1,2621,442,RANDOM,2621,442,[]
+problem-503.txt,sports,tennis,1,A1,4944,841,RANDOM,4944,841,[]
+problem-504.txt,sports,tennis,3,A1-A2-A3,4113,739,RANDOM,1371,246.3333333,"[1003, 2144]"
+problem-505.txt,sports,tennis,1,A1,3247,581,WITHIN_PAR,3247,581,[]
+problem-506.txt,sports,tennis,3,A1-A2-A3,4151,751,WITHIN_PAR,1383.666667,250.3333333,"[1447, 2833]"
+problem-507.txt,politics,economy,2,A1-A2-A1-A2,4896,837,WITHIN_PAR,1224,209.25,"[1629, 2746, 3788]"
+problem-508.txt,politics,economy,1,A1,2348,389,END_OF_PAR,2348,389,[]
+problem-509.txt,politics,economy,3,A1-A2-A3,5866,970,WITHIN_PAR,1955.333333,323.3333333,"[3252, 4589]"
+problem-510.txt,politics,economy,1,A1,3831,648,END_OF_PAR,3831,648,[]
+problem-511.txt,politics,economy,1,A1,4474,732,END_OF_PAR,4474,732,[]
+problem-512.txt,politics,economy,2,A1-A2,5241,871,END_OF_PAR,2620.5,435.5,[2908]
+problem-513.txt,politics,economy,1,A1,2277,372,END_OF_PAR,2277,372,[]
+problem-514.txt,politics,economy,3,A1-A2-A3,6157,998,WITHIN_PAR,2052.333333,332.6666667,"[3542, 4914]"
+problem-515.txt,politics,law,1,A1,3498,581,END_OF_PAR,3498,581,[]
+problem-516.txt,politics,law,1,A1,3646,576,RANDOM,3646,576,[]
+problem-517.txt,politics,law,1,A1,4304,710,RANDOM,4304,710,[]
+problem-518.txt,politics,law,2,A1-A2-A1,3924,661,END_OF_PAR,1308,220.3333333,"[1122, 2538]"
+problem-519.txt,politics,law,2,A1-A2-A1,5309,857,END_OF_PAR,1769.666667,285.6666667,"[1907, 3334]"
+problem-520.txt,politics,law,3,A1-A2-A3,5595,919,RANDOM,1865,306.3333333,"[3583, 4524]"
+problem-521.txt,politics,president,1,A1,3013,492,END_OF_PAR,3013,492,[]
+problem-522.txt,politics,president,1,A1,2669,463,RANDOM,2669,463,[]
+problem-523.txt,politics,president,1,A1,4275,708,WITHIN_PAR,4275,708,[]
+problem-524.txt,politics,president,2,A1-A2-A1,3894,659,WITHIN_PAR,1298,219.6666667,"[1222, 2806]"
+problem-525.txt,politics,president,3,A1-A2-A3,4019,671,WITHIN_PAR,1339.666667,223.6666667,"[1391, 2466]"
+problem-526.txt,politics,president,3,A1-A2-A3,4258,745,WITHIN_PAR,1419.333333,248.3333333,"[1815, 2920]"
+problem-527.txt,politics,donald-trump,3,A1-A2-A3,6660,1096,WITHIN_PAR,2220,365.3333333,"[1538, 5495]"
+problem-528.txt,politics,donald-trump,1,A1,5401,882,RANDOM,5401,882,[]
+problem-529.txt,politics,donald-trump,1,A1,3034,503,END_OF_PAR,3034,503,[]
+problem-530.txt,politics,donald-trump,3,A1-A2-A3,5517,901,END_OF_PAR,1839,300.3333333,"[1644, 4198]"
+problem-531.txt,politics,constitution,2,A1-A2-A1-A2,4745,765,END_OF_PAR,1186.25,191.25,"[976, 2084, 3139]"
+problem-532.txt,politics,constitution,1,A1,5871,950,RANDOM,5871,950,[]
+problem-533.txt,politics,constitution,2,A1-A2-A1,4900,814,END_OF_PAR,1633.333333,271.3333333,"[1612, 2741]"
+problem-534.txt,politics,constitution,1,A1,2337,385,RANDOM,2337,385,[]
+problem-535.txt,politics,constitution,1,A1,2898,509,RANDOM,2898,509,[]
+problem-536.txt,politics,constitution,3,A1-A2-A3,4138,689,END_OF_PAR,1379.333333,229.6666667,"[1396, 2986]"
+problem-537.txt,politics,election,1,A1,2330,378,WITHIN_PAR,2330,378,[]
+problem-538.txt,politics,election,1,A1,5097,808,END_OF_PAR,5097,808,[]
+problem-539.txt,politics,election,2,A1-A2,4217,728,RANDOM,2108.5,364,[1902]
+problem-540.txt,politics,election,3,A2-A1-A3-A1,6117,1007,RANDOM,1529.25,251.75,"[2193, 3396, 4913]"
+problem-541.txt,politics,election,1,A1,2060,344,RANDOM,2060,344,[]
+problem-542.txt,politics,election,1,A1,4485,765,END_OF_PAR,4485,765,[]
+problem-543.txt,politics,election,2,A1-A2-A1-A2,5004,831,RANDOM,1251,207.75,"[1807, 2902, 3910]"
+problem-544.txt,politics,election,1,A1,3496,594,WITHIN_PAR,3496,594,[]
+problem-545.txt,politics,election,3,A1-A2-A3,5020,802,WITHIN_PAR,1673.333333,267.3333333,"[1249, 3593]"
+problem-546.txt,politics,election,3,A1-A2-A3,5892,1014,END_OF_PAR,1964,338,"[1270, 2578]"
+problem-547.txt,politics,united-states,1,A1,2496,431,RANDOM,2496,431,[]
+problem-548.txt,politics,united-states,1,A1,5009,852,WITHIN_PAR,5009,852,[]
+problem-549.txt,politics,united-states,1,A1,4259,700,RANDOM,4259,700,[]
+problem-550.txt,politics,united-states,3,A1-A2-A1-A3,6032,1004,RANDOM,1508,251,"[993, 3827, 4871]"
+problem-551.txt,politics,united-states,1,A1,5735,940,RANDOM,5735,940,[]
+problem-552.txt,politics,united-states,2,A1-A2-A1,3343,543,RANDOM,1114.333333,181,"[1148, 2265]"
+problem-553.txt,politics,united-states,1,A1,6077,1037,END_OF_PAR,6077,1037,[]
+problem-554.txt,politics,united-states,1,A1,5315,876,RANDOM,5315,876,[]
+problem-555.txt,politics,united-states,1,A1,5668,976,WITHIN_PAR,5668,976,[]
+problem-556.txt,politics,united-states,3,A1-A2-A3,6177,1008,WITHIN_PAR,2059,336,"[3607, 4731]"
+problem-557.txt,politics,united-states,1,A1,2242,368,RANDOM,2242,368,[]
+problem-558.txt,politics,united-states,3,A1-A2-A3,6784,1154,WITHIN_PAR,2261.333333,384.6666667,"[2109, 4871]"
+problem-559.txt,politics,united-states,1,A1,2244,380,END_OF_PAR,2244,380,[]
+problem-560.txt,politics,united-states,3,A1-A2-A3,6508,1070,END_OF_PAR,2169.333333,356.6666667,"[3317, 4345]"
+problem-561.txt,politics,united-states,1,A1,4827,781,END_OF_PAR,4827,781,[]
+problem-562.txt,politics,united-states,1,A1,5065,841,END_OF_PAR,5065,841,[]
+problem-563.txt,politics,united-states,2,A1-A2,4016,658,WITHIN_PAR,2008,329,[2092]
+problem-564.txt,politics,united-states,2,A1-A2,2830,485,WITHIN_PAR,1415,242.5,[1876]
+problem-565.txt,politics,united-states,1,A1,6418,1006,WITHIN_PAR,6418,1006,[]
+problem-566.txt,politics,united-states,1,A1,2578,414,WITHIN_PAR,2578,414,[]
+problem-567.txt,politics,united-states,3,A1-A2-A3,5192,843,END_OF_PAR,1730.666667,281,"[1373, 2562]"
+problem-568.txt,politics,united-states,1,A1,5137,819,END_OF_PAR,5137,819,[]
+problem-569.txt,politics,united-states,1,A1,4635,803,WITHIN_PAR,4635,803,[]
+problem-570.txt,politics,united-states,3,A1-A2-A3,3046,504,END_OF_PAR,1015.333333,168,"[990, 2083]"
+problem-571.txt,politics,united-states,3,A1-A2-A3,3335,545,WITHIN_PAR,1111.666667,181.6666667,"[975, 2121]"
+problem-572.txt,politics,united-states,2,A1-A2-A1,5277,872,RANDOM,1759,290.6666667,"[1373, 2939]"
+problem-573.txt,politics,united-states,2,A1-A2,5759,917,RANDOM,2879.5,458.5,[2352]
+problem-574.txt,politics,united-states,2,A1-A2-A1-A2,5610,900,RANDOM,1402.5,225,"[1306, 2379, 3927]"
+problem-575.txt,politics,united-states,1,A1,5736,975,END_OF_PAR,5736,975,[]
+problem-576.txt,politics,united-states,2,A1-A2,5135,871,WITHIN_PAR,2567.5,435.5,[1208]
+problem-577.txt,politics,united-states,3,A1-A2-A3,6248,1046,RANDOM,2082.666667,348.6666667,"[2508, 5151]"
+problem-578.txt,politics,united-states,3,A1-A2-A3,4615,760,END_OF_PAR,1538.333333,253.3333333,"[1399, 2648]"
+problem-579.txt,politics,european-union,1,A1,3751,613,WITHIN_PAR,3751,613,[]
+problem-580.txt,politics,european-union,3,A1-A2-A3-A1,5690,979,END_OF_PAR,1422.5,244.75,"[1097, 3339, 4596]"
+problem-581.txt,politics,european-union,3,A1-A2-A3-A1,5764,997,END_OF_PAR,1441,249.25,"[1636, 3285, 4352]"
+problem-582.txt,politics,european-union,2,A1-A2-A1,5660,960,END_OF_PAR,1886.666667,320,"[1396, 4283]"
+problem-583.txt,politics,european-union,1,A1,3448,553,END_OF_PAR,3448,553,[]
+problem-584.txt,politics,european-union,1,A1,2621,434,WITHIN_PAR,2621,434,[]
+problem-585.txt,politics,united-kingdom,1,A1,2423,422,RANDOM,2423,422,[]
+problem-586.txt,politics,united-kingdom,1,A1,3015,520,WITHIN_PAR,3015,520,[]
+problem-587.txt,politics,united-kingdom,1,A1,5403,930,RANDOM,5403,930,[]
+problem-588.txt,politics,united-kingdom,2,A1-A2-A1-A2,4214,713,END_OF_PAR,1053.5,178.25,"[902, 2143, 3211]"
+problem-589.txt,politics,united-kingdom,1,A1,2666,449,WITHIN_PAR,2666,449,[]
+problem-590.txt,politics,united-kingdom,2,A1-A2-A1,5896,1016,RANDOM,1965.333333,338.6666667,"[1142, 4950]"
+problem-591.txt,politics,united-kingdom,3,A1-A2-A3,4660,807,RANDOM,1553.333333,269,"[2215, 3652]"
+problem-592.txt,politics,united-kingdom,1,A1,2474,395,RANDOM,2474,395,[]
+problem-593.txt,politics,united-kingdom,2,A1-A2-A1,5312,913,WITHIN_PAR,1770.666667,304.3333333,"[1436, 3064]"
+problem-594.txt,politics,united-kingdom,2,A1-A2,5168,866,END_OF_PAR,2584,433,[1851]
+problem-595.txt,politics,united-kingdom,1,A1,3923,664,END_OF_PAR,3923,664,[]
+problem-596.txt,politics,united-kingdom,2,A1-A2-A1,4935,838,WITHIN_PAR,1645,279.3333333,"[1629, 3342]"
+problem-597.txt,stackoverflow,c++,2,A1-A2-A1,5893,1002,RANDOM,1964.333333,334,"[1009, 4441]"
+problem-598.txt,stackoverflow,c++,3,A1-A2-A3,3265,564,RANDOM,1088.333333,188,"[1223, 2252]"
+problem-599.txt,stackoverflow,c++,1,A1,2305,403,WITHIN_PAR,2305,403,[]
+problem-600.txt,stackoverflow,c++,1,A1,3502,610,END_OF_PAR,3502,610,[]
+problem-601.txt,stackoverflow,c++,1,A1,4764,817,WITHIN_PAR,4764,817,[]
+problem-602.txt,stackoverflow,c++,1,A1,3219,537,END_OF_PAR,3219,537,[]
+problem-603.txt,stackoverflow,c++,2,A1-A2,2932,416,RANDOM,1466,208,[1378]
+problem-604.txt,stackoverflow,c++,2,A1-A2-A1-A2,5533,920,RANDOM,1383.25,230,"[1332, 2461, 4366]"
+problem-605.txt,stackoverflow,c++,1,A1,2514,435,WITHIN_PAR,2514,435,[]
+problem-606.txt,stackoverflow,c++,3,A1-A2-A3,3804,645,END_OF_PAR,1268,215,"[1086, 2163]"
+problem-607.txt,stackoverflow,python,3,A1-A2-A3,5585,952,RANDOM,1861.666667,317.3333333,"[1913, 4416]"
+problem-608.txt,stackoverflow,python,1,A1,5326,901,END_OF_PAR,5326,901,[]
+problem-609.txt,stackoverflow,python,2,A1-A2-A1-A2,5623,974,WITHIN_PAR,1405.75,243.5,"[1526, 3436, 4682]"
+problem-610.txt,stackoverflow,python,1,A1,3757,669,WITHIN_PAR,3757,669,[]
+problem-611.txt,stackoverflow,java,1,A1,2171,390,RANDOM,2171,390,[]
+problem-612.txt,stackoverflow,java,1,A1,2045,354,END_OF_PAR,2045,354,[]
+problem-613.txt,stackoverflow,java,2,A1-A2-A1,3753,642,END_OF_PAR,1251,214,"[1219, 2837]"
+problem-614.txt,stackoverflow,java,2,A1-A2-A1-A2,5173,902,END_OF_PAR,1293.25,225.5,"[954, 2301, 3361]"
+problem-615.txt,stackoverflow,java,1,A1,2112,357,END_OF_PAR,2112,357,[]
+problem-616.txt,stackoverflow,java,3,A1-A2-A3,3535,625,END_OF_PAR,1178.333333,208.3333333,"[1005, 2506]"
+problem-617.txt,stackoverflow,html,1,A1,2398,420,WITHIN_PAR,2398,420,[]
+problem-618.txt,stackoverflow,html,3,A1-A2-A3,4752,863,END_OF_PAR,1584,287.6666667,"[1608, 2655]"
+problem-619.txt,stackoverflow,php,3,A1-A2-A3,3299,564,END_OF_PAR,1099.666667,188,"[1332, 2219]"
+problem-620.txt,stackoverflow,php,3,A1-A2-A3-A1,5517,961,WITHIN_PAR,1379.25,240.25,"[1644, 3527, 4421]"
+problem-621.txt,stackoverflow,php,3,A1-A2-A3,5689,914,WITHIN_PAR,1896.333333,304.6666667,"[2247, 3661]"
+problem-622.txt,stackoverflow,php,1,A1,2836,487,WITHIN_PAR,2836,487,[]
+problem-623.txt,stackoverflow,php,1,A1,4325,716,RANDOM,4325,716,[]
+problem-624.txt,stackoverflow,php,1,A1,5130,894,WITHIN_PAR,5130,894,[]
+problem-625.txt,stackoverflow,php,1,A1,2967,512,END_OF_PAR,2967,512,[]
+problem-626.txt,stackoverflow,php,3,A1-A2-A3,4277,759,RANDOM,1425.666667,253,"[2141, 2981]"
+problem-627.txt,stackoverflow,ios,1,A1,4765,860,RANDOM,4765,860,[]
+problem-628.txt,stackoverflow,ios,1,A1,2033,365,RANDOM,2033,365,[]
+problem-629.txt,stackoverflow,ios,1,A1,4620,816,END_OF_PAR,4620,816,[]
+problem-630.txt,stackoverflow,ios,3,A1-A2-A3,5047,878,WITHIN_PAR,1682.333333,292.6666667,"[1186, 2585]"
+problem-631.txt,stackoverflow,ios,2,A1-A2-A1-A2,5135,835,END_OF_PAR,1283.75,208.75,"[1008, 2503, 3594]"
+problem-632.txt,stackoverflow,ios,3,A1-A2-A3,4363,784,RANDOM,1454.333333,261.3333333,"[1870, 3208]"
+problem-633.txt,stackoverflow,ios,2,A1-A2-A1-A2,4488,774,END_OF_PAR,1122,193.5,"[1429, 2376, 3477]"
+problem-634.txt,stackoverflow,ios,2,A1-A2,3859,675,WITHIN_PAR,1929.5,337.5,[2827]
+problem-635.txt,stackoverflow,ios,1,A1,3447,590,WITHIN_PAR,3447,590,[]
+problem-636.txt,stackoverflow,ios,1,A1,2627,456,RANDOM,2627,456,[]
+problem-637.txt,stackoverflow,android,3,A1-A2-A3,4907,865,RANDOM,1635.666667,288.3333333,"[2313, 3573]"
+problem-638.txt,stackoverflow,android,1,A1,3160,496,END_OF_PAR,3160,496,[]
+problem-639.txt,stackoverflow,android,2,A1-A2-A1-A2,4915,823,END_OF_PAR,1228.75,205.75,"[974, 2564, 3660]"
+problem-640.txt,stackoverflow,android,1,A1,5016,843,END_OF_PAR,5016,843,[]
+problem-641.txt,stackoverflow,javascript,2,A1-A2,5807,996,END_OF_PAR,2903.5,498,[2893]
+problem-642.txt,stackoverflow,javascript,1,A1,5600,1008,WITHIN_PAR,5600,1008,[]
+problem-643.txt,stackoverflow,javascript,1,A1,4952,825,RANDOM,4952,825,[]
+problem-644.txt,stackoverflow,javascript,2,A1-A2-A1,2853,524,RANDOM,951,174.6666667,"[839, 1812]"
+problem-645.txt,parenting,behavior,2,A1-A2,4513,816,RANDOM,2256.5,408,[1991]
+problem-646.txt,parenting,behavior,1,A1,3716,710,WITHIN_PAR,3716,710,[]
+problem-647.txt,parenting,behavior,1,A1,4188,728,RANDOM,4188,728,[]
+problem-648.txt,parenting,behavior,1,A1,3826,714,END_OF_PAR,3826,714,[]
+problem-649.txt,parenting,behavior,1,A1,4346,802,END_OF_PAR,4346,802,[]
+problem-650.txt,parenting,behavior,1,A1,5433,1027,WITHIN_PAR,5433,1027,[]
+problem-651.txt,parenting,behavior,3,A1-A2-A3,4226,780,WITHIN_PAR,1408.666667,260,"[2013, 3009]"
+problem-652.txt,parenting,behavior,2,A1-A2,2970,549,RANDOM,1485,274.5,[1506]
+problem-653.txt,parenting,behavior,3,A1-A2-A3,2794,506,END_OF_PAR,931.3333333,168.6666667,"[855, 1831]"
+problem-654.txt,parenting,behavior,3,A1-A2-A3-A1,5030,921,WITHIN_PAR,1257.5,230.25,"[1095, 3259, 4098]"
+problem-655.txt,parenting,behavior,3,A1-A2-A3,4023,748,RANDOM,1341,249.3333333,"[1314, 3102]"
+problem-656.txt,parenting,behavior,1,A1,2608,468,WITHIN_PAR,2608,468,[]
+problem-657.txt,parenting,primary-schooler,2,A1-A2-A1,3463,609,WITHIN_PAR,1154.333333,203,"[995, 2348]"
+problem-658.txt,parenting,primary-schooler,1,A1,2755,519,END_OF_PAR,2755,519,[]
+problem-659.txt,parenting,primary-schooler,1,A1,3711,708,WITHIN_PAR,3711,708,[]
+problem-660.txt,parenting,primary-schooler,2,A1-A2-A1-A2,6025,1138,RANDOM,1506.25,284.5,"[1531, 3207, 4860]"
+problem-661.txt,parenting,primary-schooler,2,A1-A2,3195,586,END_OF_PAR,1597.5,293,[2186]
+problem-662.txt,parenting,primary-schooler,1,A1,3274,601,END_OF_PAR,3274,601,[]
+problem-663.txt,parenting,primary-schooler,3,A1-A2-A3,4564,852,RANDOM,1521.333333,284,"[2180, 3551]"
+problem-664.txt,parenting,primary-schooler,2,A1-A2-A1-A2,5167,975,RANDOM,1291.75,243.75,"[1200, 2268, 3707]"
+problem-665.txt,parenting,primary-schooler,1,A1,3481,634,RANDOM,3481,634,[]
+problem-666.txt,parenting,primary-schooler,1,A1,4403,815,RANDOM,4403,815,[]
+problem-667.txt,parenting,development,1,A1,4507,796,END_OF_PAR,4507,796,[]
+problem-668.txt,parenting,development,2,A1-A2-A1,3175,589,RANDOM,1058.333333,196.3333333,"[1067, 2109]"
+problem-669.txt,parenting,development,1,A1,4652,794,WITHIN_PAR,4652,794,[]
+problem-670.txt,parenting,development,3,A1-A2-A3,3488,614,WITHIN_PAR,1162.666667,204.6666667,"[1302, 2396]"
+problem-671.txt,parenting,sleep,2,A1-A2,3008,537,END_OF_PAR,1504,268.5,[1468]
+problem-672.txt,parenting,sleep,2,A1-A2,4704,864,END_OF_PAR,2352,432,[3299]
+problem-673.txt,parenting,sleep,1,A1,2639,497,END_OF_PAR,2639,497,[]
+problem-674.txt,parenting,sleep,1,A1,1737,327,WITHIN_PAR,1737,327,[]
+problem-675.txt,parenting,teen,2,A1-A2-A1-A2,5638,1066,WITHIN_PAR,1409.5,266.5,"[1017, 2798, 3725]"
+problem-676.txt,parenting,teen,1,A1,5314,946,WITHIN_PAR,5314,946,[]
+problem-677.txt,parenting,teen,3,A1-A2-A3,3031,571,END_OF_PAR,1010.333333,190.3333333,"[1257, 2191]"
+problem-678.txt,parenting,teen,1,A1,3740,671,WITHIN_PAR,3740,671,[]
+problem-679.txt,parenting,newborn,3,A1-A2-A3,5962,1060,END_OF_PAR,1987.333333,353.3333333,"[3038, 4147]"
+problem-680.txt,parenting,newborn,1,A1,5736,1045,WITHIN_PAR,5736,1045,[]
+problem-681.txt,parenting,newborn,2,A1-A2-A1,3543,658,END_OF_PAR,1181,219.3333333,"[1281, 2172]"
+problem-682.txt,parenting,newborn,1,A1,2602,468,END_OF_PAR,2602,468,[]
+problem-683.txt,parenting,toddler,1,A1,5028,965,WITHIN_PAR,5028,965,[]
+problem-684.txt,parenting,toddler,1,A1,3871,675,RANDOM,3871,675,[]
+problem-685.txt,parenting,toddler,2,A1-A2,4613,794,END_OF_PAR,2306.5,397,[2079]
+problem-686.txt,parenting,toddler,2,A1-A2-A1,3327,587,WITHIN_PAR,1109,195.6666667,"[1252, 2279]"
+problem-687.txt,parenting,toddler,1,A1,2080,375,RANDOM,2080,375,[]
+problem-688.txt,parenting,toddler,1,A1,3437,613,RANDOM,3437,613,[]
+problem-689.txt,parenting,toddler,1,A1,5651,1031,RANDOM,5651,1031,[]
+problem-690.txt,parenting,toddler,2,A1-A2-A1,3338,589,RANDOM,1112.666667,196.3333333,"[1120, 2295]"
+problem-691.txt,parenting,toddler,1,A1,3680,723,RANDOM,3680,723,[]
+problem-692.txt,parenting,toddler,2,A1-A2,6110,1103,WITHIN_PAR,3055,551.5,[4591]
+problem-693.txt,parenting,toddler,3,A1-A2-A3,5091,933,RANDOM,1697,311,"[2765, 4129]"
+problem-694.txt,parenting,toddler,2,A1-A2,6035,977,END_OF_PAR,3017.5,488.5,[2920]
+problem-695.txt,parenting,pre-schooler,1,A1,4878,872,END_OF_PAR,4878,872,[]
+problem-696.txt,parenting,pre-schooler,3,A1-A2-A3-A1,5951,1059,WITHIN_PAR,1487.75,264.75,"[1133, 2873, 4819]"
+problem-697.txt,parenting,pre-schooler,2,A1-A2,2570,481,RANDOM,1285,240.5,[1234]
+problem-698.txt,parenting,pre-schooler,2,A1-A2,3851,676,END_OF_PAR,1925.5,338,[1896]
+problem-699.txt,parenting,pre-schooler,2,A1-A2-A1,4871,877,RANDOM,1623.666667,292.3333333,"[1746, 3124]"
+problem-700.txt,parenting,pre-schooler,1,A1,4007,691,RANDOM,4007,691,[]
+problem-701.txt,parenting,pre-schooler,1,A1,4904,874,RANDOM,4904,874,[]
+problem-702.txt,parenting,pre-schooler,1,A1,3187,588,RANDOM,3187,588,[]
+problem-703.txt,parenting,infant,2,A1-A2-A1,4035,710,RANDOM,1345,236.6666667,"[1153, 2885]"
+problem-704.txt,parenting,infant,2,A1-A2-A1-A2,4934,845,END_OF_PAR,1233.5,211.25,"[995, 2806, 3801]"
+problem-705.txt,parenting,infant,1,A1,3123,562,END_OF_PAR,3123,562,[]
+problem-706.txt,parenting,infant,1,A1,3611,674,WITHIN_PAR,3611,674,[]
+problem-707.txt,parenting,infant,1,A1,5609,978,WITHIN_PAR,5609,978,[]
+problem-708.txt,parenting,infant,2,A1-A2,5030,900,WITHIN_PAR,2515,450,[3236]
+problem-709.txt,parenting,infant,2,A1-A2,4835,895,WITHIN_PAR,2417.5,447.5,[1600]
+problem-710.txt,parenting,infant,1,A1,3170,614,RANDOM,3170,614,[]
+problem-711.txt,parenting,infant,2,A1-A2-A1,5335,992,END_OF_PAR,1778.333333,330.6666667,"[2359, 4177]"
+problem-712.txt,parenting,infant,1,A1,2363,428,RANDOM,2363,428,[]
+problem-713.txt,parenting,discipline,2,A1-A2,2255,422,RANDOM,1127.5,211,[1014]
+problem-714.txt,parenting,discipline,1,A1,5411,1001,WITHIN_PAR,5411,1001,[]
+problem-715.txt,parenting,discipline,2,A1-A2,3785,696,END_OF_PAR,1892.5,348,[1292]
+problem-716.txt,parenting,discipline,3,A1-A2-A3,5169,894,END_OF_PAR,1723,298,"[2499, 3764]"
+problem-717.txt,parenting,discipline,1,A1,3196,585,RANDOM,3196,585,[]
+problem-718.txt,parenting,discipline,3,A1-A2-A3,4036,753,WITHIN_PAR,1345.333333,251,"[1337, 2914]"
+problem-719.txt,parenting,discipline,1,A1,2974,548,RANDOM,2974,548,[]
+problem-720.txt,parenting,discipline,1,A1,2816,532,END_OF_PAR,2816,532,[]
+problem-721.txt,parenting,discipline,1,A1,3508,623,RANDOM,3508,623,[]
+problem-722.txt,parenting,discipline,2,A1-A2,5779,1077,WITHIN_PAR,2889.5,538.5,[3627]
+problem-723.txt,philosophy,philosophy-of-mind,1,A1,5055,774,RANDOM,5055,774,[]
+problem-724.txt,philosophy,philosophy-of-mind,1,A1,2825,455,RANDOM,2825,455,[]
+problem-725.txt,philosophy,philosophy-of-mind,3,A1-A2-A3,3444,586,RANDOM,1148,195.3333333,"[1218, 2480]"
+problem-726.txt,philosophy,philosophy-of-mind,2,A1-A2-A1-A2,6301,1021,WITHIN_PAR,1575.25,255.25,"[1468, 2850, 4473]"
+problem-727.txt,philosophy,philosophy-of-mind,1,A1,5543,872,END_OF_PAR,5543,872,[]
+problem-728.txt,philosophy,philosophy-of-mind,3,A1-A2-A3,5786,916,WITHIN_PAR,1928.666667,305.3333333,"[3856, 4777]"
+problem-729.txt,philosophy,philosophy-of-mind,1,A1,4440,698,END_OF_PAR,4440,698,[]
+problem-730.txt,philosophy,philosophy-of-mind,1,A1,4403,701,END_OF_PAR,4403,701,[]
+problem-731.txt,philosophy,philosophy-of-mind,2,A1-A2-A1,5787,921,RANDOM,1929,307,"[1122, 3870]"
+problem-732.txt,philosophy,philosophy-of-mind,1,A1,4077,692,WITHIN_PAR,4077,692,[]
+problem-733.txt,philosophy,philosophy-of-mind,2,A1-A2,4078,641,WITHIN_PAR,2039,320.5,[1936]
+problem-734.txt,philosophy,philosophy-of-mind,1,A1,5771,917,RANDOM,5771,917,[]
+problem-735.txt,philosophy,philosophy-of-mind,3,A1-A2-A3,6222,1049,RANDOM,2074,349.6666667,"[2563, 4396]"
+problem-736.txt,philosophy,philosophy-of-mind,1,A1,5022,814,WITHIN_PAR,5022,814,[]
+problem-737.txt,philosophy,philosophy-of-mind,2,A1-A2-A1-A2,5529,908,RANDOM,1382.25,227,"[1652, 2780, 4208]"
+problem-738.txt,philosophy,philosophy-of-mind,2,A1-A2-A1,5751,956,WITHIN_PAR,1917,318.6666667,"[1784, 4281]"
+problem-739.txt,philosophy,philosophy-of-mind,3,A1-A2-A3,4139,665,WITHIN_PAR,1379.666667,221.6666667,"[1578, 3020]"
+problem-740.txt,philosophy,philosophy-of-mind,3,A1-A2-A3,4078,652,END_OF_PAR,1359.333333,217.3333333,"[1130, 2945]"
+problem-741.txt,philosophy,philosophy-of-mind,1,A1,4089,644,RANDOM,4089,644,[]
+problem-742.txt,philosophy,philosophy-of-mind,1,A1,4392,672,END_OF_PAR,4392,672,[]
+problem-743.txt,philosophy,metaphysics,1,A1,3374,552,RANDOM,3374,552,[]
+problem-744.txt,philosophy,metaphysics,3,A1-A2-A3,6403,1058,END_OF_PAR,2134.333333,352.6666667,"[2278, 3717]"
+problem-745.txt,philosophy,metaphysics,3,A1-A2-A3,6149,1001,WITHIN_PAR,2049.666667,333.6666667,"[3952, 5061]"
+problem-746.txt,philosophy,metaphysics,1,A1,4439,726,RANDOM,4439,726,[]
+problem-747.txt,philosophy,metaphysics,3,A1-A2-A3,3716,590,END_OF_PAR,1238.666667,196.6666667,"[1499, 2632]"
+problem-748.txt,philosophy,metaphysics,3,A1-A2-A3,5124,855,END_OF_PAR,1708,285,"[1606, 3565]"
+problem-749.txt,philosophy,metaphysics,2,A1-A2-A1-A2,6656,1098,WITHIN_PAR,1664,274.5,"[1914, 4165, 5603]"
+problem-750.txt,philosophy,metaphysics,3,A1-A2-A3,5364,873,END_OF_PAR,1788,291,"[2471, 3694]"
+problem-751.txt,philosophy,metaphysics,3,A1-A2-A3-A1,6437,1029,WITHIN_PAR,1609.25,257.25,"[2284, 4416, 5349]"
+problem-752.txt,philosophy,metaphysics,3,A1-A2-A3,5567,951,RANDOM,1855.666667,317,"[1471, 2857]"
+problem-753.txt,philosophy,metaphysics,2,A1-A2,4409,749,RANDOM,2204.5,374.5,[2144]
+problem-754.txt,philosophy,metaphysics,1,A1,4099,667,WITHIN_PAR,4099,667,[]
+problem-755.txt,philosophy,metaphysics,1,A1,3897,643,END_OF_PAR,3897,643,[]
+problem-756.txt,philosophy,metaphysics,1,A1,2719,401,END_OF_PAR,2719,401,[]
+problem-757.txt,philosophy,metaphysics,1,A1,5823,960,WITHIN_PAR,5823,960,[]
+problem-758.txt,philosophy,metaphysics,2,A1-A2-A1-A2,4821,763,END_OF_PAR,1205.25,190.75,"[1363, 2405, 3613]"
+problem-759.txt,philosophy,metaphysics,1,A1,3697,580,RANDOM,3697,580,[]
+problem-760.txt,philosophy,metaphysics,1,A1,2742,430,RANDOM,2742,430,[]
+problem-761.txt,philosophy,metaphysics,1,A1,4203,673,END_OF_PAR,4203,673,[]
+problem-762.txt,philosophy,metaphysics,1,A1,6023,934,RANDOM,6023,934,[]
+problem-763.txt,philosophy,metaphysics,3,A1-A2-A3,6976,1106,WITHIN_PAR,2325.333333,368.6666667,"[1155, 2240]"
+problem-764.txt,philosophy,metaphysics,1,A1,4256,665,WITHIN_PAR,4256,665,[]
+problem-765.txt,philosophy,logic,1,A1,3931,665,RANDOM,3931,665,[]
+problem-766.txt,philosophy,logic,1,A1,3151,504,END_OF_PAR,3151,504,[]
+problem-767.txt,philosophy,logic,3,A1-A2-A3,5533,958,RANDOM,1844.333333,319.3333333,"[1443, 2509]"
+problem-768.txt,philosophy,logic,1,A1,2512,404,END_OF_PAR,2512,404,[]
+problem-769.txt,philosophy,logic,2,A1-A2-A1-A2,6333,1022,RANDOM,1583.25,255.5,"[1721, 3023, 4471]"
+problem-770.txt,philosophy,logic,2,A1-A2-A1-A2,5176,883,END_OF_PAR,1294,220.75,"[1405, 2992, 3950]"
+problem-771.txt,philosophy,logic,2,A1-A2-A1-A2,5815,1010,RANDOM,1453.75,252.5,"[2002, 3027, 4962]"
+problem-772.txt,philosophy,logic,1,A1,2150,346,RANDOM,2150,346,[]
+problem-773.txt,philosophy,logic,3,A1-A2-A3,5367,909,WITHIN_PAR,1789,303,"[1486, 3808]"
+problem-774.txt,philosophy,logic,1,A1,4138,696,END_OF_PAR,4138,696,[]
+problem-775.txt,philosophy,logic,1,A1,2155,327,WITHIN_PAR,2155,327,[]
+problem-776.txt,philosophy,logic,1,A1,5915,1003,WITHIN_PAR,5915,1003,[]
+problem-777.txt,philosophy,logic,1,A1,6564,1056,WITHIN_PAR,6564,1056,[]
+problem-778.txt,philosophy,logic,2,A1-A2-A1,6266,1065,END_OF_PAR,2088.666667,355,"[2869, 4258]"
+problem-779.txt,philosophy,logic,2,A1-A2-A1,4454,775,RANDOM,1484.666667,258.3333333,"[930, 3257]"
+problem-780.txt,philosophy,logic,2,A1-A2,5866,969,RANDOM,2933,484.5,[2475]
+problem-781.txt,philosophy,logic,2,A1-A2-A1-A2,6409,1033,RANDOM,1602.25,258.25,"[1469, 2791, 5257]"
+problem-782.txt,philosophy,logic,3,A1-A2-A3,4410,747,END_OF_PAR,1470,249,"[1815, 3208]"
+problem-783.txt,philosophy,logic,1,A1,4389,728,WITHIN_PAR,4389,728,[]
+problem-784.txt,philosophy,logic,1,A1,2669,461,RANDOM,2669,461,[]
+problem-785.txt,philosophy,logic,3,A1-A2-A3,4151,720,RANDOM,1383.666667,240,"[1437, 2805]"
+problem-786.txt,philosophy,logic,2,A1-A2-A1,5197,868,END_OF_PAR,1732.333333,289.3333333,"[2556, 3722]"
+problem-787.txt,philosophy,logic,2,A1-A2,4857,831,WITHIN_PAR,2428.5,415.5,[1304]
+problem-788.txt,philosophy,logic,1,A1,2471,395,WITHIN_PAR,2471,395,[]
+problem-789.txt,philosophy,logic,1,A1,4467,731,END_OF_PAR,4467,731,[]
+problem-790.txt,philosophy,logic,1,A1,3644,577,WITHIN_PAR,3644,577,[]
+problem-791.txt,philosophy,logic,3,A1-A2-A3,3999,667,WITHIN_PAR,1333,222.3333333,"[1578, 2912]"
+problem-792.txt,philosophy,logic,3,A1-A2-A3,4227,682,END_OF_PAR,1409,227.3333333,"[1572, 2889]"
+problem-793.txt,philosophy,logic,1,A1,3317,496,END_OF_PAR,3317,496,[]
+problem-794.txt,philosophy,logic,1,A1,4091,726,WITHIN_PAR,4091,726,[]
+problem-795.txt,philosophy,logic,2,A1-A2,2787,464,WITHIN_PAR,1393.5,232,[1513]
+problem-796.txt,philosophy,logic,1,A1,2801,473,WITHIN_PAR,2801,473,[]
+problem-797.txt,philosophy,kant,2,A1-A2-A1,5863,880,RANDOM,1954.333333,293.3333333,"[2381, 3483]"
+problem-798.txt,philosophy,kant,1,A1,5184,858,END_OF_PAR,5184,858,[]
+problem-799.txt,philosophy,kant,1,A1,6427,1019,RANDOM,6427,1019,[]
+problem-800.txt,philosophy,kant,1,A1,6467,1056,END_OF_PAR,6467,1056,[]
+problem-801.txt,philosophy,kant,2,A1-A2-A1-A2,6990,1119,WITHIN_PAR,1747.5,279.75,"[1420, 3550, 5809]"
+problem-802.txt,philosophy,kant,3,A1-A2-A3,3614,582,WITHIN_PAR,1204.666667,194,"[1232, 2594]"
+problem-803.txt,philosophy,kant,1,A1,2666,449,RANDOM,2666,449,[]
+problem-804.txt,philosophy,kant,2,A1-A2-A1-A2,5734,1000,WITHIN_PAR,1433.5,250,"[1918, 3266, 4583]"
+problem-805.txt,philosophy,kant,1,A1,4025,643,RANDOM,4025,643,[]
+problem-806.txt,philosophy,kant,1,A1,5718,910,WITHIN_PAR,5718,910,[]
+problem-807.txt,philosophy,kant,1,A1,3805,622,END_OF_PAR,3805,622,[]
+problem-808.txt,philosophy,kant,3,A1-A2-A3,5054,827,WITHIN_PAR,1684.666667,275.6666667,"[2618, 3816]"
+problem-809.txt,philosophy,kant,1,A1,2720,463,WITHIN_PAR,2720,463,[]
+problem-810.txt,philosophy,kant,2,A1-A2,5185,842,END_OF_PAR,2592.5,421,[4039]
+problem-811.txt,philosophy,kant,3,A1-A2-A3,3801,636,WITHIN_PAR,1267,212,"[1517, 2759]"
+problem-812.txt,philosophy,kant,2,A1-A2-A1-A2,5454,862,WITHIN_PAR,1363.5,215.5,"[1503, 2727, 3734]"
+problem-813.txt,philosophy,kant,1,A1,3599,568,WITHIN_PAR,3599,568,[]
+problem-814.txt,philosophy,kant,2,A1-A2,4477,768,END_OF_PAR,2238.5,384,[2907]
+problem-815.txt,philosophy,kant,2,A1-A2-A1,4082,638,END_OF_PAR,1360.666667,212.6666667,"[1484, 2770]"
+problem-816.txt,philosophy,kant,1,A1,5261,792,END_OF_PAR,5261,792,[]
+problem-817.txt,philosophy,kant,1,A1,5765,884,END_OF_PAR,5765,884,[]
+problem-818.txt,philosophy,kant,2,A1-A2,5752,975,RANDOM,2876,487.5,[1552]
+problem-819.txt,philosophy,philosophy-of-science,2,A1-A2,6287,1046,END_OF_PAR,3143.5,523,[2408]
+problem-820.txt,philosophy,philosophy-of-science,1,A1,5075,778,END_OF_PAR,5075,778,[]
+problem-821.txt,philosophy,philosophy-of-science,1,A1,5137,797,END_OF_PAR,5137,797,[]
+problem-822.txt,philosophy,philosophy-of-science,1,A1,3231,499,END_OF_PAR,3231,499,[]
+problem-823.txt,philosophy,philosophy-of-science,1,A1,3391,515,RANDOM,3391,515,[]
+problem-824.txt,philosophy,philosophy-of-science,2,A1-A2-A1,4779,776,RANDOM,1593,258.6666667,"[1146, 3234]"
+problem-825.txt,philosophy,philosophy-of-science,3,A1-A2-A3,7125,1155,WITHIN_PAR,2375,385,"[4194, 5162]"
+problem-826.txt,philosophy,philosophy-of-science,1,A1,3568,543,RANDOM,3568,543,[]
+problem-827.txt,philosophy,philosophy-of-science,2,A1-A2-A1,4630,810,RANDOM,1543.333333,270,"[1914, 3353]"
+problem-828.txt,philosophy,philosophy-of-science,3,A1-A2-A3,3586,604,WITHIN_PAR,1195.333333,201.3333333,"[1222, 2658]"
+problem-829.txt,philosophy,philosophy-of-science,1,A1,4958,796,END_OF_PAR,4958,796,[]
+problem-830.txt,philosophy,philosophy-of-science,1,A1,5779,956,RANDOM,5779,956,[]
+problem-831.txt,philosophy,philosophy-of-science,1,A1,5295,947,RANDOM,5295,947,[]
+problem-832.txt,philosophy,philosophy-of-science,1,A1,7132,1121,RANDOM,7132,1121,[]
+problem-833.txt,philosophy,philosophy-of-science,1,A1,5409,865,RANDOM,5409,865,[]
+problem-834.txt,philosophy,philosophy-of-science,1,A1,3854,631,END_OF_PAR,3854,631,[]
+problem-835.txt,philosophy,philosophy-of-science,1,A1,4219,640,RANDOM,4219,640,[]
+problem-836.txt,philosophy,philosophy-of-science,3,A1-A2-A3,6239,993,WITHIN_PAR,2079.666667,331,"[2270, 4590]"
+problem-837.txt,philosophy,philosophy-of-science,2,A1-A2,5076,789,WITHIN_PAR,2538,394.5,[3482]
+problem-838.txt,philosophy,philosophy-of-science,3,A1-A2-A3,4249,681,END_OF_PAR,1416.333333,227,"[1573, 2931]"
+problem-839.txt,philosophy,philosophy-of-science,2,A1-A2-A1,4005,673,END_OF_PAR,1335,224.3333333,"[1406, 2601]"
+problem-840.txt,philosophy,philosophy-of-science,2,A1-A2,2660,412,END_OF_PAR,1330,206,[1203]
+problem-841.txt,philosophy,philosophy-of-science,3,A1-A2-A3,5308,869,WITHIN_PAR,1769.333333,289.6666667,"[2465, 3910]"
+problem-842.txt,philosophy,philosophy-of-science,1,A1,2226,367,END_OF_PAR,2226,367,[]
+problem-843.txt,philosophy,philosophy-of-science,2,A1-A2,4303,701,END_OF_PAR,2151.5,350.5,[1259]
+problem-844.txt,philosophy,philosophy-of-science,1,A1,3762,571,WITHIN_PAR,3762,571,[]
+problem-845.txt,philosophy,philosophy-of-science,3,A2-A1-A3-A1,5830,959,WITHIN_PAR,1457.5,239.75,"[2136, 3484, 4623]"
+problem-846.txt,philosophy,philosophy-of-science,3,A1-A2-A3,4603,762,WITHIN_PAR,1534.333333,254,"[1416, 3370]"
+problem-847.txt,philosophy,ethics,1,A1,4650,779,WITHIN_PAR,4650,779,[]
+problem-848.txt,philosophy,ethics,3,A1-A2-A3,5031,837,WITHIN_PAR,1677,279,"[2520, 3866]"
+problem-849.txt,philosophy,ethics,1,A1,4740,777,END_OF_PAR,4740,777,[]
+problem-850.txt,philosophy,ethics,1,A1,3253,535,END_OF_PAR,3253,535,[]
+problem-851.txt,philosophy,ethics,1,A1,2141,365,END_OF_PAR,2141,365,[]
+problem-852.txt,philosophy,ethics,2,A1-A2,5341,906,RANDOM,2670.5,453,[3202]
+problem-853.txt,philosophy,ethics,1,A1,5486,915,WITHIN_PAR,5486,915,[]
+problem-854.txt,philosophy,ethics,2,A1-A2-A1,5427,916,WITHIN_PAR,1809,305.3333333,"[2175, 3540]"
+problem-855.txt,philosophy,ethics,3,A1-A2-A3,5016,841,WITHIN_PAR,1672,280.3333333,"[1346, 2306]"
+problem-856.txt,philosophy,ethics,1,A1,3736,629,RANDOM,3736,629,[]
+problem-857.txt,philosophy,ethics,2,A1-A2-A1-A2,5430,882,WITHIN_PAR,1357.5,220.5,"[1374, 2446, 4301]"
+problem-858.txt,philosophy,ethics,2,A1-A2-A1,3616,632,WITHIN_PAR,1205.333333,210.6666667,"[1087, 2727]"
+problem-859.txt,philosophy,ethics,1,A1,5670,920,END_OF_PAR,5670,920,[]
+problem-860.txt,philosophy,ethics,3,A1-A2-A3-A1,6702,1089,WITHIN_PAR,1675.5,272.25,"[1125, 3594, 4859]"
+problem-861.txt,philosophy,ethics,1,A1,5981,960,RANDOM,5981,960,[]
+problem-862.txt,philosophy,ethics,2,A1-A2,3746,634,WITHIN_PAR,1873,317,[2493]
+problem-863.txt,philosophy,ethics,3,A1-A2-A3,3730,646,WITHIN_PAR,1243.333333,215.3333333,"[1389, 2460]"
+problem-864.txt,philosophy,ethics,1,A1,3147,531,WITHIN_PAR,3147,531,[]
+problem-865.txt,philosophy,ethics,1,A1,5998,954,END_OF_PAR,5998,954,[]
+problem-866.txt,philosophy,ethics,3,A1-A2-A3,4453,733,RANDOM,1484.333333,244.3333333,"[2222, 3333]"
+problem-867.txt,philosophy,ethics,1,A1,2595,421,END_OF_PAR,2595,421,[]
+problem-868.txt,philosophy,ethics,2,A1-A2,3411,549,WITHIN_PAR,1705.5,274.5,[1376]
+problem-869.txt,philosophy,ethics,2,A1-A2-A1,5480,900,RANDOM,1826.666667,300,"[1939, 4116]"
+problem-870.txt,philosophy,ethics,3,A1-A2-A3,5946,978,RANDOM,1982,326,"[2686, 4466]"
+problem-871.txt,philosophy,ethics,1,A1,5078,828,WITHIN_PAR,5078,828,[]
+problem-872.txt,philosophy,ethics,1,A1,5792,940,RANDOM,5792,940,[]
+problem-873.txt,philosophy,philosophy-of-mathematics,1,A1,5029,855,RANDOM,5029,855,[]
+problem-874.txt,philosophy,philosophy-of-mathematics,1,A1,5903,908,RANDOM,5903,908,[]
+problem-875.txt,philosophy,philosophy-of-mathematics,1,A1,2282,388,WITHIN_PAR,2282,388,[]
+problem-876.txt,philosophy,philosophy-of-mathematics,1,A1,5975,931,END_OF_PAR,5975,931,[]
+problem-877.txt,philosophy,philosophy-of-mathematics,1,A1,6007,1018,WITHIN_PAR,6007,1018,[]
+problem-878.txt,philosophy,philosophy-of-mathematics,3,A1-A2-A3,5130,835,END_OF_PAR,1710,278.3333333,"[2607, 3717]"
+problem-879.txt,philosophy,philosophy-of-mathematics,1,A1,6862,1071,WITHIN_PAR,6862,1071,[]
+problem-880.txt,philosophy,philosophy-of-mathematics,3,A1-A2-A3,5010,804,WITHIN_PAR,1670,268,"[2466, 3570]"
+problem-881.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1-A2,4579,732,WITHIN_PAR,1144.75,183,"[1004, 2148, 3189]"
+problem-882.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1-A2,6871,1107,END_OF_PAR,1717.75,276.75,"[1767, 3377, 5264]"
+problem-883.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1,5182,836,RANDOM,1727.333333,278.6666667,"[1423, 3477]"
+problem-884.txt,philosophy,philosophy-of-mathematics,1,A1,2832,486,END_OF_PAR,2832,486,[]
+problem-885.txt,philosophy,philosophy-of-mathematics,3,A1-A2-A3,4316,699,END_OF_PAR,1438.666667,233,"[1716, 2985]"
+problem-886.txt,philosophy,philosophy-of-mathematics,1,A1,1997,347,END_OF_PAR,1997,347,[]
+problem-887.txt,philosophy,philosophy-of-mathematics,2,A1-A2,2410,390,END_OF_PAR,1205,195,[1339]
+problem-888.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1,3338,529,RANDOM,1112.666667,176.3333333,"[990, 2041]"
+problem-889.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1,4583,741,WITHIN_PAR,1527.666667,247,"[1779, 3074]"
+problem-890.txt,philosophy,philosophy-of-mathematics,1,A1,6106,937,RANDOM,6106,937,[]
+problem-891.txt,philosophy,philosophy-of-mathematics,1,A1,2499,394,RANDOM,2499,394,[]
+problem-892.txt,philosophy,philosophy-of-mathematics,1,A1,4150,652,RANDOM,4150,652,[]
+problem-893.txt,philosophy,philosophy-of-mathematics,3,A1-A2-A3,4380,750,WITHIN_PAR,1460,250,"[1227, 2972]"
+problem-894.txt,philosophy,philosophy-of-mathematics,1,A1,3006,516,RANDOM,3006,516,[]
+problem-895.txt,philosophy,philosophy-of-mathematics,3,A1-A2-A3,3496,586,END_OF_PAR,1165.333333,195.3333333,"[1264, 2627]"
+problem-896.txt,philosophy,philosophy-of-mathematics,2,A1-A2-A1,5739,937,RANDOM,1913,312.3333333,"[2635, 4208]"
+problem-897.txt,philosophy,epistemology,1,A1,6590,1002,END_OF_PAR,6590,1002,[]
+problem-898.txt,philosophy,epistemology,1,A1,3467,548,END_OF_PAR,3467,548,[]
+problem-899.txt,philosophy,epistemology,1,A1,3687,611,END_OF_PAR,3687,611,[]
+problem-900.txt,philosophy,epistemology,2,A1-A2-A1-A2,5021,817,END_OF_PAR,1255.25,204.25,"[1129, 2627, 3716]"
+problem-901.txt,philosophy,epistemology,3,A1-A2-A3,5231,849,RANDOM,1743.666667,283,"[2794, 4080]"
+problem-902.txt,philosophy,epistemology,2,A1-A2,5973,995,WITHIN_PAR,2986.5,497.5,[4606]
+problem-903.txt,philosophy,epistemology,2,A1-A2-A1,4343,693,WITHIN_PAR,1447.666667,231,"[1714, 2769]"
+problem-904.txt,philosophy,epistemology,2,A1-A2-A1,4155,730,WITHIN_PAR,1385,243.3333333,"[1187, 2490]"
+problem-905.txt,philosophy,epistemology,2,A1-A2-A1,5648,956,RANDOM,1882.666667,318.6666667,"[1542, 3724]"
+problem-906.txt,philosophy,epistemology,1,A1,2753,459,WITHIN_PAR,2753,459,[]
+problem-907.txt,philosophy,epistemology,1,A1,5812,904,WITHIN_PAR,5812,904,[]
+problem-908.txt,philosophy,epistemology,2,A1-A2-A1-A2,5302,864,WITHIN_PAR,1325.5,216,"[1568, 2981, 4187]"
+problem-909.txt,philosophy,epistemology,1,A1,5490,868,WITHIN_PAR,5490,868,[]
+problem-910.txt,philosophy,epistemology,1,A1,2340,373,WITHIN_PAR,2340,373,[]
+problem-911.txt,philosophy,epistemology,1,A1,4978,771,END_OF_PAR,4978,771,[]
+problem-912.txt,philosophy,epistemology,1,A1,5397,865,RANDOM,5397,865,[]
+problem-913.txt,philosophy,epistemology,2,A1-A2,5054,808,WITHIN_PAR,2527,404,[1376]
+problem-914.txt,philosophy,epistemology,3,A1-A2-A3,6689,1084,END_OF_PAR,2229.666667,361.3333333,"[3188, 4823]"
+problem-915.txt,philosophy,epistemology,2,A1-A2-A1,5756,957,END_OF_PAR,1918.666667,319,"[1362, 3370]"
+problem-916.txt,philosophy,epistemology,1,A1,5948,986,RANDOM,5948,986,[]
+problem-917.txt,philosophy,epistemology,3,A1-A2-A3,6308,1064,END_OF_PAR,2102.666667,354.6666667,"[1587, 4153]"
+problem-918.txt,philosophy,epistemology,1,A1,5401,874,RANDOM,5401,874,[]
+problem-919.txt,philosophy,reference-request,3,A1-A2-A3,5168,864,END_OF_PAR,1722.666667,288,"[1329, 3477]"
+problem-920.txt,philosophy,reference-request,2,A1-A2-A1-A2,5883,995,END_OF_PAR,1470.75,248.75,"[1284, 2570, 4327]"
+problem-921.txt,philosophy,reference-request,1,A1,4746,792,WITHIN_PAR,4746,792,[]
+problem-922.txt,philosophy,reference-request,1,A1,4210,625,RANDOM,4210,625,[]
+problem-923.txt,philosophy,reference-request,1,A1,6215,908,END_OF_PAR,6215,908,[]
+problem-924.txt,philosophy,reference-request,2,A1-A2-A1-A2,5111,858,END_OF_PAR,1277.75,214.5,"[2010, 2988, 4088]"
+problem-925.txt,philosophy,reference-request,1,A1,4329,738,END_OF_PAR,4329,738,[]
+problem-926.txt,philosophy,reference-request,2,A1-A2-A1-A2,5223,858,WITHIN_PAR,1305.75,214.5,"[1032, 2901, 4020]"
+problem-927.txt,philosophy,reference-request,2,A1-A2-A1-A2,5689,935,END_OF_PAR,1422.25,233.75,"[1268, 2356, 3942]"
+problem-928.txt,philosophy,reference-request,1,A1,5804,867,END_OF_PAR,5804,867,[]
+problem-929.txt,philosophy,reference-request,1,A1,2994,469,END_OF_PAR,2994,469,[]
+problem-930.txt,philosophy,reference-request,2,A1-A2-A1-A2,5504,906,END_OF_PAR,1376,226.5,"[1617, 3140, 4242]"
+problem-931.txt,philosophy,history-of-philosophy,1,A1,3501,546,RANDOM,3501,546,[]
+problem-932.txt,philosophy,history-of-philosophy,2,A1-A2-A1,7362,1157,WITHIN_PAR,2454,385.6666667,"[1159, 5852]"
+problem-933.txt,philosophy,history-of-philosophy,1,A1,5800,998,RANDOM,5800,998,[]
+problem-934.txt,philosophy,history-of-philosophy,2,A1-A2,6450,1090,WITHIN_PAR,3225,545,[3513]
+problem-935.txt,philosophy,history-of-philosophy,2,A1-A2-A1-A2,4187,703,END_OF_PAR,1046.75,175.75,"[1013, 2108, 3121]"
+problem-936.txt,philosophy,history-of-philosophy,1,A1,4992,784,RANDOM,4992,784,[]
+problem-937.txt,philosophy,history-of-philosophy,1,A1,5937,1042,END_OF_PAR,5937,1042,[]
+problem-938.txt,philosophy,history-of-philosophy,2,A1-A2,5541,881,RANDOM,2770.5,440.5,[4650]
+problem-939.txt,philosophy,history-of-philosophy,3,A2-A1-A3-A1,6027,1018,END_OF_PAR,1506.75,254.5,"[2207, 3834, 4911]"
+problem-940.txt,philosophy,history-of-philosophy,1,A1,6479,985,END_OF_PAR,6479,985,[]
+problem-941.txt,philosophy,history-of-philosophy,3,A1-A2-A3,5187,824,RANDOM,1729,274.6666667,"[2727, 3987]"
+problem-942.txt,philosophy,history-of-philosophy,1,A1,4470,696,END_OF_PAR,4470,696,[]
+problem-943.txt,philosophy,history-of-philosophy,3,A1-A2-A3,5773,951,RANDOM,1924.333333,317,"[3299, 4609]"
+problem-944.txt,philosophy,history-of-philosophy,2,A1-A2,6185,1011,RANDOM,3092.5,505.5,[2142]
+problem-945.txt,philosophy,history-of-philosophy,1,A1,5638,862,RANDOM,5638,862,[]
+problem-946.txt,philosophy,history-of-philosophy,1,A1,2597,432,END_OF_PAR,2597,432,[]
+problem-947.txt,history,ancient-rome,1,A1,5563,900,END_OF_PAR,5563,900,[]
+problem-948.txt,history,ancient-rome,1,A1,3410,574,RANDOM,3410,574,[]
+problem-949.txt,history,ancient-rome,1,A1,6071,1008,WITHIN_PAR,6071,1008,[]
+problem-950.txt,history,ancient-rome,3,A1-A2-A3,4943,837,END_OF_PAR,1647.666667,279,"[1941, 2872]"
+problem-951.txt,history,ancient-rome,3,A1-A2-A3,5524,933,RANDOM,1841.333333,311,"[1393, 2675]"
+problem-952.txt,history,ancient-rome,3,A1-A2-A3,4405,744,END_OF_PAR,1468.333333,248,"[1646, 2849]"
+problem-953.txt,history,ancient-rome,2,A1-A2-A1-A2,6233,1012,RANDOM,1558.25,253,"[2771, 3757, 4860]"
+problem-954.txt,history,ancient-rome,1,A1,3751,638,RANDOM,3751,638,[]
+problem-955.txt,history,ancient-rome,1,A1,3793,662,WITHIN_PAR,3793,662,[]
+problem-956.txt,history,ancient-rome,1,A1,2856,463,END_OF_PAR,2856,463,[]
+problem-957.txt,history,ancient-rome,2,A1-A2,2958,498,WITHIN_PAR,1479,249,[1439]
+problem-958.txt,history,ancient-rome,2,A1-A2-A1,5393,880,WITHIN_PAR,1797.666667,293.3333333,"[1441, 3228]"
+problem-959.txt,history,20th-century,1,A1,3139,517,RANDOM,3139,517,[]
+problem-960.txt,history,20th-century,2,A1-A2,6018,1014,RANDOM,3009,507,[4256]
+problem-961.txt,history,20th-century,1,A1,4061,718,WITHIN_PAR,4061,718,[]
+problem-962.txt,history,20th-century,2,A1-A2,4011,664,END_OF_PAR,2005.5,332,[2703]
+problem-963.txt,history,20th-century,3,A1-A2-A3,5110,863,RANDOM,1703.333333,287.6666667,"[2342, 3763]"
+problem-964.txt,history,20th-century,1,A1,4294,702,WITHIN_PAR,4294,702,[]
+problem-965.txt,history,20th-century,1,A1,4263,761,END_OF_PAR,4263,761,[]
+problem-966.txt,history,20th-century,1,A1,4171,718,END_OF_PAR,4171,718,[]
+problem-967.txt,history,20th-century,3,A1-A2-A3,5542,879,RANDOM,1847.333333,293,"[2366, 4100]"
+problem-968.txt,history,20th-century,3,A1-A2-A3,4924,804,END_OF_PAR,1641.333333,268,"[1552, 3638]"
+problem-969.txt,history,20th-century,1,A1,3088,514,END_OF_PAR,3088,514,[]
+problem-970.txt,history,20th-century,2,A1-A2-A1-A2,6342,1048,END_OF_PAR,1585.5,262,"[1314, 3728, 4734]"
+problem-971.txt,history,20th-century,1,A1,5807,941,END_OF_PAR,5807,941,[]
+problem-972.txt,history,20th-century,2,A1-A2-A1,4734,822,WITHIN_PAR,1578,274,"[1571, 3128]"
+problem-973.txt,history,20th-century,2,A1-A2-A1-A2,4849,797,RANDOM,1212.25,199.25,"[1177, 2422, 3678]"
+problem-974.txt,history,20th-century,1,A1,4347,680,RANDOM,4347,680,[]
+problem-975.txt,history,ancient-history,1,A1,3732,600,RANDOM,3732,600,[]
+problem-976.txt,history,ancient-history,2,A1-A2-A1,4528,769,RANDOM,1509.333333,256.3333333,"[1621, 3567]"
+problem-977.txt,history,ancient-history,1,A1,5330,923,WITHIN_PAR,5330,923,[]
+problem-978.txt,history,ancient-history,1,A1,2911,520,RANDOM,2911,520,[]
+problem-979.txt,history,ancient-history,1,A1,4157,696,WITHIN_PAR,4157,696,[]
+problem-980.txt,history,ancient-history,1,A1,4230,696,RANDOM,4230,696,[]
+problem-981.txt,history,ancient-history,1,A1,3136,528,RANDOM,3136,528,[]
+problem-982.txt,history,ancient-history,3,A1-A2-A3,3807,644,RANDOM,1269,214.6666667,"[1739, 2626]"
+problem-983.txt,history,ancient-history,3,A1-A2-A3,6515,1064,RANDOM,2171.666667,354.6666667,"[1758, 5042]"
+problem-984.txt,history,ancient-history,2,A1-A2,5247,870,RANDOM,2623.5,435,[1527]
+problem-985.txt,history,ancient-history,3,A1-A2-A3,4267,725,RANDOM,1422.333333,241.6666667,"[1527, 2825]"
+problem-986.txt,history,ancient-history,1,A1,3993,666,WITHIN_PAR,3993,666,[]
+problem-987.txt,history,ancient-history,1,A1,2366,397,RANDOM,2366,397,[]
+problem-988.txt,history,ancient-history,2,A1-A2-A1-A2,6320,1078,WITHIN_PAR,1580,269.5,"[1508, 2592, 5451]"
+problem-989.txt,history,ancient-history,2,A1-A2-A1,4494,752,END_OF_PAR,1498,250.6666667,"[1121, 3520]"
+problem-990.txt,history,ancient-history,3,A2-A1-A3-A1,6973,1159,END_OF_PAR,1743.25,289.75,"[2995, 4438, 5497]"
+problem-991.txt,history,political-history,1,A1,3643,610,END_OF_PAR,3643,610,[]
+problem-992.txt,history,political-history,2,A1-A2,5140,849,RANDOM,2570,424.5,[1360]
+problem-993.txt,history,political-history,2,A1-A2-A1-A2,4762,802,END_OF_PAR,1190.5,200.5,"[1446, 2515, 3777]"
+problem-994.txt,history,political-history,3,A1-A2-A3,4248,698,END_OF_PAR,1416,232.6666667,"[1723, 3239]"
+problem-995.txt,history,political-history,3,A1-A2-A3,5990,955,END_OF_PAR,1996.666667,318.3333333,"[2557, 4379]"
+problem-996.txt,history,political-history,1,A1,4872,809,RANDOM,4872,809,[]
+problem-997.txt,history,political-history,1,A1,3827,606,WITHIN_PAR,3827,606,[]
+problem-998.txt,history,political-history,3,A1-A2-A3,3778,648,WITHIN_PAR,1259.333333,216,"[1527, 2755]"
+problem-999.txt,history,political-history,1,A1,2811,458,RANDOM,2811,458,[]
+problem-1000.txt,history,political-history,1,A1,5176,822,RANDOM,5176,822,[]
+problem-1001.txt,history,political-history,3,A1-A2-A3-A1,6221,1061,RANDOM,1555.25,265.25,"[1024, 3178, 4080]"
+problem-1002.txt,history,political-history,1,A1,2490,381,END_OF_PAR,2490,381,[]
+problem-1003.txt,history,political-history,2,A1-A2-A1-A2,4981,855,WITHIN_PAR,1245.25,213.75,"[1171, 2837, 3922]"
+problem-1004.txt,history,political-history,1,A1,3122,516,END_OF_PAR,3122,516,[]
+problem-1005.txt,history,world-war-two,2,A1-A2,5610,919,WITHIN_PAR,2805,459.5,[2165]
+problem-1006.txt,history,world-war-two,1,A1,4355,722,WITHIN_PAR,4355,722,[]
+problem-1007.txt,history,world-war-two,2,A1-A2-A1,4639,806,WITHIN_PAR,1546.333333,268.6666667,"[1190, 3589]"
+problem-1008.txt,history,world-war-two,1,A1,3442,585,WITHIN_PAR,3442,585,[]
+problem-1009.txt,history,world-war-two,1,A1,5439,892,RANDOM,5439,892,[]
+problem-1010.txt,history,world-war-two,2,A1-A2-A1,5989,1042,WITHIN_PAR,1996.333333,347.3333333,"[2407, 4227]"
+problem-1011.txt,history,world-war-two,1,A1,3968,675,RANDOM,3968,675,[]
+problem-1012.txt,history,world-war-two,1,A1,5563,908,END_OF_PAR,5563,908,[]
+problem-1013.txt,history,world-war-two,2,A1-A2,4829,802,RANDOM,2414.5,401,[3581]
+problem-1014.txt,history,world-war-two,2,A1-A2-A1-A2,4925,834,RANDOM,1231.25,208.5,"[1362, 2614, 3672]"
+problem-1015.txt,history,world-war-two,2,A1-A2,5285,879,WITHIN_PAR,2642.5,439.5,[4146]
+problem-1016.txt,history,world-war-two,1,A1,5786,965,RANDOM,5786,965,[]
+problem-1017.txt,history,world-war-two,1,A1,6041,1025,WITHIN_PAR,6041,1025,[]
+problem-1018.txt,history,world-war-two,3,A1-A2-A3,3030,505,END_OF_PAR,1010,168.3333333,"[1017, 2057]"
+problem-1019.txt,history,world-war-two,1,A1,5333,874,END_OF_PAR,5333,874,[]
+problem-1020.txt,history,world-war-two,1,A1,4005,673,WITHIN_PAR,4005,673,[]
+problem-1021.txt,history,world-war-two,2,A1-A2-A1,5158,879,WITHIN_PAR,1719.333333,293,"[1697, 3706]"
+problem-1022.txt,history,world-war-two,3,A1-A2-A3,4672,795,RANDOM,1557.333333,265,"[889, 3573]"
+problem-1023.txt,history,world-war-two,1,A1,4141,697,WITHIN_PAR,4141,697,[]
+problem-1024.txt,history,world-war-two,2,A1-A2,2626,425,WITHIN_PAR,1313,212.5,[1166]
+problem-1025.txt,history,world-war-two,2,A1-A2,3697,631,WITHIN_PAR,1848.5,315.5,[1424]
+problem-1026.txt,history,world-war-two,1,A1,6479,1067,END_OF_PAR,6479,1067,[]
+problem-1027.txt,history,world-war-two,1,A1,4681,770,WITHIN_PAR,4681,770,[]
+problem-1028.txt,history,world-war-two,2,A1-A2-A1,5168,889,RANDOM,1722.666667,296.3333333,"[1860, 3825]"
+problem-1029.txt,history,world-war-two,2,A1-A2,4384,733,END_OF_PAR,2192,366.5,[1058]
+problem-1030.txt,history,world-war-two,1,A1,3466,580,WITHIN_PAR,3466,580,[]
+problem-1031.txt,history,military,3,A1-A2-A3,4810,810,WITHIN_PAR,1603.333333,270,"[1021, 3174]"
+problem-1032.txt,history,military,1,A1,3834,624,RANDOM,3834,624,[]
+problem-1033.txt,history,military,3,A1-A2-A3,4515,778,END_OF_PAR,1505,259.3333333,"[1085, 3309]"
+problem-1034.txt,history,military,1,A1,4240,734,END_OF_PAR,4240,734,[]
+problem-1035.txt,history,military,2,A1-A2-A1-A2,7072,1165,RANDOM,1768,291.25,"[2360, 3954, 5060]"
+problem-1036.txt,history,military,1,A1,3645,621,END_OF_PAR,3645,621,[]
+problem-1037.txt,history,military,2,A1-A2,5286,873,RANDOM,2643,436.5,[3843]
+problem-1038.txt,history,military,3,A2-A1-A3-A1,6297,1090,WITHIN_PAR,1574.25,272.5,"[1895, 3561, 4644]"
+problem-1039.txt,history,military,1,A1,4631,774,WITHIN_PAR,4631,774,[]
+problem-1040.txt,history,military,3,A1-A2-A3,5929,985,END_OF_PAR,1976.333333,328.3333333,"[2338, 4215]"
+problem-1041.txt,history,military,1,A1,5062,864,WITHIN_PAR,5062,864,[]
+problem-1042.txt,history,military,3,A2-A1-A3-A1,5463,945,RANDOM,1365.75,236.25,"[2116, 3314, 4406]"
+problem-1043.txt,history,military,2,A1-A2-A1,4782,799,WITHIN_PAR,1594,266.3333333,"[1044, 3744]"
+problem-1044.txt,history,military,1,A1,5932,1012,END_OF_PAR,5932,1012,[]
+problem-1045.txt,history,military,2,A1-A2,2450,390,RANDOM,1225,195,[1153]
+problem-1046.txt,history,military,1,A1,2260,371,WITHIN_PAR,2260,371,[]
+problem-1047.txt,history,military,1,A1,5250,857,END_OF_PAR,5250,857,[]
+problem-1048.txt,history,military,1,A1,5848,966,WITHIN_PAR,5848,966,[]
+problem-1049.txt,history,europe,1,A1,3893,618,RANDOM,3893,618,[]
+problem-1050.txt,history,europe,3,A1-A2-A3-A1,5778,982,END_OF_PAR,1444.5,245.5,"[1083, 3194, 4320]"
+problem-1051.txt,history,europe,3,A1-A2-A3,3772,643,END_OF_PAR,1257.333333,214.3333333,"[1048, 2713]"
+problem-1052.txt,history,europe,1,A1,5914,973,WITHIN_PAR,5914,973,[]
+problem-1053.txt,history,europe,3,A1-A2-A3,5789,954,END_OF_PAR,1929.666667,318,"[2703, 3828]"
+problem-1054.txt,history,europe,3,A1-A2-A3,5258,894,WITHIN_PAR,1752.666667,298,"[2426, 3634]"
+problem-1055.txt,history,europe,1,A1,5010,808,END_OF_PAR,5010,808,[]
+problem-1056.txt,history,europe,1,A1,2453,399,END_OF_PAR,2453,399,[]
+problem-1057.txt,history,europe,2,A1-A2-A1,6654,1095,WITHIN_PAR,2218,365,"[1152, 5171]"
+problem-1058.txt,history,europe,1,A1,2792,460,WITHIN_PAR,2792,460,[]
+problem-1059.txt,history,europe,2,A1-A2-A1,6907,1136,WITHIN_PAR,2302.333333,378.6666667,"[1579, 5329]"
+problem-1060.txt,history,europe,1,A1,2533,438,WITHIN_PAR,2533,438,[]
+problem-1061.txt,history,europe,1,A1,1906,309,WITHIN_PAR,1906,309,[]
+problem-1062.txt,history,europe,3,A1-A2-A3,6725,1100,END_OF_PAR,2241.666667,366.6666667,"[3750, 5329]"
+problem-1063.txt,history,europe,2,A1-A2-A1-A2,6010,954,END_OF_PAR,1502.5,238.5,"[1169, 2668, 3822]"
+problem-1064.txt,history,europe,1,A1,5027,874,RANDOM,5027,874,[]
+problem-1065.txt,history,war,2,A1-A2-A1-A2,5981,983,RANDOM,1495.25,245.75,"[1433, 3755, 4866]"
+problem-1066.txt,history,war,3,A1-A2-A3,4316,694,RANDOM,1438.666667,231.3333333,"[1533, 3121]"
+problem-1067.txt,history,war,1,A1,2908,482,END_OF_PAR,2908,482,[]
+problem-1068.txt,history,war,2,A1-A2-A1-A2,4367,794,END_OF_PAR,1091.75,198.5,"[993, 2171, 3330]"
+problem-1069.txt,history,war,1,A1,2874,481,END_OF_PAR,2874,481,[]
+problem-1070.txt,history,war,1,A1,2829,474,END_OF_PAR,2829,474,[]
+problem-1071.txt,history,war,1,A1,3608,598,RANDOM,3608,598,[]
+problem-1072.txt,history,war,3,A1-A2-A3-A1,6273,1045,WITHIN_PAR,1568.25,261.25,"[1730, 3738, 4807]"
+problem-1073.txt,history,united-states,2,A1-A2-A1-A2,7685,1229,RANDOM,1921.25,307.25,"[2155, 4722, 6261]"
+problem-1074.txt,history,united-states,3,A1-A2-A3,5486,904,END_OF_PAR,1828.666667,301.3333333,"[1340, 2525]"
+problem-1075.txt,history,united-states,1,A1,5906,996,WITHIN_PAR,5906,996,[]
+problem-1076.txt,history,united-states,2,A1-A2-A1-A2,5970,941,WITHIN_PAR,1492.5,235.25,"[1649, 2816, 4871]"
+problem-1077.txt,history,united-states,1,A1,4829,802,END_OF_PAR,4829,802,[]
+problem-1078.txt,history,united-states,3,A1-A2-A3,4234,701,END_OF_PAR,1411.333333,233.6666667,"[1956, 3094]"
+problem-1079.txt,history,united-states,1,A1,3221,596,WITHIN_PAR,3221,596,[]
+problem-1080.txt,history,united-states,1,A1,3565,568,END_OF_PAR,3565,568,[]
+problem-1081.txt,history,united-states,1,A1,2687,441,RANDOM,2687,441,[]
+problem-1082.txt,history,united-states,3,A1-A2-A3,3489,555,RANDOM,1163,185,"[1110, 2222]"
+problem-1083.txt,history,united-states,1,A1,2696,421,RANDOM,2696,421,[]
+problem-1084.txt,history,united-states,1,A1,3576,589,END_OF_PAR,3576,589,[]
+problem-1085.txt,history,united-states,2,A1-A2-A1-A2,4815,794,RANDOM,1203.75,198.5,"[1015, 2366, 3698]"
+problem-1086.txt,history,united-states,2,A1-A2,5857,998,END_OF_PAR,2928.5,499,[975]
+problem-1087.txt,history,united-states,3,A1-A2-A3,5697,935,END_OF_PAR,1899,311.6666667,"[2885, 4557]"
+problem-1088.txt,history,united-states,3,A1-A2-A3,3709,642,RANDOM,1236.333333,214,"[1019, 2272]"
+problem-1089.txt,history,united-states,1,A1,3732,634,WITHIN_PAR,3732,634,[]
+problem-1090.txt,history,united-states,1,A1,2535,443,END_OF_PAR,2535,443,[]
+problem-1091.txt,history,united-states,2,A1-A2,6266,1012,RANDOM,3133,506,[3360]
+problem-1092.txt,history,united-states,3,A2-A1-A3-A1,6405,1081,RANDOM,1601.25,270.25,"[2215, 3981, 4892]"
+problem-1093.txt,history,united-states,3,A1-A2-A3,4947,790,WITHIN_PAR,1649,263.3333333,"[1597, 3040]"
+problem-1094.txt,history,united-states,1,A1,3769,636,WITHIN_PAR,3769,636,[]
+problem-1095.txt,history,united-states,2,A1-A2-A1,5130,834,END_OF_PAR,1710,278,"[1470, 3634]"
+problem-1096.txt,history,united-states,1,A1,5244,869,END_OF_PAR,5244,869,[]
+problem-1097.txt,history,united-states,1,A1,3099,494,WITHIN_PAR,3099,494,[]
+problem-1098.txt,history,united-states,1,A1,4338,671,END_OF_PAR,4338,671,[]
+problem-1099.txt,history,united-states,1,A1,4896,827,RANDOM,4896,827,[]
+problem-1100.txt,history,united-states,2,A1-A2,4993,817,END_OF_PAR,2496.5,408.5,[2730]
+problem-1101.txt,history,middle-ages,1,A1,3970,733,END_OF_PAR,3970,733,[]
+problem-1102.txt,history,middle-ages,1,A1,4381,786,WITHIN_PAR,4381,786,[]
+problem-1103.txt,history,middle-ages,1,A1,5448,896,WITHIN_PAR,5448,896,[]
+problem-1104.txt,history,middle-ages,3,A1-A2-A1-A3,5580,938,END_OF_PAR,1395,234.5,"[1248, 3234, 4424]"
+problem-1105.txt,history,middle-ages,2,A1-A2-A1-A2,6279,1000,END_OF_PAR,1569.75,250,"[1342, 2841, 4587]"
+problem-1106.txt,history,middle-ages,2,A1-A2-A1-A2,6671,1111,END_OF_PAR,1667.75,277.75,"[1933, 3613, 4951]"
+problem-1107.txt,history,middle-ages,1,A1,5162,886,WITHIN_PAR,5162,886,[]
+problem-1108.txt,history,middle-ages,1,A1,2721,457,END_OF_PAR,2721,457,[]
+problem-1109.txt,history,middle-ages,1,A1,4527,744,END_OF_PAR,4527,744,[]
+problem-1110.txt,history,middle-ages,2,A1-A2-A1-A2,6246,1050,RANDOM,1561.5,262.5,"[1034, 2604, 4822]"
+problem-1111.txt,history,middle-ages,1,A1,5434,944,WITHIN_PAR,5434,944,[]
+problem-1112.txt,history,middle-ages,3,A1-A2-A3,5788,978,WITHIN_PAR,1929.333333,326,"[2758, 4744]"
+problem-1113.txt,history,middle-ages,3,A1-A2-A3-A1,7308,1198,END_OF_PAR,1827,299.5,"[1515, 3780, 5712]"
+problem-1114.txt,history,middle-ages,1,A1,5378,908,WITHIN_PAR,5378,908,[]
+problem-1115.txt,history,middle-ages,2,A1-A2-A1,4673,780,WITHIN_PAR,1557.666667,260,"[1541, 2859]"
+problem-1116.txt,history,middle-ages,3,A1-A2-A3,5696,976,WITHIN_PAR,1898.666667,325.3333333,"[2449, 3344]"
+problem-1117.txt,linguistics,historical-linguistics,1,A1,5733,961,RANDOM,5733,961,[]
+problem-1118.txt,linguistics,historical-linguistics,3,A1-A2-A3,4294,695,RANDOM,1431.333333,231.6666667,"[1585, 2825]"
+problem-1119.txt,linguistics,historical-linguistics,3,A1-A2-A3,4540,724,END_OF_PAR,1513.333333,241.3333333,"[2147, 3460]"
+problem-1120.txt,linguistics,historical-linguistics,1,A1,4716,755,RANDOM,4716,755,[]
+problem-1121.txt,linguistics,historical-linguistics,1,A1,2677,444,END_OF_PAR,2677,444,[]
+problem-1122.txt,linguistics,historical-linguistics,2,A1-A2-A1-A2,5641,887,RANDOM,1410.25,221.75,"[1642, 2882, 4402]"
+problem-1123.txt,linguistics,etymology,2,A1-A2,3465,557,WITHIN_PAR,1732.5,278.5,[1066]
+problem-1124.txt,linguistics,etymology,3,A1-A2-A3,3553,591,END_OF_PAR,1184.333333,197,"[1301, 2520]"
+problem-1125.txt,linguistics,etymology,1,A1,3865,614,WITHIN_PAR,3865,614,[]
+problem-1126.txt,linguistics,etymology,1,A1,3242,532,END_OF_PAR,3242,532,[]
+problem-1127.txt,linguistics,etymology,2,A1-A2-A1-A2,7374,1276,WITHIN_PAR,1843.5,319,"[2559, 3960, 5648]"
+problem-1128.txt,linguistics,etymology,1,A1,2216,361,RANDOM,2216,361,[]
+problem-1129.txt,linguistics,phonology,2,A1-A2,3532,572,END_OF_PAR,1766,286,[1888]
+problem-1130.txt,linguistics,phonology,1,A1,3983,624,WITHIN_PAR,3983,624,[]
+problem-1131.txt,linguistics,phonology,1,A1,5026,838,END_OF_PAR,5026,838,[]
+problem-1132.txt,linguistics,phonology,1,A1,2157,331,WITHIN_PAR,2157,331,[]
+problem-1133.txt,linguistics,phonology,3,A1-A2-A3,3524,599,WITHIN_PAR,1174.666667,199.6666667,"[1361, 2535]"
+problem-1134.txt,linguistics,phonology,2,A1-A2-A1,7549,1155,WITHIN_PAR,2516.333333,385,"[1958, 6021]"
+problem-1135.txt,linguistics,phonology,1,A1,2436,447,WITHIN_PAR,2436,447,[]
+problem-1136.txt,linguistics,phonology,3,A1-A2-A3,5016,802,WITHIN_PAR,1672,267.3333333,"[2429, 3560]"
+problem-1137.txt,linguistics,terminology,3,A1-A2-A3,5781,921,END_OF_PAR,1927,307,"[1091, 3280]"
+problem-1138.txt,linguistics,terminology,1,A1,3165,533,WITHIN_PAR,3165,533,[]
+problem-1139.txt,linguistics,terminology,1,A1,2385,379,RANDOM,2385,379,[]
+problem-1140.txt,linguistics,terminology,1,A1,2708,445,WITHIN_PAR,2708,445,[]
+problem-1141.txt,linguistics,terminology,1,A1,5213,819,RANDOM,5213,819,[]
+problem-1142.txt,linguistics,terminology,2,A1-A2,3066,497,RANDOM,1533,248.5,[1127]
+problem-1143.txt,linguistics,terminology,2,A1-A2-A1-A2,5229,892,END_OF_PAR,1307.25,223,"[1025, 2898, 4249]"
+problem-1144.txt,linguistics,terminology,3,A1-A2-A3,5246,866,WITHIN_PAR,1748.666667,288.6666667,"[2195, 3796]"
+problem-1145.txt,linguistics,terminology,1,A1,6184,1022,WITHIN_PAR,6184,1022,[]
+problem-1146.txt,linguistics,terminology,3,A1-A2-A3,4643,743,RANDOM,1547.666667,247.6666667,"[2006, 3458]"
+problem-1147.txt,linguistics,semantics,1,A1,5626,1000,RANDOM,5626,1000,[]
+problem-1148.txt,linguistics,semantics,3,A1-A2-A3,4028,651,WITHIN_PAR,1342.666667,217,"[1341, 2860]"
+problem-1149.txt,linguistics,semantics,3,A1-A2-A3,7090,1128,END_OF_PAR,2363.333333,376,"[1827, 4932]"
+problem-1150.txt,linguistics,semantics,1,A1,2529,444,WITHIN_PAR,2529,444,[]
+problem-1151.txt,linguistics,english,3,A1-A2-A3,6402,1067,END_OF_PAR,2134,355.6666667,"[2874, 4714]"
+problem-1152.txt,linguistics,english,3,A1-A2-A3,4857,777,WITHIN_PAR,1619,259,"[1647, 2892]"
+problem-1153.txt,linguistics,english,1,A1,3613,602,END_OF_PAR,3613,602,[]
+problem-1154.txt,linguistics,english,3,A1-A2-A3,5072,852,RANDOM,1690.666667,284,"[1409, 3099]"
+problem-1155.txt,linguistics,english,3,A1-A2-A3,3433,551,WITHIN_PAR,1144.333333,183.6666667,"[1298, 2484]"
+problem-1156.txt,linguistics,english,1,A1,2553,399,END_OF_PAR,2553,399,[]
+problem-1157.txt,linguistics,english,1,A1,3160,500,RANDOM,3160,500,[]
+problem-1158.txt,linguistics,english,1,A1,5269,877,END_OF_PAR,5269,877,[]
+problem-1159.txt,linguistics,phonetics,3,A1-A2-A3,6546,1055,RANDOM,2182,351.6666667,"[4065, 5480]"
+problem-1160.txt,linguistics,phonetics,3,A1-A2-A3,3962,678,RANDOM,1320.666667,226,"[1534, 2818]"
+problem-1161.txt,linguistics,phonetics,1,A1,3016,476,RANDOM,3016,476,[]
+problem-1162.txt,linguistics,phonetics,1,A1,2551,387,END_OF_PAR,2551,387,[]
+problem-1163.txt,linguistics,phonetics,3,A1-A2-A3,4332,664,END_OF_PAR,1444,221.3333333,"[1659, 2889]"
+problem-1164.txt,linguistics,phonetics,1,A1,1937,320,END_OF_PAR,1937,320,[]
+problem-1165.txt,linguistics,morphology,1,A1,5623,889,RANDOM,5623,889,[]
+problem-1166.txt,linguistics,morphology,2,A1-A2,5114,810,END_OF_PAR,2557,405,[2473]
+problem-1167.txt,linguistics,syntax,2,A1-A2-A1,6113,1006,WITHIN_PAR,2037.666667,335.3333333,"[1553, 2941]"
+problem-1168.txt,linguistics,syntax,1,A1,4449,764,WITHIN_PAR,4449,764,[]
+problem-1169.txt,linguistics,syntax,1,A1,3825,615,END_OF_PAR,3825,615,[]
+problem-1170.txt,linguistics,syntax,1,A1,2183,409,RANDOM,2183,409,[]
+problem-1171.txt,linguistics,syntax,2,A1-A2,4416,739,END_OF_PAR,2208,369.5,[2631]
+problem-1172.txt,linguistics,syntax,3,A1-A2-A3-A1,8269,1289,END_OF_PAR,2067.25,322.25,"[2342, 4519, 5974]"
+problem-1173.txt,linguistics,syntax,1,A1,5190,882,WITHIN_PAR,5190,882,[]
+problem-1174.txt,linguistics,syntax,1,A1,3095,503,END_OF_PAR,3095,503,[]
+problem-1175.txt,linguistics,syntax,1,A1,5420,875,END_OF_PAR,5420,875,[]
+problem-1176.txt,linguistics,syntax,3,A1-A2-A3,5213,862,END_OF_PAR,1737.666667,287.3333333,"[1165, 3179]"
+problem-1177.txt,linguistics,syntax,2,A1-A2-A1,5655,925,END_OF_PAR,1885,308.3333333,"[2280, 4032]"
+problem-1178.txt,linguistics,syntax,2,A1-A2-A1,6471,1037,END_OF_PAR,2157,345.6666667,"[1030, 3927]"
+problem-1179.txt,linguistics,syntax,3,A1-A2-A1-A3,5627,941,RANDOM,1406.75,235.25,"[1076, 2941, 4469]"
+problem-1180.txt,linguistics,syntax,1,A1,3161,571,END_OF_PAR,3161,571,[]
+problem-1181.txt,christianity,bible,2,A1-A2,4222,732,WITHIN_PAR,2111,366,[2702]
+problem-1182.txt,christianity,bible,1,A1,5467,941,END_OF_PAR,5467,941,[]
+problem-1183.txt,christianity,bible,2,A1-A2,3400,563,RANDOM,1700,281.5,[2157]
+problem-1184.txt,christianity,bible,1,A1,5593,942,RANDOM,5593,942,[]
+problem-1185.txt,christianity,bible,2,A1-A2-A1-A2,5788,1010,RANDOM,1447,252.5,"[1819, 2992, 4887]"
+problem-1186.txt,christianity,bible,1,A1,3321,561,WITHIN_PAR,3321,561,[]
+problem-1187.txt,christianity,bible,2,A1-A2-A1-A2,5069,844,END_OF_PAR,1267.25,211,"[1497, 2570, 3982]"
+problem-1188.txt,christianity,bible,1,A1,6266,996,WITHIN_PAR,6266,996,[]
+problem-1189.txt,christianity,bible,2,A1-A2-A1-A2,5783,983,END_OF_PAR,1445.75,245.75,"[1723, 2659, 4720]"
+problem-1190.txt,christianity,bible,1,A1,3599,614,END_OF_PAR,3599,614,[]
+problem-1191.txt,christianity,bible,1,A1,4551,756,WITHIN_PAR,4551,756,[]
+problem-1192.txt,christianity,bible,3,A1-A2-A1-A3,5188,886,END_OF_PAR,1297,221.5,"[981, 3206, 4199]"
+problem-1193.txt,christianity,nature-of-god,2,A1-A2,2204,374,END_OF_PAR,1102,187,[875]
+problem-1194.txt,christianity,nature-of-god,1,A1,2340,398,WITHIN_PAR,2340,398,[]
+problem-1195.txt,christianity,nature-of-god,1,A1,2869,484,WITHIN_PAR,2869,484,[]
+problem-1196.txt,christianity,nature-of-god,3,A1-A2-A3,4844,869,WITHIN_PAR,1614.666667,289.6666667,"[1409, 3625]"
+problem-1197.txt,christianity,nature-of-god,1,A1,3573,665,END_OF_PAR,3573,665,[]
+problem-1198.txt,christianity,nature-of-god,1,A1,4907,877,WITHIN_PAR,4907,877,[]
+problem-1199.txt,christianity,nature-of-god,3,A1-A2-A3-A1,5911,1028,END_OF_PAR,1477.75,257,"[1467, 3394, 4626]"
+problem-1200.txt,christianity,nature-of-god,3,A1-A2-A3,5503,1007,RANDOM,1834.333333,335.6666667,"[2454, 3577]"
+problem-1201.txt,christianity,nature-of-god,2,A1-A2,2424,397,END_OF_PAR,1212,198.5,[1338]
+problem-1202.txt,christianity,nature-of-god,3,A1-A2-A3,5940,1031,END_OF_PAR,1980,343.6666667,"[3459, 4368]"
+problem-1203.txt,christianity,nature-of-god,1,A1,5682,995,WITHIN_PAR,5682,995,[]
+problem-1204.txt,christianity,nature-of-god,1,A1,5940,1024,WITHIN_PAR,5940,1024,[]
+problem-1205.txt,christianity,biblical-basis,1,A1,1975,360,RANDOM,1975,360,[]
+problem-1206.txt,christianity,biblical-basis,1,A1,5356,961,RANDOM,5356,961,[]
+problem-1207.txt,christianity,biblical-basis,3,A1-A2-A3,2915,520,END_OF_PAR,971.6666667,173.3333333,"[904, 1778]"
+problem-1208.txt,christianity,biblical-basis,2,A1-A2,4267,710,END_OF_PAR,2133.5,355,[2678]
+problem-1209.txt,christianity,biblical-basis,1,A1,2624,454,END_OF_PAR,2624,454,[]
+problem-1210.txt,christianity,biblical-basis,1,A1,3627,618,WITHIN_PAR,3627,618,[]
+problem-1211.txt,christianity,biblical-basis,3,A1-A2-A3-A1,5517,967,END_OF_PAR,1379.25,241.75,"[1293, 3297, 4627]"
+problem-1212.txt,christianity,biblical-basis,3,A1-A2-A3,4341,757,RANDOM,1447,252.3333333,"[1271, 2981]"
+problem-1213.txt,christianity,biblical-basis,2,A1-A2-A1,5764,964,END_OF_PAR,1921.333333,321.3333333,"[1869, 3921]"
+problem-1214.txt,christianity,biblical-basis,3,A1-A2-A3,4474,757,RANDOM,1491.333333,252.3333333,"[1671, 3244]"
+problem-1215.txt,christianity,biblical-basis,3,A1-A2-A3,6046,1051,WITHIN_PAR,2015.333333,350.3333333,"[1018, 3068]"
+problem-1216.txt,christianity,biblical-basis,1,A1,3149,559,RANDOM,3149,559,[]
+problem-1217.txt,christianity,biblical-basis,1,A1,3306,561,WITHIN_PAR,3306,561,[]
+problem-1218.txt,christianity,biblical-basis,2,A1-A2,4185,736,RANDOM,2092.5,368,[1561]
+problem-1219.txt,christianity,biblical-basis,1,A1,5318,936,WITHIN_PAR,5318,936,[]
+problem-1220.txt,christianity,biblical-basis,1,A1,3913,693,END_OF_PAR,3913,693,[]
+problem-1221.txt,christianity,biblical-basis,2,A1-A2-A1,4058,733,END_OF_PAR,1352.666667,244.3333333,"[1375, 2602]"
+problem-1222.txt,christianity,biblical-basis,1,A1,3508,591,WITHIN_PAR,3508,591,[]
+problem-1223.txt,christianity,lds,1,A1,3886,658,RANDOM,3886,658,[]
+problem-1224.txt,christianity,lds,3,A1-A2-A3,4087,715,WITHIN_PAR,1362.333333,238.3333333,"[1330, 2637]"
+problem-1225.txt,christianity,lds,1,A1,5071,853,END_OF_PAR,5071,853,[]
+problem-1226.txt,christianity,lds,3,A1-A2-A3,4696,821,WITHIN_PAR,1565.333333,273.6666667,"[1140, 2290]"
+problem-1227.txt,christianity,lds,1,A1,3914,684,RANDOM,3914,684,[]
+problem-1228.txt,christianity,lds,2,A1-A2-A1,4211,725,RANDOM,1403.666667,241.6666667,"[1388, 2739]"
+problem-1229.txt,christianity,lds,1,A1,6110,1052,WITHIN_PAR,6110,1052,[]
+problem-1230.txt,christianity,lds,3,A1-A2-A3,3123,537,END_OF_PAR,1041,179,"[1170, 2054]"
+problem-1231.txt,christianity,lds,1,A1,1846,317,RANDOM,1846,317,[]
+problem-1232.txt,christianity,lds,1,A1,1799,320,RANDOM,1799,320,[]
+problem-1233.txt,christianity,lds,1,A1,4507,782,END_OF_PAR,4507,782,[]
+problem-1234.txt,christianity,lds,3,A1-A2-A3,4914,797,END_OF_PAR,1638,265.6666667,"[2858, 3814]"
+problem-1235.txt,christianity,lds,3,A1-A2-A3,4792,808,RANDOM,1597.333333,269.3333333,"[1695, 3037]"
+problem-1236.txt,christianity,lds,2,A1-A2,5443,930,END_OF_PAR,2721.5,465,[3824]
+problem-1237.txt,christianity,jesus,2,A1-A2-A1,3303,613,WITHIN_PAR,1101,204.3333333,"[1355, 2364]"
+problem-1238.txt,christianity,jesus,1,A1,2223,381,WITHIN_PAR,2223,381,[]
+problem-1239.txt,christianity,jesus,2,A1-A2,3691,651,WITHIN_PAR,1845.5,325.5,[1733]
+problem-1240.txt,christianity,jesus,1,A1,5008,887,END_OF_PAR,5008,887,[]
+problem-1241.txt,christianity,jesus,1,A1,2924,493,RANDOM,2924,493,[]
+problem-1242.txt,christianity,jesus,1,A1,2381,453,RANDOM,2381,453,[]
+problem-1243.txt,christianity,jesus,1,A1,5198,902,WITHIN_PAR,5198,902,[]
+problem-1244.txt,christianity,jesus,2,A1-A2-A1-A2,3812,680,END_OF_PAR,953,170,"[886, 1823, 2838]"
+problem-1245.txt,christianity,jesus,3,A1-A2-A3,7456,1308,END_OF_PAR,2485.333333,436,"[1884, 4857]"
+problem-1246.txt,christianity,jesus,3,A1-A2-A1-A3,5799,992,RANDOM,1449.75,248,"[1155, 3281, 4348]"
+problem-1247.txt,christianity,jesus,2,A1-A2,3509,641,END_OF_PAR,1754.5,320.5,[1179]
+problem-1248.txt,christianity,jesus,1,A1,3365,613,END_OF_PAR,3365,613,[]
+problem-1249.txt,christianity,jesus,1,A1,2664,477,END_OF_PAR,2664,477,[]
+problem-1250.txt,christianity,jesus,3,A1-A2-A3,5831,1004,END_OF_PAR,1943.666667,334.6666667,"[1297, 3601]"
+problem-1251.txt,christianity,church-history,2,A1-A2-A1,5200,861,WITHIN_PAR,1733.333333,287,"[2215, 4207]"
+problem-1252.txt,christianity,church-history,1,A1,3002,477,WITHIN_PAR,3002,477,[]
+problem-1253.txt,christianity,church-history,2,A1-A2,5065,892,RANDOM,2532.5,446,[3354]
+problem-1254.txt,christianity,church-history,3,A1-A2-A3,3583,600,END_OF_PAR,1194.333333,200,"[1425, 2586]"
+problem-1255.txt,christianity,church-history,3,A1-A2-A3-A1,6409,1047,RANDOM,1602.25,261.75,"[1335, 3755, 5215]"
+problem-1256.txt,christianity,church-history,1,A1,4510,732,END_OF_PAR,4510,732,[]
+problem-1257.txt,christianity,church-history,1,A1,7133,1133,RANDOM,7133,1133,[]
+problem-1258.txt,christianity,church-history,1,A1,2695,441,WITHIN_PAR,2695,441,[]
+problem-1259.txt,christianity,church-history,2,A1-A2-A1,4764,767,END_OF_PAR,1588,255.6666667,"[1147, 3662]"
+problem-1260.txt,christianity,church-history,2,A1-A2,4558,729,END_OF_PAR,2279,364.5,[1511]
+problem-1261.txt,christianity,church-history,1,A1,4263,721,RANDOM,4263,721,[]
+problem-1262.txt,christianity,church-history,3,A1-A2-A3,6367,1032,RANDOM,2122.333333,344,"[3210, 4430]"
+problem-1263.txt,christianity,church-history,1,A1,3902,671,RANDOM,3902,671,[]
+problem-1264.txt,christianity,church-history,1,A1,2112,365,RANDOM,2112,365,[]
+problem-1265.txt,christianity,history,1,A1,5156,890,WITHIN_PAR,5156,890,[]
+problem-1266.txt,christianity,history,1,A1,4685,798,END_OF_PAR,4685,798,[]
+problem-1267.txt,christianity,history,3,A1-A2-A3,7318,1210,WITHIN_PAR,2439.333333,403.3333333,"[1156, 5286]"
+problem-1268.txt,christianity,history,2,A1-A2-A1,6047,1038,RANDOM,2015.666667,346,"[2872, 4700]"
+problem-1269.txt,christianity,history,2,A1-A2,4954,796,END_OF_PAR,2477,398,[3805]
+problem-1270.txt,christianity,history,1,A1,3411,587,RANDOM,3411,587,[]
+problem-1271.txt,christianity,history,2,A1-A2,5650,971,WITHIN_PAR,2825,485.5,[3850]
+problem-1272.txt,christianity,history,1,A1,2187,377,RANDOM,2187,377,[]
+problem-1273.txt,christianity,history,1,A1,2528,436,WITHIN_PAR,2528,436,[]
+problem-1274.txt,christianity,history,3,A1-A2-A3,4740,818,END_OF_PAR,1580,272.6666667,"[2616, 3764]"
+problem-1275.txt,christianity,exegesis,1,A1,5779,958,RANDOM,5779,958,[]
+problem-1276.txt,christianity,exegesis,3,A1-A2-A1-A3,5260,917,WITHIN_PAR,1315,229.25,"[906, 3130, 4145]"
+problem-1277.txt,christianity,exegesis,2,A1-A2-A1-A2,6244,1051,END_OF_PAR,1561,262.75,"[1354, 2477, 4147]"
+problem-1278.txt,christianity,exegesis,1,A1,2584,459,WITHIN_PAR,2584,459,[]
+problem-1279.txt,christianity,exegesis,3,A1-A2-A3,3511,622,RANDOM,1170.333333,207.3333333,"[1120, 2368]"
+problem-1280.txt,christianity,exegesis,1,A1,4468,771,RANDOM,4468,771,[]
+problem-1281.txt,christianity,exegesis,3,A1-A2-A3,3699,629,END_OF_PAR,1233,209.6666667,"[1653, 2580]"
+problem-1282.txt,christianity,exegesis,3,A1-A2-A3-A1,5681,947,END_OF_PAR,1420.25,236.75,"[1203, 3288, 4458]"
+problem-1283.txt,christianity,exegesis,2,A1-A2-A1,5871,1020,END_OF_PAR,1957,340,"[1176, 4901]"
+problem-1284.txt,christianity,exegesis,1,A1,3171,519,RANDOM,3171,519,[]
+problem-1285.txt,christianity,exegesis,1,A1,5281,854,WITHIN_PAR,5281,854,[]
+problem-1286.txt,christianity,exegesis,3,A1-A2-A3,3034,551,END_OF_PAR,1011.333333,183.6666667,"[1033, 1990]"
+problem-1287.txt,christianity,exegesis,3,A1-A2-A3,5476,942,END_OF_PAR,1825.333333,314,"[3004, 4016]"
+problem-1288.txt,christianity,exegesis,1,A1,1857,311,WITHIN_PAR,1857,311,[]
+problem-1289.txt,christianity,exegesis,3,A1-A2-A3,4997,845,END_OF_PAR,1665.666667,281.6666667,"[2005, 4041]"
+problem-1290.txt,christianity,exegesis,1,A1,1976,343,END_OF_PAR,1976,343,[]
+problem-1291.txt,christianity,exegesis,1,A1,4512,796,WITHIN_PAR,4512,796,[]
+problem-1292.txt,christianity,exegesis,1,A1,2251,390,END_OF_PAR,2251,390,[]
+problem-1293.txt,christianity,exegesis,1,A1,2503,424,WITHIN_PAR,2503,424,[]
+problem-1294.txt,christianity,exegesis,1,A1,2440,403,WITHIN_PAR,2440,403,[]
+problem-1295.txt,christianity,exegesis,3,A1-A2-A3-A1,5181,902,END_OF_PAR,1295.25,225.5,"[994, 2802, 4233]"
+problem-1296.txt,christianity,exegesis,2,A1-A2,3537,622,RANDOM,1768.5,311,[2163]
+problem-1297.txt,christianity,catholicism,1,A1,2703,451,END_OF_PAR,2703,451,[]
+problem-1298.txt,christianity,catholicism,1,A1,1922,310,RANDOM,1922,310,[]
+problem-1299.txt,christianity,catholicism,2,A1-A2-A1,4457,776,WITHIN_PAR,1485.666667,258.6666667,"[944, 3475]"
+problem-1300.txt,christianity,catholicism,2,A1-A2-A1,6651,1103,RANDOM,2217,367.6666667,"[1446, 5124]"
+problem-1301.txt,christianity,catholicism,3,A1-A2-A3-A1,5903,1023,END_OF_PAR,1475.75,255.75,"[888, 3004, 4982]"
+problem-1302.txt,christianity,catholicism,2,A1-A2-A1-A2,7109,1175,WITHIN_PAR,1777.25,293.75,"[1096, 2756, 4463]"
+problem-1303.txt,christianity,catholicism,1,A1,2272,384,WITHIN_PAR,2272,384,[]
+problem-1304.txt,christianity,catholicism,1,A1,5735,952,END_OF_PAR,5735,952,[]
+problem-1305.txt,christianity,catholicism,1,A1,2274,372,RANDOM,2274,372,[]
+problem-1306.txt,christianity,catholicism,1,A1,2544,429,END_OF_PAR,2544,429,[]
+problem-1307.txt,christianity,catholicism,3,A1-A2-A1-A3,5912,999,END_OF_PAR,1478,249.75,"[1033, 2807, 4586]"
+problem-1308.txt,christianity,catholicism,3,A1-A2-A3,6417,1016,WITHIN_PAR,2139,338.6666667,"[1594, 4985]"
+problem-1309.txt,christianity,catholicism,2,A1-A2-A1-A2,4979,841,WITHIN_PAR,1244.75,210.25,"[1569, 2617, 3673]"
+problem-1310.txt,christianity,catholicism,2,A1-A2-A1,6151,1067,RANDOM,2050.333333,355.6666667,"[2123, 3768]"
+problem-1311.txt,christianity,catholicism,1,A1,2379,414,WITHIN_PAR,2379,414,[]
+problem-1312.txt,christianity,catholicism,1,A1,4827,856,WITHIN_PAR,4827,856,[]
+problem-1313.txt,christianity,catholicism,1,A1,4255,716,END_OF_PAR,4255,716,[]
+problem-1314.txt,christianity,catholicism,1,A1,3534,604,WITHIN_PAR,3534,604,[]
+problem-1315.txt,christianity,catholicism,1,A1,4348,707,END_OF_PAR,4348,707,[]
+problem-1316.txt,christianity,catholicism,3,A1-A2-A3,6158,1006,RANDOM,2052.666667,335.3333333,"[2938, 4649]"
+problem-1317.txt,christianity,catholicism,3,A1-A2-A3,3725,639,WITHIN_PAR,1241.666667,213,"[1087, 2286]"
+problem-1318.txt,christianity,catholicism,2,A1-A2-A1-A2,5731,963,RANDOM,1432.75,240.75,"[1769, 2908, 4712]"
+problem-1319.txt,christianity,catholicism,1,A1,3849,676,WITHIN_PAR,3849,676,[]
+problem-1320.txt,christianity,catholicism,1,A1,3721,628,RANDOM,3721,628,[]
+problem-1321.txt,christianity,catholicism,1,A1,5283,900,WITHIN_PAR,5283,900,[]
+problem-1322.txt,christianity,catholicism,2,A1-A2,4542,749,END_OF_PAR,2271,374.5,[1939]
+problem-1323.txt,christianity,catholicism,1,A1,2745,456,WITHIN_PAR,2745,456,[]
+problem-1324.txt,christianity,catholicism,3,A1-A2-A3,5984,1045,WITHIN_PAR,1994.666667,348.3333333,"[2656, 4799]"
+problem-1325.txt,christianity,catholicism,2,A1-A2,2866,489,END_OF_PAR,1433,244.5,[1358]
+problem-1326.txt,christianity,catholicism,1,A1,4210,722,RANDOM,4210,722,[]
+problem-1327.txt,christianity,catholicism,2,A1-A2,3497,605,WITHIN_PAR,1748.5,302.5,[1811]
+problem-1328.txt,christianity,catholicism,1,A1,3056,487,WITHIN_PAR,3056,487,[]
+problem-1329.txt,christianity,catholicism,1,A1,2912,472,RANDOM,2912,472,[]
+problem-1330.txt,christianity,catholicism,2,A1-A2-A1,3568,640,END_OF_PAR,1189.333333,213.3333333,"[811, 2592]"
+problem-1331.txt,christianity,catholicism,2,A1-A2-A1,3449,613,RANDOM,1149.666667,204.3333333,"[886, 2375]"
+problem-1332.txt,christianity,catholicism,1,A1,2262,381,WITHIN_PAR,2262,381,[]
+problem-1333.txt,christianity,catholicism,3,A1-A2-A3,6736,1136,RANDOM,2245.333333,378.6666667,"[3677, 5648]"
+problem-1334.txt,christianity,catholicism,2,A1-A2,5332,887,END_OF_PAR,2666,443.5,[3796]
+problem-1335.txt,christianity,soteriology,1,A1,3084,544,RANDOM,3084,544,[]
+problem-1336.txt,christianity,soteriology,1,A1,5053,941,RANDOM,5053,941,[]
+problem-1337.txt,christianity,soteriology,2,A1-A2-A1,5628,980,WITHIN_PAR,1876,326.6666667,"[2218, 4402]"
+problem-1338.txt,christianity,soteriology,1,A1,4722,792,END_OF_PAR,4722,792,[]
+problem-1339.txt,christianity,soteriology,1,A1,4843,798,END_OF_PAR,4843,798,[]
+problem-1340.txt,christianity,soteriology,2,A1-A2-A1,3887,646,END_OF_PAR,1295.666667,215.3333333,"[1358, 2914]"
+problem-1341.txt,christianity,soteriology,1,A1,3644,634,RANDOM,3644,634,[]
+problem-1342.txt,christianity,soteriology,3,A1-A2-A3,5580,967,RANDOM,1860,322.3333333,"[3077, 4161]"
+problem-1343.txt,christianity,soteriology,3,A1-A2-A3,4481,779,RANDOM,1493.666667,259.6666667,"[2320, 3496]"
+problem-1344.txt,christianity,soteriology,1,A1,3402,632,RANDOM,3402,632,[]
+problem-1345.txt,christianity,soteriology,2,A1-A2-A1-A2,4395,774,END_OF_PAR,1098.75,193.5,"[864, 2015, 3083]"
+problem-1346.txt,christianity,soteriology,1,A1,4650,789,RANDOM,4650,789,[]
+problem-1347.txt,christianity,soteriology,2,A1-A2-A1,6140,1024,RANDOM,2046.666667,341.3333333,"[1364, 4760]"
+problem-1348.txt,christianity,soteriology,1,A1,2834,513,RANDOM,2834,513,[]
+problem-1349.txt,christianity,soteriology,1,A1,3641,675,END_OF_PAR,3641,675,[]
+problem-1350.txt,christianity,soteriology,3,A1-A2-A3,5018,883,WITHIN_PAR,1672.666667,294.3333333,"[1194, 3183]"
+problem-1351.txt,christianity,soteriology,2,A1-A2,5940,1024,RANDOM,2970,512,[3285]
+problem-1352.txt,christianity,soteriology,2,A1-A2,3196,566,RANDOM,1598,283,[1690]

@@ -1,0 +1,25 @@
+Now we start the implementation: When building attributed strings, I prefer to use the mutable subclass, just to keep things cleaner. 
+
+Obviously you're not going to hard-code in the ranges like this. Perhaps instead you could do something like: Based on this information, I figure out which row to select in each unit, and select it. The year case is simple. I simply subtract one (rows are zero-based, but years are 1-based). That being said, here's how you create a tri-color attributed string: 
+
+For months, I have to make sure that the year is a leap year. By doing so, I can guarantee that the month names will always be "Adar I" and "Adar II", regardless of whether the current year happens to be a leap year or not. Assuming you've done all this correctly, you'll end up with this: Here are the implementations of the exposed methods: As you've discovered, creating a functioning date picker is a difficult problem, because there are bajillions of weird edge cases to cover. The Hebrew calendar is particularly weird in this regard, having an intercalary month (Adar I), whereas most of western civilization is used to a calendar that only adds an extra day about once every 4 years. 
+
+Next we'll define a couple of handy constants: 
+
+In the case of years, that's pretty simple. Just create a date components for that year on Tishri 1, and I'm good. 
+
+However, you have to be careful with this. Say you do: 
+
+The implementation is going to start off with a class extension: Start with the outer-most level: For days, I picked an arbitrary year, because every Tishri has 30 days (and no month in the Hebrew calendar has more than 30 days). 
+
+And finally, when I run this code, I get: 
+
+For months, I pick the middle of the rows column, figure out where that sequence starts, and add the month number to it. The same with the days. OK, I think I figured this out: Here is the code, including the logs that show the size of one of the image views both before and after the constraints are applied, 
+
+I think the "standard" way, is to set the picker as the inputView of the text field. 
+
+The animator object is deallocated after each presentation and dismissal, so it's not at all clear why it should behave differently on subsequent runs. 
+
+The constraints are removed. If you add A again, you will have to make new constraints for it, or if you save the constraints before you remove A, you can add them back. When I do something like this, I save the constraints like this for a view called view1: The short dashed constraint (orangeToRedCon is the outlet) has a priority of 999 (you can't change a required priority to a non-required, so that's why it's not 1000). The long dashed constraint (yellowToRedCon) has a priority of 500 and a constant of 20. In code, you can hide the orange view, and swap those priority levels, and that will cause the yellow view to move up to whatever value you've set for the constant value of yellowToRedCon. Specifically, the image views that hold the half images of the view don't respect the constraints they are given, and so are twice the size they should be (they're the size dictated by the retina image). This only happens on simulators with retina displays. The suggested duplicate looks like the same issue I am having. However, unlike that question, I am asking for a Swift workaround. The "answer" to that question was just a link (the same link that I already had above). I am voting to close the other way. 
+
+At the time of this writing I was having trouble adding @IBDesignable to the code, so the views don't show up in IB but they do when you run your app. Documentation example The Error Handling documentation has an example like this How to draw a Bézier path in a custom view These are the main steps: Further study I really recommend looking at the following materials. They are what finally made Bézier paths understandable for me. (And taught me how to pronounce it: /ˈbɛ zi eɪ/.) Adding a Gesture Programmatically To add a gesture programmatically, you (1) create a gesture recognizer, (2) add it to a view, and (3) make a method that is called when the gesture is recognized. This is kind of an old question. I tried a few of the other answers here but couldn't get it to work. Sometimes it is just easier to watch someone do it in action. Here is the video I watched that taught me how to do it:

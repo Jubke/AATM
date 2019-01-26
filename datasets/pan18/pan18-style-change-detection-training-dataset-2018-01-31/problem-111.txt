@@ -1,0 +1,49 @@
+Unfortunately, no I believe imo.IM's Steam functionality is based off SteamRE, which is a project to reverse engineer the Steam protocol. Since the Steam protocol is not something that is made available to third parties it's likely that this connection is established as though a second Steam client has just logged into the service, which will log you out. 
+
+The recommendations over at the Steam forums are to allow Steam to finish updating while running Windows in Safe Mode - presumably some background application (like a third party firewall or antivirus program) is preventing Steam from updating in these instances. 
+
+In addition to these, the following games are listed in the Steam Trading Cards group announcements; 
+
+Select "Flash Player for Other Browsers" from the second drop down 
+
+More information It's worth noting that this is not the same as putting your Steam client into 'offline mode', and still requires an active connection to the internet for Steam to work properly. You're also still able to update and download new games - the chat functionality, friends list and game notifications are the only aspects of the Steam client affected by setting your status to 'offline'. 
+
+One thing to note is that getting Snow Globes by voting for the "Community's Choice" sale requires that you be level 5 already. 
+
+The solution below is from the official Steam forums. 
+
+In your library list, right click on the game you wish to cancel the download for and click 'Delete Local Content'. This will remove the data that has already been downloaded and remove the game from the download list. 
+
+It's worth noting that such third party "solutions" are not officially supported by Valve or Steam. 
+
+Is there a way to do this pro-actively for all games in one batch process (ie: a command line parameter or similar so that they're all done when I want to do them) rather than waiting until the point in time I want to play the game and doing them one at a time? 
+
+To see a list of games that you own that have badge support, in Steam hover over your name in the Navigation bar and select Badges; 
+
+Add a semicolon [;] to separate your new entry from the others. 
+
+I have installed Steam for Android on my Nexus 7 tablet and logged into one of my Steam accounts (I have several). Now I'm trying to log out of that account to log into another but I cannot find the log out option. 
+
+It doesn't look like it - although quite a few people are asking for it. If you use the default skin for Steam, you can download this tweaked clone of that skin which moves the button away from the minimise/maximise buttons, and makes it smaller. For the time being though, Valve haven't given us the option to get rid of this new feature. 
+
+It could also just be that in the year or so since you've last used Steam on this computer it needs to download a sizeable update, which could take some time. The Steam updater can leave itself in a position where it looks like it's doing nothing but may require just a little patience before it springs back into life. 
+
+This will give you an information page which includes a small checker at the bottom which will confirm your compatibility with the HTML5 video tag, h.264 codec, and WebM; 
+
+I wasn't even aware that there was an inventory on the Steam platform - what is it, where is it, and what can be stored in it? 
+
+When you buy a "physical" copy of a Blizzard game, you will still register it with your Battle.net account with a CD key and this will allow you to download the game via the Battle.net. In the instance of World of Warcraft, you're still going to be downloading updates that have occurred since the discs were made after installing from a physical copy anyway. A Battle.net account is required for all recent Blizzard games (basically everything except for their legacy games) although many of their legacy games can now be registered on Battle.net and downloaded. 
+
+Tested as working on Steam 1367621987 build date May 3 2013, 15:12:10 
+
+To restart your computer in Safe Mode with Networking support you can do the following; 
+
+This option doesn't appear for all items, for example if I select any of the new trading cards they do not have a delete option and the option is not present for the copy of XCOM I have from the Tomb Raider pre-order - in these instances you can gift them to your friends or, if they're marketable, sell them on the Steam market. 
+
+You basically need to use a combination of the Steam Trading Card FAQ in conjunction with the Steam Trading Card Community Group announcements. Over time the FAQ will get updated but for completely up to date information you will need to watch out for announcements. 
+
+Anti Virus/Internet Security applications This issue can be exacerbated by anti-virus/internet security applications blocking Steam from doing what it wants to and reading all of Steam's files as the Steam application attempts to verify them. Try adding exceptions in these applications for your Steam folder and restart Steam to see if this resolves your issue. 
+
+Ideally, I'd want to get rid of the following options; 
+
+On the main menu there is an "Exit Application" option, but this simply closes the application but doesn't actually allow you to change the currently logged in account. Starting Steam up again after exiting the application simply logs back into the same account again.

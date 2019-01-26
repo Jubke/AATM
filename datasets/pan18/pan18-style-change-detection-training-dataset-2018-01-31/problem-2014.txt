@@ -1,0 +1,17 @@
+In a different direction, Liebniz in philosophical investgation into indiscernables said that, uncontroversially, if two things are equal, then all predicates satisfied by the first must also be satisfied by the second; and controversially, if both objects satisfies the same set of predicates, then they must be the same object. In symbols: 
+
+To say something is probable as opposed to possible, at least in everyday discourse means the former is more likely, and the latter less likely; and at its limit just conceivable. If geometry can change, perhaps categories can? 
+
+Where omega is the completion of the foregoing. 
+
+He doesn't explicitly say, but is it implied that this had an impact on Kantian thought outside of his conception of mathematics. These are easily seen to be satisfied by the usual notion of equality. The last two properties are so self-evident to Euclid that he doesn't mention them. But it is in fact useful to do so. The property that Euclid mentions is the following 
+
+More recently, Isham & his colloborators are using Topos Theory to provide semantics & a proof theory to quantum logic in the form of the Bohr Topos. Notably the proof system is not classical either it is higher order typed intuitionistic logic. It is also complete & sound. One interesting result is that the kinematics of the Bohr Topos when viewed internally is classical & when viewed externally is quantum-mechanical. 
+
+Individual objects of mathematical interest must be placed with a Category. Though these individual objects have their own character, this knowledge is supressed, and only their relationships (called morphisms) have import. There seems to me a clear correspondance here. Of course, it could mean that both paradigms evolved independently from some prior philosophy. I'm thinking of Leibniz rather than Kant, from whom Saunders MacLane, one of the two cofounders of Category Theory, purloined the word 'Category' for his own uses. He also studied at Gottingen, which from my limited knowledge of German philosophical history, was a centre of philosophy, presumably due to Kant. 
+
+The question is: are we biased in our pre-emptive choice of intuitionistic logic? Are there any conditions we can demand such that a paraconsistent interpretation of a physical event is chosen over an intuitionistic one? 
+
+My understanding of Gödels theorem is that it is completely formal (axioms+logical axioms+inference rules) and does not rely on any model-theoretic notion where truth is established ( a formal sentence being true iff every interpretation of it in every model is true). However the quote above says that a statement is true but not proveable. 
+
+Now if a physical system is modelled intuitionistically, and suppose every physical event is modelled intuitionistically; then dually it must be also modelled paraconsistently.

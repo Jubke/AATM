@@ -1,0 +1,37 @@
+How about adding a "by highest voted answer" sort order? 
+
+The collection of usage data and the possibility to do queries like "how often did users insert the xyz pro-forma comment?" can be helpful for future UI decisions, or for fine-tuning the FAQ. 
+
+I just happened to click on the all-time rep leagues. I seem to be there twice. There should be a proper permalink system to link to revisions. The GUID URLs are fugly, and they provide source code only - making them effectively useless for use in a publication. (Update: It is possible to link directly to propely formatted versions [yet still with fugly URLs]. See S.Mark's answer for details.) Using the favourites function for keeping track of crappy questions sucks. So does manually crawling through the own "activity" page. Why does the potential answerer have to go through this? 
+
+Well, for one, it helps make it more obvious that there is a possible duplicate. Until now, dupe suggestions were often buried in long comment threads, and easy to overlook. I like this change. The possibility to have a list of community-curated comment templates, leading to overall higher quality - creating a good comment template (with a polite greeting, an explanation of the issue, and some helpful links) isn't completely trivial. (This would complement the existing functionality of having your own comment templates, not replace it.) Seeing as the idea behind the public display of total votes you've cast is to encourage voting, is this really fair? 
+
+I sent a careers invitation to a friend few months back. it might even be an idea to show the question's tags in the list, because that may be relevant information to an employer. 
+
+I logged in to Stack Overflow by clicking on the Google OpenID logo 
+
+The original downvotes that were cancelled don't show up anywhere in my list (I went back a month or so), and neither of the posts had seen a recent edit that would have allowed the user to change his vote. 
+
+Also, adding this as an automatic filter may lead to unexpected consequences (say, when trying to use mathematical notation). 
+
+There are two things about the new vote messages that I don't like: 
+
+A: Yes. CC licenses are nonexclusive. Licensors always have the option of entering into different, separate arrangements for the sharing of their works in addition to applying a CC license. gives the impression that if you use your 10 remaining question votes now, you will get additional answer votes, which is not the case. It should be reworded to something like 
+
+That could be achieved simply by hosting the blog outside the rest of the network (at a physically different location) so it is available even if everything else goes down. (If that's not the case already. I didn't check whether it was affected by the outage as well, but the IPs look like they're in the same data center.) 
+
+I opened Meta on some afterthought Also, doesn't it distort greatly all voting stats, especially when looking at candidates for moderator elections and such? 
+
+I'll be the first to admit my state is not the most beautiful, clean, nor wealthy among the states of Germany, but is living in North Rhine-Westphalia such an embarrassment that it needs to be hidden completely? 
+
+Due to having my site in my profile, I've actually received email regarding some of my answers, not just comments, especially on controversial topics. Make edits when you need to correct or augment something, even if it means your score at the top of the page doesn't increment as much as it would. The answer is what matters, if you care enough to edit in the first place. I'd like to attend to stuff that the community can't handle first. This may be: 
+
+However, we'd probably also want to prevent people from inserting that line unless wrapped in a code block. 
+
+The alternate to that (more simply implemented perhaps?) is to give us a way to see the 'other' flags first. Give us the home grown stuff first, or the ability to see it first, before moving on to the canned goods :) 
+
+Suspending / nuking / molecular destabilizing in the works. Thanks for the head's up. This has been implemented. Flags can now be filtered by type. 
+
+If you start a proposal and realize that its not going to gain traction, naturally, you'd want to delete it. 
+
+I really don't care about rep anymore. Well, sure I do care, but not to the point that I won't correct or add something to make my answer better, even if it means not seeing a number on a web page increment. I'm not entirely sure if that's by design, however there's no sort of privilege escalation at play here. Had they realized that we automatically re-write Amazon affiliate links to our own, they probably wouldn't have bothered. Might have a look in the logs to see what the original affiliate ID was, Amazon doesn't take kindly to that.

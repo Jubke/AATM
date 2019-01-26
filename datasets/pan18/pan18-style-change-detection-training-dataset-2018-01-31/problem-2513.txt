@@ -1,0 +1,29 @@
+Indeed, as you've observed, palatalisation before front vowels in English is subject to idiolectal and dialectal variation. For example, I doubt that unconditional palatalisation before front vowels is present in my idiolect (Australian English). 
+
+hippietrail's transcription of 'kweeming' reflects the semi-vowel in the onset, plus the assimilation of the [n] in the first syllable to the following [m]. 
+
+The 'governing principle' is stress. In Spanish, [ɛ] and [ɔ] become diphthongs in stressed positions, explaining why niego, niegas, niega, niegan have diphthongs, while negamos does not (the stressed penultimate is [a] there). 
+
+To sum up, you've encountered one of the quirks which make it hard for a naive English speaker to approximate Mandarin based on the Pinyin; although Pinyin uses Roman letters, the values diverge considerably. 
+
+An example of a quirky sound change, and I really do enjoy these, is from Taishanese, a Chinese topolect which, like Cantonese, is also spoken in Guangdong: 
+
+As for the body of your question, [n] and [l] are said to be in free variation in Cantonese, which means that they are used interchangeably by native speakers, who consider both pronunciations acceptable. There are also some socio-linguistic factors involved — the [l] pronunciation is associated with female speech. 
+
+"The concept of the phoneme was central to the development of phonological theory. In the early twentieth century, phonological theory was all about the phoneme: how to deﬁne it, how to recognize it, how to discover it (see, for example, the articles selected for inclusion in Joos 1957 and Makkai 1972). The American structuralist term for phonology, phonemics, indicates to what extent the ﬁeld was considered to be about the phoneme. 
+
+Basically, when you're not sure which linguistic units you're dealing with (be it phonemes, morphemes etc.) or it is irrelevant to your research, you use the word "segment". Sometimes, it is used for style, to avoid repetition. 
+
+As for the contrast PIE *kw - PIE *kʷ, I think the evidence also comes from Greek (and Mycenaean): e.g. the so called boukolos rule states that "a labiovelar lost its labial element when adjacent to the vowel *u" (Fortson 2010: 70). For example, 
+
+Andrew Sihler (Sihler 1995) argues that Greek is "the only centum language [...] attesting a contrast between reflexes of ḱw and *kʷ". In Greek "two distinct sounds *ḱw give a double consonant medially, while the unitary *kʷ gives a single consonant" (p. 159). For example, 
+
+Naturally, other analyses have been proposed, too. For example, a diphthong is treated as a vowel plus a semivowel or another vowel (McCarthy 1952). Thus, you end up having a diphthong consisting of two phonemes under those approaches. Peter Roach (2009) mentions that this view was "almost universally accepted by American (and some British) writers from the 1940s to the 1960s, and still pervades contemporary American descriptions" (p. 104). Roger Lass (1984) argues that analyzing a diphthong as a vowel plus a semivowel /j/ or /w/ is a "shaky position" (p. 138). He also convincingly dismisses the approach proposed in SPE (Chomsky and Halle), characterizing it as "seem[ing] close to lunacy" (p. 138). Bruce Hayes (2008) concludes that the "fewer-phonemes-the-better" analysis is not an iron-clad argument and that the segment/sequence problem is still "an unsettled one in phonology" (p. 57). 
+
+Indeed, as you've observed, palatalisation before front vowels in English is subject to idiolectal and dialectal variation. For example, I doubt that unconditional palatalisation before front vowels is present in my idiolect (Australian English). 
+
+The reason for the confusion is that Pinyin rimes aren't meant to correspond directly to English orthography. This is why a Pinyin syllable like yuan is mispronounced by virtually every English speaker, where a correct transcription might be [yɛn]. 
+
+I'm surprised that neither of the current answers makes reference to what exactly the Pinyin phonetically transcribes. 
+
+[Incidentally, I personally say nei5 for 你 'you', but loeng4 instead of the "correct" noeng4 for the word 娘 'young girl'. This particular pair of pronunciations is very much in flux at the moment, and Cantonese may eventually shift largely to one pronunciation over time. Cantonese used to distinguish retroflex [ʂ] from apical [s] (e.g. 傷 shoeng1 'wound' vs 相 soeng1 'mutual'), but that distinction too has gradually been erased over the last 50-100 years.]

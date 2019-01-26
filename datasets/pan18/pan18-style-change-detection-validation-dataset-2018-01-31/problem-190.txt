@@ -1,0 +1,33 @@
+There was an metal arm that straddled the wheel, which looked like a taller, and wider version of the Park tool dishing tool, with a lever that allowed pressure to be safely placed on the center of the hub. 
+
+It is normal for a wheel to have an initial break in period. 
+
+However, this is a recognized problem, and one your shop should have discussed with you prior to rebuilding the wheels. In addition, they should have prepared you to check and tune the wheels with greater frequency. 
+
+There are several reasons why you might need to replace a rim or a wheel. 
+
+The easiest and most accurate check for TS-2 alignment is a properly dished wheel. 
+
+You are a big guy at 95 Kg, so this type of problem is not unusual (as am I). That means that you need to be especially wary of loose spokes and rapid detensioning of your wheels. Most "system" wheels have an 85-100 Kg bike and rider weight limit. It would be difficult to conclude that it is the the sole responsibility of the shop. 
+
+If you are looking at an aftermarket upgrade, expect to spend $1500 on new wheels and brakes, and often more, for quality, lightweight kit. The weight penalty has gotten down to only 50-100 grams in most cases, between a bike built with a high quality disc setup and a high quality V-brake setup. 
+
+Bottom line, if you can afford the TS-2, a dishing tool shouldn't be a major expense, and is worth the cost, even if you only use it as a final, double check of the truing stand. 
+
+A wheel is only as strong as the tension on the spokes. If the wheel was loose for any significant length of time before you noticed it, the spokes will fatigue very quickly, because they are flexing through a range of motion which is not intended. 
+
+Edit 2: Your current wheel is double walled, if the link to your bike is accurate. I definitely wouldn't recommend getting a downgrade... 
+
+This is not quite the fault of the shop, but it sounds as if they did not take the care and time to explain the necessities of the new wheels, and certainly, blaming "burrs in the spoke holes" is not a valid excuse, as any competent mechanic must check the hub condition before using it in a new build. Spoke holes, if there were burrs (unlikely, on a wheel you rode for a year without problems) can be deburred easily. 
+
+As you ride the bike, each spoke has its load released, and retensioned each time it passes around the bottom of the wheel. Since some parts of the wheel are aluminum, and others are steel, the aluminum parts compress. This means that the spokes are not under as much tension as they need to be. 
+
+My recommendation: discuss these things with the owner or manager of the shop (not the mechanic who did the work, unless that is the manager), and ask him to rebuild the wheels again, properly, with new spokes and rims. If he agrees, and does it, then well and good. If not, cut your losses, and move on to a shop with a higher level of competence. 
+
+Last, there are definite quality and durability differences between a good wheel, even a good basic wheel, and a cheap factory built wheel of the type that would come on a sub $500 bike. What wheel do you have? What bike? If we know that I can help more directly, but these are good general rules to follow. 
+
+You are unlikely to find that rim or those spokes in stock, because they are unique to the wheel, and it is not cost effective for a shop to keep them on hand given the relatively small chance that someone will need them. 
+
+Perhaps we could get the Math or engineering SE guys to comment here? 
+
+It was called a Stress Relief Box. It consisted of a 6 inch deep box, about 3 inches wider than a 700c rim. There was a a hole cut just about 2" smaller than the rim in the top of the box, so that when a wheel was set on top of it, the rim was supported, but the spokes and hub were not touching anything. There were inserts to allow use with smaller wheels as well.

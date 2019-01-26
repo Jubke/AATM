@@ -1,0 +1,57 @@
+Since no one card is more special than the others, there is no rational need to cling on some cards and discard others. Only the full set of cards is useful. Any set of nine cards is equally pointless to hold onto. 
+
+The short answer is: No, they are not. 
+
+Well, let's run the numbers. While you could do this on any game, I chose to run the numbers on the Steam Trading Cards set for one main good reasons: there's a LOT of cards out there, which lets us be very precise. If I took the TF2 cards, for example, I'd only have a quarter of the data to work with (100k instead of 400k). Additionally, it lets me dismiss counterarguments that can be made about holding onto specific cards; more about that later. 
+
+If you right click the header, you can unhide the 'Bots' column. A regular server with bots will then advertise its bot count (unless there are enough humans playing; then it's not an issue right that second): 
+
+(Scroll down the image, I'm not done here.) 
+
+Today some jerk joined the Arqade group on Steam and started spamming people with links to a lookalike phishing site. You know, like this but with "store.steampowered.com" instead of "twitter.com": 
+
+Is kicking sufficient? What else can I do? 
+
+Be aware that some servers do not advertise their bot count at all, which is what you might be experiencing. If you're playing on Egypt in stage 3, you'll be able to easily tell humans from bots running against the wall; otherwise it can be quite hard to tell those bots apart. 
+
+For those who can't see images, the value of α is about 10^-66 (that's 0.000000000000000000000000000000000000000000000000000000000000000001). Ignoring the "outliers" in the group, Football Manager and Skyrim, doesn't get us appreciably closer to 1. 
+
+While I have no knowledge of the extent of Steam integration a retail version of New Vegas possesses, the following article claims that: 
+
+A friend of mine made a purchase I wholeheartedly approve of on Steam, and I would like to congratulate them on their wise decision. I'd also like to toss in a semi-personal question while I'm at it, so I was wondering: If I comment on a friend's activity, who can see said comment? Just the friend? My friend's friends? My friends? Everybody? 
+
+Strictly speaking, once you've tied the older game to your steam account you can't really give it away through Steam (as I am sure you know). 
+
+Assuming the above is true, you could install the game on your son's machine, activate it one time using your account and then he should be able to play without needing to connect to steam. Mind you, that just because further authentication isn't required, it doesn't necessarily mean that the game won't try to perform it anyway. 
+
+Also, as Juan Manuel pointed out in the comment to your question, sharing your steam games is prohibited as per their terms of service. Seeing how New Vegas simply relies on Steam for DRM and you are talking about retail copies this may not be the same case, but it's something else to consider. 
+
+You can also manage your Libraries from Steam → Settings → Download & Cloud → Steam LIbrary Folders. 
+
+Be aware that some servers do not advertise their bot count at all, which is what you might be experiencing. If you're playing on Egypt in stage 3, you'll be able to easily tell humans from bots running against the wall; otherwise it can be quite hard to tell those bots apart. 
+
+The short answer is: No, they are not. 
+
+We can consider three kinds of users: 
+
+(Scroll down the image, I'm not done here.) 
+
+Well, let's run the numbers. While you could do this on any game, I chose to run the numbers on the Steam Trading Cards set for one main good reasons: there's a LOT of cards out there, which lets us be very precise. If I took the TF2 cards, for example, I'd only have a quarter of the data to work with (100k instead of 400k). Additionally, it lets me dismiss counterarguments that can be made about holding onto specific cards; more about that later. 
+
+If you right click the header, you can unhide the 'Bots' column. A regular server with bots will then advertise its bot count (unless there are enough humans playing; then it's not an issue right that second): 
+
+Image from the OpenDNS Phishing quiz. Hint: this one is a phish. 
+
+You take the difference between the expected number of cards E and the observed number of cards O for each kind, square it, divide it by E and sum the results. If the result is "small enough", the test is passed. How small is small enough? 
+
+Okay, how about a game with a ton of different cards? McPixel comes to the rescue. Prefer a game with fewer ones? Torchlight only has 6 and the results are kind of glaring. 
+
+Today some jerk joined the Arqade group on Steam and started spamming people with links to a lookalike phishing site. You know, like this but with "store.steampowered.com" instead of "twitter.com": 
+
+Now, there's a fairly easy way to tell if a distribution of cards like this is uniform or not. It's called the Pearson's Chi Squared test. It's based on this formula: 
+
+Is kicking sufficient? What else can I do? 
+
+Sometimes I wish servers weren't this moddable. 
+
+For those who can't see images, the value of α is about 10^-66 (that's 0.000000000000000000000000000000000000000000000000000000000000000001). Ignoring the "outliers" in the group, Football Manager and Skyrim, doesn't get us appreciably closer to 1.

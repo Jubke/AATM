@@ -1,0 +1,35 @@
+Using spare tube Then, if you have a spare tube, you install it in place of the bad one (pump a little air into it first to make it round), use the tire irons to get the tire back on the rim, and then pump up the tire. I like to pump it up once, deflate it, and then pump again, to help position the tube and "seat" the tire on the rim. Once it's pumped up examine the wheel for any obvious lumps (indicating the tube may be twisted inside) and to see that the tire is evenly installed on the rim. 
+
+Well, it's a complicated question, because there are several different cases to consider: 
+
+The carbon fork is also less robust than steel, and can develop hidden cracks. But again, unless there's something in its history to make it suspect then it should be fine. 
+
+At this point, even if you have a spare tube, it's wise to attempt to find the hole in the old tube and then look at that spot inside the tire to see if there's still a nail or thorn sticking through. 
+
+Read the instructions that come with the patch kit. Usually you clean around the hole using the sandpaper that comes in the patch kit, spread glue (also in the kit) around the hole and let it mostly dry, then attach the patch over the hole. Then it's usually wise to wait 5-10 minutes before inflating (though during that period several times pressing the patch tightly against the tube). It's probably a good idea to then inflate the tube a bit to be sure that there are no more holes and that you covered the one hole correctly. 
+
+Hole The normal case is that there is no obvious damage to the tire, but when you try to pump it up it doesn't hold air. Then you need the pump, "tire irons", and either a patch kit or a spare inner tube. You may also need wrenches to loosen your wheel, if it does not have a "quick release". 
+
+Certainly age is not a problem. Nothing really "ages" on a bike beyond the tires (and, to a slight extent, the lubes). (It could be true that the carbon fiber will deteriorate after 50 years or so, but that's something for your grandchildren to worry about.) 
+
+(Brompton doesn't provide any detailed pictures or component data on their web site, so I'm working from the crummy little pictures I can find.) 
+
+Reinstall the tube the same as with the spare tube. 
+
+The procedure is to remove the wheel from the bike, then use the tire "irons" (most of which now are actually made of plastic) to pry one side of the tire off the rim. (This procedure is a bit more complicated than that statement -- it takes practice to do without damaging the inner tube further, and an entire article could be written on this topic alone.) Then remove the inner tube from inside the tire. 
+
+To use the boot you get the tube repaired and installed, and just before you put the tire back on the rim you work the boot in between the tube and tire so that it covers the hole. Then put the tire back on the rim and inflate. 
+
+You can get yourself a "chain washer" (and accompanying solvent) to clean the chain, wipe dry with a rag after cleaning, then apply a good chain oil (from a bike shop -- don't use ordinary motor oil or "3in1" oil). For convenience choose a "dry" oil (the bike shop will know what you mean) unless you regularly ride in the rain -- the "dry" oil will stay cleaner. Work the oil in by cranking/riding a minute or two, then wipe off the excess with a rag. 
+
+I like to spread some chalk powder or simply a bit of dust from the ground over the patch area to keep it from sticking to the inside of the tire. 
+
+[I did miss mentioning cable housings. The cables should be given a shot of spray lube down the housing tubes. This is often all that's needed to turn a balky bike into a smoothly shifting/braking one.] 
+
+The shifters likely will be balky at first -- run them through their paces a few times. 
+
+The sprockets don't generally need cleaning unless they become really cruddy, at which point scraping them is the simplest approach. 
+
+In daily use, ideally clean the chain weekly, and after every ride in the rain. (Though I personally stretch these intervals considerably.) 
+
+For a boot you want a piece of thin but relatively stiff/strong material. Special strips of reenforced rubber are sold at bike shops for this, or you can cut a section from the side of an old tire. A popular technique in the US is to use a folded-up dollar bill -- the paper that the US dollar is made from is quite durable and stiff, and, if a relatively new bill is folded into four layers it works quite well for small or medium holes.

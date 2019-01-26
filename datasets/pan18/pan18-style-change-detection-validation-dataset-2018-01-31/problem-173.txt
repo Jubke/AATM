@@ -1,0 +1,23 @@
+It is scary how bad the Tiagra chain is, out of the box it's stretch measurement is nearly 0.5% and I would be surprised if I get 40 hours of riding out of it (less than a month commuting) if I wait to 0.75% before I change. 
+
+Does anyone know the mechanisms driving the two different wear rates? 
+
+Initial Preparation Probably the most critical step for a successful hot waxing is preparing the chain. All lube must be stripped off. EVERYTHING. No residue, just bare metal. This is actually more difficult than it first sounds. I typically follow this tutorial by Molten Speed Wax (although I haven't tried their wax yet). The mineral spirits do a good job of stripping out oils, but they do leave a residue. Mineral spirits is therefore followed by rubbing alcohol (isopropanol) baths, which leaves bear metals. After drying the chain is ready for a hot wax treatment. Regular bike degreasers will likely not be strong enough. 
+
+In the end I suspect choice and frequency and quality of lubing may actually play the biggest role! 
+
+Example of an inner link measurement (10 links apart) 
+
+Question 2 The wear pattern observed in real world testing (Figure 1; left panel) appears to be quite different from the patterns I have seen in posted laboratory testing (Figure 2), which used a machine to run, dirty and lube the chain. 
+
+Once I set my commuter up on a waxed chain I will have a better of how this may pan out. 
+
+Figure 2: Chain wear patterns from laboratory testing (accessed Feb 26, 2016 but now offline). 
+
+Does anyone know the reason for the different observed patterns in wear for real world testing versus laboratory testing? 
+
+This is the common wisdom, but I personally question it. Over the last 3 years I have been carefully recording chain longevity under different lubes and conditions. Under the same conditions (brand/model of chain and season) a thicker wet lube resulted in longer chain life. Sometimes the difference relative to a light or dry lube was startlingly (e.g., 1000 km more life on an Ultegra chain). I suspect the thicker/stickier lube remains in place better (some sort of hydrodyamic property that I can't remember the technical term). As for debris, it does have an effect, but I suspect it is somewhat over-rated as I only see a small drop (e.g., ~300-500 km) during the winter under the same lube chain combo and in some pretty nasty muddy conditions as I keep off the main roads and ride on more gravel during the winter. 
+
+-- Lennard Zinn, Technical FAQ: Chain wear measurement 
+
+My suspicions is that the change relates to wearing through one material type into another, but it would be nice to get confirmation from people who know more.

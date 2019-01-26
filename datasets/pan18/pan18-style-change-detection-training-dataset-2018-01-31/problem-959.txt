@@ -1,0 +1,17 @@
+Honestly, I just don't see enough of these types of edits to warrant such behavior. There are other types of edits that are made much more often that have a higher error rate. 
+
+In addition to the edit being appropriate, there was a good edit reason to put it into context and ensure that it wouldn't be interpreted as vandalism. As others have said, the revision note could have been better, I agree, but what was there is, in my eyes, good enough that it really is the fault of the reviewer if they reject such an edit. 
+
+If enough of your edits are rejected then you will be banned form suggesting edits for a week. It takes like 20 or so rejections within a week, if memory serves. 
+
+That said, people often review quickly and don't look at reviews in as much depth as they should. While the edit should have been approved, it's at least understandable that some reviewers would be inclined to reject it at first glance, so I'm not particularly surprised that it's rejected, even though it shouldn't be. 
+
+There have been problems with reviewers throughout its entire history. People have been working to address the various problems throughout that time. Some things have helped, some have hurt, and some haven't changed much. If you have specific suggestions as to how to improve the queue, then by all means, propose them. Note that there have been a lot of discussions on the topic however, so try to look through past discussions on the topic to see if your idea has already been brought up, or is even already in place. 
+
+If the mechanism to get rid of the bad reviewers (in this case, removing the link to the post) ends up stopping good reviewers from doing their jobs, then that mechanism is more harmful than it is helpful. 
+
+Because the links are extremely useful for reviewing actual posts by quality reviewers. 
+
+When you are in the situation you describe you should be skipping the items. Upvoting an answer when you have no knowledge of its correctness is harmful to the site. If you know that the answer is factually correct, and it is also formulated well enough to properly convey that correctness to the reader, then it's appropriate to upvote. 
+
+You were correct to deny this one. It's clearly not a valid edit. The OP can approve whatever they want, don't really read too much into it. If they choose to accept an edit that would normally be inappropriate, then that's their choice. Since he later reverted it though, odds are he never intended to approve it and it was a mis-click, or he just didn't understand the whole suggested edit system.

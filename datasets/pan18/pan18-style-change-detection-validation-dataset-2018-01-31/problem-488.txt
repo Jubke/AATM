@@ -1,0 +1,30 @@
+The advantage is that users can vote on the best answers which then float to the top. You don't have to worry about breaking the conversation thread, and answers are not buried deep down in the larger context of an entire, vast "conversation." 
+
+If I come in after the voting activity has already settled in, and the voting levels seem to reflect the best posts, I often feel like "everything's in order here... move on." 123456789012345678
+1 stackoverflow.com
+2 Asking 14-million
+3 expert programmers
+4 what to write
+5 on this brick.
+6 [status-completed]
+ Of course, we'll need the actual # of users. 
+
+Throw away your preconceived notions for a moment and take an unbiased look at this graph posted over at blog.stackoverflow.com... 
+
+That doesn't guarantee that all sites will work — you can never really take 100% of that sting out of losing an experiment that just didn't work out — but when you know up front, "If you can do {this} by {x} date, you move on", communities are remarkably resilient and understanding when the "agreement" is known up front. Stack Overflow (Stack Exchange, in the more general sense) is not a forum. 
+
+The identity you choose is a personal thing. If someone wanted to be called (for example) "Ubuntu Fanboi", we wouldn't be having this conversation. So is a username like "AskUbuntu.com" really all that different? It's not indiscriminate advertising... it's a username; and it's not a part of the information content of this site. In short, there is no "spam" to a username. I'm with you on just about… all of this. If that purpose happens to be a bit of self-promotion, we all like to show off a bit. So, we provide two places that allow you to establish your self-identity: Your username and 'about me' profile. 
+
+Right now, meta looks like a place to go with problems. The goal is to portray meta as a larger concern to everyone on the site. I want people to understand that the very existence and health of the site depends on their participation. Was there a renewed interest in this market space prompted by the new player? 123456789012345678
+1 stackoverflow.com:
+2 The only place
+3 where you can get
+4 100 answers
+5 for what to write
+6 on this brick. 
+
+Sites and their subjects are formed around communities; communities with common goals, problems, and interests. The Christians and Jews on those sites want to consult and commune with those who are of the same teachings and belief system. As the "retag question" becomes too long to effectively manage, it can be closed as "no longer relevant" and a new one created (monthly?, periodically?). [Insert witty conclusion here -- I got nothing.] Users have three major reasons to contribute to projects like Stack Exchange: Yes, I would admit casting/not casting a vote based on the current activity. Once resolved, those comments are useless and noise. I see a site which was losing viewership long before Stack Overflow came along. But more interesting is that, about the time Stack Overflow started, EE received a stay of execution from their free fall. Maybe even a bit of a lift. 
+
+Assuming you are doing a routine tag fix that doesn't require discussion... That leaves us with the proper phrasing: The Stack Overflow Trilogy. 
+
+If any particular post is truly exceptional, I might want to throw my vote into the ring, despite the already-high vote score. Looking at the list, take out your pencils and emphatically draw some arrows, free-hand circles, and other official-looking doodles as we work our way through a brief history of Stack Overflow. (this would be so much more entertaining as an animated video) I love all the talk about improving chat guidance. But I've had difficulty getting across that over-dependence on Moderators and "read our FAQ" for everything we didn't get around to building into the system is a problem at all. That's why I'm not delving too far into implementation issues of empowering the community more broadly… but taking this opportunity to raise it as point of broad consideration here.

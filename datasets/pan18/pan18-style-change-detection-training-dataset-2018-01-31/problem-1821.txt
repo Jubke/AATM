@@ -1,0 +1,11 @@
+= If on the other hand, our "thoughts" about objects come from our thinking, then I can know something about objects without encountering them in the world. 
+
+There are certain semi-cartesian features in Kant's account: 
+
+Kant's epistemology hinges on a distinction between knowledge and reason and then things, sensibles, and objects. Put simply, we do not understand things as they; instead we receive them as sensibles through the forms of sensibility (space and time) and then know them as objects through the categories of the understanding. Nature is roughly speaking synonymous with determinism for Kant, which is one of the categories to which our understanding is always subject. This is the background apparatus for answering your question. Kant's distinction between the noumenal and the phenomenal in his *moral philosophy** is both difficult to follow and integral to his moral thought. Moreover, Kant's use of terms like "nature" and "understanding" have definitions that are not intuitive if we are working from the standard English words. 
+
+Here, I have a choice. I can either think the representations come from the things out there ... which will mean I cannot know them without experiencing those things. 
+
+For Kant, morality only applies to rational beings. At some points, he will use the word "humanity" as a synonym. Thus, if we look at the second group of formulations of the categorical imperative we find: 
+
+Kant evades in part the question of how the moral self can interact with the world by making claims about the moral self that take it out of the world of our perception -- i.e., what we see is phenomenal, what we are as free creatures is noumenal. How the two meet is also beyond our ability to know, because knowing is the application of forms and categories to things (and we cannot know the things directly).

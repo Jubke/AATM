@@ -1,0 +1,49 @@
+And why do most people here spell it 'disc' rather than 'disk'. Is this an Americanism vs. British English? 
+
+The other con is that Americans inexplicably have the front brake on their left hand. You can easily (on many bikes) flip the handedness so that your dominant hand (usually right) controls the front brake. I flip all my brakes (right-rear) because I'm used to riding a motorcycle. 
+
+I'd also check with older, grimier bike shops that look like they've been around forever, they usually have a parts bin with finds such as this. They would usually give it to you for free if you're a regular or for beer money if you're not. 
+
+To solve this, some brake cable vendors sell their cables with both types of end anchors attached. You just use the end that you need and cut off (with a proper brake line cutter, not a pair of pliers) the end you don't need: 
+
+This other photograph on Wikimedia commons that @ojs linked to of the classic 1984 Campagnolo Delta brakes shows a more exaggerated form of the 'wings': 
+
+Then look at various youtube videos for final adjustment. 
+
+I noticed that caliper brake pads (holders) have little wings on the bottom that aren't present on v-brake pads. 
+
+You know you've used up all of your brake surface when: 
+
+There's a new braking system put out by a company named SureStop that controls both front and rear cantilever (side-pull) brake systems with a single brake lever. They seem to be mainly appealing to the safety / children / new bike owner's market. 
+
+As the drum brake surface wears down, you will have to keep tightening the adjustment bolt so that the drum lever arm moves forward (towards the front of the bike) more and more. Sheldon has some images and explanation that you might want look at: 
+
+One other (non-optimal) solution is to move the brakes to your chainstays by using the bracket and hole that is there normally for the kickstand. 
+
+Was this just purely for style reasons? I can't think of many advantages of a reverse brake lever (except style) and can think of major disadvantages (it will hook or catch on things as you move forward). What were the rationale for having brake levers like this originally? 
+
+Many of us who pull trailers use ebikes and as long as your ebike motor is sufficient and you have good brakes on the ebike, and you follow reasonable speed and load precautions, motors and brakes on the trailer seem like just another point of failure (and place we have to recharge). 
+
+A bunch of manufacturers including Dia-compe used to sell brake levers that were reversed and there are also some contemporary reproductions: 
+
+An internal-gear hub with a coaster brake may need more than one type of lubricant. Follow manufacturer's recommendations. 
+
+Image source: https://xkcd.com/927/ 
+
+However, looking at them they don't seem like they are top-of the line or really all that different in manufacture from 105-line Shimano brakes. 
+
+What is the difference between "I.S." (international standard), "P.M." (post mount), and flat mount disc brake mounting standards? 
+
+If you really want a Campy, I'd try eBay now that you know what it's called. The one in the top left has the flat side you want. Note that a non-Campy adjuster would be 2-5 eurodollars each.... 
+
+You may need to make a simple bracket out of plate steel or aluminum so that the caliper is at the right place. 
+
+Many ebay and other online vendors advertise the long-reach Shimano BR-650 brakes as being "Ultegra" series. 
+
+Are you sure you have a drum brake? A "drum brake" is external to the rear hub and would normally be actuated by a hand-lever (rather than pedaling backwards). 
+
+There are two types of brake anchor (one is plum-shaped, the other is barrel-shaped or cylindrical). If you have the wrong one at the brake end, it won't fit properly and will slide around. 
+
+With cable-operated brakes the small locknut (A in the diagram) is first Loosened off and then the knurled adjuster (B in diagram) is tightened until the brake shoes are felt to be rubbing on the inner surface of the hub shell. The adjuster is then Loosened just enough to allow the wheel to revolve without friction, and the locknut is tightened up again. 
+
+Center-Pull Your photo shows a center-pull caliper brake. It uses a straddle cable that goes to a yoke (both of these are missing in your example but can be seen below). The straddle/yoke design tends to self-center -- at least if the straddle cable isn't too deformed with age. The brake arms themselves don't pivot around the mounting bolt, but instead pivot on the pivots on the left and right side of the mounting assembly (they had red washers in the photo below). Because of the dual-pivots there is no need for the mounting bolt itself to pivot as part of the brake's normal operation. You can loosen the mounting bolt to recenter by eye and then tighten it back up, but it doesn't float around the center the same way as a side-pull:

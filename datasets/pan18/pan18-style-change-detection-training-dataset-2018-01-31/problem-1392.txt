@@ -1,0 +1,27 @@
+So, in this sense (what do typical implementations do), Python is an "interpreted language" if and only if C# and Java are: all of them have a typical implementation strategy of producing bytecode first, then executing it via a VM/interpreter. 
+
+It's quite possible that a typical printing of the Bible would indeed be in hardcover binding -- after all, it's a book that's typically meant to be read over and over, bookmarked at several places, thumbed through looking for given chapter-and-verse pointers, etc, etc, and a good hardcover binding can make a given copy last longer under such use. However, these are mundane (practical) issues that cannot be used to determine whether a given actual book object is a copy of the Bible or not: paperback printings are perfectly possible! 
+
+The classical implementation, CPython, is often called just "Python" for short -- but it's just one of several production-quality implementations, side by side with Microsoft's IronPython (which compiles to CLR codes, i.e., ".NET"), Jython (which compiles to JVM codes), PyPy (which is written in Python itself and can compile to a huge variety of "back-end" forms including "just-in-time" generated machine language). They're all Python (=="implementations of the Python language") just like many superficially different book objects can all be Bibles (=="copies of The Bible"). 
+
+Edit: "why not GAEUnit" -- GAEUnit is nice for its own use cases, but running dev_appserver and seeing results in my browser (or even via urllib.urlopen) is definitely not what I'm after -- I want to use a fully automated setup, suitable for running within an existing test-running framework which is based on extending unittest, and no HTTP in the way (said framework defines a "fast" test as one that among other thing does no sockets and minimal disk I/O -- we simulate or mock these -- so via gaeunit I could do no better than "medium" tests) + no convenient way to prepopulate datastore for each test (and no OO structure to help customize things). 
+
+I know it should be possible from this chart. But unfortunately the documentation of M2Crypto I've found is sketchy. (The homepage at http://chandlerproject.org/ seems to be gone, along with Chandler.) 
+
+I often find myself using the % operator to strings with a dictionary of names and values to interpolate. Often the names in the string is just the names of local variables. So (with the answer below) I can do something like this: 
+
+I have a working test of a hardware device that uses RSA encryption, in Python using M2Crypto. Now I need to test a similar device that uses 3DES encryption. But I can't figure out how to use M2Crypto to do triple DES encryption. 
+
+Update: I changed the title, since it didn't occur to me that M2Crypto would be a pre-build Ubuntu package. 
+
+I have a list of variable names, like this: 
+
+Unit tests don't provide a solution to this. One doesn't write unit tests against an API being used. One may have a mock for the class, but the mock could have the same typo or incorrect assumption about the attribute name. 
+
+A friend was "burned" when starting to learn Python, and now sees the language as perhaps fatally flawed. 
+
+Update, responding to the question (in a comment) of why I'd want to do this: 
+
+Has anyone succeeded in doing this? 
+
+How do I convert this to a dictionary where the keys are the variable names (as strings) and the values are the values of the variables?

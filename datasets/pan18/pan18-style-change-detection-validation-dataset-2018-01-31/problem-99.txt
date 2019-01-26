@@ -1,0 +1,27 @@
+Another point is, when minions lines clashes (let's say by example, 6 allied vs 6 enemies) and each battle against each, the hp of all minions will low at same time, and (in theory) all 6 can die at same time. And potencially I will lose 5 minion kills! How do I to avoid this? 
+
+How do I to beat my minions when battling against enemy minion waves? 
+
+I think kind of "chaotic" to detect when last hit the minion because sometimes a lot of friendly minions attacks only one enemy minion, and the hp lowers very fast... Sometimes I think myself challenging my minions about who will last hit the enemy! 
+
+I think Mana Regen items are good in early-mid game and Max Mana items are good for Mid-Late game (because take time for fill the stacks). Am I correct? 
+
+Which kind of items are recommended for mana-hungry AP champions like Kassadin or Karthus? I see builds where the player stacks "Rod of Ages" or "Archangel Staff", that improves Max Mana. Another builds stacks "Athene's Unholy Grail" or "Morellonomicon" for improved Mana Regen. There are some mixed buid too? 
+
+Sad, but only Attack Damage, and Armor Penetration. But another aspects will boost you voidlings: Max Mana, Mana Regen and Cooldown Reduction. If you max these, you will turn Malzahar a Magic Machine (this alone will be a doom for your enemies), and it will maintain 2-3 voidlings in the field at same time! 
+
+I'm learning last hitting minions and get the advices to kill minions under my turret. 
+
+Screenshot from the video @4:43 
+
+This means if you would die as a Tryndamere with Guardian Angel and your Ultimate is available, your ultimate would trigger first - goes on cooldown, gives you fury and GAs passive is still available. This means if you get the Chrono Shift Buff at the right moment (when Undying Rage ends) Tryndamere could technically drop to zero health 3 times before a kill is awarded. 
+
+An official Riot Post on the topic: 
+
+Riot: We want to encourage players to decide these boundaries. Just use your best judgment and we'll take care of the rest! 
+
+Also after the Tribunal changed you do not get IP Boosts anymore but only some Influence Points (IP) are added to your account. 
+
+Another Riot Post about harshness: 
+
+I know it is desired to get the blue buff for Ability Power (AP)-base champions and the red buff for Attack Damage (AD)-base champions and baron buff is good for everybody. I think blue buff at least increases your mana regeneration and red buff your health regeneration. So far I don't have any experience with maps (and therefore its buffs) other than Summoners Rift - I would like to know about these too.

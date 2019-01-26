@@ -1,0 +1,61 @@
+When using the moderation tools, you may find yourself staring at this popup: 
+
+This can be caused by a few things; you might have closed out the flag by clicking on the post and dealing with it directly (rather than via the mod dashboard) or another moderator may have already dismissed the flag. 
+
+The UI seems to be pretty clear on what will happen to each tag. The first is the Master into which the second will be merged (renamed/removed). 
+
+The numbered list button is screwed up beyond belief. Also, what shows up in the editor isn't what shows up in the preview. 
+
+But when I hit Preview Merge, I was told I'm a moron who can't read: 
+
+If no active messages are found on a post, it means the post has already been dealt with by you or another mod, so informing us of this fact (and leaving the post in the list of active flags) is pointless. 
+
+There are a few "automatically protect questions" requests out there, but I'd like to add another twist. 
+
+Edit a question Change a tag Hit tab and type "tags" in the edit summary box Notice that the tag autosearch has stolen back your cursor so you just typed "tags" in the tags textbox Can the tag autosearch please stop stealing my cursor? 
+
+Thinking of ways to make a common task easier for moderators. 
+
+At this point, I shut down my computer and ran away. I think something is wrong here. 
+
+So, I noticed that there is a [visualstudio] tag that should probably be merged into the sponsored [visual-studio] tag. 
+
+I still don't know how to use this UI correctly. Anything I do doesn't seem to work other than in a random fashion. It sucks, and I demand it be fixed immediately. Harumph. 
+
+The mod edits the answer The mod copies all the text from the answer The mod switches back and deletes the answer The mod edits the question The mod pastes the text to the bottom of the question I'd suggest adding an option to the answer to automate this process. A moderator can click a "Merge with Question" link, which automatically deletes the answer and adds it as an edit to the bottom of the question. 
+
+I clicked my happy ** to the Tag Merge page and followed the directions on the screen: 
+
+Anybody else feel that the search box is a bit small? I'd like to see it 1.5x to 2x as big as it currently is. 
+
+Mistakes can be fixed by simply reverting the edit and undeleting the answer. 
+
+How often does this happen to you? 
+
+A moderator has two choices. They can delete the answer and move on, or... 
+
+My question is... Who gives a flying cares if no active messages were found on that post? 
+
+Reason why is that it won't hold a simple search phrase + a couple tags. 
+
+(btw, what is it called? Autosearch isn't right... autocomplete isn't right... tag suggestor??) 
+
+(each appears on a different line in the editor) Select the above and hit the numbered list button and this is what you get: 
+
+I just wanted to add that this issue is really pissing me off today. 
+
+I'm not sure when this ability was lost, but it would be nice to have it back again. Now, you have to open the actual question in order to remove the odd Sheet or Faulk. 
+
+http://cid-f8be9de57b85cc35.skydrive.live.com/self.aspx/Public/sobug.mp4 
+
+I'd like to request that questions that have three or more deleted answers by users with <50 rep be automatically protected. 
+
+The reasoning behind this is that we have lots and lots of "not an answer" flags in the mod queue. But we cannot protect a question from the mod queue, so we have to open each answer, evaluate if the question needs protecting, then protect it. 
+
+The whole UI for closing a question as an exact duplicate is buggy and annoying. Its hard for me to describe the pain and angst I feel every time I vote to close for exact duplicate. Every time I do it I'm going to record a movie and post it in this question. Here's the most recent time I've done it: 
+
+My biggest complaint is that I can't create a list, highlight it, and then click the numbered list. That's how just about everybody creates numbered lists. 
+
+If a moderator tries to dismiss a flag as valid or invalid, and that post has no flag on it, quietly swallow this fact and remove the post from the moderation dashboard. Please don't throw up an orange rectangle, make us click on it, and leave the offending post cluttering up the flag list. 
+
+first second third Not quite the expected behavior. Turns out the only way to do it is to click the numbered list on every single line you wish to be part of the numbered list. This sucks, and should be fixed.

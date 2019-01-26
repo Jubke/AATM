@@ -1,0 +1,37 @@
+He then turns around and rebuts his antagonist's objection to his Platonism with a non-Platonist argument when he says "why should you even say there’s a fact of the matter about whether something is or isn’t provable in ZF". He is rejecting LEM as applied to ZF, saying there are statements S in ZF such that "S is ZF-provable or S is not ZF-provable" is not true. 
+
+For example, in the 1950's, people noticed that our theory of elliptic curves could be considered to be part of complex analysis, and not a separate theory at all. (I believe this follows from a result called The Modularity Theorem.) Accordingly, both theories might actually be articulations of the theory of L-functions. Maybe this is the true nature of the mathematics. L-functions also appear to indicate that the algebra of Galois Theory and the theory of analytic functions in the complex plain are different articulations of the same mathematics. But what makes us so sure that L-functions are the correct view. Maybe they are manifestations of some deeper mathematical truth. Etc.... 
+
+I'm still not sure that your question is clear enough to answer, but I'm willing to give it one more go. 
+
+EDIT There are a number of comments on other answers that show some confusion about the nature of counting. One particular confusion concerns a well known mathematical conjecture called the Continuum Hypothesis. 
+
+Existence is a loaded word, we experience in our everyday lives with the existence of chairs and tables or the colour red. It seems very odd that the same word is used for entities that are unavailable directly to the senses, but at the same time it is 'oddly' appropriate. 
+
+A subsect of this thought are the ultrafinitists who argue that numbers above a certain threshold, perhaps not exactly specifiable are not constructible, and therefore do not exist. In this school the number of primes are actually finite in number, but the actual number is perhaps not precisely specifiable. One could say that in the foundational thinking, as per the ZFC axioms, they deny the axiom of infinity. 
+
+In contemporary continental philosophy, I'm aware that Badiou uses Category Theory in the later development of his thought, though I can't say I understand what he's doing, so I'm not going to say anything about it. However, see 'Logics of Worlds'. The following is a quote from this site: http://theimmeasurableexcess.blogspot.com/2008/07/badiou-and-deleuze-brothers-in.html 
+
+I'm not really sure that there is a question here;or if there is, I'm having trouble finding it; however: 
+
+To be more explicit, the Large Cardinal Axioms extend ZFC by postulating ever higher 'Cardinalities'. "However the observation that large cardinal axioms are linearly ordered by consistency strength is just that, an observation, not a theorem. (Without an accepted definition of large cardinal property, it is not subject to proof in the ordinary sense)...Saharon Shelah has asked, "[i]s there some theorem explaining this, or is our vision just more uniform than we realize?" Woodin, however, deduces this from the Ω-conjecture, the main unsolved problem of his Ω-logic." 
+
+There's a tradition in Philosophy that uses mathematics to characterise physical ontology; starting with the Pythagoreans and continuing with Platos Timaeus; in the contemporary modern world, Physics - what was once Natural Philosophy - describes an aspect of the world - it's physical ontology; and it most definitely uses mathematics - though it's not reducible to it. 
+
+So far we have excluded mathematics which is computable and that which can be modelled as a well-ordered set. 
+
+p = 2n - 1 is prime p' is the first prime larger than 2n - 1 For small values of n, most people would say that both p and p' are known since we can readily compute the value of p'. However, as your example shows, this is not the case for larger values of n. 
+
+This sort of doodling is fun, but unfortunately it does not say anything about the formal, topological view of compactness among the ordinals. 
+
+As I mentioned in my original answer (above), Cantor formalized the concept of counting by defining the ordinal numbers. The Continuum Hypothesis asks, what is the cardinality of the continuum. All cardinalities are defined as certain types of ordinal numbers. The cardinality of the continuum is given by the cardinality of the well-ordered set [0,1] ( = the set of real numbers between 0 and 1). So the continuum hypothesis is absolutely about counting. Is asks how many ordinals do I need to count in order to count the cardinality of the continuum. 
+
+One can say something very specific here; what is not possible must be impossible; and what is not impossible must be possible; thus we have immediately a negation operator! 
+
+(I've labelled this as metaphysics, following Badiou). 
+
+We can then picture two numbers of the same absolute value but of opposite sign put together (i.e. addition) vanishing into the void, and the opposite process of the void separating into two somethings. So we could answer the Greeks, not only is nothing a something, but somethings (in the plural) can dissolve into nothing as well as arise from it. 
+
+From what I understand about Platos theory of Forms, it seems little to do with mathematical concepts, although he uses geometry as an example, for example the form of the Triangle, he also introduces other Forms, such as the Good. It appears that what abstract mathematical entities live are and where they live is not his main concern here. 
+
+In (naive) set theory, the unrestricted use of (the axiom of) comprehension, that is asserting the existence of a set satisfying an arbitrary predicate leads to Russells paradox, (although this was discovered by Zermelo a year before Russell). There were two solutions mooted - conservative & radical, either restrict comprehension so that one cannot formulate the paradox, this is the conservative path taken by Zermelo which ended with the formulation of ZFC which is formalisable as axiom schemas & first-order logic. The radical path is to understand the paradox as an indication that the universe of Sets is too small ( one should compare this with the idea that the set of real numbers is too small - answering the question 'what is the square root of -1' led to complex numbers, an extension of real numbers). In this path, the set of all sets is not a set but a class. That is here there is two types - sets and classes. This is the path taken by Russells theory of Types.

@@ -1,0 +1,53 @@
+There are two reasons for deleting comments that I can see: 
+
+Some of the comments are borderline, but overall the problem is that you're being told something by the community ("Hey, post the code we need to see."), but you haven't responded to them. You haven't provided that code, and to top it off, you're jumping to the conclusion that it must be a problem in .NET. 
+
+Post all relevant code. Assume that Select isn't broken. Be engaged in your post, and when people come up with questions, update your post to answer those questions. 
+
+then it will stay around... for a while. In the long run, all comments are eventually useless, so don't expect to put good information into a comment, it should be in an answer. 
+
+Stack Overflow is not a place for extended discussion, that's why we have chat. If you want to have a discussion, take it there, or take it to meta as appropriate. 
+
+Leaving another comment to point out that I deleted my comment is a bad idea. 
+
+What I said was no longer relevant. I said something embarrassing, incorrect, or not-charitable. Both are well-served by me deleting my comment and getting on with my life. 
+
+If you'd like better comments on your posts, try the following approach: 
+
+Most people would just start screaming at the wall, or, worse, each other. 
+
+I like the idea, but I'm not sure of adding a feature when one that we have could suffice. How about just a post notice that says: 
+
+Anything else I fear is going to require a hard look at our comment system and the tools available to moderate them (which, quite frankly, stink). I really think we should be looking at ways to reduce the amount of work comments create. While your idea would work, I feel very awkward about the ask involved with putting them through /review. 
+
+It would be nice to be able to set a filter that challenges me with annoying math questions if I post a comment, question or answer (selectable) after a certain time of day. 
+
+... parse HTML with INTERCAL .... .... more proper answer goodness .... 
+
+Just try not to feel the need, or at least resist the urge to jab the author of the question for asking a poor question. Remember, leaving a comment to help a new user is supposed to be just that - help, not a whitewashed way to show your dislike for the question that they asked. 
+
+If this sort of thing is too complex to introduce, then we really should find something similar that isn't - I don't want to put additional load on our machine or human resources to deal with comments as a matter of principle - they're just not that important in the grand scheme of things. 
+
+This remains a problem that we want to solve, but the solution I've come up with and those in comments just have too many potential pitfalls. The biggest problem is comment moderation tools aren't that great, and opening them up earlier, or lifting the rep barrier altogether just opens up the door to too much potential abuse. 
+
+For stuff that isn't fun-poking, it should be part of the question if it's going to last. There are some exceptions like "Buyer beware - this answer will produce code that works, but it's dangerous" as a compromise to a disagreement that didn't reach editorial consensus. These, however, are rare enough that they can be treated as exceptions. 
+
+From the Creative Commons FAQ: 
+
+We moderators also know that our edits won't be attributed to us, so if we had a problem with that we could just stop editing comments. 
+
+If a user retaliates with downvotes, let the automatic reversal script deal with it. This catches most revenge voting, and if a user is evading it you can flag for moderator attention and they'll deal with it. You might have to live with a very small amount of downvotes, it is almost impossible to prove bad intentions with only one or two votes, but you are pretty safe from any serious retaliation with downvotes. 
+
+In short, try to comment in a way that is unlikely to be perceived as an attack, and don't be afraid of retaliation by unreasonable users, there are ways to deal with them. 
+
+Moderators can just unlock the post and then they can comment again. 
+
+In cases where the comment is especially offensive, or if the user regularly posts offensive comments you can flag the parent post (not the comment) with a custom flag. The comment flags get dismissed automatically if enough users flag, they don't necessarily arrive at a moderator. Such custom flags are useful to make moderators aware of a pattern of user behaviour. 
+
+If the user starts to respond agressively, just flag the comments if appropriate and walk away, don't engage in a discussion under such circumstances and you'll avoid unnecessary trouble. 
+
+There are very few cases where mods edit comments, in almost all cases deletion is the better option. And if a mod edits a comment, they typically only remove parts of it or replace offensive terms with less problematic ones. Those kind of edits don't really need any protection by the CC license, I wouldn't count them as a proper contribution. 
+
+This is a migrated question that was closed on EL&U, which rejects the migration and locks the post. If there are more than two notices on a post, only the first two are shown. This causes the locked notice to be absent in this case. 
+
+Don't mention that you downvoted, just post a comment pointing out why the answer is wrong without mentioning downvotes at all. Of course the user can guess that it might have been you that downvoted, but you don't have to remind them. Don't attack the user or the answer as a whole (e.g. "this answer is terrible"), just point out the specific problem in a comment.

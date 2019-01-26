@@ -1,0 +1,25 @@
+But they do not give those classified objects more structure or more power, and they cannot capture all the detail of any one of those domains. So in the end, they provide leverage, but no new power. And they do not replace the separate domains. Nor do they give an overall view that would choose one to be best. The equivalent Universal Logic would have the same nature. 
+
+Geometry, for instance, is mathematics because it originates in our functional intuitions about space, but it refines them to the point where we know that the lines and figures we are drawing are not what we are talking about. We are talking about something that idealises those useful experiences into something beyond the real, which leaves no trace on reality. No one can draw the mythical 'straight line', but we all relate to it from our normal view of spatial relations, sighting from one point or the other, seeing 'vented' rays come straight in a window, etc. 
+
+The question is akin to asking whether the word 'definition' has a definition. Of course it does. But if you did not already know what a definition was, how could that one define anything? 
+
+You need a system with a notion of division for infinitesimals to mean something, and generally, also a notion of continuity. If you are not focussed on continuity, the idea that division just blows up at zero does not faze you: you just consider it a function with a hole in its domain of definition. The Differential Calculus is the first place where we worry about smoothly handling functions viewed infinitely closely. 
+
+Important results are, for instance, about whether we can find instances of a graph with one compact description in another network with an unrelated compact description. Applications are to things like computer networking, or telephone line maintenance. The products are not numbers, but sequences of operations like a computer program. 
+
+So if mathematics is based on experience, like other scientific endeavors, we should see the same thing happen there, and we don't. No element of mathematics has undergone such an upset. Even ideas that struck people as insane when they arose, like irrational measures, or multiple infinities, have been cleanly folded into mathematics leaving the original model whole. 
+
+The idea here is that reality, in particular math, as the elaboration of basic intuitive logic, (though it is really just an example) may not be a pure and consistent whole, but it has large consistent pieces that apply in a broad range of domains, as we witness when we actually do it. So only use the large consistent pieces, and retain isolation from the paradoxes. Don't allow your logic to make inferences too close to a paradox, by limiting how the effects of a paradox would 'spread' and contaminate your consistency. 
+
+If something has representations but not instances, it is mathematics. There are instances of accountants, of rabbits, or of love... Or of quarks, if only in terms of a pattern of observed behavior. Bella is an instance and not a representation of a Vampire: she 'exists' in a different way in some Kripkeesque 'world'. 
+
+Numbers usually enter in only after a problem is solved, to compare the efficiency of different solutions. 
+
+An early basic result determines the conditions one must put on a graph in order to draw it in the plane. Geometry is involved in an abstract way, but no measurement. So this is a rather pure example. The only number or measurement relevant to the statement of the problem is "two", and then only as the dimensionality of a plane. 
+
+The best example of mathematics that involves no numbers comes from philosophy. Propositional logic is mathematics. How is it somehow "really" about numbers? 
+
+Like your example of algebra, where there is no universally best choice between Module Theory and K-Theory or between Fields and Groups, logic as a whole is driven by deployment. There can be generalizations that combine or classify logics, as we see links like Galois Theory, etc. where algebras merge or apply to one another. And following those down, it is not hard to see that there could be a single underlying structure that unifies the whole. 
+
+As much as we would like to believe otherwise, logic, like science is descriptive not formative. Science does not tell us what is going on, it captures the information from observations of what tends to go on. Logic is of the same cloth. As in applied science, the best logic is the one for which the intended purpose is as close as possible to the source from which it derives.

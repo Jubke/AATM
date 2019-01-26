@@ -1,0 +1,49 @@
+In other words (example for software area): A lead time is the time between a moment when you have registered an issue and the moment when you have delivered the new version of the software with the issue resolved (new version is deployed/new patch is released/etc): Do you have early and continuous delivery? Yes, you have iterations in your development process, but do you have realisable product after each one? For example: Waterfall model, Iterative model or Spiral model. 
+
+For example: You have 2 User Stories. Them Scopes are approximately equal to each other. But one of them should be implemented on C# and another on C++. Your team have two C++ developers and only one C# developer. So, of course User Story with C# implementation will be more harder for your team and, obviously, it should be estimated with more Story Points. 
+
+But priority based not only by business value. In Scrum Guide is written follow: 
+
+As you can see, it is more complicated than initial story mapping, and looks more like “heavy waterfall” style, than “agile” style. As I understand Agile philosophy, accuracy of estimation of final release date is not high priority, because "responding to change over following a plan". 
+
+Find "verbs" dependencies and put them in a timeline. - i.e. GANT diagram 
+
+This is another quote (Scrum and XP from the Trenches) that sums up all that is written above: 
+
+Ok, you said, that customer can change unfinished features, but can he change requirements to functionality, that you are already implemented? If your working area is software development, then the definition from JIRA golossary may be more understandable for you: 
+
+In this case "model" is just synonym of "methodology" (wikipedia keep articles about this models in "methodologies" section), or "model" is a model for methodology and metamodel for development process (i.e. set of principles on which build methodologies)? 
+
+In case of stories being carried over to future sprints, the Scrum team should not be held responsible for stories which were not part of the sprint backlog to begin with. 
+
+Here is what Roman Pichler has to say on Scrum Alliance, The product owner is required to: 
+
+Wont have items also need to be documented and assigned a status of closed, so that we dont loose sight of those and can be tracked. These items can be those feedback items which are not relevant to the product or are not cost effective to implement at this time. 
+
+100% user story completion vs 100% productivity Think in terms of value delivered vs utilization. Goal of Scrum team should be to maximize output and not maximize utilization. Anything (whether a machine or person) working on 100% capacity for longer duration will eventually break. 
+
+This is a lot of work for a PO which would require undivided attention. For highly aligned and high performance teams, Scrum Master role may need less amount of time but a PO will still have to spend similar amount of time regardless. What Scrum Master should do to avoid situation when Scrum Team didn't reach a goal of event in time? You didn't describe this aspect at all. 
+
+Do you have early and continuous delivery? Yes, you have iterations in your development process, but do you have realisable product after each one? Find "verbs" dependencies and put them in a timeline. - i.e. GANT diagram For example: Waterfall model, Iterative model or Spiral model. 
+
+This process should have facilitator, who will help people to organize themselves in well balanced cross-functional teams. 
+
+As you can see, it is more complicated than initial story mapping, and looks more like “heavy waterfall” style, than “agile” style. As I understand Agile philosophy, accuracy of estimation of final release date is not high priority, because "responding to change over following a plan". In this case "model" is just synonym of "methodology" (wikipedia keep articles about this models in "methodologies" section), or "model" is a model for methodology and metamodel for development process (i.e. set of principles on which build methodologies)? But if you are Product Owner and you have no communication problem with Stakeholders, you may feel free to operate with such kind of requirements representation as you want. 
+
+XP and DevOps are different things. They don't contradict with each other, they can be used together, but they have different base concepts inside them. What is the definition of "development model"? Hours Estimation is absolute measurement. It's very convenient for low level planning. You always have 160 working hours in a month, and the productivity of the team cannot greatly increase or decrease during this short period. 
+
+If your working area is software development, then the definition from JIRA golossary may be more understandable for you: 
+
+This is another quote (Scrum and XP from the Trenches) that sums up all that is written above: 
+
+Ok, you said, that customer can change unfinished features, but can he change requirements to functionality, that you are already implemented? 
+
+By my opinion, you will have much more problems with interactions inside your company, than with tools. It's hard to be agile if your company is not agile. You can try to become a driver of changes in your company, but It is very hard challenge and topic for another question. You can read all other details of this dividing process in the article above. 
+
+Points stories is not for exact measurement, story point is for relative measurement. While we using Story Points, we can talk that this Story is bigger or harder than another Story, but we can't be sure how much exact time we will implement it. 
+
+What does Architectural Spike mean? 
+
+The key word is "prioritized". Team should take in iteration/Sprint only most prior items. And all decision about prioritization is Product Owner's responsibility. 
+
+And yet another article with same content (in case if you don't like JIRA's swimlanes and ASCII graphics): Cycle Time [and Lead Time].

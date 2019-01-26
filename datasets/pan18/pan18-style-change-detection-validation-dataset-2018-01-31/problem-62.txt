@@ -1,0 +1,29 @@
+Here is info on how to tell if a given physical spells convert damage type to physical: 
+
+Here is a semi-official post regarding how this works: Spirit gen - procs a line-nuke fireball dealing 353% weapon damage as fire to all enemies in front of you (1s cooldown) Source: http://diablo.incgamers.com/forums/threads/request-for-elemental-and-skill-clarification.852649/, http://us.battle.net/d3/en/forum/topic/11986398679 
+
+The only fact-based speculation I have seen is in the comments in this Diablo Fans thread. Based on the code changes found for prior similar buffs, the thinking is that this new buff only affects drops from monsters/chests, not Kadala. Here is a thread with additional discussion: http://us.battle.net/d3/en/forum/topic/12285778532 
+
+This is a bug related to the servers being overwhelmed for launch. Community Rep Bashiok says: 
+
+So there is a game design element to it, as well as a nostalgia/traditional element. 
+
+(Hopefully) Final Update: (6/12/12) 
+
+Hopefully this will solve the issue! 
+
+A lot of people are speculating about this on the official forums; no Blizzard post on it yet. Originally there were Scrolls of Identify in the D3 beta, like in Diablo 1 and 2. Last year, Bashiok (D3 community rep) posted some of the reasons for keeping the identification mechanic: This seems reasonable to me, but until more information is out, we don't know. Many people are experiencing related issues. Blizzard is no doubt working first and foremost one ensuring the servers are up and that people can reliably connect, and then secondarily at other issues. I do not have an official source about physical skills, but here are some discussions: On the bright side, the latest patch updated Kadala to at least give you items your class can use. I don't see any reason not to spend all your Blood Shards during the week of this buff, so I'd say go for it. 
+
+Physical skills work a little differently. Some physical skills convert damage to the physical type, some do not, and some only convert some damage to physical. If you have a weapon with elemental damage (e.g. arcane), these skills may still allow the arcane damage to go through. The physical portion of the damage will be affected by the stat "Physical skills deal +XX% damage," and the elemental portion off the damage will be affected by elemental booster/immunity stats, like your friend's amulet. 
+
+It appears that spirit spenders can proc Inner Fire, and cause a Monk "afterimage" to attack any mob on screen, kind of like SSS. Alternatively, it could be Inner Fire proccing off Area Damage effects. 
+
+This thread has some more great information: http://us.battle.net/d3/en/forum/topic/12427543033#7 The Monk has many many abilities that extend beyond melee/touch range. There are a few runed skills (like Hand of Ytar) that behave like fully-ranged abilities, but most of them focus on the mid-range. The Monk excels at quickly closing the gap to monsters, gathering them up, and then beating them down and debuffing them. Normally, using an elemental skill (e.g. arcane) will convert all of the damage from the skill to that element. It will then be modified by stats like "Arcane skills deal 20% more damage." 
+
+Blizzard just released Patch 1.0.2c, which says: For example, Multishot / Full Broadside is listed as a Physical skill, but it actually doesn't have an innate element. As a result when I use it with my Cold damage Windforce its damage is increased by Cold elemental bonuses. 
+
+The scrolls were eventually removed, but the mechanic was kept in the game. Jay Wilson (D3 game director) talked a bit about this change in January, when it was announced: Engulf yourself in flames, causing your attacks to assault enemies for 353% weapon damage as Fire. 
+
+Here are all the Monk skills that reach beyond melee: 
+
+I cannot find any official confirmation that this is true for all physical spells that do not literally say "physical damage" in the tooltip, but it's the most definitive answer I've found so far. The way the spender version works -- when you attack with a non-generator skill [...], several fire-images of your monk will appear at random targets around you and hit it for 353% weapon damage as fire. Physical skills work a little bit differently than Elemental skills. Here is my current understanding of the difference:

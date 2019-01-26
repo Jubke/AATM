@@ -1,0 +1,11 @@
+So how do I fix this and re-enable myself to watch the replays? If you can manage to have some Burrowed infestors behind the enemy as he is moving up (already seen the attack coming and assuming he doesn't have detection) have them on a control group and burrowed and let the enemy pass then pop up from behind and take the key units under your control. If you can't and you fly it away do you receive your money back? I do see this is a very old question. But, here is another, even better, method. If you have all your queens on a single hot key. Then to spawn larve on all your hatcheries all you need to do is hold shift, click V once, then hit your button to cycle through all your bases. The default key for this is backspace. However, I switched that key for me to "tab". 
+
+For example: You have a Barracks connected to a tech lab. You begin Stimpack Research. Can you fly away your barracks and still have the technology researching? 
+
+Recently I have been having issues when trying to play a replay whether it is recent or an old one that I had saved. All replays show up as "Unable to Open Replay" here is a screenshot below: 
+
+Using this method all you need to click is the hotkey, then keep your mouse centered on the screen and click after each tab. You can do this very quickly between a great number of bases. This is way more simple then clicking the hatcheries on the mini-map as this method takes precision to hit such a small target accurately. 
+
+Youtube video on how its done with using the default backspace key. For the first question. I would suggest microing the Infestors to stay in the middle of the pack, possibly selecting the infestors and using the fungals first. Then quickly selecting the other units. I would almost tell you to consider having them all selected (Roaches,Lings, and Infestors) and then fungal growth as your units are moving in. Otherwise you would require a high APM to move those groups almost simultaneously to engage the enemy. 
+
+What units and structures in Starcraft can be repaired? Can allied units from other races be repaired?

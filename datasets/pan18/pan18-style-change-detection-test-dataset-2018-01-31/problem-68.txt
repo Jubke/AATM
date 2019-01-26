@@ -1,0 +1,19 @@
+tl;dr: No, there is no option for this at all. 
+
+Here is a partial list of affixes discovered so far and their properties. What you'll be looking for are boots that are Quick or Nimble. 
+
+Battle tags are unique, but character names are not necessarily. Remember, the battle tag includes the number, so two people can choose the "same" battle tag but will still be differentiated based on the number afterwards. 
+
+Also remember that you can build up Fury just by attacking things like crates. Keep your fury high even without any enemies around so that you're ready to go when you do find something to kill. 
+
+Rifts are mostly randomized. The names, especially, bear absolutely no meaning on the content. 
+
+It would also be nice to know how this limit is picked because I might be able to strategically take advantage of it when determining my max bid to know what someone else might have to bid in order to win the item from me. 
+
+No, there is no strict equivalent of RTS-style "attack move" in Diablo 3. The control scheme in Diablo 3 is tuned for more active combat, where RTS-style games originally had to accommodate the ability to command many, many units. LoL's history, as a game based off a mod for an RTS game, has led it to adopt these RTS style controls which aren't necessarily ideal for an action game where you control a single hero. 
+
+How do Crit Chance and Crit Damage affect DoT skills? 
+
+Some rifts have cows, some have ponies, and some are full of goblins. You got lucky to get one that happened to be full of chests. But there is nothing you can do to influence which rift you get. 
+
+You can bind all movement and actions to keyboard keys. You can bind "Move" to a key, and it will move directly to where your mouse is pointed without requiring clicks.

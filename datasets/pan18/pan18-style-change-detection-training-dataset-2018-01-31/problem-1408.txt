@@ -1,0 +1,81 @@
+The example at http://www.java2s.com gives you some code examples. 
+
+... Eclipse reports the following error: 
+
+This is explained in detail in the Java Language Specification, § 9.2 Interface Members. 
+
+In your case it would look something like: 
+
+From the definition of deprecated: 
+
+A paragraph from the link posted by @Willie summarizes it quite well: 
+
+This post has been rewritten as an article here. 
+
+Source: Java: Removing duplicate white spaces in strings 
+
+That is, a shutdown hook keeps the JVM running until the hook has terminated (returned from the run()-method. 
+
+(1) I realize that such languages sometimes supports things like @tailrec, but this question concerns Java, C# etc. (2) Note that I'm not concerned about CPU overhead etc. Just the stack depth. 
+
+This post has been rewritten as an article here. 
+
+First of all, there are two types of initialization blocks: 
+
+Worrying about stack overflows I tend to avoid recursive solutions if the maximum stack depth is linearly proportional to the size of the input (or worse). I realize however that in many other languages (even ones targeting the JVM such as Scala and Clojure) many algorithms, such as basic list algorithms for instance, are often expressed recursively where the maximum stack depths is proportional to the length of the list.(1) So, are my worries about stack overflows in linear-stack-depth-algorithms justified? 
+
+This code should illustrate the use of them and in which order they are executed: 
+
+The can part: (*) Java itself doesn't support macros. On the other hand, you could pipe the source code through the C pre processor (CPP for short) just like the C/C++ compile chain does. 
+
+To initialize an list with 60 zeros you do: 
+
+Furthermore, it is easy for a compiler/JVM to detect "unread locals". In the program below for instance, Eclipse notices that "The local variable t is never read". 
+
+Most likely no. It will continue to work as before the deprecation. The contract of the API method will not change. If some internal data structure changes in favor of a new, better method, there could be a performance impact, but it's quite unlikely. 
+
+I'd love your help with this following problem: 
+
+Method2 afcourse uses this.String1 but in order to use this Method1 you need to be from this new class type. 
+
+For example: If first=1, last=3 and K=2, so the result will be {1,2},{1,3},{2,3}. 
+
+I hope it's clear and Thank you. 
+
+I need isPrivateNetwork to use getOctet. isPrivareNetwork will do things according to a result that is get by using getOctet on a string (string1.getOctet) after we set string1 to be IPAddressString type. the string that I use through writing the class is a string type and not a IPAddressString type obivously. Is it more clear? 
+
+the first method that I wrote, let's call it Method1 gets int, and doing some actions to this.String1 and returns an int as well. 
+
+Now, I'm trying to Implement Method2 and I need to use Method1 in order to get what I want. 
+
+The class using a string for the implemetion, I mean that it's only private value is a string. Let's call it String1 
+
+I'm currently leaning towards hardcoding Cp1252 - that should cover the target machines (the deployment environment is actually specified) and would fix the test problem. From googling around, Excel does not seem to handle UTF-8 well, so that's out, and sticking to the platform default encoding would require some sort of workaround hack for the tests. 
+
+In many cases, a database join is several orders of magnitude faster than anything done via the client, because it avoids DB roundtrips, and the DB can use indexes to perform the join. 
+
+There is no significant load on the CPU when this happens, and I've seen it stay in this state for an hour or more, though it seems to break out of this state eventually. There doesn't seem to be a pattern to which projects it happens to. The hardware is brand new, and I have run a memtest with no problems. 
+
+The Java idiom for function-pointer-like functionality is an an anonymous class implementing an interface, e.g. 
+
+Not quite true, since JSF can use JSPs for its view (and had to, prior to JSF 2). However, JSF apps using Facelets can be seen as a replacement for JSP-based technologies. 
+
+The class using a string for the implemetion, I mean that it's only private value is a string. Let's call it String1 
+
+Now I want to use this utility for another method within the same class. 
+
+the first method that I wrote, let's call it Method1 gets int, and doing some actions to this.String1 and returns an int as well. 
+
+For example: If first=1, last=3 and K=2, so the result will be {1,2},{1,3},{2,3}. 
+
+I need isPrivateNetwork to use getOctet. isPrivareNetwork will do things according to a result that is get by using getOctet on a string (string1.getOctet) after we set string1 to be IPAddressString type. the string that I use through writing the class is a string type and not a IPAddressString type obivously. Is it more clear? 
+
+Method2 afcourse uses this.String1 but in order to use this Method1 you need to be from this new class type. 
+
+I'd love your help with this following problem: 
+
+I hope it's clear and Thank you. 
+
+I wrote a class that implements some kind of method providing specific service to the specific values that will be from this kind of class that I wrote. 
+
+I want to write in Java a method that will gets three values: first, last and K, so and creates all the sub-sets of size L of numbers within the bounded interval [first,last],

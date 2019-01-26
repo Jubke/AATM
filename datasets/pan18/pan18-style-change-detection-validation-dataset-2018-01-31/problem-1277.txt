@@ -1,0 +1,17 @@
+For example, the notion of allophones (sounds that have a different form, possibly different occurrence contexts, but make no difference in meaning) is similar to the one of lexical synonyms (two words that hava a different form but the same meaning, even though they may belong to e.g. different registers) and the one of syntactic paraphrases (two expressions that have a different form but the same meaning, not excluding the possibility that one may be preferred over the other, as long as they contribute to the same meaning). Or the difference between a phone (a sound in terms of its physical properties, e.g. [ʁ] or [z]) and a phoneme (an abstraction over phones which occur in the same contexts, e.g. /ʁ/ with allophones [ʁ], [ʀ] and [r] in German) is similar to the difference between a word form (like sleep, sleeps, slept) and its lemma (an abstraction over all forma a word may take, sleep), and possibly even the semantic notion of extension (the referential meaning of an expression with respect to a certain utterance situation) vs. intension (an abstraction over all references an expression may denote, the "idea" that is behind an expression rather than its look in a concrete use). Or the distinction between predicates (love(x,y), red(x), man(x)) and operators (∧, → , ∃, ...) in semantics corresponds (sometimes) to the difference between lexical categories (nouns, verbs, adjectives) and functional categories (D, C, I, ...) in syntax. Or, to quote The free dictionary1: "for example, the hierarchical sequence of such types of phonic units as the distinctive feature, the phoneme, the syllable, and the phonological word is structurally analogous to the sequence of such semantic units as the seme, the sememe, the onomateme, and the sentence." 
+
+Now when disambiguating the English word or, we could make the following semantic disambiguation: 
+
+Grammar is a very broad term that can roughly be described as 
+
+Long version: I think the question is a good one and admit I can't give a ready-to-go definition of what "generative grammar" subsumes, but I have a feeling there is some on-going misconception about what "generative" means which I want to clarify because I think this is the most important part of understanding the problem: 
+
+If it's not about the rather vague notions like positive or negative but simply negating its meaning1 by using not or un- like in the examples you gave, this can semantically be captured conciselier, e.g. by truth conditions, and is then simply called negation. The linguistic means that are used to express negation can be negation affixes (such as un-), negation particles (such as not) or, less common across the languages of the world, e.g. a negation verb (such as ei in Finnish and Estonian). 
+
+Reference: Clark J. and Yallop, C. 1995. An Introduction to Phonetics and Phonology. Oxford: Blackwell Publishing. 
+
+1 What I find the most interesting feature about this language is that 
+
+exclusive or inclusive or When translating the English sentence to French, this distinction is irrelevant: Since French doesn't lexically realize the difference between inclusive vs. exclusive or either, we don't need to make the distinction in the first place, as both sense will result in the same translation (ou). 
+
+1 and let's also ignore the rather unplausible third reading where we have a yes-no question but with an exclusive or, to which a valid answer would "yes" if the adressee eats either fish or meat, but not both

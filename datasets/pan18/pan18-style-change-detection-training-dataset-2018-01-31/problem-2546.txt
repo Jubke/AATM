@@ -1,0 +1,21 @@
+Studying Japanese is a great way to become familiar with the concept of a mora. As the section on Japanese in the Wikipedia article mentions, most hiragana symbols correspond to a single mora (an exception is when one symbol is followed by one of the "little" gliding kana ゃ,　ゅ and　ょ--in this case the two symbols together correspond to a single mora), so that Nippon, which is written with the four hiragana symbols にっぽん, contains four morae. Basically, because the hiragana system gives syllable-final consonants their own symbols (ん for a syllable-final nasal and っ for a geminate consonant that anticipates the initial consonant of a following syllable) but syllable-initial consonants are just encoded as part of a CV syllable represented by a single symbol (な for na,　か for ka, etc.), the writing system encodes an asymmetry that is quite common cross-linguistically: nuclear vowels and coda consonants contribute to syllable weight in Japanese but not onset consonants. So na, a, and ka are "light"/monomoraic syllables, and nai, an, kan, and kat (as in the geminated katta) are "heavy"/bimoraic syllables. (At the risk of stretching the analogy too far, onset consonants, when they are present, are kind of like pets that are riding in the car. They don't get counted as people entering the tunnel!) 
+
+Generally, each presumed level in the prosodic hierarchy is motivated by the observation that certain phonological processes (some may be prosodic in nature and others may be segmental) are associated with that constituent. For example, in standard Japanese there is a prosodic constituent called the accentual phrase, in which only one accented syllable may occur. If multiple words that are lexically accented are combined into a single accentual phrase, all but one of the accents gets deleted. 
+
+I'm not sure what aspect of the Wikipedia explanation you find unclear, but here's an analogy: 
+
+This happens a lot in neutralizations and mergers. In languages with word-final devoicing, for example, maybe /d/ is realized as [t] word-finally but as [d] elsewhere. But /t/ would also be realized as [t] word-finally. If one encounters a [t] at the end of a word, one cannot be sure without additional information whether it is a realization of /t/ or /d/. 
+
+Often-cited references for the prosodic hierarchy include those by Selkirk, Pierrehumbert and Beckman, and Hayes. I'm not sure how technical you want to get, but if you search for "prosodic hierarchy" online, you'll find links to online course materials that are relevant for your question. 
+
+[w] (from /w/) found elsewhere (and perhaps also at the end of a syllable?) 
+
+Vowels + All Sonorants (Lithuanian, Tiv) 
+
+Here is a (non-exhaustive) list of levels in the hierarchy: 
+
+[w] (from /l/) found at the end of a syllable, but not found elsewhere 
+
+All Segments (Latin, Arabic dialects, Aklan, Koya, Imdlawn Tashlhiyt Berber) 
+
+In your example, [w] is probably an allophone of some phoneme that can sometimes be realized as [w] and sometimes [l] (in some sense the "naming" of phonemes is arbitrary, but I'd probably call it /l/ since that seems to be the clear "elsewhere" realization) and [w] is probably also an allophone of a different phoneme (one that I would call /w/).

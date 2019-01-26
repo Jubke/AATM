@@ -1,0 +1,51 @@
+Long answer: They both do the same damage, have the same cooldown, and benefit from the Zerg range upgrades in the same way. 
+
+In the other question you linked, you will note that there is a discernible drop-off in your gain per worker that occurs once you have more than 16 workers on minerals and 2 on a geyser. This means you can have 20 workers on a base before you start seeing diminishing returns. 
+
+Headbutts units. Attacks ground units, damages multiple units simultaneously. 
+
+Now, if they wait until they have 6 roaches: 
+
+Flies. Locks down structures by covering them in slime. Attacks ground and air units. 
+
+If at this point you see 4 roaches on your doorstep, you'll have 3 marauders complete (assuming a rush takes 23 seconds from when their 4th roach came out). 
+
+Statistically-speaking, the roaches will win without stim. If you researched stim, it'll be very close. If you had a bunker, you'd be fine. 
+
+No, the rule of thumb about spawning opposite your opponent does not apply in all cases. 
+
+Beyond that, the game should let you log in as a guest, log out, and log back in as a guest without having to log in. I just tested this with my laptop on a fresh install of the game. It gave the error until I logged in the first time. Then, I disabled wifi access and was able to log in several times as a guest. 
+
+This list will cover all match-ups. In 2v2 or greater, you can assume that your team always spawns clumped up together. However, on maps I mark as random, such team games will have your clump spawning in different locations each time unless I mention otherwise. 
+
+Spits acid to attack and explodes when it dies. Attacks ground units. 
+
+Leaps walls. Attacks ground units. 
+
+If you detect the roach warren early enough, you can immediately throw a tech lab up (25 seconds) on your Barracks and build one marauder (30 seconds) in the same amount of time it takes the Zerg player to build their Roach Warren (55 seconds). 
+
+Some maps have what are called 'linked enemy teams' designated in the settings. In these maps, your opponents spawn in a predictable fashion. You can find this information by opening a map in the map editor and going to Map > Team Placement (Advanced). 
+
+As to whether or not its a liability, it depends on whether or not you extend your defensive perimeter to include your expansion bases. 
+
+He's referring to the fact that you've placed a few supply depots and a rax right at your main base entrance. It's a vulnerability because it's 16 supply and a production building that is much easier to snipe than the rest of your supply and production buildings. In essence, you've given your opponent what Day[9] considers to be some free buildings to destroy. 
+
+There's actually 5 units. I pulled the screenshots from sc2armory.com and gamereplays.org. 
+
+You have to log in at least once before you can play offline. Trying to log in without an internet connection causes it to look for a profile that it can load. If it finds one, it will let you play offline with the caveat that achievements are disabled. If it cannot find a profile, you'll get the error you describe about authorizing the game client. You'll need to get internet access to create the profile before you can play with it offline. 
+
+Long answer: Let's assume you detected the Roach Warren 10 seconds after it went up. 
+
+A caveat: The game requires you to log in once ever 30 days to re-verify the game to ensure you're not sharing the key with other people. This has been confirmed by Blizzard. 
+
+This is best addressed by example: 
+
+Attempts to pull units with its ranged tentacles. Attacks ground units. 
+
+Short answer: There is no difference except for range and animation. 
+
+Keeping 20 at each base after expansion also helps you avoid the problem of having many workers bunching up on only a few remaining mineral nodes, especially if you're bad at catching this and transferring workers. 
+
+Regarding Left 2 Die, the more difficult settings do not learn between play-throughs. If you employ the same strategy in one session on Brutal, it will get you just as far in another play session as well. 
+
+The mineral mining article on the Team Liquid wiki goes into detail about workers and mining minerals. For some quick information about the maximum number of workers that makes sense, check out their article on resources.

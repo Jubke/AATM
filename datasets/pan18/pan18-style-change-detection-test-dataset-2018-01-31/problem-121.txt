@@ -1,0 +1,29 @@
+Source: http://www.iguanadons.net/Unofficial%20Skyrim%20Patch%20Version%20History.html 
+
+Raise Zombie - 0 - Reanimate a weak dead body to fight for you for 60 seconds Reanimate Corpse - 25 - Reanimate a more powerful dead body to fight for you for 60 seconds Revenant - 50 - Reanimate a powerful dead body to fight for you for 60 seconds Dread Zombie - 75 - Reanimate a very powerful dead body to fight for you for 60 seconds Dead Thrall - 100 - Reanimate a dead body permanently to fight for you 
+
+Hybrids Invincible Ebony Horse Armor for Skyrim and Hybrids Invincible Dwarven Horse Armor for Skyrim 
+
+I use BOSS and Wrye Bash (AKA Wrye Smash). I still use Skyrim v1.4.21.0.4 as I am still waiting for BOSS and Wrye Bash to be updated to support the new text-file based load ordering scheme, before updating. Edit: I am now using Skyrim version 1.5.26.0.5 and the issue still persists. 
+
+This happened after I told Talvas to part ways with me (leave as a follower), and when I visited him at the Tel Mithryn Tower. I'm pretty sure that it's been more than 48 hours (so his merchant inventory should have reset by now), and I also don't recall buying out all his items (so he still should have a few items in his inventory). I have previously hired Talvas as a follower and remember viewing his non-empty merchant inventory before. 
+
+Screenshot of the Aspect of Peryite trying to initiate conversation in Windhelm: (It's basically these two screenshots repeating over and over again.) 
+
+The notes of the "Talvas Fathryon" UESP wiki article state that: "if you hire Talvas as your steward, his trade inventory will become inaccessible". However, I have not hired him as a steward. 
+
+How do I make Talvas sell stuff again? 
+
+Superduper game breaking spoiler about console commands: tcl inside a shop's cell, there's always a chest with the shops inventory under the floor you can take from. That's how Bethesda makes shops work and why pickpocketing the gold back does not effect the shop. Obviously world-event shops don't work this way. IIRC it was like this in Oblivion as well. ALSO: when it says Do Not Delete, do not... take that chest. Badbadbadbad. 
+
+How many times does Chain Lightning 'leap' to a new target? Will increasing the Destruction skill or getting certain Destruction skill perks increase the number of Chain Lightning's 'leaps'? 
+
+From the Unofficial Elder Scrolls Pages wiki, "The Eye of Magnus" article (important parts emphasized by me): 
+
+The Dawnguard DLC adds the Aetherial Crown to the game. It is one of the three possible rewards for the 'Lost to the Ages' quest: 
+
+The following are safe locations for storage (from the UESP Wiki): 
+
+The ff. are safe containers for storage: 
+
+Mod description, from its webpage:

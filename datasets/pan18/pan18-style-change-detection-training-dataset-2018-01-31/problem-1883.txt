@@ -1,0 +1,33 @@
+The key terms here are "local" and "hidden variable". "hidden variable" was already explained above. "local" theory means any theory that precludes instantaneous interaction at a distance. 
+
+See Karl Popper's concept of Falsification: We can never prove a theory definitively, on we can only say that it hasn't been falsified yet. 
+
+But then per Kuhn's "puzzle solving" criteria, aren't Creationism and Lysenkoism just science as it proceeds in the normal phase? In both cases, a theory has already been accepted ("Lamarckan heritability", and "that world was intelligently designed"), and its practitioners were simply trying to solve the puzzle of how to fit the data to the theory. 
+
+One would assume that no matter how neutral an investigator tried to be, her theoretical presuppositions are informed by her values and the ethical system she operates within. It would become impossible not just to draw the boundary between science and metaphysics, but between science and axiology (the study of values and ethics) as well. The is/ought problem is turned on its head because no matter how hard one tries, they are always influenced by their "oughts". 
+
+I always assumed that Logical Positivism and reductionism went hand in hand, and that refutations of LP automatically made the case for reductionism weaker. 
+
+You want look up immaterialism and subjective idealism, most famously defended by Berkeley: 
+
+Per those who claim that science can't answer all questions, what type of question are they talking about? Do they have a demarcation criteria for such questions? (I'm not asking for examples, there are already plenty in the links I posted above). 
+
+Am I not talking about the demarcation problem per-se (at I least I think I am not), because even disciplines which are agreed upon as failing various demarcation criteria (such as astrology or intelligent design) are still trying (and failing) to be scientific in the sense I mentioned above. If they did start to provide answers, science would have to take them into account. Moreover, various philosophical schools of ethics are trying to be scientific in their explanatory framework, they are just not able to provide verifiable and falsifiable statements to prove their precepts (and probably would do so if possible). 
+
+The Philosophy Stack Exchange and other humanities SE's are obviously more subjective and hence more susceptible to opinion/consensus biases. But ideally, we are dealing with philosophy (and other fields) as academic disciplines for which a certain amount of objectivity is possible. It is my experience that objective questions (Such as "Is Derrida considered an analytic philosopher?") tend to result in objective answers ("No, he isn't"). The onus in Stack Exchanges like the philosophy SE is really on the askers to ask the right questions, more so than on the users to upvote the right answers. 
+
+In philosophy of science on the other hand, the demarcation problem (how to tell science from pseudo science) is still an open question. Although there is a general consensus among the scientific community that topics like Intelligent Design or Astrology are definitely pseudo-science, there is no accepted demarcation criteria and those that have been proposed are all either too strong or too weak. String theory for example notoriously fails certain demarcation criteria. There are also border cases with practical relevance, such as alternative medicines (Acupuncture, Herbal treatments,...), or psychoanalysis and psychotherapy. 
+
+On the other hand Gödel himself was a member of the Vienna Circle, and was surely sympathetic to the logical positivist's views. They couldn't have just ignored him. 
+
+But then if a field of inquiry is able to provide accurate, objective and useful information regarding a question, doesn't that field simply become part of science? 
+
+In a lecture on philosophy of science I recently listened to, it was stated that Quine was the one who decisively refuted the logical positivist program. I've also read that Quine and Popper were significant challengers, but that it was Kuhn who effectively ended the logical positivist movement. 
+
+What is exactly the relationship between the scientific method and the demarcation problem? My understanding is that Feyerabend (and maybe Kuhn) questioned the existence of a fixed scientific method at all given the unresolved issues with demarcation? 
+
+Compatibilism is the position that determinism and freewill are compatible, but only because we have to change the definition of freewill. Freewill is not the ability to choose among multiple possible courses of action, it is instead the ability to act freely according to one's own motivations. Once we have refined our definition of freewill, then causal determinism and freewill are compatible, hence the name of this position. Agents are not able to start new causal chains, but they still have freewill because they have agency. 
+
+See also the noumenon/phenomenon distinction. 
+
+I don't know whether theses institutes have an explicit stance on the demarcation problem, and whether they use explicit definitions of what is science and what isn't. They do however exert significant control of how public funds are used for research and as such indirectly control what is considered legitimate research and what isn't, thereby defining what are considered legitimate scientific questions and what aren't. I doubt for example that the NSF will ever accept a research grant proposal for telekinesis research or creationist mathematical simulations, nor would the NIH accept a request for funding of Qi based healing research.

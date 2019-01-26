@@ -1,0 +1,27 @@
+The entry on Gödels Incompletenss theorem in Wikipedia says: 
+
+it remains only a propositional language:no generalisation of a predicate form of this logic has been found. 
+
+'What is a structure, then, for Husserl, and 'in general'? The broadest definition is that a structure is an abstract model of organisation including a set of elements and the law of their composition...What stands out in a structure is that the relationships between the elements are more important than the intrinsic qualities of each element'. 
+
+The lattice is non-classical because there are measurements we can make that cannot be done simultaneously. This is the content of Heisenbergs Uncertainty principle. 
+
+Existence is a loaded word, we experience in our everyday lives with the existence of chairs and tables or the colour red. It seems very odd that the same word is used for entities that are unavailable directly to the senses, but at the same time it is 'oddly' appropriate. 
+
+Its worth pointing out, given the eye-catching, media and science-fiction friendly parallel world vista of Everetts that a different and much less well known intepretation, Bohmian Mechanics also retrieves realism and determinism by allowing non-locality - that is faster-than-light signalling. 
+
+Euclid's definition of a line is really two pieces. The first doesn't care about how it maps to the real world, so he could have said 
+
+This is mathematics! We can define anything we bloody well want! A FribbleMoose may be a neat definition to work with. However, it is him electing to call it a "straight line" that suggests that this mathematical definition may have real life implications. This implication is not material to the definition. If it turned out that all of society agreed that Euclid's wording was a poor one, it would at least still have at least as much meaning as a FribbleMoose had, although people may complain about his deceitful naming scheme. 
+
+What you ask for is a bit tricky because you are using an informal concept to describe variables, rather than the very exacting formal definition of what 'x' really means. In general, informal concepts tend to run into trouble when you try to take the opposite of them, because they weren't sufficiently rigorously defined to survive such a treatment. 
+
+Now I mention cheating. You mentioned alternate topologies on which we may define a "straight line" to have behaviors different from Euclid's. This is just a linguistic issue. If Euclid had called it a FribbleMoose, we'd probably invent a new term for the concept in other topologies. But "straight line" still has an intuitive appeal." 
+
+I’m not sure if any of this will be of any help to you, but hopefully it will help clarify some of the terms. 
+
+The notion of compactification you describe in your question is strongly Euclidean and so does not readily apply to the ordinals in general. However, because it is tempting to view the ordinals as a line in the plane, there are number of nifty pictorial representations of infinite ordinals, drawn in a compact region of the Euclidean plane. Here is one I found via google images of the limit ordinal ωω as a spiral : 
+
+So far we have excluded mathematics which is computable and that which can be modelled as a well-ordered set. 
+
+Plato's ideal world must stand or fall on its own. In this regard, one has to say that it appears to fall. I'm sure the Stanford arguments referred to in your comments do a perfectly good job of rejecting Plato's ideal world.

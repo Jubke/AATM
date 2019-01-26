@@ -1,0 +1,15 @@
+As a beginner it is not bad to play as the decisions are easier. 
+
+NOT hands you play short stacked. If they show you a card that makes no sense with that ace then they are just plain stupid or they were playing a wild hand and want a call. It is much different than a card you happened to see - it is a card they wanted you to see. 
+
+It is not strictly illegal. There is online poker in New Jersey and it has generated a lot of tax revenue. I think same in LA and Nevada. You must be a resident of the state. 
+
+IANAL but gambling has to be legal in your state and the state gambling commission must approve online gambling. Gambling across state lines is an interstate commerce thing. 
+
+Pre TT is a good hand I wold not limp open. It is not a good enough hand to slow play. You need to fold out hands like ace rag, KQ, KJ and QJ. Come in for like 3 BB or your standard open raise. 
+
+it does not match the combinations number of 2 card combinations = combin(52,2) = 1326 number of way to take three hands = combin(1326, 3) = 387,700,300 number pairs for each rank = combin(4,2) = 6 number of rank = 13 6 x 13 = 78 number of combin(78,3) = 76076 76076 / 387,700,300 = 0.000196224 = 5097 : 1 Not hitting twice in a row 44.44% Card Rank Rank is Ace through 2. Ace highest and 2 lowest. Confusing that cards and hands both use the term rank. 
+
+If you are playing a home game you can run the board multiple time to reduce variance. 6 Three of a kind A♠A♣A♥T♣8♠ Three cards of the same rank. Odds: 46.3 : 1 Announced: X trip or X set or Three of kind X 
+
+Odds Number of hands to play so get the hand. The :1 counts. So 99:1 is 1 in 100 hands. These odds are based on 5 random cards (not best 5 of 7). I like these more in a tournament as you can put your money is situations where you are pretty sure you are ahead. Daniel Negreanu plays these type of hands. A weak home game that does not raise much pre misses even seeing straight draws then very playable.

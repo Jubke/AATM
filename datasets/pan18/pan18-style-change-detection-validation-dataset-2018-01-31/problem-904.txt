@@ -1,0 +1,27 @@
+I suppose your two trends are broadly correct (not counting the reactionary atheists who had a really bad experience with some religion and almost seem to be disbelieving in God in order to punish him). 
+
+And the difference in these percentages gives us a quantitative measure of just how bad it was to use argument from authority instead of a proper proof. 
+
+At some point, saying that the behavior is determined (but by nothing that we can measure, and even with a proof that there is (probably) not anything local we could measure) starts to be unwieldy. It's not a useful description of how the world operates. After all, we say that dice are "random" when we know perfectly well that classical mechanics tell us all we need to know to calculate how dice will land given initial conditions; it's just so complicated that we never bother. Likewise, if the polarization of photons really is deterministic, it's almost impossible to imagine that it matters. Hence, the sensible scientific conclusion is that some quantum mechanical processes are random (unlike dice, we cannot determine how they will go, have no leads on finding out, and have good evidence that our normal methods will fail). 
+
+I'm not aware of anything that's accepted that is exactly what you want, but I will note that Bayesian reasoning is a framework that is great at modeling exactly what you want. 
+
+Anyway, your answer was essentially correct. 
+
+The nesting is important. This is easiest to see with the following scenarios: 
+
+In order to have a coherent discussion about quantum mechanics, it helps to have a pretty good understanding of quantum mechanics. I think you're unintentionally mischaracterizing the arguments for non-determinism in quantum mechanics. 
+
+Now, our radically unlikely hypothesis looks like so: 
+
+But I think you mischaracterize historical-skeptic arguments that can be found in many places including the writings of Sam Harris and Richard Dawkins. These at their core go something like this (my summary, not a real quote): 
+
+Language does not always give you a convenient form in which to state your logical formulas. In English, the preferred form would be "It is not the case that I ride or drive every day." (You need all of "It is ... the case that" to make it clear that the "not" is modifying everything else you're saying--it serves, by virtue of length and custom, the same role as the parentheses. Note that there are not very many levels of parentheses that you can effectively convey in English prose this way--this is one reason why people use mathematical notation for logic. But here, it suffices. Merely, "I do not ride or drive every day" may also work, but it could also be parsed as "I do not ride every day and I do not drive every day", which is a different statement.) 
+
+Let's evaluate each of the terms on the right. 
+
+Anyway, there are plenty of treatises from various people (Daniel Dennett comes to mind), but I don't think you've fully grasped even, say, Dawkins' arguments. If you say 
+
+This brings us to the Dawkins/Harris-style application-of-science arguments, which go something like so (again, not a real quote): 
+
+Let's take one of very many weird results in quantum mechanics. You have polarized sunglasses, right? What happens with polarization is that a photon has one of two polarizations which are at 90 degrees to each other; if it is aligned with the sunglasses it can pass through, but if it is aligned at right angles, it can't. If you line up two pairs of sunglasses, it's only as effective as one: the photons that were aligned with the first pair are still aligned and pass through both. Now suppose you play a nasty trick on your photons: you rotate your second pair of sunglasses by 45 degrees. Guess what happens? Half the photons go through. Half of them are aligned with the new sunglasses, and half are at right angles. It's like the sunglasses made the photon choose: did you really secretly want to be 45 degrees to the left, or 45 degrees to the right, when you said you were vertical before? And you can do this over and over and over and over. If you have vertical sunglasses, then 45 degrees, then vertical again, the photon doesn't remember anything about its first "choice"; maybe it was a "vertical, then 45 degree, then 90 degree" photon, or maybe it was a "vertical, then 45, then vertical again" photon.

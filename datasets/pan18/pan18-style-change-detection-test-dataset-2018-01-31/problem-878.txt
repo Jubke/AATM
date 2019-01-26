@@ -1,0 +1,29 @@
+From a genetic point of view focussed on group psychology, humans are not evolved to deal directly with nature. They are evolved to live in groups of people that selectively isolate them from nature. http://apa.org/science/about/psa/2011/11/human-evolution.aspx 
+
+As an extreme case consider topology. The easiest form of topology to describe is graph theory. This discipline is largely about how complex connections between things can be, and still have relatively simple descriptions. The ordinary representation of a graph is a set of points that can be moved around arbitrarily, and lines connecting some of them to one another. 
+
+If you think many of these 'phantasies' constitute a shared factor in human experience, then they must reflect the composite intuition humans have developed to approach measurement and combination. In that case, they are not completely formal, but are based on something real. 
+
+Its originator was a good mathematician, but not very gifted philosopher, and expressed his intention very poorly. So very few people grasp the approach as an alternative view of mathematics, and instead see it as a precursor to constructivism, or a weird experiment in alternative logic. 
+
+Possibility is not 'simply qualitative' or binary. We do consider things to be a 'distinct' or a 'minimal' possibility, or to be 'just barely' possible (or red, for that matter). So possibility has a degree. Qualities with degree are, then, quantities with a variable, subjective basis, and the distinction is compromised, and therefore generally not useful. 
+
+There is a range of positions between Platonism and formalism that we generally choose to ignore. To my mind, intuitionism is the most promising among them. 
+
+From an intuitionist point of view, math is the study of human idealizations. And there is no good reason to be surprised that we would, given millions of years of trial and error, evolve a really strong intuition that would allow us to understand a lot of the natural world. Nor that once we had language and adequate time to dwell inwards that we should not be able to unwind those intuitions into precise language forms over thousands of years. 
+
+This involves abandoning various aspects of classical logic, and which aspects you choose becomes a very interesting question, but one that is hard to find agreement upon. (After all, it involves violating a strong and appealing intuitive system in favor of choosing which intuitions we should apply where. The obvious answer, that all intuitions should apply everywhere, failed, and, as you note, that leaves us kind of at sea.) 
+
+Since the argument assumes the soundness of the system under consideration (in the formal version the assumption of soundness is captured by LRP), it establishes a link between provability and truth (and, if I am right to think that the double turnstile is to be read is model-theoretic truth, it establishes a link between provability and model-theoretic truth). Furthermore, the arithmetical machinery at work in the proofs makes explicit appeal to the standard model of S, namely . It then relies on the familiar analysis of truth simpliciter as truth in . So, "is true" in the first argument above can be cashed out as "is true in " and that seems to pretty explicitly invoke model theory. 
+
+b) It is not true of every axiomatic system, or at least we do not have proofs of categoricity for every axiomatic system. Some tend to view categoricity as crucial for a proper axiomatization of non-algebraic theories like PA. It's hard to see whether algebraic theories should be categorical, though. 
+
+We have various proofs demonstrating the truth of the Gödel sentence. I'll present an argument given here. 
+
+is a theorem, and substituting P^-P in for A and Q^-Q for B, you still get another theorem (if you can read through all the parentheses): 
+
+The distinction that Fresnel is trying to draw is not clear. I take it that he means that a method is a clever general way of doing a great many things with little thought versus an idea which is a clever specific idea for a very specific difficult problem (that probably doesn't generalize). If that is the appropriate interpretation of Fresnel's statement, then I disagree with Fresnel; the examples in La Geometrie, may or may not be specific instances of the application of the genera method (I vaguely remember those instances only tangentially being an application of analytic geometry, that is they each had their own idiosyncratic problems and solutions). But even where the distinction works, I think the 'method' is the revolutionary thing rather than the specific solutions to the specfic problems in La Géométrie. 
+
+is a theorem of propositional logic (where F is false), so that anything that evaluates always to false will also be a theorem. 
+
+Carvalho says Cantor is 'confusing numbers with their mere signs'. I think Carvalho is misunderstanding how labeling of mathematical objects works; he is confounding the proof of cardinality with the construction of the objects at hand. The ordinal nature of the naturals (and the evens) is irrelevant to the proof.

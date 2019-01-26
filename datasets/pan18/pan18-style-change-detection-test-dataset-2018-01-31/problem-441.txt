@@ -1,0 +1,39 @@
+In the future, we may also use this information to feed a re-open review queue. 
+
+In just the past day, 80 questions network-wide have been closed in response to confirmation from the asker; edits by askers are up significantly as well. 
+
+If at least ⅔rds of those present vote for removal, this shall be considered a consensus, and recorded in the minutes as the opinion of the moderator team. 
+
+This is essentially chat's charter, both the reason for its existence and the hope for what it would become. Over the years, folks have used a lot of different metaphors to describe chat: the watercooler (informal work conversations), the tavern (socialization after work), etc. These metaphors work, to a degree... But they also leak when stretched too far: you can't have 20 people all gathered around one jug of water, and rarely does anyone talk to everyone crowded into their local inn, much less expect them to listen and respond constructively. Yet, these scenarios are common in chat. And these forms of social interaction are the source of the problems described above, which cannot easily be resolved with fanciful comparisons to physical gathering-places. 
+
+So let me be clear: this sort of response is not an answer. If you see this, flag it. Moderators, if you see it flagged, delete it. There's really only one valid exception to this rule, and that's when the question is: 
+
+Is this sort of forced introspection even needed anymore? A lot has changed in the past three years. There are more review queues, more opportunities to identify and tools to address problems, better exposure of meta discussions, and better up-front vetting for site creation itself. Custom off-topic reasons promote discussion and resolution on the questions themselves, and stats offer experienced members a bird's eye view of problems as they develop. And there's a new process for graduation and hopefully clearer criteria for site closures, hopefully reducing the fear and doubt that so often led to the site-stats fixation in the past... 
+
+The big takeaways from that discussion were: 
+
+If they click "Ok", the question is instantly closed: 
+
+Be careful what you ask for... The last time we had to step in and help moderate Physics.SE (as in, daily flag-handling, support, etc.) we ended up having to suspend one of the folks on your list because he wouldn't stop harassing people on the site. 
+
+Oh, it was a nice enough idea in theory: give folks a chance to welcome new users to the site, without the heavy constraints that folks complained about with Low Quality review. 
+
+Answers & Apples If you're still confused, forget about answers. Think about apples instead: 
+
+Just remember: if the text of the post contains an honest attempt at answering the question, then it is an answer - so don't flag it otherwise, and if you do, don't complain if your flag gets declined. 
+
+Trivia: some of the folks involved are doing other dodgy things with voting as well. 
+
+Answers are just like that, but less tasty in pies. 
+
+Tired of lazy homework questions? Then close them. Tired of crackpots arguing endlessly? Down-vote them, and create some guidelines that let you delete such posts / conversations in good conscience. Tired of intelligent, knowledgeable folk leaving? Stop kissing the feet of every loud-mouth who wants a soapbox. 
+
+Closed, no up-voted/accepted answers and no pending reopen votes (61K) 
+
+This was clearly not ideal; some folks resorted to reopening and re-closing, while others savagely abused bugs to work around the deficiency. 
+
+In cases where the suspension was clearly in error - lifted early with a message explaining the situation - we'll forego this process. 
+
+Rationale This has been requested for... Oh, about four years now. In February of 2013, Jarrod replaced the venerable but messy method of marking duplicates by editing links into the top of the post with a system that records the question IDs in a separate table and renders them as needed. This was a huge improvement... Not only did it make tracking the usage of duplicates much easier and more reliable, it also prevented editors from inadvertently (or intentionally...) editing out the duplicate links without reopening the question. 
+
+Summary With the introduction of new, simplified graduation requirements, we're preparing to shut down the venerable Community Eval review process. Years of waning participation, combined with a general lack of clarity as to how these mesh with the normal graduation process, have turned this system into a bit of an anachronism at best, and a waste of time at worst.

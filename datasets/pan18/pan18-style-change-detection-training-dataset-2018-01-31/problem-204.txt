@@ -1,0 +1,21 @@
+Unfortunately is not updated with latest 2/3 champions added and probably therefore latest 2/3 patches. I will update my answer later, in the meanwhile, but this could be a good start, these are the data I have, ordered by speed. 
+
+One for all: Leaguecraft. I practically learned play League of Legends keeping that site on my browser and playing LoL in window mode. 
+
+In addition you can check builds for League Of Legends at Moba Fire and another useful source of tips on specific champion styles and builds is of course the official forum NA or EU. 
+
+Couple of months ago I made an Excel file crossing data from League of Legends Wikia and other sources. 
+
+There tons of good guides, divided by champion. Each guide is voted by community so you can immediately distinguish between useful and garbage. And in addition every guide is linked to a patch version, so you know if they are outdated. 
+
+I just read a post on Elementz's blog that explained how meta game has changed in League Of Legends and how important is today the role of roamer. 
+
+Now fixed with all champions and last patches: 
+
+Yes, enemy team in range see the graphical effect of Sona heal ability, even when it affects invisible allies. 
+
+With a top solo lane, the champion has a leveling advantage and the potential to farm more minions (simply because there is no allied champion to compete with). Additionally, one must consider that if the other team does not have a jungler, they need to be able to successfully last 2 vs. 1. Most often, this means champions with good sustainability are better suited to the lane, such as Cho'goth, Mordekaiser, Vladimir, or Nasus. 
+
+Nunu When built properly, Nunu makes a great off-tank. The thing you have to realize about Nunu is that the slow on his E is insane. It's 70% I think at rank 5? If Nunu catches up to you alone, you are not getting away from him if he has the mana to continually iceball you. Also important to note is Consume - the health it restores is not insubstantial, and with a Will of the Ancients, you can easily recover half your health every 10 seconds or so. 
+
+Riot releases the schedule of which champions are up for price reduction in advance, so there should be few surprises on that front (though now that their time between champ releases has doubled, it'll be much longer between price reductions).

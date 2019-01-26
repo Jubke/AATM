@@ -1,0 +1,35 @@
+Adjusting scope within a Sprint is possible, but only with the full participation of the Product Owner. Changes to the Sprint Goal should trigger an Early Termination of the current Sprint and a return to Sprint Planning. 
+
+Define "Worst" The first thing you need to do is define "worst" for your use case. Worst doesn't inherently mean something with a high defect or failure rate (although it may); it could also be a measure of complexity, cost, scope, level of effort, or uncertainty. In other words, "worst" is generally about how your project defines and estimates its risks. 
+
+Projects that wait until the end of the project to handle "big balls of mud" like complex integration tasks are at much higher risk of failure and forced death-marches than projects that have tighter risk controls. When used judiciously, WIFO can be one effective risk control among many. 
+
+Schedule changes do not necessarily imply that your estimates are inherently wrong. Your goal should be to improve the accuracy of your estimates, not to meet arbitrary scheduling targets. However, improving the accuracy of your estimates should reduce variations in your estimate-based scheduling to acceptable levels. 
+
+Options for Compromise Within the Team You can do whatever seems reasonable in such cases. Generally, teams agree beforehand on a compromise process, but it's okay to change it on the fly so that the end result is always somewhat reasonable. 
+
+Options for Compromise With the Product Owner Sometimes the problem is the story being estimated. A key point here is that all stories must be estimated to see if they fit within the current sprint, but the stories you estimate don't have to be verbatim copies of the current Product Backlog items. 
+
+The Product Owner must be involved. No changes in planned scope can be made without the involvement of the Product Owner. Changes to the Sprint Goal may only be made with the full agreement of the Product Owner. The Sprint Goal represents a planned increment of value, so the Development Team can't change the Sprint Goal unilaterally. A change in the Sprint Goal should trigger an Early Termination by the Product Owner and a return to Sprint Planning. If the central goal of a Sprint is invalidated for some reason, it needs to be scrapped and re-planned by the entire Scrum Team (including the Product Owner) after a brief Sprint Retrospective to identify what went wrong. In short, the Development Team may not cut scope or change goals without the active participation of the Product Owner. Doing so undermines the core responsibilities of the Product Owner role, and removes essential project controls from the framework. 
+
+Extend Sprint for UAT with Visible Costs As an alternative, you can simply extend your current Sprint length by two or more weeks to accomodate their UAT cycle. Part of your Definition of Done will be passing the mid-Sprint product to UAT, and then waiting for the results to come back. 
+
+Benefits of "Worst First" The potential benefit of working "bad" sub-projects or dependencies first is that you may reduce the cone of uncertainty for the remainder of the project. Once the hard-to-estimate or difficult-to-complete stuff is out of the way, the assumption is that there will be less variance in other aspects such as scheduling or resource requirements because the remaining tasks are better scoped and the risks well-understood. 
+
+TL;DR Release planning is an estimated management target, generally based on level-of-effort estimates of large themes or epics. Sprint Planning is a team commitment based on iteration-sized user stories. They serve different functions, but the key is to remember that estimates are not guarantees. 
+
+Basically, WIFO front-loads your risk. By placing riskier elements at the front of the project when you have the most slack, budget, and resources to allocate to any issues, you may be in a better position to mitigate those risks than you would be at the trailing end of a project. 
+
+In addition, since WIFO front-loads tasks with a great deal of uncertainty, improper use of WIFO can lead to sunk costs for the project. If the front-loaded tasks consume an excess of time or budget, your project may find itself behind the curve with no incremental value to deliver. And, as previously mentioned, premature decisions about design and architecture can lead to sunk costs in labor, equipment, or product design/implementation that can be very difficult to recover from. 
+
+Releasable Increments There are a number of core ideas behind agile development, but one of the core concepts is the idea of iterations that produce "potentially releasable increments." In other words, while any given sprint might not contain the complete set of features planned for a given release target, each sprint should produce a working, functional, and (ideally) user-visible feature that could be released. 
+
+This is a problem, but it is an externality. You have an external process that is adding process overhead (and therefore costs) to your bottom line. The correct way to handle this is to make those costs visible to the stakeholders. 
+
+Put another way, every sprint should result in a product that has generated some amount of earned value. While the product might not be feature-complete, it is nevertheless functional and potentially shippable at the end of each sprint. This gives stakeholders the ability to convert earned value to market value at the end of every iteration, although they are certainly not required to do so. 
+
+This is correct. The estimate developed in Sprint Planning is the estimate; it must not change within the Sprint. 
+
+Once you pare away the non-essentials of your question, at the core is what you already know: your group lacks the formalized processes that will allow it to function as a team. Estimation, meeting facilitation, communications planning, and cycle times are all things that are central to the practice of the project management profession. 
+
+Sticking to a plan made months or years ago, without taking stock of where the project is now, is one of the most common ways that projects fail. Agility doesn't guarantee success; it just expects the visibility and transparency of the project to enable stakeholders to make well-informed decisions.

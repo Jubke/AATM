@@ -1,0 +1,33 @@
+Please bring back the directly visible meta link. As a default — I know I can bring it back with a user script, but that's no use to inform users of the existence of meta sites. 
+
+Ok. From a moderator's perspective there isn't that much difference between “rude and offensive” and that — in both cases, a moderator needs to evaluate the context, delete the comment if the flag is warranted and possibly take further action (e.g. mod message). But from flaggers' perspective it's nice to have the “be nice” remember in there. Most of the existing privileges have an effect that's visible immediately. You can observe them passively or quickly find a way to use them, at least if you participate in activities other than asking and answering. No! This goes in the wrong direction altogether. At least the suggested edit indicator should be immediately visible, at least on sites other than SO. Do not add micro-privileges Micro-privileges intrinsically fail criterion #1: 
+
+If the target site doesn't want the question, the question should not be migrated. That is a problem with the current migration rules. Not the age, but who decides. 
+
+Micro-privileges are disappointing. This is particularly visible with one of the existing privileges, the 15k (3.5k on beta) privilege to protect questions. This is an oft-repeated scene: Pfff, that's disappointing. I waited so long for this privilege and it's basically useless! 
+
+Arguably “rude or offensive” should be merged with “not constructive”, but there are comments that don't reach the threshold of violating the “be nice” rule, but are nonetheless “not constructive” because they're provocative or otherwise driving towards conflict, typically a sign of escalation in a comment thread. Moderators do need to be aware of such cases, ideally before they reach the “rude or offensive” threshold, so the flagging dialog should make it clear that flagging such situations is encouraged. (Note: this paragraph is written with my understanding of “not constructive” in mind. The phrase “not constructive” is so vague and non-consensual that it loses a lot of efficacy, which is one reason why it might be a good idea to remove this middle ground. It's useful, but only if people agree what it means, which is not always the case.) 
+
+If there's good content in an old, off-topic question, I'd rather migrate it to a site that wants it than delete it. 
+
+If the question was on-topic it wouldn't be migrated. If your problem is that on-topic questions are migrated, tell off the people who are migrating on-topic questions. If your problem is with questions that were once deemed on-topic but are now no longer considered so (e.g. the kind of SO questions that were once moved to Programmers), that's a different matter that should be juged on a case by case basis. That sounds like a solution in search of a problem. Nowhere in your proposal do you mention what problem migration of old questions have (that migration of new questions doesn't have). 
+
+(Or worse, #3 is go off and protect a question that shouldn't be.) 
+
+A large majority of users seem to believe that tags are really important; so important they like to decorate the titles of their questions with tags (I'm not talking about the organic ones; I'm not that anal). So, why not light rather than fight? 
+
+After some consideration, I think it should be named the Haltenhammer. The current vandalism flag contains a list containing a sampling of posts relating to the flag You know that exhibit that you'd see at the children's science museum? It's a roundish podium thing and you'd press a button. This would start a clock. You were supposed to estimate when a minute passes and then press the button again. The podium would light up to show a clock face and let you know how far off you were. 
+
+(super sensitive mod options, like merge, removed!) 
+
+This process takes a long time, and can definitely be automated, as the only thing you really need to check is how many new users are posting non-answers or are spamming their awful products. This would have a number of benefits; we could offload lots of those "close as dupe" flags onto the Ω folks, use canonical as a faq for a particular tag, etc etc. Linking to questions flagged as canonical from within a tag wiki would also be nice. the canonical question could be about derp rather than c#. How this would flesh out I'm not quite sure... 
+
+"Flagging a question/answer for Low Quality should be reserved for extreme cases only. If you can edit this question to make it better, please do so." We move the tag editor right smack up top. Blam. It has a few benefits that I can think of: 
+
+In other words, let the little moleyoutube link take off his spectacles so that this 
+
+Comments have a very restricted markup ability. Currently supported text markups available are Note the proposed duplicate is already status-completed. This proposal also doesn't consider reputation as an indication of trust, is about instant closure not increased weight... it's not a match at all. 
+
+There are a few "automatically protect questions" requests out there, but I'd like to add another twist. 
+
+Can we have an addition to the currently supported set of comment markup for quotes? Now I'd like you to read the following and reconsider undoing your downvote... User has a history of being active on the website User has a history of being active on the website's meta In addition, I would suggest that in order to use this power, the trusted user would have to add a comment (wait, let me explain before you go recast that downvote!) to explain why this extraordinary action was taken. This also will allow the user to cast a non-binding close vote--If you don't leave a reason, it is a regular vote. If you do, instaclose.

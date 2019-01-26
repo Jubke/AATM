@@ -1,0 +1,43 @@
+Reasons to be confident in opinions you formulate: 
+
+So Einsteins seemed to believe that an important aspect of the concept of time is outside the reach of science, and if it is outside the reach of science then aren't philosophers entitled [*] to contemplate it? 
+
+and the Shaman says "my son, the secret is in loops, for loops are so mysterious." he then calls a few of your friends and sits you all in a lap circle like this: https://www.youtube.com/watch?v=aDTpRUNIswQ 
+
+What if a philosopher mounted a reductio ad absurdum on nature? would he be justified if his argument was sound? 
+
+I like @jobermark's answer, but would like to add an anecdote corresponding to this question; it is a conversation with Einstein as told by Carnap, in which Einstein expressed his belief that "there is something essential about the Now which is just outside the realm of science": 
+
+2) It increases your chance of an interesting chat with Socrates. 
+
+Consider for example the problem of free will - one can imagine two philosophers who hold opposing views on free will, and who for many years reject each other's view using reductio ad absurdum; is that not absurd? 
+
+The second theorem proves that no consistent axiomatic system which includes Peano arithmetic (or stronger) can prove its own consistency. 
+
+Or, as Gottfried Gabriel once put it: 
+
+That's not the case. You are somehow mixing together the first and the second incompleteness theorem and drawing a misleading conclusion. Briefly put: 
+
+Long explanation (by Carnap himself) The whole point is clearly stated by Carnap in his paper on the "Elimination of metaphysics through logical analysis of language" (1932), esp. §7 "Metaphysics as expression of an attitude towards life": 
+
+The first theorem proves that all consistent axiomatic formulations of number theory which include Peano arithmetic (or stronger) include undecidable propositions. 
+
+Our conjecture that metaphysics is a substitute, albeit an inadequate one, for art, seems to be further confirmed by the fact that the metaphysician who perhaps had artistic talent to the highest degree, viz. Nietzsche, almost entirely avoided the error of that confusion. A large part of his work has predominantly empirical content. We find there, for instance, historical analyses of specific artistic phenomena, or an historical-psychological analysis of morals. In the work, however, in which he expresses most strongly that which others express through metaphysics or ethics, in Thus Spake Zarathustra, he does not choose the misleading theoretical form, but openly the form of art, of poetry. 
+
+[In this connection the term "world view" ("Weltanschauung") is often used; we p refer to avoid it because of its ambiguity, which blurs the difference between attitude and theory, a difference which is of decisive importance for our analysis.] 
+
+The way your source puts it, is very misleading. Logical empiricists had nothing against "metaphysical poetry". This seems to be a recurring misunderstanding. Indeed, according to logical empiricists, poetry is one of the best suited media to express "mystical longings". 
+
+There seems an unhelpful trend among many (especially among those who study human tendencies under the banner of "social science" or "humanities") to get so fixated on the social aspects of preserving and enhancing scientific results that that gets called science instead of the part which actually contributes knowledge. Perhaps this is what you're getting at, but I think you have the labels wrong (and others may also). Of course one wants to understand these social trends, just like one wants to understand what trends lead to effective governance vs. corruption and waste, or to compassion vs. violence. But engineering is the practice of building things, not the sociology of how to manage human tendencies so we can build things; medicine is the practice of improving health, not the sociology of how to arrange human affairs so that we can enable people to improve health; dance is the practice of artistic motion of the human form (typically to music), not back-room dramas of the Bolshoi theater; and so science is the practice of obtaining reliable knowledge about the world, not the sociology surrounding the core act. 
+
+The Stanford Encyclopedia of Philosophy has much more to say on the topic, some of which I agree with. 
+
+However, this is not terribly profound philosophically for two reasons. First of all, it doesn't answer the question about whether, say, mathematical objects exist. An equilateral triangle "exists" in the sense that you can write down a logically coherent set of properties for that triangle (unlike a triangle with three right angles), but it cannot exist in that it cannot possibly be instantiated exactly (because of quantum mechanics, atomic nature of matter, etc.). Philosophically (or semantically) controversial categories of existence remain just as controversial. 
+
+Here, for instance, is a relatively lengthy essay on the topic: Welsch, "Animal Aesthetics". In Contemporary Aesthetics volume 2 (2004). 
+
+Although theoretically it is possible to hallucinate everything when moved by sufficiently strong desire (up until one dies), in practice people almost always retain considerable sensitivity to their environment. 
+
+If the question is whether there is some objective measure of importance, I suppose one could argue that our technological facility positions us uniquely to be the savior of complex (as measured by things like number of different genetically stable states, for example) life on earth as we alone (so far anyway) have the potential to escape the eventual death of our star. 
+
+If it is likely for dormant bacteria to survive being blown into space by an asteroid impact, and then colonize other planets, our potential may sound slightly less grand ("we can save the big multicellular life forms we care about").

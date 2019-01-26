@@ -1,0 +1,21 @@
+What would help immensely is a book that takes into account all previous positions (i.e. these old papers), and, if possible, reflects the latest state of research (if for no other reason, it looks better if not all my sources can be dismissed as obsolete/out of date). 
+
+Reading a paper on Descartes I found the following summary of criticism: 
+
+Is there any literature on Marx as Egalitarian? 
+
+I am currently reading Korsgaard's Self-Constitution in the Ethics of Plato and Kant (which you can find here). I was wondering if the argumentative step from an injustice in the perfectly arranged polis to an injustice in a contemporary democracy is justified somewhere. I will try to explain what I mean. Korsgaard writes (p.7): 
+
+It is, however, of great consequence to ethics in general to avoid admitting, so long as it is possible, of anything morally intermediate, whether in actions (adiophora) or in human characters; for with such ambiguity all maxims are in danger of forfeiting their precision and stability. Those who are partial to this strict mode of thinking are usually called rigorists (a name which is intended to carry reproach, but which actually praises); their opposites may be called latitudinarians. (Religion within the Limits of Reason Alone, Book I, Observation) 
+
+Hopefully you can see why I am confused. I think this is a really interesting topic, but I don't know where to look further. I am not asking about the concept of adiaphora here, which, as I am told, is a stoic and later catholic concept, neither am I asking for references in other philosophies - I am solely interested in Kant's understanding of morally indifferent acts. I will be grateful for all kinds of sources and references on-topic. 
+
+German Wiki on adiaphora is linked to the entry on rigorism which states, quoting the second passage from above, that Kant was rigorous for he didn't admit of anything "morally intermediate". This seems simply impossible, for even in the Perpetual Peace he thinks about what kind of acts are touched by the permissive law, and mentions adiaphora. Another book I consulted on this, unfortunately only available in German, states that the ones denying adiaphora in Kant's philosophy simply mistake "morally intermediate" things for adiaphora, and claims they aren't the same. 
+
+My question would be: Does anybody know whether Korsgaard herself motivated this step somewhere else, maybe in Self-Constituion: Agency, Identity, and Integrity? In that case I would be grateful for a specific reference and/or an answer explaining what seems to be the argumentative gap. I would also appreciate some further references to criticisms of Korsgaard's argument. 
+
+I am stuck in a vast amount of papers concerning Marx's view of justice, written in the 70s, 80s and 90s, disputing and contradicting each other. With my current knowledge of Marx, it is sometimes difficult, sometimes impossible, to decide whose interpretation is the closest to the truth or whose speculation (as Marx didn't write a lot about his notion of justice, at least not explicitly) is more coherent. 
+
+Is there any newer literature that you can recommend? 
+
+The question my professor made me answer in my term paper is "If Marx's notion of justice is not a egalitarian one, why is the absorption of surplus value by the capitalist unjust?" Now, I am not exactly sure where that idea (for he does think that Marx's theory of justice is nothing more than a egalitarian theory of justice) came from, but no matter what I read, it always seems to contradict his conclusion or the premise. Also I don't want to only explain why this is not the case, but at least give some answers on the question what a Marxist theory of justice could be.

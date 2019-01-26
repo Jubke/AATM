@@ -1,0 +1,37 @@
+If someone puts what they feel is an innocent joke in a post, presumably they've done so because they want people to laugh, not feel offended, and wouldn't mind the joke being removed if it were discovered to be potentially offensive. 
+
+While yodeling to myself quietly in our warehouse today, a pallet full of mugs came crashing down on my head, and gave me a concussion idea. First, it's very unlucky to go yodeling around on a skate board in a dark warehouse, and second, we could really use a short creative writing contest. 
+
+This seems to have died down, at least for now (I wasn't greeted with even more upon checking the flag queue today). 
+
+Once in a while some take the opportunity to reach out as an emissary of the site, typically by helping an open source project better utilize Stack Overflow. 
+
+I want to see the numbers on how much more voting we're seeing. I've personally found this useful several times today, but actual numbers are going to be interesting. 
+
+If a "How to ask a good question" FAQ were to be compiled, what do people here think are the top issues that it should address? 
+
+So, this site is about the Christian religion. 
+
+Short term gain vs long term health of the community. Many people who come to Stack Overflow and see a question they can answer, will jump and answer it in the hope of gaining reputation. 
+
+In short - this is the battle between the core people of the community - those few who care for the long term health of the community vs the greater numbers of people who are only in it for themselves (whether spammers, give me teh code, answering bad/off-topic questions etc...). 
+
+What you have been doing. If you feel like commenting on such answers and explaining why they are not helping, that would be great, though I have personally encountered aggressive responses to such comments. 
+
+So, this site is about the text of the bible as a work of literature and its study. 
+
+We welcome Jewish, Christian, Atheist and other viewpoints as long as they take seriously the process of understanding the Biblical texts. 
+
+They gain an immediate satisfaction of a green +10 (or however much) notification and a much delayed loss of reputation when the question gets deleted (if within 60 days). This reinforces the behavior that is bad for the long term health of the site. 
+
+Node.js Node.js and other uses of JavaScript on the server. 
+
+As you can see, the scopes and audiences of these sites are different, in the same way that Programmers and Stack Overflow are. 
+
+Thank you to all that participated, and made this contest fun! There will be one more before the end of Winter Bash, and some mini contests in chat to look forward to. I will be contacting the winners early next week to get your size, shipping info and preferences. 
+
+Sites can be exceptionally good at doing certain things that we like sites to do, such as retaining new users and providing answers to questions that get at least a few up votes quickly. It would be nice if we could recognize this sort of community achievement as a special kind of badge that hangs on a special wall. 
+
+NB This is not an 'official' response, it's just my opinion and suggestion. A half baked one, at that. 
+
+Exporting this would be a bit of a manual process for me, so please only indicate interest if you have something beyond morbid curiosity as a motivation. No identifying information can (of course) be included, but there's plenty of interesting things you could do without it.

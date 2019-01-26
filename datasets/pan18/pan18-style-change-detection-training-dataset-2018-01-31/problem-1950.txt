@@ -1,0 +1,31 @@
+Jon Stewart Kierkegaard's Relation to Hegel Reconsidered (Cambridge University Press, 2003), p. 311. He cites Alfred Elsigan "Zum Begriff der Moralität in Hegels Rechtsphilosophie," Wiener Jahrbuch für Philosophie 1972, p. 88 and Hegel's own *Philosophy of Right. 
+
+Thus, we can return to your reduction. The rule utilitarian rejects it because it doesn't sufficiently grapple with the agent's epistemic realities. A major point of transitioning from act to rule is to get away from the vagaries and gambling that arise from making judgments at each particular juncture for each particular act. 
+
+Thus, I would say in contemporary philosophy that "ethics" is generally a safer word choice than "morality." 
+
+While the above is broadly based on my experience with the literature, here are a few references to help with respect to Kant and Hegel on these terms: 
+
+Conversely, if I pick the produces horn, then it's not clear that my choices matter for ethics. My accidental choice to not buy the cake on discount may lead to great happiness for a poor family even though I never thought about it. Or my dropping change on the floor might lead to a horrific accident. Here, we'd have a very strong form of moral luck. 
+
+I'll stick with lying however to show the point. Developing a skill for lying will incorporate lying into your character, but that's not what we're meant for. As you lie more, your ideas of what is pleasurable for you to do will warp towards lying, and this will move you away from eudaimonia. 
+
+Rule utilitarianism exists primarily because act utilitarianism on the view of many suffers from an epistemic problem. This is inherent in the formulation of Mill (and Bentham) which does not spell out an answer to the following important question: 
+
+A similar and related issue ties us back to the first concern I raised. Specifically, does master morality look the same for everyone? If so, it seems like it too could be a type of enslavement. Conversely, if it is somewhat free form, then what prohibits it from being free submission to some set of values (even perhaps quintessentially slave morality ones?) Is it to be unshackled by others or unshackled completely in one's actions? Is it a virtue theory? (These issues are somewhat open questions in Nietzsche scholarship). 
+
+For the second example, Kant's argument that lying is a failure in duty to oneself is a bit more interesting and ingenious. It follows along similar lines but explains that lying is an insult to the sort of being you. It's the reduction of rationality which depends on the truth to contingency for the sake of convenience. Again, this is followed casuistical questions about what constitutes "lying" or not. For Kant, idle banter at a party is not lying even if it is not per se true. 
+
+In some later parts of that paragraph, you are specifying a more broad claim that the ethical values have a social foundation. This claim is not identical with moral relativism in that the value itself might be a value not merely from the social. For social foundations of ethics, Hegel is a big fan (see Philosophy of Right). 
+
+The Kantian picture of the state is a Republic guided by reason with the power of the state. Such an image depends on a type of federating where the size of the particular state is less important than the unity of the rational whole of humanity. 
+
+I am not familiar enough to know a passage in any utilitarian or consequentialist works on this point, but my suspicion is that the answer here would also be yes unless the thing to be maximized is "autonomy." If it is autonomy understood as pure expressions of freedom, then no such wrong is possible. But if it is suffering, then there's no reason to imagine that you are not committing a wrong against yourself when you act in such a way that increases your suffering. 
+
+An implicit claim in the use of the word "morality" is linked to the Hegelian usage above in that the term "morality" often implies a universal viewpoint whereas "ethics" does not carry this implication. 
+
+I think it's going to depend on what you then plan to do with those views. Specifically, are you taking them as valid or invalid assumptions for doing ethics (i.e. will you knock them down or does your paper focus elsewhere and take them for granted?) 
+
+But we're not out of the woods yet. A further complication is that utilitarians differ in terms of how we go about this maximization. There's three major groups that I'm aware of "act utilitarians", "rule utilitarians" and "preference utilitarians". The difference being act utilitarians thinks each situation should be evaluated to max/min the desired good. Rule believe that we can establish rules that will lead in general to maximization. Preference U. believe that we should cause people to have preferences that lead to maximal outcomes. 
+
+Even Mill's account is more complicated than what he says in Utilitarianism as he brings up an idea in On Liberty that we cannot in the process of maximizing pleasure cause harm. If we've got both utility and a harm principle we cannot say it's better do something that causes harm no matter how much utility it brings about.

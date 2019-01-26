@@ -1,0 +1,43 @@
+Tradition has often tried to make a distinction between the chaotic emotions and the calmer reason. But really there are only a range of emotions from the more chaotic to the most calm, and the latter are more trainable by experience. 
+
+By many users 'logic', being directly related to the word for 'words', is taken to limit you to exactly what the words involved imply, whereas 'reasoning' admits more context that sometimes cannot be captured in statements or has been injected without mention. 
+
+I agree with E.O. Wilson that the feeling of 'consilience' is a crucial instinct of our species. These feelings, ranging from the calm assurance of finally understanding what a given word means, to the blinding 'aha' of a major scientific discovery, is the basis for all of our attachment to logic and mathematics, as well as the deductive sense necessary to establish a shared vocabulary, etc. 
+
+The speaker holds an underlying assumption here that if it is possible not to be bothered by this kind of thing, one is morally obligated not be bothered by it, or at least to do one's best to not act upon being bothered. 
+
+You are human, and logic is part of our intuitive heritage. There are some aspects of behavior that are too basic to be rid of, and those things are embedded in our emotional makeup. 
+
+I would take this completely literally. 
+
+You can tell the difference between this and suppression of evidence or 'cherry picking' because, if you render the argument statistical, it does not matter unless the numbers are hugely predominant, and often even then. 
+
+It often occurs as "poisoning the well" immediately before a planned "genetic fallacy" which effectively "begs the question". 
+
+From modern analysis point of view, this is just the nature of space. Space is continuous so we can always extrapolate values at points from whatever attributes are shared by every neighborhood around them, provided something that consistent exists. We can compute the sums of areas made up of idealized slivers from approximations that converge to the right shapes. 
+
+Look at the situation Mitt Romney was caught in during the 2012 election cycle, where he pointed out that Democrats had created a situation where 47% of the population effectively pays no taxes, and that is not fair to those who do. 
+
+He is presuming the ultimate value of some version of democratic social harmony: non-interference in the majority's autonomy, 'Give the benefit of the doubt' or 'Go along, get along'. And this is in the foreground to a degree that he denies consideration to more important moral concerns. 
+
+But we have the mental image of a flat space, where pi is well defined by this relation. How arbitrary was that choice? 
+
+(The same steps: They won too big => they must have rigged the game [PHEPH]. Just like THEM to do that [poison the well]. Most of what they do is evil, and so is this game rigging [genetic attack]. Therefore hate them for rigging the game [begging the question].) 
+
+Many fallacies represent good reasoning that is bad logic. The slippery-slope fallacy is always bad logic. It assumes something that often happens, but does not necessarily happen in any given situations. But it is convincing reasoning if the problem has been observed before in a related context. 
+
+It can be interpreted as a case of a more general concept of modality in logic. "True" can have multiple meanings in the same system, with different bases of reference. "Tertium non datur" may be true in (macroscopic) physics, and it can still be consistent, given strict rules about things like abstractly-defined collections not being real. But it is not true in fiction. 
+
+It makes the math work out better if the default value for multiplication is 1, meaning that the product of zero things is 1 by default. That way the product of n things is always the n-th one times the product of its predecessors, even when there aren't any predecessors. This simplifies various common proofs by induction and remove special cases from many famous theorems. The result is so convenient that it is the convention throughout math, including in Boole's artificial interpretation of conjunction as multiplication. 
+
+The set of states of the world that a proposition is true in is larger when the set of objects it applies to is smaller. If A implies B, any state (of a machine, universe, etc.) where A is true is a state where B is true, even though any element satisfying B is an element satisfying A. 
+
+Instead, they accommodated the psychology by weakening our notion of negation, rejecting the principle known as tertium non datur, or the Law of the Excluded Middle, "What is not true is false. There is no third option". Psychologically, it is not really convincing to humans that everything that is not true must be false. It is not true that all unicorns are white, but it is not really false either, given that there are no unicorns. The implication about Gates and the moon is neither true nor false. 
+
+Fallacies arising from slippery slope arguments, cui bono attributions, or maintaining generalizations in the face of a counterexample are logical problems. But they often express a completely rational position. 
+
+What has the problematic history is our ability to share that instinct with others and to record it in ways that do not mislead us. Our cultures really require that none of us, at least not among the phenotypically normal, really disagree on the nature of logic. 
+
+In his later philosophy, this kind of thinking leads to the characterization of the use of language, especially its formal aspects of grammar and reference, as a 'game' we play in order to communicate, and distinct from the actual act of communication itself. 
+
+This is quite apt, as 1 * 1 is the only combination that comes out 1, and 0 + 0 is the only combination that comes out 0, the same way True and True is the only combination that gives True, and False or False is the only combination that gives False.

@@ -1,0 +1,27 @@
+Open the profile page on the Minecraft website and login. 
+
+You also gain experience (but no experience orbs will drop) from: Exactly how much faster is jumping while running (preferably in meters/second)? When you die in hardcore mode you are given this game over screen. 
+
+To receive an enchantment level higher than 8, you will need to properly place bookshelves around the enchantment table: Click Save Profile and your done! Minecraft will now be loading from your SSD. 
+
+Notes We have calculated that it would take you approximately 35 days to walk to the far lands in Minecraft: Pocket Edition. But it is unlikely you would make it this far, according to the "Far Lands" page on the wiki, there a few things that will happen before you make it to the Far Lands: 
+
+Amount of Bookshelves This table shows the amount of bookshelves required to get higher level enchantments: I ended up using a mine-cart to pick up my rabbit and transport him to his new home: 
+
+You can tell if the bookshelves are contributing to the enchantment levels by focusing on the particles coming out of the bookshelves into the book on top of the enchanting table. If you do not see particles, you either have a block blocking the bookshelves from the enchanting table, or particles turned off in the video settings. Let me begin by saying that the Rednet API in ComputerCraft is... fun. I imagine about as fun as any given netcoding could ever be, I suppose. 
+
+The best design for this uses the principles that Xisumivoid used in his Automatic Cooked Chicken Farm Tutorial - check out that video if you want to see exactly how it's built. This is a config option to lock NEI in Recipe Mode only. It's designed for people (like me) who want to commit to a Survival game, but can't help themselves when it's so easy to cheat in items. This option is on by default when you download NEI. This is not going to be that easy of a thing to implement. 
+
+So, if you want to go for the hyperefficient analysis of the durability, yes, 2 Unbreaking I shovels will last a little longer overall than one Unbreaking II shovel. A slightly simpler approach would be to use MCEdit. There, you can just plop the world in a level editor, flatten out your area, and not even need to mess with it. But if you want to do it in-game, that option is out there too. 
+
+We're going to need a scoreboard too. So go ahead and set up a scoreboard called "AGE" (or call it whatever you want, but remember to replace it where relevant). 
+
+Of course, with this being a modded pack, you can make this run however you want. This design only runs when there is an egg inside the dropper, reducing the potential lag. You can also, of course, use transfer pipes if you really want to. Like I said, the important part here is that the chickens are shot onto a slab, grow up, and get cooked and eaten. The circle of life. Edit: To clarify, from John in a comment below: It should look like this when finished. 
+
+During exploration of an Abandoned Mineshaft I found a Cave Spider Spawner. Nothing odd or special about it, but coincidentally my seed has apparently spawned a Dungeon two blocks from it. A Skeleton Dungeon to be specific. Sweet right? Open up a notepad file, and put this command into it. TL:DR: Trading is not reliable therefore it is not always cost effective. Check the Exploration section. This method is almost 100% safe with a FEW noted exceptions. 
+
+The Minecraft Wiki Enchanting webpage lists a lot of mathmatical formulae and charts all designed to help us understand how enchanting works in Minecraft. I pretty much understand all of it. 
+
+Second Edit: Ok apparently the statistics page will never be correct for me, partially because it changes if I play offline (which I do about 70% of the time) and mostly because it doesn't collect its data for each exclusive world individually. So short of manually counting each monster I kill I dont think this question will ever be answerable unless I completely delete all my statistics folders and create a single game for the sole purpose of figuring this out. If someone has any ideas other than that I'd love to hear them. 
+
+Villages. Can someone legitimatly expand a village by building more houses for villagers (Testificates) to breed and fill? Would these houses have any conditions to be met beyond a roof and a door? I don't want spiders. Please make the spiders go away.

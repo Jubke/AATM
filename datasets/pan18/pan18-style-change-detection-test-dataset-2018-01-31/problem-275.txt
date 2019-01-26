@@ -1,0 +1,41 @@
+Whatever happens next, I always seem to get burned: 
+
+The flop comes and it contains a rocket. 
+
+This question relates to pre-flop play and is aside from the obvious point of being more aggressive the later your position. 
+
+This is a 6 handed ring game with no ante and various positions for hero & villain. This is also the fast online variant (rush/snap/zoom etc) so hard to get a read on players without a pretty good memory! 
+
+OK, so you've been dealt QQ and you're feeling pretty good about things and throw out a few BBs. Everyone folds but the villain. 
+
+Let's say we're 6 handed and UTG raises to 2BB and I (sat next to villain) have something just outside the tight range - say TKs. 
+
+On a few occasions though, some short stacks cold call and then come over the top on the river and then villain wins with something like 22 hitting a 2 on the river. Due to the small bet, I can't really get a read, but such a hand is costly. Any idea how I should otherwise play it? I've seen many heroes in similar positions simply check on the river but this would have no effect here since villain would still throw in their last coin. 
+
+The linear method is terrible - starting around 5/10 blinds, the structure would end up looking something like: 
+
+There is no reason to deviate from standard procedure of burning a card before the flop, turn, and river when dealing with an all-in situation - it saves nothing and can only cause confusion. 
+
+Table Stacks: Hero (BB) 600 Villain (CO) ~650 Limpers have 200-300 
+
+When the person who would become the button busts out, the button skips them to the person who was the big blind the last hand. That person becomes last to act for the hand, but posts a small blind anyways. The person to their left posts a big blind, as does the person to that person's left. So you have the big blind position paying a big blind, the small blind position paying a big blind, and the button position paying a small blind. The following hand, the button moves as usual. The new button position pays a small blind, the person to their left pays a small blind, and the person to that person's left pays a big blind. After that, normal blinds resume. 
+
+OK, so you've been dealt QQ and you're feeling pretty good about things and throw out a few BBs. Everyone folds but the villain. 
+
+Whatever happens next, I always seem to get burned: 
+
+This is a 6 handed ring game with no ante and various positions for hero & villain. This is also the fast online variant (rush/snap/zoom etc) so hard to get a read on players without a pretty good memory! 
+
+I understand that this is to stop you getting an immediate positional advantage over the others, but why have the rule at one end and not the other? 
+
+Let's say we're 6 handed and UTG raises to 2BB and I (sat next to villain) have something just outside the tight range - say TKs. 
+
+While you are free to leave a table whenever you wish to avoid the BB, there seem to be rules in place that govern when you're first dealt in. What are these rules - and do they vary from site to site? 
+
+This strategy will be best employed against higher level thinkers, where there are significant meta-game factors and constant adjustment of ranges as the match proceeds. 
+
+You will need to know the number of players you will have, your starting blind level and stack size, and your desired tournament length. Generally, you will not want to start with deep stacks for a short tournament. The final blind level can be calculated by dividing the total chips in play by 10. Finally, you will need to determine how long you want levels to last - longer levels will require bigger increases in blinds at each level. 
+
+When the person who would become the button busts out, the button skips them to the person who was the big blind the last hand. That person becomes last to act for the hand, but posts a small blind anyways. The person to their left posts a big blind, as does the person to that person's left. So you have the big blind position paying a big blind, the small blind position paying a big blind, and the button position paying a small blind. The following hand, the button moves as usual. The new button position pays a small blind, the person to their left pays a small blind, and the person to that person's left pays a big blind. After that, normal blinds resume. 
+
+Preflop: Hero dealt Q♢ Q♣ 2 limpers to Villain in CO who makes it 13. Button and SB fold, Hero raises to 33, 2 folds, Villain calls.

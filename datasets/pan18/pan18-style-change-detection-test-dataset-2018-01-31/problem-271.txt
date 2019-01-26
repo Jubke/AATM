@@ -1,0 +1,47 @@
+For example: if a player moves all-in and someone calls, I will fold even if I have something very strong like pocket Kings. Why ? Well, there's a big chance that at least one of them has an Ace and I can't afford to lose if an Ace hits the board. I prefer folding, which would almost always result in going a step higher on the pay ladder. 
+
+This is actually the reason why pocket Aces are the best hand. In this case, your opponent has to connect to the board. But because there is no higher pair than Aces, he has to do it twice in order to win (with some exceptions obviously). This is unlikely to happen, especially in Texas Hold'em. 
+
+When it comes to pocket nines or above, things change significantly. 
+
+What I would do in this situation is, I would raise more on the flop, not just $60. Somewhere around $90 - $110 (maybe even more) would've been better. He had a very good hand, so he probably wouldn't have folded. But what it would do is probably prevent him from raising it so much, he would think at least for a few seconds that you have KK. 
+
+Given the fact that you said "effective stack 80 % max buy-in", I'll assume this is a cash game we're talking about, not a tournament. 
+
+Then you can pretty much be sure with a high probability that at least 1 of those players has a flush. In this case it's best to fold. Even if the 5th diamond comes on the river (giving you a flush as well), your opponent's flush will probably be better 
+
+When there is betting activity going on, the "who is first after the Dealer" order of acting is always in effect. Both the cases above overwrite this rule, as you can see (players in later positions end up acting first). This may feel "unnatural" at first, but you'll see that it makes sense and it's quite easy to get used to it. 
+
+This means that, on average, there will be X number of hearts left in the deck, X number of clubs, X number of spades and X number of diamonds. I don't know how much X is and it doesn't matter. All that matters is that X is the same for each suit. 
+
+Let's say there are 3 players at the table. If you give them 3 random cards (1 to each), then it means that there is: 
+
+When it comes to tournaments, sometimes it can make sense. For example: 
+
+Also, calling that $200 raise is not a mistake in my book. It was about 60 % of his stack, which makes it a bit obvious that he has something BIG. But, as I said, going ahead with it is not a mistake, in my opinion. 
+
+It's the same 25 %. In this case, on average, there will be Y number of hearts left in the deck, Y number of clubs, Y number of spades and Y number of diamonds. 
+
+(all the cases above are kind of the same, but I included them to show that both making a bet and making a raise will make you the last aggressor). 
+
+Now, if everyone plays their hand and goes to the river, like you said, then the probabilities stay the same. There are 4 cards of the same rank and 13 cards of the same color. If the dealer is shuffling properly, then there's the same probability for each player to get J♣ or K⋄ or 3♣ etc. 
+
+There are probably more situations like this, but you have to keep in mind the following: even against a single opponent holding random hole cards, pocket Aces has a chance of about 85 % to win. If it's 3 opponents we're talking about, then it's more like 60 %. 
+
+In my opinion a good way to play these hands is to make a standard preflop raise and hope to hit a set on the flop. If you can see a free turn or river, go with it. But if at any time you start to encouter resistance (a.k.a. your opponent(s) bet or raise), GIVE IT UP. The odds of hitting a set are so low, that calling any bet would not make sense. 
+
+If villain has about the same stack as you, I think the all-in move is not a mistake. Even if he has an Ace or if he hits a set on the flop, you say he will still fold. In the worst case (a.k.a if he calls and wins), you will still be winning in the long run. 
+
+Let's say there are 3 players playing (Small-Blind, Big-Blind and Under-the-Gun) and they got to the river. 
+
+Having favourite hands is more of a goofy thing to do in order to reduce boredom. Many professional players have such favourite hands because they'we been playing for many years and can afford it. 
+
+This applies when everyone checks on the river a.k.a. no betting activity (this is the situation you're most interested in, from what I can tell). 
+
+In this case, the first player left to the Dealer must show his cards. Going clockwise, subsequent players can each choose to show or muck, as they see fit. 
+
+In cash games, I believe there is no such situation (heads'up, preflop). 
+
+There are 2 main cases to the "who must show the cards" rule: 
+
+After many thousands of hands, you will get into situations that will be memorable. That's how the brain is built to work. That's when you'll have the tendency to start loving or hating certain hands. CRUSH THAT !! Because it's wrong. That hand was good or bad in that particular context and situation. That's it, nothing more (or you played it wrong :D ). Given that poker does have a luck factor, it only inforces my argument.

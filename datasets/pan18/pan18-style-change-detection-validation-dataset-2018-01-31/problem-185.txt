@@ -1,0 +1,23 @@
+Not that you would notice, as user2480585 has stated bumpiness of a ride is generally a tune issue rather than a fork issue. The 32 Evolution is a more than capable fork and if you were an advanced rider you're unlikely to feel the difference that the kashima coating would make. GX has replaced the old X7 and X9 price points. 
+
+A few years ago it was about $200 in the US but can't find much to verify that today. You have previously been able to purchase replacement Fox Kashima CSUs (crown/ steerer/ upper) that many companies will install as an aftermarket option on OEM forks. 
+
+You need to purchase a SRAM 10 speed rear derailleur to ensure compatibility with your shifters. SRAM previously made a wide range of derailleurs for X5, X7, X9, X0 and XX but have limited their range to GX and X0 following the market shift to 11 speed drive trains. 
+
+No it would not cause any technical issue to the bike. How well it handles can only be determined by experimenting. The 27.5+ tyre has a similar diameter to a 29 tyre. If you want to maintain the geometry and handling of a bike move to 29. 
+
+Saint derailleurs come in SS (short 23t cap with cassette extender) and GS (medium 37t cap with cassette extender) for more gravity focused 1x set ups. You will need to shorten your chain by removing links to fit the new set up. Use a chain equation such as this from Park Tools to get the correct length. 
+
+However Shimano only have one non-clutched XT Dyna-Sys (10 speed) RD the RD-M780-SGS (long cage 43t capacity). The clutched (shadow+) RDs come in GS (medium 35t cap) and SGS (long 43t cap). The frequent chain slapping and rear derailleur bouncing around has led me to question what the best gear ratio to ride is and if this will damage my drive train. 
+
+Your current set up will also be running a long cage derailleur which will now be redundant and you could move to a medium length RD. The longer cage could exacerbate chain slap so may be worth changing if that is important too you. I don't think you are matching like for like and actually the price differential is quite small. 
+
+Not sure why you're planning to move away from 27.5+, nothing suggest any benefits of 27.5 over 27.5+. 
+
+Then you'd need tyres on top of that. 
+
+I suspect the market for basic, obvious MTeB's is more couples and families, allowing them to go out for a ride together that's more interesting than just easy laps around a well-formed trail in a park. 
+
+Ideally you'll add vertical loads to or very near the axles. If you're lucky the dropouts will be cut rather than cast, and will take welding well. In that case you can just leave enough space to do up the wheelnuts and weld directly to the dropout. Making a rack out of whatever you have, as one piece, is usually fairly easy. Making it light and strong is the hard part/ So give up on light :) 
+
+Panniers and load platforms can often mount to existing attachment points. The hassle is that welding to the seat tube has to be done very carefully, and if you can back purge with TIG that's even better. If you even roughen the inside surface of the seat tube it can make getting the seatpost in difficult to impossible. Filing that smooth requires a half-round file hand patience (or a rotary tool with a filing bit plus skill and luck). You're trying to file 0.1mm off a tube that's 0.9mm thick at most.

@@ -1,0 +1,33 @@
+Sometimes you'll need to roam even when you haven't specifically selected for it. This is usually because you've either destroyed your opponent's turret or because your lane is truly hopeless. However, before choosing to roam, make sure you read everything above... an ineffective roamer is just an exp leech and is rarely a threat in the other lanes. 
+
+Having a roamer and a jungler allows you to effectively have three solo lanes, which gives your carries faster experience gain. But that's really just a side-effect of the roaming strategy. The roaming strategy is mostly defined by having a non-jungling champion with no "home" lane. That distinguishes it from simple ganking. 
+
+The role of a roamer is to enable the other lanes to get kills either through a combination of CC and the carry's damage, or by having enough burst/surprise damage to effect a kill. The basic idea is that, in combination with the jungler, there are so many ganks going down that the other team is going to fall behind in their lanes. Thanks to the experience advantage, merely damaging a lane or forcing them to blue-pill can generate an advantage. 
+
+The downside is that you need to roam with someone who fits the role, which is not a lot of champions. Low-risk roamers are those who don't need a lot of levels or gold (since you won't have much of either) to still be effective. Alistar and Taric are good examples of this, though Alistar is by far more common in the roaming role. High-risk roamers are champions who do need the gold (but not necessarily the experience) and are usually assassin-style character. Twitch is a good example. Talon can also work, but his lane power is so strong I can't recommend doing it. 
+
+I studied some videos of Alistar roaming and trained to fullfill this role quite successfully in some ranked games. But are there any alternatives to Alistar? Which characteristics should have been evaluated before choosing a champion for this role? 
+
+There tons of good guides, divided by champion. Each guide is voted by community so you can immediately distinguish between useful and garbage. And in addition every guide is linked to a patch version, so you know if they are outdated. 
+
+Unfortunately is not updated with latest 2/3 champions added and probably therefore latest 2/3 patches. I will update my answer later, in the meanwhile, but this could be a good start, these are the data I have, ordered by speed. 
+
+I just read a post on Elementz's blog that explained how meta game has changed in League Of Legends and how important is today the role of roamer. 
+
+One for all: Leaguecraft. I practically learned play League of Legends keeping that site on my browser and playing LoL in window mode. 
+
+The role of a roamer is to enable the other lanes to get kills either through a combination of CC and the carry's damage, or by having enough burst/surprise damage to effect a kill. The basic idea is that, in combination with the jungler, there are so many ganks going down that the other team is going to fall behind in their lanes. Thanks to the experience advantage, merely damaging a lane or forcing them to blue-pill can generate an advantage. 
+
+The downside is that you need to roam with someone who fits the role, which is not a lot of champions. Low-risk roamers are those who don't need a lot of levels or gold (since you won't have much of either) to still be effective. Alistar and Taric are good examples of this, though Alistar is by far more common in the roaming role. High-risk roamers are champions who do need the gold (but not necessarily the experience) and are usually assassin-style character. Twitch is a good example. Talon can also work, but his lane power is so strong I can't recommend doing it. 
+
+Unfortunately is not updated with latest 2/3 champions added and probably therefore latest 2/3 patches. I will update my answer later, in the meanwhile, but this could be a good start, these are the data I have, ordered by speed. 
+
+I studied some videos of Alistar roaming and trained to fullfill this role quite successfully in some ranked games. But are there any alternatives to Alistar? Which characteristics should have been evaluated before choosing a champion for this role? 
+
+There tons of good guides, divided by champion. Each guide is voted by community so you can immediately distinguish between useful and garbage. And in addition every guide is linked to a patch version, so you know if they are outdated. 
+
+Yes, enemy team in range see the graphical effect of Sona heal ability, even when it affects invisible allies. 
+
+Couple of months ago I made an Excel file crossing data from League of Legends Wikia and other sources. 
+
+In addition you can check builds for League Of Legends at Moba Fire and another useful source of tips on specific champion styles and builds is of course the official forum NA or EU.

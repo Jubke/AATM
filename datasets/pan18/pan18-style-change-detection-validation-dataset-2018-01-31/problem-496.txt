@@ -1,0 +1,31 @@
+update 2012-12-13 Manually suspending reviewing privileges has been introduced: 
+
+There's now a feature-request based on this discussion; see: Let's have an explicit triage system for questions from new users I'm about fed up with the First Posts review queue. 
+
+Users who encounter this block are directed to this page, which explains what that person must do to lift the block. Moderators have access to information on whether or not a given user would be blocked if they try to ask, as well as whether or not they've previously encountered the block, for those cases where it is desirable to provide one-on-one support. 
+
+If you're still reading, you're probably getting really bored by now. "Gee, Shog - answers that contain ZERO information are terrible, horrible, very-bad things? What shocking revelations will you share next?" 
+
+Improved oversight for deletion. 
+
+Well, it's election season again. On sites all over the network, moderators are being selected from among the good folk willing to volunteer their time to help guide and support their communities. I'm proud to be part of a system that governs itself in this manner; for all of its inherent messiness, democracy goes an awful long way toward avoiding the sort of alienation and discontent that tends to settle on communities over time. 
+
+Unless someone can raise a credible objection to this, I plan to start implementing this immediately: the next time someone nominates themselves after having been suspended on any Stack Exchange Q&A site during the past year, we'll quietly withdraw their nomination and send them a message to let them know why. 
+
+update 2013-01-29 Automatic review suspension has been introduced: 
+
+Questions are the lifeblood of any Stack Exchange site. But asking good questions can be difficult, and while most people start off doing it poorly, some never get better. For years now, when sites reached traffic levels that made manual review and filtering of questions burdensome for the good folks answering them, we've enabled systems to detect and slow down the folks who weren't putting any effort into learning and improving over time: 
+
+This stops short of fully restoring the previous capabilities - after all, there were serious downsides to that. But it should suffice to allow those most familiar with a given topic to better curate it. 
+
+For internal use, it offered the seductive convenience of scanning a row of numbers. Whether they meant anything is anyone's guess, but they look serious. But as to whether they helped the community gauge its own progress, face up to persistent problems... It's instructive to compare the last “experimental” quality eval post on Japanese Language and the first automated site eval post a year later: slightly less voting, 100% less discussion. This became a pattern... 
+
+Most of this has been suggested here at one time or another though. 
+
+As you can see from the picture, David is a very angry man. 
+
+I'll begin by laying out my own observations regarding chat... 
+
+In general, the same courtesies should be extended toward removed moderators as to suspended users: no airing of dirty laundry in public, no bringing up issues faced as a moderator in unrelated discussions, questions raised by other members of the public answered with as little detail as possible. Speculation should be discouraged out of respect for those involved. 
+
+Emmett has implemented some better analysis tooling for these queues, which should let us get a better idea of the scope and extent of the problem (once they're enabled).

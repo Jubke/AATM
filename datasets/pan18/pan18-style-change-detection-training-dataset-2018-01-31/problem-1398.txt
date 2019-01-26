@@ -1,0 +1,23 @@
+I've tried setting the cache to false, but that didn't make any difference. I was using jQuery Form, but I've removed it and the problem is persisting. 
+
+I have 4 images, which I want to fade between each other in a loop. I have something like the following: I've tried using the animate in jQuery with the a modified background position plugin, similar to that shown here but it more or less moves the background image up pixel by pixel, not set pixel jumps. 
+
+Edit #2: So everyone is clear, this is not at all for determining if the user is logged in, authenticated or anything. Right now the server will log the user out if they don't make a page request within 30 minutes. This functionality to prevent the times when someone spends >30 minutes filling in a form and then submitting the form only to find out that they haven't been logged out. Therefore, this will be used in combination with the server site to determine if the user is inactive (not clicking or typing). Basically, the deal is that after 25 minutes of idle, they will be presented with a dialog to enter their password. If they don't within 5 minutes, the system automatically logs them out as well as the server's session is logged out (next time a page is accessed, as with most sites). 
+
+Getting the element type the jQuery way: 
+
+The correct solution would be to check which one to use, depending on browser Your javascript would also have to be inside a PHP file for PHP to execute, or you would have to modify your server setup to run JS files thru PHP. 
+
+If it's for a DIV, you'd have to target the element that has the scrollbar attached, to get the scrolled amount In my opinion just using a path and filename is the right way to do it, try this and pay attention to the console (F12) : 
+
+For more generic use, a handy function A utility function that accepts any array of scripts could be created like this : Also, if any of the scripts fail to load, the fail handler will be called, and subsequent scripts will not be loaded You'll have to filter out the elements after the event and not in the selector, like this A fiddle to prove it : http://jsfiddle.net/qeUxP/ 
+
+First you'll need an actual form: 
+
+You can of course use any datepicker you want, jQuery UI's datepicker is probably the one most commonly used, but it does add quite a bit of javascript if you're not using the UI library for anything else, but there are hundreds of alternative datepickers to choose from. 
+
+First make sure you're hitting the target, try this and see if the alert shows : jQuery (website) is a javascript framework that makes working with the DOM easier by building lots of high level functionality that can be used to search and interact with the DOM. Part of the functionality of jQuery implements a high-level interface to do AJAX requests. jQuery implements this interface abstractly, shielding the developer from the complexity of multi-browser support in making the request. I suspect that the server method is throwing an exception after it passes your breakpoint. Use Firefox/Firebug or the IE8 developer tools to look at the actual response you are getting from the server. If there has been an exception you'll get the YSOD html, which should help you figure out where to look. 
+
+Generally you want to use on so that it applies the handler to new elements matching the selector and delegate to a higher element in the DOM. You can use the :checked selector along with the radio selector. 
+
+A, perhaps, better way to do this that would work (using GET) if javascript were not enabled would be to generate the URL for the href, then use a click handler to call that URL via ajax instead.

@@ -1,0 +1,19 @@
+Current behavior The current user behavior of voting to close a question as duplicate is as follows: No, seriously. Having colors would enable people to abuse them. Of course, we also have a possibility for people to abuse headlines or subscripts, but colors can be very distracting if not used correctly. I think a message such as the one you propose would be much too intrusive. The reasons are: If posts are edited, changing code, adding stuff, deleting stuff, how are you ever going to make sure that … 
+
+I figured I could visit Server Fault to vote for the new moderators. But there is a lot of text on this page – so meh, I'm gonna scroll to the candidates and start voting. But it's not possible. So, I try to read the text again. It has a couple of instructions on what to do, including: 
+
+The "links" When you click "links", you are welcomed with a "Congratulations!" message. The landing page Once you access the tools, you get to a page titled "stats". Why do you land in "stats", and why is it the third navigation element? 
+
+This is highly inefficient. While I see "first" questions when browsing the chronological order of questions, I'll never be able to get a list of first answers. And late answers don't always include first answers. 
+
+All in all, the tools are available in the backend and data, but it feels like they're still missing in the search feature open to the public. 
+
+Would it be possible to make that fact a little more obvious to users who don't have the required privileges? In fact, if the elections aren't really actionable for users with less than 150 reputation, why even show the page with that amount of detail? 
+
+However, I can only search for messages containing a certain string, and my "recent" messages don't allow me to scroll back. So, this is quite a mess. What could be done to clean this up? 
+
+Simple, isn't it? I don't agree with your premise of "sometimes this isn't possible though". Yes, sometimes it takes a bit more time, but you should always think about your readers if you want good answers. Write your question in a way that is easy to digest. Well, the page has no vote buttons for me. Where are they?! So, I scroll up and down, skim through the whole page again, to finally see this text crammed into the sidebar: So, how do I find that piece of information? If that's not currently possible, please add some way to check that, e.g. by allowing to search transcripts where I participate all the way back in time. And the best part, which is at the bottom of the page, right before the footer: Your premise is wrong. First of all, a certain amount of duplication is not a problem per se. And, more importantly: Just because something is a duplicate, that does not entail it's going to be deleted. Maybe the title was phrased differently, so even that justifies keeping it to attract different search queries. 
+
+Okay, I admit, I'm a bit nostalgic. Merging is an edge case, and having one user (without peer review, just with "merge" privileges) do it could be disastrous if there wasn't enough care taken before the merge. The same goes for merging with votes (e.g. needing three votes to merge). This can't really be undone, therefore it's different, i.e. an exception to the system, which is what moderators are for ("exception handlers"). 
+
+It wouldn't be as bad if I at least had the possibility to filter for questions/answers, but there's no way to do so. The current state is just a randomized (sic!) mix of questions and answers, so you're not even always in the right mindset to review properly. "Oh, here's an answer. And now I'm reviewing a question again!" — you can only find out by reading the "review question/answer" link before clicking it.

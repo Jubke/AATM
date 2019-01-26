@@ -1,0 +1,47 @@
+In my application I need to read it twice, once for authentication purposes and once for actually processing the content, and both functions are handled by different, independent modules. The crazy thing is: it works. 
+
+Following Dennis' hunch, I did this test: 
+
+To reset the keys of all arrays in an array: 
+
+It is being said that "static methods are death to testability". If that is so, what is a viable alternative pattern for the below? 
+
+In the remaining cases, let's say a template where you're outputting values that may or may not be set by a controller, you'll just have to check: 
+
+In effect you're usually dealing with (a mix of) these concepts when handling times: 
+
+The use case for this may be rare, but when you come across it you need it. 
+
+For those interested, I have expanded this topic into a small article, which provides the below information in a somewhat better structured form: The Definitive Guide To PHP's isset And empty 
+
+All the caller of this function sees is this: 
+
+You should avoid using the global scope in any way as much as possible; most certainly you should not be "pulling" variables out of the global scope into a local scope. 
+
+Is there a way to prevent the PHP GD image library from running out of memory? If too large an image is uploaded, GD tends to run out of memory, terminating the script. I'd like it to throw a catchable exception or something to that extend, but alas it doesn't. 
+
+Another, and possibly better option is that you continue to use the salting method of OsCommerce. It is more secure, and you'll also get to keep your existing passwords. 
+
+For example, is it possible to write code like this: 
+
+If the passwords are encrypted with md5, you won't be able to decrypt them. Your best possibility can be to check in your login code whether the creation of an account/last password change occurred before a certain date. If so, use OSCommerce's password validation function, if not, use your own. 
+
+Edit: I suggest installing Subversion on your local machine and develop all the code there, that way the SVN on your local computer can be used for version-control. 
+
+Is there a way to get all alphabetic chars (A-Z) in an array in PHP so I can loop through them and display them? 
+
+You will need to do this using Ajax. I recommend the Jquery library. Install it using the Jquery documentation, and then use something like the following: 
+
+Hope this helps, if you have any questions feel free to ask. Also, feel free to change the function and file names. 
+
+For those interested, I have expanded this topic into a small article, which provides the below information in a somewhat better structured form: The Definitive Guide To PHP's isset And empty 
+
+In effect you're usually dealing with (a mix of) these concepts when handling times: 
+
+In my application I need to read it twice, once for authentication purposes and once for actually processing the content, and both functions are handled by different, independent modules. The crazy thing is: it works. 
+
+It is being said that "static methods are death to testability". If that is so, what is a viable alternative pattern for the below? 
+
+Human readable wall clock time is more complicated, and it's even more complicated by the fact that it's abbreviated and parts of it omitted in daily use. 02:54:35 means almost nothing on the timeline pictured above. Jan. 27 2011 02:54:35 is already a lot more specific, but could still mean a variety of different points on this line. "When the clock struck 02:54:35 on Jan. 27 2011 in London, Europe" is now finally an unambiguous absolute point on this line, because there's only one point in time at which this was true. 
+
+Is there a way to prevent the PHP GD image library from running out of memory? If too large an image is uploaded, GD tends to run out of memory, terminating the script. I'd like it to throw a catchable exception or something to that extend, but alas it doesn't.

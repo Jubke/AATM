@@ -1,0 +1,41 @@
+Semantic externalism, or more broadly externalism about mental content, is the idea that propositions, intentions, attitudes, etc. derive their meaning from the external world as opposed to internally from the mind itself. Some of the most famous arguments for this view are Putnam's twin Earth thought experiment and Davidson's swampman thought experiment. 
+
+In addition, John Bartlett's book Bartlett's Familiar Quotations is one of the most famous collection of quotations in existence. Per its wikipedia entry: 
+
+The Story of Philosophy: The Lives and Opinions of the Greater Philosophers by Will Durant is a book that explores many of the major Western philosophers, putting their work into historical context and then elaborating on their main ideas. Russell's A History of Western Philosophy does much the same thing. However, one of the major differences between the two is their scope. Russell covers much more of the history of philosophy in his book, having sections that are completely omitted from Durant's work. These include a section on the Pre-Socratic philosophers as well as Greek philosophers that came after Aristotle. Durant only covers Plato and Aristotle's work. Durant also skips the Catholic Medieval philosophers and goes directly from Aristotle to Francis Bacon. It would be remiss to say that the scholastics had no influence on Western philosophy. 
+
+There is a point in ethics where the question stops being about "morally right" and "morally wrong" and it turns into "morally obligatory" "morally permissible" and "morally impermissible." Its not that "right and wrong" or "good and bad" don't mean anything, it's more so that they don't encapsulate the entire story just on their own. 
+
+The most common, and widely accepted as being the most philosophically well founded, semantics of modal statements are possible worlds semantics which say that a modal statement, either something about necessity or possibility, derive their meaning from a set of possible worlds. If a proposition is true in all possible worlds then it is necessary, if it is true is some possible worlds then it is possible, and if it is true in no possible worlds then it is impossible. 
+
+There are also multiple scans of the text on archive.org. For example, here is Part I and Part II of Paul Shorey's 1935 publication, it has the original Greek as well as his English translation side by side. 
+
+My assumption is that there is no way to get around modal realism if you believe (1) external things are real, (2) external things are what give propositions meaning, and (3) possible world semantics are what give modal statements meaning. Most of all, I am interested in any papers that deal with this question. 
+
+At their core, Russell's book is about the sequence of ideas and thinkers that ran throughout history leading to where we are now (well, to where we were a hundred years ago when he wrote the book) and Durant's work is about a few of the more major philosophers that participated in that process up until now (or, again, when the book was written). The titles of the books really do reveal what content is inside. The Story of Philosophy: The Lives and Opinions of the Greater Philosophers is about the lives and the opinions of some of the more important philosophers in Western philosophy while A History of Western Philosophy is a trace of its history. 
+
+For an introduction, see this Wikipedia entry 
+
+I could not find a complete English translation of this letter, the German original can be found e.g. here. 
+
+Regarding a comprehensible story and more sources I think the most readable summary of how things were and the philosophical drive produced by the reviews is in Eckart Förster's The Twenty-Five Years of Philosophy (2012), pp.48-53. 
+
+As a counter-argument to that another letter from Hamann to Herder should be considered that deals with the Garve-review as well (from Dec 9th, 1783): 
+
+A normative aspect of time would be saying how time itself should be like. And I actually cannot imagine how to think this. 
+
+Motivation The sentiment that Human Rights are not universal poses legal, political, and philosophical problems. Stephen C. Angle cites the head of a Chinese delegation, Liu Huaqiu (1995), in his book Angle, S. C. (2002). Human rights in Chinese thought: a cross-cultural inquiry. Cambridge University Press, p.2. as follows: 
+
+Second point is the translation. It is crucial to have a translation that can catch the main content of the ideas of the German words. The best for this is the Cambridge Edition of Paul Guyer and Allen W. Wood. As a paperback it is worth the investment. 
+
+Starting from Husserl, modernized by what is called "philosophy of mind" with Ryle, Nagel and Searle as some examples. 
+
+What are the main lines of argument (and by whom and where) criticising the very idea of a common denominator of humanity (or the human condition) in light of human variation? I am interested mostly in arguments that meet the following criteria: 
+
+If we want to justify any set of human rights as universal we will, therefore, have to face these (and other) objection(s) regarding finding something that deserves the name "human nature".1 
+
+Now, regarding the idea of an interpreter regarded as an authority: 
+
+In the light of this, again: It is weird to say how "time" should be like, it is like it is. There can be wrong conceptions about what time is, but a philosophical concept will (or should) always be "thin" if it is not an ethical term (one could say that this is because ethics have no "real being" like objects and are purely phenomenal). 
+
+The text is referenced and being cited (see Google Scholar), i.e. meets minimal criteria of scholarship. It is written in English, German, or even French (if must be). Arguments from different cultural and/or philosophical backgrounds would be most welcome, given the above two points. Examples would be the above-mentioned argument of incommensurability, Wittgensteinian arguments about the limits of mutual understanding and community and language framing one's reality, or historical and more general contextual limitations of universality (like the Chinese delegate mentioned).

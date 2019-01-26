@@ -1,0 +1,63 @@
+During the night, monsters can spawn. But they will own spawn in areas that are below a certain "light-level". Most mobs require a light level of 7 or lower to spawn. A torch will emit a light level of 14. 
+
+The conventional method for finding an End Portal is to use Eyes of Ender (Combine Blaze Powder with an Ender Pearl). When used, they will float up in the direction of the closest End Portal, then after a few seconds, either fall back down, or break. 
+
+So the thing is that this is a legit outcome. After a few trades (2 or 3) the villager will no longer be willing to trade that specific item with you. Generally this will however open more trades. Unfortunately, there is a minute possibility that this may be the only available trade this particular villager offers. 
+
+Some additional mods have their own achievement lists. This button switches between them. Eg, if the button says "Minecraft" it is showing the Vanilla achievement list. If it says, perhaps "IndustrialCraft" (a different mod), it will be showing the IndustrialCraft achievements. 
+
+I would just like to start by saying I am not asking what causes a zombie to turn a villager or anything like that. 
+
+I understand there would little point to it, lava isn't exactly a hospitable environment for any kind of fish able mob... 
+
+However, because the mods you currently have do not add anything else to the game, this does not have any other unique achievement lists. 
+
+If a repeater is placed in a direction that does not follow the direction of the redstone it cannot repeat the signal: 
+
+I only tested this on a chicken, and I hit it ~30 times (which is more than enough to kill a chicken at half a heart damage per hit), to no avail. 
+
+The first thing you want to do is make sure that the repeater is in range. A single redstone current travels 15 blocks, so as long as the repeater is placed within that range, it will work. Additionally, regardless of where the repeater is placed, it will emit a signal strength of 15 blocks. 
+
+After reading this question, I wondered if the enchantment was actually effective up to a certain level, or does it just keep going up to the maximum enchantment level? 
+
+EDIT As per the comments, here are the mechanics on "re-enabling" locked/disabled trades. 
+
+Post-Note: I have actually found that if you are looking for a bow with the "Infinity" Enchantment specifically, you will actually have better luck with fishing. 
+
+Given the lava physics in Minecraft, light intensity and radius are the same. A candle gives 14 luminance and 14 radius. Lava and sunlight have 15 luminance instead. 
+
+Simply make a bed and lay into it. If you're in multiplayer mode, you don't need to wait for all others to also get in a bed in order to sleep - laying down is enough to change your spawn point so long as your bed doesn't get destroyed. 
+
+Unless your minecart has a lot of momentum (not speed), powered off minetracks will stop your minecart. This wasn't the case. 
+
+It would make light travel a whopping one block further in the three directions you add the lava to. 
+
+The clouds are at height 49-46 above sea level. That gives you a 15 meters' room above the clouds. 
+
+If you don't like the dithering, you can turn that off and approximate every pixel with the closest color: 
+
+For example, here's how this process changes a picture of the color spectrum with Floyd-Steinberg (reduced color bleed) and these wool colors: 
+
+I tried putting two powered rail right before the powered off rail, but the cart still came to a complete stop. 
+
+Here's another example: kitten. 
+
+I built a small homage to the booster while revisiting an old world, given that its place now lies in our hearts... and behind a glass case, museum style. 
+
+So what I'd suggest, is that you save your near-empty inventory, give yourself enough material to get back home, and then reload your old inventory. 
+
+REALLY IMPORTANT EDIT: With 1.5, this method of installation no longer works: you need to append the class files of the mod into the minecraft.jar file. If you're unsure how to do this, you can simply download a copy of the already modded minecraft.jar Here. 
+
+If you're unsure how to edit your textures, you can read about it here. 
+
+You can also set waypoints with it. 
+
+Note: the following is for a Windows machine. 
+
+The flight speed in Minecraft 1.8 is the same as, or faster than the sprinting speed on land. So, it doesn't really matter either way; you'll always go the same speed when flying, from what I can tell. 
+
+      I found a really neat video a while ago of a Mega Mob Factory someone had made for farming Ham. I'm sure you could do the same with a mob of creepers. 
+
+Try getting everyone on the server to leave the area, and come back. The easiest way I can think of to achieve this if there are a lot of people playing is to try a server reset. This should cause them to despawn. 
+
+EDIT: Since the maps of Minecraft 1.6 are virtually useless, I've just installed the new update for this mod, which now displays coloured wool as the appropriate colour, and as a bonus, no longer requires Modloader to install. I'll also include a video of the mod in action.

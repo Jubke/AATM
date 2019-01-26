@@ -1,0 +1,39 @@
+Fixed and rolled out in build 2013.7.18.862. Closed questions are now excluded from known good post audits in the first posts review queue. 
+
+I guess I can just wish you good luck having fun with those, you asked for it ;) Congratulations on finding a new edge case in a class that hasn't been touched since 2011. 
+
+Rest assured, The Wheel of Blame has been spun. 
+
+Thanks for pointing this out. It'll be fixed in build rev 2013.7.30.1289 (meta) / 2013.7.30.902 (sites). 
+
+But not all is bad as it seems. I already noticed the exceptions in our logs before this bug report, so the fix was already in the pipes before it was reported on meta. 
+
+I guess we're now paying the price for fixing pluralization in the past and Jeff was right all along! Fixed, should work correctly everywhere now. 
+
+But anyway, watch out for those, winter is coming... 
+
+We've been caught... That's because until recently audits for queues where users had filters weren't even implemented enabled. It was a bad roll out of DB migrations + code at the same time. DB migrations happen when meta is built. So it was a case of old (pre-migration) code running against new DB schema. The issue fixed itself once everything was deployed to all servers across all tiers (meta & sites). By all means, do add guidance to the dialog. 
+
+Conflating obsolete and too-chatty also makes future evolution harder. The best person to determine whether a comment is obsolete is its author; I hope that one day comment authors will get a chance to review obsolete flags on their comments. This does not hold for too-chatty flags, because many commenters believe that their comments are oh so important and totally not off-topic and they won't stand for the censorship of moving comments to chat. 
+
+Refresh the page afterwards to see the effect. This actually copies the comments, so you'll probably want to remove most of them. 
+
+I would prefer to keep the 4 existing comment flags: 
+
+If the target site doesn't want the question, the question should not be migrated. That is a problem with the current migration rules. Not the age, but who decides. 
+
+Determine whether the flag is warranted. Moderators have a “mod” menu to the left of the indicators. The number of flags should be next to that. This makes the following order the obvious solution: 
+
+I'm torn on the value of presenting a rectangular arrangement rather than a list of rows. The narrow columns for short text are nice, but when a tag lacks an excerpt, that means a lot of ugly blank space. This is not good. Suggested edit review is not like other review tasks which can wait until somebody's interested in doing moderation. A pending suggested edit on a post locks the post against modifications by users without the edit privilege. Without the indicator, posts will spend longer in that semi-locked state. 
+
+It used to be that when you had multiple consecutive comments on the same post, they appeared in a single entry in your inbox. If there's good content in an old, off-topic question, I'd rather migrate it to a site that wants it than delete it. The disappearance of the suggested edit indicator is the only change that I can think of to explain this significant increase. For a discussion on a meta site where I'm a moderator, I'm in the process of compiling a few statistics. 
+
+Furthermore, the inaccuracy should be explained in the tooltip. Instead of showing ”~42 review items“, show “42 total pending reviews” — still reasonably short, but hints that it's not counting just reviews that you can do. If they didn't get a bright orange bar multicollider notification, they wouldn't even notice. And how is a migration a worse experience than outright deletion anyway? 
+
+It's annoying to remember which is which, or which color is which when only one is shown. It would be better if the nature of the indicator could be determined from the position alone. 
+
+As a user, I find the flag queue mostly useless — flags have to be processed by a moderator eventually, so it isn't really useful. Conversely, as a moderator, the flag queue is really important: only three of us can deal with it (on most sites), whereas more people can deal with suggested edits. I want the difference between the two numbers to be evident. 
+
+In summary, concept 1 is horrible. Thus, if you happen to participate in a high-profile thread (shudder reply to Jeff on MSO shudder, your inbox is shot for a while. 
+
+Hiding the information doesn't serve a useful purpose. If you feel that the number is not tied closely enough to the word “review”, reduce the space between them, and make “reviews” plural when there are 2 or more, so that the text smoothly reads smoothly “N reviews”. If the question was on-topic it wouldn't be migrated. If your problem is that on-topic questions are migrated, tell off the people who are migrating on-topic questions. If your problem is with questions that were once deemed on-topic but are now no longer considered so (e.g. the kind of SO questions that were once moved to Programmers), that's a different matter that should be juged on a case by case basis. Ok. From a moderator's perspective there isn't that much difference between “rude and offensive” and that — in both cases, a moderator needs to evaluate the context, delete the comment if the flag is warranted and possibly take further action (e.g. mod message). But from flaggers' perspective it's nice to have the “be nice” remember in there.

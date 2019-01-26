@@ -1,0 +1,39 @@
+The takeaway from this, for most players, is that you can evaluate the value of a ruby in most weapons simply by using the lower bound listed as a flat modifier. The only edge case is at very low levels with very slow weapons - a circumstance in which a Ruby is better than all other options no matter what, anyway. 
+
+Just about the only thing you can do to speed up the skill switching process is to right click on the skill you'd like to change. By doing this you'll jump directly to the skill selection for that key, bypassing one page of the menus you'd normally click through. 
+
+Assuming you're keeping the blacksmith current, at this point, any additional gold can be spent as you please on upgrading your equipment. Whether you do that through crafting, the auction house, or browsing the various shops of Sanctuary, is your call. There are advantages to all of them, and at this point, the game opens up enough that one-size fits all answers are no longer easy to provide. Just remember to keep your artisans (the Blacksmith, and eventually, the Jeweler) up to date, and you're good to go. 
+
+What's the deal with Attack Speed affixes? Why do they seem to only work sometimes, and even then, not always for both weapons? 
+
+In fact, if you look at the detailed breakdown of your defenses in your character sheet, it's even listed as 'Thorns' there. 
+
+After that, The Blacksmith is probably your next priority. Specifically, you'll want to make sure that you always have him trained up to produce gear either at or just above your current level. That means you'll want to have pumped 8,000 gold into his training by level 10, another 20,000 by level 20, and so forth. You can keep track of all the numbers, as well as the recipes available at each tier over on Blizzards site. 
+
+So, the absolute first thing that I would spend money on is a pair of rings. Specifically, if you can get your hand on two rings with the Wounding property (with +2-4 Damage on it) as soon as you reach level 6 (which should be the minimum to equip them), you'll notice a dramatic increase in character power. These two rings will cost somewhere between 3500 and 4500 gold, depending on the exact properties (a Scouting Ring of Wounding, with +Magic Find as well is a particularly great grab). Of course, the vendors inventory is random. Fortunately for you however, it refreshes every time you exit the game and create a new one. Once you've rescued Deckard Cain from the cathedral (which is the prerequisite to access the vendor in question), you should log in and out a few times while checking the vendor. Once you see a ring that appeals to you, snag two of them, and you're good to go. 
+
+Rakanoth - will become more aggressive after three minutes. 
+
+I've had it active at the same time as another well in the starting area and by itself. I've also had it active with pretty much every combination of every other dungeon/cellar in that area so it doesn't seem to be linked to this either. 
+
+This is further clarified by Grimiku, one of the community managers at Blizzard: 
+
+When you log back in you will be in town, as per normal instances when you join a new game. 
+
+Contact Phone - 1 (800) 592-5499 
+
+Chris Metzen has hinted that Leah's spirit may be "floating around somewhere" after the events of Diablo III. Covetous Shen also tells the player not to underestimate Leah's spirit and implies he had seen something similar before. 
+
+In terms of the achievements, not getting hit means not taking damage. Using abilities like Smokescreen (pure immunity) counts, Diamond skin (absorption) also counts, dodging counts. Block does not count. In the case of block you're only reducing the damage taken rather than avoiding it. 
+
+Ghom - will begin spawning 'Gas Clouds' more frequently after four minutes. 
+
+I have been farming gold in Act 1 and have seen and entered the 'Quality Well' many times, there appears to be no contributing factor to the well being active, it's always in the same place. There are multiple well spawn points within this area but the one you're after is located in the Old Tristram centre, opposite the old Blacksmith building. 
+
+On low MPs, archon wizard is the fastest for xp farming. They can (as of 1.08) keep up permanent archon and roll through hordes of monsters. They are also relatively cheap to set up as you can get a 150k dps archon wizard for 10-15m that can roll through mp2 in no time. For higher MPs, you'll have to swap to a CM build, but those are way more expensive to gear up than building a decent archon wizard. 
+
+If you die, you can respawn but the timer will not stop during this period. 
+
+With 20% chance to crit and 2 attacks per second and no SS, you'll have, on average, 2.5 seconds between critical shots. This means sharpshooter translates roughly into 6-9% critical chance. This roughly translates into 12-18% more damage. This is pretty on par with cull the weak. 
+
+The main goal of this setup is to have high dps with huge life on hit and high critical hit damage. I'd prefer my primary to be socketed to have even more critical hit, but those weapons with similar stats to mine are too expensive right now and far beyond my reach.

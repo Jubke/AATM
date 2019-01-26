@@ -1,0 +1,41 @@
+Best of all, never once do I need to argue against the belief, which is often a deeply held belief. Instead, they are free to keep the belief as long as they please, but I seek to gain agreement on what behaviors should or should not come from it. It is remarkably hard to argue that I should care about anything beyond that. From there, I let them wrestle with the belief themselves. 
+
+As for how [4] implies [5], it doesn't. It's the other way around. Your [5] implies [4] is a needed part of the argument. If you use your [5], "Since women have as much right to self-esteem as men, women should earn as money as men," there would still be a missing premise, because there's no obvious connection between a woman's rights to self-esteem and money. That connection can only be made by also including [4], "Money is an essential part of self-esteem." Only through [4] can you defend [5] 
+
+In this scenario, we're going to need to define a few more propositions to properly capture the entire process, step by step. First, we are going to start with Pp, the "prevailing hypothesis." This is the presumed answer, based on what people knew at the time. It's also something we'll be overturning, so don't be surprised that you already know its false: 
+
+An alternative approach is to observe that the prevailing model does a poor job of predicting experimental results, scratch together a theory, and state "The results of pea plant crossings is well modeled using the model, Rules L." At this point, no statement of ontological truth is made, just an empirical announcement that this model fits the data so far. Over time, if no better model comes forth, people may elect to change the phrasing to "The model is true," not because any additional evidence had come forth, but simply because it is convenient to think that way. This may be very unsatisfying mathematically, but linguistically it captures how ideas evolve, simplify, and are passed on to new generations. 
+
+Now he goes about "falsifying" Pp, by demonstrating that his new [conflicting] theory, P1, fits the data cleanly while Pp looks less reasonable because it is a poor match to the data. To "prove" P1 using the scientific method, he uses one final proposition, the null-hypothesis, P0: "Pea plant crossings do not operate near a 3:1 ratio with a random variance around that point." If the data from his upcomming rejects this P0, then the only valid theory remaining is P1. 
+
+The best success I have had is taking a slightly different tack. Instead of arguing "Bigfoot does not exist," I argue that acting on the belief that Bigfoot exists is counterproductive. By adding a layer of action on top of the belief, there is room to make arguments that would be impossible if I simply targeted the belief itself. 
+
+The Omnipotence Paradox The omnipotence paradox, in short, is this: 
+
+These are only examples that begin to answer your questions; there is far too much in the (excellent) article to put here, but reading it should complete the answers well. 
+
+If the answer is "yes," then God will have created something out of his own power to control, therefore no longer being omnipotent. If the answer is "no," then God is simply not omnipotent to begin with. 
+
+However, that is only if omnipotence is the sole premise. Conversely, you mentioned several premises to the definition of God, one of which seems particularly important. I think what renders the statement "God destroys himself" problematic is your following statement: 
+
+And it also mentions that "category theory allowed for the development of methods that have changed and continue to change the face of mathematics." 
+
+Thus, it's apparent that category theory is relevant to and has implications for both mathematics and philosophy, and is not just semantic. From the perspective of mathematics, category theory is very significant because "doing mathematics in a categorical framework is almost always radically different from doing it in a set-theoretical framework." 
+
+So, to answer your question: we don't have to rationalize that complex numbers exist. It doesn't matter if they exist or not. 
+
+When it is used, it has the same meaning as the mathematical/logical usage. 
+
+First of all, complex numbers (and imaginary numbers) do appear in real-world phenomena; they have lots of practical applications. 
+
+Similarly, we can look at Russell's paradox, which seems to point at problems concerning the nature of sets, or the Burali-Forti paradox. 
+
+A proposition, on the other hand, attempts to add new information (by predication, etc.) 
+
+EDIT: I found an SEP article that specifically treats of Fictionalism in Mathematics; it is a nice reference for the more specific case. 
+
+I suspect that this is the very point the OP's professor is making, and his warning should be heeded. 
+
+Note that I said above "(in the mathematical context)"-- in mathematics, it is customary to draw a distinction between definitions and propositions. This distinction is not maintained the same way in Kantian (and post-Kantian) metaphysics; there, as you point out, a definition is a type of analytic proposition. 
+
+And, as Tarski has pointed out, any language which has a truth-function is going to be subject to the Liar paradox. The fact that the questioner chooses to consider this as "non-signifying" is interesting, as it raises the question of by what rigorous criteria one could choose to exclude it (and other similar propositions).

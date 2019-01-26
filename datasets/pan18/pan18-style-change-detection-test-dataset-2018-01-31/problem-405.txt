@@ -1,0 +1,21 @@
+The general idea here would be that we help you to solve your own problem. That is, you do the work, we assist. So make it very clear where you are in this process and how we can help you out, without us having to do the actual work for you. 
+
+You want something, sure. But that is not a question it itself. It can at most be translated into a request. And if that is what you're going for, you don't have a question. 
+
+But other than that I would welcome some clear and well-documented code. 
+
+And that is not a great question. I would personally not go for an off-topic closure. "Not constructive", or perhaps even "too localized" would have been better fits in my opinion. Because what does "more readable" mean? Readability seems to be a rather personal concept. There might be many answers, one not necessarily more correct than the other. A matter of opinion if you will. 
+
+I would say that it does no harm and would leave it in. An exception might be in the case where it's overly long, meaning I would have to scroll a page even before seeing the actual code. Then I might (and I mean might) edit it out because it would form a distraction. 
+
+Sharing your knowledge with the world is admirable. And if you can share great, on-topic questions and answers with the rest of the world, by all means do so. And that is often where things go off-track. The content contributed might not be all that bad, but it doesn't make for a good question-answer pair within the boundaries of Stack Overflow. In this case the question boils down to the single line 
+
+If you are however not looking to solve your own problems, writing your own code, then Stack Overflow might not be the place for it. 
+
+So does that mean I can go around SO, grab an answer, and post it verbatim as my own if I just dump in some attribution? Technically perhaps. (IANAL) But the community will be pretty quick to kick my behind for doing so. Copy-paste answers are not appreciated and, even when correct, can expect their fair amount of downvotes. 
+
+Ah, if only everyone would be so kind to properly name their classes, functions and variables, making their bare code easier to read. 
+
+If you clarify the question with that in mind, and address some of the concerns regarding what exactly you want to achieve, then I'm pretty sure your question would be no longer unclear. 
+
+I commented this before: If there is anything to "readability" that has a definition, implied constraints, or significance for Isabelle beyond that of what we would normally consider it to be, then make sure to clearly outline this in the question. It might certainly help improve the situation. Whether it will resolve the problems though, I'm not sure.

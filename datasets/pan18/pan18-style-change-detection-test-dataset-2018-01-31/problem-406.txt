@@ -1,0 +1,51 @@
+As such, it's now gone. I cleaned up some horrible tagging along the way, like adding appropriate debugging tags. 
+
+I've now completed removing computing. 
+
+Sigh. We don't need a tag for every single function in every single programming language. Most of the questions in print-r are "why does it look like that" and "how do I parse the output." A few were about using it to assist in debugging. 
+
+The rest seem to be either talking about the data type or are talking about "real" physical or logical things, as opposed to ... uh ... fake? I'm cleaning up the physical things mentions, but I'm not sure what else can be done to make the data type more clear. There are still about 20 questions, mostly topical. 
+
+Starting to clean up real. Most of the questions tagged facebook were about Facebook's Real Time Updates mechanism, now tagged real-time-updates. Most others that were tagged with time are now tagged real-time. 
+
+A good question should have both the actual requirements of the problem being solved as well as the OP's attempt at a solution. A question missing either is incomplete. 
+
+Allowing users to review items in the queue without enough experience using the site to make effective judgement would cause more harm than good. Having less reviews, but quality and effective reviews, is better than lots and lots of very poor quality reviews. 
+
+Downvotes also feed several automated deletion scripts which can delete content of sufficiently low quality after a period of time. 
+
+Your question is built around the premise that SO exists to help someone answer a question that they are asking. You have a problem with this question because you know that the person asking it knows the answer, and thus doesn't need your help. 
+
+We work very hard here to ensure that users don't act rudely or otherwise inappropriately towards posters, even if they post low quality content. It's important to find ways of providing feedback (both positive and negative) while still remaining constructive. I see nothing in any of your questions in which there has been unconstructive or rude negative feedback. It may be a bit terse at times (i.e. just a downvote rather than a long consoling comment). It's important to remember that terseness doesn't mean rudeness. 
+
+Moving on, we can start by looking at the comments on that question. There are two that indicate problems with the question. Both are likely indicating reasons for downvoting. 
+
+Your assumption is not correct. SO exists to create a repository of knowledge useful to the wider audience of the internet as a whole. The person asking the question need not be helped at all. (Although helping them is a positive side effect, and a secondary goal that you should strive for when possible and applicable.) In general you should be asking yourself, "How can I help everyone who reads this question. (Including the OP)" rather than, "How can I help the OP." 
+
+Because someone decided to downvote you. People can vote for whatever reason they want with just a few exceptions related to voting fraud. Perhaps the person didn't find the question interesting, felt that it wasn't clear, was just feeling grumpy, or for whatever reason didn't think that it would be valuable to future readers. We can't know why someone else voted, nor can we say that it is right or wrong. People have the right to vote however they want. 
+
+computational is now also burninated. It was being used most frequently to refer to computational complexity, which is covered by complexity (and, irritatingly, computational-complexity, which I'll be fixing in a moment). 
+
+Starting to clean up real. Most of the questions tagged facebook were about Facebook's Real Time Updates mechanism, now tagged real-time-updates. Most others that were tagged with time are now tagged real-time. 
+
+As such, it's now gone. I cleaned up some horrible tagging along the way, like adding appropriate debugging tags. 
+
+I cleaned up half of computing. It turns out that someone synonimized cloud with cloud-computing, which is going to make it hurt for people that don't know to look for tag synonyms when picking tags. Sigh. 
+
+Sigh. We don't need a tag for every single function in every single programming language. Most of the questions in print-r are "why does it look like that" and "how do I parse the output." A few were about using it to assist in debugging. 
+
+I've just merged line-feeds into linefeed (it was a lot smaller and it should be line-feed anyway) but everything else seems to be as bad as it was. 
+
+I guess that answers the question but I'd still like to get rid of the other tags I came across, whilst doing this, that deserve burnination: 
+
+What you're suggesting would be a nice to have for the good citizens who go back1. If you are a good citizen, and always explain how the post could be improved, you could look for posts that were edited by the OP after your comment and where there was a downvote prior to the OPs edit. You can't know who downvoted but you can check if one occurred. 
+
+As explained who voted is not contained within the Data Explorer as that would involve making downvotes public. 
+
+Oh the irony. This is the tag wiki for newline 
+
+Having done a bit of extra searching: 
+
+On a related subject the following should probably also be synonyms/merged: 
+
+line-endings seems to be being used as a synonym of newline as well.

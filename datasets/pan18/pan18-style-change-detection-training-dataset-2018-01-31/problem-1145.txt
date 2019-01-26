@@ -1,0 +1,43 @@
+Retired Hurt: If a batsman falls ill or gets injured while batting, he may retire with the umpires permission. At the end of the teams innings, if this batsman does not return to bat, he is considered 'Retired Hurt' and is considered not-out. Statistics-wise, the runs scored by him will be added to his career total as well as the innings. However, as average is calculated by "Runs scored / ( Innings - Not outs )", the denominator would not be affected by this game, as he is still not out. As long as he has scored a run or more before retiring hurt, it effectively means his career average will be better at the end of the game than it did at the start of it. 
+
+Law 2 in the ICC Law Book states that, 
+
+The net run rate is calculated with the below formula: 
+
+There is no limit to the number of red cards that a referee can give, though the game would be stopped as soon as there are less than 7 players of a team remaining legally on the pitch. 
+
+As of Law 3 in the FIFA Law Book, there cannot be less than 7 players of a team, on the field during play. In effect, a maximum of 4 on-field players of the same team can be dismissed. Once 5 on-field players (substitutes do not count) of the same team are red carded, the match ends. If the referee has red-carded 4 players and all 7 substitutes of each team (22 players in total), the game can still continue, provided there are no further red cards to players of either side. 
+
+Appendix 7.5 of the IPL playing conditions states, 
+
+Question - What is the result of the match? 
+
+Has the bowling team won? -> Though the non striker has reached the strikers end and gone back, the batsman hasnt made any effort to take a run. This is considered as a no run and the bowling team is declared winners. 
+
+As per the normal playing conditions, the bowling captain can replace an injured bowler with another bowler of his choice. This would apply to the super-over as well and a new bowler will bowl the remaining balls of the over. 
+
+My question is based on this third scenario. Two fielders are running behind the ball. The first slides, stops the ball and wants to pass it to the second fielder. But his throw misses the second fielder and the ball rolls over the boundary ropes. 
+
+Probably, this is why they call cricket a gentleman's game. 
+
+Both team captains have to give a list of three batsmen and a bowler from their team to the umpire. These 4 players from each team will participate in the super over. The chasing team at the end of the T20 game will bat first in the super-over. 
+
+Source: Appendix 7.14 in ICC's T20I Playing Condition Handbook. 
+
+Consider a scenario where a fielder is chasing a ball that is running away to the boundary. He puts in a dive, gets a hand to the ball but it runs over the boundary ropes. The umpire signals a boundary and 4 runs are awarded to the batting side. 
+
+(b) If a batsman retires for any reason other than as in (a) above, he may resume his innings only with the consent of the opposing captain. If for any reason he does not resume his innings it is to be recorded as ‘Retired - out’. 
+
+A batsman may retire at any time during his innings when the ball is dead. The umpires, before allowing play to proceed shall be informed of the reason for a batsman retiring. 
+
+Find below the current RCB Net Run Rate (0.47) and the break-up of how the figure has been arrived at considering all the games that they have played till now. 
+
+(a) If a batsman retires because of illness, injury or any other unavoidable cause, he is entitled to resume his innings subject to (c) below. If for any reason he does not do so, his innings is to be recorded as ‘Retired - not out’. 
+
+Retired out: If a batsman retired without the umpire's consent and if he does not have permission from the opposing captain, then he is considered 'Retired-out'. This is considered as a dismissal. Only two batsmen have retired out in an international cricket Test match. Both instances occurred in the same match, with the Sri Lankan batsmen Marvan Atapattu and Mahela Jayawardene retiring out. 
+
+EDIT: Chris Gayle was on 4999 career T20 runs before the start of the RCB v DD game on 16-Apr-2013. The first ball he scored a single to move to 5000 runs. He ended up scoring 13 in that innings and 2 more in the super over. However, ESPNcricinfo (forgive me for my photoshopping "skills") has his career runs as 5012 (4999+13) and not 5014, meaning it only considers the runs scored in the main match and not the super over. 
+
+There is no card system that is in place for cricket. Action is taken on players after the game and subsequent hearings by the match referee, in case they fail to follow the rules and ethics of the game. The examples that you provided might have been in jest and they, for sure, could not have been ejected from the game. 
+
+In the super over, if one of the openers gets injured, then the third nominated batsman comes out to the middle.However, if one of the openers is already dismissed and if another batsman gets injured - it gets interesting. According to the rules in the main match, if a team is 9 down and a batsman gets injured, the batting team will have to bring their innings to a closure as everyone else has been dismissed. Strange as it may sound, if the same rules apply to the super-over, if a nominated batsman has been dismissed and another injured, then the team forfeits the remaining balls in the over and they end up with the then prevalent score.

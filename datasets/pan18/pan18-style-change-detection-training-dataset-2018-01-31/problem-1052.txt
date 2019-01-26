@@ -1,0 +1,29 @@
+Is there any service out there that lets you generate latex images using query strings? I'm thinking something like: 
+
+http://img20.imageshack.us/img20/7112/postsvsdayssmall.png 
+
+Part of the problem is that Gravatar is sending a bad Last-Modified header. It seems to be when you signed up for Gravatar, not when you last changed your gravatar image. This makes Chrome, in particular, think that the image has not changed, even on a Ctrl+F5 refresh. Even though Gravatar sends a max-age of 300 seconds (5 minutes), the browser sees that Last-Modified hasn't changed and figures it doesn't need to re-download the file. The only way I've gotten Chrome to update Gravatars is by clearing my cache. 
+
+Of course, I'm pretty sure the response would be something like "this is already a very text-heavy website, I don't think it's needed." :) 
+
+I'd like updates to favorite questions to show in the recent activity page, just like updates to my own questions are shown. As it stands now, favorites are little more than bookmarks, that require manual polling to check for updates. 
+
+Update: As requested in the comments, here is a chart showing total number of posts vs. age of site. I'll give you that this looks like it could be O(n2), with a very small constant factor (and an anomalous bump around the public launch). Unfortunately I don't remember enough about statistics to tell you which function is a better approximation. I know you need to use r-squared and rho and standard deviations, but I don't remember the significance of any of those things. One of them is supposed to be less than 1.0 I think. Anyway. A higher res version is available here. 
+
+And how do you think ABP earns money? By letting companies pay to get on the list*. No way SE will pay for that. 
+
+I used another duplicate target as the one another user suggested which had just one vote until the time I voted to close. However, this first duplicate (which I found less useful than mine), was still on top in the duplicate notification. 
+
+Two reasons I can think of this is a bad idea: 
+
+Blocking comments from low-reputation users in one mechanism against SPAM, since comment spam is very hard to track (since there is no review queue on that for example and no bumps). The comment block serves its purpose. Allowing new users to do one comment (possibly one SPAM comment), breaks this measure. 
+
+If new users don't respond to the help they get, and keep posting questions that show no effort, no research, nothing, they deserve every downvote they get. 
+
+If you force other users to wait until they can vote to close, the question is long gone and will probably never get closed, since no one sees them. This is bad for the quality of the site. We don't close questions to bully people, it is quality management tool. 
+
+Do you really want to scare off users to use flags, just because they don't want to lose their reputation? There are already enough users that don't downvote because it costs them 1 point. How many users you think will flag something suspicious if it costs them 5 reputation? Won't that leave very bad content around for those few not interested in their reputation? 
+
+I just closed a question as duplicate of another with my gold tag badge dupe-hammer (timeline). 
+
+No, if a question or answer is not okay, the author should work on it fixing it. You have as long as you want to, since a question put on hold can be reopened any time when it accumulates enough votes. In the meantime, OP and others can comment on it (if they have at least 50 reputation) or edit the question. Every edit will send the question into the reopen review queue, so it gets eyes on it.

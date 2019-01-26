@@ -1,0 +1,15 @@
+EDIT to Rob Bird's comment: Rob, I can see a scenario where a customer may want a specific vendor no matter what, simply because of history and trust. Under a scenario like this, a postive and constructive approach I may try, if I were in your shoes, would to be 100% upfront with my client, letting them know you are cutting into an area that is new, and approach the work under a shared risk contract in some way, e.g., a fixed fee with discounted T&M cost rates. This would allow the relationship to continue, open honest communication that there is more risk than one might want, shared investment so that you and your team can build capability, and with some luck a shared win when it is all said and done. 
+
+Also, you cannot ignore the stochastic nature of work. If you did that exact same project a thousand times, you would have a range of results. It is not unlike your commute to work. Sometimes it takes you 35 minutes; others, 2.5+ hours. 
+
+Fixed price contracts and ambiguous scope do not belong together ...ever. You cannot go down the path of even saying clearly what you will do because no one knows what needs to be done. You cannot plan to handle it with change requests because a CR is a change to scope...and you don't have any scope. 
+
+There is a finite number of things you can do to bring in your schedule. Can you crash it? This means can you throw more labor into it, which, in theory, will bring in your duration as well as explode your costs? Do you have some labor bandwith that will allow you to start packages that are scheduled down the road? This is fast tracking. It may adversely impact your costs. Can you remove some scope? This is called removing scope. 
+
+Once you understand that, you can dissect the similarities and differences between your estimate/actuals and the comparison group. Then you can make a similar value judgment as to if your 20 days is too long, too short, or just about right. Also, you will be able to explain to your customer the justification of your 20 days. 
+
+Addendum: Notwithstanding an initial risk evaluation, is there value in "forcing" a more optimistic target than what one might find comfortable? Can this be a productive and healthy challenge for the team? Can this be an effective way to control Parkinson's Law and Student Syndrome? 
+
+This is a time and materials contract. This is not debatable. A FP contract under these circumstances is unfair to both the seller and buyer of services. For the seller, you are taking on a degree of risk that is unacceptable and unmitagable. You would have no choice but to load the price with a ton of contingency, which in turn makes it unfair for the buyer by cause the price to be two, three, or four times what it could have been under another arrangement. 
+
+This is not one of those questions that has a ready answer and probably violates the rules, but I think it is an interesting and relevant topic to PM worth some debate and argument, so I'm asking it anyways. :)

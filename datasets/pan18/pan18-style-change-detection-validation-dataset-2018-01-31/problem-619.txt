@@ -1,0 +1,55 @@
+What your friend may have been confusing this with was: 
+
+She ran in 2014 - a year of heavy Republican advantage on fundamentals (again, 538) 
+
+Among people that can easily be classified as "respected conservarive or libertarian figures", we have: 
+
+In Colorado, they are not (source): 
+
+As such, everyone employs different approaches to voting: 
+
+(I'm leaving aside secondary considerations such as whether his stance may have negative consequences, meaning it's not Ceterus parabus). 
+
+As we all know, 100% universal franchise is fiction - in every country, no matter how democratic, SOME people are excluded from franchise (felons, under-18-year-olds, foreign nationals, etc...). 
+
+Presidents who had no "political" experience. 
+
+In practice you will find that many people vote the party line - which means their party registration, if any, is a good predictor of who they voted for. But that's not "associating a ballot with ID" by any stretch of imagination. 
+
+Second, age 18 is no guarantee of lacking political experience. While she clearly was a subpar campaigner (by her own admission, scared of public speaking), she obviously observed how things are done via her father's campaigns. 
+
+Another set of models (those that counted overvotes - ballots with >1 vote - instead of undervotes only), has Gore winning, since there were ~70k overvotes of Gore+X and ~20k of Bush+X. However - even leaving aside that overvote counting was outside SCOTUS decision scope (the campaigns only asked for undervote counts) - these models are potentially fraught with danger, since they would rely on assuming how specific people counting would interpret "voter intent" - and the model assumes that "intent" was either Bush or Gore and not a minority candidate. That worked for some small subset of ballots (where they voted twice for the same person) but not in majority of cases when X was different from the main candidate. 
+
+In 2008, Haringey Council (Alexandra ward) announced the elections for Yom Kippur. In response, 
+
+https://en.wikipedia.org/wiki/Donald_Trump_presidential_campaign,_2016#Endorsements 
+
+Technically, the reason for January 20th is that the date is explicitly specified in Twentieth Amendment to the United States Constitution. 
+
+Vote for the best leader (if you don't know enough history to know that Hitler had outstanding leadership qualities) 
+
+Below is a map summarizing my findings, as well as showing the countries that I have reviewed to date: 
+
+3 countries do not appear to require citizenship For 4 of the 48 countries, their constitution makes it possible to have a non-citizen be the chief executive. These are discussed below. 
+
+Article 2 (Section 1) of the Constitution describes the oath/affirmation requirement: 
+
+You are proposing a combination of two different dimensions. Each dimension has its own terminology. 
+
+Not seeing any great data source out there I already, I reviewed the constitutions of 48 countries. I looked for the requirements to hold their chief executive position. These countries were selected in a non-random and non-projectible way. 
+
+The two requirements allow for the President to be sworn in before hand. There is no specific time mandated for the inauguration to occur, and nothing preventing it from happening more than once. 
+
+40 of 48 countries require citizenship For 40 of the 48 countries I reviewed, I could see a constitutional requirement that included citizenship. 22 of these 48 required natural-born citizenship, although the exact formulation of "natural-born" varied. 
+
+As to the title question of whether a Super PAC can give to both sides, there is nothing to prevent them from doing so. The only restriction on how Super PACs spend their money is that they may only make Independent Expenditures: 
+
+Be eligible to vote by Election Day — Nov. 8, 2016 ....[Details snipped] 
+
+This choice is made by the incoming Senate, but before the outgoing Vice President has left office. Presuming that A) The election is inconclusive and gets sent to Congress to resolve, and B) the incoming Senate is split 50-50 between parties (or at least votes that way), does the outgoing VP get to break the tie? 
+
+The Twelfth Amendment specifies: 
+
+I had a whole long answer written up saying that it was theoretically possible under federal law, but would almost certainly never happen in reality. However, at the end of my research I found a perfect quote as to why. 
+
+I'm pretty sure you have a flaw in your data. This is what I get when I search for "Restore our Future" on this page:

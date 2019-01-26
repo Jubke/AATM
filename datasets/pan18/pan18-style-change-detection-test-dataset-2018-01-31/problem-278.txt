@@ -1,0 +1,25 @@
+Small note: there is no such thing as a donk bet in position. 
+
+(You should work in some bluffs as well in your river betting range like 6s5s, 6d5d etc.) 
+
+http://www.pokerhandrange.com/ 
+
+I like your play. These stakes people rarely fold to a raise here. You should only raise with stronger hands. Calling seems very good. 
+
+Caecilius check it back again, which is again pretty standard. He just has showdown value and is looking to check it back on the river. 
+
+The river is a good card for you. But before we discuss what you should do. Let's take a look at your opponent's range. I think it includes AJ, KJ and J9 with perhaps a single diamond. A strong queen, a set of deuces or a flush. 
+
+Definitely standard to start with a check. 
+
+Bet-calling doesn't seem optimal since you are basically bluff catching at that point. 
+
+Even on this site from 3 different options can be chosen. 
+
+In your range should be some bluffs like clubs, spades or straight draws. And I think some full houses as well as over pairs. Because he is such a maniac, like you mentioned, I think it is very possible you would play a flopped set or top two pair the same way you played your two queens. Getting value and protecting on a draw heavy board and on the river looking to trap against a missed draw. So I think, other than bluffs, you have mainly full houses in your range and over pairs. Some other middling hands are likely to check on flop or turn to control the size of the pot, so I think I can safely assume that the following hands are in your river check range: 
+
+Before you sit down at the table you should have developed a reasonable strategy against the expected player pool. This should be a balanced strategy so that you are a winning player against every player in the pool (this is of course very hard). Then you can make notes against certain players and adjust your strategy accordingly. It is wrong to assume you are never supposed to bluff in a certain spot, because of the bad player pool, since they will always call you down. This is not an assumption you can correctly make. 
+
+In conclusion, your calling range should be all your full houses and some over pairs preferably those that don't contain in order of importance: jacks, clubs, queens, spades, since they will block bluffs your opponent can have. Which over pairs exactly you should be looking to call is up to you, but I think you have to fold some of them and queens with a club is a very good candidate to lay down. Conclusion: fold. 
+
+Now back to caecilius, should he call the river? At this point trips is a bluff catcher. BrynKenney is definitely good enough to be balanced here. So I think caecilius should just take a look at his range and fold the bottom part of it and call the top part. He overbet the river, so his value range should be like 53s, 54s, 75s, 95s, T5, J5, Q5, K5 and some weird not frequent slowplayed flushes, straights and full houses. Caecilius probably wouldn't even overbet with his weaker fives, since BrynKenney just calls him with a better five too often. So J5 is right in the middle, if not near the bottom of his range. Given the fact he also does not have a heart blocker in his hand, I think this is a pretty clear fold.

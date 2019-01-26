@@ -1,0 +1,49 @@
+Containedness is a relative term, i.e. you must always specify in which node something is (immediately) contained; w.r.t. to a whole syntax tree this notion can't apply, so the question "Which nodes are immediatly contained in a syntactic tree" doesn't really make sense if you don't say what nodes they are supposed to be immediately contained in. 
+
+However, I don't understand what you mean by "I have to remove "dem Lehrer das Buch" to become adjunctions to Verb Phrase (VP)" Where do you remove them from? I also think they should not be adjuncts, but arguments, since geben is a three-place verb and the direct and the indirect objects are obligatory (if you left them out, the sentence would be ungrammatical), so you shouldn't merge them with the VP by adjunction; rather, they should be included in the VP. 
+
+Quick recap*: where greek letters denote a (possibly empty) sequence of terminal and non-terminal symbols, capital roman letters denote non-terminal symbols and lower case roman letters denote terminal symbols. 
+
+In sum, I think the endeavor is facing major challenges. There is no consensus about what does and does not count as a predicate in theories of semantics and syntax. The difficulties sketched here are going to require a decision after every turn. 
+
+I have the following questions in this regard: 
+
+Rowlett is thus pursuing an approach to syntax that takes specifiers to be the arguments of complements in a sense, as opposed to the arguments of head predicates, which is much more standard. I think such an approach is going to be difficult for many a syntactician to swallow. 
+
+I actually believe that constituency is necessary, but only for the analysis of coordinate structures. Otherwise, constituency makes the study of syntax more complex and complicated than it should be. 
+
+Assuming a dependency-based model of syntax and semantics, Igor Melʹc̆uk's works are a good place to start. Two of his most known works are listed here: 
+
+Why the intonation pattern prefers to be the one way as opposed to the other is mysterious. What is clear, however, is that linear order is not really impacting the scope of epistemic and deontic modal verbs and adverbs in relation to each other. 
+
+All arguments merge as specifiers, whereby the predicates to which they belong appear originally to their right as complements of the empty theta heads. 
+
+And one further point: the overarching issue is touched on briefly in an (in my view convincing) argument against syntactic movement. Observe the following acceptability contrast -- the examples are taken from Wikipedia: 
+
+The adjectives drunk and angry in the examples in the question are more accurately characterized as depictive adjuncts. They depict the state of a participant during the process expressed by the verb. Depictive adjuncts are typically predications over the subject. 
+
+While these comments may not be quite what the question is looking for, I hope that they help reveal the problems with the X-bar schema in general. My preferred analysis of such examples assumes a relatively flat structure in which the distinction between arguments and adjuncts is encoded in terms of distinct types of dependencies, as opposed to in terms of varying positions in a prescribed structure schema. 
+
+The Universal Stanford Dependencies (USD) parsing scheme subordinates auxiliary verbs to content verbs and prepositions to their complements: 
+
+This explanation relies crucially on the stance that the wh-element is the head/root of the embedded wh-clause. So for instance, in the following embedded wh-clause, the wh-element is the head/root of that clause: 
+
+Classic X-bar theory takes all syntactic structure to be binary branching, a controversial assumption. Data like that produced in the question demonstrate why it is a controversial assumption. The example sentences cannot be anaylized convincingly in terms of strict binarity of branching. 
+
+Type 0 grammars are completely unrestricted, whereas Type 1 grammars require all production rules to contain at least one non-terminal on the left-hand side (= LHS) of the rule which then expands to whatever sequence of non-terminal and terminal symbols on the right-hand side (= RHS), i.e. the LHS can not contain only terminal symbols. Type 2 allows only one non-terminal on the LHS; Type 3 additionally prohibits sequences other than one non-terminal and one terminal, or just one terminal on the RHS. 
+
+3 Another way to check whether something acts as a complement or as an adjunct is that adjuncts may be iterated rather freely, while complements need to be present exactly once (i.e. they may neither be left away nor may there be more than one element occupying the same complement position): 
+
+But PPs are not the only elements that "extend otherwise basic clauses": Consider, for example, 
+
+If we then wanted to move only the verb, maybe adjunction is really still the best solution, so: 
+
+Quick recap*: where greek letters denote a (possibly empty) sequence of terminal and non-terminal symbols, capital roman letters denote non-terminal symbols and lower case roman letters denote terminal symbols. 
+
+This is what I did with my first-semesters just an hour ago (good habit I check my smartphone before I clean the board, reading your post was a funny coincidence): 
+
+Update If we need to move the whole VP instead of just the V, in order to be able to analyse the sentence Dem Lehrer das Buch gegeben hat Hans, we would probably have someting like this: 
+
+phonology: The structure of sounds. Questions include: Sometimes, semantics, i.e. the study of meaning, is seen as a part of grammar: To summarize, syntax is basically a sub-discipline of grammar that deals with the structure of more complex expressions, while grammar is the cover-term for every aspect of the system of rules that tell our intuition which structures are well-formed and what they mean, including word-level (morphology) and sound-level (phonology), possibly also meaning-level. 
+
+Assuming that syntactic analysis is more interested in functional rather than lexical aspects, it would be not implausible that in general, certain POS categories can be subsumed under one syntactic category label in order to caputure syntactic commonalities between different word classes, while at the same time it seems possible to create syntactic lables that do not have a direct equivalent in POS classes at all if such a new category label is syntactically well-motivated.

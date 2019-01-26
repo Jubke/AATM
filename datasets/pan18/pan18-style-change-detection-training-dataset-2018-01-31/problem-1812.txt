@@ -1,0 +1,27 @@
+First, Kant's conception of space is analogous to the long-held view that colors, smells and such are subjective, "phenomenal", and do not exist independently of us (in modern philosophy, this view is often attributed to John Locke). Kant thought of space, then, in the same way that a physicist thinks of colors. To think that space really existed would be analogous to thinking that colors existed physically, in addition to particles, waves and such. 
+
+Kant seems to have held that space cannot be a real thing in-itself. 
+
+Wittgenstein's Tractatus is said to be Kantian because it shares an abstract theoretical structure which we identify as typically Kantian. Kant's metaphysics is based on broadly epistemological premises (the nature of experience, of concepts, of judgments, etc) rather than on properly metaphysical premises. Analogously, The Tractatus' metaphysics is based on linguistic premises (the nature of linguistic meaning) rather than on properly metaphysical premises. 
+
+The point of benevolence as duty is that one acts from the free part of one's nature. Sentiments (feelings, desires) one just happens to have. They are not freely chosen. 
+
+Basic pattern = object -> representation -> thing. Object is something we can really think about. Representation is something we see/sense. Thing is something we don't encounter. (Again, his technical terms). 
+
+But Kant asserts that we must have this form of noumenal self. He makes very different arguments for this depending on where in his moral works you are reading. In the Groundwork, he claims he can prove this. In the Critique of Practical Reason, it becomes more a fact of reason that this is true. And in later works, the picture gets complicated as he handles cases of habit. 
+
+Note that we are not required to agree with Kant. If you're a reductionist physicalist, then his theory probably won't work for you in the standard form. But there are contemporary appropriations of Kant that might, such as Christine Korsgaard's constructivism -- whereby she believes we are committed to Kantian principles of agency insofar as we are agents. She does some rather elaborate footwork to keep parts of his ethics while jettisoning his account of metaphysics across her texts Sources of Normativity and Creating the Kingdom of Ends. 
+
+I've heard two versions of this anecdote about Kant's ethics: 
+
+First of all, the post technically doesn't claim that formulation is humanistic. It only claims it's more humanistic than 'the other', which you didn't quote, but here it is: 
+
+Example Using the first formulation we can argue we shouldn't lie: 
+
+Furthermore, if you read the context, this post not only claims the other formulation is more humanistic, it also claims it's less formalistic. Which means: 
+
+The word 'humanistic' is not used in the strict sense of the word you looked up here. What is meant is more 'human-oriented' or something like this. This formulation of the Categorical Imperative is actually called the Humanity Formula: 
+
+But proofs like this aren't intuitive for most people. The other formulation gives a much more intuitive proof (and to have an easy proof I'll not take into account lying for the other's sake): 
+
+Now it becomes more clear what the author means: the first formulation (the one I quoted) can easily be used in some kind of (perfect) world model: it's very technical and focuses on logical soundness. The second formulation however is geared more toward 'daily use' and gives a somewhat more practical idea, something we can actually try to use.

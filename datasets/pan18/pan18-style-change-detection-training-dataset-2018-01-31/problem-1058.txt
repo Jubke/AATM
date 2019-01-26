@@ -1,0 +1,27 @@
+So why are we making users click clear through the dialog? That's: 1 click for the Reject button, 1 click to choose a reason, another click to submit the reject, and another click to get past the audit-passed screen. 
+
+We have a list of posts generating lots of comments - and we can't do too much beyond flagging for comments. Why not have a list of lots-of-deleted-answers questions, which 10k'ers can actually do something about? 
+
+This could be improved even further by making the check for: 
+
+I have passed 3500 reputation on a beta site, so I have both access to the 10K tools and the ability to protect things. 
+
+I am a 1500* high rep SO user. As such, I've had the Retag ability for some time, but I'm not yet able to bypass the review queue for 'normal' edits. 
+
+I would expect it to give all the negatively scored posts - there is a minus sign in there. 
+
+Generally, changing something to cw is a one way street, and changing that would probably lead to confusion, but removing reputation that has already been accrued would appear pretty hostile to users, not to mention making it so down votes still count. 
+
+Closed questions are eventually deleted, except in the case of some duplicates. When a question is deleted, the reputation gained is lost on the next reputation recalc. Therefore closed question, ultimately, don't result in permanent reputation gain. 
+
+If you mash all the questions together then ultimately the experts are going to end up looking at far too many irrelevant questions, and will leave. This will occur even with your proposed advanced tagging, because remember that tagging is performed by the user - the person who, by definition, doesn't know enough about the subject to be expected to tag properly. 
+
+I would like to see this so links to long posts can go directly to the relevant bit. Especially useful for the FAQ, Glossary, and those posts with lots of general information. 
+
+As a moderator I could, in especially-dire cases, undelete the post, downvote, and then delete it again, but that feels like an abuse of the mod powers, plus it clobbers the deletion attribution, plus this doesn't help 10kers at all. 
+
+Search comments Often enough to be frustrating, I remember either seeing or making a comment that I'd like to find again -- a helpful reference, a well-written comment that I'd like to use as a template, something involving weaponized unicorns that made me laugh out loud, whatever. If I know who posted it I can painstakingly dig through the "actions" tab from a profile, or I suppose I could try to find it with the LIKE operator in SEDE (if it's old enough). But why not make that easier? 
+
+Can we get some alert mechanism like we had? 
+
+I want users to be able to check off #s 4, 6, 9-14, 17-39, and 42 and tell us "those ones right there should all go", and I want a mod who agrees to be able to click "make it so!" and have it be so. Atomic flag groups would be resilient in the face of newer comments, unlike my earlier example. Because it's a post flag (not comment flags) we can easily see who's flagging, to know if it's a participant in the thread, the author of the post, or somebody else. (Sometimes that matters.)

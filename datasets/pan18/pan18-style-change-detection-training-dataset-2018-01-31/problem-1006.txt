@@ -1,0 +1,67 @@
+For these shadow answers, editing should be locked (and only accessible on the original question, so we do not create fragments) 
+
+Nothing is set in stone, everything depends on the quality and type of edits that are submitted in our real world trial runs. 
+
+I'm adding this for everyone's amusement. 
+
+Once this "shadow community wiki answer" shows up it can be subject to voting and being accepted. 
+
+Take Hans for example, where the complaints are directed at: 
+
+Theoretical problems are fantastic things. I have over 1000 theoretical problems with over 1000 theoretical features. 
+
+It is very hard to make the argument that using extreme evil to battle evil makes the internet better. 
+
+We can also use this to give people "badges" for finding lots of great canonical answers and so on. 
+
+"I like waffles" is just not going to cut it. 
+
+The vast majority (like 95%) of edits are approved/rejected by the team during the test runs. 
+
+We brought it back in a format very similar to the activity stream, clearly you can only see your votes. You can see deletions/undeletions/closures and reopens as well as up/down votes. 
+
+The trouble was that these are the easiest flags for us mods to deal with. The trickier ones to deal with are all the rest. 
+
+I do not think that having 0.28% offensive comments is considered trolling, Hans slipped a few times, we are all allowed to have a few bad days. 
+
+During this process we are tweaking stuff so handling the proposed edits is super easy. We are also adding some more restrictions to edits, such as you must enter a substantive comment for any suggested edit, edits must not be no-ops, etc. 
+
+When we stop people from asking questions, we stop them from asking questions; we do not put them in a virtual reality sandbox. 
+
+What I seemed to understand is this: 
+
+Getting into comment wars, which is easy to slip into, is a horrible mistake to make that only leads to pain, suffering and general sadness. Our engine was not designed for extended off topic chats, for that with have chat. 
+
+If it is accepted by the OP clearly the question is a duplicate, so the system can close it. 
+
+I think that introducing such a system would be far more effective than what we have today, would heavily reduce mod workload, and would lead to better canonical answers. It would also eliminate the annoyingly long comment threads on possible duplicate questions. 
+
+On the other hand, there are very many famous examples of awesome companies that use our reputation points-based profiles to recruit top developers, for example Facebook, Skype, Tumblr, Amazon, Moo, Coursera, etc. 
+
+Now - I can understand that even highly upvoted feature requests and bugs take time to be implemented, or might never get done. What I think you could improve is to communicate what your intentions are up front instead of having this stuff disappear in a black hole. 
+
+...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+I find no fault in the current standard, as I don't see any valid reason to change it. 
+
+The outcome of the flagging decline policy should be to have at the same time: 
+
+No, this rule is badly worded. Any such rule should be around the mens rea -- about the intentions -- and categorically not solely about the effect. 
+
+Note, I'm currently working on a tool that will allow anyone interested to meta-moderate actions that the spam system takes. You just look at lots of crap while clicking 'spam' or 'not spam' - It's something I plan to hang off the network sort of unofficial-like for a while to determine just how useful of an endeavor it turns out to be. Tracking our false positive rate currently involves me running a query once each week, and counting the number of things that probably shouldn't have been blocked, of which there are exceedingly few. As you can tell, when we get .. this sort of volume, that quickly becomes an insurmountable task. Anyway, I digress. 
+
+Now get those crayons in your toes and show these unsung heroes some well deserved love! 
+
+NB This is not an 'official' response, it's just my opinion and suggestion. A half baked one, at that. 
+
+And yes, I agree, it's not a very nice thing to do. But, I'm still kind of baffled. I'll keep looking. 
+
+That said, two things I'd like which would make this more awesome: 
+
+While yodeling to myself quietly in our warehouse today, a pallet full of mugs came crashing down on my head, and gave me a concussion idea. First, it's very unlucky to go yodeling around on a skate board in a dark warehouse, and second, we could really use a short creative writing contest. 
+
+If your flag was marked helpful, we're working on it, but you might not see results for a week, or perhaps more. That doesn't mean we forgot about it or didn't take any real action, it's just that this type of flag requires quite a bit of work and collaboration when it's accurate. 
+
+I would not say any individual comment there, if taken out of context of the entire 'conversation' is flag worthy. All of the comments together, however, are flag worthy and we need that kind of stuff brought to our attention. 
+
+It's a bit of a trick, we don't want to prevent anyone from reading our sites, and even poorly written perl bots deserve a fighting chance in life. Still, we can be a little more picky about content we accept, especially when we have a much clearer picture about the recent behavior of the remote host. I'm not going to go into specifics that I don't yet have to offer, but it is a problem we're taking seriously.

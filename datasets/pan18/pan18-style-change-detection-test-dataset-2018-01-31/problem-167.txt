@@ -1,0 +1,37 @@
+If it is the airflow over deep section wheel hoops thats "wooshing", does that mean a less turbulent airflow, i.e. that of the 303's vs an alloy hoop, can and does generate more noise than a less aerodynamic wheel with more turbulent airflow? 
+
+Below is a picture of one of the wheels. My question is can this design be applied to a bicycle wheel, and, if so, would it be more performant is certain cases, e.g. off road? 
+
+Edit: These are the hubs I was originally asking about, manufactured by enve. They have a full carbon shell and flange. The flange is not drilled, the holes are molded as such. 
+
+The stated benefits are that the wheel has, or can have, a thin tire with low rolling resistance but it grips like a fatter tire because of the way in which it travels over the ground, constantly changing velocity. 
+
+I'm beginning to see manufactures making carbon hubs and am wondering if they have the potential to perform better than conventional metal hubs or if they are just a way to save a couple of grams of weight, possibly at the expense of performance. 
+
+The standard for what "true" means varies by mechanic and the intended use of the wheel. 
+
+Yes, you can order replacement parts from an LBS who is, or has access to a Shimano distributor. 
+
+Given your description, I think number 4 is your issue. I'd say time to replace or rebuild the wheel. 
+
+I can't find a current reference or photo, but we used to have one at my previous shop. If I remember correctly it was manufactured by J.A. Stein, but that may be wrong. It was a professionally made copy of a popular homemade wheel building tool. 
+
+In this version, there were no hydraulics, but it would appear similar to a hydraulic press, or there could be more versions of them. There were lots of homemade ones, so there is also a possibility that it was a DIY version. I know a guy in Seattle who was working on a Arduino controlled version which was supposed to allow you to set a tension level. 
+
+Last time I was riding them, I noticed a "wooshing" sound when cornering hard and certain times while just riding fast. 
+
+Recently I got a pair of really nice mid section wheels (Zipp 303 firecrest disc). 
+
+Below is a picture of one of the wheels. My question is can this design be applied to a bicycle wheel, and, if so, would it be more performant is certain cases, e.g. off road? 
+
+I normally ride regular 700c alloy wheels around town and for sport. Not deep section in any way. They're great, no noise or complaints. 
+
+Edit: These are the hubs I was originally asking about, manufactured by enve. They have a full carbon shell and flange. The flange is not drilled, the holes are molded as such. 
+
+If it is the airflow over deep section wheel hoops thats "wooshing", does that mean a less turbulent airflow, i.e. that of the 303's vs an alloy hoop, can and does generate more noise than a less aerodynamic wheel with more turbulent airflow? 
+
+The weight comparison only becomes truly significant when you look at more basic bicycles, i.e. the $600-1500 market, because the cost penalties for premium parts, like truly light weight disc brakes and hubs, don't allow use in that market. 
+
+The one we had worked well, and required minimal setup, although it took up space. I haven't seen one in any shop since, and I can't find a current reference, so it may be off the market. 
+
+Perfect roundness, measured by placing a gauge under the edge of the rim, and spinning the wheel. Perfect lateral runout, or rather a lack of runout. This is measured by placing a gauge at the brake track of the wheel, and rotating the wheel to track the runout. Perfect Dish. Dish refers to the centering of the rim on the axle, or in some cases between the dropouts of the frame. This is measured using a truing stand or a dishing tool. Perfectly even and balanced spoke tension. Measure using a tensiometer, the value here will vary significantly based on the type of spoke, the size of the rim, the material of the spoke nipple. But the constant here is that all the spokes should have exactly equal tension. I am well aware that the description here is of a mechanically perfect wheel, and that such a thing does not exist. It would require a perfectly formed rim, a perfectly machined hub, which perfectly drilled and finished spoke holes, and that each spoke be drawn from a perfectly pure metal at exactly equal and even dimensions.

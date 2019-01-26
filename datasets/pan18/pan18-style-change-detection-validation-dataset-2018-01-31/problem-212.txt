@@ -1,0 +1,19 @@
+Bike Blue book has the original tires on a 2012 model as 700c x 35: bluebook One of the things that I've noticed with the low-cost tube patch kit that I bought is that I'm able to catch an edge of the glued patch with my knife or fingernail and peel the patch off the tube like a bandaid. While handy for repatching, it doesn't give me a whole lot of confidence in this kit. It's just a standard schrader head. Locking heads are only needed for hand- or foot-pumps as you can't secure the head on while pumping the pump manually. 
+
+Find a nearby lamppost or parking meter 
+
+How do tire tube sealants like Slime coagulate and seal holes? 
+
+They make it impossible to lock both the frame and a wheel with U-locks. 
+
+Glueless patches kinda suck - the vulcanizing fluid in the little tubes works better at making bonds with the punctured bike tube. Note that @Criggie has pointed out that the V-O requirement that the tire be -10 mm smaller than the fender may be conservative -- allowing for mud clearance which might not be an issue with the tires you want. But you won't know unless you put it all together. 
+
+the same as what's in the little tubes of cement that come with your patch kit: 
+
+This can put stress on the bead that it's not designed for. A higher pressure would help stop the tire from rolling side to side -- but you've said you're already on the high end of its pressure range. Maybe look for a tire that is known to have stiff or reinforced sidewalls. Is the rubber cement that you can buy at the stationery shop: My own suggestion would be to go to Goodwill, junkyard, bike coop, or somewhere that has a large assortment of old children's bicycles. Find one with a wheel in the right size -- that takes modern pneumatic tires. Use that wheel - and get a new tube and tire if necessary. the naptha in the 'glue' is a carrier fluid that is designed to evaporate quickly 
+
+.... the only Velo-Orange fenders that would fit unmodified in the 42mm forks would be the 37mm ones -- which have a maximum tire width of 27mm. So that'd be a nope. With modification (i.e., a dremel tool) you could get the Velo-Orange 45mm ones to fit in the 42mm foks, but those have a maximum tire width of 35mm, so still nope. Also with some judicious bending, cutting, hammering, duct-taping, and jubilee clipping, I think you could still get it to fit, but it may look janky to you. 
+
+Cruiser bikes tend to be constructed for the mass consumer market. Even if the price of the bike isn't cheap, the components often are. a glued patch is as strong as the original rubber -- or stronger. For your old tire, it means that it nominally fits rims designed for tires that have a wire bead profile closer to a 37mm tire's wire bead but in actuality has a tread profile closer to a 32mm profile. If you're restoring a vintage bicycle and need the original product, I think you're out of luck unless you can find someone with the same bike who is willing to part with a wheel/tire. 
+
+You can't use duct tape or regular glue - these are sticky substances that don't vulcanize the rubber together. Rubber cement may hold a patch in place but it is NOT the same stuff. Note that it's also important that the tire not be subject to any stress or folding that might deform it. For example, if you left the tires on your bicycle over a long period of time, they would self-deflate (due to air migrating out of the rubber) and the very bottom of the tire and tube would deform against the floor - potentially damaging the tire and its casing. You're likely using this type of inflator valve (aka chuck). It requires the inner pin of the schrader valve of the tire to depress the inner pin of the chuck for the chuck to release air: You can make patches out of old tubes - at its most basic you're vulcanizing two pieces of rubber together, so two pieces of bike tube will stick to each other. TL;DR - Vulcanization. http://en.wikipedia.org/wiki/Vulcanization

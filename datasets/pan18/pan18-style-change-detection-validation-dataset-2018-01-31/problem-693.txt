@@ -1,0 +1,37 @@
+For C++ vs. C90, there's at least one way to get different behavior that's not implementation defined. C90 doesn't have single-line comments. With a little care, we can use that to create an expression with entirely different results in C90 and in C++. 
+
+Another possibility uses a part of the standard library most people barely even know exists, not to mention being of much real use. When you read a string using operator>>, the stream returns a string of characters up to whatever that stream's locale says is a white space character. Especially if you're doing a lot of work that's all line-oriented, it can be convenient to create a locale with a ctype facet that only classifies new-line as white-space: 
+
+On older machines, codes smaller than 8 bits were fairly common, but most of those have been dead and gone for years now. 
+
+Since UncleBen brought up his LineInputIterator, I thought I'd add a couple more alternative methods. First up, a really simple class that acts as a string proxy: 
+
+For example, let's assume I'm writing a generic algorithm: 
+
+Some consider this a nasty hack, and tell anybody who will listen that it should be avoided. One commonly cited problem is the difficulty of ensuring that objects of the class are only ever allocated dynamically. Others consider it a perfectly reasonable idiom, and use it all the time. Personally, I'm somewhere in the middle: I rarely use it, but don't hesitate to do so when it seems to be the right tool for the job. 
+
+Lets keep 1 type of semantic ownership per answer so they can be voted up and down individually 
+
+There is an argument for making these free standing functions as this lets auto conversion convert both sides if they are not the same type, while member functions only allow the rhs to be auto converted. I find this a paper man argument as you don't really want auto conversion happening in the first place (usually). But if this is something you want (I don't recommend it) then making the comparators free standing can be advantageous. 
+
+The question I think I should ask is below. But any input on what is happening or what I should be actually asking or need to time/measure/examin would be gratefully accepted. 
+
+So in affect you pass the responsibility onto the user. If the user is in a position to correct exceptions they will manually call the appropriate functions and processes any errors. If the user of the object is not worried (as the object will be destroyed) then the destructor is left to take care of business. 
+
+Conversely it is rare to see RAW pointers stored in a class each RAW pointer is stored within its own SMART pointer wrapper. (N.B.: If you don't own an object you should not be storing it because you can not know when it will go out of scope and be destroyed.) 
+
+I have a string with the following format: 
+
+Throwing an exception out of a destructor is dangerous. If another exception is already propagating the application will terminate. 
+
+To my surprise the following code compiles: 
+
+Note: Windows is just a small part of what I am looking for. The Java/C# languages consolidate a lot more under the hood than just the GUI. What would be a good set of libraries to get all the functionality in one place. 
+
+But is anybody working on a unified standard for windowing? Something that wrapped all the above would be acceptable. (even if it only accessed the common stuff it would be a starting point). 
+
+2) Is there any way to make the compiler realise that my locally-declared and never-referenced const WrappedInt can be treated as a compile-time const value? I want this thing to be a straight replacement for int in templates. 
+
+To improve build times. To link against code without having the source for the definitions. To avoid marking everything "inline". If your more general question is, "why isn't C++ identical to Java?", then I have to ask, "why are you writing C++ instead of Java?" ;-p 
+
+Since "readability" is not objectively defined[*], and furthermore it varies by reader, you have a responsibility as the author/editor of a piece of code that cannot be wholly satisfied by a style guide. Even to the extent that a style guide does specify norms, different people will prefer different norms and will tend to find anything unfamiliar to be "less readable". So the readability of a particular proposed style rule can often only be judged in the context of the other style rules in place.

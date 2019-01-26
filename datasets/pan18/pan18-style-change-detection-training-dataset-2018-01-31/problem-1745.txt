@@ -1,0 +1,27 @@
+To establish this fact, we have to leave the domain of semantics and look at the syllogistic from the proof-theoretic point of view. Any adequate (i.e. sound and complete) axiomatization of assertoric syllogistic will do the job (e.g. Łukasiewicz 1929, Corcoran 1973). I'll go with the system I'm more familiar with, for an exposition of Corcoran's system see Vlasits (forthcoming), §2. Here are the axioms: 
+
+Now let's look at what exactly Bocardo says: 
+
+Carnap, R. (1958) Introduction to Symbolic Logic and Its Applications; look at p. 5, §12, §15. Goldfarb, W. (2003) Deductive Logic; look at §12. Quine, W.V. (1940) Mathematical Logic; look at §§4–6. 
+
+                                                                     References 
+
+Now (3) defines a syntactical equivalence between or-expressions in the metalanguage and their De Morgan equivalent and-expressions in Lo without using any 'p's and closure conditions. 
+
+There are two topics to be distinguished here for discussion: (1) the object language vs metalanguage distinction, and (2) the use of metavariables (which may be distinguished by using a different font, different color, Fraktur!, etc) in logic. I will limit myself to a few brief remarks about (1) and suggest that you look at the works cited at the bottom, and talk about some uses of metavariables in more detail. 
+
+Superficially, this seems to contradict Claim 1. But it doesn't, because from the fact that the semantic value of "nothing" is something , we can't conclude that something is nothing. And lastly: 
+
+This can happen in worlds where either only one thing exists or everything is identical to every other thing. In either case, the following sentence captures the truth-conditions of this claim: ∃x ∀y (x = y). 
+
+∃j,k < i s.t. φi is obtained from φj and φk using Barbara or Datisi. 
+
+I'm not at all familiar with ETCS, so I won't comment on that part of the question. 
+
+I just realized that there is a straightforward, but somewhat involved way of proving the fact that: 
+
+Using this system we can define the relation of direct derivability as follows (Vlasits): 
+
+XaX                       ("all Xs are Xs"); 
+
+The rest is two applications of modus ponens starting with (P5) and using (P2) and then (P3):

@@ -1,0 +1,17 @@
+Some Distilled Thoughts Some Types of Agile Contracts Having been doing Scrum contracting for a long time, I have my own empirically-refined opinions on the subject. In general, if you accept axiomatically that agile frameworks trade fixed scope for incremental delivery and project visibility, then you can structure your agile contracts in a couple of ways: 
+
+A little searching will yield many more documents, articles, and blog entry results. 
+
+Lewis Carroll Does Scrum Consider a story like: 
+
+The point is that you can keep re-estimating as long as opinions are converging. The key, of course, is that people need to talk about why their estimates are outliers, so that the team can consider this information when re-estimating each round. If you still have outliers after discussion has been exhausted or when the time-box has expired, then you have to use your team's defined process to find a reasonable compromise. 
+
+Having said that, if a story has been mis-estimated, you have several choices: 
+
+The average (or mean) of the estimates. The median of the estimates. The worst-case estimate. The best-case estimate (but please don't do that). Failure to estimate properly will become obvious during the sprint, and will provide good grist for the mill during your next retrospective. Continuous process improvement is the name of the game, after all. 
+
+Estimate Budget Using Iterations The "secret" to estimating agile budgets is to estimate the number of iterations needed to clear the backlog or reach a release milestone. For example: 
+
+If a story is accepted into the sprint, at the end of the time box the team must record an estimate. This estimate may be: 
+
+Adjusting scope within a Sprint is possible, but only with the full participation of the Product Owner. Changes to the Sprint Goal should trigger an Early Termination of the current Sprint and a return to Sprint Planning.

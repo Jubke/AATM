@@ -1,0 +1,21 @@
+As for why Kant thought math was synthetic a priori, I refer you to the SEP article on Kant's philosophy of mathematics. In particular, the section "Kant's theory of the construction of mathematical concepts in 'The Discipline of Pure Reason in Dogmatic Use'" contains the most relevant information: 
+
+The problem is the right-to-left side of the biconditional, since if we start off assuming that b is φ that doesn't guarantee that b is the only object in the domain. If there's another object a that is not identical to be, then though b is φ, the consequent of the right-to-left side comes out false since a is not identical to b. 
+
+Pr[S](y)= x Proof[S](x, y), this is a formula, where a formula is a with an initial block of existential quantifiers (this block is allowed to be empty, so, every formula is a formula; the converse, however, obviously does not hold). 
+
+Finally, we existentially generalize: 
+
+Logicists, on the other hand, tend to think that the axioms are true. In fact, the claim that mathematical axioms are true in virtue of logic alone is the distinctive claim of Logicism. 
+
+From there we just need to discharge the outermost quantifier, instantiating to the term "t" (assuming we have such a term laying around): 
+
+Next, Proof[S] = {(m, n) ∈ ( x ): n = p for some formula p and m is the Gödel number of a proof in S of p} 
+
+This informal argument does utilize the notion of "truth", but it isn't explicit that it is concerned with model-theoretic truth. I suspect, however, that it is. The reason I suspect this is because he appeals to the soundness of the theory. Generally soundness is stated as the conditional and I don't know how else to interpret the double turnstile other than as the model-theoretic notion of truth. This bears on your initial point of confusion: 
+
+At best you can claim that classical logic is not the appropriate logic for reasoning about quantum phenomena--- this much seems right. If you held some sort of view that there could only be "one true logic" (this is a claim that, e.g, Quine made about the classical first-order predicate calculus; see this article by Gillian Russell if you're interested in the "one true logic" thesis and challenges to it) then maybe you could claim that Quantum Physics shows us that classical logic isn't the one true logic, and that instead it is some sort of paraconsistent logic (though how 2+2=5 follows from this is anyone's guess; "paraconsistent" doesn't mean "anything goes"). But better to simply give up the claim that there is "one true logic". 
+
+Update Ok, so I've typeset proofs of each of the principles (the conditional and the biconditional versions) as tree proofs in the style of Graham Priest's Introduction to Non-Classical Logic. Let me know if you have problems understanding them. 
+
+You start with the original sentence:

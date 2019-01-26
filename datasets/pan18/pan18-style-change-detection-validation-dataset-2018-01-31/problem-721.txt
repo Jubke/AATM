@@ -1,0 +1,33 @@
+Right now Phpunit runs the abstract test class as well and then reports an error that it can not instantiate it - which is by language: An abstract class can not be instantiated. 
+
+Is there some kind of development switch for this kind of scenario in PEAR or is it just that it's the business of each package to take care of that? 
+
+I'd like now to know the next numerical key that PHP would have chosen as well for the new element in the array but w/o iterating over all the arrays values if possible. 
+
+This allows to visit all nodes of a tree. 
+
+Lets start to get the whole listing, including subdirectories. 
+
+I need this for a own array implementation via the SPL that should mimic PHP default behavior if a new element is added w/o specifying the offset. 
+
+I'm looking for a document with authority, so the statement can be stressed for. For example a page in the PHP manual that is making clear which values those initialized to if none specified, unfortunately, Using static variables in the manual is not giving any information about this. A proof based on on the source-code of the PHP language (not a PHP script) would be sufficient as well, I'm still not good at reading the PHP sourcecode. 
+
+I know they are, the long version of the question is: 
+
+I have written an abstract test case class that is to be extended by concrete test case classes. 
+
+The examples given are even only half of the problem, as there are not only full attribute value matches but also starting ones like: 
+
+This basically decouples your plugin code from wordpress itself. You might want to also create a class that offers and interface to any wordpress function you're making use of, so you're not bound to these functions directly and your plugin code stays clean and loosely coupled to wordpress itself. 
+
+That's a new setting / value in PHP (related to a security update to prevent attacks to PHP scripts), so you get this after the update (before PHP 5.3.9 not set/available, suhosin users have a similar thing since ages). 
+
+I remember that this was written in the PHP Manual but I did not bookmark the location. Over the last three days I tried to find it again but no luck. 
+
+Despite I can see that those are related to XML namespaces I wonder what they are for and how they work. 
+
+I have a problem to get UTC offset information out of PHP DateTimeZone and the underlying database. I'm get close for every DT/ST pair, but the time-zone with commonly one hour less (DT) isn't. 
+
+Displaying the composer version like: 
+
+Eastern Standard Time (EST) when observing standard time (autumn/winter) are 5 hours behind Coordinated Universal Time (UTC−05:00).

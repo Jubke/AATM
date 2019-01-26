@@ -1,0 +1,49 @@
+As far as I understand, it's by design. When you log in on facebook.stackoverflow.com using your Facebook login, the picture you use in your Facebook account is transferred to your account on facebook.stackoverflow.com; as facebook.stackoverflow.com is just a mini-site of Stack Overflow, the same image is used on Stack Overflow. The image is not transferred to other Stack Exchange sites, because the other sites just use the Gravatar image associated with the email associated with your Stack Exchange accounts. When I see a question that has been voted to be deleted, I read "delete (1" instead of "delete (1)" I was used to read before. 
+
+That at least is the message you get when the URL contains localhost as domain name. 
+
+In the second screenshot I removed the t from "user-top"; I would expect to see the "page not found" error, which is not what happens. This should make clear the user needs to try with another domain that is not numeric. It's by design, as you are notified the text is changed; the user could have corrected the link given in that post, for example, or changed something else that you need to read. 
+
+If I click on the "upvote" link, what I get is the following: 
+
+Firefox always show the scroll bars, independently from the OS X General settings. Its output is the same I obtain with Google Chrome when OS X is told to always show the scroll bars. 
+
+External applications such as the iPhone app use the API, not direct access to the site. If you use the mobile web interface instead, you are seen to use the site actively and such access is counted towards the badges. 
+
+with the actual PDF also containing the doubled commas. 
+
+Clearly the mobile UI still uses the old notifications architecture, and this doesn't talk to the new achievements / inbox channels. and I reproduced it the same way (paste into the sandbox and TAB then ENTER to post something fast to see the error: 
+
+However, the "Projects & Interests" section lists tags associated with entries with doubled commas. For example, my Plone entry is tagged as "plone,, zope,, python" in the resulting PDF. It only is present on the first revision. 
+
+Pressing on, I pasted the URL, and hit 'Flag'. 
+
+Using actual candidate ids lets employers bypass the Careers system altogether, finding candidates and contacting them directly without ever paying Stack Exchange for the service. 
+
+I used the mobile web UI to cast my close vote instead. not use raw Markdown, just render it to HTML, adding in textual links Markdown-style as numbered references below that section, or same as 1., but damn the URLs, let them read blue underlined text on their print-outs, or use raw Markdown, let us candidates know explicitly, with a preview in our profile editor that you do this, and preserve newlines please. That way we can edit for readability both rendered and for printing. 
+
+Can the mobile notifications be marked as read when I look at them on the main site, and vice versa? Whenever you receive a (noteworthy) badge, answer notification, bounty reminder, etc. you get either a new message in your top-bar global inbox or an achievement notification. These events all used to be sent to the old 'notifications' message box in the previous top-bar design. CRLF normally delimits HTTP headers, so I suspect the header generation for feeds has a bug where one CRLF is appended too many to the header output. 
+
+The over 100% is intentional -- just indicates that you've gone the "extra mile" beyond the minimum required. 
+
+The Precognitive badge appears in the badge list on every site to announce the presence of Area 51, and its primary function. In addition to Popular Demand's "funny because it is true" comment .. The only minor downside is that Precognitive could incentivize following a lot of proposals you don't actually care about in hopes of getting the badge by chance. But this is really no different than the "fill out my profile with a bunch of garbage" approach to getting the Autobiographer badge. So the risk is very small, it's just a bronze badge, and the upside is IMO large. 
+
+Since Area 51 is itself about creating new sites that don't exist yet, the thought process is supposed to be: 
+
+http://www.merryswankster.com/images/SpinalTap_Eleven-thumb.jpg 
+
+Resolving things in the queue is usually very rapid -- far more rapid than clearing mod flags, which can be excruciatingly slow to research, load the page, and vet. I see no reason to cap the suggested edit queue so low at this time. 
+
+In the second screenshot I removed the t from "user-top"; I would expect to see the "page not found" error, which is not what happens. When there are are suggested edits, and pending flags, the counters are shown this way (on Drupal Answers). The counter with the orange background is the suggested-edit counter, while the other is the flag counter. 
+
+It's by design, as you are notified the text is changed; the user could have corrected the link given in that post, for example, or changed something else that you need to read. 
+
+This should make clear the user needs to try with another domain that is not numeric. 
+
+It should be you're discussing. 
+
+I can only obtain that result when scroll bars are not always shown. When I set the scroll bars to always be shown, they don't cover the code shown in the following snippet. 
+
+If that makes any difference, I am using Google Chrome "25.0.1364.97 m" running on Windows 8, and the image I am trying to add is http://www.garden-seat.co.uk/townandcountrygardener/wp-content/uploads/2011/09/slug.jpg. 
+
+The real problem is that both the "suggestions" and "reviews" tabs use the same tooltip; this means that, when viewing the activity as shown in the "all" tab is not possible to understand if the activity is referring to a review the user has done, or a suggestion the user has done.

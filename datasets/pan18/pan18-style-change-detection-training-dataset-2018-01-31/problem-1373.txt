@@ -1,0 +1,17 @@
+Just an example doing it without SBRM: 
+
+The third means that multiple smart pointers can point to the same object at the same time. This applies to a raw pointer too, however raw pointers lack an important feature: They do not define whether they are owning or not. A share of ownership smart pointer will delete the object if every owner gives up the object. This behavior happens to be needed often, so shared owning smart pointers are widely spread. 
+
+Is that correct, and is the compiler allowed to print "Bye" for the above program? 
+
+This appears to be undefined behavior 
+
+I saw a function declaration in our code that looked as follows 
+
+Can anyone please explain what that weird feature might be? I've never heard about it. Read the excellent article at comeau-computing `Why is an unnamed namespace used instead of static?. It makes sense to give default template arguments. For example you could create a sort function: 
+
+C++ allows SFINAE to be used for this (notice that with C++11 features this is simplier because it supports extended SFINAE on nearly arbitrary expressions - the below was crafted to work with common C++03 compilers): 
+
+The first means that a smart pointer cannot delete the object, because it doesn't own it. The second means that only one smart pointer can ever point to the same object at the same time. If the smart pointer is to be returned from functions, the ownership is transferred to the returned smart pointer, for example. I've used a sequence of clear and str in the past: Note: I'm still not really convinced. So if you know the definitive answer, you can still post it indeed. The restriction seriously cramps programming style by unnecessarily making freestanding functions different from member functions, thus making it harder to write STL-style code. But both comeau and GCC fail to compile the above. Both with different diagnostics. There are different smart pointers for different purposes: 
+
+This insightful article says about that Standards text I tried to write an operator that can be used both as a prefix and a postfix operator

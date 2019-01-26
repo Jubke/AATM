@@ -1,0 +1,39 @@
+I love vertical software development for a couple of reasons. Creating software end-2-end gives much better insights in uncertainties (e.g. what works and what doesn't on your scale). Don't postpone integration until the end, this always leads to missed deadlines. I am always amazed how users do not really need features when you continuously estimate and compare effort versus value. If you keep delivering a usable product the users will really know what the next most important feature should be. 
+
+Spotify is running a 250+ man team and has some videos and a 13 pages paper, find links at: http://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify 
+
+Now I understand that delivering a product without all the features feels like a waste, certainly when you are pretty sure you have to rewrite parts, because of known features on the roadmap. Still waiting until the end to find out your product isn't going to be used, because it lacks user- or market-fit is a lot more waste. Keep in mind a lot of products never ever see the daylight. This is one of the reasons YAGNI is an important Agile principle, build only what you need. 
+
+Leveraging your development or QA testing harness for demonstrations. 
+
+Scrum mandates that work increments be demonstrated, but isn't prescriptive about how the demonstrations need to be done. There's no mandate that a demo must require a keyboard or a graphical interface. If it's relevant to the product, skywriting or interpretive dance could be just as legitimate for the demonstration. 
+
+You can do this, but you may be measuring the wrong thing. This smells like an X/Y problem: you have a problem to solve with the deliverables hand-off, have decided that coding style is the thing that will fix the problem, and are now trying to solve for "coding style" rather than the underlying process issue. 
+
+TL;DR Your Scrum implementation has some misconceptions, which appear to be based around how to implement the "Definition of Done" in a properly-collaborative fashion. If you address this communications failure, your continuous integration efforts should become much smoother. 
+
+is a whole lot better for everyone involved in the project than: 
+
+TL;DR Pithy slogans belong on coffee mugs. Real vision statements guide your organization's strategic goals. 
+
+The web site's default font had been set to a ridiculous size. The team agrees that the implementation meets the goal of avoiding eye strain. The current "Definition of Done," which applies to all stories in the project, has been met. This definition varies from team to team, but might include unit tests, user acceptance tests, pushing to a continuous integration server, or slapping each other with wet mackerel. Whatever. 
+
+What About Stories That Aren't Done Right? At the end of the Sprint, the team collects points for all stories that the whole team (including the Product Owner) agree were completed according to the Definition of Done. If the stories were thus completed, but are unsatisfactory in some way, that's grist for the mill during the Sprint Retrospective and for other inspect-and-adapt meetings. It doesn't change the fact that the stories were done in an agreed-upon way—an agreement to which the Product Owner was an active party—and so there's no "acceptance" of the stories to be done. 
+
+Spotify is running a 250+ man team and has some videos and a 13 pages paper, find links at: http://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify 
+
+The demo (review) is not to show what you have until now, but to deliver a working piece of product! In my book it's not a product if it doesn't contain the final UI with styling, works end-2-end and is deployed on a product server. If enough value has been delivered. The users should start using it as soon as possible to gather even more feedback. Products evolve best by using them, not by designing them upfront. 65% of the build features are never used by users, why build them? 
+
+Focus on Minimal Viable Products. Question yourself what it means for something to be a product. It should be shippable to actual users, not? Now start shipping often. 
+
+There are a number of Scaling Agile frameworks which have books: 
+
+Now I understand that delivering a product without all the features feels like a waste, certainly when you are pretty sure you have to rewrite parts, because of known features on the roadmap. Still waiting until the end to find out your product isn't going to be used, because it lacks user- or market-fit is a lot more waste. Keep in mind a lot of products never ever see the daylight. This is one of the reasons YAGNI is an important Agile principle, build only what you need. 
+
+If people (here: PMs) never delivered feedback to other team members, rating system may be a good way to standardize the way they construct their feedback. 
+
+Note: In my answer I'm focusing on feedback in general and not on a specific grade, rate, mark or however you call it. 
+
+On the other hand please avoid any automatic measures, like a number of bugs, lines of code etc. It has nothing to do with feedback and it will only drive measured numbers down or up (depending on a goal) with no direct influence on quality, e.g. if you measure a number of submitted bugs, you may be pretty sure that people will stop submitting bugs; it doesn't say much about a project quality and even fogs your visibility more. 
+
+Depending on your organization's standards it may be a standard way that people are rated on a scale and if it is so I don't say you should avoid that at all cost. Do remember that PM's feedback is just a part of the whole judgment on one's work.

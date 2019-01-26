@@ -1,0 +1,55 @@
+This and perhaps further phonetic changes could make "I'd probably", as measured by instruments, sound like "I probably". 
+
+No, the conflicting claims about what was said are not necessarily a phonetic issue. We ordinarily refer to what was intended or perceived to be said when quoting or otherwise characterizing what someone said. For instance, if you say "Ib probably" that might well be interpreted, and quoted as "I'd probably", because in American English, a t/d/n before a word starting with p/b/m often becomes a labial, pronounced with the two lips, in partial agreement with the following labial p/b/m. 
+
+p and k are also glottalized before another consonant (written p', t', k'). 
+
+An obvious problem with Saussure's version of this theory is that aperture does not uniformly increase at the beginning of a syllable, nor uniformly decrease at the end. So my revision is to substitute stress/unstressed for Saussure's explosive/implosive. This is the SPE feature stress, which is defined for consonants (honest -- I checked), but not actually used for consonants, so far. We could identify it with the fortis/lenis difference, which is sometimes used for consonants. 
+
+"What do languages without a schwa vowel have in common so the brain is not able to take advantage of this shortcut?" 
+
+For instance, sometimes schwas can be lost by being deleted or assimilated to nearby sounds. If such processes are unconstrained, clearly no schwas can be pronounced. 
+
+We worked out the basics of how this system works over 2500 years ago when the ancient Greeks devised the alphabet, and since then, this way of describing human speech has been elaborated and refined to be more useful for recording the various human languages. 
+
+The exact perceptual mechanisms in the ear and brain that allow humans to estimate articulatory changes from acoustic signals is something others could perhaps tell you about. My impression is that much is still unknown. 
+
+Upward and Davidson argue that by the 14th century "spellings with QU had become the norm" (p. 149). For more details, see http://www.historyofenglishspelling.info/ 
+
+Here's a screenshot of the relevant section from http://www.blackwellpublishing.com/shockey/ 
+
+buy - boy /aɪ/ versus /ɔɪ/ etc. 
+
+In British English, things are way more complicated. Although [əʊ] is the most common variant now, there are other variants, too; see part 8.10.4 in Gimson's Pronunciation of English (7th ed.). 
+
+I believe what you are describing is called reduction (or elision) and in case of h, it is usually known as h-dropping or h-deletion (e.g. Knowles 1987, Shockey 2003). 
+
+Phonetics isn't my forte, so I don't follow literature on phonetics and I might be wrong. Here's my guess. An affricate is a stop followed by a fricative, homo- or heterorganic (same or different place of articulation). The tip of the tongue is retracted (moved back) for "t/d" in anticipation of the following "r". In fact, O'Connor 1994 argues that it is on the front of the hard palate. See below what he says: 
+
+And there are British dialects where [o:] is not diphthongized. After all, in Middle English it wasn't, either. It got diphthongized during the Great Vowel Shift. There are dialects where the glide is a schwa etc. 
+
+For many people, the t' before a consonant can lose its oral closure, leaving behind only the glottal closure, which is a glottal stop. p' t' k' can also lose their oral closure and hence turn into a glottal stop before a stop consonant at the same place of articulation (not before s though, at least for me). In this case, the oral closure of the cluster is simply delayed. 
+
+It's interesting to consider whether this glottalization affects the t part of the ch affricate (so-called). For me, it does, when the ch is at the end of a word. 
+
+Your idea about it appears to be a version of the analytic view, similar to that of Daniel Jones'. And if you take the opposing psychological view, it is indeed an error. But some would agree with you. 
+
+The appropriate feature difference between "consonants" and "vowels" is not terribly clear, but let's say vowels are [+vocalic] and consonants are [-vocalic]. Then the number of possible vowels is the same as the number of possible consonants, and for the consonants classified by the place of articulation features, there are also vowels classified in exactly the same way, by place of articulation. 
+
+For instance, sometimes schwas can be lost by being deleted or assimilated to nearby sounds. If such processes are unconstrained, clearly no schwas can be pronounced. 
+
+An obvious problem with Saussure's version of this theory is that aperture does not uniformly increase at the beginning of a syllable, nor uniformly decrease at the end. So my revision is to substitute stress/unstressed for Saussure's explosive/implosive. This is the SPE feature stress, which is defined for consonants (honest -- I checked), but not actually used for consonants, so far. We could identify it with the fortis/lenis difference, which is sometimes used for consonants. 
+
+I'd go with no.1 because you can find the following minimal pairs in English (RP): 
+
+Caveat: in some American intro linguistics textbooks, a segment is incorrectly defined as a speech sound (phone) only. 
+
+Norman French (or Anglo-Norman) was a dialect of Old French that died out as a spoken language by the beginning of the 13th century. It was used by by the ruling elite, which constituted no more than 2-5% of the total population (Upward and Davidson 2011). 
+
+Phonetics isn't my forte, so I don't follow literature on phonetics and I might be wrong. Here's my guess. An affricate is a stop followed by a fricative, homo- or heterorganic (same or different place of articulation). The tip of the tongue is retracted (moved back) for "t/d" in anticipation of the following "r". In fact, O'Connor 1994 argues that it is on the front of the hard palate. See below what he says: 
+
+Thus, a segment is "any element, at any level of representation, which is described as forming sequences with others" (Matthews 2007). 
+
+Upward and Davidson argue that by the 14th century "spellings with QU had become the norm" (p. 149). For more details, see http://www.historyofenglishspelling.info/ 
+
+cheese - cheers /i/ versus /ɪə/

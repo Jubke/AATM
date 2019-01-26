@@ -1,0 +1,19 @@
+Is there something I'm missing about repeaters? Is there a small schematic for making them bidirectional? I just found this video online; it dates back to version 1.5 (before pistons were officially introduced.) I'll see if I can't get something similar working with 1.8.1 unmodified. Thus far I've been able to accomplish this with redstone and repeaters, but I've noticed that repeaters only work one-way; I've looked at some online documentation and have found a schematic for two-way repeaters, but it requires quite a bit of real estate and my railway is elevated high off the ground so I'd like to keep land (and resource) usage to a minimum. What would be the best floor plan for such a complex? I'd like to add an 'apartment complex' to a village to boost its population. 
+
+I have a long section of rail that I'd like to serve with a single minecart. If I left the minecart on the other end of the railway, I'd like to push a button to have it sent over to the station I am at. In pure survival, your team would need to capture these guardians manually, which involves raiding at least 20 ocean monuments. It is also possible to synchronize the curse timers, although the video doesn't go into details, mostly because ot would be utterly ridiculous to even attempt this method of base protection. 
+
+Click on Search → Chunk Finder.... Enter the X and Z coordinates you wrote down into "Chunk" and click Find Chunk. No. While the mechanics of enchanted armor are different in 1.8 and 1.9, the protection enchantments reduce damage equally, no matter on which armor piece they are placed. There is a formula on the wiki to calculate the extra protection from enchantments (in 1.9): 
+
+Not reasonably Nothing you can build in vanilla Minecraft is indestructible. 
+
+PATH is a list of directories (or paths) in which your OS is supposed to look for executable files (like *.exe) when running things via the command line, if it is not in the current working directory. Not in 1.8 While your command works in principle, as of 1.8.8 the game is unable to render many items in the head slot, including flower pots. 
+
+* According to the wiki. However, I have not been able to observe the unloading of the chunks on 1.8.7 in a singleplayer test world. IIRC SP is functionally identical to MP. Pre 1.7.6 Hit ESC to go to the Pause Menu. Go to Options on the Pause Menu. Click Video Settings Change your Server Textures to OFF. Click Done twice then disconnect. Reconnect to the server. If you want to turn the Server Texture Pack on again, go to the options menu, video settings, turn Server textures ON, click done twice, disconnect then reconnect to the server. Is there a way to automate the placing and killing of Withers of this scale? hopefully with a hopper collection solution to collect the Stars so they don't de-spawn. I know how to kill one, but it takes manual input to reset and start the killing process, and I want this to be automated. go to Control Panel - System and Security - windows firewall, then click advanced settings. 
+
+otherwise for horizontal movement you can use hoppers connected to eachother with a redstone input. To reopen this in future just delete the two rules 
+
+You will then see the following menu, Select Port as the option and click Next 
+
+Also you can get items like coal, redstone and diamond in more quantities per ore using a Fortune Pick (preferably Fortune 3) 
+
+Sidenote You can run minecraft twice but it requires two minecraft account. I do this to record time lapses using cam studio mod. The way that i run two instances is to open the launcher normally then right click and run as administrator. If can do this with just one account if you dont want to connect them together say two friends playing seperate worlds, but you cant do this multiplayer or even playing over lan as the game will error saying a player with that name is already on the server.

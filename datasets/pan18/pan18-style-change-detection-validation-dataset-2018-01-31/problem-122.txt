@@ -1,0 +1,17 @@
+EDIT: Since the maps of Minecraft 1.6 are virtually useless, I've just installed the new update for this mod, which now displays coloured wool as the appropriate colour, and as a bonus, no longer requires Modloader to install. I'll also include a video of the mod in action. So what I'd suggest, is that you save your near-empty inventory, give yourself enough material to get back home, and then reload your old inventory.       I found a really neat video a while ago of a Mega Mob Factory someone had made for farming Ham. I'm sure you could do the same with a mob of creepers. REALLY IMPORTANT EDIT: With 1.5, this method of installation no longer works: you need to append the class files of the mod into the minecraft.jar file. If you're unsure how to do this, you can simply download a copy of the already modded minecraft.jar Here. 
+
+You can also set waypoints with it. 
+
+Updating the game will also remove the mod, as it will update your minecraft.jar file, but it won't remove the craftscripts folder or WorldEdit from your bin folder. However, leaving those two items there will not affect your game at all, so updating your game is a much faster way to remove the mod from your gameplay. Unless your minecart has a lot of momentum (not speed), powered off minetracks will stop your minecart. This wasn't the case. For example, here's how this process changes a picture of the color spectrum with Floyd-Steinberg (reduced color bleed) and these wool colors: 
+
+I tried using a stone pressure plate, and while sometimes it works, other times it derails my minecart. 
+
+Dithering might not work very well if your picture is going to be seen from up close; you can also near to the closest color from those 16. Again, this is a solved problem and a computer can do the maths for you. If you don't like the dithering, you can turn that off and approximate every pixel with the closest color: 
+
+I built a small homage to the booster while revisiting an old world, given that its place now lies in our hearts... and behind a glass case, museum style. 
+
+You would need soft links to do that. It would make light travel a whopping one block further in the three directions you add the lava to. 
+
+The clouds are at height 49-46 above sea level. That gives you a 15 meters' room above the clouds. 
+
+Simply make a bed and lay into it. If you're in multiplayer mode, you don't need to wait for all others to also get in a bed in order to sleep - laying down is enough to change your spawn point so long as your bed doesn't get destroyed. I tried putting two powered rail right before the powered off rail, but the cart still came to a complete stop. Here's another example: kitten. Okay, that doesn't look too good, but while you are using GIMP you might as well make use of it. The background is midway green and yellow, so maybe you can consider shifting the hue of the image (Colors → Hue-Saturation) towards either one of those two colors. For bonus points you might even try and just do that to the background using the various selections tools (this is no GIMP tutorial!). Given the lava physics in Minecraft, light intensity and radius are the same. A candle gives 14 luminance and 14 radius. Lava and sunlight have 15 luminance instead.

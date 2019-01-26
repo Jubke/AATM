@@ -1,0 +1,21 @@
+Here is my attempt to create a 7-col grid system: There are couple of approaches to achieve that, which have been discussed in the wild during the time. For instance: Related issues can be found here: 
+
+Then add a border to top/right/left sides of the box to achieve the effect. Getting all together Therefore you could create a full-height element (Personally I'd rather go with pseudo-elements) within the parent to align the label at the bottom. 
+
+Example (v4.1.6) • Example (v5.0.3) (buggy) • Example (v5.1.0) 
+
+Sticky Footer In this answer I'd go with Ryan Fait's method since it is simple and easy to understand and also it meets your needs (Situations where both header and footer have fixed heights). I.e. In an inline flow, the tallest element will affect/move the baseline of the parent: 
+
+UPDATED DEMO. (Using Foundation 4.1.6) 
+
+If for any reason you're using v5.0.3, there are some alternatives: 4.1 Adding a spacer Example Here Where atomic inline-level elements include: 
+
+There are couple of methods to override that and move the last column to the left: 
+
+Would appreciate some help with based on a condition, would like to replace the following html block: 
+
+At the moment, I have to create for each sub-section, an open and close ordered list tag, so I never have a incremental list from start to finish. I have a Terms and Conditions document that I want to place in my website, that consists of a number of sub-headings with bullet points under these sub-headings. I looked at the replace function in jquery but unsure how to apply. 
+
+My question is an unsure how to do, is that I only want to use 5 cells only visible to the user so would like to somehow remove cell position (3,2), so that it doesn't show any borders at all for that cell alone - can this be done, if so, how? 
+
+I have a html table that I have setup in a 3 rows by 2 column formation. So basically have 6 cells that are currently being displayed to the suer.

@@ -1,0 +1,29 @@
+I'm changing the pedals on a 40 year old bike. Pretty sure the pedals are original. The left one came off fine. Unfortunately, I got the thread directions mixed up and tightened the right one by mistake! 
+
+I'm sure this question must have already been answered somewhere here, but it doesn't show up in any search results I make... 
+
+Now the right pedal won't come off at all. When I apply force to the pedal wrench (in the correct, counter-clockwise direction), the crank just backs up, and the pedal doesn't budge. 
+
+Is there some way to immobilise the crank? I don't think I have the tools necessary to take the arm off the bike. 
+
+Things I don't have the equipment for: 
+
+EDIT: An additional note: It seems the reason the pedal wouldn't come out is that there's something wrong with the threads on the crank. I can't get the old or my new pedal to go in past the second turn. Going to have to take it to the LBS anyway... 
+
+And, as expected, my bike now makes all kinds of clicking noises and skips. However, upon inspection, the chain does not rub the chainrings. It fits tight, but does not touch the other chainrings. 
+
+Recently I purchased a torque wrench and re-tightened everything. The BB lcokring to 70Nm and the crankarm fixing bolts to 50Nm. 
+
+I will probably replace the chain for a correct one, but before that I would like to know what is the cause of the problem (the skipping). 
+
+I know "higher-speed" means just that the chain is thinner, fitting the recommended chainring, plus any other with less cogs (because there is more space between the cogs). 
+
+(4) Turn the tire and find the place where it rubs the most. Identify which side it rubs and correct it as others have noted. 
+
+The rim and spokes are new (couple of months of commuting). I suppose I wouldn't be running in the "old spokes new hub" problem. 
+
+Bottom line: don't use plastic screws: they are evil. If you must, use a short-arm wrench e.g. 10 centimetres. 
+
+EDIT: some more detail We are talking a $300, used regularly for three years. Of it, only the chain has been replaced - twice. 
+
+(2) Check if there are any very loose or very tight spokes. Your wheel is already out of true, it won't hurt to correct problems. Overtightened spokes may break, while loose ones might rattle when they become even more loose.

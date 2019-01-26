@@ -1,0 +1,51 @@
+The first option is pretty straightforward, and described in Implementing Custom URL Schemes. To let the system know that your app can handle a given scheme: 
+
+Update: From your comment, you're apparently wondering about the "Container View" item in the storyboard editor. If you drag one into a view, you'll see that: 
+
+Apple used to require a 512 x 512 px icon for this purpose -- sounds like they've doubled the resolution to support retina displays. 
+
+You may want to consider adding some code that resets the app to whatever state it was in before the upgrade. This can be debug code that's excluded from the release build. Debugging problems that require you to re-install the app every time you want to run through your debug can take a lot of time. Even just having to restart the app at every debug cycle eats up a lot of your time. It's very often worthwhile to spend a little extra time adding a button to your app that undoes whatever changes you're making so that you can do them again. 
+
+I'm currently auditing an iOS application and I came across this scenario that made me wonder whether it could be exploited somehow. 
+
+You can post a notification like this 
+
+If you provide an appropriate cast, it will work as expected 
+
+To wrap it up: conventions are always important. In Objective-C sometimes they are fundamental. 
+
+tl;dr declare a copy property (weird syntax, I know... http://fuckingblocksyntax.com/) 
+
+Finally, always according to the documentation: 
+
+From my understanding so far, it should be used whenever a class encodes/decodes instances of itself, in order to prevent substitution attacks. 
+
+If you want to provide your own comparison method for a custom class, I suggest that you stick to conventions and provide a method with the following signature 
+
+If anybody is wondering how to achieve this in iOS 7+, here's a solution (iOS 6 compatible too) 
+
+If you want to save a reference to a block you have to copy it on the heap, since retaining a a block on the stack won't prevent it to be lost whenever the stack frame is teared down. 
+
+If you want also to ensure that no error occurred you have to check the return value 
+
+This category is also appropriate for “play along” style apps, such as a virtual piano that a user plays over iPod audio. When you use this category, audio from other apps mixes with your audio. Your audio is silenced by screen locking and by the Silent switch (called the Ring/Silent switch on iPhone). 
+
+After looking at your code, the reason that your curve is jagged is that you're thinking of control points as points on the curve. In a bezier curve, the control points are usually not on the curve. Since you're taking the control points from the curve, the control points and the point of intersection are not collinear, and the paths therefore don't join smoothly. 
+
+Remember that the spacing there is a minimum spacing. The layout will use that number (whether it comes from the property or from the delegate method) as the smallest allowable space, but it may use a larger space if it has space leftover on the line. So if, for example, you set the minimum spacing to 0, you may still see a few pixels between items. If you want more control over exactly how the items are spaced you should probably use a different layout (possibly one of your own creation). 
+
+You may want to consider adding some code that resets the app to whatever state it was in before the upgrade. This can be debug code that's excluded from the release build. Debugging problems that require you to re-install the app every time you want to run through your debug can take a lot of time. Even just having to restart the app at every debug cycle eats up a lot of your time. It's very often worthwhile to spend a little extra time adding a button to your app that undoes whatever changes you're making so that you can do them again. 
+
+Update: From your comment, you're apparently wondering about the "Container View" item in the storyboard editor. If you drag one into a view, you'll see that: 
+
+Use IBOutletCollection to add an outlet collection to your view controller, like this: 
+
+Reset the app to its previous state. 
+
+The problem with the code that you posted is that you're counting on the view size to match that of the screen, and as you've seen that's not always the case. If you need the screen size, you should look at the object that represents the screen itself, like this: 
+
+So... it looks like VM Tracker is able to see some significant memory use that Allocations isn't. 
+
+Here's output from the code above: 
+
+Try changing the minimum spacing in IB, but leave the cursor in that field. Notice that Xcode doesn't immediately mark the document as changed. When you click in a different field, though, Xcode does notice that the document is changed and marks it so in the file navigator. So, be sure to tab or click over to a different field after making a change.

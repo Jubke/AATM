@@ -1,0 +1,51 @@
+Sintered: with metal in the pads, better in the wet and for heavier riders, and transits more heat than resin. Longer lasting 
+
+A nicer bike tends to be nicer to ride, or faster, or better climbing. They still wear at about the same rates. 
+
+Older versions of the same group set may have fewer gears... 105 used to be a 10 speed, and really old ultegra was a 6 speed in the beginning, and gears increase over time. 
+
+Remember at least 2/3 of the weight is taken by the rear struts. I've had a good 12-15 kilograms on this rack. The black plastic is a substitute for a mudguard/fender, which does fine protecting my backside and bag, but does little to keep the bike and chain clean. 
+
+1) Claris, 8 speed and lowest spec. Probably not under active development any more. However it'll still work better than most old bikes because its indexed. Plus its cheap, having earned back its R&D costs. 6/7/8 speed all use the same chain sizes. 
+
+Ultegra and Dura-ace can also be had with Di2, which is electronic shifting. This means a little battery and motor haul the derailer rather than you pulling a wire. The gear change still happens because of your chain motion, same as normal. 
+
+5) Ultegra, 11 speed, as much better than 105 as 105 is above tiagra 
+
+However in https://helmets.org/walkerstudy.htm in 2013 this was refuted. Also https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3783373/ 
+
+EDIT I'm using New Zealand Dollars and prices. Petrol here is $2.05 (New Zealand dollars / L) = $5.58 ( U.S. dollars / US gallon ) and 10c/km includes buying the bike as well. A car figure would have to include the purchase cost of the car. 
+
+Another way to think of it is cost per kilometre. Work out how far you have ridden and divide the total costs by the distance for a $/km number. My example 
+
+I think if you want to save money, look into doing more of the maintenance yourself. Separate the cost of the parts from the cost of the labour to fit them. Bikes are relatively simple machines, and while some tasks require specialist tools, a basic toolkit can do a lot. 
+
+As a rebuttal of consumerism consider this counter-example 
+
+The brake cables should move okay - you might need to remove and refix some temporary tape. 
+
+2008 Walker study - "Cars get closer to cyclists wearing helmets" 
+
+Method: Unwind the bar tape carefully, reposition the brakes, then do up the bar tape again. You'll probably put one, maybe two turns of bar tape below the brake hoods that were above the hoods when you started. 
+
+My question is: Are there any compelling downsides to running a sintered brake pad and a resin brake pad inside the same caliper/calliper? 
+
+Disk/Disc brakes are on the must-have list, but the descriptions of brake pads are confusing. 
+
+Personally I'm aiming for 105 level, (if I can get it in my price range) with aluminium frame and disk brakes. Note also that you don't have to get the full groupset - brakes and transmission are only in common at the brifter, so you can use anything with the same cable pull distances. 
+
+I don't have my own data, merely subjective anectodes about how much room I receive when riding a tandem, or towing a 2-wheel trailer, or the two times I trialled a recumbent and had cars crossing the road to go around me. I'm NOT that wide. 
+
+Each bracket is a short strip of aluminium which is wrapped around the seat stay and then back on itself. The bolt is a stainless steel one, and is (edit: should be!) double-nutted for vibration resistance. 
+
+Does this frame have mounting points down on the rear dropouts? The sort sometimes used for mudguards/fenders, which can be repurposed for the downshafts of a rack. Since they hold most of the weight, a front mount is relatively lightly loaded. 
+
+You should consider the offerings by sram too. 
+
+4) 105, 11 speed now, lighter and stiffer and cleaner action than tiagra 
+
+I'm researching my new road bike too. Here's info on shimano road sets, originally from: http://www.chainreactionhub.com/road/980-our-guide-to-shimanos-road-groupsets-from-tiagra-to-dura-ace with some additional comments by me. 
+
+I am researching for a new road bike for myself, trying to identify the must-haves from the nice-to-have features. 
+
+There is a trickle-down effect that comes from technical advances in the modern groupsets too - that's probably why Ultegra has an option for electronic shifting, originally designed for dura-ace. That's probably a bad example given its such an expensive change, but something like a ramp and pin design for smoother shifting would trickle down to the 105 then to the tiagra, by which time sora and claris will have vanished.

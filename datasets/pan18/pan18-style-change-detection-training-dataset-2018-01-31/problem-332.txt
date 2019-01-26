@@ -1,0 +1,39 @@
+It's just not worth the risk, unless you can afford to be wrong about the frame's ride-ability. 
+
+The Foil Premium frame does not have the factory routing for mechanical shifting. It is designed for Shimano Di2 or Campagnolo EPS electronic shifting only. 
+
+We often mount an aluminum stem on a carbon steerer tube, or handlebar. It is the torque spec for the aluminum stem which matters most, but the bar will also have max torque spec, and the parts used must allow the same torque range values, or they may not be used together. 
+
+Markus Storck, lead engineer and owner of German carbon frame powerhouse Storck Bicycles, told me at a conference about 3 months ago that the best ways to tell if a frame is cracked are movement and time. 
+
+When the frame design is tested and finalized, most manufacturers minimize the changes they make when creating the molds for additional sizes. 
+
+To respond to a couple of requests for more information in comments, I've added some detail about this frame mod. 
+
+If you are even halfway concerned with a crack, don't buy the frame. 
+
+To be clear, this very much voids your warranty, and requires precise and careful work to avoid destroying the frame. 
+
+Rodriguez Cycles did an excellent multipart essay on choosing between 650c and 700c wheels for road bikes, and the illustrated Cliff notes they provide should prove illuminating. 
+
+Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+On the significantly more expensive side, you could also consider a titanium seatpost, which wouldn't corrode. 
+
+The real issue is in the top tube length. Basically, for shorter riders you need to move the handlebars closer to the seat. But then you have to deal with the wheel possibly colliding with the pedals ("toe strike"), changing the head angle or the fork's rake, which compromises the handling, and/or having a proportionally longer top tube than would otherwise be indicated by the seat tube length. 
+
+It's likely that Sheldon's concern was for galvanic corrosion between carbon fiber and aluminum. This is an issue that's well-trod in both the bicycle and aeronautics fields. In essence, in the presence of an electrolyte (sea air, your sweat) and a cathode (carbon fiber-embedded resin) the anode (aluminum) will corrode. In the case of a seatpost/seattube interface, this corrosion will wedge the seatpost in place. This can, at best, make it extremely hard to remove the seatpost. At worst, it can render the frame unusable. 
+
+I found a cheap made-in-China fixie in Singapore (where I live); when I learned it weighs 17kg I realized why it's so cheap! 
+
+As an inexperienced cyclist looking for a new bike, I'm unsure how much I should be paying attention to its weight. 
+
+What does the weight say about a modern bike's components? About its durability or dependability? Maintenance? Wear and tear? 
+
+Are lighter bikes always better? What would be a reasonable weight threshold below which gains are diminishing? 
+
+Naturally, carrying a light bike up the stairs is much more enjoyable compared to a heavier bike. Are there any other aspects of a bike which are affected by its weight? 
+
+UPDATE: what specific weight ranges should I be looking for these days? What would be considered very heavy, reasonable, and at what weight do we enter the multi-thousand-dollar pro racing bikes? 
+
+For example, would the weight affect handling at low speeds? Higher speeds? Turning? Stability in strong crosswinds, heavy rain or other adverse weather conditions?

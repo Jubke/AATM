@@ -1,0 +1,41 @@
+Smartcast means that when multiple units of the same type are selected and an ability is used, only one of the units will use the ability. Casting separately was one of the most difficult SC1 skills, now it's completely unnecessary. Priceless for force fields, storms, and for building units when multiple buildings are selected. 
+
+Also, I've seen high-level players that don't always agree with what the help screens say, so going with experience is also better. 
+
+Guardian shield confers the damage reduction to all friendly unit inside its radius, regardless of the location of the source inflicting the damage. It doesn't matter if the enemy is inside or outside the shield. 
+
+Finally, larger control groups and icons for control groups also help make things easier to manage. 
+
+A "Baneling bust" is when you use a lot of Banelings to breach the enemy's "front door" - the bunch of buildings used at the ramp of the main base to block or hinder the enemy from entering. 
+
+So setting it at 90% means that a 150 HP unit will become a 135 HP unit (10% less). Setting it at 50% on a probe means that probe will have 10 HP and 10 shields. In cases where the result is a fraction, it is rounded up. 
+
+In any case, whether you take the long route of replaying the campaign, or the short but difficult route of saving and loading, you never lose achievements you have gained. 
+
+If you fail to do either then you will slowly fall behind because you always have less resources and less units than the enemy while the enemy economy is increasing faster than yours, just because he can afford to spend more resources on it instead of on unit production. 
+
+Nope, they don't get used. Immortals rip Ultralisks to Shreds and while theoretically Fungal Growth can allow Ultralisks to connect with Blink Stalkers, i've never seen anyone do that successfully. 
+
+If you see a roach warren and later a hydralisk den your best bet are sentry/stalker/colossi followed by a slow and smooth transition into zealot/colossi/high templar (zealots as mineral dump and wall for the templars and colossi). 
+
+My favourite. You basically build only Drones and Zerglings while using all the gas for double Upgrades and a fast tech to some Infestors. As soon as the Infestation Pit is done and you research the Infestor Energy upgrades, you start the Spire and Hive at the same time and as soon as both finish (they have the same build time), you morph the Greater Spire and get Broodlords. After that it's all about positioning and Fungal Growth. 
+
+It is possible to make Mutalisks work, but in my opinion it's not worth the risk. 
+
+With the very Infestor focussed metagame at the moment, it's not a good idea to go Mutalisks if the Opponent has Infestors ready. 3 Infestors can kill all your expensive Mutalisks if you get caught in a bad spot and after that he can just move out and kill you. 
+
+You can get Melee Upgrades early on instead of Ranged to make better use of the Ultralisks in the late game but it's a risk in the Roach midgame. You then engage his Army and Fungal his Roaches in as big clusters as you can so you make the most use of Ultralisk Splash. 
+
+I called my brother up and he said it was under energy saver settings. He hadn't realized it was not enabled until he tried playing a steam game and steam was all like 'you know you aren't using your best graphics card right?'. 
+
+Parallax Shadows give depth to game textures and geometry at the expense of CPU/GPU performance. Switching it off by giving it ’0′ value may increase performance of the game. 
+
+in Documents/Starcraft II/Variables.txt 
+
+These two variables control the amount of memory the game uses to cache and stream textures high and low resolution textures separately. 
+
+It shows how dense the different foliage elements like grass, leaves will appear. You can decrease the value to something that fit your needs and also increase the performance of the game. 
+
+My brother had this same problem and then he realized that he was still running off the lower end graphics card rather than the high end one. Make sure you have the high end one enabled. Suddenly it became really smooth and fast on his MBP when he enabled the higher end card. 
+
+Source: http://segmentnext.com/2010/08/07/starcraft-2-graphics-performance-tweak-guide/

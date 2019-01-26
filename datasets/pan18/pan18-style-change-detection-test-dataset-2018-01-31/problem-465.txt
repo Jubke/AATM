@@ -1,0 +1,31 @@
+I wanted to design a badge for it but got bored and completely redesigned the gold badges. 
+
+So, placing a bounty will make it get lost within the featured tab. Of course, you could sort the tab by "newest"--but that's extremely unfair to users who use bounties to get attention/answers for their old, unanswered posts (one of the primary uses for bounties, in fact). If they sort it by posts that have recently been bountied, the re-bountied posts will come up. Yes, you can come up with a "been bountied only once/etc" metric, but that just gets complicated. 
+
+Firstly, I noticed that the final function was of this form: 
+
+Anyway, I found likely candidates for this in the code in three places: 
+
+Note that I'm not opposing this feature. I like it, I'd want it myself. Just providing a viable alternative :) 
+
+Method: I took the code over here and started building upon it. 
+
+... except that that's more or less just about shopping recommendations on SU. Now that we've expanded, can we have a canonical, site-agnostic meta post that details why most recommendation (product/book/software/etc) questions are bad, what defines a "good" recommendation question, and outlines a policy on this? 
+
+That does the following things: 
+
+Mistakes can be fixed by simply reverting the edit and undeleting the answer. 
+
+You know that exhibit that you'd see at the children's science museum? It's a roundish podium thing and you'd press a button. This would start a clock. You were supposed to estimate when a minute passes and then press the button again. The podium would light up to show a clock face and let you know how far off you were. 
+
+This is a pain in the butt. Please don't make us do this. 
+
+User has a history of being active on the website User has a history of being active on the website's meta In addition, I would suggest that in order to use this power, the trusted user would have to add a comment (wait, let me explain before you go recast that downvote!) to explain why this extraordinary action was taken. This also will allow the user to cast a non-binding close vote--If you don't leave a reason, it is a regular vote. If you do, instaclose. 
+
+(super sensitive mod options, like merge, removed!) 
+
+From my closed-as-dupe question where I expound about how awesome this would be: 
+
+A possible workaround may be to increase the number of questions we can have on the front page, like 100 or 200 or something. 
+
+In other words, let the little moleyoutube link take off his spectacles so that this

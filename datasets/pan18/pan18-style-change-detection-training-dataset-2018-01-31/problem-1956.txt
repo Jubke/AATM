@@ -1,0 +1,33 @@
+(you can add the common place somewhere in there but it's not absolutely necessary). 
+
+There's going to be some other theories to consider as well I'm guessing, but these are the ones I can sketch briefly. 
+
+Is the form of master morality free or itself determined? (if the form is determined, then how/why is it not slavish?) If it free, is the goal merely to be free (i.e. rambo) or does it permit agents to come up with their own master moralities? 
+
+But it does not follow that someone who is not raised well or incapable of discerning the good is then excused from blame when they fail. To understand this, we need to recognize that Aristotle's ethical is not the same as Kant's moral. I'll skip over many of the details of Kant's views but a key feature for the purposes of this point is that "ought implies can." In other words, for Kant, everyone has the power to act morally but not everyone chooses to act morally. 
+
+In an answer to your specific worry, 
+
+From what I understand, there's a different account in the Laws of how things should be arranged but I'm not familiar with the details. 
+
+Regarding your initial formulation, there are a few gaps that I don't really get: 
+
+But we have the text Prospects for a Common Morality. 
+
+But the definition you supply differs from the one I suggest here precisely in that it does not incorporate the problems with calculating utility on the spot that rule utilitarianism seeks to address. 
+
+Example #2 - It's never going to be fine utilitarianism. If you're trying to maximize human freedom and have a harm principle about violations, then even if the research would lead to gains in human freedom, then you cannot pursue it because your species of utilitarianism does not permit this form of harm. 
+
+For Kant, the only known rational beings are humans. God is posited as a rational beings but not known. Angels occupy a weird position as "pure limited rational being" which is absolutely never fleshed out. 
+
+(In the above count, I've skipped over two things that I want to mention now. 
+
+Moving to your first paragraph, I will quote it its entirety: 
+
+In the example I provided, it's really hard to imagine why or how not killing dolphins would result in this consequence of every child losing 3 things. Generally, the next step is for the objector to move to a more plausible example, but there's several issues: 
+
+For Locke, the contract works in such a way that most freedoms are granted to the citizens by the sovereign, but these are established in nature and self-evident. Thus, insofar as the state is legitimate, there should be no need to schism. Insofar as the state is illegitimate, schism is no longer the right word. 
+
+If we instead look at Aristotle, there are multiple qualitative features that are important for being ethical. Some times they do conflict but then we need to balance them based on what adheres to a life of excellence -- something which Aristotle claims someone with moral wisdom can do. 
+
+I could imagine a utilitarian objecting that it is not sufficiently calculative to warrant our attention as a good moral rule. But in that case, I would take Bernard Williams stance that utilitarian projects try to simulate our moral intuitions insofar as we check them against what makes sense (we think a utilitarian project is off the tracks if it thinks strangling your spouse in their sleep is okay [for instance]), and in this way, utilitarianism is largely predicated on the golden rule.

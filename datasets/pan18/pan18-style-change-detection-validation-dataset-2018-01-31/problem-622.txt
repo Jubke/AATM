@@ -1,0 +1,9 @@
+Even the different weights of the states and the extra weight given to small states (your first reason) are secondary: You can still create scenarios in which someone wins without a majority of the popular vote because of the distribution of the voters. 
+
+As you note, 30% is actually quite low but that only make the number of districts La République en Marche is likely to control even more remarkable. What happened is that the rest of the vote is divided and the gap with the next party is wider than unusual. This and various other peculiarities of the electoral system could turn this moderate success into a large win. And the raw number of votes (as opposed to the percentage) is even lower than what you would expect to reach 30% because the turnout was historically low as well! 
+
+After that, reforms (including the recent introduction of balance mandates) moved the system even more firmly towards proportional representation. Presumably, a single-district (“majority”) system like in the US, France or the UK was perceived as less democratic so if you still want to allow some form of personal election, you necessarily end up with a complex system. 
+
+Because that's the way plurality systems work. If people get to vote directly for a representative for their districts and one person manages to get a plurality of the vote, it looks very bad if that person is not elected. 
+
+Even if you require people to show some ID, you don't want them to be able to vote in several places, you need to know exactly how many people could vote in a constituency, check they are eligible to vote in that constituency, etc. And everywhere I have voted (which includes several countries because as EU citizen I could vote in local elections outside of my country of origin), this means I had to sign in a register or at least that someone checked that my name was on a list.

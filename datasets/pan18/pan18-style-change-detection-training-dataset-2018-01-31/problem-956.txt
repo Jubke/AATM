@@ -1,0 +1,43 @@
+http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes 
+
+If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections): I'm just wondering what the community average is, across all users on Stack Overflow? Has flagging recently been changed to allow more than one flag, is this a bug, or have I missed something? But my flag summary shows that I've managed to flag a question twice (I didn't realise I had): Is this a problem with Stack Exchange's servers, or with my ISP? Just click the upvote button again to undo: I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. 
+
+The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. Is it possible that I've had 100 audits? What could cause this discrepancy? 
+
+Here's an API link (using version 1.1, I know): I thought one could only flag a post once, and that after that it should display: Any advice much appreciated! Trying to chat is very difficult with constant timeouts. https://api.stackexchange.com/docs/me-comments#order=desc&sort=votes&filter=default 
+
+I've been trying to diagnose the problem in the JavaScript chat room; the transcript is here (the messages from then on, between myself and @OctavianDamiean): Be quick though, after 5 minutes your vote will be locked in: SEDE was updated this morning so now is a good time. Placing a bounty does not prohibit you from answering or performing most other actions (by the way, you can also do the reverse – answer then place bounty – it does not matter, although, as you note, answering first does raise the minimum bounty from 50 to 100). 
+
+It doesn't appear that the Russian site was the only one affected. I just checked, the Japanese site still has it in Japanese (either somebody fixed it or it wasn't affected), but the Portuguese site has it in English now, too. I didn't check any other sites. 
+
+If you see a post with a link to software that contains a virus, you have a few options, basically boiling down to: 
+
+No, there is not. However, there is currently a Feminism & Women's Rights site proposal on Area 51, but it is not gathering a lot of support at this time. The best action for you to take, then, is to support that proposal and also attempt to spread the word. Then, if the proposal fails, you can make another one, however, these proposals have, so far, been running into barriers. 
+
+Section 3 further drives this point home: The TOS states that users are responsible for filing DMCA takedown counterclaims, and gives guidance: 
+
+If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) 
+
+Is this a problem with Stack Exchange's servers, or with my ISP? 
+
+I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. Here's an API link (using version 1.1, I know): 
+
+But my flag summary shows that I've managed to flag a question twice (I didn't realise I had): 
+
+I thought one could only flag a post once, and that after that it should display: The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. Be quick though, after 5 minutes your vote will be locked in: 
+
+I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections): Is it possible that I've had 100 audits? What could cause this discrepancy? 
+
+https://api.stackexchange.com/docs/me-comments#order=desc&sort=votes&filter=default 
+
+I've been trying to diagnose the problem in the JavaScript chat room; the transcript is here (the messages from then on, between myself and @OctavianDamiean): 
+
+http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes Any advice much appreciated! Trying to chat is very difficult with constant timeouts. Just click the upvote button again to undo: 
+
+I'm just wondering what the community average is, across all users on Stack Overflow? 
+
+Has flagging recently been changed to allow more than one flag, is this a bug, or have I missed something? For users who are already active on the site, what you can do is help spread the word. Try to think of ways to attract more users to the site. More users = more voting = more moderation privileges all around. Things like community ads, asking good questions that attract good answers and new users (and potentially end up on the HNQ list), talk about the site in your blogs, tell your friends about it, etc., etc. 
+
+Situation 2: A user mass deletes all their own content B: It's not your answer though. You've given the ability to share and modify it under the cc by-sa 3.0 license. 
+
+I thought perhaps it was because of a minimum search term length, but "ok" yields results: The relevant styling is in all.css: The TOS states that users are responsible for filing DMCA takedown counterclaims, and gives guidance: Under the assumption that the infringement claim is invalid and thus Section 3 was not violated, and also under the assumption that filing a counterclaim is a desired action, but in the cases where: My goals: I'm not questioning whether or not users should or should not delete their content. That's a whole different debate. But my goals here are, assuming my interpretations above are correct (and please, correct me if I'm wrong, that's part of my question):

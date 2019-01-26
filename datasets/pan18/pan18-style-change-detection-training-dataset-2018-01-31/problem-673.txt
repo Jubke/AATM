@@ -1,0 +1,35 @@
+In Omaha you must play exactly two cards from you hole cards 
+
+If there are 4 folds and I have ATs I like my hand better as not likely an ace is folded. If I have 78 suited I don't like it as much as some of my outs are likely dead. 
+
+Plug in 1-X starting hands then return the percentage of wins. 
+
+Take JJ as the sample case. It is a very good hand with very few card removal blockers. Behind a raise and re-raise it is likely beat. Because you are beat actually improves the chance of spiking spiking a third J on the flop by maybe a whole 1%. Does not make JJ any more playable in that spot. 
+
+Both other aces out would be 0.0743 
+
+what if they bet 5x pot pot odds (1 + 5)/5 = 6/5 EV = 0 = b*6 - (1-b)*5 0 = 11b - 5 b = 5 / 11 1 / (6/5 + 1) = 1 / (11/5) = 5 / 11 
+
+Now need exactly one board to make the royal on the flop combin(48,3) = 17,296 Flop a royal = 0.006% 
+
+You are typically playing pocket pair for the set and quads is gravy (sometimes gravy you need). 
+
+But you are getting 3:1 to call How often does your opponent need to be bluffing to call 
+
+Random There are 990 two card hands after you take out your two cards and the board. Just count up the number of hands that beat you and divide by 990. This would be for a random hand but at the river they are not on a random hand. 
+
+You have to expect more bets if you don't hit. The question is can you expect more action if you do hit? 
+
+Hole x flop odd = 0.001% = 1 / 108,290 royal flop in Omaha 
+
+I think you would multiple by combin(9,3) = 84 And this is pretty close the the simulation from Lee 1 / 485.5 
+
+Certain cards are played more than others. For example Ace is the most played cards. Yes there are some ace rag hands you don't play with an Ace but there are are a lot you do. 2-7 you pretty never play or only play as a pair. 
+
+Since I had it out calculated the odds of two quad with pocket pair and that is 1/ 37395 
+
+Any flush draw is open ended. You just need one of the 4 remaining of the suit. 
+
+A flush draw has 9 outs (13-4). An open ended straight draw has 8 outs. 
+
+You have to base it on what you think your opponent will do on the turn

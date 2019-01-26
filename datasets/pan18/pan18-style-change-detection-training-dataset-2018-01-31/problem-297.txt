@@ -1,0 +1,19 @@
+Phil Wood sells french threaded bottom brackets for far more than 50 USD 
+
+The easiest way to move the saddle forward is to use a different seat post which has more ability to move the saddle forward. There are zero setback seatposts and forward seatposts even (e.g. the Profile Fast Forward line). I'd go for this option. 
+
+Rear derailleurs: Until 10 speed, you could swap them around when you stuck within the brand (then they introduced different cable pulls introducing shifter incompatibilites, so road shifters have to be paired with road derailleurs and similarly for mountain). The mountain rear derailleurs can shift larger rear cogs than road ones. 
+
+There are 2 sorts of cross bikes - ones meant for racing , and ones meant for regular use (e.g. Trek Crossrip). These aren't necessarily disjoint (e.g. Kona Jake the Snake is used for both, to some extent), but you can tell roughly what they are for by looking at the components spec'd (example description for the Trek crossrip). 
+
+Gearing: Road bikes typically have higher gearing than mountain bikes 
+
+The rear cassette is often smaller on a road bike as well (you won't see a 36t big rear cog on many road bikes, unless they're touring bikes). 
+
+Typically, cross bikes have higher bottom brackets, larger tire clearances, cantilever/disc brakes, longer wheelbases , cables routed so that you can shoulder the bike easily and more relaxed geometries than road racers. This serves to give more shock absorbance and stability for the bike. The more commuter oriented variants also have easy fender mounting, rack mounts, etc. 
+
+As for whether or not to get the bike, its sounds like you're not all that confident in their engineering, and to me that would be a definite no on buying the bike. I'd rather spend a few more dollars on a bike than on a broken face. If the Trek 1.1 is out of your price range, either find something used and nice or look at other manufacturers you can trust (if you go to brands which are well reputed, but not Trek/Giant/Specialized, you can likely save a decent bit). 
+
+There are larger chainrings on the crankset on a road bike - typically 52/39 or something or a 50/34 versus a big ring in the low 40s or 30s on a mountain bike. 
+
+Protective Film -- Cosmetic protection (possibly structural in some cases for things like cable rub as pointed out by Nathan in the comments). If you're worried about keeping your bike shiny and scratch free I suppose. Be careful with Carbon Fiber depending on adhesive. Won't protect from dents. Derailleur guards are a terrible idea -- the force transmitted in a crash will be applied in a way not in line with design and damage the frame, whereas if the derailleur is installed as normal, the hanger will bend (or break) and is usually easily replaceable or reparable (align with something like the Park Tool DAG). If the derailleur is damaged, it's a heck of a lot cheaper than repairing the frame damage caused by a derailleur guard. You could spec an internal gear hub or single speed instead, if you want to avoid derailleur damage depending on the frame. Bumpers -- See point 1. I see these as likely less useful than the film. Crash Guard -- See point 2. Plus, there aren't as many nice mounting points as on a motorcycle since you have to pedal on a bicycle for it not getting in the way, whereas you only shift+brake with foot movement on a motorcycle.

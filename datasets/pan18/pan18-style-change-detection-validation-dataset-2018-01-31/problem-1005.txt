@@ -1,0 +1,37 @@
+A point is an idealized object. The single property of this idealization is the point's position. But a point has no extension. 
+
+In his late philosophy Plato starts some speculation about numbers. Possibly a lecture "On the Good" existed dealing also with numbers. Aristotle refers about Plato's conception of numbers in Metaphysics (Book 1, 987b15): Numbers are considered a third type of entities, between the sensuous entities and the forms. In addition, Aristotle refers: Numbers come into being by participating in the One (987b21f). 
+
+By definition, the set of all numerals and the set of all natural numbers map bijectively to each other, hence they have the same cardinality. 
+
+On the other hand, Euclid like everybody until the 19th century thought that Euclidean geometry also describes our world. 
+
+Cantor rejected infinitesimals because the product of an infinitesimal with a fixed, finite non-zero remains infinitesimal. The Archimedean axiom does not hold in Omega_QQ. Hence - according to Cantor - infinitesimals do not represent the length of any line; they are no "linear numbers". In addition, Cantor considered the multiplication of infinitesimals with transfinite ordinal; but it remains unclear how Cantor thought this multiplication to operate. 
+
+To reconcile this result with the naive expectation one should take into account: The probability of a series of length 10 with 10 heads is (1/2) ** 10, which is about 1/1000. i.e. the probability to get such series when always making 10 tosses is 1/1000. 
+
+Hence the answer to your question: No, there are not more numbers than numerals. 
+
+There are few examples of persons active in both disciplines mathematics and philosophy. The two most eminent are Leibniz and Russell. 
+
+It is an insight of the last 200 years that axioms cannot be derived from any foregoing insights, neither intuitive insights nor from results of scientific discoveries. Which axioms to choose may depend on observation. But axioms do not derive from observation like theorems derive from axioms. 
+
+I do not consider complex numbers artifically defined. And for me it is not necessary to legitimate complex exponentiation by reduction via exp(iz) = cos z + i sin z to trigonometric functions. I consider it a deep insight of Gauss that solely by introducing a single imaginary number 'i', complex numbers derive as z = x + iy and each polynomial gets as many zeros as the degree of the polynomial indicates. 
+
+the set with single element the numeral representing 0 is the numeral epresenting the number 1, 
+
+And the probability of 80 heads is accordingly (1/2) ** 80, which is about 10 ** (-24), a decimal with the ciffer 1 at position 24 after the decimal point. 
+
+It's the aim of physics not of mathematics to find out how nature works. Physicists design theories to explain the phenomena in certain domains of nature. There are mechanics, electrodynamics, solid body physics, quantum mechanics etc. These models are expressed in a mathematical language. Now mathematics can solve certain equations from these models and derive results which translate back into observable physical predictions. 
+
+"For, however we express it, what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f', ranging over all functions." - I am not so sure that "what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f" (in fact this doubt was partly responsible for my asking the first question). Indeed, to me Russell's suggestion sounds similar (see the quote) to that of Conifold's remark that I mentioned earlier. Am I missing something important and/or subtle here? 
+
+"Or, closer to home, consider the Axiom of Reducibility itself. This is supposed to hold for all functions, f. Russell's very statement of it (above) therefore violates the theory of orders." - How exactly does Russell's statement of Axioms of Reducibility violates the theory of orders? 
+
+Russell's solution founders on a much less technical but more fundamental problem. According to the theory, every variable must range over one order of propositional functions. No variable can therefore range over all propositional functions. For the same reason, no variable can range over all propositions. This pushes many claims beyond the limit of the expressible. Take, for example, the law of excluded middle: every proposition is either true or false . Since this has a quantifier over all propositions, it cannot be expressed. Or, closer to home, consider the Axiom of Reducibility itself. This is supposed to hold for all functions, f. Russell's very statement of it (above) therefore violates the theory of orders. Even decent statements of the VCP cannot be made without violating the VCP since they must say that for any function, f, any propositional function which 'involves' f cannot be an argument for f. Such statements are impossible by Russell's own admission. 
+
+When calling themselves "Platonists" mathematicians usually mean that they feel they discover ideal facts that eternally exist in some way. My question is if this sentiment is consistent with Plato's particular form of idealism. 
+
+Actual infinities collected into sets were not officially contemplated by (philosophizing) mathematicians until Cantor (with some anticipation by Bolzano) countered Aristotelian and scholastic arguments that such objects are paradoxical, see How does actual infinity (of numbers or space) work? Ironically, Cantor rejected the infinitesimals themselves, see What was Cantor's philosophical reason for accepting the infinite but rejecting the infinitesimal? 
+
+Logicism's original goal certainly was not to diffuse Platonist impulses, although it was later adapted to that end, Frege was a devout Platonist. It was an epistemological reduction programme (aside from the more technical mathematical project): show that mathematics reduces to logic, which is more "secure" on any conception, and deal with the justificatory status of logic later, Frege, Russell, early Wittgenstein and Carnap had different ideas how, from platonism to positivism. What attracted positivists to logicism was the hope of eliminating platonist metaphysics by reducing mathematics to conventions, because it seemed initially plausible that logic could be so reduced (this hope was later dashed by Quine's Truth by Convention). See Friedman's Logical Truth and Analyticity on the evolution of logicism from Frege to Carnap until the final blow to it was dealt by Gödel's incompleteness.

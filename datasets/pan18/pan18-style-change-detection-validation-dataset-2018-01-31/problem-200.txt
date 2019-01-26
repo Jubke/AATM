@@ -1,0 +1,41 @@
+You are correct in that the small cog must fully engage against the splines and it does not appear from your third photo is that it will be able to. Though the LBS put the spacer in the correct place, they apparently missed some other fundamental incompatibility. A new 7-speed cassette will work correctly with a 4.5mm spacer; but there were so many variants of older cassettes that it is difficult to be certain what will work. 
+
+For your frame, it sounds like the Park Tool directions for securing bosses on carbon frames should work equally well. The top mount on the seat-tube is also the easiest to repair using this method, so you're in luck. 
+
+There are clearly some incompatibilities between your cassette body and and the new small cog that it's butting up against, as well as the additional protrusions on the back of the cassette. 
+
+Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+Whichever solution you pursue, the mechanic that did this installation should have noticed the assembly failure and advised you to of your options rather than letting you ride off with an unsecured cassette. 
+
+Your best solution is probably to purchase a new cassette, as compatibility with an 8-speed cassette body using the 4.5mm spacer will then be correct. If price is particularly a sensitive matter, you could alternatively modify the spacer you have to fit appropriately. Off-the-shelf spacers for this situation don't exist, unfortunately. It looks like you'd need to notch it for the three prongs on the back as well as remove a small amount of material to account for the protrusions on the front of the hub. 
+
+Unfortunatly, most times this procedure leaves your hands stained/dirty. You can use gloves or some pieces of old newspaper to avoid it. 
+
+An excellent text about chain wear and wear measurement can be found here: http://pardo.net/bike/pic/fail-004/000.html 
+
+If you decide you'll keep it and service it yourself, I'd recommend purchasing some grease/oil (check which you'll need for your specific model) that's made specifically for bike suspension. A lot of lubricants I've inadvertedly used in the past contained some sort of adhesive (to stick to the metal surfaces and protect them), and the lubrication became gluey as soon as the bike hit some dusty path. On the other hand, fluids intended for suspensions or hydraulic systems tend to expel impurities and keep flowing nice over time. 
+
+This would give you an absurdly long-lasting cogset and crankset. If you only ride dry on-road, 30 thousand kilometers are expected from them. BUT you end up with A LOT of chains which would look pretty much as new. And here comes the trick: 
+
+As for myself, like I said previously, I never lock the suspension because I cannot feel any disadvantage from riding it open, but lots of discomfort and even risks from riding it locked. BUT, I think it depends on preload (my fork is relatively firm), and with softer suspensions, where the bobbing might be too much, locking might be even necessary. 
+
+The Hollowtech and Octalink systems are different because you need to match the crankset to the bottom bracket, that is, you cannot use the BB from one system with the crankset from other system. 
+
+So, having brakes with different "feels" is not a problem by itself, unless this bothers you, or makes you over/underestimate breaking power due to a possibly stark difference. 
+
+So, answering your question, I propose this "plan" to extract every kilometer a drivetrain can give, with the least money spent. Some tips might require boring manual labor, so you should measure this cost, too. In the other hand, I feel "wrong" throwing away a part which I know is still usable. The planet thanks. 
+
+First of all: The chain has ALL responsibility for the wearing of the drivetrain. If you take new cogs and rings with an old chain, the drivetrain will be destroyed VERY quickly. But taking worn-out cogs and rings, and using them with a "theoretical perfect chain" which wouldn't wear out, would actually make the cogs and rings wear BACK to good: the teeth would be progressively thinner, but their profile ramp would be fine. 
+
+The problem is: usually you can ride sligtlhy worn cog with slightly worn chain, but sometimes you cannot ride wlightly worn cog with NEW chain, because the chain skips. It depends how much the cog is worn. The same might happen with chainrings, but it is much more rare and usually happens only when the bike is seriously neglected (and seriously ridden!) 
+
+Whichever solution you pursue, the mechanic that did this installation should have noticed the assembly failure and advised you to of your options rather than letting you ride off with an unsecured cassette. 
+
+Bosses in aluminum frames are typically rivet nuts, aka "pem nuts", which have a head that should be too large to slip back into the frame. 
+
+For your frame, it sounds like the Park Tool directions for securing bosses on carbon frames should work equally well. The top mount on the seat-tube is also the easiest to repair using this method, so you're in luck. 
+
+Your best solution is probably to purchase a new cassette, as compatibility with an 8-speed cassette body using the 4.5mm spacer will then be correct. If price is particularly a sensitive matter, you could alternatively modify the spacer you have to fit appropriately. Off-the-shelf spacers for this situation don't exist, unfortunately. It looks like you'd need to notch it for the three prongs on the back as well as remove a small amount of material to account for the protrusions on the front of the hub. 
+
+You are correct in that the small cog must fully engage against the splines and it does not appear from your third photo is that it will be able to. Though the LBS put the spacer in the correct place, they apparently missed some other fundamental incompatibility. A new 7-speed cassette will work correctly with a 4.5mm spacer; but there were so many variants of older cassettes that it is difficult to be certain what will work.

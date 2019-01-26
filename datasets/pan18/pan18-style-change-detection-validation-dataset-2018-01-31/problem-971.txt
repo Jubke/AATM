@@ -1,0 +1,27 @@
+Based on Hofstadter's considerations, either you can recreate such homonids, but on the condition of treating them ethically, and presumably according a minimum number of rights, or if you are not willing/able to do that, refrain from recreating them. 
+
+But we don't need such an imaginary scenario, we can look at a real world historical one: Using the same "sum of concerns" you mention, enslaving a minority for the benefit of the majority would become acceptable (some people in the US during the era of slavery - i.e. before 1865 -argued that slavery should be preserved for exactly this reason - indeed whites in the US in the 19th century far outnumbered blacks), but nobody would consider slavery acceptable nowdays. Similarly modern day rules of freedom of speech follow a similar logic: if we were to just "sum up the concerns" of society, then censoring those who have disagreeable opinions would be perfectly acceptable in the name of protecting the interests of the majority. But nobody in the developed world finds this acceptable, freedom of speech is considered a value that is protect and is more important than the interests of the majority. 
+
+Consider the following situation: Lets presume a strange scenario were we would be able to solve all of the country's problems - crime would be eliminated, unemployment would be eliminated, health care would become perfect, and society in general will be come peaceful and happy - but at one condition. There is a group of 50 small innocent children who have to be kept in a dark room in a faraway city and tortured everyday for the rest of their lives - this is the only way to achieve the miraculous society mentioned above. Without torturing these children, the above mentioned zero crime, zero unemployment, perfect health for the rest of society would not occur. Is this scenario acceptable? surely summing the ethical concerns as you say (the technical term used is calculating the utility of the situation), the concerns of the whole country override the concerns of these 50 children. But nobody would ever consider this scenario acceptable, in fact most people would consider it horrible and disgusting. 
+
+Presumably incestuous or polygamous attraction is something that can happen to anybody regardless of their birth, and does not make those who have such feelings a distinct class of people, the way being gay does. Banning those forms of marriage do not constitute a form of discrimination, the way preventing same-sex or mixed race marriage does. 
+
+Consequentialist/Utilitarian perspective 
+
+John Rawls, basically asks to vote as if we didn't know anything about our place in society, i.e to vote from behind a veil of ignorance, when deciding what the fairest political system or distribution of resources should be. 
+
+There is an implicit contradiction in the article that you mentioned: 
+
+Other similar scenarios are valid as well: A corporate executive is held accountable for turning a blind eye towards corruption, even if they didn't partake in it themselves. Law enforcement officials would be held accountable for failing to prevent a crime they knew about in advance, etc.... 
+
+This makes preventing same sex marriage while allowing opposite sex marriage a form of discrimination, since it involves denying a class of people a right based on something they were born with, while granting that right to another class of people. They argue that banning gay marriage is similar to preventing people from getting married based on their ethnicity or skin color. 
+
+Postscript added in response to nir's comment and to some parts of his answer: 
+
+This points to a more general flaw in the article: The moment you are voting for a person or a party, the only way you can decide your vote is deontological. You are choosing a person or a party because you have a shared set of principles with them. You do not know before hand how they are going to manage the country, and you definitely don't know what the various outcomes of their administration will be. All you know is that they believe in a certain number of political and economic principles. 
+
+An example of AI ethics, taken from Sci-Fi, not philosophy are Asimov's 3 laws of robotics. Although Asimov doesn't mention Kant or the word deontological anywhere in his works, it is clear from their formulation that they are Kantian in spirit, in the sense that they are universal and context independent. 
+
+Personally, I am an amateur student of philosophy myself (no formal training except for a couple of high-school classes). Coming into contact with analytic philosophy has definitely changed the way I look things, and more importantly the way I argue and negotiate with people, in both my personal and my professional life. 
+
+I can't provide a source for this. It was an answer provided by my high school religious studies teacher. The Abrahamic religions had very strong rules against promiscuity because of the need to preserve family lineage. In societies were family and clan relationships were very important, people had to be sure that siblings and cousins were indeed who they claimed they are. At a time when contraception or DNA testing weren't available, the only way to insure the "purity" of family ties was by restricting the sexual partners that people could have.

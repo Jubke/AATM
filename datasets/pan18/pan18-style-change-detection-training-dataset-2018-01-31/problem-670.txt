@@ -1,0 +1,29 @@
+There are five board cards in hold'em. Since you start with two known cards, there are 50 unknown. That means there are 50x49x48x47x46 ways the board can come. Since the order of the cards on the board doesn't matter, divide that by the number of ways 5 cards can be arranged (120), that's 2118760 total distinct boards. There are 47x46/2 of those boards that contain the three cards we need, so dividing again we get 1960. So 1 out of 1960 times we'll eventually make the royal. There are 46x45/2 boards that make each straight flush (with no ace--else they'd make the royal as well), so that makes 1 out of 1023 5/9 for the straight flushes. 
+
+"Game of skill" and "game of chance" are not disjoint sets: they overlap at poker, backgammon, bridge, and many others. Any game can have a randomizing element like the deal of a card or the roll of a die, and yet still have player choices and strategies that lead skillful players to win more often than less-skilled ones. Would you call football a game of chance because they flip a coin to choose field sides at the start? It is possible to make bad choices and still win, for a while, just as it is possible to make all the right choices and lose. That's why bad players keep playing. But over the long run--and that generally means months, years, thousands of hands--those who make better choices will win the money of those who make poor choices. Of course the best choice is to be the house. :-) "Pure" games of chance are those where the player makes no choices after betting: baccarat, roulette, craps, and such have only one player choice: bet or don't bet, and the outcome of the bet is based wholly on chance. 
+
+Poker is not like that. You see cards first, and then you base you decisions to bet, fold, or raise based on the cards, your position, your stacks, you opponents, and other information. Which player will have the best hand is determined by chance--but which players will stay for showdown, which will leave early, which will win the pot, and how large the pot will be, and how those results will add up over time, are heavily influenced by player choices. 
+
+And with no gap, like in the example you gave, there are 3 types of combinations that will give you a straight: 2-3, 3-7 and 7-8. Each of them has 1.48% so you have 4.44% chance of hitting your straight. The only combination of ranks that will give you a straight is 4-5. Then, 
+
+the second card must be one of the 4 cards of the other rank (if, for example, a 5 was dealt on the turn, the 4 cards are 4c, 4d, 4h, 4s). Suppose we modifiy your example so that your straight draw has 2 gaps: 
+
+With one gap in your straight draw. For example: 
+
+Now, there are 2 types of combinations that will give you a straight: A-4 and 4-6. Each of them has 1.48% probability, so you have 2.96% chance of hitting. 
+
+By multiplying the two, you get (6/47 * 5/46) =~ 1.4% 
+
+The betting behavior of players does not affect the order in which action takes place in later betting rounds. When new community cards are dealt (flop, turn and river), the new betting round starts with the first player left of the dealer, if he/she hasn't folded in the previous betting round. In the examples you give, nobody folds so this would be the small blind. Hole cards: 2:diamonds:3:diamonds:. Flop: T:hearts:6:diamonds:J:spades:. 
+
+Hole cards: 2:diamonds:3:diamonds:. Flop: T:hearts:5:diamonds:J:spades:. 
+
+Two Pair with board cards: 691 It depends on the number of gaps you have in your draw; 
+
+To convert backdoor draws into probabilities, you need to multiply the probability of hitting the first card by the probability of hitting the second card given that you hit the first card. 
+
+The strategy works out exactly the same, even though you're only bothering to think one decision ahead! 
+
+If X > 52, then you should always call before the turn if X > 47, i.e. you always call in this situation, and call again if the turn doesn't go your way. Say you're in a $10-$20 limit hold'em game holding A♥8♥ against a flop of K♥3♥6♣ so you have a nuts flush draw against an opponent who bet pre-flop, and has just bet again ($10) so you put him on AA, Kx or QQ, or maybe even JJ or TT - at any rate, he's got you beat at the moment, but you could improve to beat him. 
+
+In some sense these games are slightly more realistic, as there is a range of possible hands. They have no card removal effects, as the player's hands are independent. However, they still only have two players and a single street. AK game There are two players, and a deck containing a single A and a single K. Say a non-heart comes up on the turn, and your opponent bets again ($20) so that there's $Y in the pot. Clearly you would only call if Y > 82 (need pot odds greater than your 4.1 : 1 chance to win).

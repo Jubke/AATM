@@ -1,0 +1,51 @@
+Semantic parsing is an area of active research, and the Stanford parser is not the only around. An alternative is the UCREL Semantic Analysis System. 
+
+The Oxford Dictionary of English (sport, disport), the Online Etymology Dictionary, and the Grimm Brothers Dictionary of German all give variants of 
+
+acattle's comment that there is a trade-off between inflectional complexity and strict word order is a good answer to your question. I think it would really help to illustrate this with some examples. 
+
+The most widely used reading passage in research on English phonetics and phonology is The North Wind and the Sun. It includes most English phonemes and is used, for example, in the Illustrations of the IPA (translated where necessary, although it is then not guaranteed to include all phonemes of the language in question). 
+
+Another opinion is that lax vowels such as /ɪ/ and /ʊ/ must not have an empty coda (because there are no words ending in a lax vowel). This would mean that 'hippy' should be syllabified as /'hɪp.i/, not /'hɪ.pi/. Yet another analysis is that (as musicallinguist mentioned) some consonants can be ambisyllabic, i.e. belong to both the preceding and the following syllable. 
+
+Mark Davies offers a word list based on the Historical Corpus of North American English. The list indicates frequencies for each decade from 1800 to 1990, so you can choose the periods you need. Scientific texts are included in the corpus, but I don't know whether you can get a word list based on specific genres. 
+
+If this stress pattern is something more than just ordinary contrastive focus, references would be appreciated (but not strictly necessary ;) 
+
+I ran some of your sentences in the demo, and results are mixed. The verb live seems to be recognised only in the sense of *Live*1 = to reside. The adjective is treated as something different from the verb. Phrasal verbs and idioms such as live it up seem to be beyond the current abilities of the parser. 
+
+In English adjective-noun combinations the noun commonly carries the main stress: 
+
+The MOP says that as many consonants as possible should belong to the second syllable (i.e., the onset of the following syllable should be maximised). What is possible is determined by the phonology of English. For example, there are words like 'road' that begin with an /r/. Hence, we know that /r/ is a possible onset. Therefore, /ˈvɛ.ri/ is the correct syllabification. 
+
+Most linguistics can agree that (in English) the nucleus ("core") of a syllable must be vowel (an exception is made for nasals in certain contexts). If we consider a word with more than one syllable, the next question is whether the consonant(s) between the first and the second nucleus should belong to the first or the second syllable. 
+
+Example: Should /r/ in very belong to the first, hence /ˈvɛr.i/, or the second syllable /ˈvɛ.ri/ 
+
+I think, more often than not, it's a matter of convention rather than of phonetic distinctions. For example, I know one phonologist who sticks to [ɝ] and [ɚ] for transcriptions of American English, and by convention she uses [ɝ] in stressed positions (as in 'sir') and [ɚ] in unstressed positions (as in 'ulcer'). It's true that the formants of the vowel in 'ulcer' are going to tend to be a bit less extreme (i.e., a bit more centralized) than those of the vowel in 'sir', especially at faster speech rates. But they aren't always, and yet she lets phonology, not phonetics, dictate which symbol she uses. This follows the convention of transcribing the vowel in the unstressed syllable of 'submit' as [ə] and that in the stressed vowel of 'substance' as [ʌ], even if instances of those respective words can be found in which the formant values of the vowel are identical in the two cases. 
+
+The job of a dictionary transcription is to serve as a guide to the pronunciation of the word, not to provide a phonological analysis, although in giving a phoneme-level transcription it is implicitly assuming one. Since different dictionaries use different phonemic schemes, the user has to be wary when interpreting a given dictionary's choice of symbols. If a dictionary gives /shərt/ for shirt, for example, the /ər/ sequence should not be interpreted as a sequence of /ə/ plus /r/ any more than /sh/ should be interpreted as /s/ plus /h/. More than likely the two-symbol string is being used to represent a single sound. Sometimes this can be confirmed by listening to the recorded pronunciation that often accompanies transcriptions in online dictionary entries. Indeed, if you downloaded one of these sound files and examined a spectrogram of it, you'd be hard-pressed to segment the vocalic portion of the word into two separate vowels. 
+
+Now about "Gad" and English "god". The wrong assumption here is what Yuri Otkupschikov called "chronological scissors" (chronological disparity). You are comparing words that don't belong to the same time period. Yes, in OE the word was "god" but looking at other Germanic languages you can't help but notice that originally the root vowel was not "o" but rather "u", e.g. have a look at this. 
+
+As for function words that start with h, the following words get affected: had, has, have, he, her, herself, him, himself, his (Cruttenden 2014: 274). In their weak forms, they may all lose h. 
+
+Cf. They put up a tent next to my house every summer. 
+
+However, in our case this would contradict the directionality of Mańczak’s seventh tendency of analogy, which states that “the forms of the present more often bring about the reshaping of other tenses than vice versa” (as cited in Campbell 2013: 265). 
+
+their story of the trip in space (complement; your "complement") 
+
+To conclude, as Pons-Sanz 2015 writes, 
+
+It seems no one is willing to abandon the ban on the Anlaut position though. 
+
+the noisy yellow airplanes that scared the children in the yard, [that scared the children in the yard] is a complement clause. 
+
+Phrase stress: Bennett 1972, Quinlin 1991 (and also his 1989 dissertation), Hoptman 2002. However, Tsimmerling 2007 finds this analysis irrefutable. 
+
+However, the biggest problem is the apparent lack of a Scandinavian (Old Norse) cognate, and I'm by no means the first linguist to notice this. 
+
+A general remark on etymology: 
+
+At first, this represents how generative syntax was done in the late 80s-early nineties. Many of those ideas were abandoned a long time ago.

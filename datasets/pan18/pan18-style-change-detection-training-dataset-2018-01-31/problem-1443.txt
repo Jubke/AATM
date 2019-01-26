@@ -1,0 +1,21 @@
+I've been on a rollercoaster ride of loving autolayout and hating it. The key to loving it seems to be to accept the following: With those two elements selected, use the constraints menu: All of the constraints are purple, which means IB has added them for me (they are System constraints) and they can't be removed - they are the minimum constraints needed to position and size the text field. 
+
+The touchable part of the button will not coincide with the button's visible frame when it is being animated. 
+
+The compiler now rightly complains about this when I'm trying to build to support iOS 10 (with a deployment target of 9.0). In an auto layout world, we don't set frames any more, but constraints don't seem up to the task of adjusting the position of a view back to where we want it to. You can hack the constraints to reposition your view, but on rotation or other resizing events, these become invalid again. I have written about this, and similar autolayout topics, here. 
+
+Internally, the button's frame will be set to the final value from your animation. You should find that you can tap in this area, and it would work. 
+
+I am happy to expand on this answer if you need more. 
+
+Now you can see that the two vertical space constraints have changed to blue (they are now user constraints) and they have a thicker appearance in the editor. This means that one of them can be deleted. I select the constraint for the bottom space and hit delete: To illustrate further, here is an empty view controller, with a single text field which I have dragged on: 
+
+Is it possible to change the anchor point, without changing the location of a view, in a view that is laid out with auto layout? Do I need to use hardcoded values and edit the constraint on every rotation? I do hope not. Here is how you would respond to a touch event by hit testing presentation layers. This code is in the view controller subclass that is managing your buttons. When I did this I was interested in the initial touch rather than the touch ending (which is typically when a tap would register) but the principle is the same. 
+
+If youve added a new model without going through this process the lightweight migration may not work. If the playlist loses or gains active status it stops or starts observing itself appropriately, so notifications are only fired from the active playlist. 
+
+You must not override this method. The extension currently looks like this: You add a new model version by selecting the xcdatamodeld file, the going to Editor --> Add model version. 
+
+Before auto layout, you could change the anchor point of a view's layer without moving the view by storing the frame, setting the anchor point, and restoring the frame. 
+
+You can now select and delete the vertical spacing to the bottom of the view. IB wouldn't let you delete this before since you have to have a complete, non-ambiguous set of constraints. After adding your new vertical spacing constraint, you now have this.

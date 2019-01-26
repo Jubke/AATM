@@ -1,0 +1,8 @@
+measure{
+  key: "accuracy"
+  value: "0.5281501340482574"
+}
+measure{
+  key: "accuracy_solved"
+  value: "0.5281501340482574"
+}

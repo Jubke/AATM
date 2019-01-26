@@ -1,0 +1,27 @@
+Check it out yourself. If you don't understand the code, you shouldn't be using it anyway. Configuration changes Finally, make sure that your data doesn't have to be reconstructed when a configuration change occurs (such as an orientation change). A persistent SQLite database can help with that, and also these methods. No, there is no way to convert an existing iOS app to an Android app. I want to test in the emulator an app that depends of the device identifier (ANDROID_ID). 
+
+3 optimizations that should help: Edit: Android now supports in-app billing! 
+
+When an EditText is in password mode, it seems that the hint is shown in a different font (courrier?). How can I avoid this? I would like the hint to appear in the same font that when the EditText is not in password mode. And there are online services (such as Mobile Roadie) that allow you to generate cross-platform apps using a content management system. 
+
+The problem is that the platform does not enforce the exact value of inSampleSize, and I sometimes end up with a bitmap either too small, or still too big for the available memory. I currently obtain device identifier with the following code: 
+
+I would like to define the z order of the views of a RelativeLayout in Android. I would like to create different layouts for tablets and handsets in Android. Where should I put the layout resources in order to make this differentiation? However, there are cross-platform frameworks that allow you to code once and deploy your app in more than one platform. The most popular are based on HTML/CSS/JavaScript and one of them is PhoneGap. 
+
+Alternatively, you can create a dialog activity and return the data as the activity result. See the following link for more info about starting activities and gettings results: The Gallery app obtains camera images by using a content resolver over Images.Media.EXTERNAL_CONTENT_URI and filtering the results by Media.BUCKET_ID. The bucket identifier is determined with the following code: 
+
+I suspect that in HONEYCOMB_MR2 upon an orientation change the activity considers this as two config changes: orientation and screen size. And both attempt to recreate the activity by default. 
+
+In any case, using the library as a starting point should be better than starting from scratch. Assign an OnDismissListener to the dialog and pass the data to the activity there. 
+
+What's the best way to implement iPhone-like (additional content or services) in-app purchases in Android using the Android Market if possible? 
+
+Is there a way to get a device identifier in the Android emulator? Am I obtaining the device id wrongly? A synchronous method that generates a bitmap from an HTML string using a WebView, and can be used within an AsyncTask: You can also develop for iOS and Android with Adobe technologies such as Adobe AIR (this was forbidden by Apple until recently). I heard there's a function that does this in later versions of the SDK. In any case, I'm looking for solution that works for 1.5 and upwards. 
+
+Data storage Additionally, a local SQLite database might be more appropriate to store large amounts of data, specially if you don't have to show it all at once. This can be achieved with cursors that are provided by the platform. How should I decode bitmaps from the SD card to get a bitmap of the exact size I need while consuming as little memory as possible to decode it? From http://developer.android.com/reference/android/graphics/BitmapFactory.Options.html#inSampleSize: 
+
+The solution should consider in particular: 
+
+Threading If the program freezes it most likely means that you're not using a separate thread to process the large XML file. This means that your app has to wait until this task finishes to respond again. 
+
+I managed to solve this by browsing the Android source code. Here's what I did: How do you disable all touch events in an Android WebView (or scrolling in particular)? I would like the activity to handle all touch events.

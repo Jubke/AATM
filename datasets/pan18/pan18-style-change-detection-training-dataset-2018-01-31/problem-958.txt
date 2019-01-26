@@ -1,0 +1,15 @@
+A chat room can have feeds, either posted as regular messages, or appearing as an overlay at the top of the window (“into an extra area of the screen”) — ticker style. When the feed appears in messages, I can mute it by clicking on the feed user's avatar next to one of its messages and selecting “ignore this user”. What about when the feed is showing up as an overlay? How do I make the overlay never appear to me? I want to define a function for use in an SQL query. But: 
+
+And while I'm at it, a few synonym requests: How can I properly review a large amount of edits from one user? Clicking on 50 arrows to check that all of the edits are ok is not my idea of fun. Is there a way to pre-expand all the arrows? Can I get one page with all the edits, instead of 3? Penalties for a valid spam/offensive flag are not displayed in a user's reputation history as shown to the public (I think that's a good idea). They are visible to moderators. Are they shown to the affected user? 
+
+And these tags are a strong indication of a question that doesn't belong here: I see a few pending synonym requests which should be uncontroversial (hyphens, plurals, abbreviations), please approve them (and any similar ones you come accross). 
+
+I think your best bet is to comment on such questions saying that it's obvious to you this is a nefarious deed in progress, and urging people not to answer. You can then use your downvote powers to punish not only the asker but any answers that try to help. That's already within your powers. You also have the power to close questions, using Other, and filling in a free form reason. If 4 other people agree with you then no answers can be added, though comments may be left and it's possible 5 other people would re-open the question. Why are half of the thingies blank? The comments are correct: I have it where I expect to have it, though I was (at first) only notified for one (randomly chosen?) site. Since then I have got another notification for Meta. I presume the Workplace notification will show up eventually. (At one point it had been five hours with no sign of it.) Be quick though, after 5 minutes your vote will be locked in: 
+
+The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. 
+
+I'm just wondering what the community average is, across all users on Stack Overflow? 
+
+Is this a problem with Stack Exchange's servers, or with my ISP? 
+
+Just click the upvote button again to undo: But my flag summary shows that I've managed to flag a question twice (I didn't realise I had): If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections):

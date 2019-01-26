@@ -1,0 +1,49 @@
+Make up some more tasks and add them to the queue and see what you get. 
+
+The following is based on the example given in the JavaDocs 
+
+In this example, each cell panel has it's own mouse listener. It wouldn't be overly difficult to re-code it so that the main panel had a single mouse listener and managed the work load itself instead. 
+
+It's a coding convention, adopted by most Java programs. It makes reading code easier as you become use to a given standard. 
+
+This is my take on the idea. I've used the "traditional" drag and drop API in this example. It has some extra "paint" tweaks just to show off what you might be able to do. 
+
+Have a read through Concurrency in Swing for more info 
+
+We want to buffer a page request on the first request of the page and simply paint back the buffer on subsequent requests of the page (as the page contains a number of images and some complex rendering - rather then wasting time painting each page request, we want to use a buffer) Maintain the high resolution output of the printer. We have found that if we paint directly to the printers Graphics context, we obtain a substantually higher quanity output then we do if we try and use a buffered image of the same size. I've tried searching the JavaDocs and Google without luck. 
+
+Just as a side note (my Google was playing up). 
+
+Updated with additional example 
+
+This returns the scaling factor for a particular size. I use this to make decisions about which factor I want to use based which algorithm I need 
+
+Each cell is defined with a fixed width and height and do not resize with the main window. 
+
+Take a read through The Perils of Image.getScaledInstance for some more ideas 
+
+the RHS of an assignment expression is completely evaluated (including any increments, decrements and/or other side-effects) before the value is assigned to the LHS. 
+
+Peter Lawrey's benchmarking indicates that thread creation is significantly faster these days in absolute terms, but it is unclear how much of this is due improvements in Java and/or the OS ... or faster processor speeds. But his numbers still indicate a 150+ fold improvement if you use a thread pool versus creating/starting a new thread each time. (And he makes the point that this is all relative ...) 
+
+Failing that, does anyone know of a JSON library with a parser and a generator that can be configured to output "pretty" JSON with the attributes in (say) lexical order? (A Java or Ruby library would be ideal, but other leads are also welcome.) 
+
+All these things are platform specific, but they are not cheap on any Java platform I've ever come across. 
+
+Before you use Project Lombok (or any other game-changing technology) in some project (open source or other wise), you need to make sure that the project stake holders agree to this. This includes the developers, and any important users (e.g. formal or informal sponsors). 
+
+Suppose I have some objects in MongoDB: 
+
+If I have a writing thread, and many many reading thread, which mode is better to use? If I use non-fair mode, is it possible the writing thread has little chance to get the lock? 
+
+We are using "TDD" in our development, so the testability of a class often is the most important concern for us. 
+
+How can I understand it? It's great if there is some code example to demo it. 
+
+I was prefer using static methods in my java code, since I think they are "functional""stateless" and has less side-effect. So there may be some helper classes and methods like this: 
+
+I tested the performance of transferring data from a program to another over socket on a single computer, and the speed is 120MBytes/s, is it normal? 
+
+But if the "import" statements in the java file contain "*", that will be a problem: 
+
+And when to use static methods? Or just avoid using it as much as possible?

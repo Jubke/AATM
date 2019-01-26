@@ -1,0 +1,45 @@
+I doubt a user who posted a one good answer and is no longer active is really going to care about receiving a badge. 
+
+I'm a moderator on Stack Overflow and for me, it's a combination of things. I've been around long enough on Stack Overflow, that I tend to be picky in the questions that I answer. If I see something that's interesting, I'll spend time writing up a decent answer, typically with tested, code, etc - these typically take time to write. Lately these questions are few and far between so I don't spend as much time answering and more time moderating. 
+
+what's the worst-case that could happen? 
+
+On the eighth day of WinterBash Stack Overflow sent to me Eight Lonesome Cowboys, Seven Frosties the Snowman, Six RoboCops, Five Defenders of the Realm, Four Archeologists, Johnny Three-Hats, Two Marauders, Tim Post's head and R-E-S-P-E-C-T for hitting the rep cap 
+
+I suggest downvoting and/or commenting on it, not flagging as "Not An Answer". 
+
+On the third day of WinterBash Stack Overflow sent to me Johnny Three-Hats, Two Marauders, Tim Post's head and R-E-S-P-E-C-T for hitting the rep cap 
+
+The acceptance checkmark shows that the OP found the answer that solved their problem, that doesn't mean that other answer cannot or should not be added. 
+
+As far as answering on Meta, I do tend to answer more questions there, mainly because we get a lot of questions about moderator actions, and about the site in general. I'll answer based on my perspective as a mod, or based on my experience as a user of the site. 
+
+I also wouldn't base your flagging on comments placed by other users, you need to make your own decision on whether or not flagging is appropriate. 
+
+If it's not your question, and you see a one-character typo, your ANSWER is "hey, OP, you have a one character typo: you have [line paste] where you should have [corrected line]. 
+
+All four of those can and should go. Not in a year, either - the minute you see them. Waiting a year to delete them would be wrong. 
+
+Another argument is that if we close it as a dupe right away, the asker will get what they want and that will make them like the site. Also there will be no effort put into editing the question into shape, reopening it etc. However I feel that some people worry this is rewarding bad behaviour. 
+
+Some people feel there should be an exception to this rule for single-character errors in code. (There is a general consensus that single-character errors in sentences are highly unlikely to matter.) My approach to this is: 
+
+Consider editing your answer to cover areas the commenter says you aren't covering, or to explain why you're not covering them. If the commenter has misunderstood something you wrote, see if you can reword it; other people might also misunderstand it. Remove your own comments if they were only for one person who has clearly read them. You can also flag a comment as obsolete - say it points out a typo and you've corrected it - which helps to keep the question clean. 
+
+note 1 - I don't think all these OPs are unchecking "edit was helpful" which is checked by default, but it's possible the accept/reject by community depends on that box. Possible, but doesn't match my observations. 
+
+Do we want to reward a person who posted one answer and then never came back? 
+
+In this case, we had one moderator who let us know they could no longer be active as a moderator. The SO flag queue has been hovering near the 2k mark, so I decided that we should ask two people to step up. Both of the newest mods were contacted to see if they were still interested in stepping up before being diamonded. We'd never just diamond folks who were runners up without asking if they still want to help. 
+
+The typical line is that moderators should be involved in things that the community can't handle - that applies to flagging, user problems, etc. - review queues are open to everyone with the privilege including diamond mods. 
+
+Questions should not be closed just because there is an accepted an answer to it. 
+
+On the third day of WinterBash Stack Overflow sent to me Johnny Three-Hats, Two Marauders, Tim Post's head and R-E-S-P-E-C-T for hitting the rep cap 
+
+Consider editing your answer to cover areas the commenter says you aren't covering, or to explain why you're not covering them. If the commenter has misunderstood something you wrote, see if you can reword it; other people might also misunderstand it. Remove your own comments if they were only for one person who has clearly read them. You can also flag a comment as obsolete - say it points out a typo and you've corrected it - which helps to keep the question clean. 
+
+I understand that comment deletion cannot be undone. But that is true whether a moderator does it or a group of 10Ks does. And comments are designed to be ephemeral. If there really is a problem, let's get it tackled. 
+
+I am not sure why there's a trend lately to have the rules of SO, which were developed to keep the site useful and clean, considered to be something that should not apply to people who mean well, who are just learning, who are new to the site, or who couldn't have known that two things were the same. That is what community moderation is all about. The poster of the duplicate didn't know, couldn't have known, and didn't need to know. Enough members of the community knew and took care of it. The site stays neat. Everyone gets their answers. This is functioning as it should and suggesting that it shouldn't because the OP couldn't have known is a serious case of Not Grasping The Concept.

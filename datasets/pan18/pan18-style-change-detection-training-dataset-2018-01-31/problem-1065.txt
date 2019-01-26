@@ -1,0 +1,19 @@
+SLG works well with other statistics, to some extent, this way; you can derive things like isolated power (ISO), which tells you what proportion of their slugging percentage comes from XBH explicitly. You can't explicitly calculate the probability of an XBH from it, though, since the proportion of 2B|3B|HR can vary with identical SLG/AVGs. (Take one HR and one Single, and make them 1 2B and 1 3B, for example; identical SLG and AVG for those two results.) 
+
+This is fairly easy to see; you already calculated the joint probability of at least one hit (0.496), and the probability of both of them getting a hit is easy (0.3*0.28 = .084). Sum those two together and you get 0.58 again. 
+
+A team like the Yankees or the Dodgers, who isn't all that worried about salaries, is more likely to call up a player before the Super 2 deadline, though they usually will at least wait the few weeks to get one more year of control. 
+
+If you want to look solely at the outcomes, well, there have been fewer than 100 overtime games since 2012, so it shouldn't be too hard to just count them? 
+
+However, the general details around this: 
+
+But even then, mostly defensive actions in baseball are still a singular player's action. A defender has balls hit towards him, he can field them or not field them, and you can measure how far away he ranges, what percent of balls he successfully fields, etc. The quality of the hitter doesn't really matter to the defensive player's performance - a hit to a particular spot is a hit to a particular spot, more or less. 
+
+You cannot determine that with SLG, of course, as SLG does not measure proportion of at bats with hits. SLG measures total bases, though, so you can use that. 
+
+If you want to combine the two, then, you would add the terms together. You would say, "The expected value of total bases after both Player A and Player B bat is 0.32+0.45 = 0.77", meaning after the two of them bat, on average 0.77 bases are recorded. 
+
+As far as +/-, again I don't think it's explicit anywhere; it would be up to the scorer to determine exactly who was officially on the ice when it occurred. Typically when I've seen it, the player getting on the ice is credited so long as they're fully on the ice - the player leaving is more or less 'out of it' once that's happened. 
+
+As of late 2015, the receiving team had won slightly more than half of the time (50.7%) since the new overtime rules (allowing a drive after a made FG - it used to be even a made FG ended the overtime). ESPN estimated a 53.8% chance overall (likely higher than observed when you control for the already-extant likelihoods, specifically the better team being already more likely to win).

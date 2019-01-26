@@ -1,0 +1,31 @@
+StarCraft II is only playable via a Battle.net account with rights to play StarCraft II. There are 2 ways to get those rights: 
+
+Presumably, yes, this does mean Blizzard can do micro patches on the maps themselves without needing to change the game client. 
+
+The point of the campaign upgrade system is that the choice is yours to make. The developers have stated that they want you to play through the game multiple times, playing the missions in different orders, trying different research, getting different armory upgrades. So there is no correct answer for the "preferred sequence" - making different choices will give you a different experience, and a part of the fun is talking with your friends about how you did it differently and trying something else on a later playthrough. 
+
+So it sounds like the seller is breaking the rules anyway unless he has actually contacted Blizzard about it. Not that I'm a EULA expert. 
+
+Edit: Also, yes, my answer is speculative. The people who know the answer for sure are people who have looked at the game code. If such people reply with a better answer, please upvote that! :D 
+
+In addition to taking double damage, they also don't output any damage, which is probably obvious. I can't find any references to them having otherwise different stats such as lower speed or not benefiting from upgrades. (Edit: tzenes says in the comments they do not benefit from armor; I haven't tested it.) 
+
+Edit: As per comments, it could also be doing a small check to ensure your maps are in fact up-to-date and not hacked. This wouldn't necessarily require downloading the full maps, but would require downloading something (albeit small) for verification. But it's still likely to be map related. 
+
+However, the total number of points everyone has will trend upward due to the Bonus Pool. This does mean it rewards playing more often, but only to a certain extent in a certain time period (a few games per week, I suspect). Once you've exhausted your bonus pool, your ranking points will again more-or-less stabilize based on your skill. 
+
+Personally, I would buy the game new. But I am incredibly biased because StarCraft II is pretty much my favorite game ever. 
+
+One of the reasons this was done was to encourage people to actually play the game. Since everyone's points are constantly going up, you have to play to keep up with your peers. If this artificial inflation of points due to the bonus pool wasn't in place, the player at the very top would - in theory - not have much reason to play; he's the best and his points will stay the highest until someone usurps him. This way, he has to keep playing to maintain his status. As with any fair matchmaking system, the more people playing, the better, and I think Blizzard is trying to encourage more people to play. 
+
+According to this site, they are destroyed instantly by a psionic storm. Also, detectors can spot them, so I'd guess if a detector was in the area their priority for the AI to attack them will be low. 
+
+Edit: @mousey adds that the key has not been used. If that's actually the case, technically you should be able to play it if you do get it. However, it's mostly against the End User License Agreement as stated in the manual: 
+
+In particular, for you they provide sight, so they can be used for scouting or spotting. 
+
+Playing StarCraft well is similar to driving a car well. You need to pay attention and check your mirrors a lot to ensure you're fully aware of everything that's going on. With practice, you can get into a nice rhythm of checking on the fight, checking your building production, glancing at your base, and throwing up new buildings. 
+
+Specific things to watch out for: 
+
+I suspect your premise about gaining more points for winning than losing is slightly off. Generally speaking, once your point level stabilizes due to finding your actual skill level, your points will remain the same relative to others playing the game if you don't get any better/worse.

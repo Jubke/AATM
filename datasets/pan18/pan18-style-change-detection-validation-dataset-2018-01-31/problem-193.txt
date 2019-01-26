@@ -1,0 +1,51 @@
+Since its the rear wheel, you'll need the special tool to remove your cassette/freewheel as well. Even buying one of these its still cheaper than replacing the wheel. 
+
+The wheel is very probably scrap. The best fix is to replace the whole wheel (rim/spokes/hub/QR/axle/rotor) 
+
+You will need to buy probably two new replacement cartridges of the same inner/outer diameter and width. The higher the ABEC rating, the more precise the bearings. Rollerblades can be found using ABEC 5/7/9 in the good ones, or ABEC 1 for cheaper ones. 
+
+Shop around for bearings - a bearing seller will probably be better than a sports shop. 
+
+Here's an answer for the first part "why not many at the dump" 
+
+The rider is pretty likely to have suffered physical injury too - Collarbones are are particularly vulnerable because the rider has gone Over The Bars (OTB) as the bike stops. 
+
+A Taco in progress: Thankfully this chap already has his full-face helmet on; going to need it in about 1/20 of a second. Video http://www.pinkbike.com/video/91552 More info http://imgur.com/qR5RnYt . 
+
+Buckled / Buckling - this may or may not be damaged beyond recovery. I've heard it used for both tacoed wheels and also wheels that are slightly out of true. 
+
+You need a 700c (29", ISO 622) rim with a 135 mm OLD hub (a mountain hub spacing) and mounting for discs (your existing rotors are centerlock, so unless you want to use a different rotor or adapter, you should get a hub with that). Width compatibility is another thing to look for -- very wide tire on very narrow rim and vice versa are not good combinations. The freehub should be compatible with your cassette. 
+
+However, some bikes are designed for running rear hubs in the front (Surly Moonlander/Pugsley, for example). 
+
+To quote the road.cc article above: 
+
+If you are interested in doing this still (instead of buying a bike which you essentially like, and tweaking it, or having a conversion of an old frame done by your LBS), I suggest you go to your LBS, talk to them about what you want to do, take a bike which is similar to what you want, and get them to help you select which parts work for you (and you can have them install things which you don't want to buy the tools for or don't have access to, and have them check the wheel tensioning and stuff). The amount of time it takes you depends generally on mechanical aptitude, access to tools and luck in how close you get to getting something close to right in the first place. 
+
+I'd suggest buying complete wheels (or getting a wheel made by a competent wheelbuilder, who should work with you on selecting appropriate rim+hubs+spokes for your needs). Note that you need disc brake hubs on a CAAD10 disc, and your rotors have to be compatible with the hub (or you have to use an adapter). 
+
+The rider is pretty likely to have suffered physical injury too - Collarbones are are particularly vulnerable because the rider has gone Over The Bars (OTB) as the bike stops. 
+
+The wheel is very probably scrap. The best fix is to replace the whole wheel (rim/spokes/hub/QR/axle/rotor) 
+
+Another option is to find a bike coop in your city and ask for some assistance. Wheel bearings are straightforward fixes. 
+
+Here's an answer for the first part "why not many at the dump" 
+
+You will need to buy probably two new replacement cartridges of the same inner/outer diameter and width. The higher the ABEC rating, the more precise the bearings. Rollerblades can be found using ABEC 5/7/9 in the good ones, or ABEC 1 for cheaper ones. 
+
+Buckled / Buckling - this may or may not be damaged beyond recovery. I've heard it used for both tacoed wheels and also wheels that are slightly out of true. 
+
+Since its the rear wheel, you'll need the special tool to remove your cassette/freewheel as well. Even buying one of these its still cheaper than replacing the wheel. 
+
+Shop around for bearings - a bearing seller will probably be better than a sports shop. 
+
+A Taco in progress: Thankfully this chap already has his full-face helmet on; going to need it in about 1/20 of a second. Video http://www.pinkbike.com/video/91552 More info http://imgur.com/qR5RnYt . 
+
+Alternatively, lock your wheels properly with good quality U-locks or chains. For example, if you catch the rim in the rear triangle of a standard diamond frame, you can't remove the wheel from the bicycle or the frame without cutting the lock or the rim (which is extremely unlikely to happen). 
+
+If you are interested in doing this still (instead of buying a bike which you essentially like, and tweaking it, or having a conversion of an old frame done by your LBS), I suggest you go to your LBS, talk to them about what you want to do, take a bike which is similar to what you want, and get them to help you select which parts work for you (and you can have them install things which you don't want to buy the tools for or don't have access to, and have them check the wheel tensioning and stuff). The amount of time it takes you depends generally on mechanical aptitude, access to tools and luck in how close you get to getting something close to right in the first place. 
+
+I'd suggest buying complete wheels (or getting a wheel made by a competent wheelbuilder, who should work with you on selecting appropriate rim+hubs+spokes for your needs). Note that you need disc brake hubs on a CAAD10 disc, and your rotors have to be compatible with the hub (or you have to use an adapter). 
+
+Provided the wheel fits into the bike and you can use the brakes, it'll be fine to use.

@@ -1,0 +1,33 @@
+This is from a newspaper article during the 2000 recount which culminated in Bush v. Gore, as collected in a 2001 case study about it (emphasis mine): 
+
+Either the number of votes found to be problematic isn't enough to change the outcome of the election (even if it causes the state to swing), and thus there's no need for a revote, or it is big enough, in which case the whole country would have to revote in order to ensure it was fair. There have been a few cases where smaller races (such as state-wide ones) have been revoted, as cited in that article, but never a Presidential one. 
+
+"I think (those challenging the ballot's validity) can satisfy the standard, but once they do, the question is, what do we do now?" Anderson says. "There is no remedy that wouldn't offend the constitutional values of the rest of the electorate." If a new vote were ordered, he says, Palm Beach would be in the unusual position of effectively deciding, on its own, the nation's next president. 
+
+Analysts agree that no Florida court has ever ordered a new election, and analysts have difficulty finding parallels in other states. 
+
+So most likely, since (AFAIK) there wouldn't be any differences in ballot within a polling place, the poll worker just pushed the "activate" button. By making a worker push it between voters, it prevents someone from casting their vote and then immediately casting another (and another...) until the poll workers removed them. 
+
+Typically, caucus-goers tend to be party regulars and voters passionate about a specific issue or candidate. But in Minnesota, you don't even have to be registered as a Democrat or Republican to participate in a DFL or GOP caucus. And you don't need to be registered to vote. 
+
+Note that in none of these do independent observers have the right to see the ballots. In fact, under the heading of "Who can attend the recount?" it says: 
+
+Additionally, these Independent Expenditures can't be contributions directly to a candidate. (Further reading) (I assume in your question when you say contribution you actually mean expenditure on behalf of, since direct contributions aren't allowed.) 
+
+If any observer engages in disruptive behavior that in the opinion of the board of canvassers threatens the orderly conduct of the recount, the board of canvassers shall issue a warning and if the observer does not cease the offending conduct, order the observer’s removal. 
+
+If someone challenges a person's right to participate in the caucus, the whole caucus — all the people gathered there — decides whether or not the person may participate. 
+
+Philadelphia used the Danaher Shouptronic 1242 this year. The process is (emphasis mine): 
+
+FiveThirtyEight, a political statistics blog, has this to say on the 2010 election: (Wayback link because the images aren't working in the current version) 
+
+For digital machines, the paper trail is cut into individual votes, then appears to follow the paper process, although it's not explicitly mentioned. 
+
+Optical scan: Each ballot shall be reviewed by the board of canvassers and may be inspected by the candidates or their representatives before being inserted into the tabulator. If it appears the ballot may not be recorded correctly by the tabulator, or if the ballot is objected to, the ballot is set aside to be examined by the board of canvassers for voter intent and counted separately by hand. 
+
+Caucus-goers are required to: Agree (generally) with the party's principles. According to state law, you may only participate in a party's caucus if you generally agree what it stands for, and only if you "voted or affiliated with the party at the last state general election — or intend to vote or affiliate with the party at the next state general election." 
+
+To me, that looks like you're failing to account for the "Oppose" value in the "Support/Oppose" column. They spent millions on opposing Obama, but that still counts as spending money on him for filing purposes. You can't just flip the result, though, because slightly further down they have spending against the Republican Newt Gingrich. Better to break the data down into the four combinations: 
+
+The canvass board members and the tabulators are the only persons who may handle and touch the ballots and other election materials. The board of canvassers must, however, allow the candidates and their representatives and/or legal counsel to view and identify the election materials.

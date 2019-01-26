@@ -1,0 +1,21 @@
+I see a lot of Protoss going blink early, maybe due to HuK's popularity and his innovative blink play. I usually see twilight council after the first gateway. Usually they will have blink researched before they even begin attacking. I feel that this is TOO early but I am not at the level to be criticizing pro build orders. When I do a blink rush, I get the twilight after my 2nd or 3rd gateway and blink is ready during my first engagement with 9-12 stalkers. 
+
+Personally I sometimes do these kinds of things because it gets my brain primed to find every possible advantage. Just don't let it take anything away from the important decisions of the game. For example, if you try to micro a worker to a close patch on the first return trip of the game, it can cause you to be late making your 2nd worker. 
+
+Similarly, is it possible to spectate open-to-public games on the standard maps? I'm thinking this could be an interesting alternative to watching live streams. 
+
+Another way is to get fast blink, and just blink past a wall. Very risky but if you know it's safe (for example if they relocate their army to deal with a threat from your ally), it can be strong to go in, do damage, pick off a researching tech lab, a couple workers, and blink out. 
+
+The less you know about what your opponents are doing, the riskier 4 gateways is. The consequence is losing the game. That's why scouting is such an important component of sc2. 
+
+In pro-level games, this is probably what you're seeing. 
+
+It's not really about left or right. At the start of the game, it's about efficiency based on the distance to the nexus / hatchery / command center. If you look closely, you can see some minerals are closer to the nexus than others. For example in the screenshot below: 
+
+Edit: As answered by @Resorath, it seems to be first-come-first-serve. Do people find this feature useful / fun then? I would think it's pointless to play against opponents that have no relation to your skill level. I guess it could be interesting for practicing a risky build order without damaging your ladder ranking, if you don't have a practice partner. 
+
+Going with 4 gateways is a risky build, and like all risks, there are consequences. A safer build is to add a robotics and get an observer - that will also help your scouting. 
+
+It also creates a choke in your own base, so for example if your army is in the main base while your natural expo gets attacked, it will be more difficult for you to engage the opponent, because your wall-in forces your army into a small choke. 
+
+tl;dr: Protoss's toolbox is not well-suited for breaking walls. Protoss is instead better at circumventing a wall entirely. Depending on the scenario and your ally's race, give them a couple zealots to help busting a wall, or a couple forcefields, but focus your efforts on more efficient tasks - protecting your ally's precious few tanks, warping in and harassing elsewhere... Just don't lose sight of the goal. Breaking a wall as P or T, you don't really gain much because you can't stream in units like Zerg.

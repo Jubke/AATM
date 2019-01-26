@@ -1,0 +1,23 @@
+Full utilization concept may fit well in the traditional project management domain. However, software development is usually not a predictable / well-defined process, it is more of an empirical process in which you may end up in a situation where you have to discard a full days worth of work and restart from scratch. People have to attend meetings, answer to support calls, etc. in addition to writing code. So it may happen that a story gets completed earlier than estimated (or may get delayed too). 
+
+Note: your idea of maintaining different DoD levels has been mentioned here: https://www.mountaingoatsoftware.com/blog/multiple-levels-of-done 
+
+http://www.scrumalliance.org/community/articles/2008/february/the-case-of-the-time-tyrant 
+
+In cases where the team finds some idle time, the team may consult Product Owner to pick a story from product backlog which is next in line or can be completed in the remaining sprint time. Alternatively, if there are technical debts to pay then the team can also work on those. 
+
+Whoever is testing it, should do it within the iteration: 
+
+It is not clear why you tagged it Scrum. Please refer to the Scrum Guide. 
+
+"Self-organizing" does not mean uncontrolled You said: 
+
+The purpose of the Daily Scrum meeting is for the team to share with their team mates progress of work and planning for that day. And it is tightly time boxed. So, the entire focus should be on the Sprint backlog and on the people who are doing the work. 
+
+Do you account for holidays? For example, if you run 2-week sprints, you may have one sprint with 2 holidays which is 20% less duration than a normal 10-workday sprint. Also, if some people are on vacation, you will have less capacity. May be you want to adjust your sprints for 10 working days, instead? 
+
+In Agile/Scrum teams, the concept of a self-organizing team and the notion that "the team owns all the stories, individuals don’t" is turning out to be difficult to communicate. I have seen lots of articles and many pages of text explaining this. 
+
+Being a PO needs frequent engagement with both the client and the team so that everyone has aligned vision of what needs to be delivered when. PO has to be available to answer questions coming from the team. If your time is divided between engagement and development it is bound to have a negative effect on efficiency for both dev and PO roles. 
+
+An ideal DoD would contain everything that the team needs to perform in order to build a potentially shippable product every sprint. However based on the context, situation, and team's skills a subset can be chosen as initial DoD. Simplify your DoD to items which you can ensure for all user stories and stick to it. This would mean that at some point you'll have to work on the left out portion of the ideal DoD (this is mentioned as Undone Work in the article mentioned by OP). With the passage of time, you may add more items to your DoD list making it more closer to the ideal DoD.

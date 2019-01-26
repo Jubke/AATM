@@ -1,0 +1,15 @@
+No - it is not all about acceptance rate and reputation points. However, they are a big influence on the site. 
+
+There is no substitute for experience. But you don't have to have much experience in the general world of programming to be able to answer specific questions in the areas where you do have experience. 
+
+There is a Wiki entry for 8080 in which the excerpt states that it is for the Intel 8080 microprocessor and the main text contains a link to Wikipedia and the Intel 8080, plus a note that it is not for use to denote HTTP port 8080 (no tag is needed for that). 
+
+So, I guess that means there are 8 intermediaries between me and Mr Skeet for questions. 
+
+So, the direct answer to your question is: 
+
+It is a courtesy to the people who do help you to reward them as you can - and around StackOverflow, the recognized reward mechanism is up-voting and accepting answers. You can upvote any answers that help you solve your problem; you give the 'Accept' to the answer that was the most help. That lets the people who volunteered to help you solve your problem know that you appreciate their assistance. If you don't show that appreciation, people will show their reluctance to assist by pointing out that you have not accepted many answers, etc. 
+
+You will be in the 'learning phase' of your programming career for the next 25 years at least (I've been doing programming professionally for over 25 years - and I'm still learning most days; it is arguably a day wasted when I don't learn something new). 
+
+There are going to be some questions for which you know the answer based on your current experience - the question is about a programming language you know, maybe on a system you know, and perhaps it is a problem you yourself have encountered and resolved. Even a 1 month newbie to programming might be able to answer the question with good insight into a problem that someone else (perhaps another newbie) ran into - and people with more experience may never have even thought about running into problems that way.

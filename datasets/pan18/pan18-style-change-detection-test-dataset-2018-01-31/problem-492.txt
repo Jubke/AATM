@@ -1,0 +1,21 @@
+A Baltimore Chop is a ball hit into play that is hit nearly directly down, typically landing right in front of the plate, and then bouncing fairly high up, preventing the catcher from instantly fielding it (and possibly going, slowly, towards the other infielders). According to the post above, the original Chop was a result of the Orioles placing cement in that part of the infield (under the dirt) to cause higher bounces. 
+
+SLG is the expected value of total bases ("TB") of an at-bat. You would use it slightly differently from batting average, since it's measuring a different thing. 
+
+So 0.45 is SLG for player A, and 0.30 is BA for player A, so E(TB|H) = 1.5. Player B has a 1.1 SLG/BA ratio, so E(TB|H)=1.1. 
+
+** The BP article I linked is from 2012. In 2013, a major change was made that removed the 'free agent' arbitration option, so that no longer applies. Clubs now may tender a qualifying contract to FAs (a bit north of $14MM in 2014), which retains their rights to draft pick compensation, but there is no risk of an arbitrator awarding the player more. 
+
+This was from 1963, based on the schedule and the teams. Thanks to @John for pointing out the range to search in (1947-1970, based on the first night game at Fenway, and the last year the Senators played in Washington). 
+
+If you want to combine the two, then, you would add the terms together. You would say, "The expected value of total bases after both Player A and Player B bat is 0.32+0.45 = 0.77", meaning after the two of them bat, on average 0.77 bases are recorded. 
+
+SLG works well with other statistics, to some extent, this way; you can derive things like isolated power (ISO), which tells you what proportion of their slugging percentage comes from XBH explicitly. You can't explicitly calculate the probability of an XBH from it, though, since the proportion of 2B|3B|HR can vary with identical SLG/AVGs. (Take one HR and one Single, and make them 1 2B and 1 3B, for example; identical SLG and AVG for those two results.) 
+
+In the 1970s, you typically had 20-30 pitchers who started at least 36 games (a true four man rotation would start 40). Given every pitcher on a team would start that many games in a true four man rotation, that means a whopping 8 to 10 teams may have had four man rotations; the rest likely had five man rotations. If you up the number of games started to 40 (again, the true four man rotation), you are in the teens or less in the 1970s - so maybe a handful of teams had a true four man rotation. 
+
+In the NBA, 8 seeds nearly never beat 1 seeds; the 1998-1999 New York Knicks remain the only 8 seeds to reach the finals, losing to the Spurs (Duncan and Robinson's first championship). The lowest seed to win a championship was the Rockets in 1994-95 (6 seed), but they beat the top seeded Magic that year. No other team higher than 4th has ever won a NBA Finals. 
+
+Some evidence exists that pitching on three days rest in the postseason (where it's somewhat common); for example, this article at BleacherReport finds pitchers pitching on three days rest (who are usually the ace or #2 pitcher of a team) have a 4.48 ERA and win less than 40% of the games they pitch. Some of this may be pitchers being unused to pitching in those circumstances (and pitching against fairly good teams, it being the postseason); but it does seem logical that pitching on short rest is somewhat harder. 
+
+Further, this likely leads to aggressive signing of young superstar players to pre-arb contracts, like Mike Trout ($24M/year for 6 years); this is because owners want to avoid setting overly large arbitration precedents and schedule when money will be delivered such that it doesn't inflate other salaries. Trout will earn $24MM a year, but it is back loaded: 5MM in (service) year 3, 15MM in year 4, 19MM in year 5, then 33MM in the last 3 years (service years 6,7,8). This helps avoid large arbitration comps for other players somewhat.

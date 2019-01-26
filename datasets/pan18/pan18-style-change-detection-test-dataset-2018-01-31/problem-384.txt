@@ -1,0 +1,79 @@
+Why not just have them interact with the site for a little while? 
+
+You are hitting the cap, but you don't think so because the recent activity page is using a different timezone than you would think to determine what has been done 'today'. 
+
+Your suggestion would allow easier sock puppetry and is therefore a bad idea. 
+
+Anyone who is stupid enough to post an answer that should be a comment should be treated in an unfriendly manner. 
+
+This is not a bug, this is a feature. 
+
+It doesn't take much to overcome the voting and commenting limits. One or two decent questions or answers should take care of this, and you could even give them a hand and vote on their posts (taking the merit of the post into consideration of course). 
+
+Yes, the user should get his reputation from the question/answer. That is why we edit, to help them out and hopefully show them what is needed to get good responses. 
+
+We have enough people who argue against clear community decisions in the comments, obviously without reading the FAQ. We do not need to lower the bar. If anything, we should raise it. 
+
+Edit: Plain and simple, the purpose of reputation is to give the system a way to measure how much it should trust you based on your (assumed) knowledge of the system. Your suggestion would give people that trust based on nothing but your word. If the user couldn't get 100 rep in the system by themselves in a very short period of time, then you are clearly 'vouching' for the wrong people. 
+
+You should not be judging the post based on the original post, but rather the current post. That is the idea of the wiki part of this site. 
+
+Don't forget this is also one of the main ways we fight spam. 
+
+If we wiki more posts that get edited, can you imagine the fighting? We already get enough blubbering, butthurt babies crying and whining and rolling back valid edits. No thanks. We don't need more of that, this would be a disaster. 
+
+A full reputation recalc is expensive business, even if it is only to affect a handful of users. Also it is kind of jarring to randomly feel like you are losing/gaining rep for no obvious reason. It is very side effecty as it may cause rep to be lost or gained for unrelated posts. 
+
+That said, there are some obvious advantages to forcing a partial recalc when a post is deleted. 
+
+select top 200 TagId, AVG(ViewCount) as AvgView 
+into #tags
+from Tags t
+join PostTags pt on pt.TagId = t.Id 
+join Posts p on p.Id = pt.PostId
+where p.CommunityOwnedDate is null and p.ClosedDate is null
+group by TagId 
+order by count(*) desc 
+
+
+select TagName, AvgView, cast(Avg(p.Score + 0.0) as numeric(4,2)) as AvgScore, count(*) as Total 
+into #t
+from Posts p
+join Posts q on q.id = p.ParentId
+join PostTags pt on q.Id = pt.PostId
+join Tags t on t.Id = pt.TagId    
+join #tags tt on tt.TagId = t.Id
+where p.CommunityOwnedDate is null and p.ClosedDate is null
+group by TagName, AvgView 
+order by Avg(p.Score + 0.0) desc
+
+
+exec spShog9 
+
+Note: we added a few more checks and balances 
+
+Top 200 tags ordered by avg score on answers excluding community wiki and closed answers. 
+
+Why not just have them interact with the site for a little while? 
+
+Yes, the user should get his reputation from the question/answer. That is why we edit, to help them out and hopefully show them what is needed to get good responses. 
+
+This is not a bug, this is a feature. 
+
+You are hitting the cap, but you don't think so because the recent activity page is using a different timezone than you would think to determine what has been done 'today'. 
+
+Your suggestion would allow easier sock puppetry and is therefore a bad idea. 
+
+It doesn't take much to overcome the voting and commenting limits. One or two decent questions or answers should take care of this, and you could even give them a hand and vote on their posts (taking the merit of the post into consideration of course). 
+
+Anyone who is stupid enough to post an answer that should be a comment should be treated in an unfriendly manner. 
+
+We have enough people who argue against clear community decisions in the comments, obviously without reading the FAQ. We do not need to lower the bar. If anything, we should raise it. 
+
+If we wiki more posts that get edited, can you imagine the fighting? We already get enough blubbering, butthurt babies crying and whining and rolling back valid edits. No thanks. We don't need more of that, this would be a disaster. 
+
+Don't forget this is also one of the main ways we fight spam. 
+
+You should not be judging the post based on the original post, but rather the current post. That is the idea of the wiki part of this site. 
+
+Edit: Plain and simple, the purpose of reputation is to give the system a way to measure how much it should trust you based on your (assumed) knowledge of the system. Your suggestion would give people that trust based on nothing but your word. If the user couldn't get 100 rep in the system by themselves in a very short period of time, then you are clearly 'vouching' for the wrong people.

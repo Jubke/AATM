@@ -1,0 +1,39 @@
+The only requirement that a rational agent conform to the Categorical Imperative comes from the fact that an autonomous will adhering to it would be considered rational, and an autonomous will violating it would be considered irrational. Since a will that chooses rationality over irrationality is a moral good, we ought to conform to the CI. 
+
+The question which thus arises is how the two are connected; there has to be some way to connect the concept of pure understanding with sensible intuitions. For example, when we look at plate, how is the pure concept of a circle related to the circularness of the plate? If pure concepts never interact with sensible intuitions, what causes us to make that judgment (that the plate is circular)? 
+
+Moral Good For Kant, "moral good" would be an autonomous will that chooses rationality over irrationality. The Categorical Imperative for Kant is purely the end result of an autonomous will acting with the utmost rationality. 
+
+This is not actually true. The way you word it in this particular passage it's not entirely clear, but based on your other responses to me in more than one question on this site, it seems that you are insisting that existence is an attribute or characteristic, when in fact is it not. If I am to say that ice cream exists, I am not adding anything more to the concept of ice cream; it is not a "characteristic" of the ice cream. It is only a relation of the object (ice cream) to the subject (me). 
+
+Ak 21:75 (manuscripts opus posthumum, first convolute): 
+
+He has established that the (absolutely) good will has to be necessary and unconditioned before (the first seven paragraphs). He has established per proposition two that we are speaking of a principle of the will, i.e. a general concept. His definition of a law is a proposition that is both necessary and general (see 4:418-20). Therefore, a good will has to have a principle that is a law. 
+
+In this text, there are further sources to be found for that argument probably being what Kant had in mind there as well. 
+
+Regarding contemporary literature and explanatory remarks Both cannot be found in the critical editions mentioned above. This is the task of commentaries and introductions. Here, it may in fact be worth looking into English commentaries. They discuss both German and English literature and tend to be more recent. 
+
+I will try to reconstruct the argument of both the first and second section in detail, as they differ slightly. I freely admit that the argument in the first section is a bit obscure and seems arbitrary at times, but I think that they are essentially identical and that the argument becoming clearer as the text goes on is kind of implied in the nature of the analytic method he announced for the first two sections. 
+
+Moral Good For Kant, "moral good" would be an autonomous will that chooses rationality over irrationality. The Categorical Imperative for Kant is purely the end result of an autonomous will acting with the utmost rationality. 
+
+The only requirement that a rational agent conform to the Categorical Imperative comes from the fact that an autonomous will adhering to it would be considered rational, and an autonomous will violating it would be considered irrational. Since a will that chooses rationality over irrationality is a moral good, we ought to conform to the CI. 
+
+However, these pure concepts of the understanding cannot be related to any particular objects or pictures in your mind, because they are the pure concepts, and any relation of them to a particular empirical intuition would inappropriate; the mere association of a pure concept with a sensible intuition would cause it to be "impure" (it would lose objectivity). 
+
+Establish what your maxim is, and then re-investigate your argument. I'm having difficulty conceiving of an example of a potato-based maxim that would violate Kant's principle. 
+
+Kant's Moral Philosophy at SEP covers this topic pretty well; check it out for further reading. I'm not overly fond of Wikipedia's coverage but it's a good supplementary read. 
+
+Since we can never think outside of our own minds, anything we ever think or perceive will inherently be subjective. "Objectivity" is and has only ever been just a form of collective subjectivity. The "way things truly are" may very well be vastly different than our human minds and senses can possibly perceive or comprehend. You should note, however, that Kant did think we could discern some objective truths about the nature of the universe, but only a very limited few (the Pure Categories of understanding, the reality of space/time/causation, etc). He is often seen as a bridge between rationalism and empiricism in this regard. 
+
+Interestingly, we don't even need the conclusion we just achieved itself for knowing what the content of the CI is. We will rather use it when argueing how it can be binding for us. For knowing what its content is, it suffices to take P1 and P2 in addition to what I summarized regarding necessity and the concept of law for closing the gap between the premises and the conclusion. 
+
+One of the points of After Finitude is that because of this lack of a first principle waterproof against scepticism, philosophy (and humanity in general!) oscillated between critical, sceptical and dogmatic thought for the last 200 years. 
+
+Now, if there are two realms of experience, freedom and nature, each of them of course would inherit its own conditions a priori. Aristotle's book on the physics that looked beyond what is accessable directly through experience to its conditions was Metaphysics, so Kant simply applies this label to the same idea within ethics, making it two metaphysics distinguished by their objects: 
+
+Kant explicitly writes on suicide in his Metaphysics of Morals, Part Two, Ak. 421-24. 
+
+In this text, there are further sources to be found for that argument probably being what Kant had in mind there as well.

@@ -1,0 +1,45 @@
+To determine what you have currently, measure the distance between the inner plates of your current chain. 
+
+Shimano chains are joined with a special pin that is driven through with a chain tool. SRAM chains come with a PowerLink or PowerLock. 
+
+However some single speed or IGH bikes use a narrower 3⁄32 inch (2.4 mm) single-speed chain, which is the same as derailleur chains. 
+
+You just have to make sure you select a chain and chainrings that are compatible with the number of sprockets in the cassette. The number of rings on the crank does not matter. 
+
+I don't know if all Shimano or SRAM chains do but many have the maker and model stamped on the outer plates. 
+
+Based on your other question: Possible to identify sprocket without taking the bike apart? - you have a Nexus internally geared hub, which would mean you may need a single speed chain. 
+
+Another way the strength might be exceeded is through a short but high 'shock' load on the chain, that might be induced by a gear change, but without very high pedaling force. Think of the 'clunks' you sometimes get when changing to a smaller sprocket in the rear. 
+
+Everything there looks like it should work together all right. If you are replacing the drive train components here, you may want to get new cabling for the shifters as well. 
+
+Also, see Sheldon's comments on extending single speed chain land sprocket life by using even numbered cogs and chainrings. 
+
+I can't really debate whether your drivetrain will have less wear. However, the symptoms of wear are much less pronounced on a single speed drivetrain (assuming you are not using a tensioner). You're just not going to get the same chain skipping / jumping issues you would on a derailleur system. The same thing is applicable to internally geared hubs. 
+
+Get a pair of calipers and measure the width of both the chainring and the cog. If the width is much larger than 3/32" then use 1/8". 
+
+Any 6/7/8 speed chain should be fine on this setup. The cassettes also seem equivalent. 
+
+If you don't have calipers, but have a piece of 1/8" chain, then put the chain on the cog and the chainring and see if there is a large visible gap between the plates of the chain and the teeth, if so then can probably use a 3/32" chain, if it's pretty snug you probably need a 1/8" chain.  If you have a 3/32" chain instead, then put it on both cog and chainring, if the teeth fit through the holes in the chain and the chain rests evenly on the cogs, you're probably fine with a 3/32" chain, if it sits unevenly at all, you probably need 1/8". 
+
+If you don't have a chain, then you could check for width markings on your chainrings and fixed cog, if they are single speed chainrings they tend to have a width marking on them (to distinguish between 1/8" and 3/32" sizes). 
+
+I'd worry about the condition of the old shifters due to the age, they should be compatible though. However, Alivio rapid fire shifters can be had relatively cheap you need to replace them if anything is wrong with the old shifters. The original XTR stuff was definitively higher quality when new. 
+
+It's still important to check your chain for wear and replace as needed. Keep in mind, a worn chain is going to keep wearing down your drivetrain. However, it's not going to really suffer much in terms of performance degradation until everything is really worn. 
+
+Keep in mind, If either the rear cog or front chainring is larger than the other in width, you need a larger 1/8" chain (which really won't run poorly on a smaller chainring, but a smaller 3/32" chain just won't fit on a 1/8" cog or chainring). 
+
+Also, If you're buying a 3/32" chain, you'll probably find that as a 6/7/8 speed chain at most bike shops. You probably don't want to try to use a 9 or 10 speed chain on a single speed bike. 1/8" chains are used exclusively for single speed setups. 
+
+You just have to make sure you select a chain and chainrings that are compatible with the number of sprockets in the cassette. The number of rings on the crank does not matter. 
+
+Based on your other question: Possible to identify sprocket without taking the bike apart? - you have a Nexus internally geared hub, which would mean you may need a single speed chain. 
+
+Shimano chains are joined with a special pin that is driven through with a chain tool. SRAM chains come with a PowerLink or PowerLock. 
+
+6, 7 and 8 speed systems all use the same chain width. Any manufacturers 6/7/8 speed chain will work for you. Similarly, any chainrings that fit your crank spider, and are designed for 6/7/8 speed systems will work. 
+
+Another way the strength might be exceeded is through a short but high 'shock' load on the chain, that might be induced by a gear change, but without very high pedaling force. Think of the 'clunks' you sometimes get when changing to a smaller sprocket in the rear.

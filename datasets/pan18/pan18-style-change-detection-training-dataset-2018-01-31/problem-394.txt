@@ -1,0 +1,27 @@
+Once you got that sorted out, changing the size of the front wheel in a delta or rear wheel in a tadpole depends on the frame. In most cases, you won't have enough frame or fork clearance to put in a larger wheel. Furthermore, you'll also run into problems with your brakes (unless you have disc brakes) as the brake bosses will be in the wrong place. Your rim and associated tires might be too thick for the frame. Finally, you'll also change the angle at which the seat sits in relation to the handlebars. So in general, thinking about changing wheel size is a Bad Idea® because it won't fit, let alone stability issues. It could be a 5/16 inch x 24 tpi, 3/8 inch x 24 tpi or 8mm x 1mm. Or some weird other variant. The likelihood of finding the right one at a hardware store is low and you might accidentally jam or cross-thread it if you force it. For example, some axle nuts are 26tpi which will thread part way then jam. 
+
+Why not put a really big wheel on front and turn it into a rocking trike? If an experienced person at the shop does it with their tools, it could take half an hour if all the spokes are the right length, it's a standard lacing, or they've done the same wheel before. For example, in this youtube video, a skilled wheelbuilder only takes 7:30 seconds to built a new 32-spoke wheel up from scratch using pre-measured spokes. Dishing and tensioning the wheel would take perhaps another five to ten minutes. 
+
+So I would say in terms of shop labor time, on the short side it'd be 0.5 hours of labor for a hub and rim that they're familiar with and have premeasured spokes for; to 2.0 hours for a hub and rim they've never seen and will have to do some research and maybe special ordering or fitting before they can start work on it. 
+
+At £459 or about US$600 retail, the Saracen is also not an inexpensive bike. It should be more than able to handle your weight unless you're doing very aggressive biking (such as hopping on and off curbs or doing wild jumps without the proper technique). Riding on rough roads is well within the design parameters of this "hybrid" bike. 
+
+Campagnolo advertises the Khamsin Asymmetric Wheel: 
+
+It's called an axle nut in bicycling parlance. In general terms, it's a type of flange nut. Note that if your bike has a presta or dunlop valve, you'll need either an adapter or a different head. 
+
+I'd suggest buying complete wheels (or getting a wheel made by a competent wheelbuilder, who should work with you on selecting appropriate rim+hubs+spokes for your needs). Note that you need disc brake hubs on a CAAD10 disc, and your rotors have to be compatible with the hub (or you have to use an adapter). 
+
+The CAAD10 disc frame uses 700c wheels with standard hub spacings (135 mm rear, 100 mm front). The width of the rim you should choose depends on the size of tire you intend to run (which is limited by your frame). It looks like the bike was originally spec'd for 700x25 tires. Based on other Cannondales, I'd guess this is somewhat tight to begin with, but if you're lucky you might be able to run 700x28's. So, pick the rim width accordingly (likely 13-17 mm). 
+
+If you are interested in doing this still (instead of buying a bike which you essentially like, and tweaking it, or having a conversion of an old frame done by your LBS), I suggest you go to your LBS, talk to them about what you want to do, take a bike which is similar to what you want, and get them to help you select which parts work for you (and you can have them install things which you don't want to buy the tools for or don't have access to, and have them check the wheel tensioning and stuff). The amount of time it takes you depends generally on mechanical aptitude, access to tools and luck in how close you get to getting something close to right in the first place. 
+
+Alternatively, lock your wheels properly with good quality U-locks or chains. For example, if you catch the rim in the rear triangle of a standard diamond frame, you can't remove the wheel from the bicycle or the frame without cutting the lock or the rim (which is extremely unlikely to happen). 
+
+As for how small you can go, technically you can mount pretty much any 26x(something in decimal) tire on, but the rim width should ideally be of the right width so the tire doesn't roll off or increase the risk of flats or rim damage. 
+
+However, some bikes are designed for running rear hubs in the front (Surly Moonlander/Pugsley, for example). 
+
+What you want for road use is slick tires -- tread and knobs are bad for road use. You have 26" (ISO 559) rims, so you need 26 x (something) tires where (something) is a number in decimal form (e.g. 1.75). 
+
+You need a 700c (29", ISO 622) rim with a 135 mm OLD hub (a mountain hub spacing) and mounting for discs (your existing rotors are centerlock, so unless you want to use a different rotor or adapter, you should get a hub with that). Width compatibility is another thing to look for -- very wide tire on very narrow rim and vice versa are not good combinations. The freehub should be compatible with your cassette.

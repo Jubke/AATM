@@ -1,0 +1,45 @@
+Williams (1973) casually asserts that 
+
+Last, but not least: The book is enjoyable to read. 
+
+[2] The best thing that can be defended about the relationship between believing and believing the truth is that if a person believes p, has the concept of truth, and considers whether p is true, that person cannot believe p and fail to believe that p is true. 
+
+On the other side, I found a passage in Kvanvig (2003): 
+
+It's not really an introduction to the history of philosophy; it uses a problem-oriented approach, yet it covers most historical classics. 
+
+You can find Popper's most scathing critiques in his The Open Society and Its Enemies (1945, 2 vol.) and The Poverty of Historicism (1957). 
+
+The blurb gives a sense of the content and the intended audience: 
+
+I'd say it started around the 1950 and got off the ground around 1980 ;) 
+
+I'd go with Simon Blackburn's Think: A Compelling Introduction to Philosophy (Cambridge University Press 1999). 
+
+He explains what he means by that: 
+
+Update: I enlarged my question to clarify it in response to the answers given so far. 
+
+The guide's modular structure allows for a flexible approach to the subject, making it suitable for both undergraduates and postgraduates looking to better understand and apply the exciting developments and debates taking place in ontology today. 
+
+This one (linked) looks to be the latest edition of the one used when I took Philosophy 101 many years ago. If not, it still seems like an excellent overview of at least the classic Western Philosophical canon. You'd need to supplement it if you wanted non-Western philosophy and/or more recent thinkers. 
+
+In the simulated world, the reason for this ontological parsimony is clear: It is a savings on resources to fake up the parts of the simulation that receive the most scrutiny more convincingly than others. If it would take, as seems reasonable, a universe's worth of resources to actually simulate an entire universe, then it might be a necessity for a simulation to appear more complex than it actually is, at least if it is being simulated in a universe like the one being simulated. If, on the other hand, the world is in the mind of God, who presumably has infinite resources, then why would God cheat? As Descartes concluded in his Meditations, we must assume a good and honest God who is not deceiving us, because without such an assumption, we can never actually know anything. 
+
+I'm personally sympathetic to the idea of Egyptian influence on Greek philosophy. But the problem with using Plato as evidence for anything is that he is officially on record as endorsing the creation and promotion of wholesale fictions in the service of higher truth --his (in)famous concept of the "Noble Lie" as introduced in the Republic. He also seems to have had an antipathy towards taking credit for his own ideas and therefore always places them in the mouths of other speakers (typically, but far from exclusively Socrates). While this could be accurate, the ideas tend to have an idiosyncratic unity that argues against them actually being the unaltered arguments of so many diverse persons. He's generally considered to have wholly invented myths such as the "Lost City of Atlantis," and must accordingly be treated as an unreliable narrator with regards to historical fact. It's worth comparing and contrasting him with his classmate Xenophon, who is considered to be a more trustworthy historical source, but a much inferior philosopher. 
+
+(2) But you can be a person without encountering the other. 
+
+Let me expand upon why I think the metaphysical claims that the encounter with the Other being a transcendental condition of the possibility of your own subjecthood is implausible. Doing so might help explain why analytic philosophers aren't inclined to think "the Other", as Lacan and Levinas describe it, is in fact a useful category at all. 
+
+(3) Therefore, encountering the other is not a condition of the possibility of subject hood. 
+
+(1) If encountering an other is a condition of the possibility of subjecthood, then you can't be a person without encountering the other. 
+
+I would also be surprised if any argument like this had ever been published in the Levinas literature either---continental papers don't tend to criticize the great names in the canon, or object to their theses, or try to defend those theses from the objections of others. I'd be happy for somebody cite me an article to show I'm wrong in this case. 
+
+I'll admit that I've never seen anybody explicitly run this argument in print, but I am quite certain it's the first thing that an analytically trained philosopher of mind reading Levinas is going to think. 
+
+(1) is just a definition that expresses the meaning of the phrase "condition of the possibility". 
+
+The second way that we could support (2) would be to appeal to conceivability/possibility arguments. Suppose you don't buy the autism case in the case of humans. Ok. If it is conceivable without contradiction that there exist any kind of subject (aliens, God, whatever) that does not encounter an other, then it is possible to be a subject without encountering an other, just as (2) says.

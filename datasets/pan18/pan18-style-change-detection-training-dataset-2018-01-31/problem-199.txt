@@ -1,0 +1,37 @@
+Now for masteries, we spec at least 26 in the offensive tree to pick up the following: Summoner's Wrath: 5 AD, 5AP Fury: 4% AS (mentioned above) Frenzy: 10% AS on crit (mentioned above) Deadliness: 12 AD Blast: 18 AP Havoc: 2% Damage Brute Force: 3 AD Mental Force: 6 AP Archmage: 5% AP Executioner 5% Damage 
+
+Now for Runes, we want 1 Glyph of Critical Strike Chance (for Frenzy), 8 Glyphs of Attack Speed (worth 5.2%) 9 Seals of Attack Speed (worth 6.8%) and 1 Quintessence of Attack Speed (worth 3.4%) This brings our Attack Speed to the cap, and we fill out with 2 Quintessences of Might (9 AD), and 9 Marks of Might (21 AD) 
+
+Final Build: Boots, Rabadon's Deathcap, Seraph's Embrace, Deathfire Grasp, Zhonya's Hourglass, Mejai's Soulstealer. Elixer of Brilliance and Exalted with Baron Nashor. =(120+60+120+120+120+40+40+3%mana)*1.3 = (620 + 3% mana) * 1.3 = 884 + 3.9% mana. 
+
+This is well under the 10000 you mentioned, unless you factor in the quadruple damage to minions, but it's a lot to dish out in 3 seconds while moving. 
+
+The 500 health from Spirit of the Ancient Golem is as effective as any item short of Warmog's Armour, Frozen Mallet or a Rod of Ages. It also grants Tenacity, CDR, and Minion/Monster damage. This is not an item you should relinquish lightly on a HP-stacking jungle tank like Dr. Mundo. 
+
+Rod of Ages is worth about 100 AP, still not worth taking in a pure AP build 
+
+Plugging this in to The Culling's formula, we get (2040 + 8.5*445 + 3.4*180.6)*1.07 = A whopping 6,887.9 Damage! 
+
+Zhonya's Hourglass is also worth 120 AP, and can be stacked for Armour. 
+
+Wooglet's Witchcap, while only 100 AP, multiplies AP by 1.25, and so is still worth taking. 
+
+Additionally, the 2 altar bonus from Twisted Treeline gives an extra 10% AP. In total the build consisted of 3 Deathfire Grasp's, Seraph's Embrace, Boots, and Wooglet's Witchcap, and I was able to get 1131 AP. 
+
+Now, each bullet Lucian fires in The Culling deals 25% bonus attack damage, 10% bonus ability power, and, at level 18, 60 flat damage. Also, he will get a bonus attack every ~16.5% Attack Speed. 
+
+It obviously works with Anivia's own skills, as otherwise it would be pointless. Check off Flash Frost, and Glacial Storm. 
+
+So I think I can safely say that this combination does work. Have fun dragging your enemies under tower from a great distance! 
+
+Once your team takes a tower, your job is done. Switch lanes back with the duo pair, and let them push their gold advantage, while you push yours in the top. 
+
+Sejuani; Frost, Permafrost Ashe; Frost Shot, Volley (sometimes), Enchanted Crystal Arrow Nunu; Ice blast, Absolute Zero 
+
+Another item you'll almost certainly want is Seraph's Embrace. It only grants 60 AP, but grants 1000 mana, and has a unique passive that grants an additional 3% mana as AP, this makes it worth more than a second Deathcap as soon as you have 1000 mana from other sources. 
+
+Edit: With the release of Kalista, another method has arisen, and it works! 
+
+Atma's will provide a bit more defense from physical attacks, and increased damage to champions, but will synergize much less well with Mundo's passive and Masochism. It also won't provide Tenacity, which combines with Burning Agony to render most CC ineffective against Mundo, nor Cooldown Reduction, which helps Cleaver spam, and brings Masochism into play more often. 
+
+Thresh is the only champion that can relocate his allies at the moment, so I scoured Youtube for Dark Passage/Impale combination. Here is the result.

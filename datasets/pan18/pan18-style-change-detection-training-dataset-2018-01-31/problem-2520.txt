@@ -1,0 +1,41 @@
+Regular sound changes can of course affect phonemes used in onomatopoeias. For example, consider a language containing /mjaw/, referring to the call of a cat. Suppose that final /w/ is sound-changed to /v/. 
+
+Is there any empirical evidence for which of these is more common? or more simply, for whether onomatopoeias are more likely than ordinary words to resist sound change? 
+
+For example, my idiolect of English has a marginally distinctive glottal stop. However, it exists distinctively in only two words I can think of, both interjections: 
+
+In the Kagoshima dialect, both morae in a bi-moraic syllable will have the same pitch. Particularly, Wikipedia gives an example of how accent is affected in a related dialect: The morpheme /mono/ is often reduced to /mo.ɴ/ in colloquial Japanese, changing the number of syllables but not of morae. Since in an accented phrase the accent is localized on the penultimate syllable, this causes the accent of "獣が" to shift from [kédámònógà] to [kédàmóɴ̀gà]. (In this dialect, accent is realized as a high pitch on the first mora of the syllable, and the adjacent morae are low-pitch.) 
+
+Japanese accent patterns are generally based on phrasal units, which are generally longer than a single morpheme (for example phrase-ending particles are included). Therefore I'm suspicious of the claim that there's a distinction between /VV/ (within a morpheme) and /V V/ (across morphemes) when the accent pattern of the constituent morphemes is the same. 
+
+(This doesn't apply to Kansai dialects, whose pitch accents are moraically based, nor trivially to those dialects that lack accent.) See also http://en.wikipedia.org/w/index.php?title=Japanese_pitch_accent&oldid=490727319#Syllabic_and_moraic. 
+
+In addition to slashes and square brackets, sometimes also used are double-slashes, pipes, and angle brackets. Their uses are: 
+
+(This is independent of the common utterance-initial glottal stop insertion before vowels, and /ʔ/ as an allophone of /t/ in British English.) Is two minimal pairs enough to establish a phoneme? 
+
+How much of a functional load must a phone carry to be considered its own phoneme? 
+
+French petit 'small': orthographic ⟨petit⟩, phonetic [pɵt̪ʲi], phonemic /pəti/, morphophonemic //pətit// 
+
+Indicates a transcription that records only information asserted to be contrastive. This records a sequence of phonemes (as well as any phonemic suprasegmental features like stress or tone), ignoring allophonic differences. In this example, the fact that the initial /k/ is pronounced aspirated ([kʰ]) is ignored, because /k/ and /kʰ/ do not contrast in English. 
+
+"The concept of the phoneme was central to the development of phonological theory. In the early twentieth century, phonological theory was all about the phoneme: how to deﬁne it, how to recognize it, how to discover it (see, for example, the articles selected for inclusion in Joos 1957 and Makkai 1972). The American structuralist term for phonology, phonemics, indicates to what extent the ﬁeld was considered to be about the phoneme. 
+
+As for the contrast PIE *kw - PIE *kʷ, I think the evidence also comes from Greek (and Mycenaean): e.g. the so called boukolos rule states that "a labiovelar lost its labial element when adjacent to the vowel *u" (Fortson 2010: 70). For example, 
+
+Andrew Sihler (Sihler 1995) argues that Greek is "the only centum language [...] attesting a contrast between reflexes of ḱw and *kʷ". In Greek "two distinct sounds *ḱw give a double consonant medially, while the unitary *kʷ gives a single consonant" (p. 159). For example, 
+
+Basically, when you're not sure which linguistic units you're dealing with (be it phonemes, morphemes etc.) or it is irrelevant to your research, you use the word "segment". Sometimes, it is used for style, to avoid repetition. 
+
+Naturally, other analyses have been proposed, too. For example, a diphthong is treated as a vowel plus a semivowel or another vowel (McCarthy 1952). Thus, you end up having a diphthong consisting of two phonemes under those approaches. Peter Roach (2009) mentions that this view was "almost universally accepted by American (and some British) writers from the 1940s to the 1960s, and still pervades contemporary American descriptions" (p. 104). Roger Lass (1984) argues that analyzing a diphthong as a vowel plus a semivowel /j/ or /w/ is a "shaky position" (p. 138). He also convincingly dismisses the approach proposed in SPE (Chomsky and Halle), characterizing it as "seem[ing] close to lunacy" (p. 138). Bruce Hayes (2008) concludes that the "fewer-phonemes-the-better" analysis is not an iron-clad argument and that the segment/sequence problem is still "an unsettled one in phonology" (p. 57). 
+
+Looking across language in general, there does not seem to be any documented tendency in that direction. Usually, the distinction between e/ɛ, o/ɔ or i/ɪ, u/ʊ is attributed to a feature ATR, except in Romance and Germanic. In the many languages with an ATR distinction, there is no tendency for ATR contrasts to be dependent on syllable closure. However, languages with reported e/ɛ, o/ɔ, i/ɪ, u/ʊ contrasts are not all that common outside the ATR set (diagnosed by vowel harmony), so it is hard to tell if there is a significant trend within that set of languages. 
+
+So certain segments might associate to one tone, or two or three tones; or no tones (consonants typically do not ever associate to a tone; vowels might not, under certain circumstances). A tone might not associate to anything (in which case it is "floating"), or it might associate to 1, or any number of segments. 
+
+His theory happens to start with the assumption that tones don't associate to segments in underlying forms and that associations come about via rules, but later developments indicated that that was not crucial or indeed viable as a universal assumption. So later research developments focused on explicating the derivational relation between tones and their segments. Additionally, Goldsmith focuses on tone and only presses the frontiers to other features such as nasality lightly (although actually proposes complete autonomization of every feature, at the end of the dissertation) – later word led to the theory of "feature geometry" which holds that all features are autonomous and related to each other in a complex manner. 
+
+"The concept of the phoneme was central to the development of phonological theory. In the early twentieth century, phonological theory was all about the phoneme: how to deﬁne it, how to recognize it, how to discover it (see, for example, the articles selected for inclusion in Joos 1957 and Makkai 1972). The American structuralist term for phonology, phonemics, indicates to what extent the ﬁeld was considered to be about the phoneme. 
+
+Naturally, other analyses have been proposed, too. For example, a diphthong is treated as a vowel plus a semivowel or another vowel (McCarthy 1952). Thus, you end up having a diphthong consisting of two phonemes under those approaches. Peter Roach (2009) mentions that this view was "almost universally accepted by American (and some British) writers from the 1940s to the 1960s, and still pervades contemporary American descriptions" (p. 104). Roger Lass (1984) argues that analyzing a diphthong as a vowel plus a semivowel /j/ or /w/ is a "shaky position" (p. 138). He also convincingly dismisses the approach proposed in SPE (Chomsky and Halle), characterizing it as "seem[ing] close to lunacy" (p. 138). Bruce Hayes (2008) concludes that the "fewer-phonemes-the-better" analysis is not an iron-clad argument and that the segment/sequence problem is still "an unsettled one in phonology" (p. 57).

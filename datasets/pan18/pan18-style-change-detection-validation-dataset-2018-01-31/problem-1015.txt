@@ -1,0 +1,25 @@
+One of the most important results in philosophy of science is that every observation is "theory-laden", i.e. that the outcome of any scientific experiment is affected by the theoretical presuppositions held by the investigator. Because of this, it is very difficult - maybe impossible - to draw the boundary between science and metaphysics. W.V Quine best described it at the conclusion of his 1951 paper "Two Dogmas of Empiricism": 
+
+Is Wittgenstein wrong when he says that no boundaries or exact distances can be described for such notions? They can, they are just too complex to be described in a simple fashion? 
+
+From his/her perspective, all of these characteristics are no different than the way organized religion presents itself as being the source of truths about the world. 
+
+Some philosophers, notably Michal Friedman, have argued that Logical Positivism shouldn't be dismissed, that it hasn't failed as completely as most sources claim, and that too many people dismiss it because it became fashionable to do so, without actually examining the ideas of LP. See Reconsidering Logical Positivism and this post. 
+
+To your point in your suggested solution: 
+
+Supporters say that qualia's special epistemic status comes from the infallibility of our direct knowledge of them, and that they are intrinsic absolute truths: after Descartes, when I see red, I am certain that I see red, the cause of my seeing red is subject to all sorts of doubt (is it reality? illusion? neural damage? etc...), but that I see red is an indisputable fact. But per Dennett, our knowledge of qualia is just as fallible as our knowledge of everything else. Through a series of what he calls intuition pumps, he challenges the infallibility of our knowledge of qualia, and the idea that they are intrinsic experiences that are independent of our memories of past experience and our responses and beliefs to them. From the paper: 
+
+More recently, researchers at MIT, created a Data Science machine which "replaces" human intuition in the process of creating predictive models, again by mining correlations between the data in a systematic way. Their machine was able to compete against human data scientists, and beat most (but not all of them). 
+
+The only sense data good enough to fool the brain in a vat would have to be real sense data, so that the brain will be living a sort of reality, it just won't be its own reality. 
+
+We can never know the true nature of the objects, only the effect they have on ours senses. 
+
+Per those who claim that science can't answer all questions, what type of question are they talking about? Do they have a demarcation criteria for such questions? (I'm not asking for examples, there are already plenty in the links I posted above). 
+
+Why did Kant see himself as having revolutionized epistemology, given Locke's results? 
+
+Or are there examples of family resemblance where no sharp boundary can be found no matter how complex the representation we use? 
+
+The Stack Exchange methodology is based on the original Stack Overflow, which is for CS and programming questions. For those types of questions, the answers are objective in the fact that they either solve the OP's problem or they don't. People are free to upvote for the wrong ones, and it does happen occasionally, but overall, there are enough people who know what they are talking about that the most accurate and informative replies "prevail". More often, what happens is whoever asked the question is actually going to go try out the different solutions provided, and will be able to empirically verify which one is best. They will then choose the correct answer, which helps future users in gleaning out relevant information.

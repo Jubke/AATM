@@ -1,0 +1,25 @@
+Very similar to (but probably more ridiculous than) vote splitting is the spoiler effect. This happens when a similar minor candidate gets very little of the vote, but it's enough to tip the election the other way. For example: Assume that the 60% don't like C, and the 40% don't like A and B (it doesn't really matter either way, since FPTP doesn't care who you like after #1). It's unclear if A or B should win, but clearly C shouldn't -- a majority of people don't like him. However, if half the 60% vote for person A and the other half vote for person B, the results are: 
+
+The result of all this is that FPTP bodies tend towards dual party systems after a while; the similar candidates fight it out in primaries so that in the real election, there's only two major choices and the effect of vote splitting is minimized. Nonetheless, spoilers can still cause problems. FPTP doesn't gather sufficient information to be certain when spoilers have changed a result, but in Gaming the Vote Poundstone estimates that at least five U.S. presidential elections have been decided by spoilers 
+
+Because person A and person B were so similar, they split the vote and neither got enough to win; they would've been better served if one of them had dropped out. 
+
+However, with computerized record keeping this is no longer a problem, and indeed there are counties that allow voting at any polling place. The reason it's uncommon is just because it was so recently infeasible to manage, but I imagine it will become more widely available as we rely more on technology to handle elections Simple plurality voting has very little in its favor in any election with more than two candidates, but the top disadvantage is vote splitting. FPTP only allows voters to vote for a single person, and since the vote can't be transferred, if that person doesn't win that means the voter might as well have not voted at all. (for details on each party, follow the links from the wiki-page linked above) 
+
+In both cases, I could imagine that someone living in a safe state or safe seat may be less motivated to vote, than someone living in a swing state or marginal seat. Is there any evidence that turnout is higher in swing states than in safe states, and/or higher in marginal seats than in safe seats? 
+
+Looking at the list, the lists are numbered as follows: 
+
+Lokaal in de Kamer, 15 constituencies JEZUS LEEFT, 7 constituencies StemNL, 9 constituencies MenS en Spirit / Basisinkomen Partij / V-R, 2 constituencies There appears to be a contradiction between the explanation of how lists are numbered (descending order number of constituencies), and the order between lists 25 and 26. Why did JEZUS LEEFT receive a lower list number than StemNL despite participating in fewer constituencies? 
+
+In Dutch elections, any party can register for participation and present a list of candidates. For the 2017 elections, 81 parties initially registered; 31 of those have delivered a list of candidates; 28 met requirements to take part in at least one electoral district, 16 parties take part in all 20 electoral districts. 
+
+Is my premise correct? Why are voting advice applications not more commonly used? 
+
+In the Dutch general election, 2017 the overall result⁰ for the largest parties was: It's quite simple: every voter gets a single voter card with their name on it. When they go to a polling station, they hand in their voting card (and show their ID) and get a different, anonymous card in return. Then they go and cast their ballot at this polling station. Anonymity is guaranteed because the voting card does not end up in the booth. 
+
+(Disclosure: I belong to the 3.0%) 
+
+¹The new party DENK scored 2.0% in The Netherlands and 0.2% among voters abroad. Their voter base consists mostly of "new Dutch citizens", a.k.a. voters born abroad or with with parents born abroad, which (by definition?) live in The Netherlands. 
+
+Note that in principle, whether or not someone voted at all is not guaranteed to be anonymous in this system, but it isn't either when a name is crossed on a list. I'm not sure if it's possible at all for this aspect to be anonymous, short of destroying all relevant information immediately after the elections.

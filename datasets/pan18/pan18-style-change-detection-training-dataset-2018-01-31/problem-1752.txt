@@ -1,0 +1,39 @@
+But the thing is, we don't specifically need this for proof by contradiction, because in proof by contradiction what we've done is show that some assumption P leads to a contradiction. And contradictions are unacceptable based on the third rule. Ergo, the assumption itself must be rejected. 
+
+You seem to misunderstand proof by contradiction: I will start with the second issue. I'd say a better definition of proof by contradiction is as follows: 
+
+WHY? Argument 2 can be rewritten: (1) S (2) C (3) A 
+
+Aristotle defined the material cause as the matter through which something is effected, i.e. its the bullet going through someone's body that kills them. 
+
+I take it that the point of the original statement is to deny that guns are involved in the reasons (final causes) that people die. This, however, might be non-responsive to the real claim being suggested by advocates of gun control. Gun control advocates may be making the claim instead that (1) guns can function as material means of killing = "guns kill people", (2) removing guns as a material means will make it harder to kill, therefore we should removes guns because "guns kill people." 
+
+misses an important feature in the textbook's definition. Namely, you've lost the must, but the must is crucial. 
+
+A = A For any A, true or false not (A and not A) Material implication is a logical operator that operates on two terms and lives in this world. Its purpose is to work with conditions, i.e. places where the value of one variable depends on another. Given that we have 2 variables which (per rule 2 can each have two values), we have four possibilities. 
+
+I will give you two examples, one historical and one hypothetical, to illustrate my point: 
+
+From a formal logic point of view 1) is true and 2)-5) are all false. Yet it seems to me that 2)-5) are on different ontological levels when it comes to how 'false' they are 
+
+If their pay structure was more inductive to cooperation, the experienced sales person would have handed the sure fire customer over to the rookie, and focused their efforts on the undecided customer. The dealership as whole would have potentially made two sales instead of one. 
+
+Birkhoff and Von Neuman proposed in the 1930s that the paradoxes of Quantum Mechanics can be explained if we abandoned classical logic and used some form of Quantum logic instead. Such a Quantum logic would change or abandon all together some of the rules of classical logic, and would be a perfect case of logical axioms arrived at by observation. 
+
+The idea that quantum mechanics fundamentally challenges the rules of logic was popular for a while, but has fallen out of favor in recent years. 
+
+There are three ways one might answer that question: 
+
+Although Quantum logic is still an active field of study up to the present day, it is does not get much attention from most philosophers and had been abandoned completely by physicists. Those who do study the topic view it mainly as a mathematical tool for studying Quantum phenomena, not as some sort of fundamental logic to replace our current classical rules of logic. 
+
+There are a number of things which are problematic with identifying infinity with zero, with entertaining the idea that they are equal. 
+
+Quantifiers in connection to AND and OR In the most common forms of predicate logic, ∀ and ∃ act like a sort of logical conjunction (AND) across all objects, and logical disjunction (OR) across all objects, respectively. 
+
+Quantum mechanics, for instance, is much beloved of people who would like to suggest that classical logic is flawed. For instance, the double-slit experiment suggests very strongly (and quite reasonably) that it is possible for something to be in two places at the same time — in a manner of speaking. By "a manner of speaking", I mean just that: it becomes important to determine what one means by "something" and "two places at the same time", if one is going to bother to broach the ontology of quantum mechanics, and whether there is "really really" something in two places at the same time will depend on that. 
+
+which with our list of Scottish people becomes 
+
+We then proceed to define 2ω2 as the limit of all ordinals obtained by adding combinations of ω and finite integers to ω2; and then we may come to define 3ω2 and 4ω2; and eventually we may come up with the idea of defining ω3 as the limit of all of the ordinals involving combinations of ω2, ω, and finite integers. We may go about defining ω4, and ω5, until eventually after infinitely many iterations we are moved to define ωω, and ωω+1, ωω+2, ω2ω, and the process never really stops. 
+
+A simple formal model of self-reference I want to consider formal logical systems in which we may represent the Liar Paradox, specifically in order to specify a way in which to treat the Liar Paradox as a feature (or a bug) of a formal logical system.

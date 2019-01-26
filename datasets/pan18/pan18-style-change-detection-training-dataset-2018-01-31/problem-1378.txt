@@ -1,0 +1,39 @@
+Trigraphs are from an old era... before some of us were even born. On Intel processors, the hardware counters let you count raw CPU cycles. Combined with a method of precisely measuring real time (next section), you can compute the true frequency. The MSRs give you access to other information such as the CPU frequency multiplier. So it's actually possible to do better than this if you just use all zeros and get rid of the normalization step. However, since I wrote the benchmark to measure power consumption and temperature, I had to make sure the flops were on "real" data, rather than zeros - as the execution units may very well have special case-handling for zeros that use less power and produce less heat. 
+
+The full project can be found on my GitHub: https://github.com/Mysticial/Flops 
+
+Your arrays are declared, but not used before the benchmark. Because of the way the kernel and memory allocation works, they are not mapped into memory yet. It's only when you first touch them does this happen. And when it does, it incurs a very large penalty from the kernel to map the page. Every time you improperly switch back and forth between SSE and AVX instructions, you will pay an extremely high (~70) cycle penalty. The performance critical part is obviously the 48 instructions inside the inner loop. You'll notice that it's broken into 4 blocks of 12 instructions each. Each of these 12 instructions blocks are completely independent from each other - and take on average 6 cycles to execute. http://coliru.stacked-crooked.com/a/f534f98f6d840c5c 
+
+These are kernel-level instructions and therefore require the use of a driver. If you're attempting this in Windows for the purpose of distribution, you will therefore need to go through the proper driver signing protocol. Furthermore, the code will differ by processor make and model so you will need different detection code for each processor generation. 
+
+Here's the assembly of the loop: (if I recognized it properly) 
+
+This has resulted in a shortage of tamper-proof benchmarks which has probably contributed to the overall decline of the competitive overclocking community in recent years. All things equal, disabling vectorization will hurt performance in this floating-point case. 
+
+Image Source: http://www.myoldmac.net/cgi-data/forum/phpBB2/viewtopic.php?t=305 
+
+This means that rather than using these weird lower precision almost-zero values, we just round to zero instead. 
+
+So there's 12 instructions and 6 cycles between issue-to-use. The latency of multiplication is 5 cycles, so it's just enough to avoid latency stalls. 
+
+All known methods to measure frequency require an accurate measurement of time: The key thing to note here is the massive amount of manual loop-unrolling as well as interleaving of multiplies and adds... I'll expand on my comments here. This is too big and in-depth for me to fit in the comments. 
+
+Denormal (or subnormal) numbers are kind of a hack to get some extra values very close to zero out of the floating point representation. Operations on denormalized floating-point can be tens to hundreds of times slower than on normalized floating-point. This is because many processors can't handle them directly and must trap and resolve them using microcode. 
+
+But since you disabled vectorization for the x64 version, it obviously becomes slower. Skip to bottom for more details. When the inlining is done manually, the compiler has enough information to optimize out this conversion and keeps everything as a 32-bit datatype IR. 
+
+Because the benchmark (as written) is only writing zeros, it is easily saturating the memory bandwidth for the core/system. So the benchmark becomes affected by how much memory is touched. 
+
+If we walk these instructions down one-by-one, we can see how ICC tries to vectorize it: 
+
+All the clocks listed above are vulnerable because they are often derived off of the same system base clock in some way or another. And that system base clock is often tied to the system base clock - which can be changed after the system has already booted up by means of overclocking utilities. 
+
+Problem 2: The Compiler is Defeating the Benchmark Now let's look at part of your ICC output: Output (8 threads, 10000000 iterations) - Compiled with Visual Studio 2010 SP1 - x64 Release: Building any sort of tamper-proof benchmark will almost certainly require writing a kernel-mode driver which requires certificate signing for Windows. This is often too much of a burden for casual benchmark writers. 
+
+I've done this exact task before. But it was mainly to measure power consumption and CPU temperatures. The following code (which is fairly long) achieves close to optimal on my Core i7 2600K. Once you get to this stage, there are a variety of ways to read the frequency. *I'm tagging this C as well, because I assume this bug will reproduce in C. (I haven't verified it yet.) 
+
+To get the true frequency of the processor, you need to access either the MSRs (model-specific registers) or the hardware performance counters. 
+
+So either that code is really old, or the author was being a jerk. It doesn't. But there are 3 different issues with your benchmark that are giving you those results. The normalization step is needed to keep the data from over/underflowing. This is needed since the do-nothing code will slowly increase/decrease the magnitude of the data. Timings: Core i7 920 @ 3.5 GHz: 
+
+This is perhaps the bigger problem. You need a timer to be able to measure the frequency. A capable hacker will be able to tamper with all the clocks that you can use in C/C++. This includes all of the following:

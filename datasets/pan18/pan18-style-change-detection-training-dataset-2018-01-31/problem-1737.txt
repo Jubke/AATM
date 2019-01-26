@@ -1,0 +1,23 @@
+(Of course, there are philosophers, and especially metaphysicians, that work on those questions. Some think that mathematics can be verified empirically, see for example Maddy) 
+
+Trope: a trope is a particularized property. This apples redness for example. The tropes of this apple of course differ from the tropes of that apple. Individual: the red apple. It does not instantiate anything. In the ontology of someone believing in individuals (nominalists), there are no abstract things as properties, just individuals, and there are red individuals, blue individuals etc. The predicate just describes an individual, but does not denote an object. I can conceive a junk world, therefore, priority monism is false. 
+
+Universal: Redness, Shape, Length, Weight, whatever. Particulars instantiate these in order to ~have~ properties. 
+
+Particular: a thing without properties. It has to instantiate universals(properties) in order to have a shape, a color, a taste etc. 
+
+Furthermore, I don't think that your claim is true in the first place. Science, for example theoretical physics, makes claims that are not empirically verifiable (at least not yet). Example: Theoretical Physics makes assumptions about what is in a black hole, but it is impossible for us to go into a black hole and make our observations. But theoretical physics is still useful I'd say. The way your source puts it, is very misleading. Logical empiricists had nothing against "metaphysical poetry". This seems to be a recurring misunderstanding. Indeed, according to logical empiricists, poetry is one of the best suited media to express "mystical longings". That's not the case. You are somehow mixing together the first and the second incompleteness theorem and drawing a misleading conclusion. Briefly put: 
+
+The second theorem proves that no consistent axiomatic system which includes Peano arithmetic (or stronger) can prove its own consistency. 
+
+[In this connection the term "world view" ("Weltanschauung") is often used; we p refer to avoid it because of its ambiguity, which blurs the difference between attitude and theory, a difference which is of decisive importance for our analysis.] 
+
+The first theorem proves that all consistent axiomatic formulations of number theory which include Peano arithmetic (or stronger) include undecidable propositions. 
+
+Long explanation (by Carnap himself) The whole point is clearly stated by Carnap in his paper on the "Elimination of metaphysics through logical analysis of language" (1932), esp. §7 "Metaphysics as expression of an attitude towards life": Our conjecture that metaphysics is a substitute, albeit an inadequate one, for art, seems to be further confirmed by the fact that the metaphysician who perhaps had artistic talent to the highest degree, viz. Nietzsche, almost entirely avoided the error of that confusion. A large part of his work has predominantly empirical content. We find there, for instance, historical analyses of specific artistic phenomena, or an historical-psychological analysis of morals. In the work, however, in which he expresses most strongly that which others express through metaphysics or ethics, in Thus Spake Zarathustra, he does not choose the misleading theoretical form, but openly the form of art, of poetry. Mathematics cannot be verified empirically, but is very helpful. Why do I think that mathematics cannot be verified empirically? First of all, it is an open question what mathematics is about. Whatever numbers are, a lot of them, indeed, infinitely many of them, are larger than the amount of stuff in the universe. 
+
+You seem to claim that something that cannot be verified empirically is beyond the understanding of science and probably not useful. 
+
+One branch of metaphysics is modality. Something is science, you seem to suggest, if it makes verifiable claims. Which is just to say that it has to be possible to verify it. The nature of possibility belongs in the realm of metaphysics. And working on modality helps us to pin down what is verifiable and what is not. If that is your demarcationline between science and non-science, working on metaphysics is useful. 
+
+Furthermore, I don't think that your claim is true in the first place. Science, for example theoretical physics, makes claims that are not empirically verifiable (at least not yet). Example: Theoretical Physics makes assumptions about what is in a black hole, but it is impossible for us to go into a black hole and make our observations. But theoretical physics is still useful I'd say.

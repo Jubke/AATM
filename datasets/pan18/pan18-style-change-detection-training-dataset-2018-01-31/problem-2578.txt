@@ -1,0 +1,27 @@
+Solutions that I have considered: 
+
+The acoustic characteristics of the realisation of a given phoneme may vary depending on phonological context. For example, [v] may have a higher Zero Crossing Rate if it follows a consonant than if it follows a vowel. 
+
+This phenomenon occurs in many varieties of English, but doesn't got as for as neutralising the contrast. The transcription that @Wilson gives ([t͡ʃɹi]) captures this reasonably well. This might be a consequence of the backward movement of the tongue after [t] during which it passes the place of articulation of [ʃ]. 
+
+The MOP says that as many consonants as possible should belong to the second syllable (i.e., the onset of the following syllable should be maximised). What is possible is determined by the phonology of English. For example, there are words like 'road' that begin with an /r/. Hence, we know that /r/ is a possible onset. Therefore, /ˈvɛ.ri/ is the correct syllabification. 
+
+Most linguistics can agree that (in English) the nucleus ("core") of a syllable must be vowel (an exception is made for nasals in certain contexts). If we consider a word with more than one syllable, the next question is whether the consonant(s) between the first and the second nucleus should belong to the first or the second syllable. 
+
+Can this kind of variation be called allophonic? Are any and all acoustic differences between two realisations of a given phoneme, no matter how minor, grounds for labeling the two realisations as two separate allophones as opposed to instances of the same allophone that "display some minor acoustic differences"? 
+
+Example: Should /r/ in very belong to the first, hence /ˈvɛr.i/, or the second syllable /ˈvɛ.ri/ 
+
+David Deterding argued that the Wolf passage is a better alternative to The North Wind and the Sun. It includes all English phonemes and is better in terms of the occurrence of phonemes in syllable onsets and codas. 
+
+Some linguists think there should be exceptions to the MOP. For example, one opinion is that stressed syllables must not have an empty coda. This would mean that /ˈvɛr.i/ is preferred. 
+
+Another opinion is that lax vowels such as /ɪ/ and /ʊ/ must not have an empty coda (because there are no words ending in a lax vowel). This would mean that 'hippy' should be syllabified as /'hɪp.i/, not /'hɪ.pi/. Yet another analysis is that (as musicallinguist mentioned) some consonants can be ambisyllabic, i.e. belong to both the preceding and the following syllable. 
+
+This is also possible. Basically, intensity peaks (which are very loud) are syllable nuclei, and intensity troughs (which are very soft) are syllable boundaries (if the loudness difference reaches a certain minimal threshold). But this will likely not help you address your pedagogical concerns. 
+
+There are different syllabification methods, and none of them is universally accepted (also, we have only talked about English here). You say you are interested in syllabification from a phonetic point of view (but your description of the question was in phonological terms). 
+
+Note that I don't mean cases where there are differences between vernaculars and the standard languages and some speakers acquire the standard imperfectly (such as th-stopping in some English dialects, or the pharyngealised consonants present in Modern Standard Arabic but not in many Arabic dialects). 
+
+The latter is not primarily about your topic but they give a good description of and more references for segmentation criteria.

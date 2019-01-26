@@ -1,0 +1,23 @@
+UPDATE: The other links are interesting, but I was thinking about primarily non-programming related media. I get the impression that the sort of people who write into "Ask Jack" aren't particularly computer or Internet savvy so they aren't likely to come across Stack Overflow directly or via the blogs etc. mentioned by others. 
+
+EDIT As Jon Skeet suggested in his comment a way to avoid the "afsdrwi" type comment would only to refund the rep if a certain number (2, 5?) of people voted the comment as useful. Part of the ethos of Stack Overflow is (or should be) that no question is too simple to ask. After all we were all novices once, and we will be again when some new technology comes along. If the community. properly peer reviewed, can do the cleanup there's less work for the janitors to do. 
+
+This shirt is not legitimate, but it's up to SE whether they take action or not. That way people won't be tempted to vote up just to get the increment in the view count. 
+
+T-shirts and other goodies are available but only as give-a-ways (events, competitions, rewards for top users etc.) Personally I'd only down-vote if the answer was actively unhelpful or gave incorrect information, but as @dmckee says I'd comment first just in case there was any misunderstanding. Poor quality answers being left on the system with no indication to say that they are poor quality. Users flagging for moderators to delete stuff because they can't do it themselves as the post is not negatively scoring. All-in-all not useful. A word of warning though - if down-votes are free it becomes easier for people to down-vote all the competing answers on a question. We'd need to have a way of spotting that and either preventing it (the -1 remains if you've answered the question, or add an answer later), reversing it automatically or flagging it up to the moderators. 
+
+NOTE: I'm still not sure of the etiquette for this sort of thing here on MSO. I know it would get closed straight away over on SO, but I'm hoping we can be a bit more flexible here. 
+
+Of course, if the question has been deleted due to spam or offensive flags then it should not be made visible to the owner. There's no point with these "questions". 
+
+The fact that "Not Sure" doesn't increment the review count discourages people from clicking that perfectly valid option. 
+
+However, like with down-votes, don't take comments to heart. 
+
+The design (which is quite good it has to be admitted) is not one I recognise - and I have a large number of T-Shirts :) Allow delete votes on positively scoring answers - obviously we need to scale the delete votes along the same lines as question delete votes are scaled so that it's next to impossible to delete something that's highly upvoted. If a bad answer that's got a couple of upvotes starts to attract delete votes then it might prompt the OP to fix it up, others to fix it up or add a new answer themselves. Obviously delete votes should age away, perhaps more rapidly if the post has been edited since the vote was cast. Educate users more to remind them that they'll get their precious 1 point of rep back when the offending answer is deleted. Make downvotes on answers free to the caster - or perhaps at least after a certain reputation level/length of time on the site. If the answer doesn't help you then you can down-vote it if you want. The tool tip states "This answer is not useful". As you are increasing the penalty of a down-vote I think you ought to strengthen the "nudge" that prompts people to explain the down-vote. However, what one person regards as offensive isn't necessarily the same as what the next person finds offensive so don't be surprised if the comment isn't deleted. 
+
+For example, perhaps in this case the cost to the down-voter should be increased to -2 unless they provide a (possibly anonymous) comment, in which case it's -1 or even 0. 
+
+Stack Overflow got a mention in the Guardian's Ask Jack column for 2nd July. 
+
+This would only be a sticking plaster, but let people see their deleted questions if only for the first 48 hours after deletion. The links to them would still remain invisible to everyone else (except moderators).

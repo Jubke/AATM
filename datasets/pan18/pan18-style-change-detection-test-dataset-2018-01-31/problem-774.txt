@@ -1,0 +1,23 @@
+This varies depending on which logical system you're working in. 
+
+Notational Preliminaries First, fixing notation. I will use square brackets ([ ]) where I would normally subscript the character within the brackets. Let Q denote Robinson arithmetic and let S denote an arbitrary but fixed recursive consistent extension of Q. Let denote the standard model of Q (and its domain) and say that a sentence is true if it is true in (NOTE: it looks like we have your answer here; yes it is the standard notion of truth-in-a-model. At least, that is the notion used in at least one formalization of the proof. I'll go a bit further to show how we recognize the truth of the Gödel sentence.). For any formula p, let's reserve the bolded version, p, to stand for the Gödel number of p. 
+
+Since what you have given is a conditional sentence and not clearly an argument, I'd be inclined to say that what you have is a single proposition. 
+
+You can do the semantics for QML in one of two ways, either variable domain or constant domain. To keep worlds isolated (i.e., to prohibit overlap) as Lewis does in his modal realism requires a variable domain approach (since the domain of each world's quantifier is disjoint from any other world). You can read about these two approaches in the second half of Priest's book, chs 14 and 15 of the second edition. 
+
+The first two lines are the premises, I assume the truth of the possibility statement and the negation of the statement we are trying to show follows. The third line simply exploits the interdefinability of the quantifiers. The fourth line discharges the diamond at line 1, requiring the introduction of a new world, w1. Lines 5 and 6 are the existential instantiation rules for free logic, you instantiate with a new constant (line 5) and then assert that the thing named by the constant exists (line 6). Lines 7 and 8 combine two inferences, they discharge the box--- showing that the conjunction at line 5 is true at the actual world ---and then split the conjunction into its conjuncts (conjunction elimination). Lines 9 and 10 are another existential instantiation, utilizing another new constant. 
+
+Saul Kripke on his theory of truth and the semantic paradoxes (gaps) 
+
+Pr[S](y)= x Proof[S](x, y), this is a formula, where a formula is a with an initial block of existential quantifiers (this block is allowed to be empty, so, every formula is a formula; the converse, however, obviously does not hold). 
+
+Well, there seems to be wide agreement that S5 captures the notion of logical necessity. This is why Lewis calls the space of possible worlds logical space. 
+
+The issues are much the same for truth-value gluts except that accepting gluts means that you accept some statements are both true and false. Dialetheism is the philosophy most commonly associated with the existence of truth-value gluts. 
+
+Accepting gaps, as the name would suggest, is to accept that there are some statements which are neither true nor false--- they are indeterminate. You could treat indeterminacy as a third truth value, or as simply the lack of truth or falsity. As far as I know there isn't much of a philosophical reason to preference one approach or the other. The difference corresponds to a choice of semantic apparatus. If you take the assignment of truth-values to statements to be functional then you treat indeterminacy as a third truth-value. If the assignment of truth-values to statements is relational then you can avoid positing a third truth-value by simply having some statements relate to neither truth nor falsity. 
+
+A premise is a step in an argument put forward toward establishing some conclusion. 
+
+"Here" works similarly, except the thing referred to is (usually) the location of the speaker (fixed by the context). "Now" as well, with the thing referred to being the time of utterance (fixed by the context). David Lewis famously proposed an indexical analysis of "is actual", claiming that it functioned like "here", except that the location specified is the possible world inhabited by that individual (rather than a region within a possible world occupied by an individual).

@@ -1,0 +1,29 @@
+Here you seem to be hinting at the fact that reality is constructed. Kant was a major proponent of this view, and introduced the concept of "Ding an sich" - things in themselves, as opposed to things as we see them: 
+
+The answer to this is: We can't trust that our current theories are correct, and that is exactly what defines science. Ideally, the scientific attitude is to accept that a theory, no matter how widely accepted and how well supported by experimental evidence, can eventually be proven false and replaced by a another theory. This is the concept of Falsifiability proposed by Karl Popper. 
+
+First of all, one must be careful about the use of the word "theory" in "String Theory". Theory here is used closer to the restricted mathematical sense of the word, as a set of propositions based on a formal set of rules, like set theory or complexity theory, as opposed to the theory of evolution. Seen from this point of view, one can say that String theory isn't science, since it can't be falsified, but that it does fall under the general heading of mathematics and formal logic, or what Hume called relations of ideas, albeit one that is inspired from physical facts. 
+
+Is it fair to say that Gödel's result seriously challenges the logical positivist program? How did the logical positivists respond to Gödel's incompleteness theorem? 
+
+But there are religions for which it might be possible: For example Islam or Buddhism. In these cases what remains from the religion once you have removed its practitioners? Its canonical scripture. 
+
+I've recently come across several statements to the effect "there are questions science can't answer", mostly from proponents of religion and mysticism, but also from scientists and secular philosophers as well. 
+
+Lakatos says that a scientific theory can be divided into two components: 
+
+Different people have objected to philosophy at different times. 
+
+The short answer is: Science, for all of its problems, still works better than anything else. If you are sick do you go to a priest, a guru or to a scientifically trained doctor? If you need to make a decision about what to wear tomorrow, who do you ask for advice, the meteorologist or your horoscope reading? Which ones do you trust, and why? See here for details. 
+
+It is still possible to argue that science and religion are both trying to answer the same or similar questions. For example modern cosmology's big-bang vs the Biblical and Quranic accounts of creation. 
+
+You might say "well fine, locality is not essential". But the consequences of non locality for causality are seen by some as even more disturbing than quantum randomness. Keep in mind that what is meant by non-local here is fully instantaneous interaction, not just faster than the speed of light. This means that it would be possible in theory for you to push a button on earth and cause a cat to die on the other side of the galaxy without any signal having to travel from here to there. The implications of this spooky action at a distance for causality are significant, especially given the results of relativity (which are much more intuitive than people think they are). 
+
+There is no official authority that keeps track of everything. The results of science are recorded in academic and scientific journals, which in turn are archived by university and research institution libraries. Most journals now also have online versions where you can access there published papers. The http://arxiv.org is an open access resource which is one place to go for copies of scientific papers (unreviewed drafts, as well as copies of those that have been accepted in the regular journals). JSTOR is another resource for more general subjects, including science (although it is not free like the arxiv). 
+
+Quine is arguing that it is not possible to do so, because no matter how scientific and empirical an explanation gets, it is still based on our language, which is a cultural artifact, not a brute fact of nature. 
+
+There are two positions on the question of freewill: 
+
+He suggests that the current search for a Theory of Everything (TOE) and symmetry in the laws of physics by cosmologists, string theorists and other scientists is really just a hold over from monotheism. That even self identified atheist scientists, who are perfectly happy to abandon the notion of God, still cling to the notion of a single set of fundamental laws governing the universe due to the influence monotheism has had on western thought in general.

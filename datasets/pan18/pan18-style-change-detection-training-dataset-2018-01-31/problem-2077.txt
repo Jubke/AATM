@@ -1,0 +1,29 @@
+It depends on what exactly you want to get out of your reading. Due to the formatting of this question being pretty subjective, I'll offer an overview of what the different books cover and what you will gain from reading them and you can make the choice of which one to read yourself. 
+
+A. J. Ayer, a very famous twentieth century analytic philosopher, with the help of Jane O'Grady published a book entitled A Dictionary Of Philosophical Quotations which should provide you with exactly what you are looking for. 
+
+The Perseus Collection is a great online collection of ancient texts in their original languages (with a built in translation dictionary) as well as lots of different English translations. Here is the Republic. 
+
+At their core, Russell's book is about the sequence of ideas and thinkers that ran throughout history leading to where we are now (well, to where we were a hundred years ago when he wrote the book) and Durant's work is about a few of the more major philosophers that participated in that process up until now (or, again, when the book was written). The titles of the books really do reveal what content is inside. The Story of Philosophy: The Lives and Opinions of the Greater Philosophers is about the lives and the opinions of some of the more important philosophers in Western philosophy while A History of Western Philosophy is a trace of its history. 
+
+The most common, and widely accepted as being the most philosophically well founded, semantics of modal statements are possible worlds semantics which say that a modal statement, either something about necessity or possibility, derive their meaning from a set of possible worlds. If a proposition is true in all possible worlds then it is necessary, if it is true is some possible worlds then it is possible, and if it is true in no possible worlds then it is impossible. 
+
+You might be interested in Professor Yablo's 2011 course on philosophy of language as well as Professor Holton's 2005 class on the same subject, both of which have lecture notes. Two great textbooks on the subject are Philosophy Of Language by A.P. Martinich and David Sosa as well as Philosophy of Language: A Contemporary Introduction by William G Lycan. 
+
+There, it is made clear that Feder essentially mutilated Garve's review and added a comparison to Berkeley, which Kant so bitterly adressed in the Prolegomena. He received Garve's original review by mail (on Aug 21st 1783, see below), and found valid criticism of his arguments about freedom and morality, as Förster argues: 
+
+It is a good compromise between length, readability and academic quality. 
+
+Motivation The sentiment that Human Rights are not universal poses legal, political, and philosophical problems. Stephen C. Angle cites the head of a Chinese delegation, Liu Huaqiu (1995), in his book Angle, S. C. (2002). Human rights in Chinese thought: a cross-cultural inquiry. Cambridge University Press, p.2. as follows: 
+
+Regarding a comprehensible story and more sources I think the most readable summary of how things were and the philosophical drive produced by the reviews is in Eckart Förster's The Twenty-Five Years of Philosophy (2012), pp.48-53. 
+
+First, regarding the aim of your question: 
+
+As Conifold alluded to in the comments, this is a well-known topic in philosophy, most closely associated with the great German philosopher Immanuel Kant, who called this feeling "the sublime". He uses this concept, which he sees as most directly related to the awe-inspiring qualities of nature, as a way of developing his theory of art, which he believes taps into similar territory in the human experience. 
+
+This one (linked) looks to be the latest edition of the one used when I took Philosophy 101 many years ago. If not, it still seems like an excellent overview of at least the classic Western Philosophical canon. You'd need to supplement it if you wanted non-Western philosophy and/or more recent thinkers. 
+
+To directly address the headlining question: Why is it so hard to write a philosophy textbook. 
+
+This seems like a critical misunderstanding of the original thought experiment. The basic idea is to make decisions that ensure the best outcomes for all by eliminating, as much as possible, the biases of personal self-interest. It's an extension of the Kantian concept that moral laws must be universal and disinterested.

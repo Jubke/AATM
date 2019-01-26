@@ -1,0 +1,35 @@
+No for a whole lot of reasons, the most decisive of which is that the 7801 hubs are among the only (along with WH-6600) ones Shimano's ever made that use a drive ring in the hub shell to engage the pawls, as opposed to the pawls and the ring they engage being all internal to the freehub body. In other words the design is completely different from any of the 11-speed freehub bodies. 
+
+Setting the spoke line means to cold set the material into the final shape it would otherwise be pulled into by the tension on it. This reduces fatigue, which is the most common cause of breakage. It also helps keep the wheel true. 
+
+This is a strange problem you're describing. Having them chronically come loose to the point of falling off is not a common problem, and even so the obvious solution is more/proper tension, but if the wheel was essentially rebuilt already (all new nipples?) then one would hope it's in the reasonable ballpark, 100-120kgf drive side depending on the parts used. If you only mean to say you've had the lost ones replaced with brass, then getting the whole wheel tensioned up would hopefully fix it. 
+
+As for the larger discussion of whether this is possible with Shimano hubs: 
+
+FH-5800, 1st generation of 11-speed 105: 
+
+The approach I would take here is try to find witness marks on at least one of the cones or the axle that show you about what the original thread engagement was on at least one piece of it when the drive side cone was originally affixed to the axle. Combine that piece of information with the knowledge that the over-locknut dimension is 135mm and you should be able to make everything fall into place. 
+
+Outside of the hub, the DT 370 rear axle looks like this: 
+
+What you don't want to do under all circumstances is make large enough changes to the outside diameter of the inflated tire that pedal/crank clearance with the ground becomes an issue. Geometry will suffer too, but as a rule of thumb, dealbreaking ground clearance problems will arise first. (It's my rule of thumb at least, having observed various wheel conversions where it seems fine at first and then you learn you get pedal strike in turns). 
+
+Also, 9mm is associated with QR front hubs, not rears. 
+
+But, if you have a 6-speed Shimano Uniglide cassette, all but the smallest cog can in fact go on a modern Shimano-compatible wheel. More info on this here and here. You'd then get a modern smallest position cog and a lockring, and spacers for behind the cassette to take up all the extra room. You'll also need some very thin spacers to get the cog-to-cog spacing right on the small cog. Again according to Sheldon's numbers, you need .5mm worth there if you use a cog from a 7spd Cassette, since that cog will have a built in spacer for 5mm cog-to-cog and you want 5.5. Shops do have cassette spacers that thin, but they're very seldom used now so you may have to hunt. 
+
+In cases where a hub is convertible across axle standards where one reason for the new standard was to change hub geometry to create a strength increase, such as hubs that can work on both 12x142 and Boost 148, you get none of the advantages of the new standard. 
+
+Stress relieving is a process of temporarily overloading the material to eliminate residual stresses left in the spoke elbows. Most breakage is caused by these stresses putting the elbow area above its fatigue limit in use as the wheel rolls along, each spoke getting loaded and unloaded. To stress relieve the spokes on a cross-laced wheel, find pairs of nearly parallel pushing and pulling spokes on each side of the wheel and squeeze them together hard, as though you're trying to break them. (Brandt's terminology). I would recommend doing this at around 80-90% of final spoke tension. 
+
+You could just calculate it using a published ERD (effective rim diameter), and if you had an accurate ERD then that would work well since you can measure the hub, but the problem there is that published ones often aren't quite right, sad but true. 
+
+First of all, under almost all circumstances, you should leave the integrated cone/axle unit of hubs like this alone, other than maybe the fringe case of making one good one out of two identical bad ones or something weird like that. 
+
+If this is a 126mm spaced steel bike then it's more or less okay to just jam a modern 130 wheel in there and go. If you want to take the best care of the frame possible, you should respace it though. If it's 120 you should definitely respace it, and if it's not steel you shouldn't do it. 
+
+When building a wheel, there are two main things the builder does to prevent spoke breakage: set the spoke line at the hub flange and rim when the spokes have little or no tension, and stress relieve the spokes once they're at nearly full tension. 
+
+Asymmetric rims are trying to do a couple different things to increase the strength and durability of a wheel built with a hub that's got unequal center-to-flange measurements, such as all common disc and/or derailer wheels. 
+
+Finally, it only gets harder to create effective sealing when you're designing around multiple different axle adapters that might be used. That doesn't necessarily mean sealing will be deficient, but it is at some level a downside.

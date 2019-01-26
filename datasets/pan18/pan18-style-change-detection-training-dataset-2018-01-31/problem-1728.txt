@@ -1,0 +1,27 @@
+Moreover, he calls the belief, held by philosophers like Quine, that the Problem is not really a problem, and that it is a fact that does not require further explanation, 'Ostrich nominalism'. This is because, according to him, dismissing this as a problem means refusing to solve it, like an ostrich would do by sticking its head in the sand. 
+
+To me, for two particulars a and b to have the same property F, or be of the same type F, simply means that "a is F and b is F*. But I don't see why the fact that "a is F and b is F" is puzzling at all. Why does the fact that "a is F" and "b is F" need to be accounted for? 
+
+Philosopher Gonzago Rodriguez-Pereyra defines the very old and well-known "Problem of Universals" thusly: 
+
+I really don't see any kind of incompatibility, while for Armstrong the fact that both propositions are true is, prima facie, a good reason to postulate the existence of a rather bizarre kind of entities (namely, Universals). In fact, he writes 
+
+However, I still can't manage to see why a is F and b is F both being true is problematic at all. Could you perhaps enlighten me? I've tried by reading books and practically all the SEP/IEP articles on the subject, but these mainly address the solutions, which are hard to understand to someone, like me, who hasn't even got what the problem is all about. 
+
+Second, adaptive does not necessarily mean true and maladaptive does not necessarily mean false. Perhaps it is adaptive behavior to have an inaccurately high opinion of oneself, for instance. Or perhaps the most adaptive way to form beliefs about dangerous situations is just to regard the slightest sign of danger as if it were stronger evidence than it actually is, because then you have erred on the side of caution even though your belief was inaccurate. 
+
+The answer here is evolutionary: if it is the case that a belief makes it (objectively) less likely the organism will survive to reproduce, that organism is less likely to pass along its genes. (i.e. The belief is maladaptive.) if maladaptive beliefs have a hereditary basis, then one would expect evolution to get rid of them over successive generations. 
+
+Still, for at least low level perceptual beliefs like the ones we get from vision or hearing, it is hard to imagine how those beliefs or the mechanisms that formed them could be adaptive without being at least usually accurate. 
+
+But note two things. First there isn't necessarily a direct line between genes and beliefs. Our beliefs are formed by experience and influenced by culture, so whatever evolutionary pressures there are on our beliefs are going to be indirect. 
+
+I've seen Kant described as a dualist because of his noumenon/phenomenon dichotomy. But then based on the same logic, isn't dividing the world to ontologically identical, yet logically non-reducible, and therefore epistemically independent realms, amount to a form of dualism? 
+
+Can one be a reductionist, in the sense of believing that everything can ultimately be explained by a basic set of fundamental laws, while also being a dualist or an idealist? 
+
+Per Hume's is-ought problem, most people consider ethical questions to be independent of empirical facts. 
+
+You are in a sense correct though. Although the act of self observation is not itself inherently paradoxical, it does lead to other paradoxes through self reference. Famous examples are Russell's set of all sets that do not contain themselves, and the liar paradox. These have been captured formally in Godel's incompleteness theorem and Turing's halting problem. 
+
+Non-reductive materialism (or materialism) is considered a from of monism, in the sense that ontologically everything is considered to be made of physical substances. It is non-reductive only in that it holds that some properties can never be explained in terms of lower level physical properties, even if they pretain to material objects. A non reductive materialist holds for example that mental properties, even though themselves physical, can never be explained in terms of neural states. Another example of non-reductive materialism would be our inability to explain biological causes in purely physical and chemical terms. I've seen this position also described as naturalism (in the context of John Searle's theory of mind).

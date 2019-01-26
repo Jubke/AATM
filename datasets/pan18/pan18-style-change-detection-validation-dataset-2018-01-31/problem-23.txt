@@ -1,0 +1,21 @@
+Don't forget to add any material costs, licences, ... to complete your budget. How much effort or how long a task really takes is not deterministic (10 hours) but follows a probability distribution you have to account for. Think of your daily commute: does it take exactly the same amount of time each day? By taking into account the worst case, you can work out a margin, but you manage against the most likely (because Murphy does not always pays a visit and to prevent student's syndrome (take all the time allotted)). 
+
+Estimating is best done with a group of people, instead of individually. 
+
+Perform risk identification (use the WBS!) and add specific risk mitigation tasks where required. The final schedule is based upon the most likely estimates or any other way of calulating it (eg PERT), but make sure you also calculate some margin, in both time and money. As estimating seems to be a problem, you better argument to take the difference between the most likely (or average, or PERT or whatever ) and the worst case. Since you will manage against the former, that should be ok. 
+
+Are there different methods available to you for the work? For example, if your method is to move five tons of dirt with five laborers, five shovels, and some wheel barrels, several backhoes and dump trucks may speed things up. (You'll have to translate this to the type of work you're doing, of course.) 
+
+If none of these things are possible, then re-estimate the work again and see how aggressive you care to be on the probabilistic distribution your time estimate and publish a new schedule. 
+
+Assuming that your team does a great job building its estimates and using a probabilistic approach versus a deterministic approach, and finds that the scope of work will take between 12 to 18 months to complete with their most likely estimate around 14 months, is it better to target closer to the 18 months to build in some degree of assurance of meeting it or would it be better to target closer to 14 or even 13 months...and why? What are the pros and cons to either the seller or buyer? 
+
+This is very controversial, but can you degrade the quality and call things finished before you may otherwise have? Many would have an issue with this suggestion but I think it is done all the time. 
+
+If you don't have the capability resident, you need to buy it. Then do the estimating as you would normally do. If that is not possible, then the answer is, the project is not viable. Keep your client in the long term and let them hire a more capable firm for this gig. 
+
+Whether you are providing an estimate for something to happen in the future, or reporting your actual costs/time, the only way to address the value judgment that it seemed too "long" is to understand the comparison group against which that judgment is being made. So your first question to them is, 'based on what?' Note that, if you're not sure yet which technology to use, you will either have to make assumptions or (better) make an estimate for each possibility. How much effort or how long a task really takes is not deterministic (10 hours) but follows a probability distribution you have to account for. Think of your daily commute: does it take exactly the same amount of time each day? By taking into account the worst case, you can work out a margin, but you manage against the most likely (because Murphy does not always pays a visit and to prevent student's syndrome (take all the time allotted)). The end-result should be broken down in sufficient detail into the functional components that will add to the capability the product needs to support. Each will be a workpackage. Make sure these cost items are identified so that you know your contingency budget and how it is applied. 
+
+Perform risk identification (use the WBS!) and add specific risk mitigation tasks where required. 
+
+First thing you need to do is create the Work breakdown Structure (WBS) up till Workpackage level. The WBS describes the end-product you need to deliver as well as the processes needed to deliver it. This will need a number of iterations on discussions with your stakeholders to make sure that everything is included that is required. You need a pretty good idea of what done looks like.

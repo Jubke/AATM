@@ -1,0 +1,63 @@
+This fact will be formalized with the restriction that no assumption regarding x must be present in the proof. If so, we can safely generalize it. 
+
+The first use regards the completeness of "standard" proof systems for first-order logic. 
+
+Thus the above theories are not decidable. 
+
+The last version is more perspicuous : we cannot have rain without clouds. 
+
+Consider a first-order theory T which include the language of arithmetic. 
+
+See at least Modal Logic, Varieties of Modality, The Epistemology of Modality and Possible Worlds. 
+
+7) Q --- from 6 and 3 by →-elimination 
+
+The proviso formalizes the intuitive rule that "what holds for any, holds for all". I.e. if we consider a "generic" object x and we prove that P holds of it, we can infer that Px holds for every x. 
+
+It is not a contradiction. Consider the def of logical consequence applied to T : 
+
+In the (wrong) proof above, we assume Fx, and thus we cannot assert that x is "generic", because we do not know if every object is F or not. 
+
+I do not agree with some details of the above answer. 
+
+So again, we have a sort of "circularity". 
+
+Exactly because the "procedure" described in your question works : start proving theorems in T. After a finite amount of time, if φ is true, you will find the proof of it; if it is not, then ¬φ is true and you will find a proof of it. 
+
+2.1) Assume R and derive Q ∨ R. 
+
+Thus, if we cannot have rain without clouds, but we may have clouds without rain, it is quite clear that clouds are the necessary condition for rain : no clouds, no rain. 
+
+2) Assume P and derive ¬R → Q from 2nd premise. 
+
+Gödel's completeness theorem says that a deductive system of first-order predicate calculus is "complete" in the sense that no additional inference rules are required to prove all the logically valid formulas. A converse to completeness is soundness, the fact that only logically valid formulas are provable in the deductive system. Together with soundness (whose verification is easy), this theorem implies that a formula is logically valid if and only if it is the conclusion of a formal deduction. 
+
+The "verbal" description of conditional is in Frege's Begriffsschrift. 
+
+Gödel's Incompleteness Theorems apply to systems that (in addition to otehr conditions) have a set of axioms that is finite or at least decidable; Robinson arithmetic, for example, is finitely axiomatized and it is enough for G's Theorem. 
+
+8) Q --- from 4-5 and 6-7 by ∨-elimination, discharging [c] and [d] 
+
+4) P --- assumed [c] for ∨-elimination 
+
+There are theories that are consistent but unsound; a simple example is : F ∪ {¬G}. 
+
+Γ ⊨ φ iff Γ ⊢ φ (i.e. φ is provable from Γ). 
+
+In the Gibbs Lecture, thus, Gödel acknowledged that [his theorems] do not rule out the existence of an algorithmic procedure (a computing machine, an automated theorem prover) equivalent to the mind in the relevant sense [...]. However, if such a procedure existed “we could never know with mathematical certainty that all the propositions it produce[d were] correct.” Consequently, it may well be the case that “the human mind (in the realm of pure mathematics) [is] equivalent to a finite machine that … is unable to understand completely its own functioning”: a machine too complex to analyze itself up to the point of establishing the correctness of its own procedures. Gödel inferred that what follows from the incompleteness results is, at most, a disjunctive conclusion: 
+
+In order to speak of truth, we have to add the "semantical" side [see : Daniel Isaacson, Sufficient conditions undecidability of the Gödel sentence and its truth (2007)]. 
+
+But also "not exists x (margarine is better than x)", i.e. "for all x not (margarine is better than x)", which means that margarine is (one of) the worst food. 
+
+I do not think you can find a brief answer to this debated issue. 
+
+If we stay with this analysis, we can correctly apply the transitivity of the relation : 
+
+is neither a tautology nor a contradiction. 
+
+Having derived Q ∨ R in each case, we can conclude with: 
+
+i.e. : if "x is better than y" and "y is better than z", then "x is better than z". 
+
+It means : "there are at least two thing x and y such that they are not equal". This formula is not true in a universe with only a single element. Thus, it is not valid (validity means : true in every universe).

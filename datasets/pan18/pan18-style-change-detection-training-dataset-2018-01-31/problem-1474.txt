@@ -1,0 +1,57 @@
+I realize I can look at the original event target and "try" to figure out if that target is capable of handling the left/right arrows (input, textarea, contenteditable, etc...), but I was hoping for a more foolproof method. Is there any way to handle a keystroke at the document level ONLY when it isn't otherwise handled by an object on the web page. In my YUI keyboard handler now, I'm getting all keyboard events, even ones that will actually be handled by the target object. 
+
+So, the clearing of a variable only needs to be done when you explicitly want to free data that is held in a long lasting variable and it's usually only relevant to worry about this when the data is large or you have a lot of them that add up to multiple megabytes of data (memory use is of higher concern at lower levels on smartphones than in desktop browsers). 
+
+If you're interested in why I need to know if there are scrollbars, it's because I have some spinning CSS3 transitions that (due to the nature of their spinning) may temporarily go beyond the edges of the current document size (thus making the document temporarily larger). If were no scrollbars initially present, the CSS3 transition may cause scrollbars to show up during the transition and then go away when the transition is finished, leading to an ugly scrollbar flash. If I know that there are no scrollbars present, I can temporarily add a class that will set overflow-x or overflow-y to hidden and thus prevent the scrollbar flash during the CSS3 transition. If scrollbars are already present, I don't have to do anything because they may move a little, but they won't go on/off during the transition. 
+
+The callback is passed the element, the index, and the array itself. 
+
+A notorious source of such characters are websites like jsfiddle. I'm not saying that there's anything wrong with them — it's just a side-effect of something, maybe the use of content-editable input widgets. 
+
+According to John Resig, it's not possible to specify expiration. It's completely up to the user. 
+
+Sometimes you'll also see this: 
+
+edit — If you want to have the effect of an "anonymous" function that can call itself, you can do something like this (assuming you're passing the function as a callback or something like that): 
+
+I can't figure out exactly what's there, yet ... 
+
+If you put a "data-" attribute on an element: 
+
+edit — one more detail - I'm running Chrome on Linux. I'll try Windows in a sec. (edit same in Windows.) 
+
+There's some sort of bogus character at the end of that source. Try deleting the last line and adding it back. 
+
+It's probably easier to understand why I'm scratching my head over this if I provide a context in the style of code I've actually got. When I put together code for various "widget" features on a page, that often involves event handlers. A good example is a form of some sort that's got some fields whose relevance is controlled by a checkbox, or radio button, or selector. A common instance of that is the "Shipping Address" checkbox that shows up on a zillion e-commerce sites: if the checkbox is checked, the shipping address is disabled and the billing address is used. 
+
+The jQuery ".triggerHandler()" mechanism, unlike ".trigger()", only operates on the first element referenced by the jQuery object for which it's called. In other words, 
+
+http://ejohn.org/blog/dom-storage/ 
+
+Personally I think that something's doing something wrong here. Is it Chrome? jQuery? 
+
+You're declaring (some of) your event handlers incorrectly: 
+
+edit — I think it's a zero-width space, Unicode 200B. Seems pretty weird and I can't be sure of course that it's not a Stackoverflow artifact, but when I copy/paste that last function including the complete last line into the Chrome console, I get your error. 
+
+13 Feb 2014 — modern JavaScript has facilities for creating object properties that aren't enumerable, and it's pretty easy to do. However, it's still the case that a "put" property, enumerable or not, would claim the property name "put" and make it unavailable. That is, there's still only one namespace per object. 
+
+Real answer: No, it's not possible. 
+
+jsFiddle: http://jsfiddle.net/NM62A/ 
+
+The only values that are not truthy in JavaScript are the following (a.k.a. falsy values): 
+
+For example, consider the following code: 
+
+jsFiddle: http://jsfiddle.net/jwvha/1/ 
+
+In Firefox 3 and later (and probably older versions), selecting content within an iframe always seems to use the grey selection background colour used for a document that doesn't currently have focus, even if the iframe does have focus. The only exception I have been able to find is when the content within the iframe is editable. This is not the case in other browsers. Here's an example illustrating this: 
+
+As pointed out in the comments, my original answer (below) only returns the end of the selection or the caret position. It's fairly easy to adapt the code to return a start and an end offset; here's an example that does so: 
+
+The following function will do it in all major browsers: 
+
+Here's a function that will get the character offset of the caret within the specified element; however, this is a naive implementation that will almost certainly have inconsistencies with line breaks, and makes no attempt to deal with text hidden via CSS (I suspect IE will correctly ignore such text while other browsers will not). To handle all this stuff properly would be tricky. I've now attempted it for my Rangy library. 
+
+There is nothing unpredictable about either collection, although there are a couple of issues to be aware of:

@@ -1,0 +1,45 @@
+Let's begin with a trivial paradox. We know, of course, that there are integers that are not prime numbers. In fact, there seem to be a good number of them. And yet, we also know that there exactly as many prime numbers as there are integers. We have here a simple paradox; two contradictory statements which are both true. 
+
+The schematic version is as follows (quoting from the aforementioned paper): 
+
+But now, on to the philosophical portion of the problem. 
+
+Note that I said above "(in the mathematical context)"-- in mathematics, it is customary to draw a distinction between definitions and propositions. This distinction is not maintained the same way in Kantian (and post-Kantian) metaphysics; there, as you point out, a definition is a type of analytic proposition. 
+
+As abstractions, they follow certain conceptual patterns. For positive integers, these abstractions are fairly intuitive; for other types of numbers (such as negative numbers, or rational numbers, or irrational numbers) they are less so. 
+
+My favorite example is one that Graham Priest and Jay Garfield identify in the thought of Nāgārjuna, which they call Nāgārjuna's paradox; it's described in their joint article, Nāgārjuna and the Limits of Thought. 
+
+The phrase "if and only if" is used rarely in daily English; it tends to be used only for emphasis, or to avoid an otherwise unavoidable ambiguity. 
+
+Numbers are abstractions. They don't exist in the same way that, say, physical objects exist. You can give me two apples, but you can't just give me a two. 
+
+To summarize: "if and only if" is always a biconditional, both in mathematical/logical usage and plain English usage; "if" can be a biconditional in plain English usage, depending on context, but not in mathematical/logical usage. 
+
+I suspect that this is the very point the OP's professor is making, and his warning should be heeded. 
+
+A previous version of the question referred to Heraclitus's dictum that one cannot step into the same river twice. This is not merely an issue of "imprecision in language", but rather, gets to the heart of what is meant by the notion of identity. 
+
+First of all, complex numbers (and imaginary numbers) do appear in real-world phenomena; they have lots of practical applications. 
+
+And, as Tarski has pointed out, any language which has a truth-function is going to be subject to the Liar paradox. The fact that the questioner chooses to consider this as "non-signifying" is interesting, as it raises the question of by what rigorous criteria one could choose to exclude it (and other similar propositions). 
+
+Similarly, we can look at Russell's paradox, which seems to point at problems concerning the nature of sets, or the Burali-Forti paradox. 
+
+EDIT: I found an SEP article that specifically treats of Fictionalism in Mathematics; it is a nice reference for the more specific case. 
+
+Your question mentions the square root of -1, but let's take the square root of 2. Does that number "exist in the world" in any meaningful way? Can you give me the square root of 2 apples? 
+
+The connection between the law of excluded middle and partially defined operations is probably hard to appreciate without some background. Sadly, this background might be slightly too mathematical for a philosophy site, but let me add it nevertheless. A Boolean algebra is a distributive lattice with an involutive negate operation. A lattice is a partially ordered set where any two elements have a greatest lower bound (meet) a least upper bound (join). A semilattice has only one of these two operations guaranteed to be defined everywhere. A semilattice can also be defined as an idempotent commutative inverse semigroup. And an inverse semigroup can be represented as a subsemigroup of the partial one-one transformations of a set. 
+
+(Edit: After reading Schiphol's answer, I can understand why it makes sense that negation leaves the degrees {⊥ , ⊤} and ∅ fixed for this interpretation. I even got the impression that "set values" model this "whether there is" type of information quite naturally.) 
+
+I wonder why "Mathematical Logic" from Ebbinghaus et al. omits 0-ary relational symbols (which would normally be interpreted as propositions, similar to how 0-ary functional symbols are normally interpreted as constants). I have to admit that this omissions seems to have nearly no influence on the text, and I only noticed this omission in chapter 11, where propositional logic is introduced. 
+
+But to try to suggest that Deflationism is at least not trivial, consider firstly that we can make generalized assertions about propositions whose content we don't necessarily know ourselves: 
+
+David Hume, in his discussions about causality, shared your sense of skepticism that there might be anything other than mere observed regularities to our discussions of natural "laws". His philosophy looks at ways in which our cognitive senses of pattern recognition or resemblance hang together in perceiving and evaluating hypothetical instances of causation - in some sense, "laws" of nature are just consequences of how we are psychologically compelled to evaluate our evidence into a structured and coherent picture of things. 
+
+This suggests one way of looking at a conceivable model in which both of those things are the case - look for the intersection of the list of species satisfying both criteria. Since the two criteria are in this case exclusive, though, the only models are those in which the set of bird species is just empty; i.e. there are no birds. In this model, it's absolutely the case that all birds can fly, and that all birds can't fly, because there aren't any birds! 
+
+So in Classical Propositional Logic, rather than having to go through and manually specify values for every single formula, you can instead require that the interpretations assign values to all of the basic formulae (the Atomic propositions) and build up values for more complex sentences inductively. This structure means you can have a theory of deductive inference that "gets things right" on the level of interpreting sentences in line with their mathematical relationships.

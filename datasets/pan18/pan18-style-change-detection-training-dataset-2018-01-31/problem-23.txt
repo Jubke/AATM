@@ -1,0 +1,39 @@
+The intent of the Scrum Guide is generally agreed to be that only the developers are talking and the PO would hold questions until after the standup. Most agile teachers recommend that the PO only ask brief questions during the standup, to clarify things. If a story is done, the PO is able to follow up with the team member after the Daily Scrum to approve the story, so it can be properly moved to done. 
+
+So if anyone tells you "You're not following Scrum by the book" then they are the ones with the problem. A 17 page document cannot and was not intended to ever be the be all and end all. 
+
+Brain Storm: 15 minutes Take two minutes tops to explain the circle. Once you've explained the rules, set a timer for 10 minutes. 
+
+So then we come back to the specific team and organization and ask why an event might not be seen as useful. In my years of coaching, I've seen all the events challenged as "not needed". In all that time I've rarely found the root cause to actually support out not having that specific event. 
+
+And remember, it's all guidance. If it works for you, that's the most important measure of if you should do it. 
+
+Make sure those items the team picked get planned and acted on. Putting them on big pieces of paper and posting them next to the task board, so they are seen during every stand up is a great way to keep it fresh. 
+
+Commit to Done: Where cycle time is a measure of productivity. I find this to be one of the best ways to promote and measure predictability. If a team commits to 30 stories, and only delivers nine, then the product owner has only a 30% chance of getting something they care about. If a team instead commits to ten and delivers nine, then the product owner has a 90% chance of getting what they wanted. Better predictability leads to more trust and usually to management and product owners interrupting the team as much. When you can consistently deliver what you say you will, you get a lot of lee way. 
+
+Interestingly enough, Mike Cohn just issued some advice on this in his direct email letters to subscribers. He recommends that everyone, Scrum Master and Product Owner included give updates in the Daily Scrum. It's an evolution of our thinking which recognizes that there is other work, beyond the coding, that happens during a sprint. 
+
+Advanced Team Tip: Don't over estimate. - It is better to be a little under on your commit then over. Because you have a well groomed backlog, with "Ready" and estimated stories, then if you complete all your committed stories you can just reach to the top of the backlog. Of course the key here is that you've done all the work in the Backlog Refinement. 
+
+Retrospective Circle - Brain Storm On a white board draw a huge circle (3-4 feet across) and segment it into three sections. Label the sections "Less of", "Same As", "More of". 
+
+2- Refine Stories: I've taken to use the term "Definition of Ready" for this. Where "Definition of Done" defines if a story meets the technical and business goals of a story, "Ready" indicates that the story has all the data a development team needs to execute on the story. There should be a clear and written definition of this. 
+
+TL;DR- Highly recommended. If you don't have it, then you are losing your inspect and adapt loop with your stakeholders. 
+
+A couple of other notes: - Jeff Sutherland and Ken Schwaber maintain the Scrum Guide. They are only two voice in the scrum community and not the only ones who were there when it was invented. - The Agile Manifesto isn't Scrum and it is the over arching guidelines for us all. Inspect and Adapt is a key principle. As is individuals and interactions over process and tool. 
+
+So this is something I'm dealing with right now in AOL. The constant desire of business to measure seeps even into agile organizations. The key is to make sure you are measuring in a way that does not damage the fabric of agile for the sake of measuring. 
+
+Timebox: You can completely keep this inside of an hour. My personal mantra is you can do anything you did in 60 minutes in 45-50 minutes. 
+
+Now that being said, the five events (Sprint, Planning, Standup, Review, Retrospective) are based on decades of experience and use. Sutherland and Schwaber just updated the Scrum guide and they haven't magically removed any events. 
+
+Happiness Index: Happy teams are more productive. Anonymous survey tools are one of the best ways to track this. This metric is more a measure against how the company is doing supporting the team. 
+
+Product Owners absolutely should be at the Daily Scrum. Every CST I know teaches that. The exact role of the PO at the Daily Scrum is up to the team to decide based on what they feel works. Remember, inspect and adapt. We don't hold rigidly, we do what works. 
+
+Cycle Time: The faster you get from "In Progress" to "Done" the more work you can get done overall. I monitor team's cycle time and when it spikes, it tells me something is going on. Right now, with my current teams, it tells me the quality of the product backlog is poor leading to a lot of questions and churn during coding. 
+
+Now that being said, at the agile team level I still need to find some way to measure the teams (as an agile coach at AOL, I work with over 16 teams). The first thing I did was to setup management expectations of what our metrics are for. Instead of metrics being to set goals, metrics are lagging indicators that tell us a team may need help. Just because a team's velocity has dropped, does not mean they are doing something wrong. It could be outside influences.

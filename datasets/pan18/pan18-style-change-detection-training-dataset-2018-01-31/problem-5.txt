@@ -1,0 +1,25 @@
+Assuming you'd like to be Scrum Guide compliant. 
+
+Problem statement. What’s the good way to keep the backlog maintainable for PO and useful for the DT? Comparing to monday-friday the advantage of mid-week cycle is that there is a weekend in the middle of the sprint, when already some issues should have been discovered. By definition each and every Product Backlog Item should be estimated. Therefore each and every Sprint Backlog Item should, as well. 
+
+I've been working as an agile coach for little over one year for one team. Recently I became a line manager for the same team. Create a plan for implementing improvements to the way the Scrum Team does its work. Was that happening on first few retrospectives? I'm far from advocating working on weekends, but as software development is mostly thinking I have experienced that some developers just thought over some issues during the weekend. 
+
+Create sense of freedom by introducing The Core Protocols, especially Pass and Check-In protocols. That will give them a safety belt when needed, it's universal and can be used beyond Scrum. You, on the other hand, would be more encouraged to ask the team and engage them, as they'll just simply pass if not interested. Correct. For bug handling in Scrum, take a look here. For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now. Scrum is not wholly suitable for game design and development due to numerous factors. It may be that Developer A and B both list joining the new team as a low point and by offloading that vital information to the team you see an immediate improvement. The beauty of having a backlog is that teams can dip in and out of the themes and epics based on business value and priority rather than having to deliver entire functional areas. Firstly, you have gained consensus from the team which is fantastic. Your direction of travel towards a self-organizing team in underway. Maintain that. 
+
+This is an excellent question and you will see a spectrum of answers which demonstrate the polar opposites of the Scrum community attitudes. As the Scrum Master you are the master-servant of the team including coaching. Many agile commentators forget the master part but the business is paying you to impose your will upon the team to make them a productive, cohesive unit. You are not a tea-boy. Reaffirm to yourself that you are in control of team. 
+
+There are multiple parts to your question so let's group them; 
+
+My process as Scrum Master I think that Sprint Planning is a fairly relaxed introduction to the new week and we plan on Mondays. I always ensure that I arrive with snacks and drinks for the team (cheese, doughnuts, gourmet coffee etc). 
+
+https://www.mountaingoatsoftware.com/agile/scrum/daily-scrum 
+
+PO has to prioritize the backlog (the what part) where as the team decides amount of work that can be delivered in each sprint (the how-much part). Similarly PO provides feedback on the sprint during sprint review meetings and decides to approve or reject the sprint which has been delivered by the team thus causing conflict of interest. 100% user story completion vs 100% productivity Think in terms of value delivered vs utilization. Goal of Scrum team should be to maximize output and not maximize utilization. Anything (whether a machine or person) working on 100% capacity for longer duration will eventually break. 
+
+In cases where the team finds some idle time, the team may consult Product Owner to pick a story from product backlog which is next in line or can be completed in the remaining sprint time. Alternatively, if there are technical debts to pay then the team can also work on those. 
+
+Note: your idea of maintaining different DoD levels has been mentioned here: https://www.mountaingoatsoftware.com/blog/multiple-levels-of-done http://scrumreferencecard.com/scrum-reference-card/ Some teams make use of a Hardening Sprint or Release Sprint. Schedule a hardening sprint before doing a release, here you can have your Undone Work (tasks left out from the ideal DoD) which can now be tracked as a regular sprint backlog. 
+
+This is a lot of work for a PO which would require undivided attention. For highly aligned and high performance teams, Scrum Master role may need less amount of time but a PO will still have to spend similar amount of time regardless. 
+
+An effective and efficient Feedback Loop is very important during Agile Development. However, strong and potent management of this feedback is equally critical, otherwise we'll have an unorganized and unmanageable product backlog in our hands. Not all the feedback items needs to go into the backlog. PO has a very significant responsibility to analyze the feedback and control what goes into the backlog. One of the tools that PO can use is the MoSCoW prioritization technique, where each item can be categorized (or further broken down) as follows based on the product/project goal:

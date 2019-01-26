@@ -1,0 +1,49 @@
+In phonology, syllables are like cars and morae are like people. Every car on the road must contain at least one person (the driver), but a car can also contain multiple people. Likewise, every syllable contains minimally one mora, but it may contain two or even three. Certain phonological processes are dependent on syllable count and some are dependent on mora count; some are dependent on both. 
+
+It is standard to talk about the prosodic hierarchy, which is a theoretical construct that divides utterances into smaller, phonologically relevant constituents called phrases, which are in turn divided into smaller constituents called prosodic words, and so on. There is not an absolute consensus as to what the exact levels of the prosodic hierarchy are or even how many there are, and (as with many theoretical constructs in linguistics) slightly different models lend themselves to different languages. For example, the mora is a prosodic unit that is more motivated in some languages than in others. 
+
+Vowels + All Consonants except Plain Stops (Metropolitan New York English) 
+
+For an example of a process that is sensitive to both the syllable and the mora in Japanese, consider pitch accent assignment. In the "standard" Japanese dialect, a pitch accent is associated with the initial mora of a syllable. So with three-syllable words, there are three possible accent patterns for accented words--initial, medial, and final accent (of course words can be unaccented as well). It doesn't matter if the syllables are light or heavy. But if the accented syllable is heavy, the high "tone" (trying to stay pre-theoretical here) of the accent is constrained to associate with the initial mora of the accented syllable. 
+
+One final note: the term phonotactics is not directly relevant for the discussion of the phonetic realization of prosodic boundaries. Phonotactics is the branch of phonology that deals with what combinations of phonemes are permitted in a language. Sometimes the phonotactics of a language can interact with its prosody such that, say, certain consonant clusters are only able to appear across syllable boundaries. 
+
+I'd go with no.1 because you can find the following minimal pairs in English (RP): 
+
+The final draft is available here 
+
+There is no such "universal" definition - and if there were one, it would be useless. 
+
+Usually it is argued that proper nouns have an extension ("the class of things to which it is correctly applied", Lyons 1977) but, unlike common nouns, they lack an intension ("the set of essential properties which determines the applicability of the term", Lyons 1977). In other words, the extension of Dublin is a singleton (or there might be more elements in that set, if there is more than one Dublin). However, Dublin has no intension at all - there is no property of "Dublin-ness" that all Dublins would share. 
+
+Here's a screenshot of the relevant section from http://www.blackwellpublishing.com/shockey/ 
+
+Willy van Langendonck (2007) argues that a proper name has the following characteristics: 
+
+It denotes a unique entity at the level of established linguistic convention to make it psychosocially salient within a given basic level category [pragmatic]. 
+
+cf. Berwick 1998's observation that recursive generative capacity is an inherent property of Merge (p. 332). They are both concatenative (or combinatorial) operations; however, Merge involves hierarchy. 
+
+He searched for his keys all morning. iterative 
+
+Chomsky says that Merge is putting alpha and beta together. If you want to add gamma to it, then you add gamma to a object [alpha+beta]. The issue here is that for [alpha+beta] to be different from a mere sum of alpha and beta, some new property must arise, otherwise we’ll end up with iteration. What is this new property? 
+
+The last three categories are also known as "composites," as opposed to formulae (i.e. pragmatically autonomous utterances). 
+
+(my slightly incoherent ramblings on recursion, Merge, and embedding) 
+
+Nevins et al. argue that Merge is recursive because it can combine “lexical items and phrases” of any type (p. 367, n.11), cf. Zwart 2011 “[t]he operation Merge is standardly taken to be recursive in that the output of Merge may be subject to further operations Merge” (p. 116). 
+
+Juri Apresjan, a famous Russian lexicographer, uses the term "synonymic series," whose dominant is "a lexeme which has the most general meaning in the given series." For further details see Apresjan 2000, Systematic Lexicography. 
+
+lexical collocations (heavy rain); idioms (spill the beans); irreversible bi- and trinomials (bed and breakfast); similes (swear like a trooper); compounds (black hole); grammatical collocations (depend on); phrasal verbs (make out). textual phrasemes 
+
+I thought the following two passages nicely summarize current thinking on the phoneme in phonology: 
+
+For example, the dominant of the synonymic series "strong, stout, sturdy, stalwart, tough, tenacious" is strong. 
+
+Actually, it is a derivational cascade. I think it's Juan Uriagereka's terminology. Uriagereka 2005 writes that command units (or CU's, objects formed by the continuous application of Merge to the same object) are spelled-out at the end of each derivational cascade. The more common term in the Minimalist Program is a phase. 
+
+This is traditional phonology, not generative. 
+
+Iterative "signals that an action is repeated on a single occasion and differs from the habitual and frequentative, which both signal the repetition occurred on different occasions" (p. 160). Here are the two examples they use:

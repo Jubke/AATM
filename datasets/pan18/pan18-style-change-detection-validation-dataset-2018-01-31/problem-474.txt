@@ -1,0 +1,21 @@
+I'm keeping a consistent ~10% rejection rate on my suggested edits (not that I agree with some of these rejections): Any advice much appreciated! Trying to chat is very difficult with constant timeouts. The long and short of it is that I'm getting major packet loss only on chat.stackoverflow.com. 
+
+I have reviewed 950 suggested edits, but when I expanded the Reviewer Stats on an edit I reviewed, I see that I've approved 524 edits and rejected 326 - a total of 850, not 950. Just click the upvote button again to undo: I've been trying to diagnose the problem in the JavaScript chat room; the transcript is here (the messages from then on, between myself and @OctavianDamiean): Be quick though, after 5 minutes your vote will be locked in: https://api.stackexchange.com/docs/me-comments#order=desc&sort=votes&filter=default 
+
+http://api.stackoverflow.com/1.1/users/90691/comments?sort=votes Here's an API link (using version 1.1, I know): 
+
+If there is anything you can edit in the post, do so (unless it is too minor); this will lift the restriction (once your suggested edit is approved) 
+
+Has flagging recently been changed to allow more than one flag, is this a bug, or have I missed something? Is this a problem with Stack Exchange's servers, or with my ISP? I'm just wondering what the community average is, across all users on Stack Overflow? 
+
+Is it possible that I've had 100 audits? What could cause this discrepancy? 
+
+But my flag summary shows that I've managed to flag a question twice (I didn't realise I had): I thought one could only flag a post once, and that after that it should display: Example time. Let's say that 100 voters select candidate A as their first choice. Let's also say that the threshold is 25. At the end of the first round, candidate A is considered elected. Since the threshold is 25, candidate A only keeps 25/100, or a quarter, of the votes he got. But this doesn't mean that 75 of the people who voted for him transfer their votes to their second choice! The post was flagged as spam. I agreed. The link that supposedly went to a code sample actually went to a computer repair shop's website. 
+
+Thinking about it some more, it's possible that there was just a non-native speaker/language barrier issue and what the OP meant was that the code he was working on was in use at the target website. That would make it not-spam, but still not very useful. Looking again now. Finally, what happens when a vote is already on a voter's third choice, and it's time for redistribution? The remaining portion of that vote just gets thrown away, not counted towards any candidate. Any slivers of votes that get thrown away are still useful for one thing: they count towards "excess" in the threshold calculation. Say that your first choice was candidate A, your second choice was candidate B and your third choice was candidate C. Here's where your vote goes, assuming nobody you vote for gets eliminated: 
+
+The ratio of the threshold to the total number of votes a candidate gets is called the candidate's weight, or w. In the example above, wa is 25/100, or 1/4. 
+
+In short: when nobody gets elected and your vote is counting for the weakest candidate, your vote gets transferred to the next candidate on your priority list. 
+
+I don't consider this abuse. "fuction" -> "function" is definitely an improvement, and nothing spammy or offensive is being added. Things would be better, though, if the user in question would edit entire posts, rather than just fixing titles and ignoring other problems.

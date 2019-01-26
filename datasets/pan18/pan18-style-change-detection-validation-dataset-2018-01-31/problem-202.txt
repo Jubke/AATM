@@ -1,0 +1,29 @@
+The Shimano and SRAM hubs are both user serviceable, unlike the Rohloff, which should extend the useable life significantly also. 
+
+As for honey, masking tape, or adding a piece of tube, it would be very difficult to install them, honey would be more permanent by far than hairspray, and there are better alternatives. 
+
+There are several reasons why you might need to replace a rim or a wheel. 
+
+If it's a carbon frame, the seat post, and handle bar/stem interface get carbon friction paste instead of grease. and you should use a torque wrench to install the components. 
+
+Remove the weight. Measure again, in the same place. Subtract the first measurement from the second measurement. The difference should be between 5 and 12 millimeters. 10 millimeters is ideal. 
+
+Crash or impact damage is the most common. This can range from a tacoed rim, to flat spots or flare impacts. These are usually very visible. Spoke fatigue is a mileage issue. As a wheel is ridden, the constant tension and release of stress on the spokes will fatigue the metal until it breaks. You usually see breaks of several spokes in a short period of time. More than 3 spokes in a few weeks, or spokes breaking at the j-bend for little or no apparent cause are signs of this. Brake wear is caused by the use of a rim style brake over extended periods of time. You literally wear away enough of the metal on the sidewall of the rim that it becomes too thin to support the pressure of an inflated tire. This is rare, because a rim usually perishes from damage first, but it is dangerous, and should be replaced. There are indicator marks on newer rims to tell you this is happening. There is the possibility that the rim has become fatigued, or that there is small, non-visible damage from previous repairs that prevent the rim from being trued and tensioned evenly. This is most commonly the reason a wheel is replaced. When the rim is trued straight, measure the tension on the spokes (only on the drive side if it's a rear wheel) and if the wheel is round, and straight, but you can't make the tension at least reasonably even, then it will always come out of true quickly. This makes the maintenance load too high for most riders. It is a damaged rim, but in the least visible way. And last, if there is damage to the bearing races in the hub, then the wheel will roll rough and have more resistance than it should. The hub should be replaced. Of course, you can replace a hub, spokes, or the rim individually. If you replace the rim, you should replace the spokes. Why risk building fatigued parts into your new rim? And if you replace the hub, unless the wheel is very new, you should build with a new rim and spokes, for similar reasons. If you can do the work yourself, you will find it cost effective to build a wheel by hand, but if not, buying a replacement wheel (unless it is a high end hand built wheel) is usually more cost effective. 
+
+Their Bike Buddy case is sold either with or without tools included, and is a carry-on friendly, rolling hard case, with a pretty decent pit kit included in the "with tools" version. 
+
+It is a bit confusing to describe, but it is how it works. 
+
+As to measuring belt tension, the tool is your best option. If you own the bike, then you should own the tool. 
+
+EDIT 2: It actually appears that belt "alignment" issues are directly related to belt tension with the Gates Carbon Drive belts. If the tension is correct, they track well. If it is too low, they will track toward the frame. Too high tracks away from the frame. 
+
+Wheel centering - the wheel needs to be equally centered between the chainstays. This is a do it by eye and feel job, although you can gauge your success by measuring from the rim's brake surface to the inside surface of your chainstay, assuming your wheel is properly dished over your hub. 
+
+After parts started to get stuck, they realized that they need something, but it had to increase friction, rather than decrease it. Hence, carbon "grease" compounds. 
+
+There are a number of options, and this partly depends on how thorough a kit you need to carry with you. (i.e everything for every job, or a typical mechanic's pit kit) 
+
+Alternatively, use either a lock on grip, or a wire twist to secure a loose grip without lock ons. 
+
+Yes. Any local bike shop should have them in stock, and they should cost no more than 5 dollars. You need to know the brand and type of your chain. (i.e. Shimano 10 speed or Campag 11 speed) If you know the model (i.e. Ultegra or Dura Ace Shimano, that is a bonus.

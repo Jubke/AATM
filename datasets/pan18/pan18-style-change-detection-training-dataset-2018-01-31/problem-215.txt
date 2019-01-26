@@ -1,0 +1,33 @@
+Flat Magic Penetration stacks additively, so if you have both Haunting Guise (+15 MPen) and Sorcerer's Shoes (+15 MPen), you get 30 total magic penetration. 
+
+Summary Applying math, we find that when the enemy has at least 58 (or more precisely, 57.14) Magic Resistance, Void Staff is more effective in terms of penetration. When the enemy has 57 Magic Resistance or less, however, Abyssal Scepter is more effective. 
+
+In Ranked Premade, the person who invited everybody is Captain and picks first, and the rest are, according to several forum posts, ordered by a hidden Ranked Premade Elo based on wins/losses while in that specific queue. 
+
+Player Attack Only Click (default Ctrl+RMB): Unlike PMC and PAMC, this will not move you to a location. You must have your cursor over an enemy or neutral monster when pressing this. Upon doing so, your champion will move into auto-attack range and begin attacking. No targeting indicator is shown. 
+
+This depends on what you mean by "attack button." 
+
+Abyssal Scepter Abyssal Scepter provides a Unique Aura that reduces the MR of nearby enemies by 20. 
+
+*assuming that there are enough people in queue. If for some reason there are few summoners in queue, such as on low-activity servers, then it is very possible for this to not be the case. 
+
+For non-ranked Draft Pick games, pick order is not dependent at all upon individual normal MMR. Rather, each player has an equal chance to be first-pick, with captains of premade groups absorbing the chances of their group members. All picks but the first are randomised. 
+
+It is actually possible to access the main window and see your full chat history (since you logged in, anyway). 
+
+With these items and the Expanded Mind mastery, Ryze will have 3362 total Mana at level 18. Assuming a standard 9/0/21 AP mastery page, you'll have 98 AP. 
+
+Player Move Click (default RMB): This is the main moving key, bound by default to the right mouse button. This will move you to the location under your mouse cursor, unless you click on an enemy, in which case it will move you into range of them and then attack them. This results in a green targeting indicator (blue in colour-blind mode). 
+
+For the purposes of this analysis, I'll assume that you build Frozen Heart and Rod of Ages on Ryze, in addition to the Mana Charge item. This would cost 7900 to 8500 gold. (Another common Mana item built by Ryzes is Banshee's Veil, increasing the cost to 10400 to 11000 gold.) 
+
+Just as their names imply, Magic Penetration allows you to ignore a certain amount of Magic Resistance, whereas Magic Resistance Reduction reduces an enemy's Magic Resistance. 
+
+Flat Magic Resistance Reduction Percentage Magic Resistance Reduction Percentage Magic Penetration Flat Magic Penetration Abyssal Scepter vs. Void Staff For the purposes of this answer, I will assume that you're running Flat MPen marks (+0.87 MPen) and that you're taking the Arcane Knowledge mastery. This gives you 8% Percentage MPen and 7.83 Flat MPen. 
+
+Energy-based champions expend Energy, a secondary bar, to cast spells. Unlike Mana, total Energy and Energy regeneration cannot be increased by items aside from the Ichor of Illumination on Twisted Treeline, which, like the blue buff, increase only regeneration. They can, however, be increased by runes. Energy regenerates much more quickly than Mana, at a base rate of 10 Energy per second. Most Energy-based champions also have skills that allow them to partially recuperate the cost of a spell. 
+
+You can find the files yourself on your hard drive. 
+
+3.5 Balance Update: Now that Muramana does physical damage instead of magic damage, it becomes slightly less viable on Ryze, since it no longer benefits from any magic penetration. On the other hand, it allows for strong mixed damage from Ryze, which can be useful in AP-heavy team compositions.

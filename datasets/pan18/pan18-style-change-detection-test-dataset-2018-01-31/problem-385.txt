@@ -1,0 +1,23 @@
+Comments on deleted posts don't reliably notify the owner of the deleted post about their existence, depending on the exact timing the post owner might never be informed about that comment. There is an explicit exception for comments from moderators made in a short timeframe before deleting the post, this allows them to explain the deletion reason and have the user actually notified about it. 
+
+What would be useful for such cases would be if deleted comments would be shown somewhere in the user profile, the activity tab would IMHO be a good place for it. Additionally, the ability to filter out flagged comments, ideally also by flag reason (e.g. only comments flagged as offensive/rude) would be very useful. 
+
+We should encourage users to take a more active role in explaining our rules to new users, instead we discourage them by never notifying those users about comments from non-diamonds when a post is deleted. 
+
+I think that it would make more sense, and also be more consistent, if instead of close flags users below 3k reputation would have the ability to suggest closing a question analogous to the "suggest edit" feature. This would also put the question into the close review queue, but it would not put it into the moderator flag queue. 
+
+The core of this feature request is not new, the idea to not show the close flags to moderators (at least on SO) has already been discussed. But I think that also changing them from flags to suggestions makes it clearer what flags are actually meant for. By removing the part that the community can handle itself, the purpose of flags as a way to call a moderator is made more obvious. 
+
+This makes no sense at all, there is no reason to ever remigrate a question because remigration is not properly supported and it tends to break in all kinds of ways if you actually do it. It should not be possible to remigrate a question, even for moderators. 
+
+I always switch this setting off, as it prevents me from reading the older messages in chat. It is somewhat annoying though that I have to set it everytime I enter a new chat room. I'm usually browsing chat from my favorite rooms list and enter chat when I see that there are recent messages in there. This means I change rooms quite frequently, and every time the option is set back to default. 
+
+I propose to just redirect users to the duplicate automatically if the closed duplicate has zero answers. In that case they need to follow the link to the duplicate in any case, so we might as well redirect them to it in the first place. 
+
+In the moderator history there is a global flag count as well as a per-mod list of handled flags. I would expect the total flag count in the top left to be the sum of all the per-moderator flag counts. This is not the case, the per-mod flags add up to only about half of the total flag count. 
+
+Now, the users that flagged the post for moderator attention could have explained as well in a comment what the problem was with that post, this is not something you need a moderator for. But one problem with that is that the moderator deleting the post has to repeat that comment if they want to ensure that the user gets notified. If the post is community-deleted, I believe that no notification at all will happen. 
+
+To actually remove or edit the expression we need an SE employee. 
+
+I think the decay of the commitment score makes sense, if someone commits and then forgets about it, he is less likely to actually contribute to the site compared to someone who regularly checks on the proposal. But the current method leaves out commited users who regularly check on the status of a proposal, but don't recommit because they don't know about the score decay.

@@ -1,0 +1,61 @@
+Hopefully, code checkers like FindBugs and PMD will flag code like this as suspicious. 
+
+(Note: the above explanation is oversimplified. For a more accurate explanation, you need to look at the literature provided by the CPU manufacturer for assembly language coders and compiler writers. The Wikipedia page on Branch Predictors is good background.) 
+
+2 - I'm also excluding memory managers that use reference counting exclusively, but no current Java implementation uses that approach ... for good reason. 
+
+Easy. Ignore / don't participate in the flamewars, or simply refrain from mentioning Lombok. 
+
+This question is about the subset cases where it is safe. Specifically, what is that subset? 
+
+Your graphs tend to confirm what I said. 
+
+Java 7 and later Multiple-exception catches are supported, starting in Java 7. 
+
+Note that unlike C and C++, the order of evaluation of an expression in Java is totally specified and there is no room for platform-specific variation. Compilers are only allowed to reorder the operations if this does not change the result of executing the code from the perspective of the current thread. In this case, a compiler would be permitted to optimize away the entire statement because it can be proved that it is a no-op. 
+
+Note: the above explanation glosses over the fact that a typical modern GC partitions the heap into "spaces", the GC may dynamically expand the heap, the application's working set of non-garbage objects may vary and so on. Even so, the same basic principal applies across the board to all true garbage collectors2. It is inefficient to force the GC to run. 
+
+New Java programmers often encounter this message when they attempt to run a Java program: 
+
+The simple remedy for this would be to reinstall Java or Maven in a different location so that there isn't a space in the path 
+
+1 - .... unless you have made an insane choice for the name for your installation location. 
+
+EDIT 2: If anyone has done some benchmarking of the performance, or can point to some benchmarking results, that would be ideal. (Sorry, but the bounty has expired ...) 
+
+Now suppose that you do the following in a single-threaded application. 
+
+You mention these potential issues: 
+
+Make sure that the directory "E:\java resources\apache-maven-2.2.0\bin" is on your command search path. Make sure that the JAVA_HOME variable refers to the home directory for your Java installation. If you are executing Java from "E:\Sun\SDK\jdk\bin", then the JAVA_HOME variable needs to point to "E:\Sun\SDK\jdk". 
+
+I have a bunch of automatically generated JSON files that I want to store in version control. The problem is that each time the files are serialized, the attributes come out in a different order, making it hard to know if the files have really changed and / or what the real differences are. 
+
+Java thread creation is expensive because there is a fair bit of work involved: 
+
+2 - Apparently a common "voodoo" solution to Windows path problems is to whack a semicolon on the end. It is not recommended in general, absolutely does not work here. 
+
+In fact, the InetAddress API provides methods for testing for loopback, link local, site local, multicast and broadcast addresses. You can use these to sort out which of the IP addresses you get back is most appropriate. 
+
+"You need to unpack the Maven distribution. Don't unpack it in the middle of your source code; pick some location (with no spaces in the path!) and unpack it there." 
+
+It sounds like you've already decided that Project Lombok gives you significant technical advantages for your proposed new project. (To be clear from the start, I have no particular views on Project Lombok, one way or the other.) 
+
+From the Java Language Specification - 15.26.2 Compound Assignment Operators. 
+
+Here are some possible solutions. Which one is most correct depends on what exactly you are trying to do. 
+
+(If there are any Sun engineers reading this ... a definitive answer would be really appreciated.) 
+
+NB: JAVA_HOME should be a single directory name, not "PATH-like" list of directory names separated by semicolons. 
+
+That is their problem. Nobody in their right mind tries to rigidly apply their organization's source code / documentation rules to third-party open source software. The project team should be free to set project source code / documentation standards that are appropriate to the technology being used. 
+
+Java 6 and earlier Prior to Java 7, there are ways to handle this problem, but they tend to be inelegant, and to have limitations. 
+
+Of course, this assumes that you've got buy-in from the stakeholders ... including the developers. And it assumes that you are prepared to argue your cause, and appropriately handle the inevitable dissenting voices. 
+
+(The above assumes "native threads" rather than "green threads", but modern JVMs all use native threads for performance reasons. Green threads are possibly cheaper to create, but you pay for it in other areas.) 
+
+The connection timeout is the timeout in making the initial connection; i.e. completing the TCP connection handshake. The read timeout is the timeout on waiting to read data. Specifically, if the server fails to send a byte <timeout> seconds after the last byte, a read timeout error will be raised.

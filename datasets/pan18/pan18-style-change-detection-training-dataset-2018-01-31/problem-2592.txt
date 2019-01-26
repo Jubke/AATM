@@ -1,0 +1,17 @@
+It seems you don't understand the difference between Morphology and Phonology and therefore, the difference between morphemes and phonemes. 
+
+The basic definition for morpheme is basically this one: "the smallest element in a word or in a statement that carries meaning and that cannot be further split (into smaller parts)". 
+
+Yes there are borrowings. Like Aaron said, English (I'll take it as an example) has done it extensively. If you click on the "Example Greek and Latin Roots" link in this page, you'll see a lot of morphemes borrowed by English from Greek and Latin. Some examples can be: 
+
+Take the standard pronunciation of a word and its slang pronunciation. They differ, but the word won't change its meaning. 
+
+Prefix: The prefix in- in italian makes a verb out of a noun or an adjective; Root: The root carries the basic meaning of the word, in this case a verb; vipera in italian is a snake, the viper. Verb Ending: This tells us without ambiguity that it's a verb, belonging to the third conjugation (Italian has 3 infinite endings: -are, -ere, -ire. This one is the third one). Reflexive particle: This tells us that the action of the verb affects the subject itself. In other words, it's the subject that turns nasty, and not someone else because of the subject's action. This is what a morpheme is. There is still a lot to say about it, but I think this is enough to give you a basic understanding. In English a morpheme is the -s for the third singular person of each verb. It tells you it's the "third person singular"; same goes with -ed which forms the past forms for the regular verbs in English. But what is a phoneme instead? 
+
+...and many more. (You can find more morphemes also in the wikipedia page that I linked when answering to the question that hippietrail linked.) 
+
+Take for example this word in italian : 
+
+I kept it fairly simple and standard without going into details, but I hope it helps you give a better grasp. Just remember that it doesn't end here, if you want to go further, check the links for phonemes and morphemes. 
+
+I don't think that the -u has a particular meaning in Romanian, unless in Rumanian it works to signal a particular ending, such as the masculine ending, but there's no mention about this ending on the article for Romanian grammar. Rather, I'd say it's simply what "survived" from the Latin endings (e.g. -us, -um). I tried to look for some resources but didn't find much. In any case I think you could look at The Romance Languages by Martin Harris, or The Romance Languages by Rebecca Posner.

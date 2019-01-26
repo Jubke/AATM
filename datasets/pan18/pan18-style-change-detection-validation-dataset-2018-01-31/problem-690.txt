@@ -1,0 +1,63 @@
+So, you can do any of the following: 
+
+If you implement the member functions and the ADL functions, though, then range-based for loops should call the member functions, whereas mere mortals will call the ADL functions. Best make sure they do the same thing in that case! 
+
+Since "readability" is not objectively defined[*], and furthermore it varies by reader, you have a responsibility as the author/editor of a piece of code that cannot be wholly satisfied by a style guide. Even to the extent that a style guide does specify norms, different people will prefer different norms and will tend to find anything unfamiliar to be "less readable". So the readability of a particular proposed style rule can often only be judged in the context of the other style rules in place. 
+
+Other languages (e.g. Java) go the whole way and completely define the order of expression side-effects, so there's definitely a case against C's approach. C++ just doesn't accept that case. 
+
+It's intentional, 9.4.2/4 says: 
+
+There are further examples in the article you link to. You generally use it when you need to pass a functor to some algorithm. You have a function or functor that almost does the job you want, but is more configurable (i.e. has more parameters) than the algorithm uses. So you bind arguments to some of the parameters, and leave the rest for the algorithm to fill in: 
+
+So from a theoretical standpoint, since circuits are obviously inherently parallel (unlike software), the only reason multiplication would be asymptotically slower is the constant factor in the front, not the asymptotic complexity. 
+
+Note: I'm passing the vector as my output buffer. I'm not copying the data from elsewhere. It's something like: 
+
+I used to be a C# programmer (I know C++ and Java too), but after learning D, I'd say that it would be the best language ever, if only its compiler was bug-free. Just look at these pages: 
+
+It depends on the context; otherwise it's ambiguous. See this example (modified except below): 
+
+Or, if it's not possible -- is there some other STL container that would avoid such needless work? Or must I end up making my own container? 
+
+I've posted this on the D newsgroup some months ago, but for some reason, the answer never really convinced me, so I thought I'd ask it here. 
+
+Avoid casts! Otherwise you'll break type safety and probably shoot yourself in the foot either then or later. (Issues can come up with calling conventions, random changes you don't notice, etc.) 
+
+I freak out whenever I open up any STL-related code from Visual Studio's implementation while debugging my code: 
+
+The grammar of D is apparently context-free. 
+
+The grammar of C++, however, isn't (even without macros). (Please read this carefully!) 
+
+Java: Iterators go through the items of a collection, like in C++. I'm not sure about "enumerators". 
+
+For the record, here's the same thing, but "properly formatted": 
+
+Multiplication in O(log n) depth is also done through parallelization, where every sum of 3 numbers is reduced to a sum of just 2 numbers in parallel, and the sums are done in some manner like the above. I won't explain it here, but you can find reading material on fast addition and multiplication by looking up "carry-lookahead" and "carry-save" addition. 
+
+The other common reason for init functions is a desire to avoid exceptions, but that's a pretty old-school programming style (and whether it's a good idea is a whole argument of its own). It has nothing to do with things that can't work in a constructor, rather to do with the fact that constructors can't return an error value if something fails. So to the extent that your colleagues have given you the real reasons, I suspect this isn't it. 
+
+More seriously, though, the reason is that the C++ compiler can't just reach into another translation unit and figure out how to use its symbols, in the way that javac can and does. The header file is needed to declare to the compiler what it can expect to be available at link time. 
+
+One historical reason for this code being UB is to allow compiler optimizations to move side-effects around anywhere between sequence points. The fewer sequence points, the more potential opportunities to optimize but the more confused programmers. If the code says: 
+
+In C99, it is defined as "an unsigned integer type with the property that any valid pointer to void can be converted to this type, then converted back to pointer to void, and the result will compare equal to the original pointer". 
+
+The answer is that C++ doesn't "need" this. If you mark everything inline (which is automatic anyway for member functions defined in a class definition), then there is no need for the separation. You can just define everything in the header files. 
+
+Also beware that many examples raised in these discussions make it easier to tell that there's UB around than it is in general. This leads to people saying that it's "obvious" the behavior should be defined and the optimization forbidden. But consider: 
+
+So from a theoretical standpoint, since circuits are obviously inherently parallel (unlike software), the only reason multiplication would be asymptotically slower is the constant factor in the front, not the asymptotic complexity. 
+
+Avoid casts! Otherwise you'll break type safety and probably shoot yourself in the foot either then or later. (Issues can come up with calling conventions, random changes you don't notice, etc.) 
+
+Or, if it's not possible -- is there some other STL container that would avoid such needless work? Or must I end up making my own container? 
+
+The solutions I can think of, below, are all undesirable, as they don't let me take advantage of the automatically-generated copy constructor: 
+
+Now granted, I know nothing (officially) about compilers, lexers, and parsers. All I know is from what I've learned on the web. And here is what (I believe) I have understood regarding context, in not-so-technical lingo: 
+
+I freak out whenever I open up any STL-related code from Visual Studio's implementation while debugging my code: 
+
+On C++11, however, I noticed that this results in a move of the right-hand side onto the left-hand side, which performs an element-wise move-assignment to each vector on the left-hand side. This in turn causes the vector to discard its old buffer, suddenly reducing its capacity to zero. Consequently, my application now slows down considerably due to excess heap allocations/deallocations.

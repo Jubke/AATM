@@ -1,0 +1,47 @@
+Always use a piece of dry cloth to clean the chain. 
+
+Regular lubrication will extend the chain's service life. Apply oil to the chain links rollers and allow to work in. 
+
+To remove mud or sand, use the bristle brush (which comes with every 120ml packing of KMC’s chain lube Pro), use light soapy warm water, if necessary. 
+
+You can do that (*) - you just need to make sure you don't push the pin out all the way before reinstalling it (else it becomes quite hard to put the pin back in). However, a quick link is easier to install and remove (**) the chain (also, carrying a few of them around make for easy emergency repairs), since you only have to use the chain tool to shorten the chain and not risk damage to the plates when re-attaching or not aligning the pin correctly when re-attaching (this is the most common cause of failure for a chain, especially on higher speed chains). Thus, re-installing the pin is more likely to weaken the chain vs a quick link (which doesn't have this problem). 
+
+If the chain is really dirty and difficult to clean, besides using a brush for the inside, try putting some solvent on a cloth and use it to clean the chain’s exterior. 
+
+The PG-1070 is a 10 speed cassette, so you just need a SRAM 10 speed chain (PC 1031, PC 1051, PC 1071, PC 1091, PC 1091R) [KMC also makes some SRAM compatible 10 speed chains if you choose to go that route, but the SRAM chains are reasonably priced and might work a bit more smoothly, so I don't see a point in going non-SRAM.] 
+
+So, it doesn't matter which one you buy in the long run -- the chain just has to be long enough to begin with (unless its a bike which needs a longer chain, like a tandem in which case you need to buy 2 chains and combine them). 
+
+It would be much simpler to change the front chainring, if you can find a magical combo that matches what you want for a gear. There are also "half links" available that allow you to tweak the chain by less than a full 1 inch link pair. 
+
+http://eehouse.org/fixin/fixmeup.php 
+
+Every new 9 spd chain I have bought came out of the box with 0.5% wear according to the Park CC2 chain checker. I replace my chains when they start to show any wear (i.e. 0.75 %), because chains are cheap and the rest of the drive train is not. 
+
+You can often get away with not replacing the chainrings when you replace a worn cassette, but if you really run it into the ground, you may have to replace at least the smaller chainring as well. In particular, the smallest rings on a triple can be quickly destroyed in just a few days of riding with a worn chain. 
+
+If you poke around on the web enough, you'll find a "magical" gear ratio calculator somewhere. You input the length from BB to dropout and it spits out the front/back combos that will work w/o a tensioner. 
+
+But this is all largely arguing in a vacuum. Set your bike up so that it shifts well, check the chain wear frequently and replace the chain when it starts to show signs of wear. Gears don't "wear" significantly until the chain starts to wear and elongate and increase stress on the gears. If you always have a "fresh" chain, your gear cluster will last a very long time, regardless of how the B-tension is adjusted. 
+
+It's cheap and is likely as good as anything else. 
+
+http://www.instructables.com/id/Lubricating-a-Bicycle-Chain-using-Paraffin/ 
+
+One of my bikes has had the same cassette since at least 2006, that cassette has over 10K km on it and it shifts like brand new with almost no signs of wear. I'd guess it's been through somewhere around 15 chains. I replace my chains as soon as they show any wear with the Park CC-2 chain gauge. ( New chains generally read 0.5, I replace them at 0.75) 
+
+Every measuring tool takes some practice and skill to get accurate measurements. 
+
+If you are using standard low end cassettes than you can get for $50, this kind of care may not be worth it. However, I have a custom cassette (14-30) that I cobbled together Sheldon Brown style, this would be relatively expensive and difficult to replace. 
+
+Always use a piece of dry cloth to clean the chain. 
+
+Dry lubes tend to be better than wet lubes in this regard, but they'll both quickly get your legs dirty. But dry lubes are normally not considered to be good for wet riding. 
+
+The differences in chains are highlighted on their product pages, usually some of the metals used on some of the plates or a bit of weight. They may also shape the plates slightly differently to aide shifting performance. SRAM recommends the PC 1091 or PC 1091R for Red group use, but you can use the others as well. 
+
+The PG-1070 is a 10 speed cassette, so you just need a SRAM 10 speed chain (PC 1031, PC 1051, PC 1071, PC 1091, PC 1091R) [KMC also makes some SRAM compatible 10 speed chains if you choose to go that route, but the SRAM chains are reasonably priced and might work a bit more smoothly, so I don't see a point in going non-SRAM.] 
+
+The links have rivets in them which are hard to push out without a chain tool (and other tools can weaken the chain leading to failure, especially with a cockamamie way like you're trying). Given that a cheap chain tool is 10-15 dollars it's a worthy investment relative to the cost of a replacement chain. 
+
+To remove mud or sand, use the bristle brush (which comes with every 120ml packing of KMC’s chain lube Pro), use light soapy warm water, if necessary.

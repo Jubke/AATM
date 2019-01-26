@@ -1,0 +1,47 @@
+the original rendering of their original non-Hungarian surname (Wigner, Neumann) 
+
+English cane would seem to share such an etymology. 
+
+Yes, en wise and de wissen share a root, but not as recently as Levenstein distance would suggest. 
+
+de weise is more directly cognate with en wise, whereas de wissen is directly cognate with en wit, which until recently was also a verb. 
+
+Other ideas: In Latin sacal meant Egyptian amber. Szakál is also the Hungarian name of the Săcal River in Transylvania. 
+
+According to ancestry.com, Sakal is a Jewish (Sephardic): occupational name for someone who polished wood, gems, metals, or armor, from Arabic ?saqqal ‘polisher’. Hungarian (Szakál): descriptive nickname from Hungarian szakál ‘beard’, Turkish sakal. 
+
+Your compound examples are mostly calques, usually from German into Slavic but in fact often ultimately from Latin or French or Italian into both German and Slavic, in the middle ages. 
+
+Pronunciation, including intonation, including stress, is a prime example of a potentially areal feature, rather than a feature that is losslessly passed down via language families. 
+
+A sound can simply be changed, as in the change from older English -th to modern -s in makes; alternatively, adjacent sounds can be swapped, as in iron, which apparently evolved from /(a)irən/ into /aɪə(r)n/ in modern pronunciation: the r and the schwa were swapped. 
+
+It just so happens that a Latin word **uncia* (apparently unattested but noted by Meyer-Lübke) for "finger joint" is mentioned in Meillet and Walde. It is mentioned under and apparently derived from uncus, "curved". Perhaps the root **un(i)(c)-* for "one" originated in this practice of counting by finger joint, where you have twelve finger joints in the right hand for the thumb to touch? 
+
+The Latin root of the English suffix -able is: 
+
+I don't know what happened to opse as a preposition in later Greek, but I'll take your word for it that it disappeared. It is certainly possible that one factor working against it was the existence of meta + acc. "after"; however, the latter is both older and far more frequent than opse "after", so then how do you explain the fact that meta allowed such a competitor to rise at all, and why did it decide to oust opse later rather than sooner? 
+
+Certainly, meta "after" may have been a factor, but this is likely to be a very complex matter. For starters, perhaps opse "after" was used in a different register? It was never very common anyway, I believe. 
+
+Latin semen comes from sero, "to sow", which in turn comes from the Proto-Indo-European *sē(i)-, "to sow". (The Latin r is from reduplication and rhotacism between vowels, in that order. The reduplication happened in Proto-Indo-European.) 
+
+If a uncia is related to uncus, then the precursor of unus "one" must be derived from uncia; but then this must have happened before the Italic and Germanic branches of Proto-Indo-European diverged, since the Germanic languages also have words for "one" based on this Proto-Indo-European precursor of unus. It seems unlikely that both uncus and uncia survived through the Proto-Gallo-Italic phase into Latin for so long and made it unscathed, especially considering that unus would still have had to drop its -k- sound! Therefore, if uncia "1/12" should be related to uncus "curved", it would have to be unrelated to unus/one; but the relation between unus and uncia appears to be undisputed, so it seems that uncus and uncia are not related. Perhaps there was some sort of folk etymology at work in the archaic age, where speakers or writers mixed up some of those words and their etymologies? 
+
+ὀ. τούτων "after these things", Philostr.VA6.10, cf. 4.18; 
+
+However, an uncia was also one twelfth of a pes, a foot, like the English word inch, no doubt related. I don't know whether the unit of length or the unit of weight (from which English ounce) was older, so I don't know which influenced which. 
+
+There were many duodecimal numeric systems in use around the Mediterranean, so it seems likely that the uncia was at some point equalled to the smallest "unit" in any duodecimal system. I believe duodecimal systems are ultimately related to sexagesimal systems (=5x12) as used in ancient Mesopotamia. There are more ways you can divide twelve into integers than, say, ten: you can divide twelve by 2, 3, 4, and 6, while ten can only be divided by 2 and 5, so twelve as a base was more useful in many simple physical transactions and quick calculations. Remnants of such a system in modern cultures are the way our hours and minutes are 60 times the smaller unit, and the way we use sexagesimal minutes and seconds in angles (360°=6x60). And of course the fact that we have twelve hours in a day. 
+
+You gave the example of Czech stress. Regular initial stress is a tendency in Europe in a contiguous area spanning Czechia, Slovakia, Hungary, and Vojvodina. (As you know, Hungarian is not a Slavic nor even an Indo-European language.) In Southern Serbia there is a transitional zone to Macedonian and Bulgarian, which are on the same dialect continuum but do not have initial stress. Similar is true in Eastern Slovakia and somewhere between Czech and Polish areas. 
+
+English cane would seem to share such an etymology. 
+
+some personal characteristic (Féher, Nagy) 
+
+See also: https://en.wiktionary.org/wiki/Category:Russian_terms_derived_from_Turkic_languages 
+
+the personal name of their father or ancestor (Ádám, Lázár, Benes) 
+
+We can see similarly haphazard interplay between German and Czech happening today with all the internationalisms and calques from English, like Schadesoftware and škodlivý software, and the occasional use of a cognate even when the meaning is confused, Seite and stránka (to mean page and site, even though both literally mean page), and other cases where Czech went its own way, for example the translations of download and upload.

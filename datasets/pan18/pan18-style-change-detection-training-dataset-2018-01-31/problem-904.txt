@@ -1,0 +1,23 @@
+Part of me wanted to tag this as a feature-request, because it would be nice, but I feel that if plans aren't already in place for this, then it isn't too wise to try and scramble it in. 
+
+However, the login being presented is not a new login, and is the same login used for his English Language & Usage Stack Exchange account. This has been confirmed to happen even with a clean cache and no potential confusion by the system that he is logging in with a different credential. 
+
+Are there plans for having the "Third Place" available by the time some of the sites are ready for the closed beta? Will we be able to use it for these site-detail casual discussions, allowing real-time deliberation on our subjects? 
+
+Community wiki isn't a tool for reputation denial. We originally had all these automatic triggers mostly to leverage existing systems to handle abuse situations. While it can be said that it "worked", it also very largely didn't work, and a lot of pain was had by people who had legitimate contributions or labored tirelessly on their posts only to be basically slapped in the face. 
+
+Contrast this with our visibility to deleted posts. We don't see them in the questions list, but we can view any profile page to see all deleted posts of a specific user. Yet even though this is automatic, it doesn't produce that much noise (aside from different "total questions and answers"). Part of it is because their context is more like a itemized data catalogue - you're searching through a list of items and they just comprise additional elements in that list. The other part is that there is no hint of importance or need to take action - the highlight just tells you the status without meaning to draw special attention. 
+
+We don't want bad flags to come in, nevermind in any sort of trend. Under your system, there is a period of time in which alternately flagging good and bad flags will result in an increase of weight over time. In fact, the more problematic a user's flags, the more lenient the system is in allowing them to make bad flags, to the point that you can actually make multiple bad flags and overcome them with one good flag. 
+
+I think this places too much weight on occasional points of time, and weakens the impact of trends. Trends are what are more important towards judgment, and single incidents rarely have a strong impact. 
+
+The blog post Putting the Community back in Wiki discusses the intent behind the change, why it was assessed, and the impact we hope for the change. This was, after all, not just a mechanical change, but a shift for the whole ideal of Community Wiki to remove its punitive usage. 
+
+A change has been pushed that will now require these badges to be in place, and will prohibit nominations from any who lack those badges yet still attempt to submit a nomination. Run on. 
+
+This has caused a lot of general, not-really-tag-worthy rooms to be stuck with tags, however pointless they may be. It would be better that we be able to remove all tags from a room if there is no reason to truly associate tags with the room. 
+
+Consequently, the overpenalty on a missed flag is harsh on people. Mechanically, things between 450 and 500 are so close that it's largely unimportant to the system. But for people, the thought that tripping up one day will mean your next 10 flags are considered "less important" than those of your former compatriots... it comes off as slightly unfair. We don't expect perfection of these users - all we want are great flags. 
+
+Regarding manual conversion. There's a lot of different idealogies across the network about this. Back in 2013 (it really is far enough that I can say that without feeling like I'm being weird), I ran a survey amongst moderators across the network to collect data about community wiki usage on their sites. The usage has certainly dwindled a lot in the past 2-3 years, but it still is strong and some sites are still making very strong use of it.

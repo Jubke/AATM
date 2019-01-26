@@ -1,0 +1,27 @@
+This is an iterative process. As you gain more information, solid or intuitive, on the population you can tweak your readless starting hand ranges accordingly. Your best bet is to sit down with a tool like Pokerstove or Equilab and craft some starting hand ranges that you think are reasonable. 
+
+It's important to keep in mind effective stack size as well. You can have 25% of the chips in play in a huge multi-table tournament, but strategy wise that's entirely irrelevant if everyone else at your table each has 2% of the chips in play. The effective stack size in that case is 2% of the chips in play. The other 23% of chips you have in your stack doesn't mean much. This results in a situation where you basically have to play like you have a 2% sized stack. If they're all short-stacked, so are you. 
+
+With a polarized range, your hand only contains strong hands and air (bluffs). This is an ideal range to have in most spots. Playing against an aggressive opponent who has a polarized range can be quite difficult at times. 
+
+What actions could I use to make it harder for my opponents to figure out what I'm calling, raising or folding with? Ah, now we're getting into the territory of balance and game theory optimal play. This has been quite a hot topic for some years now. 
+
+The main point here is that of information hiding. Each time you have to make a decision, there will be multiple actions you can take. Check, call, raise, check/raise, check/fold, check/call, etc. To make it harder for opponents to figure out what you're taking each action with, you need to split your ranges so that each action is balanced. If you ALWAYS slowplay strong value and just check/call, check/call, check/shove all the time, your opponent is obviously going to know that your check/raises on the flop are weak. As such, you'll be highly exploitable. 
+
+With a capped range, you have no strong hands. You only have bluffcatchers/air. Your range is extremely weak. 
+
+Continuing our previous example, this is why many good heads-up hyper-turbo regs split their button ranges in half when playing other regs. They limp and min-raise polarized ranges, making it unprofitable for their opponent to 3-bet shove very light whilst still playing 85%+ of all hands from the button. 
+
+There are generally three types of ranges: 
+
+When playing against recreationals, all you really have to think about is maximally exploiting your opponent so that you can maximize your profits. But if you are playing against a skilled, thinking opponent that is trying to do the exact same thing you are, things get far more complicated. 
+
+You shouldn't be choosing a starting hand because it's been X amount of time since the last time you played a hand. The primary goal in poker is to win chips. You achieve this goal by: 
+
+I hope I've answered your question enough to get you started with this. Balanced play and implementing principles derived from game theory optimal play so as to be less exploitable against other thinking players is quite a popular topic in poker and is actually quite complex. If you want to learn more about it, I'd suggest the following books: 
+
+Many people have an impression that because the chip leader at a table has the majority of the chips, they should be "bullying" the table. This isn't the best way to look at the situation. What a large stack gives you is more utility. The utility to outplay your opponents by having the full arsenal of poker moves at your disposal. If you were short stacked, you wouldn't have very many options. You'd likely have to either be going all-in or folding. So, yes, you should try to play more hands than you would be playing if you were short stacked so as to see more flops, thereby maximizing your skill advantage. 
+
+You value greatly when an opponent doesn't realize you've polarized your range to include only strong value and air since you've obviously greatly increased your expectation with said air hands (your bluffs). As such, it's entirely counter-productive to try and convince opponents you have a polarized hand range. 
+
+What kind of plays could I make to convince my opponents that I have a polarised hand range? You don't make plays to convince your opponents that you have a polarized hand range, you just polarize your hand range. If they fail to pick up on that, you've profited greatly.

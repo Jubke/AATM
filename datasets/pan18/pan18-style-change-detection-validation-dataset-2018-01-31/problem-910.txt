@@ -1,0 +1,33 @@
+Some believe that the question itself is logically flawed. Although "childish loophole" may not be the appropriate term, this is indeed an illogical product of the English language. 
+
+The Stanford Encyclopedia of Philosophy has an extensive article on category theory and its philosophical implications. On the significance of the theory, it says that: 
+
+The common argument at this point (very similar to, if not the same as, stoicfury's answer) is something along the lines of: 
+
+As presented, the answer is intuitively no: God necessarily being eternal, he cannot cease to exist. However, this implies that he is not omnipotent, and so your question is a variation of: 
+
+Thus, it's apparent that category theory is relevant to and has implications for both mathematics and philosophy, and is not just semantic. From the perspective of mathematics, category theory is very significant because "doing mathematics in a categorical framework is almost always radically different from doing it in a set-theoretical framework." 
+
+Note that, as others have argued, God's omnipotence need not mean his omniscience. However, since the main perceived paradox between God and free will arises from his omniscience, this will be assumed for this answer. 
+
+However, that is only if omnipotence is the sole premise. Conversely, you mentioned several premises to the definition of God, one of which seems particularly important. I think what renders the statement "God destroys himself" problematic is your following statement: 
+
+One relation that does hold though is the following: any inconsistent axiomatic system is complete, via explosion principle. 
+
+This thematic pluralism (and disunity) is not just due to the many approaches used to tackle given questions, but is a product of the very aim of informal logic, namely to develop assess and analyze arguments that occur in natural language discourse. Since natural language is used in vastly different contexts and in a variety of ways for a variety of aims, the studies tend to multiply and branch off in different directions. Researching 'the role of emotion in argument' may be vastly different when analyzing legal arguments of lawyers in front of a jury than when studying Euclid's diagrammatic reasoning. 
+
+The short answer (tl;dr) The relevant historical context to answer your question is the long quest of logic to provide foundations for all mathematics. Zermelo's axiomatic set theory displaced contenders like type theory and won the race early on, because logicians in this tradition developed metalogical tools (model theory, proof theory) to investigate axiom systems. Zermelo's contribution came around 1908 and, through the work of Fraenkel, Skolem and others in the mid 20s (before Gödel's completeness result), it quickly became the standard set theory we know today, Zermelo–Fraenkel set theory + Choice (ZFC) 
+
+The article provides a list of philosophical results following from category theory, such as: 
+
+The common argument at this point (very similar to, if not the same as, stoicfury's answer) is something along the lines of: 
+
+However, that is only if omnipotence is the sole premise. Conversely, you mentioned several premises to the definition of God, one of which seems particularly important. I think what renders the statement "God destroys himself" problematic is your following statement: 
+
+Thus, something omnipotent (and only omnipotent as a premise) should be able to destroy itself, because it has the power to do so, and would not cause any logical paradoxes in doing so. 
+
+And it also mentions that "category theory allowed for the development of methods that have changed and continue to change the face of mathematics." 
+
+Thus, it's apparent that category theory is relevant to and has implications for both mathematics and philosophy, and is not just semantic. From the perspective of mathematics, category theory is very significant because "doing mathematics in a categorical framework is almost always radically different from doing it in a set-theoretical framework." 
+
+It's not that an eternal God cannot destroy himself and therefore is not omnipotent, but that the proposition itself is logically impossible. Because your definition of God is one that must be eternal, it is logically absurd to ask if this God could destroy himself. It is akin to asking what the radius of a square is, or to apply the quadratic formula to a cubic function (as far as my education goes these are logically flawed).

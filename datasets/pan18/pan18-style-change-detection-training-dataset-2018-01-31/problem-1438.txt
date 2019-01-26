@@ -1,0 +1,55 @@
+The whole PHP script is being executed at once, not in iterations, as you probably picture this, thinking that PHP blocks are being executed server-side, then HTML blocks client-side, and then back to PHP blocks on the server side and so on. That's wrong. The whole PHP script is being executed on the server side, resulting with pure HTML in the browser. 
+
+I am still in doubts, how to accomplish this. Is there a straight and simple way to use PDO prepared statements to insert data? What form it should be? Query builder helper? Or insert query helper? What parameters it should take? 
+
+I browsed through several similar questions, but they all only state the fact: 
+
+When I run this code with intended error 
+
+So, there is a question - what I have to destroy or close to keep memory consumption level? 
+
+php-fpm 5.2.11 Linux version 2.6.35.6-48.fc14.i686 (mockbuild@x86-18.phx2.fedoraproject.org) 
+
+Premature optimization is the root of all evil - D.Knuth. 
+
+As for the big HTML tables, it take a long time for the browser to render it. Much more than you took to generate. 
+
+But I thought for years that query and data being sent to the server separately and never interfere. Thus I have some questions (though I doubt anyone got an answer...) 
+
+However, I still hope it can be done and may be someone even have a solution at hand. 
+
+It is not really an issue as no proper usage could be spoiled by this error, but it pollutes the error log when some diligent bot is visiting the site and it's just untidy. So, I'd like to know which configuration option I can change to get rid of this error. 
+
+While "programming" is WAY more important than "PHP", to be a PHP professional, one should be a programmer in the first place. 
+
+For my DBAL I need to parse supplied SQL [mysql dialect, specifically] string to find all the placeholders. 
+
+Finally, process registration and check, 
+
+The easiest way is not to register unverified users at all. 
+
+I gotta ask if anyone willing to share a similar function, utilizing PDO prepared statements feature? 
+
+Learn to profile before asking performance questions. And learn not to ask performance questions if there is no real reasons for it. 
+
+Where does it get such a familiar string representation - quoted and escaped? Is it being made especially to report an error or is it a part of actual query? How does it work in real? Does it substitute a placeholder with data or not? Is there a way to get whole query, not only little bit of it, for debugging purposes? Update 
+
+Note that you have to be able to see PHP errors in general. And here indeed goes the matter of different environments: 
+
+PDO is not good with such things. You need to create a string with question marks dynamically and insert into query. 
+
+I have a very simple helper function to produce SET statement for traditional plain mysql driver usage: 
+
+To send query and data separately. This is most preferred way as it can be shortened to just "use binding". All strings, numbers and LIMIT parameters can be bound - no worry at all. Using this method, your query with placeholders being sent to database as is, and bound data being sent in separate packets, so, it cannot interfere. It is just like code and data separation. You send your program (query itself) separated from the data. 
+
+You're putting too much meaning in the php code blocks. It's not something that global. These blocks belong to the same PHP script. It's just a neat way to output HTML, nothing more. You can substitute it with echoing the HTML and there will not be the slightest difference. 
+
+That's why you can't program both an HTML form and its handler in the same PHP script by just placing the latter one right after first one. You will have to make another call to the server to make the handler work. It will be another call completely, another instance of the same script, while the previous one has been long dead - that's another thing you have to know about PHP: 
+
+PHP script execution is atomic. It's not like a desktop application constantly running in your browser, or even a daemon with persistent connection to your desktop application. It's more like a command-line utility - doing its job and exits. It runs discretely: 
+
+PLEASE READ THE QUESTION CAREFULLY. It is not usual silly "my code doesn't work!!!" question. 
+
+Ask them for an email address and send email with a link that contains this address sealed with a hash. Upon receiving this link you can start the registration process. 
+
+So, I'd vote for the last one - reading books. Not on PHP, but on the programming in general. Grady Booch's, Martin Fowler's and even the old Donald Knuth's ones. It would be also be nice to take a look at some other languages, like Java or Python. Not to switch to them, but to learn from them.

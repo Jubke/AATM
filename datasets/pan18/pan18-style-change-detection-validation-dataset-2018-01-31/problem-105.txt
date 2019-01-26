@@ -1,0 +1,11 @@
+Basically supports are enablers for the carry. The support will ward to prevent ganks, and depending on the lane matchup either help harass the enemy or play defensively. Of course each support has different strengths and weaknesses so these are just general things most if not all supports would do. Some supports can be played both offensively and defensively, but it depends on which champions are being played and what they can do. If both lanes are playing defensive then yes it can get stale. You might look to start a fight if possible, otherwise just hang around and let your carry farm up. According the the wiki page for the Rift Scuttler: You didn't say who the other team's jungler was but what could have happened is this. Mundo helps their jungle steal your blue (Lee generally starts red and they took advantage of that) then he helped leash the enemy red after. Those camps should be enough to get both Mundo and the jungler to level 2 
+
+Ever since the preseason changes to support items I tend to find myself having a large amount of gold. Since I'm not used to this amount of gold as support I was wondering what I could use it best on. Any items or champion abilities that apply Grievous Wounds will add the same heal reduction effect as well to their target. 
+
+Sure lore-wise Rek'sai probably detects ground-based vibrations, but in-game there is no practical way to differentiate when a champion is either on the ground or in the air. For Tremor Sense the game only detects location, not ground based enemies. The Wiki page for Ignite states: 
+
+What do I spend the rest of this gold on most effectively? 
+
+The A key, as you might know, targets the closest enemy minion, monster or champion for an auto attack. The Tilde key, when held down, allows you to only target champions with an auto attack,and works with any targeted spells as well. Useful for tower dives or champions standing in a group of minions or jungle camps. 
+
+I tested this with Lux since she has a root and a slow. Slows also do not apply those debuffs, but roots will as they stop the crab from moving. I did this test at level 3

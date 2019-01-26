@@ -1,0 +1,17 @@
+Sprint Planning: Sprint Planning then becomes the final fail safe and the detail planning session for the sprint. The stories are all "Ready" so there should be minimal discussion of What and Why the story is being built and focus would be on "How" it will be built. 
+
+And just read this excellent and timely blog on the Sprint Review. Some good pointers. http://www.romanpichler.com/blog/sprint-review-tips-for-product-owners/ Advanced Team Tip: Don't over estimate. - It is better to be a little under on your commit then over. Because you have a well groomed backlog, with "Ready" and estimated stories, then if you complete all your committed stories you can just reach to the top of the backlog. Of course the key here is that you've done all the work in the Backlog Refinement. Awesome for you. The retrospective can be one of the most fun and informative "ceremonies" of agile. 
+
+1- Decompose: You need to take your higher level, less detail stories and decompose them down. An Epic is almost always many user stories. This is a classic story splitting exercise and I recommend starting a new question if you want tips on this. I've know of two models for trying to get the product management org involved. 2- Refine Stories: I've taken to use the term "Definition of Ready" for this. Where "Definition of Done" defines if a story meets the technical and business goals of a story, "Ready" indicates that the story has all the data a development team needs to execute on the story. There should be a clear and written definition of this. 
+
+So once you get the book, Diana is going to recommended never falling into a rut and tailoring your retros based on what is the needed to be focused on, or to take the team into a new direction. 
+
+The second is a constant challenge. However, without the stakeholder feedback, you can easily fall back into the Waterfall trap of "That's not what I asked for" when they finally see the product. Instead of not holding the meeting, try adjusting when and how you hold it. Maybe go for every other sprint or try a science fair type model. 
+
+Retrospective Circle - Brain Storm On a white board draw a huge circle (3-4 feet across) and segment it into three sections. Label the sections "Less of", "Same As", "More of". 
+
+Dot Voting When done, give everyone 3-5 stickers. Explain Dot Voting to them. Make sure they know they can vote more than once for something. 
+
+Edit: I realize I was pretty general. Start with one small team or project and do a simple agile conversion. Nothing fancy, nothing extreme, just a simple scrum implementation. Show it works small scale, but make sure the pilot isn't going to be unscalable. Doing a pilot with advanced TDD and Continuous Integration won't scale easily to the whole company. KISS Pilot will be your best approach. 
+
+Make a plan with the team right there and then. Who, Does What, By When. Set dates, assign owners. Don't leave the meeting until a plan is in place. When the voting is done, look for the two to three things with the most dots, no matter the category. If any of these are outside the teams control, capture these to the side and grab another item that the team can control. You want 2-3 items the team can control.

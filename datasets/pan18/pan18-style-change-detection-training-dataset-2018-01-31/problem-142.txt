@@ -1,0 +1,41 @@
+Which means that if you had two identical weapons, dual-wielding would give you a 15% attack speed bonus. 
+
+Gets an additional 35% of the witch doctor's health 
+
+They have an inherent effect that limits the max damage they can take in a single hit to 10,000 * the % of damage that is not prevented by the witch doctor's armor and resistance 
+
+Prior to 1.04, magic find in a party was averaged between party members. So if you had a 4 person party, one had 40%, one had 20%, and the other two had none, everyone would have an effective magic find of 15% for their own drops. 
+
+The same thing applies to gold find bonuses and bonuses to XP. 
+
+Just for a different opinion, I would say DO NOT upgrade the blacksmith. Instead, look for rare auction house items with low buyouts that replace equipment that is weak for your level. 
+
+((Main Hand APS*1.15) + (Off-hand APS*1.15))*1/2 
+
+This has been completely changed for the 1.04 patch on 8/21/2012. 
+
+Eventually I'm sure that upgrading the blacksmith will be helpful. But the nature of this game means that there will be a ton of inflation going on. Items that sell for 1,000 now might sell for 10,000 in a month just because gold will be so much more plentiful. The cost of the blacksmith upgrades will remain fixed forever, so the "true cost" will continue to go down as inflation continues, and thus you're better off waiting to upgrade until you really need it. 
+
+As of the 1.04 patch on 8/21/2012, you can sort by time remaining by clicking on the column header in the table. 
+
+Here is an example of the new system from Blizzard 
+
+As of the 1.05 patch, the Blacksmith can now upgrade crafting reagents as well as tomes at a rate of 10:1. So 10 blue materials from Normal level will become 1 blue material from Nightmare level. The option is available under the Craft Weapons tab, under a section called "Crafting Materials". 
+
+For single player with a follower, you get your own value, plus 20% of the bonuses on your follower's gear. 
+
+As of the 1.04 patch on 8/21/2012, each party member gets their own magic find and gold find value applied to the items that drop for them. 
+
+So basically, you just get another roll on the monster's drop table. This could result in anything from gold, potion, a white item, on up to a legendary. 
+
+If you have a rune, it is always better to use it. Blizzard CMs have confirmed that there is no reason to choose not to rune a skill, it is merely an issue of what rune to use. Of course, you might still want to use a skill before you have unlocked any runes for it, since a non-runed skill can still be "better" that a different, runed skill. 
+
+Its worth pointing out that the bonus item only applies to normal monsters (and apparently not all of them). So you won't get extra drops from champions/rares/bosses. 
+
+They get an additional 35% of the witch doctor's health 
+
+Right now, almost everyone is spending their money on the blacksmith. This means that there is relatively little action in the auction house, and I've been able to find appropriately leveled rare items for my character for 1-2K gold. Not only is this way cheaper than upgrading the blacksmith repeatedly, but when I upgrade, I can sell this item to recoup most if not all of my cost, possibly even making a profit. 
+
+At level 60, gets an additional 50% of the witch doctor's health (for a total of 85%?) 
+
+In terms of your inventory and such, there is no such thing as the game "saving", updates are instantly applied to the server, so it isn't possible to lose anything. In terms of quests, there are frequent "checkpoints" throughout the game (usually about every 5-10 minutes). Anytime you stop playing, you will resume the quest from your last checkpoint the next time you start again. There is no way to force a quest save other than reaching one of these points.

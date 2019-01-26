@@ -1,0 +1,11 @@
+Having looked at this for a while, I can see how this is offensive in oh so many ways. For the sake of being constructive, how about a more neutral alternative: 
+
+Great, that's what you want. Now reading further, besides some unclear parts regarding your precise objective, I can't help but wonder what the problem is. What is your question? How far have you gotten towards what you want? What is missing? Why can't you create it? Or did you do so but got stuck somewhere? 
+
+To me "Please test this for me on an iPad" is not a proper question. Furthermore, the links in that (now deleted) question are the only evidence of a particular problem. These links would become invalid once the problem has been corrected. They would after all no longer demonstrate the issue at hand. 
+
+The general idea here would be that we help you to solve your own problem. That is, you do the work, we assist. So make it very clear where you are in this process and how we can help you out, without us having to do the actual work for you. 
+
+Don't target users with votes. It's as simple as that. By all means feel free to vote for content you happen upon, but anything that looks like you targeting a user with votes (up or down) can land both you and the user you target in hot water. Don't do it. You'll cause more trouble than it's worth. Even if you mean well, and the votes are deserved, there is no real way of distinguishing that from you voting blindly to provide the user with a significant amount of rep. 
+
+So now the question is, has the author of the answer gone overboard in his copying of your content? My view on that is that he hasn't. In the way I read his answer, and the history of his answer, he has taken your advice and (the various now deleted) comments to heart, and tried to address the issues pointed out by you (in the deleted comments) as best as he knew how. And that is fair game in my book.

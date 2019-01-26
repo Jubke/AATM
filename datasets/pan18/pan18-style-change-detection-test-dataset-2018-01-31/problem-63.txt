@@ -1,0 +1,21 @@
+EDIT: I know for the Gold auction house, there is no cooldown, but I was wondering if there was one for the RMAH. I don't want to put down cash to test this out, but I would also like to know how long I have to wait before reselling an item or trading it to a friend. 
+
+From the Blizzard Auction House FAQ: 
+
+Leoric's Signet, Cain's Fate (set bonus) both give bonuses to experience worded like this: 
+
+This does have some downsides, including that upgrades can feel a little sparse between the latter levels before cap (66-69). However, in this situation, we felt the benefits outweighed the detriments and it keeps the element of randomness that we feel is core to the Diablo experience. We want to ensure there is a chance to find an amazing top tier item the moment you ding 61 and get to hold on to it for hours if fortune smiles upon you, though that may mean it takes a little longer to find an upgrade for that particular slot. 
+
+Chance on hit to fear: Confirmed. Using Deadly Reach I saw two enemies get feared and run away. 
+
+Achievement "Points" are an arbitrary number by which you can measure your awesomeness. Nearly all achievements are worth 10 points, regardless of their difficulty. 
+
+My best advice is to keep moving. The attack moves pretty slow and if you see it coming, it's not too hard to dodge. But as you said, all too often you are distracted by other foes. So here are a few tips and tricks to deal with those pesky flies as a monk. 
+
+Or, if you prefer not to move your wrist, click, I, click to drop, I (open and close inventory). 
+
+So slow. I see that sprint was removed since Diablo 2, but is there any way to run faster (e.g., a run/walk toggle, a keyboard shortcut, a magic item perk, shrines, potions)? If so, what, and where can I get or do it? 
+
+It is more common than rare—I got it a few times during my later runs. When it spawns, it's in the center of The Battlefields. Take the Bridge of Korsikk waypoint backwards (or go Basion's Keep => The Arreat Gate forward) to get to The Battlefields. If you don't see the center formation, quit out and "Resume Game" to try again. You'll need to open the door to enter. This is what the spawn will look like, coming from The Arreat Gate (with the Bridge of Korsikk WP in the distance): 
+
+For each additional party member, monster health scales: +75% HP in Normal, +85% HP in Nightmare, +95% HP in Hell, +110% HP in Inferno.4 5 (The upcoming 1.0.4 patch changes this. Instead of scaling monster health buffs with difficulty, all difficulties get a flat +75% HP increase per each additional party member.6) There are no other party size buffs.

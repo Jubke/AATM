@@ -1,0 +1,55 @@
+Now - I can understand that even highly upvoted feature requests and bugs take time to be implemented, or might never get done. What I think you could improve is to communicate what your intentions are up front instead of having this stuff disappear in a black hole. 
+
+I find no fault in the current standard, as I don't see any valid reason to change it. 
+
+For example, we're looking at how many searches one makes before finding a page, and when they do, we want to track how search performed. While we could have done this through a 302 redirect, we decided that this solution would be cleaner and give users the best performance. 
+
+If someone likes unicorns should we allow others to insult unicorns in their profiles? What about spaghetti monsters? 
+
+It doesn't seem to have long-lasting value or to ask about a problem in a general enough way. It's very specific, because of the "no repeat" clause which adds no value - picking at random with no constraints is just as fair, so why would someone need to look for a more complicated version of something that already works? 
+
+Once we have established a baseline measurement, we'll be tweaking stuff and measuring objectively the effects of the tweaks. 
+
+It's a super simple question that shows no effort, nor it needs to be answered with an algorithm. Just pick a person somehow and redo if it's not acceptable. Unless we want to discuss how to generate random numbers, the rest of the answer is completely trivial. There's no need of an algorithm. 
+
+...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+What sites are there, similar to Stack Overflow, but in different languages? 
+
+There is a difference between pointing an insult to you personally, and pointing an insult to something you merely believe in, namely that in the latter case it's well within the boundaries of freedom of expression ("This idea blows goats") and not in the boundaries of personal attacks ("You blow goats"). 
+
+The outcome of the flagging decline policy should be to have at the same time: 
+
+Some examples: http://segmentfault.com/, http://entredesarrolladores.com/, https://teratail.com/... 
+
+So: yes with all you say, but can I equally ask SE staff to take care to at least acknowledge highly-upvoted, short, self-explanatory meta requests? 
+
+In fact, we believe so strongly that good candidates have a solid reputation of getting things done and that high-reputation point users are likely to be good candidates that we built a whole careers site dedicated to this. 
+
+The extra parameter allows us to fill in "Score" and "Rank" in the rows of type "Result Click". 
+
+Atheists find offensive any talk about the origin of the universe which is in contract with the scientific view. I, as an atheist, certainly find any such talk offensive, but I hold my breath constantly trying to respect everyone's right to be wrong. Should I be allowed to go around and delete such content as offensive? 
+
+So why did he do it then? Maybe for the badges (if he doesn't have them already), which I find highly unlikely looking at the user's reputation (not the site reputation, but the way we know him here on SE for his positive contributions). 
+
+We can only speculate why OP rolled back that edit, and why he is using his own server. Maybe he thinks it is cool to do so, I don't know. (I didn't include a link to the post because I don't want to point to him) 
+
+Thanks for listening to the community. I felt there was a huge resistance and that was primarily caused by not listening. So thanks for taking our opinion in consideration now. (I still don't agree, but at least we can have some influence on the outcome) 
+
+I am worried about the privacy and security implications. One can track users visiting that post by hosting the images. Is this something to worry about? And if so, how to handle this? 
+
+On the other hand, there are very many famous examples of awesome companies that use our reputation points-based profiles to recruit top developers, for example Facebook, Skype, Tumblr, Amazon, Moo, Coursera, etc. 
+
+It's a super simple question that shows no effort, nor it needs to be answered with an algorithm. Just pick a person somehow and redo if it's not acceptable. Unless we want to discuss how to generate random numbers, the rest of the answer is completely trivial. There's no need of an algorithm. 
+
+Now - I can understand that even highly upvoted feature requests and bugs take time to be implemented, or might never get done. What I think you could improve is to communicate what your intentions are up front instead of having this stuff disappear in a black hole. 
+
+Some examples: http://segmentfault.com/, http://entredesarrolladores.com/, https://teratail.com/... 
+
+For example, we're looking at how many searches one makes before finding a page, and when they do, we want to track how search performed. While we could have done this through a 302 redirect, we decided that this solution would be cleaner and give users the best performance. 
+
+What sites are there, similar to Stack Overflow, but in different languages? 
+
+Once we have established a baseline measurement, we'll be tweaking stuff and measuring objectively the effects of the tweaks. 
+
+It doesn't seem to have long-lasting value or to ask about a problem in a general enough way. It's very specific, because of the "no repeat" clause which adds no value - picking at random with no constraints is just as fair, so why would someone need to look for a more complicated version of something that already works?

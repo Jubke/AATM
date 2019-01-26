@@ -1,0 +1,49 @@
+Why do philosophical problems come about? 
+
+Now, if we are granting that we are in someone's ancestor simulation, it is certainly possible that we may run into certain limits "hardcoded" by various parameters of the simulation -- an example might be that there could be clauses in the simulation programming designed to identify civilizations that begin to develop the ability to simulate, and take some in-simulation action based on those events (which could include just about anything up to and including triggering the termination of the simulation, etc.) 
+
+Philosophy isn't a homogeneous discipline: there are philosophers who understood their work as empiricism, others who take it to be something pure and formal; some even argue that philosophy is both -- for instance, Deleuze sometimes describes his position as "transcendental empiricism." 
+
+My sense of the hypothesis is that basically it isn't falsifiable or empirical; there is an analytic dimension to Bostrom's analysis here that simply can't be validated in any experimental way. Hence I don't think it poses a significant problem for scientific realism. 
+
+Pierce reformulated this several years later (Peirce, 1905, from "Issues of Pragmaticism" in The Monist v. XV, n. 4, pp. 481-499, see p. 481 via Google Books and via Internet Archive): 
+
+We have been speaking about philosophy as pure critique, as this highest peak or moment of thought, "incapable" of hypocrisy for various reasons; but while it should be obvious not all that is called "philosophy" looks and feels exactly like this (since we are speaking about it at its best, its limits) -- it might be worth noting here as well that there are of course very different images of thought entirely. In this context it might be worth considering the state (or if you like "police") philosophy of Hegel, etc. 
+
+We have confidence in scientific theories, not unshakeable convictions in our knowledge of their certainty. 
+
+Philosophy seeks out mystifications of any origin in order to abolish them, does battle against reactive thinking every day generation after generation, and indeed is the most important bulwark against such base/vulgar thinking going as far as it would wish; it is only philosophy in the last instance that has the singular positive essence of critique which is capable of enjoining this battle, in this way. Although I feel like I should mention here that, despite their apparent enmity at times, philosophy has no greater friend than science in this war against received notions, and more generally, the spirit of servitude to established powers which the logic of reception of these mystifying notions implies, the belittling of humanity that these illusions betray as their spiritual content. 
+
+There's always been a distinction between and classification of the sciences. 
+
+For further discussions of this topic, see E. McMullin, "Philosophies of Nature," The New Scholasticism 43 (1969), 29-74; J. Compton, "Reinventing the Philosophy of Nature," The Review of Metaphysics 33 (1979), 3-28; E. McMullin, "Compton on the Philosophy of Nature," ibid., pp. 29-58; idem, "Is There a Philosophy of Nature?" Proceedings of the International Congress of Philosophy, Vienna, 1968, 4: 295-305. 
+
+Is the "New Essentialism" simply a return to Aristotelianism masked in new terminology, or is it a novel contribution to modern philosophy? 
+
+J. Weisheipl proposes a return to St. Thomas and St. Albert for "a unifying physical theory" that would include both the philosophy of nature and the empirical or experimental sciences. For Weisheipl these constitute one specific discipline, both materially and formally. However, he regards the sciences employing mathematical principles as really distinct from natural philosophy. See J. Weisheipl, The Development of Physical Theory in the Middle Ages; "The Relationship of Medieval Natural Philosophy to Modern Science: The Contribution of Thomas Aquinas to Its Understanding," in Science. Medicine and the Universities 1200-1550. Essays in Honor of Pearl Kibre (= Manuscripta 20 [1976]), pp. 181-196; idem, Introduction to The Dignity of Science. Studies in the Philosophy of Science Presented to William Humbert Kane OP (= The Thomist 24 [1961]). 
+
+{It would seem so because Zeus, for example, was as early explanation of lightening.} 
+
+Boethius, following Aristotle, said the "Speculative sciences may be divided into three kinds: physics, mathematics, and metaphysics.": 
+
+Hence, the only time which is not illusory, and which he regards as real, is the heterogeneous time, or succession, which accompanies the development of our conscious states. Such development is purely qualitative, and its parts can only be qualitatively, never quantitatively, distinguished, so that they are absolutely heterogeneous; for it is clear that all our psychic acts are unextended — it is impossible to have a yard of thought — and so if distinct their distinction can be qualitative only. 
+
+Here are the subsections of that chapter: 
+
+Those who uphold it must, to avoid contradiction, hold fallibalism as dogma. 
+
+Wolfgang Smith's Quantum Enigma (cf. his related article) discusses the relation between what he terms "corporeal bodies" (what we sense with our external senses) and "physical bodies" (what modern physics conceives, e.g., atoms). 
+
+This discussion of hylemorphism and modern science might help. 
+
+Mach was a positivist, so in a way it is strange that right before what I quoted, he mentioned Lagrange's "concise disposal of the problem" being "only possible to the practised mathematical perception." Yet, Lagrange's argument seems no different from Archimedes's. 
+
+For a good comparison between Aristotle and Archimedes, see pp. 11-15 of: 
+
+Are mythological stories scientific explanations? 
+
+b. That Heisenbergs Uncertainty principle applied to time & energy seems to imply creation of energy is a standard popular interpretation, however I find this problematic given just how important conservation principles are in physics. Its also rife with philosophical interpretational issues. Taking Heisenberg principle seriously as uncertainty (which is how it was originally thought up) means you cannot be certain as to what energy is available in that time-frame. To ask for conservation at all times means that quantum reality has definiteness - and it is not clear exactly how this happens, if at all - at least in traditional frameworks like the Copenhagen explanation or its modern update Consistent Histories. 
+
+What can it mean that the Number Theory is falsifiable? Certainly a tightly-focused question will either be true or false. More general conjectures & ideas will be true when enunciated as the mathematical landscape is seen and a new shape formed. For example the Langlands programme (higher dimensional representation theory). Significance through aesthetics & ethics seem the key theme. The serious intent (ethic) towards the good & beautiful (aesthetics) towards the reverance & delight of contemplation. Platonism in essence. 
+
+However, it seems to me that Poppers theory, which entitles science-hood by falsification doesn't apply to mathematics at all.

@@ -1,0 +1,17 @@
+If you have a 3 bb raise and a call in front from the bb you are getting 15:4 Against 2 you probably need to catch a set (8:1) on the flop or shut down. But you are likely to get sufficiently paid off. EV = -4 + 1/8(19) + fb 0 = -4 + 1/8(19) + fb 4 - 19/8 = fb = 1.6 You only need a min bet called (and a set of 9s to hold up) to get paid off 
+
+Even if villain was on a suited ace he might have checked the flop. Betting the turn if he had not bet the flop would have been wrong. On the nuts in position would hope you hit something on the river to get action. 
+
+Skipping GTO I just think it is a bad bluff. If Alec called the flop and turn he is calling the river. That king is a good card for him as he was already beat by AK. As Antonio Esfandiari says your story is not adding up. 
+
+My read is villain was happy to let you build the pot. You slowed down and villain put you on exactly the hand you had and wants to shut it down. You have 10 outs. 
+
+Slow play when there is little risk of being out drawn and stacks are a good size. Clearly it is easier to slow play in position. 
+
+High stakes tournament deep stacks Reinkemeier has Seiver covered but not by much 
+
+I am a mathematician and ran the numbers out of curiosity and for table strategy. 
+
+I would not bluff pre flop with air. If you are playing top 30% to 40% you are going to be playing a lot. Where you gamble is betting the flop when you don't hit unless it is a really bad board for you and could be in BB range. 
+
+I like : odds turn 4:1 turn plus river 2:1

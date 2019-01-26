@@ -1,0 +1,61 @@
+Reference: Oxford English Dictionary articles “east” and “easter”. 
+
+(By the way, Beekes reconstructs IE *h2ōui-o for “egg” and *h3ekw for “eye”.) 
+
+There are languages that have invented new words for "coffee", but in virtually all languages in the world the principal word for coffee derives from one or the other of the mentioned Arabic words. 
+
+If I may answer the second of your two interesting questions. As a rule, Aeolic, Doric and some other Greek dialects retain original /ā/ where Ionic and Attic have shifted it to η. This is a famous characteristic of Ionic/Attic. But I cannot think of any examples where Attic ω stands for η in other dialects. There might be examples, but it is certainly not a regular correspondence. 
+
+First of all I would like to say that these words are not cognates; they are loanwords. 
+
+The native Ethiopian word for “coffee” (the plant and the drink) is būn. In most Arabic dialects bunn is the berry and qahwa is the drink, but in the Yemen bunn is used both for the berry and the drink. The Dutch traders identified, by folk-etymology, Arabic bunn with Dutch boon “bean”, and it is for this reason that in English too we wrongly refer to “coffee beans”. Coffee is not made from beans but from the dried seeds of coffee berries. 
+
+References here: http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.66:2:87.LSJ 
+
+Here is an excellent scholarly discussion of the whole complex: 
+
+The French words for the cardinal points (nord, sud, est, ouest) are definitely borrowed from some Germanic language, presumably in connection with seafaring in the North Sea. (This answers the "why" part of your question). The supposition that they were borrowed specifically from Old English (and not, for example, from the Normans) is supported by the observation that French est has an /e/ vowel, like English and Frisian, while all the other Germanic languages have /o/ or /u/. The vowel in English “east” is explained by the assumption of a contamination with suffixed words like “easter”, with Germanic umlaut. 
+
+The “coffee” word comes from Arabic qahwa, originally the name for a sort of wine, but which the Yemeni coffee-drinkers transferred to their favourite tipple. It has been claimed, but never proved, that it has antecedents in one or the other of the languages of Ethiopia, but until proven otherwise, it is more likely that the Ethiopian names are borrowed from Arabic. Arabic qahwa was borrowed into Turkish as kahve, and from Turkish to Dutch koffie, French café etc. 
+
+The coffee plant is indigenous in the highlands of Ethiopia. It was transplanted to the Yemen in the 14th century (which is fairly recent), where the drink coffee became popular among Sufi circles, and was soon after exported to Istanbul, and hence to Europe. For a long time coffee was produced only in the Yemen and the Horn of Africa. 
+
+http://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/kahwa-COM_0418?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-2&s.q=kahwa 
+
+Actually, “autarky” and “autarchy” are two different words. The former means “self-sufficiency” and comes from the Greek arkein “to suffice”. The latter means “absolute rule” and comes from Greek arkhē “rule”. They are pronounced the same in English, but not in Greek. 
+
+I am not aware that the name (P)sappho has an accepted Greek etymology. In the absence of an etymology this all remains rather speculative. 
+
+It is true that šɛmɛn looks superficially like Latin semen, but the vowels of the former are the result of a specifically Hebrew development (Semitic qatl > Hebrew qɛtɛl; so-called segolisation). If you posit a proto-Semitic *šamn- the similarity with the Latin word becomes considerably less. 
+
+Both of these roots originally had an initial w-. horos “boundary” is from older worwos, as attested by Mycenaean wo-wo, and dialect forms like ορϝος. In the case of orgē “anger” we do not happen to have any attested Greek dialect forms with w-, but IE *uerg- is supported by zero-grade forms like Sanskrit ūrj- “strength”. 
+
+Here are the entries from DWDS: 
+
+Ei n. aus Schale, Eiweiß und Eigelb bestehendes Hühner-, Vogelei, ahd. (8. Jh.), mhd. asächs. mnl. nl. ei, mnd. ey, aengl. ǣg (engl. egg aus dem Anord.), anord. egg, schwed. ägg führen auf germ. *ajjam bzw. (wegen des r- Plurals im Aengl. und im Hd.) auf *ajjaz. Der anlautende Vokal kann auf eine schwundstufige Form (ie. ə) zurückgehen oder Kürzung des im Germ. zu ā gewordenen ie. ō sein, das sich in den Formen verwandter Sprachen findet, griech. ōón (ᾠόν), lat. ōvum, kymr. wy, aslaw. ajьce, russ. jajcó (яйцо). Als Ausgangsformen können für diese Sprachen im wesentlichen ie. *ōu̯i̯om, daraus gekürztes *ōi̯om, und wohl auch *ōu̯om angesetzt werden. Zweifellos besteht eine Verbindung zu ie. *əu̯ei- (oder *au̯(e)i- ?), *u̯(e)i- ‘Vogel’ in aind. vḗḥ, vī́ḥ, lat. avis ‘Vogel’, wahrscheinlich auch griech. aietós (αἰετός) ‘Adler’. Je nach Beurteilung des Ablautverhältnisses im Rahmen der ie. Wortbildung wäre danach Ei ursprünglich ‘das zum Vogel Gehörige’ oder der Vogel das ‘Eiertier’. Anders SCHINDLER in: Die Sprache 15 (1969) 166, der für seinen Ansatz ie. *ō-ə̯ui̯-óm ‘Ei’, eigentl. ‘das beim Vogel Befindliche’, von einer präpositionalen Verbindung (mit ie. *ō ‘nahe bei’, s. Ohnmacht) ausgeht. Schon früh wird ‘Vogelei’ auf die Eier anderer Tiere (Insekten, Reptilien, Fische) sowie allgemein auf die weibliche Keimzelle übertragen. – 
+
+For example, the -tion suffix comes from Latin, where it is inherited directly from PIE -ti̯om. It is a common combination of suffixes plus nominative ending of neuter/inanimate gender. Some examples of the reconstructed PIE words with that suffix: 
+
+e̯eĝherom lake (> russ. озеро) 
+
+So here is the account by Eustathius (although it seems he in turn refers to Arianos): 
+
+I want also to point out that English language has different words for visualized desires not connected with sleep, for example "reverie", "vision", "aspiration", "imagining", "desire", "infatuation", "idealization" etc. 
+
+Also take into account the root *per- meaning "first", "in front", "against" and Proto-Slavic perdъ "before, in front of" < PIE *per-dʰ-o. 
+
+This text is from: A dictionary of Greek and Roman biography and mythology, 1873 (ed. William Smith). 
+
+P.S. After making this post I found that de Vaan postulates the following: *dus 'into two > bad' 
+
+Cornish pemp and Latin quinque (five) 
+
+I wonder what is the etymology of the word sport. 
+
+Night, fight, and wight are all pronounced with a final /-aɪt/ in Modern English. Their < -ght > spelling reflects the Middle English pronunciations, which had a final /-ixt/. (The digraph < gh > in MidEng represented the sounds /x/ or /ç/, which were also variously spelled < h >, < ch >, < ȝ >.) 
+
+One thing to remember about English spelling is that for the most part it is "frozen", and reflects the Middle English pronunciation. Another thing to remember is that there has never been a standardized spelling for English, and individual judgment, errors, and a variety of dialects have played a large role in how words are spelled. So every question about English spelling has to be considered in light of these two major issues. 
+
+It appears to be a word in a Siouan language, though Chattaroy, WA was not founded until the early 1880's. 
+
+Bosworth's 18381 Dictionary of the Anglo-Saxon Language gives "buttor-fleoge, Plat. (Plat-dutch) Better-flege, Dut. Kil. (Dutch, from Kilian) Butor-vilege".

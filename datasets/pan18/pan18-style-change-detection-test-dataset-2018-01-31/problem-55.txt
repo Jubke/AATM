@@ -1,0 +1,31 @@
+If you're trying to compare just their attack damage (useful for casters that don't care about DPS as much as weapon "swing" damage), divide the end result on either weapon by the attacks per second on said weapon. To remove the gem mathematically, you would instead be multiplying the gem's average damage by the socketed weapon's attack/second, then subtract that number from the weapon. 
+
+I can hold Alt to show the items around me, but is there a way to keep this display on at all times? I try to collect everything to sell, use, or disenchant, so it shouldn't be a distraction. 
+
+Double Scoundrel After meeting the clone: 
+
+As mentioned, they follow you for a time as they did the first time, and only after where it would have asked "Do you want X to join your party" the second disappears. The brief bits of bonus dialogue are as follows: You do not need to paste an image into a graphics program (e.g. Paint) and save that, if you do, you will get nothing/garbage as you note. You rescue Kormac the Templar from cultists in the cathedral during the Act I quest Reign of the Black King. 
+
+35.08% reduction from armor, 23.49% from arcane resist... Talk to/interact with your "friends" before blindly giving them stuff. If they're level 1, don't give them stuff for their or their "other friend's" "level 59 Witch Doctor". If you're worried about giving away level 1-20 stuff, the opportunity cost of simply talking with your "friend" is vastly higher than grinding mobs in Hell/Inferno. If they are level 50-60 somehow (dubious, see above), don't blindly give them a ton of gear. Hopefully your friend would be offering other gear in return as they happen across it. He simply leaves when you start his quest at the waypoint. 
+
+Double Templar After releasing and talking with the "Warrior" For some boss fights where the vast majority of the time you're simply beating on a single big baddie, what are the most effective spells (and runes) for the Wizard to use? Such a build might not be the "best" as you're prone to dying, but it would be good to know where the top is as a baseline and perhaps build beefier from there. 
+
+It's pretty easy to blitz the early quests, but is there a way to just skip it entirely? Early in Act II, in the first half of Shadows in the Desert, you meet the Eirena the Enchantress who clears illusions away that hide cultists. Do not add people you do not know to your friends list. If they add you, contact them through some other means (e.g. SE chat room, IM, whatever) and tell them to put something identifiable in the message that is attached with the friend request (as an aside, I've probably rejected a half-dozen requests made because my name was on the GSE list and I didn't recognize them) or check their numeric identifier afterwards (right-click name, "View Profile"): As a helpful tip to avoid dying, when Diablo gets to really low hp (not sure of the exact %, but its less than 5%) in the final fight, he will stop attacking and simply sits there. 
+
+The three attacks each seem to do 1/3 of 140% weapon damage each, so your 5-hit combo is around 9.3% weapon damage per hit, which results in an extra 3 hits giving you another 28% damage. 
+
+Not sure if it matters, but I usually equip wands, so perhaps it's a wand attack? If it is a weapon auto-attack, is this a wand-specific attack or a wizard-specific attack? For example, if I equip a sword instead of a wand, will I start swinging my weapon instead of shooting dots? 
+
+I also tested this with on-hit effects by removing all equipment except a weapon with an amethyst in it (which steals life on hit), and found that during the course of a combo, I'd only heal 3 times. Some things I have noticed to back this theory up: EDIT: When I say DoT, I mean during the time that the spell is on a monster, and not a DoT affect that stays after the spell was finished casting. 
+
+[someting] 200k c/o going once The same goes for the different Acts in Inferno, what MP levels are equivalent between the different Acts. 
+
+Does the shrine of enlightenment increase the xp gained from: 
+
+WTS [something] 100k c/o pst with offers 
+
+What is the source for this preference of 1-handed weapons over 2-handed? 
+
+I equipped my DH with a 1-handed bows, then I wanted to equip a stronger 2-handed bow. When I hovered over the bow the game showed a -56.1 change in damage if equipped, however when I equipped it, my damage went from 439.4 to 452.77, so it's obvious that the "hover over tool tip" was wrong. 
+
+The set of skills (active & passive) that are chosen: I've seen several times that people offer goods for sale on the Diablo 3 trade chat and add the letters "co" or "c/o" what do they mean by it?

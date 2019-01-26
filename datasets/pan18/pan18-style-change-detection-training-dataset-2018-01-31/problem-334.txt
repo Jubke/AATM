@@ -1,0 +1,17 @@
+The idea here is that a frame is typically originally designed in a 56cm frame, or the equivalent median size for the "average size" rider. 
+
+Most modern bike parts have the torque printed on the clamping portion of the part as well, somewhere near the bolt/s that the torque is referring to. FYI, my mod was successful, but was very risky. I literally had to cut a large hole of a very specific shape and position in the BB shell. I also had to drill a hole through the pre-molded cable stop section at the head tube, as well as through the chainstay by the rear derailleur. 
+
+While torque specs do definitely still matter with steel and aluminum parts, they are not nearly as sensitive to it as carbon parts are. Really high quality manufacturers, like Storck bikes, for instance, use progressively shaped and manufactured tubing, which allows for the ride on the smallest frames and the largest frames to have the same ride characteristics of the median original design. There may be some older calipers where the bolt itself is too long, but a Ti/Carbon frame sounds pretty new for that. 
+
+This can result in small sizes having a harsher ride than the median, and large sizes having a softer feel, and slightly less power transfer. This is accentuated by the fact that most riders on a small frame have less weight and mass with which to flex the frame, and larger riders have more. The difference is usually in the length of the threaded insert that goes in the frame, and that the caliper bolt threads into. The Park Tool link provided by Daniel R. Hicks is an excellent resource for learning more detailed concepts about torque, as it relates to bicycles, and finding the exact values for a particular part. Movement, because a crack will flex if it's through the paint into the carbon, and you put pressure on the center of the crack, and time, because a crack will grow with time if it's more than paint. 
+
+I am not personally familiar with the manufacturing techniques of Pinarello bikes, but their unique frame and tubing shapes would indicate to me that they would need to design each size independently, which would give a consistent ride characteristic, regardless of size. 
+
+They come in 16mm and 22mm lengths. A steel frame would normally use the shorter 16mm version. See photos. 
+
+Pinarello is known for the stability of their ride, but also for having a heavier than average frame weight. A 56cm frame is typically around 1800 grams, while the Scott Foil or the Storck Fascenario 0.7 G2 are 1050 grams and 1200 grams respectively. 
+
+Have you ridden and been fitted on the bike you plan to buy? If not, do so first. (Full disclosure: I manage a shop which sells Storck. This is not an ad, but it is why I'm familiar with the topic.) ____________ 16mm _____________________________________________________ 22mm _________________________ It is more important that the ride characteristics match what you want from the bike, than how much it weighs, of course. 
+
+The inserts are available separately, and must be sized correctly for the frame. The holes needed to fit these parts and be very, very precisely placed in the frame. I was able to make a pattern out of paper and take very careful measurements From a Foil 10 frame. Without that ability, I would not have been confident enough to do this mod.

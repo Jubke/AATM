@@ -1,0 +1,67 @@
+While the destruction semantics of class objects are determined by destructors, the destruction of a scalar object is always a no-op. Specifically, destructing a pointer variable does not destroy the pointee. 
+
+Note that names for objects and references are always lvalues: 
+
+I just inserted print statements into the lambda, and yes, both functions perform short-circuiting. 
+
+Scoped objects automatic objects Automatic objects (commonly referred to as "local variables") are destructed, in reverse order of their definition, when control flow leaves the scope of their definition: 
+
+If a local reference is initialized with a prvalue expression, the lifetime of the temporary object is extended to the scope of the local reference, so you won't get a dangling reference: 
+
+base class subobjects and member subobjects When control flow leaves the destructor body of an object, its member subobjects (also known as its "data members") are destructed in reverse order of their definition. After that, its base class subobjects are destructed in reverse order of the base-specifier-list: 
+
+1: This is an extremely simplified model. The initialization details of static objects are actually much more complicated. 
+
+In the following text, I will distinguish between scoped objects, whose time of destruction is statically determined by their enclosing scope (functions, blocks, classes, expressions), and dynamic objects, whose exact time of destruction is generally not known until runtime. 
+
+array elements Array elements are destructed in descending order. If an exception is thrown during the construction of the n-th element, the elements n-1 to 0 are destructed before the exception is propagated. 
+
+This leads to one of the most important guidelines in C++: 
+
+Note that the destructor body is not responsible for destructing the data members themselves. You only need to write a destructor if a data member is a handle to a resource that needs to be released when the object is destructed (such as a file, a socket, a database connection, a mutex, or heap memory). 
+
+There are a few library-related incompatibilities where I don't exactly know the implications of, so I leave those for others to elaborate on. 
+
+I've done a turing machine in C++11. Features that C++11 adds are not significant for the turing machine indeed. It just provides for arbitrary length rule lists using variadic templates, instead of using perverse macro metaprogramming :). The names for the conditions are used to output a diagram on stdout. i've removed that code to keep the sample short. 
+
+(In the following, the striked-through things are stuff that does not apply anymore to C++11, but did apply to C++03. C++11 makes almost no differences anymore (if there are, they are just language lawyer differences which I can't recall).). 
+
+For reference, see 8.5.4/6 of n3225 
+
+Basic properties of smart pointers It's easy when you have properties that you can assign each smart pointer. There are three important properties. 
+
+If you agree with me on that the former way of initialization is nicer, what solutions can you think of? 
+
+The reason is, some of the people I have to program with just can't use "const", so in the end I get lots of warnings about that particular string literal abuse. I would like to ignore those thousands of warnings coming from their code, so I can concentrate on the mistakes in my own code and fix them. 
+
+Looks like it doesn't need to use loops 
+
+I have created a template as follows 
+
+I was wondering what use an rvalue reference member has 
+
+But no compiler warns me while it's an easy to diagnose mistake. Am I misinterpreting the wording? 
+
+unique_ptr is a smart pointer which owns an object exclusively. It's not in boost, but it will likely appear in the next C++ Standard. It's non-copyable but supports transfer-of-ownership. Some example code (next C++): 
+
+http://llvm.org/bugs/show_bug.cgi?id=14995 
+
+may be assumed by the implementation to terminate. [ Note: This is intended to allow compiler transfor- mations, such as removal of empty loops, even when termination cannot be proven. — end note ] 
+
+A valid C++ 2003 program that uses one of these special member functions in a context where the definition is not required (e.g., in an expresion that is not potentially evaluated) becomes ill-formed. 
+
+The weird thing is, if I take this out in a separate file and try to compile, GCC rejects it. I've double checked everything, including the compiler options used. 
+
+Yes, it is a non-type parameter. You can have several kinds of template parameters 
+
+So my second question: Now, why do the implementations say that the second template is more specialized? What point did i overlook? 
+
+Commonly, reads are more numerous, but writes are more important and performance-sensitive than reads. Readers must not starve writers. 
+
+For performance reasons, messages are buffered, and forwarding is done in a background task. That task fetches a chunk of messages from a queue, formats them all, and then passes them to the listeners via registered functions. Those listeners will filter messages, and will only write those to their sink that pass the filter criterion. 
+
+Templates are all about the compiler generating code at compile-time. Virtual functions are all about the run-time system figuring out which function to call at run-time. 
+
+This design is the outcome of an important paper by Tom Cargill, published in the 90s, that raised quite a few eyebrows back then. IIRC, in it Cargill showed that it is impossible to design an exception safe stack pop function. 
+
+Note: I am not interested whether a particular compiler does so. (I am interested in the one we use, and I can test easily with that.) I want to know what the standard has to say on this.

@@ -1,0 +1,21 @@
+Grenades are a ton of fun, so building around them isn't some crazy niche build or anything either - using a melee weapon limits your skill options in such a build somewhat, but it opens up your equipment options considerably, which is a fair tradeoff. 
+
+I also have an Amulet that reads Attack Speed Increased by 10%. When I equip this Amulet, the attack speed of both of my weapons increases by 10%. 
+
+Followers gain a 2.5x multiplier to base stats on items (Str, Dex, Int, Vitality). This is because they are only able to equip jewelry and weapons - in order for their stats to remain competitive with more difficult monsters, they need the boost. In addition, they contribute to the hero's Magic and Gold Find, as well as Bonus XP, but only at a 0.2 multiplier - so, if your follower doesn't need the additional power, you can use them as a way to stack some extra +loot items and benefit that way. 
+
+That said, early on stash capacity upgrades are an extremely inefficient use of your gold. You're better off making an additional character to act as a mule to hold on to that cool axe you want to give to your barbarian someday - it's slightly inconvenient to move stuff around, but compared to the inconvenience of raising 10,000 gold at this point in the game, it's definitely the better choice. 
+
+That said, if you are just 'browsing' alternative skills and would like to go back to the skill/rune combo you were using before, if you close the skill selection UI using the 'Cancel' button, your selected skills will not be changed and will retain your old rune selection. 
+
+As an example, let's take a look at this axe, which provides a useful test case because it doesn't have any elemental damage on it. (Elemental damage is handled slightly differently, and more importantly, is applied after the addition of damage from the Ruby, so you need to calculate it back out before evaluating most weapons. Note however that flat +Min/+Max modifiers are applied at the same time as a ruby, and can be simply aggregated). 
+
+Right now, crafting materials are selling for substantially less gold than all but the worst low level blue items. You'll get far better results selling your blue items and buying Essences from the AH. 
+
+It's a thorns effect. Every time you're hit by a melee attack, the offending servant of darkness will take X damage as a rebuke for daring to strike your most august personage. 
+
+Most Demon Hunters won't want to use a melee weapon, but if your skill load out supports it, or you have a really awesome 1H Sword that you want to tailor your build around, the option is there. 
+
+So, it's actually a lot more complicated than it first appears - it seems that the benefit of the Ruby is actually subject to a couple of bugs regarding how damage bonuses are calculated. The short version is that weapons with narrow damage ranges - which are usually slower, and lower level weapons - tend to receive a slightly larger benefit from rubies. This in turn is what has caused the vast majority of testing, which tends to be done with low level gems on level 15-20 weapons to be so inconclusive - the effect I'm about to describe basically washes out at higher levels. This is because the calculation is... strange. 
+
+The Stash is shared between all of your (non-hardcore) characters. Capacity upgrades are shared as well.

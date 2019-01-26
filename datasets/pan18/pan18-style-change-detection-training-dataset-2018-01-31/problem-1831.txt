@@ -1,0 +1,35 @@
+We can say that noumenon is the "limiting case" of a "thing" devoided of all "properties" (what we ascribe to it following our phenomenal experience). Consider this analogy: numbers are used to count "things". Thus, what is the number 0 ? What does it mean to count "no things" ? From a "conceptual" point of view, the empty set is quite simple . In Newton's early (around 1664) manuscript called Waste Book we can find some "conjectures" [see folio 10v : Axiomes & Propositions, 4 and 6] regarding the proportionality between force and change in quantity of motion produced. 
+
+The "things" posited as the source of those interactions is the noumenon: it is completely unknowable to humans. In Kantian philosophy, the unknowable noumenon is often linked to the unknowable "thing-in-itself" (Ding an sich). would be the "most natural" assumption to be tested experimentally in order to achieve a quantitative determination of force. 
+
+Having established its existence and basic property, the emptyset has a central role in the theory (see e.g. Von Neumann construction of the natural numbers). 
+
+Following your suggestion, we may say that "things" are known through their interactions with us; these interactions are the phenomena. But from the "machinery" of arithmetic (addition, multiplication, etc.) the "limiting case" of the number that "count no things at all" is uncontroversial (and very uselful indeed). 
+
+See : John Herivel, The Background to Newton's Principia : A Study of Newton's Dynamical Researches in the Years 1664-84 (1965). 
+
+A possible reference to check (but I've not read it) is Alain Badiou's ontology. 
+
+In the same way, having assumed the concept of set (a collection of things), we can easily imagine the "limiting case" of a set without elements; with the basic axioms for sets (specifically : the Extensionality axiom) we can prove that all empty sets are equals, and thus speak of the empty set. Speculative realism is a return to reality, to objects. It places the subject on the same level as the object. One could say it is a democratic gesture. But subjects have a self, one does not think of objects of having such. 
+
+In the first eight definitions he defines the following terms: 
+
+One might justify it, by saying were we to understand every thought a rational being has thought, and every desire he has felt, and every sensation that he has experienced then we can understand, or make sense of why and how he acts. It is the inversion of this axiom that Kant starts his Critique of Reason, calling it his 'Copernican Revolution' in recognition of its revolutionary epistemology. That is an object must conform to the idea. 
+
+So, In SHORT, I think you've misunderstood Ayer. His 'thing' should be substance. Kant is pointing this distinction out because he is contra Hume who explicitly denies the existence of substances but believes in attributes. One interesting aspect of Kants cultural influence is Asimovs three laws of robotics, and his zeroth law - by which he investigates various ethical dilemmas that the introduction of robots have in human society; these are I would suggest direct or indirectly influenced by the various formulas of Kants categorical imperative. But from the "machinery" of arithmetic (addition, multiplication, etc.) the "limiting case" of the number that "count no things at all" is uncontroversial (and very uselful indeed). Having established its existence and basic property, the emptyset has a central role in the theory (see e.g. Von Neumann construction of the natural numbers). See : John Herivel, The Background to Newton's Principia : A Study of Newton's Dynamical Researches in the Years 1664-84 (1965). A possible reference to check (but I've not read it) is Alain Badiou's ontology. would be the "most natural" assumption to be tested experimentally in order to achieve a quantitative determination of force. 
+
+From a "conceptual" point of view, the empty set is quite simple . We can say that noumenon is the "limiting case" of a "thing" devoided of all "properties" (what we ascribe to it following our phenomenal experience). 
+
+Following your suggestion, we may say that "things" are known through their interactions with us; these interactions are the phenomena. 
+
+Consider this analogy: numbers are used to count "things". Thus, what is the number 0 ? What does it mean to count "no things" ? 
+
+I do realise that its not good to mix & match philosophical traditions - one gets something close to bad fusion music but I think it is at least interesting to notice parallels: 
+
+Arrangements are objects: When one considers a molecule, an object, is an arrangement of atoms, also objects; then we generalise by supposing any arrangements of objects is also an object. 
+
+Of course, the absolute worth of humanity in Europe had been under-pinned by Christian Theology; and whilst this continues, a break in morality has occurred as acknowledged by Arendt and others; and this moment is usually indexed by Nietzsche, though of course it had led something of an underground life till then. 
+
+Thus also all geometrical principles, e.g. that in a triangle two sides together of a triangle are always greater than the third, are never derived from general concepts of line and triangle, but rather are derived from intuition, and indeed are derived with apodictic certainty. 
+
+This raises the possibility, given that Gauss is generally given the credit for discovering non-Euclidean geometry (though Bolyai and Lobachevsky published first) that he was directly influenced by Kantian concepts; this reading definitely goes against almost all secondary literature I've seen - for example Bardi himself repeats this, as does Deutsch; however when one actually turns to the primary literature and examines the section in question where Kant touches on concepts of space (The Transcendental Aesthetic - A25), one finds:

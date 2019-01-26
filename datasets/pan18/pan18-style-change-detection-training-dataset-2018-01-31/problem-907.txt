@@ -1,0 +1,47 @@
+We've sent our crack team of squirrel hunters to chase the rodents. We have sourced the finest hazelnuts as bait, and we'll all be donning faux-fur coats while we hunt them (although there is a minor disagreement over red vs grey, which turned ugly). 
+
+The important thing there is the deleted message immediately before it, which was: 
+
+Edit: this will be prevented in about 5 minutes; deleting the original message will also delete the subsequent message. 
+
+When we'd finished the impromptu bbq, we did some work to kick the misbehaving database server into shape. We think it is scared enough to behave now. 
+
+It looks like we started getting some database timeouts starting about 4 hours ago. Both the usual suspects were asleep at this time, so it wasn't something we actively changed. My working theory is squirrels in the data-centre. 
+
+By the way, does anyone know the best way to clear charcoal smoke out of a server room? 
+
+But I still think it is squirrels. 
+
+There may also be some legals to deal with... so I'm not 100% convinced it will happen, but interesting idea. It would be a good thing, I expect. 
+
+Once we've exhausted all squirrel-based theories (we have many - one involves using disk platters for an ad-hoc party), we'll give up and try profiling the database server. It might be that after all. 
+
+In addition; in my office some of the more popular image hosting sites are blocked by policy; so often I simply can't see posts with an image as a key part of the question. 
+
+The downside is the additional hosting/bandwidth costs... not sure how big that would be. 
+
+well, the good news is that we found some squirrels. Or at least, I think they were squirrels. You can get black squirrels, right? With thin wiry tails about the length of their body? Whatever; it turns out that black-squirrel is delicious when grilled. With ketchup, of course - you wouldn't eat black-squirrel without ketchup. 
+
+If we had an option on the /review page to filter the low quality posts to only those at 0 votes or lower, I think it would make the random groupings more effective in showing potential answers to be removed, as well as questions that may need help. 
+
+A lot of short but good answers are now popping up in the low quality posts tab's random groupings, which is making it harder to find true non-answers. Almost all of the upvoted answers that appear here are actual answers and should be left alone. Very few of the non-answers get voted up by anyone, because of their lack of content. 
+
+After going through posts in the /review page, one of the trends that I noticed was that very few non-answers were upvoted at all. Now that results are presented in random groupings if a query has more than a certain number of results, there isn't a way to sort these results by votes or by those which perform worst on the review algorithm. 
+
+I'm working on tag synonym support at the moment, the admin end is fairly straight forward, but the user experience is kind of misty for me. 
+
+I understand that currently there is no technical way to make the information relevant but technical problems can be solved, you can gather more information from employers. Having said that, the more serious problem is that it would seem that this information should be of no concern to me anyway (according to the careers philosophy), so why not simply take it away? 
+
+Rename the tag in the background, not display anything to the user. Disallow the save, suggest sql-server as an allowed tag and explain that sqlserver is not. Something else. Thoughts? 
+
+It's cluttering up my profile page. 
+
+What wording should we add to help eliminate this problem? 
+
+Clearly this is not intuitive or right so I made some adjustments. 
+
+After I invite a user to join careers I would like to check out their public profile. 
+
+This is what I just implemented, which may or may not have some gaps. 
+
+If we had separate pools we could tell people ... hey you are about to run out of answer votes, how about voting on some questions.

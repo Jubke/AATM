@@ -1,0 +1,49 @@
+Did she obstruct justice, Mr. Clay asked? 
+
+Presumably, these are all things that previous successful cases have turned on. 
+
+There are currently a number of states which permit same-sex marriage, and others which outright prohibit and refuse to recognize it. The latter laws are currently being challenged in courts all over the country, under the Windsor decision. 
+
+Similarly, the SCOTUSblog's educational resources section says: 
+
+The rule in question is part of Senate Rule XXII: 
+
+“It takes mishandling it and criminal intent,” Mr. Comey said. 
+
+To be clear, this is not to suggest that in similar circumstances, a person who engaged in this activity would face no consequences. To the contrary, those individuals are often subject to security or administrative sanctions. But that is not what we are deciding now. 
+
+Possibility 2: The Democrats objected to repurposing of 529 plans. As the Wikipedia article you linked to states, the original intent of a 529 plan was to help pay for college and other forms of higher education. The Republican tax plan expands this to assisting in paying for private/religious K-12 schools. This changes the purpose from "Keep studying after high school" (something Democrats like) to "Avoid public schools" (something Democrats dislike and Republicans like). 
+
+TL;DR There is no concrete answer to this question. Most likely, the VP would at least become Acting President for the duration of the term. If enough politicians really don't like that result, it would likely create a constitutional crisis, which would set new precedent, which might later be encoded into law. 
+
+If the President-elect doesn't take this oath, he is unable to execute his office. I don't think anyone disagrees with that. However, by my reading, his becoming President is not conditional upon taking the oath - only executing it. So what happens? 
+
+Taken together, this means that when a state passes an unconstitutional law, it is itself breaking the law (Article VI), and can be taken before a federal court (Article III) to be forced to change its course (you can't exactly arrest a state, after all). And the US Supreme Court (SCOTUS) determines what is unconstitutional. 
+
+This choice is made by the incoming Senate, but before the outgoing Vice President has left office. Presuming that A) The election is inconclusive and gets sent to Congress to resolve, and B) the incoming Senate is split 50-50 between parties (or at least votes that way), does the outgoing VP get to break the tie? 
+
+The only possible way to answer this is to quote more from the official text of Comey's press release. I've added my own emphasis, however. 
+
+This is how it played out. Specifically: 
+
+The Constitution (and the 14th amendment) specify Representatives are "apportioned among the several States", but it explicitly provide no direction for how they are to be chosen. All the states I'm aware of which are large enough to have more than one Representative divide themselves up into congressional districts, with one representative elected by each district. 
+
+From the full text, Title 1, section 101(a)(1): 
+
+Specifically, can a state pass a law saying that they will not issue same-sex marriage licenses, but will recognize those from other states? That would be the position of the dark grey color in the map on this wikipedia page (which currently has no states in that color). 
+
+However, assuming that the candidate refuses to do that, there's at least one logical flow which seems likely to be the path taken. And just as with Harrison and the succession of "His Accidency", John Tyler to the Presidency, new precedent would be set regardless of what happened. 
+
+Senator supports the measure, Senate is 50-49 without them. Senator supports the measure, Senate is 49-50 without them. Senator opposes the measure, Senate is 50-49 without them. Senator opposes the measure, Senate is 49-50 without them. TL;DR In other words, choosing not to vote can only make a difference if the VP and Senator agree, and can only result in making the Senator sad. There is no scenario where the Senator is better off by not voting. 
+
+In 2016, Alabama passed a law stating that write in ballots are not to be counted unless the total number of write-in votes is greater than the difference between the two leading candidates, and not until the week after the election is over. 
+
+In Windsor v. United States they held that laws defining marriage as between one man and one woman violate a homosexual's rights to equal liberty (specifically, to marry who they choose). Since these laws are now unconstitutional, and the US Constitution is the supreme law of the land, all state-level laws (and constitutional amendments) are now illegal, and thus they legally must be overturned. 
+
+Federal Inspectors General (IG) within each government agency have been established as independent and objective units tasked with combating waste, fraud, and abuse in their respective programs. When fraud is suspected, other government entities, such as the Federal Bureau of Investigation and the Financial Fraud Enforcement Task Force, may get involved. 
+
+The main reason I know of for a federal judge to step in when it comes to state laws is when those laws are unconstitutional. For instance, if a state passed a law, or even an amendment to its state constitution which permitted slavery, the federal judge could overturn it as a violation of the 13th amendment. 
+
+That last is what the "nuclear option" entails. The mechanics of the process are discussed on the Wikipedia page: 
+
+It's quite possible (albeit highly unusual) for every justice on the Court to write their own opinion for a case. Some will be individual dissents, and others will be concurring opinions, which usually indicate that the justice writing it either agrees with the decision, but not the reasons, or that they only agree with part of the decision. When there's less than a majority for one opinion, the one with the most justices is the "plurality opinion" of the Court, and actually determining what the Court's ruling means gets complicated.

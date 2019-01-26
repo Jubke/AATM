@@ -1,0 +1,27 @@
+Updating to the HTML5 doctype is not an option. The reason is provided in the flexbox specification: So Grid, which is the best CSS has to offer for building a horizontally-flowing masonry layout, falls short in this case. 
+
+I have an HTML form that uses hidden inputs to manage behavior in the PHP processing script. 
+
+In fact, until a CSS technology arrives with the ability to automatically close the gaps, CSS in general has no solution. Something like this would probably require reflowing the document, so I'm not sure how useful or efficient it would be. 
+
+Browser Tests. The form has been tested across all major browser both desktop and mobile versions. The form works perfectly across all browsers (including Firefox mobile), but fails to fully function in Firefox desktop (39.0) because the hidden input values are removed. 
+
+But since it wasn't mentioned in any of the posts I read, I'm wondering if I'm overlooking a potential problem. 
+
+Is it safe to just skip the doctype issue? 
+
+Considering all factors above, here's my suggested solution: source: http://masonry.desandro.com/ 
+
+Here are a few examples of how flex properties work: 
+
+The above layout is broken because only the first column should be yellow. Here's my question: How do I get the code to prevent submission of the form when the counter is a negative number? 10.2 The CSS user agent style sheet and presentational hints A solution I haven't seen is one I thought would be most simple: Just set a variable: My understanding (based on usage and observation) is that a table cell will, by default, occupy the full width of the column in which it lives. And the cell cannot be given a different width than the column if other cells exist in the column. 
+
+This means that a flex item cannot wrap under another item in the same row. 
+
+If, however, you want to use ellipsis on multiline text – as would be the case here – then don't expect to have any fun. CSS has no standard method for doing this, and the workarounds are hit and miss. That means the items (images, in this case) will cover the full height of the container. 
+
+This is why flexbox has a limited capacity for building grids. It's also a reason why the W3C has developed another CSS3 technology, Grid Layout. 
+
+My (Incomplete) Solution Working with third-party code I found through Google, I've devised a character counter that works perfectly in terms of the count. But being somewhat new to JS I haven't been able to code the enforcement part. 
+
+The source of your problem is not the content inside the flex item.

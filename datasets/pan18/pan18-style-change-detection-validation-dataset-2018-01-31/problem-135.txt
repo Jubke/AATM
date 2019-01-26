@@ -1,0 +1,63 @@
+Edit: As Josh Petrie mentions, Lucian Lachance also makes a reappearance, but as a conjured companion only, not a traditional NPC. 
+
+Important NPCs are invulnerable, like Oblivion. 
+
+The Dark Brotherhood, for instance, a player-joinable group of assassins-for-hire, returns in Skyrim, as do the Daedric Princes (or at least minor shrines devoted to them, manned by their followers.) 
+
+[Before Dawnguard, nothing beat Daedric except for daggers, where the Blade of Woe and Mehrunes' Razor beat it out in base damage (1 point) and lethality (chance of instant kill) respectively. 
+
+Because it takes place so far from the rest of the games in the series (both temporally and geographically), there are few characters or locations that are relevant to any of the past games. 
+
+You might also be interested in the 'Fence' perk in the Speech tree. 
+
+You're going to need access to a Fence if you want to sell your bucket-gotten gains. The Thieves guild provides access to them (after completing the 2nd quest). 
+
+You might want to double-check your wolf bites. Wolves have a chance of carrying "Rockjoint", a disease which decreases your melee damage dealt. NPCs use those responses for all diseases, not just Porphyric Hemophilia Sanguinare Vampiris (aka, Vampirism). 
+
+Information is a little sparse since the game has yet to release in most areas, but all 4 of the main guilds are making a return in one incarnation or another. 
+
+Conclusion: magical enchantments and poisons do not get multiplied. 
+
+204.53 - this is a sneak attack from my bow. I have the 3x sneak attack perk w/ bows. Our assumption is that magical enchantments do not get multiplied in. Indeed, subtracting the 15 fire damage, we get 97, which is about equal to 33 * 3 (the difference in 2 expected damage is probably because he's on fire; ideally, I'd have tested with frost or shock, but didn't have one of those on me) 
+
+Bard College and the Civil War quests are also fair game (though you do have to pick a side in the Civil War). 
+
+Unfortunately, Draugr usually live in the dark, and it can be very hard to find individual anythings in Skyrim, let alone in the dark crannies of its dungeons. 
+
+You might close off some smaller sidequests, but the folks necessary for the main story (for instance) have a tendency to be "incapacitated" from "killing" blows. 
+
+The formula for enchanting apparel is 
+
+It would be nice to hear from someone who does use them, but I remember looking at the math quickly and deciding against doing much with them. I'm revisiting that here with a bit more detail. 
+
+Background For some reason there aren't any formulas listed on the main Alchemy wiki pages at UESP or wikia, but there is one that I've seen come up a few times in my search that matches exactly what I've seen in-game: 
+
+(This) stone commemorates (the) villagers of doomed Vundeheim, burned alive by (the) Lightning of Unending Sorrow. 
+
+Daggers are indeed faster, although I can't find a reference on how much faster. Everything (enchantments, perks, etc.) considered, I don't think there is a huge difference, so it should come down more to style. 
+
+Armor is affected by a cap, so once you get above 567 (80% damage reduction) no amount of improvement matters. That's why weaker armors can effectively be the same as Daedric/Dragonplate/Dragonscale. Weapons have no such cap. 
+
+Math Just to think about the math for a second, I believe that gets me to 
+
+Bottom line If you don't plan to be seen often, I personally have stuck with daggers. My strategy for dealing with non-sneaking situations is falling back on magic. If you want more damage in face-to-face combat, of course, consider a sword, just keep in mind that the ideal equipment for sneaking is quite different than that for combat. 
+
+Head: Morokei - +100% magicka regen (note that you would have to replace this for Mage Armor perks to work) Ring: Ring of Peerless [School] - +25% fortify [school] - or - Ring of Recovery - +100% magicka regen Chest: Master Robes of [School] - +150% magicka regen, +22% fortify [school] Neck: Necklace of Peerless Magicka - +70 magicka (AFAICT necklaces can be enchanted with Fortify [School] but generally aren't found as such) 
+
+The more people like you, the more willing they are to let you "borrow" their stuff (and sell it back to them, in many cases). 
+
+Unfortunately, Draugr usually live in the dark, and it can be very hard to find individual anythings in Skyrim, let alone in the dark crannies of its dungeons. 
+
+Bard College and the Civil War quests are also fair game (though you do have to pick a side in the Civil War). 
+
+Nope! There's nothing preventing you from holding leadership positions in all 4 major guilds! (After you finish the respective questlines, that is) 
+
+You might close off some smaller sidequests, but the folks necessary for the main story (for instance) have a tendency to be "incapacitated" from "killing" blows. 
+
+So the good news: You're probably not accidentally a vampire. 
+
+The Dark Brotherhood, for instance, a player-joinable group of assassins-for-hire, returns in Skyrim, as do the Daedric Princes (or at least minor shrines devoted to them, manned by their followers.) 
+
+Important NPCs are invulnerable, like Oblivion. 
+
+204.53 - this is a sneak attack from my bow. I have the 3x sneak attack perk w/ bows. Our assumption is that magical enchantments do not get multiplied in. Indeed, subtracting the 15 fire damage, we get 97, which is about equal to 33 * 3 (the difference in 2 expected damage is probably because he's on fire; ideally, I'd have tested with frost or shock, but didn't have one of those on me)

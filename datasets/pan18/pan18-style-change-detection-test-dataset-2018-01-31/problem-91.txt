@@ -1,0 +1,15 @@
+Riven straight up does more damage in a shorter time, and is free to engage/disengage with her high mobility, so Aatrox cannot win an all-out melee battle with her. Aatrox relies on auto attacks for his damage, and he should not be auto-attacking you more than once in a trade because you can Q-auto-W-Q-auto-Q-auto, which both stuns and slams him while dealing high damage. 
+
+Unfortunately, that site only really covers usual lane combinations - it won't tell you which AD range carries counter bruisers. However, if you go my examples above you should be able to figure out if you will be able to lane against any champion they pick. 
+
+Simply put, Doran's items give the most bang for their buck. Their biggest disadvantage is that they cannot be built into better items and thus tie up an item slot, but that only becomes a problem 25 or more minutes into the game. All Doran's items are focused on sustain (lifesteal and regen), and getting early sustain is very important for getting gold and xp. 
+
+If you watch the video, you can see Leblanc jump forward with Distortion, granting her the Spellblade buff from Sheen. When she uses Sigil of Silence shortly after, the buff is refreshed. However, when she returns by re-activating Distortion, the buff is not refreshed. 
+
+No, the second cast of Distortion doesn't trigger Lich Bane to empower your next auto attack. 
+
+Guardian Angel is another option, but I find it rarely functions well in solo queue. Your team is usually not coordinated enough to guard your body effectively, so the revive is wasted. The only benefit of the revive is the 3 seconds of revive time that might disorganize the enemy team while they decide what to do. On the other hand, what Guardian Angel does provide is armor and MR, which scales with your base HP and any additional HP you've already built, but more importantly scales with the lifesteal that you will definitely build. Armor and MR increases effective HP, so every point of life that you lifesteal will be more effective the more armor and MR you have. Guardian Angel is not very gold efficient, but there are few options for building both armor and MR in a single item. 
+
+Also, make sure you are at least level 20 in time for the event so that you have access to the highest tier runes. Lower-level characters are not able to purchase higher tier runes in advance, although Riot has more recently released Tier 1.5 runes to cater to lower-level players. 
+
+Vayne has Tumble and Final Hour which makes her invisible while tumbling, meaning she can disappear from fights when she needs to. Also, Condemn can keep champions away from you. Singed has Mega Adhesive, but it can't reliably get him close to Vayne because she can simply Condemn him away. The cooldowns on these abilities are similar enough that Vayne is guaranteed safety. So, Vayne will be able to pound on Singed as much as she pleases with Singed having no hope of retaliation. Sounds good to me.

@@ -1,0 +1,33 @@
+This is the exclusive "or", which is much harder to show than the usual inclusive "or" found in (3). Binary choices are common in artificial environments (such as computers), but are more difficult to assert in cases where binary choices are not common. In the real world, it's harder to assert something like: either God exists or evil exists, but not both. It's not immediately clear that propositions in the form (4) are to be preferred over propositions of the form (3). Intuitively, we'd assume the reverse. 
+
+The idea that anyone could take on a different form than their own is nonsensical within Platonic thought2. A god attempting to become a man is the equivalent of attempting to "draw a circle that is square" as Cody Gray suggests in the comments to the question. But Paul is trying to express an idea about God that is completely novel: a god that has power to change even his own form. Elsewhere, Paul admits this concept of God appears foolish. 
+
+But (1) has nothing to say about (2) and vice versa, so you need to add another proposition. Perhaps: 
+
+Does this mean He is nonsensical? Not obviously. He may, of course, choose to be sensible to humanity. 
+
+Vinko Vrsalovic suggested about this paragraph that it's the same or equivalent to "It is inconsistent as seen from a logical framework." to quote Lennart Regebro's answer. I disagree. Consider this example: I have the power to jump off a high building, cut my wrists and crash my car into a wall at 100 MPH. But I don't do these things because I chose not to. Or suppose I had the ability to tread water forever. That doesn't mean I must always demonstrate that power. Or to put things another way, God has the power to break the rules of logic, but for whatever reason doesn't. Whatever his purposes may be, they do not include the need to make a stone he cannot move. 
+
+Classically, there is no difference. Identity is a two place predicate which has the value true if its arguments are numerically identical and false otherwise. One can write such a predicate as Identical(x,y) or one can write it as x=y. The latter is just 'syntactic sugar' that makes sentences easier to read, but it expresses the same thing. This is the way identity is employed in logic, in particular in predicate logic, and by extension in mathematics. 
+
+There are plenty of contexts (intensional contexts) in which identity relations appear to violate the indiscernibility of identicals. For example, "Mary knows that George Orwell wrote 1984" might be true, while "Mary knows that Eric Blair wrote 1984" might be false (even though George Orwell = Eric Blair). In general what this means is that while a given identity relation might correspond to a purely extensional equivalence in a particular logic, there might be a more expressive logic in which that identity relation is not extensional. 
+
+If you could show (1) is correct, then (2) is also correct via (3). But you can't prove (1) if (2) is correct unless you assert something like: 
+
+Since every mind will be disrupted by a unique set of interference, one solution to the problem of knowing if an explanation is rational or not is to submit it to a collection of minds in some public forum (such as this one!) where it can be analyzed. Presumably the consensus of many minds will eliminate the most common forms of bias. Problems with this approach are left as an exercise for the reader! 
+
+Does this mean He is nonsensical? Not obviously. He may, of course, choose to be sensible to humanity. 
+
+If you buy into inductive logic, flying horses do not exist because their is no evidence for them. We can never be 100% sure of that statement because a single counterexample would invalidate all other evidence, but we can be mostly certain which is good enough for most purposes. 
+
+But (1) has nothing to say about (2) and vice versa, so you need to add another proposition. Perhaps: 
+
+(4) Either A or B exists, but not both 
+
+The idea that anyone could take on a different form than their own is nonsensical within Platonic thought2. A god attempting to become a man is the equivalent of attempting to "draw a circle that is square" as Cody Gray suggests in the comments to the question. But Paul is trying to express an idea about God that is completely novel: a god that has power to change even his own form. Elsewhere, Paul admits this concept of God appears foolish. 
+
+Classically, there is no difference. Identity is a two place predicate which has the value true if its arguments are numerically identical and false otherwise. One can write such a predicate as Identical(x,y) or one can write it as x=y. The latter is just 'syntactic sugar' that makes sentences easier to read, but it expresses the same thing. This is the way identity is employed in logic, in particular in predicate logic, and by extension in mathematics. 
+
+Frege, Quine, Geach and Dummett are all worth studying on this subject. The SEP article on identity is a helpful introduction. 
+
+There are plenty of contexts (intensional contexts) in which identity relations appear to violate the indiscernibility of identicals. For example, "Mary knows that George Orwell wrote 1984" might be true, while "Mary knows that Eric Blair wrote 1984" might be false (even though George Orwell = Eric Blair). In general what this means is that while a given identity relation might correspond to a purely extensional equivalence in a particular logic, there might be a more expressive logic in which that identity relation is not extensional.

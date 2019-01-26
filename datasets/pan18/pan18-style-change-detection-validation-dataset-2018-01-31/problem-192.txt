@@ -1,0 +1,27 @@
+A single loose spoke will allow a wheel to detension, and come out of true. If you ride the wheel in the detensioned state for any length of time, you can damage the rim, and make it impossible to make the wheel perfectly straight, round, and strong again. 
+
+The difference in weight is there, but hasn't really been significant for the last few years. Scott, for instance, is building a complete, disc brake hardtail with a 4" travel fork. Bike weight: 7.45 Kg, or roughly 16 lbs. That's 2 lbs less than my road bike. 
+
+That said, a bad pothole, hit at any speed, will destroy the strongest wheel available. You need to learn to avoid obstacles like that, or ride them smoothly when avoidance isn't possible. Or you'll buy a lot of wheels. 
+
+The economy of scale in the USA and Europe means that it is often cheaper to buy a good prebuilt wheel than it is to have a handbuilt wheel made for you, even if they use the same parts. 
+
+I don't have the math to prove it, but I suspect the balance point between how thin the spokes would need to be to reduce the weight enough to offset the additional weight of more spokes, and the tensile strength those spokes would require to maintain the strength of the wheel without breaking would prevent any weight benefit from being gained, and I know that spokes thinner than 1.8mm have a far greater likelihood of breakage. The butted 2.0/1.5mm spokes which were popular in the late 90's for XC racing wheels proved that to me. 
+
+A break in "tune up" is normal and expected on a new wheel, after about 1 months riding, but it can come much faster for a heavy rider. If the wheel is ridden loose, the fatigue damage to the spokes can be permanent, and require rebuilding the wheels again. 
+
+Be friendly about it, and a good shop will likely fix it, if possible, without charging you. At the very least, you will get an idea of what kind of shop they are, and a real idea of it is repairable or needs to be replaced. 
+
+In this version, there were no hydraulics, but it would appear similar to a hydraulic press, or there could be more versions of them. There were lots of homemade ones, so there is also a possibility that it was a DIY version. I know a guy in Seattle who was working on a Arduino controlled version which was supposed to allow you to set a tension level. 
+
+So, there are several reasons which can cause spokes to break continually. Metal Fatigue is one, but it should take longer than that to be as serious a problem as it appears that you have. 
+
+The weight comparison only becomes truly significant when you look at more basic bicycles, i.e. the $600-1500 market, because the cost penalties for premium parts, like truly light weight disc brakes and hubs, don't allow use in that market. 
+
+I'll add that sometimes the problem is that the thickened portion of the tube near the valve has gotten caught between the tire bead and the rim. This will prevent the tire bead from seating on the rim hook properly in the vicinity of the valve. The solution is to completely deflate the tube, then press the valve most of the way in with your finger while you manipulate the tire in the area of the tube. This should cause the "captured" part of the tube to work loose. 
+
+Pretty much coaster brakes themselves are interchangeable. There is an arm that comes out of the hub and is attached to the chain stay to counteract the torque of the brake. Generally the attachment is made with a strap, so a little difference in arm length is not a problem. (If you have the rare frame where the arm is attached to a tab on the frame, though, you may want to check arm length.) 
+
+The important things are then: 
+
+It helps to know how the wheel got cocked up in the first place. If it was hit by a car then the odds of a bent rim are pretty high. If it "just happened" -- the wheel went out of alignment on its own -- then a bent rim is very unlikely (and a broken spoke is likely). If it happened in a "soft" fall -- eg, the wheel slid out from under you on loose gravel -- then a bent rim is possible but unlikely. It's more likely that some spokes were just stretched out. If it happened in a hard fall or when hitting an obstruction then a bent rim is more likely but far from certain.

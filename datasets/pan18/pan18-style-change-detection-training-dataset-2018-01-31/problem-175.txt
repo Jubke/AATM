@@ -1,0 +1,37 @@
+Player A gets an easy to defend base to start, Player B's base is in a pit surrounded by high ground. 
+
+Your units cost more food (or your supply units provide less pop)? this would be more "normal" than reducing the damage or HP of your units. So your buddy will still learn that X marines beat Y zealots, but you'd have less zealots. this would of course run the risk of your instincts getting confused when you switch back to regular games. 
+
+Player A gets some wacky unit like the Laser Drill from the campaign, whose damage or recharge rate or something else can be adjusted to make the difficulty even out. 
+
+Player B has a artificial cap on number of workers and/or food. 
+
+Player A gets a high yield base to start, Player B gets a base with only 1 gas. 
+
+If you have a 10 for Brain but a 1 for Speed (IE you know exactly what your opponent is thinking, but you can barely use a mouse), your total score is 10. If you are as dumb as a pile of bricks (Brain 1) but have great mouse skills (Speed 10), you might also have a score of 10. but a guy with moderate brains and fingers might have a score of 5 times 5 or 25, which would beat both of the extremely lopsided guys. 
+
+If you're willing to put some time into developing a custom map, here are some ideas: 
+
+Finally, note that if you watch a lot of vids and up your Brain score by 4 points to 9, you're a 9 times 5 or 45. If you instead watched some vids and practice some "Speed", you're now 7 times 7, or 49. In other words, try to balance out both strategy and execution. 
+
+Unit Production and Tech Tree While Terran Units may build similar to Protoss (from structures), the units are spread out over a larger number of structures. This often leads to Terran players going down one of three paths. Heavy Barracks units or heavy Factory units or an even mix between the two and Air units. While this may seem like a Heavy toll, the large unit diversity means that all three of these production strategies are valid. The resulting tech tree is also very wide which can either lead to amazing flexibility or an over specialized build. 
+
+The original research can be found in this paper: Worker Income Efficiency in Starcraft II By Chet 'Cheticus' V. The paper reports original data collection and methods, as well as the formula's uses for the 'least squares regression.' 
+
+This is also true for minerals as shown by this graph: 
+
+As you can see after your first 16 workers the gain per worker starts to decrease dramatically. As a result when you start an expansion you should shift any excess workers (over 16) to the new expansion. 
+
+UPDATE: OP wants to keep the lower skill player's game experience "normal" so they get meaningful practice. with that in mind: 
+
+If you're willing to put some time into developing a custom map, here are some ideas: 
+
+If you have a 10 for Brain but a 1 for Speed (IE you know exactly what your opponent is thinking, but you can barely use a mouse), your total score is 10. If you are as dumb as a pile of bricks (Brain 1) but have great mouse skills (Speed 10), you might also have a score of 10. but a guy with moderate brains and fingers might have a score of 5 times 5 or 25, which would beat both of the extremely lopsided guys. 
+
+I think the best way to imagine it is to imagine your total effectiveness as combination of the two attributes - you call them Speed and Brain. I think your total effectiveness is best modeled as Speed times Brain. Increasing either one is useful, but increasing only one is not as helpful as increasing both. 
+
+Roach Play An alternative to Speedling pressure off 3 Base, is to instead go for 2 Base Roach play. As I mentioned earlier you can easily saturate your 2 Base faster than he can saturate his, so you should be able to get a strong, early Roach ball going. I like to make a nice push around 7 Minutes. Chances are he won't have had time to put together a large army, as his second base will just be kicking in and he won't have recouped his earlier investment (bases take a long time to recoup). In this situation you can abuse the fact that Photon Cannons mean you can dictate the point of engagement. With a little Brinkmanship you should be able to catch his army out of position and snipe his Photon Cannons, or push into the Expo. 
+
+The original research can be found in this paper: Worker Income Efficiency in Starcraft II By Chet 'Cheticus' V. The paper reports original data collection and methods, as well as the formula's uses for the 'least squares regression.' 
+
+Taking a Third Going for a third is definitely a solid choice (see IdrA vs MC in group play at MLG). Because he's going to be investing heavily in infrastructure you don't have to worry about early game Harassment or some sort of 4 Gate timing push, meaning that third base will have kicked in before your first engagement. If for some reason he does try to push after the fast expand, you can expect a largely Zealot heavy force as he won't have had resources to invest in mining Gas. Regardless his force will not be strong because of that additional investment. As a Zerg you can saturate faster, so if you get down that third immediately, you should have it up and running around the time he gets his second going.

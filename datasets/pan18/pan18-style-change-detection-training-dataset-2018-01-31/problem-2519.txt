@@ -1,0 +1,35 @@
+Vowels + All Consonants except Aspirated Stops (Icelandic) 
+
+Due to the above facts, some consider it reasonable to adopt a synchronic analysis in which all surface occurrences of [tɕ] and [dʑ] are underlyingly /tʲ/ and /dʲ/, respectively, and all surface occurrences of [ɕ] and [ʑ] are underlyingly /sʲ/ and /tʲ/ (or even /sj/ and /tj/), respectively. 
+
+/s/ --> [ɕ] before [i], [s] elsewhere 
+
+This happens a lot in neutralizations and mergers. In languages with word-final devoicing, for example, maybe /d/ is realized as [t] word-finally but as [d] elsewhere. But /t/ would also be realized as [t] word-finally. If one encounters a [t] at the end of a word, one cannot be sure without additional information whether it is a realization of /t/ or /d/. 
+
+I am familiar with three main types of argument against the extreme exemplar view (i.e. the complete abandonment of rule-based approaches to grammar): 
+
+Generally, each presumed level in the prosodic hierarchy is motivated by the observation that certain phonological processes (some may be prosodic in nature and others may be segmental) are associated with that constituent. For example, in standard Japanese there is a prosodic constituent called the accentual phrase, in which only one accented syllable may occur. If multiple words that are lexically accented are combined into a single accentual phrase, all but one of the accents gets deleted. 
+
+There are reasons specific to syllable structure and markedness that @Aerlinthe has done a great job of delineating (that answer got an upvote from me!), but I think it's also important to point out that we could replace the phrase "syllable complexity" in this question with almost any other grammatical feature: Why do languages have different vowel inventories from each other? Why do languages have different numbers of genders from each other? Why do languages have different word orders from each other? 
+
+In order to transition from an [n] to an [s], three things must happen: (1) The front of the tongue must re-position itself a bit in order to release some air out of the mouth, (2) The velum must raise to block air from escaping through the nose, and (3) The glottis needs to open to allow the passage of air without the oscillation of the vocal folds. 
+
+If all three of these independent articulatory actions happen simultaneously, the [n] transitions into an [s] without any intermediate output. However, if (2) and (3) happen slightly before (1), there is a short period of time when voicing has ceased and air is not escaping through the nose or the mouth, with the oral closure being that of the [n], i.e. alveolar. What is the resulting speech segment? The voiceless alveolar stop, [t]! Once (1) kicks in the air gets released and the [t] "gives way" to the fricative [s]. 
+
+It's this inherent property of languages that makes them beautiful, and it's what keeps us linguists in business! 
+
+Note that there is actually an articulatory and acoustic difference between the voiceless vowel [i̥] and the voiceless fricative [ç]. What is often described as the former is more accurately described as the latter. In the case of [i̥], the main constriction (and therefore the source of turbulent noise) is in the glottis; in [ç] it's between the tongue and the hard palate. I would argue that some realizations of /h/ in English are not voiceless vowels (as @jlawler claimed) but rather fricatives. Try pronouncing the beginning of the word huge and compare that sound to a whispered /i/ vowel. They are probably produced differently and sound different. But the /h/ in hot is pretty much realized the same as a whispered /a/ vowel. So one could make the argument that some allophones of /h/ are voiceless vowels and others (namely those before /i/ and /j/) are voiceless fricatives! 
+
+Interestingly, he notes that the corresponding accent types in each individual modern language do not necessarily come from the same accentual category in Proto-Slavic. For example, while the falling accents in Slovene and Croatian have the same sources in Proto-Slavic the rising accents in those two languages have different sources. I am not an expert in Slavic languages, but you may find the references in Greenberg's paper useful for further investigation. 
+
+It seems that the answer lies in the source you cite in your own comment. Cuneiform at this stage was not purely logographic but rather a mixture of logographic signs and phonemic (or what the article refers to as "phonetic") signs, and the inventory of phonemic signs that existed was tailored to Sumerian, which had a very different morphology, phonology and phonetics from Akkadian. Note that the writer says that Sumerian "lived on as an imposed constraint on the expression (emphasis mine) of Akkadian...". By "expression" the author almost certainly is referring to the written expression of the language. 
+
+So, the [l] and the first [w] are in fact in complementary distribution. I hope that makes sense! 
+
+[w] (from /w/) found elsewhere (and perhaps also at the end of a syllable?) 
+
+It is standard to talk about the prosodic hierarchy, which is a theoretical construct that divides utterances into smaller, phonologically relevant constituents called phrases, which are in turn divided into smaller constituents called prosodic words, and so on. There is not an absolute consensus as to what the exact levels of the prosodic hierarchy are or even how many there are, and (as with many theoretical constructs in linguistics) slightly different models lend themselves to different languages. For example, the mora is a prosodic unit that is more motivated in some languages than in others. 
+
+What constitutes a syllable in a given language is deduced by linguists using phonological information gleaned from various criteria, such as stress/accent/tone assignment, word games, metrical divisions in poetry and music, and orthography (in cases where a language's orthography is syllable-based). 
+
+Phonetics is also relevant, of course, since interpreting a stream of speech and mapping it to its phonological representation involves knowledge/awareness of the phonetics of the language at hand. In English, for example, the location of a syllable boundary in relation to an [st] cluster is cued in part by how long the [t] closure is and how long the period of aspiration before the vowel is. In [as.ta] the [t] will have a longer closure and a longer period of aspiration than the [t] in [a.sta].

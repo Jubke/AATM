@@ -1,0 +1,29 @@
+To accept (2) is roughly to be committed to Mathematical Platonism. 
+
+Separately, not everyone is committed to the eternal truth of 1 + 1 = 2. There are also other positions that posit that this is a function of our mental apparatus rather than reality. (See for instance the considerations at http://www.math.harvard.edu/~mazur/papers/plato4.pdf ). 
+
+What this does show us, however, is that the units for position functions are arbitrary. (We can put the origin (0,0,0,...) wherever we want and just move everything from there). Mass functions and many other types of evaluative functions are not. To give an example: 
+
+(2) If always 1 + 1 = 2, then 1+ 1. Ergo, this is eternal and immutable. 
+
+In light of Robert's comment, I'm extending this answer in one respect. The thought experiment can be understood in two ways. 
+
+I'm not entirely following the dichotomy you propose but I would suggest the following interpretation I take to be Aristotleian. 
+
+There's of course a trick in that this "know" is the know that most thinkers after Plato have given up on and not something like JTB. 
+
+Conceptualisms - views where we have "concepts" in our mind but that these don't exist out there in things. One medieval version is called "Nominalism." This is generally the dominant view type today. 
+
+Are the written syllable and readable image identical? Not in every single respect -- as is clearly demonstrated in that we can produce the same syllable differently. But that's just a feature of the general discernability of materially different things. 
+
+Way 1: Linguistic opposites: We are merely changing the meaning of words. "2" means -2. "-2" means 2. The utterance "true" now means false and vice versa. This particular thought experiment is completely uninteresting, because it merely means that the language of this opposite world is somehow coincidentally reversed for all descriptive terms. 
+
+Way 2: Metaphysical opposites: Here, the claim is that what is true in our world is false in this world, and what is false in this world is true in that world. In other words, it's not that they say "2" when they mean -2, it's that they use language in the same way but the objects that populate their world are opposite. 
+
+Negation has problems of its own. We could follow down the Cretan paradox, etc. But enough thought has been invested here for us to realize that negation is a very unstable operation in general. Real things have real opposites, instead of vague lacunae. Whereas negative statements can be absolute nonsense. There is no call to depend upon the less certain form. 
+
+In that case, what is the difference? Whatever transcends those forms is lost to us, and we will not be able to understand, much less prove, anything about it. Either side of a proposition independent of your system is open for adoption into truth with no loss. 
+
+The economy of mathematics is sometimes striking, to me: that so many parts of it are really just other parts in variant forms. But I would blame that on the fact we are in a very orderly corner of the universe, compared to what might be. 
+
+From a more materialist para-Kantian point of view, space, time, color and other mathematical and perceptual models are our evolved approximations to reality, they are not real, beyond their effects upon us. They do not reflect the essential nature of the matter behind them, but they are themselves essentially and totally ours, and we can fully understand them.

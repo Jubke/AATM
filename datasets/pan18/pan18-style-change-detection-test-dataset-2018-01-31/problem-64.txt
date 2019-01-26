@@ -1,0 +1,23 @@
+At level 10, choose Pound of Flesh as your passive. You'll get more frequent health orb drops, and they'll heal for more. You could always change this to Nerves of Steel for extra armor at level 13, but honestly this early in the game I think Pound of Flesh pays off more. 
+
+If you can find it, grab some Life on Hit or Life on Kill gear. It helps keep your hit points topped off. 
+
+Furthermore, one unfortunate side effect of Sidearm that caused me to stop using it is that when I'm working my way through Act 2 Inferno and have to be very choosy about my targets, sometimes shots go flying off at people I don't want to hit. In particular, it's really annoying for a Sidearm shot to fly off and set a treasure goblin running while you're still dealing with other mobs. 
+
+My understanding of it as far as how the pure Frenzy damage works out matches yours. 
+
+How many enemies do I need to kill before the massacre bonus triggers? 
+
+Did you get it from a Horadric Cache? 
+
+The only problem right now is that I don't know where the best place to look for these are. The only one I know to look for is the Treasure Vault of Khan Dakab in the Oasis. 
+
+What formula governs the experience point bonus for the massacre? 
+
+Your problem probably isn't really damage mitigation, unless you're running around half-naked. You probably just need to focus on ways to regain health. You've got a few options to help out in both cases, though. I'm assuming you're level 19 or less, and probably more realistically around level 12-14 right now. 
+
+Yes, you should be able to get this from Kadala. 
+
+I've noticed that when attacking the enemies as chickens, their health bar goes down but critical hit damage numbers never appear over their heads like they do when I normally attack. Does it just not show this for enemies polymorphed into chickens, or is my Enchantress actually doing me a disservice by making these enemies crit-immune for the duration of their polymorph? 
+
+Let's say, for example, I've got a barbarian loaded up with armor and resists who is sitting in a molten pool that does 50,000 damage per second, but with all his damage reduction he's got 90% resistance so it drops to like 5k/sec and he pretty much ignores it. Now let's say he and a mage friend of his put Unity on. Let's say the mage only has 50% damage reduction. When Unity splits the damage, is it going to be doing damage to the mage after the Barbarian's reduction (so, 2.5k/second) or will it be doing it before the Barbarian's reduction (so potentially 12.5k/second)?

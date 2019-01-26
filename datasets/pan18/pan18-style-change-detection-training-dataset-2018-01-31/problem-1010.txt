@@ -1,0 +1,23 @@
+You were not ridiculed for anything. You were told, politely, that your first question (on Stack Overflow) was off topic, and given the reason why it was off topic. 
+
+After that you posted it on another wrong site (Programmers); not the one that you were told you should post it on (Webmasters). It was, entirely correctly, understandably, and politely, closed. You knowingly posted it on the wrong site here, I have no idea what else you could expect. You even got a brief answer to your question anyway. 
+
+I really want a sandwich. The correct place to get that sandwich is a diner down the street, but the place is always empty and has horrible customer service. There's a car wash across the street, and I really like it, they have good prices, it's well serviced, and they're always open when I'm hungry. But whenever I go to the car wash and ask them for a sandwich they tell me that they don't sell sandwiches, they just wash cars. I understand that different places sell different things, but this is counterproductive. 
+
+Can I still get swag? Probably not. We previously offered site swag to those users who reported serious vulnerabilities. For now, we're considering the cash bounty to be a replacement for the swag. It's possible that in the future we'll offer both, but for now offering swag and cash would just double the complexity of awarding bounties. 
+
+Can I sign up for the private beta? You absolutely can! You can fill out this form to get on the list to be considered. As stated above, those who have reported vulnerabilities to us before will receive precedence in joining the private beta. We’ll then be selecting users who have identified that they have security research background, followed by any other users. Given the short period of time the private beta may be running, not everyone who fills out the form is guaranteed to get into the private beta before the program ends up going public. 
+
+This explains wonders about the Programmers SE community, mainly their expectation of a basic comprehension of the problem, and some research that shows you've made an effort in figuring it out yourself. Again, these expectations are specific to that community, and whether or not those expectations are present on Security SE has no bearing on your question on Programmers SE. 
+
+For a while now we have had a filter for new questions that doesn't allow them to be posted until they pass a filter that checks for certain mistakes indicative of very low quality questions. Recently this filter has been altered to be more strict. 
+
+As far as I can tell everyone has treated you politely and done their best to help you out, despite your best efforts to ignore everything that everyone has been telling you about where to ask your question. You have yet to ask the question where you have been told you should have asked it. 
+
+If you end up being edit banned then you can petition to have it looked into. If you don't end up getting enough rejections to be banned before the rejections are old enough to not count then nobody is hurt, and it's really not worth mod intervention. If you get banned, and would like to dispute some of the edits, then you can contact the moderation team and they might intervene. 
+
+This explains wonders about the Programmers SE community, mainly their expectation of a basic comprehension of the problem, and some research that shows you've made an effort in figuring it out yourself. Again, these expectations are specific to that community, and whether or not those expectations are present on Security SE has no bearing on your question on Programmers SE. 
+
+Work harder to understand the scope of the site and develop a better understanding of that community. The fact that it was accepted on another site has absolutely no bearing on it's topicness on another. It's completely irrelevant, and should not even be mentioned, anymore. Useless information - seriously. Your question on Meta Programmers gave you plenty of valuable information that perfectly well explained why your question was not acceptable for their site. Might I quote the most relevant part: 
+
+Can I sign up for the private beta? You absolutely can! You can fill out this form to get on the list to be considered. As stated above, those who have reported vulnerabilities to us before will receive precedence in joining the private beta. We’ll then be selecting users who have identified that they have security research background, followed by any other users. Given the short period of time the private beta may be running, not everyone who fills out the form is guaranteed to get into the private beta before the program ends up going public.

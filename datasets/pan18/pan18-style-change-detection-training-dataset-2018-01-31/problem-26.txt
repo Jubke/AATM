@@ -1,0 +1,13 @@
+Optimistic / Pessimistic line shows behaviors (you might say this is just team/project smell): Different trends may mean different things. A large cone of uncertainly (difference between Opt and Pes lines) with the average near the middle suggests that the team has a fairly even number of highs and lows and probably carries a lot of work between sprints. If there's a large cone of uncertainty with the average closer to the Opt line, something is occasionally sabotaging or crashing sprints. Maybe business is changing it's mind mid-sprint or they're being plagued with environment problems. If the reverse is true (average is near Pes line) then the team is occasionally having amazing sprints. The team is probably capable of a lot more, but something slows them down most sprints. You should target those opportunities. 
+
+Predictability: If your team's velocity isn't fairly consistent, your window will be so wide that it'll be useless. Two things to help with this are to use the last few sprints and to throw out understood outliers (like sprints with a week out for Christmas). 
+
+Who am I measuring? Scrum encourages teams to succeed or fail together and often times calls for multiple people to swarm on work. How do you measure this work separately? Will you be separating work that should be together just to gain a measurement? 
+
+How do you measure value and learning? Scrum puts a lot of emphasis on driving out risk through learning and creating value. Even if you were to measure on the team level, how will you compare the amount one team learned against another? In short, what is performance? 
+
+That is not to say that nothing like this can work. I worked in one department where the teams nominated an MVP each month and in the course of the month, there was usually someone who stood out as having really pulled more than their weight. 
+
+They are genuinely useful, but there are a few factors that can really skew them to be wary of. 
+
+Poor Definition of Done: If you don't have a strong Definition of Done, you don't know if you're really done or if you're piling up technical debt. If you leave a lot of testing, release, or other work until the end of the project, your forecasts will be meaningless.

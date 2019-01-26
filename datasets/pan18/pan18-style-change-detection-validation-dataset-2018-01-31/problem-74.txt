@@ -1,0 +1,33 @@
+What I don't understand, however, is why they keep glowing when they pick up gold. It doesn't happen every time, but it only happens when they collect gold piles. They will get a giant blue glowy shield (far, far larger than the size of the ferret) for a few frames, then it will go away. It comes with a sound effect and everything. 
+
+I have noticed often when going to bid on an item, the minimum bid is some seemingly arbitrary number. I currently can't even bid on an item, even though I have more gold than the current bid, because I don't meet this limit. 
+
+Just keep doing rifts, and eventually you might get lucky again. 
+
+Now, I'm playing a Demon Hunter, and even though he telegraphs the slams with a big green meteor circle, I don't know how to avoid the impact. Even if his arm doesn't hit me, I'm still taking damage from the slams. Since I die in 2 hits to the slams, and my healing options are limited (potions have a cooldown and my damage output isn't exactly amazing while I'm running for my life to take advantage of Shadow Power), the best option is probably to avoid taking damage from them altogether. 
+
+I have been farming gold in Act 1 and have seen and entered the 'Quality Well' many times, there appears to be no contributing factor to the well being active, it's always in the same place. There are multiple well spawn points within this area but the one you're after is located in the Old Tristram centre, opposite the old Blacksmith building. 
+
+I have had a quick google for ideas on how to fix it which seems to bring up a bunch of posts when the server loads were really high last year, nevertheless I have been through the list of suggestions, making sure that secondary login is enabled, running the installer as administrator, etc. 
+
+I've had it active at the same time as another well in the starting area and by itself. I've also had it active with pretty much every combination of every other dungeon/cellar in that area so it doesn't seem to be linked to this either. 
+
+While Grave Injustice does not reduce the cooldown for the cheat-death proc, it will stack with the cooldown reduction for abilities such as Spirit Walk. 
+
+Ghom - will begin spawning 'Gas Clouds' more frequently after four minutes. 
+
+In terms of the achievements, not getting hit means not taking damage. Using abilities like Smokescreen (pure immunity) counts, Diamond skin (absorption) also counts, dodging counts. Block does not count. In the case of block you're only reducing the damage taken rather than avoiding it. 
+
+While you can copy your Diablo 3 folder to an external hard disk, it is worth noting that Diablo 3 stores additional data in the following locations; 
+
+Fundamentally though, the cheat-death effect of Spirit Vessel is more of a proc than a cooldown. This is backed up in the many build discussions around the use of these abilities together, including this quote: 
+
+The wells are worth 10-20k each depending on your gold find. 
+
+I'm using the ferret rune for companion. Now I have 2 ferrets running around collecting gold and adding paltry DPS to my arsenal, which is awesome. 
+
+Now, I'm playing a Demon Hunter, and even though he telegraphs the slams with a big green meteor circle, I don't know how to avoid the impact. Even if his arm doesn't hit me, I'm still taking damage from the slams. Since I die in 2 hits to the slams, and my healing options are limited (potions have a cooldown and my damage output isn't exactly amazing while I'm running for my life to take advantage of Shadow Power), the best option is probably to avoid taking damage from them altogether. 
+
+Forked lightning is for use between casts of Frozen Orb. You said that 44% seems low, especially compared to 1000% from Blizzard, but you're not taking everything into account. 
+
+You will still have to use clicking for your primary and secondary skills, but if you use a lot of clicking and holding to attack rather than repeated clicking, you won't have to click too much.

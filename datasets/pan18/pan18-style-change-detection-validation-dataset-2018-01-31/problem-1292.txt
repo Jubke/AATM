@@ -1,0 +1,21 @@
+This paper looks at effect of word frequency on contraction, and happens to include ample references to quantitative studies and factors influencing contraction (phonology of preceding word, syntactic nature of following comp, word length of subject NP, information load). This blog might be informative as well, from a historical perspective (did we used to not contract in American English?), and there's a dissertation here on yet another aspect of contraction. I don't know of an experimental study that asks listeners to attitudinally judge spoken English samples as "educated", "stilted", "ignorant", "awkward", "pretentious", "sloppy" and so on, as a function of contracting vs. not contracting. 
+
+Many people would like English spelling to be "phonetic", in that if you know how a word is spelled, you know how it is pronounced, and vice versa. This is perhaps tenable for small languages with only a couple of speakers in one village. For any other language, you do not know how all speakers actually pronounce words. ɪf ɔl ɹaɪɾɪŋ wɹ̩ bɛɪst ɔn hæw ðə ɪndəvɪdʒʊl̩ ækʃəli tɔks, ɪɾəd bi ɹɪli dɪfəkl̩t tə əndɹ̩stæn pipl̩z ɹaɪɾɪŋ. wɹs, sɪns ðɛɹ aɹ mɛni wɛɪz ðæt ən ɪndəvɪdʒʊl̩ dʌz prənæwns ʌ wɹ̩d, you would spend all your time trying to figure out how you pronounce a word, so that you would know how to spell it. 
+
+It gives as cognates Hittite ispart-, Avest. sparǝr- Old Indic -spūrdhán, spárdhate "competition" 
+
+Vasmer says that it is from disport "amusement", a contraction from Middle English disporten from Old French desporter "to take away", "to distract from the work". 
+
+All three are not related or their relation is unknown. Traditionally English "day" is considered to derive from the PIE root for "burn", although the author whom you link in the question points out that it is more likely to derive from PIE root meaning "cycle" which already was used for "day" and "yesterday" (dhĝhi̯es) in PIE, and which also gave for example, Russian "den'" "day" which indicates that the PIE word for day had an r/n stem, and as such, very archaic. 
+
+Sometimes you can improve the resemblance of the original meaning by adding some additional qualifier words, but in many cases you cannot do anything without explanation that would span a page (and even then it is unlikely would be understood precisely). 
+
+English is also annoying with its difficult to pronounce numerals, especially when need to speak quickly. 
+
+The writing system is totally irregular so one cannot guess the pronounciation from spelling and vice versa, but this is while annoying, is not the most difficult thing. 
+
+The syntax and morphology of English are quite easy, but some difficulty is in learning idiomatic sequences of verbs and prepositions, such as "put up", "give off", "put out", "turn down", "set in" etc. 
+
+This paper looks at effect of word frequency on contraction, and happens to include ample references to quantitative studies and factors influencing contraction (phonology of preceding word, syntactic nature of following comp, word length of subject NP, information load). This blog might be informative as well, from a historical perspective (did we used to not contract in American English?), and there's a dissertation here on yet another aspect of contraction. I don't know of an experimental study that asks listeners to attitudinally judge spoken English samples as "educated", "stilted", "ignorant", "awkward", "pretentious", "sloppy" and so on, as a function of contracting vs. not contracting. 
+
+There is a clear dispreference for using contractions in term papers and journal publications, and a clear preference for using 'em in ordinary conversation. There's an extremely strong dispreference for contracting future will when the point is to deny a claim that some event won't happen, so it would be bizarre to say "No, he'LL bring it back". In mixed style writing (e.g. SE), you'll find both outcomes, and I doubt that you will find a consistent pattern.

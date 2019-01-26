@@ -1,0 +1,19 @@
+In the meantime, I suggest not using HTTPS on meta sites since it's technically unsupported anyway. 
+
+I spent some time looking into a fix and, after further discussion with Nick Craver, I have to be the bearer of bad news here - we can't fix it at this point. Not without spending a lot of effort on setting up special infrastructure to do so. 
+
+On the upside, we are killing the site redesign backlog, so hopefully these issues won't be coming up ever again before too long. 
+
+To be able to do this properly, we'd need to rework how user deletion works, get around the missing data issues, and queue up these normalizations somewhere where we could work through them without affecting the day-to-day operations on the site. It's a lot of work and a lot of complexity for something that has a minor benefit in the grand scheme of things. 
+
+This is... probably intentional? The fact that something like this is possible in the first place may or may not be harmful, depending on the user and the site in question. 
+
+LESS includes are a dangerous thing. :) The issue should be fixed now. 
+
+Details: To enable the details of this specific error message to be viewable on remote machines, please create a tag within a "web.config" configuration file located in the root directory of the current web application. This tag should then have its "mode" attribute set to "Off". 
+
+I'm ... not entirely sure what went wrong here. I mean, I know what, but I don't know why. I'm fixing the actual exception, and will ping the devs working on user profile improvements to have them look over the mobile views to make sure everything's kosher going forward. 
+
+I'm deploying the fix. Should be live in the next 20 minutes or so now. 
+
+So, fine. Why not just "unvote" the comments we know about when a user is deleted? User deletion runs in a transaction. This means we up the odds of hitting race conditions where someone is voting on a comment while a user's being deleted. This puts scores back out of sync and we're arguably worse off than where we started.

@@ -1,0 +1,33 @@
+There are two dominant ways of looking at what is and is not scientific. Neither of them ever considers any theory 'verifiable'. The kind of truth that has constructive verification is not something science really has access to, perhaps outside of mathematics, and there only by convention. 
+
+Question 1. Why is science better than religion... 
+
+Pressed for philosophical justification for having faith in induction or statistical inference, scientists as a whole simply fall back on success as proof. Success is not justification, it is simply success. 
+
+So, how do you argue for science against religion? 
+
+From that point of view: Celestial mechanics is not a priori, but the Calculus is. Relativity may not be a priori, but tensor theory is. Quantum mechanics may not be a priori, but matrix mechanics is. 
+
+Kuhn looks at the history of a science in terms of the succession of paradigms, each focusing development in a given way, instead of Popper's alternately smooth and rocky succession of simple theories with different levels of risk and implication, that are not 'layered' in any way, but any one of which faces all the others on equal terms. 
+
+But the rest of your questions are answered by actually looking at the theory as it evolves. It is simply the best theory to cover what we observe. The Schroedinger equation is a generalization of a set of observations and the math they had in common, unifying an underlying notion of overlapping waves, whose exact phases we cannot know, combining in the most likely way. Its outputs are statistical because its inputs involve unknown quantities. It is not a philosophical statement, and does not address philosophical objections. But the results of experiments fit the distributions it predicts. So we keep it. 
+
+In a less precise and less demanding spirit, Everett suggests that every event splits time into a continuum of options, and those may or may not 'collapse' back into the same 'world'. So there may be multiple possible worlds, and you are just in one of them due to fine details, while other versions of you are in the others. Again, no randomness: every reality gets its own 'you', and all the bases are covered without any random choice. 
+
+Once you leverage logic out of the first order, you get infinite computation and tons of infinite regresses trying to relativize Godel. So folks had a reason not to attach to it strongly. 
+
+The notion of the field particles arising out of the Higgs boson early in the history of the universe "when the rules were different" is the same sort of thing, it puts the irregularities away from us, so we feel like that place is special, not ours. Why assume the rules got decided at a given energy level and then stuck there forever? Why should they not slowly adapt across time? (And if we don't get to be special, why does anyone else? Harumph, <pout/>.) 
+
+Various religions allow for 'higher' and 'lower' levels of supernatural status. For instance, traditional Roman Catholicism allows for a belief in the power of individual prayer, directly to God via Christ, and also for 'intercessory' prayer, where one appeals to the specific concerns a given Saint expressed in life or in previous intercessions, and you speak to them by name, to more easily make one's case, but ask for smaller favors. 
+
+Why not follow down the idea these are illusions? 
+
+Homeopathy is discredited sociologically, in that its working assumptions are based upon alchemy, which has been replaced by chemistry as a predictive basis. And it is not parsimonious, in that it is complicated, but one cannot make the case experimentally the complexity actually improves its performance. 
+
+But most of the content of Mathematics is a priori. We can see this because when we find that it does not fit the outside world, it does not become false, just less-used. Any a posteriori argument simply has no force against its 'truth', only against its 'applicability'. 
+
+Science becomes impatient with religion because religion often overstates its relevance. Identity is often threatened by the overall complexity of experience, and part of that complexity is the product of science. 
+
+For 1) I would go with Wittgenstein's notion that some things cannot be said but must be shown, and the most basic aspects of ethics are among those. Science might tell us why we think killing one another is wrong, but it will not tell us whether that sense is right or not. At some point you have to give in to some sense of intuitive faith, and just accept deep moral sense, but as consistent as the answer might be from human to human, it is not scientific, because it is not discovered, it is just decided irrespective of experience. Science might say that now is the time to start thinning the population aggressively, or we will go extinct. And we would ignore it based upon genetic intuition. 
+
+There is a strong sense within the recognised set of sciences, that what really determines the boundaries are the points where emergent phenomena become more relevant than their sources.

@@ -1,0 +1,27 @@
+To conclude, option 2 (installing a 7 speed cassette) or option 1 (installing 9 speed shifters) are the only ones which would work. Option 2 is cheaper (and I'd likely go for this if the shifters are in good working condition), but option 1 is a decently reasonable one as well (and is recommended if it looks like the 7 speed shifters will go). 
+
+These aren't really forks designed to be serviced -- they're basically the bare minimum of forks which are not completely for fashion statements. You can look on Youtube for videos of people trying to service them and what not -- you're basically going to strip it down as much as possible (which may require some penetrating oil), grease it up, and put it back together (you might get a head start on this by banging it a bit to see if it unsticks). Note that this is maybe a 50 dollar fork, and depending on how much you value your time, you might want to take it into a shop to see if they can unstick it or just replace it, possibly with a rigid fork if you're trying to save money. 
+
+Handlebars: Mountain and Road bars have different diameters, so brake levers and shifters designed for one will not fit on the other. 
+
+I'd get a new chain and use a chain tool next time. 
+
+Cables/Cable Housings: You can use the same types. 
+
+Protective Film -- Cosmetic protection (possibly structural in some cases for things like cable rub as pointed out by Nathan in the comments). If you're worried about keeping your bike shiny and scratch free I suppose. Be careful with Carbon Fiber depending on adhesive. Won't protect from dents. Derailleur guards are a terrible idea -- the force transmitted in a crash will be applied in a way not in line with design and damage the frame, whereas if the derailleur is installed as normal, the hanger will bend (or break) and is usually easily replaceable or reparable (align with something like the Park Tool DAG). If the derailleur is damaged, it's a heck of a lot cheaper than repairing the frame damage caused by a derailleur guard. You could spec an internal gear hub or single speed instead, if you want to avoid derailleur damage depending on the frame. Bumpers -- See point 1. I see these as likely less useful than the film. Crash Guard -- See point 2. Plus, there aren't as many nice mounting points as on a motorcycle since you have to pedal on a bicycle for it not getting in the way, whereas you only shift+brake with foot movement on a motorcycle. 
+
+Frisbee also notes in the comments that Fat Bikes exist. These have massive tires (over 4 inches in some cases) with insanely low pressures. These might be difficult to ride, but thats a lot of cushioning. 
+
+Adding rear suspension to an existing bike not designed for rear suspension is hard - you'd have to cut the tubes, weld them and make sure the result is safe. 
+
+Option #4 won't work - the spacing between the cogs is different for 7,8,9 speed (4.34 mm for a Shimano compatible cassette for 9 speed, 5 mm for 7 speed Shimano). An index shifter is designed to move the chain over by a certain amount based on this spacing, which is why you have to typically match the number of speeds on the shifter with the cassette. Note that a 7 speed, 8 speed, 9 speed chain can usually be used on any of the 7/8/9 speed setups though (not necessarily optimally, but it usually works out with a bit of adjustment). 
+
+Brakes: Typically, road brakes (mechanical disc brakes for road, caliper brakes, cantilever brakes) are short pull while mountain brakes are often long pull (v-brakes, mechanical disc brakes). This means you require a travel agent or special levers to run v-brakes or certain mechanical disc brakes on a road bike. Hydraulic systems are quite new on road bikes. Since you can't mount the levers onto a mountain bar, exchanging them is somewhat moot at this point. 
+
+In any case, if you have tubeless ready rims, its relatively cheap to try running tubeless on your own, so I think giving it a shot is the best way to convince yourself that its worth it or not. 
+
+Seatposts/saddles: Probably interchangable 
+
+Park Tool has a good description on how to adjust a derailleur, which you should read and implement (or take the bike to your LBS, give the guy 5 bucks and get him to adjust your derailleur and check if its bent). If the derailleur/hanger is bent, it must be un-bent prior to adjustment. 
+
+(*) On lower speed chains / old days, people used to push the rivet out partially then re push it back in to close the chain. It is now recommended to use the special closing rivet or a quick link, depending on what the chain manufacturer suggests.

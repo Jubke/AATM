@@ -1,0 +1,33 @@
+This seems like a critical misunderstanding of the original thought experiment. The basic idea is to make decisions that ensure the best outcomes for all by eliminating, as much as possible, the biases of personal self-interest. It's an extension of the Kantian concept that moral laws must be universal and disinterested. 
+
+At this point I would suggest a general anthology of philosophy. There are many of these, and most of them have similar selections of work. The advantage here is that you're reading primary sources, not interpretations (although there are usually introductory essays to go along with them), and you're reading a large cross section of best-known work of the most influential thinkers. 
+
+This is Skepticism. Personally, I believe there are good arguments against it (and against the particular argument you reference), but since you didn't ask that, I won't outline any of them. 
+
+The first philosophical book that comes to mind with that topic is The Structure of Scientific Revolutions by Thomas Kuhn. 
+
+As Conifold alluded to in the comments, this is a well-known topic in philosophy, most closely associated with the great German philosopher Immanuel Kant, who called this feeling "the sublime". He uses this concept, which he sees as most directly related to the awe-inspiring qualities of nature, as a way of developing his theory of art, which he believes taps into similar territory in the human experience. 
+
+I would also be surprised if any argument like this had ever been published in the Levinas literature either---continental papers don't tend to criticize the great names in the canon, or object to their theses, or try to defend those theses from the objections of others. I'd be happy for somebody cite me an article to show I'm wrong in this case. 
+
+I'll admit that I've never seen anybody explicitly run this argument in print, but I am quite certain it's the first thing that an analytically trained philosopher of mind reading Levinas is going to think. 
+
+The answer is "Not at all." The problem of other minds is a metaphysical and epistemological question: "How do I know that there are other minds?" I can directly observe behavior of other humans, but to infer mentality from behavior in the case of others is to make an inference, and therefore the question arises whether the inference is a good one. 
+
+(3) follows from (1) and (2) by modus ponens, so the argument is valid. It looks sound to me as well. 
+
+The question about The Other, so far as I can tell, is ethical. "What should I do to/for/with the Other?" Of course, the complicating factor is that sometimes authors like Levinas tend to make (seemingly implausible) claims about The Other that look metaphysical, like, "You can't be a self until you encounter an Other." I am not qualified to speak to what the reasons for such claims might be, however. 
+
+In the simulated world, the reason for this ontological parsimony is clear: It is a savings on resources to fake up the parts of the simulation that receive the most scrutiny more convincingly than others. If it would take, as seems reasonable, a universe's worth of resources to actually simulate an entire universe, then it might be a necessity for a simulation to appear more complex than it actually is, at least if it is being simulated in a universe like the one being simulated. If, on the other hand, the world is in the mind of God, who presumably has infinite resources, then why would God cheat? As Descartes concluded in his Meditations, we must assume a good and honest God who is not deceiving us, because without such an assumption, we can never actually know anything. 
+
+I'd also recommend Plato --although he doesn't specifically deal much with dreams, his chief contention is that our entire reality is an illusion, and that we can get nearer or further from the capital T truth, sometimes by wrapping ourselves in layer of illusion and/or freeing ourselves from the same. The Allegory of the Cave is a good starting point. 
+
+The answer is "Not at all." The problem of other minds is a metaphysical and epistemological question: "How do I know that there are other minds?" I can directly observe behavior of other humans, but to infer mentality from behavior in the case of others is to make an inference, and therefore the question arises whether the inference is a good one. 
+
+Let me expand upon why I think the metaphysical claims that the encounter with the Other being a transcendental condition of the possibility of your own subjecthood is implausible. Doing so might help explain why analytic philosophers aren't inclined to think "the Other", as Lacan and Levinas describe it, is in fact a useful category at all. 
+
+I would also be surprised if any argument like this had ever been published in the Levinas literature either---continental papers don't tend to criticize the great names in the canon, or object to their theses, or try to defend those theses from the objections of others. I'd be happy for somebody cite me an article to show I'm wrong in this case. 
+
+The second way that we could support (2) would be to appeal to conceivability/possibility arguments. Suppose you don't buy the autism case in the case of humans. Ok. If it is conceivable without contradiction that there exist any kind of subject (aliens, God, whatever) that does not encounter an other, then it is possible to be a subject without encountering an other, just as (2) says. 
+
+We can support (2) in two different ways. First, by thinking of the case of severely autistic people. Autism is a spectrum disorder that involves impairment to one 'theory of mind' i.e. with one's ability to recognize and perceive that other people are people, as opposed to mere objects. At the far end of that spectrum, it looks like we have individuals who genuinely could not ever "encounter an other". Such individuals tend to suffer a number of really heart-breaking impairments, but it is obviously absurd to say that they aren't subjects at all.

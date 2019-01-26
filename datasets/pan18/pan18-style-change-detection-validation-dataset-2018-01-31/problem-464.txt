@@ -1,0 +1,27 @@
+That makes it "Too Localized" and not spam (hence the "Too Localized" closure from me) 
+
+If you really want to know ideas as to why the API is named that and accept those answers, then it makes the question off topic for Stack Overflow. 
+
+Unfortunately, your flag had to be rejected in the process. 
+
+The question is asking for a shopping list (fancy terminology aside). The top voted answer you refer to says: In an ideal world where your flag was the only one on the post, I would have marked the flag as helpful, and then closed the post as "Too Localized"; the flag was helpful, even though it is an answer to the question (albeit a sparse, and hard-to-decipher one). Well, the answer was from the user who posted the question, asking why their program couldn't connect to a service. I read the cryptic answer ("firewall firewall firewall") to mean that it was a firewall issue on their machine which blocked access to the service. It's the only way to keep the question remotely constructive and on topic for the site. It could be a comment, but honestly, given that it invalidates the entire question, it doesn't really matter, what's important is that your flag would have been marked as helpful. 
+
+The answer that you reference does not answer the question. The question, at a fundamental level is: 
+
+Shopping lists are not suitable for the Stack Exchange sites and are typically closed with the "Not Constructive" close reason. As Robert said, your flag got piggybacked on top of a spam flag. Because we can only take one action for each group of unique, active flags on the post, I rejected it, as spam flags can carry a penalty if acted upon. 
+
+What the heck, since I have a picture with my fancy hat and tie, I might as well keep posting these. Happy birthday to BoltClock! 
+
+There are several questions there whose content could be moved to a tag wiki. Spammers know what they're doing. I'm not going to leave spam on Stack Overflow so that I can be nice to spammers. I'm here to serve the rest of the community. 
+
+Who do I have to prove it to? If I see a spam post at all, 99% of the time it was because it was flagged by someone else in the community. Update: I went through and deleted all of the sock-puppet accounts that were used to create bounties won by this user. There were around 20 sock-puppet accounts (I lost count), and over 5000 points of bounty awarded. There were over 1000 points of free reputation gained (because the system adds a free 50 to every bounty), which I assume was the whole point of this experiment. You have pages and pages and pages of deleted posts, many of which have been downvoted. Those downvotes count against you. You also have a history of asking the exact same question several times an hour apart until you get an answer. This is blatant abuse of the system. I answer them when I see them. Yes, if all you've ever done is answer two questions with links to your site that don't answer the question, I'd consider that excess promotion. If the linked articles seem to answer the question, I'll leave a warning comment instead of deleting the account. 3000! If it were baseball, that would surely get us into the Hall of Fame. ;) 
+
+I delete a lot of spam accounts. If the only reason an account exists is to promote a site or product, I will delete it. If you were providing any actual content you would have been given a warning. 
+
+Ah, finally we can take a day off! 
+
+python - What IDE to use for Python? data-structures - What are the lesser known but cool data structures? .net - Most useful free .NET libraries? compiler - Learning to Write a Compiler vim - What is your most productive shortcut with Vim? I'm not deleting the account yet because there are still some other accounts that have used the same IP address that need to be looked into for strange behavior. 
+
+You need to show that you can contribute something back to the community if you want to continue using Stack Overflow. Start improving your posts in order to get some upvotes and you'll unlock your ability to ask questions again. Note: see comments. 
+
+Most of these are just "List of X" questions anyway, and they're mostly lists of links on top of that. The top answers are also mostly collaboratively edited CW posts, so no one will be losing out on any future reputation if we move the content to a tag wiki and delete the questions.

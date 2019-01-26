@@ -1,0 +1,21 @@
+There really is no convention for indicating the end of things in text. You are asking for a way to move up the hierarchy of the document without a title to indicate the change. There really isn't a reliable way to indicate that to a reader. Titles indicate the beginning of things not the end of things. 
+
+Or you can decide that it is implied by "keep open until". 
+
+This is not a perfectly symmetrical or hierarchical design, but then text is not really hierarchical at all. It really is linear. The reader cannot receive it in any form other than linear, and in many texts, headings do not occur in a strict order of hierarchy. Rather, the act more like road signs: a large sign to announce you are entering a large town; a small sign to indicate you are entering a village. 
+
+Since this sounds like a procedure that can affect both worker safety and protection of property, make sure you field test your instructions to make sure they result in correct action with your target audience. 
+
+So don't think of a text as a hierarchy, but as a sequence with sign posts which may or may not follow a hierarchical sequence. Your concluding section, which summarizes the argument of the whole chapter, deserves a heading that announces it as such. 
+
+Might the use of analogies to explain concepts make your paper sound too "popular" for an academic journal? Maybe. Such prejudices are not universal, nor are they consistent. As with any other publication, it pays to spend some time to get a feel for the tone of the publication you want to submit too. If other papers in that publication use the same devices, you should be fine. 
+
+Discussions of the passive voice often cause more confusion than they avoid. It is always easier to see your way clear in these cases if you think in terms of naming or hiding the agent. In other words: 
+
+There are exceptions, of course, like the dummies books, but those books are written about very popular subjects for which there are already many books available. Therefore they can segment the readership by the style of writing they prefer and it does become about the writer again. 
+
+Which is better between this and the first sentence? This is not something that we should decide based on the first being active and the third passive. Rather, we should decide based on what is most important in the sentence. The first sentence is about Tom; the dog is incidental. The second sentence is about the dog; Tom is incidental. The choice depends on which we are more interested in, the dog or Tom. It is no kind of writing sin to be more interested in the recipient of an action than in its perpetrator. 
+
+Plainness and clarity of instruction and description are therefore key virtues in technical communication. That should not make technical writing a dull job, though. Rather, it presents a different set of writing challenges. 
+
+What there is a convention for is creating a subjection that is a summation of the entire chapter. The name of that subsection is generally "Conclusion". A concluding section is not really returning to the main level. The reader is too far removed from what they read in the main level for it simply to resume. Rather, the concluding section is a subsection that reviews the subject matter of the whole chapter.

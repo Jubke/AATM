@@ -1,0 +1,39 @@
+Similarly, we can look at Russell's paradox, which seems to point at problems concerning the nature of sets, or the Burali-Forti paradox. 
+
+EDIT: I found an SEP article that specifically treats of Fictionalism in Mathematics; it is a nice reference for the more specific case. 
+
+Certain words are "terms of art" in more than one domain-- it is important to take these in the appropriate context, and avoid slippages between them. 
+
+So, to answer your question: we don't have to rationalize that complex numbers exist. It doesn't matter if they exist or not. 
+
+Numbers are abstractions. They don't exist in the same way that, say, physical objects exist. You can give me two apples, but you can't just give me a two. 
+
+To summarize: "if and only if" is always a biconditional, both in mathematical/logical usage and plain English usage; "if" can be a biconditional in plain English usage, depending on context, but not in mathematical/logical usage. 
+
+First of all, complex numbers (and imaginary numbers) do appear in real-world phenomena; they have lots of practical applications. 
+
+The phrase "if and only if" is used rarely in daily English; it tends to be used only for emphasis, or to avoid an otherwise unavoidable ambiguity. 
+
+It would be one thing if we were stuck with nothing better and had to make do. But there is deductive notion of validity that has none of these problems. Deduction is valid if each step obtains from previous ones by the usual logical rules (modus ponens, etc). Inference is valid if there is a valid deduction with the same premise and conclusion. Deduction is a formal couterpart to intuitive argument, its validity is not determined solely by premise and conclusion, but by all steps. And deductive notion of validity tracks how we actually verify logical validity, unlike Tarskian inference. The need to deal with "meanings" is much reduced, and the metaphysical load is accordingly lighter. See McKeon's IEP article. 
+
+Thesis: Punishing X in this way is wrong 
+
+The advantage of (formal) deduction is that at least we know that it is always truth preserving, even if we can not justify it. Induction, on the other hand, sometimes works and sometimes does not. So the problem of justifying it is much more substantive because the hope is that if we have an explicit justification at hand we will be able to better tell when is which. The problem of deduction is a particular case of the so-called Agrippa's trilemma/justificatory regress arguments, and is discussed by Dummett in Justification of Deduction: 
+
+But it falls into a broad group of fallacies known as ad hominem, literally "to the man", which attack traits of opponents instead of addressing their arguments. These traits are not restricted to a group an individual belongs to, and often include character traits and behavior. A subclass referred to as ad feminam, "to the woman", is in use since 1963, and is directed against arguments made by women. 
+
+Logicians distinguish two kinds of bad arguments, unsound and invalid, see IEP's Validity and Soundness. A fallacy is a flaw in logic that makes an argument invalid. Unsound arguments, on the other hand, may well be logically valid, but argue from false premises. 
+
+EDIT: I found an SEP article that specifically treats of Fictionalism in Mathematics; it is a nice reference for the more specific case. 
+
+Note that I said above "(in the mathematical context)"-- in mathematics, it is customary to draw a distinction between definitions and propositions. This distinction is not maintained the same way in Kantian (and post-Kantian) metaphysics; there, as you point out, a definition is a type of analytic proposition. 
+
+The schematic version is as follows (quoting from the aforementioned paper): 
+
+As abstractions, they follow certain conceptual patterns. For positive integers, these abstractions are fairly intuitive; for other types of numbers (such as negative numbers, or rational numbers, or irrational numbers) they are less so. 
+
+EDIT: Since the OP wants more detail, I will try to answer the additional question added. 
+
+So, to answer your question: we don't have to rationalize that complex numbers exist. It doesn't matter if they exist or not. 
+
+Let's begin with a trivial paradox. We know, of course, that there are integers that are not prime numbers. In fact, there seem to be a good number of them. And yet, we also know that there exactly as many prime numbers as there are integers. We have here a simple paradox; two contradictory statements which are both true.

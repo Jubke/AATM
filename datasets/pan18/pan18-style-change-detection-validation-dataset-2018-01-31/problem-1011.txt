@@ -1,0 +1,17 @@
+Although Quantum logic is still an active field of study up to the present day, it is does not get much attention from most philosophers and had been abandoned completely by physicists. Those who do study the topic view it mainly as a mathematical tool for studying Quantum phenomena, not as some sort of fundamental logic to replace our current classical rules of logic. 
+
+Arithmetization of syntax allows Gödel to show that statements about number theory are also statements in number theory. This allows him to construct self-referential statements about number theory in a simple way. This in turn allows him to show that Self-reference is inevitable, and that it is impossible to avoid self-reference when trying to construct complete formal axiomatic systems rich enough to describe arithmetic (And thus refuting Russell's logicist project). 
+
+In GEB (and later in "I am a Strange Loop"), Hostadter states that human consciousness is due to the fact that the human mind is capable of perceiving itself. This capacity for self reference is analogous to the way Gödel sentences refer to themselves. 
+
+I would add to Mozibur's answer that several of the historically notable philosophers have tried to build complete philosophical systems from the ground up. Look at Kant and early Wittgenstein as examples. Indeed one could argue that attempts to build mathematics from the ground up the way Russell and Whitehead did was inspired partially by the philosophical tradition of building entire systems from a set of initial ontological and epistemic considerations. 
+
+The main problem that is faced by Quantum logic (or any such radical revision of logic, empirically justified or otherwise), is that we tend to think and communicate in classical logic. It would be very difficult, or in Kantian fashion, outright impossible for us, to perceive and discuss the world in anything other than classical logic - it seems to be hardwired into our brains. Although the logical atomist program failed as a metaphysical theory, it did show us just how ingrained classical logic is into our linguistic and mental structure. As Wittgenstein stated, the limits of language are the limits of the world: No one can place themselves outside of logic, and then pick among different logics to reason and argue with, even if those alternative logics are justified. 
+
+That being said, you are correct in your general premise that the human mind is performing some advanced pattern recognition and clustering on sensory inputs (including speech), and sorting and aggregating them to a higher symbolic level such that it can process them using formal logic. 
+
+Because of this, any system rich enough to encompass the arithmetic of natural numbers cannot avoid self-reference. And as Conifold points out self-reference makes the paradox at the heart of Godel's theorem inevitable. 
+
+Many have argued that logic is empirical, or as you describe it, logic's "axioms are dependent on observation". 
+
+A formal mathematical version of this argument was developed by Kurt Godel (and published posthumously) using modal logic. I don't know enough about modal logic to elaborate any further, but it sounds pretty close to what you are looking for.

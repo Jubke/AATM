@@ -1,0 +1,11 @@
+I tried to build a custom field [Projected Duration] such that 
+
+Because I'm a frustrated quant, I'd probably also record the actual duration for every task/work package and generate a quick distribution of variances and use that to build a monte carlo model for the rest of my project. (e.g. "In the past, 50% of work packages deliver on time, but 30% use most of the contingency, 10% use all of the contingency and 20% exceed the contingency. If I assume that pattern continues going forward, then let's simulate the project end date if future work packages follow the pattern of prior work packages.....) 
+
+( ( [Baseline Finish] - [Baseline start] ) - ( [Finish] - [Start]) ) Does that answer the question? I don't work in that kind of area - my projects involve a lot of software integration, which makes it effectively impossible to determine the hours spent or the physical percent complete. Subject Matter Experts spend the majority of their time discussing problems, and there is generally no way to tell when they're done until they're done. I also work primarily in a time & materials contract environment where the cost of labor is not the primary concern. 
+
+Nonetheless you can do this - create a task for each step, and manually set the duration of each task. Then manually update the dependencies (predecessors). 
+
+How do I calculate execution variance? 
+
+Others have answered Q1 & Q3 well; I'll add only the observation that my girlfriend is working on projects with a 10 year duration; most of my projects are measured in < 2 months. We're going to give different answers to those questions and it is entirely appropriate that we do so. You must consider total project duration and Organizational Process Assets in the answers. I think that will preserve the constraints imposed on the project. The question that remains in my mind is how I would use the information to convey information to my stakeholders. I could run a simplistic estimate that shows the optimistic end date, the pessimistic end date and the PERT end date. (This is what I've done most recently because my stakeholders aren't interested in any more complex analysis, and the quick experiments I've done indicate that the answers converge on the PERT answer anyway). If you work in one of the areas where % complete is obvious (e.g. "Paint this 10x10 wall), then you're lucky.

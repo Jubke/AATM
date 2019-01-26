@@ -1,0 +1,67 @@
+If I know the answer but am not willing to put the time in to answer your question for free... then I'm probably not gonna do it for $20 either. 
+
+You can also lift an edit ban now: 
+
+A solution First, get rid of the padding: 
+
+Over the past few months, I've found that I regularly need the ability to look up review tasks associated with posts, for things like diagnosing odd voting patterns, verifying that the queues are operating as expected, or tracking down rejected suggested edits. 
+
+There's no way to "undo" a misclick on "helpful", so I've already given three unhelpful flags a stamp of approval when nothing needed to be done. If I zoom way, waaaay in, and tap very carefully, I can usually mash the link, but even then sometimes Android seems to think I'm aiming for that button. 
+
+If you like anything about the way the site works now, then it's a terrible idea. 
+
+So if you just want answers, and lots of 'em, but don't really care if they actually answer the question... And if you love flame wars... Then yes, this is a great idea. 
+
+If the SO community says it doesn't belong on SO, then it would be a bit rude for you to override that: you're not a SO moderator. 
+
+It would get the question off of your site. It would allow the question to be re-opened on SO, if the people so desired. It would allow the question to be deleted on SO, if the people so desired. 
+
+Usage guidance This was implemented for the following purpose: someone is quickly and repeatedly suggesting poor or controversial edits and must be stopped before they can overwhelm the review queue. The ban will allow pending edits to be reviewed with care at the convenience of the moderators or other reviewers. Following the edit ban, they should be engaged in comments and/or on meta and made aware of the rules and guidelines for respectful editing. 
+
+Hey, cool, the 10K tools list comment flags now! It's time to cleanse the city, Davey! 
+
+The way you phrased your request is a bit odd and does not quite match the implementation, but the intent is clear and I believe the changes satisfy the need. 
+
+There. No gray padding ghetto, no rivers... Much less offensive. At least, I think so. Anyone else? 
+
+I can't help but think that just a little bit of whitespace, maybe just an extra line, would suffice to avoid this problem. 
+
+Wait, only 5 flags still? Ouch. That doesn't go very far. 
+
+I'm not entirely sure this would need to be moderator-only, but I've had requests from moderators for this information and can see where it would be helpful to them on occasion (for the same reasons it's been helpful to me), whereas it might well just be noise for most other folks. 
+
+...I didn't. It's ugly, it's distracting, it makes me not want to mark inline code and identifiers when I'm answering questions. 
+
+Currently, doing this is... Somewhat tedious. More importantly though, moderators can't do it at all! 
+
+Note how the keywords and identifiers pop out of their surrounding text, completely destroying my best efforts to integrate language keywords with the grammar of the sentences referencing them. That's annoying. 
+
+It's Sunday afternoon. It's snowing outside, and I have a pounding headache. A perfect time to go through the flags queue on my little tablet. 
+
+The kick-mute feature in chat is... Wonderful. Instead of letting rudeness or idiocy derail a conversation, savvy room owners and moderators can quietly remove the disruptive person from the room for a short time, and continue chatting without breaking stride. The person responsible gets a polite reminder to be considerate, and the rest of the folks in the room don't have to listen to someone being berated in public. 
+
+The new mobile theme, wonderful though it is, lacks a "kick-mute" option. Posts have a flag option (though no mod-flag option) and a delete option, but tapping a user just takes you to their profile. 
+
+The small bit of added space did the trick. Action shot: 
+
+However, I would be in favor of a feature that let you delete the question from your site and simultaneously change the close reason to "off-topic" on SO (in the process unlocking the original but leaving it closed). That would accomplish three helpful things: 
+
+ahh... much better http://shog9.com/so_code_subtle.png 
+
+The horror http://shog9.com/so_code_slur.png 
+
+Switch to the full-site theme Tap the username (probably have to zoom in for this unless you have very small fingers). Find the menu that popped up (if you zoomed in, it definitely won't be next to the username you tapped) Tap kick-mute (might have to zoom in again if you zoomed out to find the pop-up) Flip back to mobile theme (zoom all the way out and target an unreadable link in the bottom-right sidebar). That's... Hard to do without a significant break in the conversation, during which things may well have escalated. 
+
+...Except, some of the flags are completely bogus. And the "declined..." link is entirely too close to the "helpful" button for me to hit it accurately. 
+
+This already helps. The text isn't so broken-up, and you can kinda separate the code on adjacent lines. But it's not enough. That background color still intrudes, tainting what should be clean, white space around the letters. Ditch it, and color the text itself. Maybe increase the weight, if you're really worried about it blending in too much: 
+
+This is terribly distracting. What's the point of carefully marking up key parts of text if the result is ugly and distracting? 
+
+getting better... http://shog9.com/so_code_no_padding.png 
+
+The problem Here's what I'm talking about: 
+
+Way down down along lazy river road http://shog9.com/so_code_river.gif 
+
+Therefore, I propose an option be added to each posts's moderator menu that will provide a list of any and all review tasks associated with it. A spiritual brother to the current "Show flag history" option:

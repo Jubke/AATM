@@ -1,0 +1,27 @@
+You see that the notion of median depends critically on the particular order that you put on your set. 
+
+Oppy is either confused, is ignorant of basic real analysis; or is being quoted out of context by the OP. 
+
+But if you take the ordered set of natural numbers, 0, 1, 2, 3, 4, ... then NO number is the median. Because if you take any number like 47, only finitely many numbers are smaller than it and infinitely many are greater. So no number is the median. 
+
+The median of a (finite, ordered) set is the value with an equal number of elements of the set above and below it. 
+
+Yes, but only because every possible sequence of flips is a miracle. 
+
+is surely false, for the simple reason that it's a definition and not a result. 
+
+You personally are a statistical miracle. Your existence is unimaginably unlikely yet here you are. One needn't adopt a theological point of view to see that everything in the world is truly a miracle. 
+
+If you want to extend the notion of median to infinite sets using the same definition, that's ok ... but you have to be careful. Here are two examples. 
+
+Now you might say, What do you mean, "possible world?" I admit that this is a very deep subject with an extensive literature in philosophy; and that I'm ignorant of all of it. I do know that it's a murky notion. Is there a possible world in which 2 + 2 = 5? We tend to think not, because 2 + 2 = 4 is a necessary truth. But why is that? 
+
+It's the same in every field. Math is no different. Mathematics is a historically contingent human activity. It's never perfect but it's always getting better. Painstaking struggle, false starts, the occasional genius, lots of plain old hard work. That's how progress is made in every field. 
+
+Do the same analysis for 1 million coin flips and you see that any particular sequence has exactly the same probability, namely 1/2 to the millionth power. Getting all heads or all tails or some completely random-looking string have exactly the same probability. 
+
+But, the statement "E proves T", where E is the collection of Euclidean axioms, is in fact a necessary truth; because it's provable by logic. 
+
+Countable additivity is useful in measure theory so that we can say that the union of disjoint intervals of lengths 1/2, 1/4, 1/8, ... respectively has measure 1. But you don't need an assumption of countable additivity to define the limit of a sum of real numbers. That result only depends on the proper definition of the real numbers and the development of the theory of convergent sequences and series. 
+
+But the odds of that exact sequence of flips are 1/1024. To see this, what are the odds the first flip is H? 1/2, right? What are the odds the second flip is T? 1/2. And the odds that the third flip is T? It's 1/2.

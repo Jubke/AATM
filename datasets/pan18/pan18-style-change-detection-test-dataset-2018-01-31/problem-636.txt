@@ -1,0 +1,23 @@
+If a user attempts to load a https web page in Mobile Safari and the server's certificate validation check fails (its expired, revoked, self-signed etc.) then the user is presented is presented with a warning message and asked if they want to continue or not. 
+
+Background pushes do not get delivered to a user-terminated app. 
+
+I know that's not the answer you were hoping for, but the situation is there are no exact black and white hard rules that can be stated as fact and nobody can say for certain if an app will or will not be accepted or rejected. 
+
+I am creating a generic app which will have different builds for different customers. The app is 99.5% identical for each customer, the difference being each is branded with the customer's own particular images and text and app icon etc. 
+
+You yourself have summarized the actual status, which is that there is inconsistency. This is inconsistent - surely the UIWebView behaviour should behave in a similar way to Safari to be consistent within iPhone itself? Its also a daft that NSURLConnection allows total flexibility with this yet NSURLRequest:setAllowsAnyHTTPSCertificate is private. 
+
+Go to your Target's settings and choose General, then App Icons and Launch Images. Now set "Launch Screen File" to your "main.storyboard" (or another storyboard if appropriate) This is actually a bug with XCode 8.3 beta 4 (also present in Xcode 8.3 beta 3) and will occur if your device is not registered on your Apple account. 
+
+I was wondering if a possible approach would be to place the project into a workspace along with a number of static libraries, each of which contains the specific text and images for each customer and then use different schemes to create different builds. So Scheme A would create a target built with the main project and static library A for example. 
+
+You are missing a LaunchScreen.storyboard file. Create a LaunchScreen.storyboard file and add it to your project. 
+
+I don't believe this will be a coding issue, but here it is anyway: 
+
+I have an Apple iOS Enterprise account and am creating a distribution provisioning profile, and was surprised to see that I had to choose a distribution method of either In House or Ad Hoc. 
+
+I started with a small proof of concept but before going too far with it I'd first like to check this is a feasible and reasonable approach, or if there's a better alternative. If it is feasible then a few questions come to mind: 
+
+Unless it is a voip push, in that case the app will be started by the OS if necessary (but yes you can only make use of voip push if your app provides voip functionality to the user.)

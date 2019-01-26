@@ -1,0 +1,25 @@
+The process typically favored is the second option, since it has the following advantages - 
+
+Additionally, you should think about using 'blockers' on cards your team is currently working on to show that some card(s) got blocked when the people working on those cards got diverted to working on the Expedited card. This can provide some great analysis on your team's interrupt driven work and its impact on regular work. 
+
+To your question about defining workflow stages as columns on the Kanban board or as labels on each work item, having the Kanban board allows you to visualize your workflow like no other tool. It then provides you a powerful information radiator of where (what stage of the development cycle) your overall body of work is, where there may be overloading, etc. So, if you use Kanban, the columns as workflow stages is the best option. 
+
+The second one is, where the User Story is 'blocked' wherever the issue or bug was reported and a new issue or a bug is created as card and taken up for work at the earliest stage it needs to be taken up in (including perhaps in a completely separate swim-lane with its own workflow for fixing such issues or bugs. In the picture below, cards with the red square represent blocked user stories - which are then linked to their associated defects. 
+
+Regardless of the actual numerical limit, the important thing is to avoid the "100% utilization fallacy" and ensure the process has sufficient slack to ensure a consistent level of throughput over time. That means that you generally want to apply some fudge factor to lower your WIP limits, but the specifics will vary from project to project. 
+
+— CodeGnome's Iron Law of Process Economics 
+
+There is value in a smooth flow and a predictable cadence. When the process is disrupted, the cost to the organization should be made visible on the card wall and through reported metrics. Since Kanban is based on agreements, part of that agreement needs to be an acceptance of responsibility by management for the natural consequences of disrupting the process. 
+
+TL;DR To the very best of my knowledge, there is no canonical formula for determining Work in Progress (WIP) limits. However, there are some empirical best-practices. 
+
+TL;DR The Scrum Guide was designed to be a structured, portable framework that could be lightly customized for each implementation. The Kanban Method is closer to a set of principles, and doesn't even mandate a set of common artifacts—not even the uniquitious board and cards that many people consider synonymous with Kanban! 
+
+Dev team should get embedded with the client Product Management: The only way to build software is for the vendor to partner with the client. The dev team should function as a single team with the client's product management team who have the vision. This requires the client PM team to commit resources and time for the duration of the project. This is very hard to secure, but absolutely critical to the success of the project. Structure the project this way and then you can do the planning/estimation to meet financial (ROI) needs. 
+
+Good luck with your transition! Feel free to come back and ask additional questions here on PMSE. 
+
+This is a failed approach. In software development, there are two inherent limitations to trying to arrive at a good estimate from a fixed scope: 
+
+How do you determine which product to push and which one not? In general, you will push those products that give you the most contribution margin. If you do that though, you may be up against some bottlenecks also known as "constraints" in accounting jargon! For example, in a job shop that I worked for earlier, our vertical boring machine was the constraint. It was the most expensive, required the most skill and could also be the most profitable. So, you want to maximise the contribution margin from such a constrained resource. You have to figure out which is the constrained resource in your shop. Once you do, here is a good article that shows you how to model that.

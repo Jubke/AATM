@@ -1,0 +1,57 @@
+Ugh... What went wrong at Protoss' side? 
+
+The first energy is wisely used on a MULE to get the OC cost back, it would be too early after your last scout to gain enough additional information which would be a waste. But let's look at the second time you get energy to use your OC for scouting purposes, this looks like the ideal time to throw down a scan to reveal more... 
+
+If he would hide one of his first production facilities (Starport), you should see that his armies are smaller because for every Void Ray he bulds his army will have less units. If you suspect, it's important to get some kind op map vision at key locations. 
+
+An armory, which is essentially needed for a Mechanical play-style. Besides allowing you to do upgrades for both Vehicles and Air, they give you access to the powerfull Thor. Word of caution is that this is a slower unit and is more a kind of static defense, they should only be taken on the field if you have enough map control or AA turrets in your base to anticipate your opponent... 
+
+Why does an attack I planned fail? Turn your opponent crazy! But secure your expansions against a counter attack... 
+
+Scouting and map control are key. Don't mindlessly attack, but know what your opponent is doing... 
+
+See the last part of Tzenes answer for a more in-depth explanation on them. 
+
+How can I best practice to get used to them? Should I build Ghosts a few matches and Raven a few? 
+
+(Protoss and Jungle Basin are used as examples throughout the answer) 
+
+No expansion past natural, if he had one he would have more resources, units, ... 
+
+But I don't know what units he has after my initial scout? 
+
+If you really have to, you could opt to create a Flying Scout Rax or send in a Marine. But those might give you less or too late information... 
+
+I would rather spent energy on a scan to see my opponent planning to warp DTs than suddenly having them in my base right after I did a MULE because "I thought he would attack with Zealots and Stalkers". But instead he produced less of those, thrown down Cannons at his wall, warped them in... 
+
+2) Use more Medics. With units like mutalisks, you probably want more medics than 1/7, probably closer to 3. 
+
+If you're referring to the armory on the hyperion, then yes, upgrades (like stimpack) get applied to the mercenary marines in game. 
+
+The 1v1 maps are the ones you will probably see the most, because most of the competition occurs at the 1v1 level. 
+
+It does depend on how urgent you need to get back to the battle, but if the battle is so important that it can't be delayed by a couple seconds, the gas can probably wait. 
+
+http://sc2armory.com/forums/topic/18620 
+
+Here's what I finally got to work: 
+
+If there's a specific unit you keep losing, Tzenes's answer describes how to put a unit in a control group. 
+
+I was able to completely eliminate the enemy's bases, and got the "Scenic route" achievement. 
+
+1) Depending on which order you're doing the missions in, you can probably get mercenary marines too. 
+
+Option 1: If you're in the middle of the battle and need the absolute most amount of time you just have them all start going to the gas: 
+
+In retrospect, I probably shouldn't have built that 8th drone. He probably just barely pulled his weight before the time limit, and I would have rather started the spawning pool that much sooner, which would make it 7 Pool, 6 Overlord 
+
+Lost units in general? No. Probes? Sometimes. Any time a worker (probe, drone, scv) is just sitting around doing nothing, he is considered an "idle worker", and the logo of the worker appears in the bottom left of the view area, with a number telling you how many idle workers you have. Clicking on it (or pressing F1), will cycle through them. 
+
+The most commonly played maps (and the best maps to learn if you want to play multiplayer) are the ladder maps. They're the maps that are used the most because most multiplayer games played online are ladder games. 
+
+If you do it manually, you'll take about 2 seconds, and you can lose zero minerals. 
+
+Note) Reapers are nice, but they are most effective against buildings, or exploiting terrain (hitting a weak side up a cliff), they work okay in a group with marines. 
+
+If you don't do it manually, statistically, you'll have one who is walking to gather (A), one who is walking back with minerals in hand (B), and one who is in the middle of gathering (C). (As they spend about a third of their time on each task)

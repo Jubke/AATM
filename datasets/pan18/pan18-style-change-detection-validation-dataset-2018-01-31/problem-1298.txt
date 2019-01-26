@@ -1,0 +1,23 @@
+To describe this phenomenon as “assimilation” is not entirely correct, as it affects only the article. For example, you say at-tīn (with apparent assimilation of /lt/ > /tt/), but you also say iltizām, without assimilation of the same cluster. So it is not a purely phonological thing, but one that is morphologically conditioned. In other words: /lt/ is assimilated if /l/ is part of the article, but not assimilated if the /t/ is part of the reflexive infix in verbal morphology. 
+
+In standard US English intervocalic /t/ merges with intervocalic /d/. "Writer" is thus pronounced identically with "rider". From a strictly US-English point of view there is no justification in distinguishing between the two at a phonological level. The OED writes: "Brit. /ˈrʌɪtə/, U.S. /ˈraɪdər/". Please note the slashes: this is phonology not phonetics. 
+
+Similarly, there is no assimilation if the /l/ and the following letter if both are part of the root. E.g., you say as-sana (“the year”), but ʼalsina (plural of lisān “tongue”). The cited Wikipedia article is extremely weak. “Elsewhere it is a very light sound, and is frequently silent, as in hutan ~ utan ('forest'), sahut ~ saut ('answer'), like Romance languages.” First of all, this is ungrammatical (it should be “as in Romance languages”). More significantly, it appears that the anonymous author does not understand the difference between phonology, phonetics, and spelling. The "h" in (for example) French “homme” is not a “very light sound” but merely a historic spelling for /zero/. Malay /h/ is a phoneme, which can be realised phonetically in different ways, though to call it “a very light sound” is not exactly the pinnacle of phonetic sophistication. Insofar as it is a phoneme, it is legitimate to represent it with a single symbol /h/ in phonological transcription. 
+
+Caveat: in some American intro linguistics textbooks, a segment is incorrectly defined as a speech sound (phone) only. OE cwen => eME cuen, cwen, quen, quuen, qween, kuen etc. 
+
+cheese - cheers /i/ versus /ɪə/ 
+
+And there are British dialects where [o:] is not diphthongized. After all, in Middle English it wasn't, either. It got diphthongized during the Great Vowel Shift. There are dialects where the glide is a schwa etc. 
+
+Here's a screenshot of the relevant section from http://www.blackwellpublishing.com/shockey/ 
+
+Norman French (or Anglo-Norman) was a dialect of Old French that died out as a spoken language by the beginning of the 13th century. It was used by by the ruling elite, which constituted no more than 2-5% of the total population (Upward and Davidson 2011). 
+
+Obviously, as David Crystal puts it, "the incomers had no interest in preserving the distinctive Anglo-Saxon letters" (Crystal 2012: 60). Moreover, the West-Saxon educated elite that was responsible for developing and maintaining the WS standard gradually lost power and by the end of the 12th century their spelling practices were abandoned (Blake 1992). Thus, a segment is "any element, at any level of representation, which is described as forming sequences with others" (Matthews 2007). Onset of voicing occurs well before stop release and also fills up intervocalic (between vowels) stop duration. Onset of voicing (blue) occurs well after stop release (red). 
+
+Voiceless aspirated stops Here are three voiceless aspirated stops (what we're used to seeing in English as /p t k/ when they occur as simple onsets at the beginning of stressed syllables): When you get presented with a sound you've never heard before in that particular phonetic environment, your brain just associates it to the nearest match. Your brain disregards the voicing before the stop release and notices that there is no aspiration duration, concluding immediately that it is also /b/. This is helped in large part in that in even slightly rapid speech, the English sound /b/ appears not as an unaspirated [p] but actually a fully voiced [b] (e.g., in the word tabs). 
+
+The top half of the visual representation you see is a waveform, a visualization of air pressure on the y-axis and time on the x-axis. This is the actual energy your ear picks up and interprets as sound. 
+
+The spectrum So you won't have to pick apart samples from above, here's a side by side comparison between [p] aspirated, [p] unaspirated, and [b]:

@@ -1,0 +1,31 @@
+Suffocation Carefully dig a hole directly beneath them, and fill it in with sand/gravel. 
+
+Update I've unanswered this question, now that fire behaves differently in 1.6. 
+
+First, a blank map is created This blank map will not start recording immediately, as maps previously did. 
+
+Lava Carefully place a bucket of lava by your victim innocent bystander. Once they are aflame, pick it up again so it doesn't spread too far! 
+
+How should I cluster my powered rails for maximum efficiency? How many should I put at a time, both on flat, and inclined stretches? 
+
+In this image, the firey block is surrounded by stone on all sides (other than the top), yet is still being ignited by the fire (note: not lava!) below the floor. 
+
+I got some melon seeds from an abandoned mine chest. I naively planted them as I would wheat seeds, in a patch of grass, altogether. I came back to find that they'd matured into fully grown plants, but there wasn't a melon to be seen. What should I be doing? 
+
+From version 1.4, you can zoom maps in game, as the whole process of map-making is changed: 
+
+Now that mushrooms can be farmed, what's the best pattern of mushrooms to make to grow them optimally? Are there any other conditions that affect growth (such as water/surrounding crops when growing wheat)? What is the rate of growth at this optimal layout? 
+
+Reload Minecraft Close Minecraft 
+
+We can do better with a simple circuit that uses maths to extend the time between pulses. 
+
+Yes The simple way is to use a timer with a ridiculously long time set. However, since you can only increment the time 10 seconds at a time, this would require 4320 clicks. A bit much. 
+
+All you need to do then is sync the timers by powering them on from the same line to disable them, and then powering them all off at the same time. 
+
+Zombie Apocalypse Got access to a zombie spawner? 'Pipe' your zombies with water flows into the center of the village. Unless they've got an iron golem, there may be a few casualties. 
+
+Remember: It's not you, it's the hostile environment. 
+
+If you include the possibility that an ocean biome can be placed next to an ocean biome, then you could have any sized ocean. In theory, one could imagine a seed that created nothing but ocean biomes, resulting in an entire map of ocean. This is pretty unlikely though.

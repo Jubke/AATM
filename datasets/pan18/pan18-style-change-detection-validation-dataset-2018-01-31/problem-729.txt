@@ -1,0 +1,31 @@
+Where i'm stuck is do I need a relationship between these two entities? 
+
+The 5000+ locations come from a JSON feed from Met Office Datapoint API and are in the form of a NSArray of NSDictionaries, the NSDictionary includes id, lat, long and name. I have 100+ rows in a tableview with the data being pulled from Core Data, when the UISwitch is OFF UIControlEventValueChanged isn't triggered but if I change the switch to ON when the switch(table row) comes into view it fires UIControlEventValueChanged. 
+
+EDIT 2: Removed country attribute and renamed relationships Then in my UITableViewController's viewDidLoad I create and position the UIImageView using the first static cell in the tableview as an IBOutlet ("firstCell"). I then set the autoResizingMask which sorts out rotation and finally add the UIImageView to the view. 
+
+http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/sitelist?res=daily&key= 1) "Person" Entity - attributes such as name, tel, address, country, etc... I'm creating an iPhone app with Weather lookup for particular locations and I have the following problem that i'm not sure the best way to tackle. In my iPad app I currently have a background image png of 1024x1024 pixels and set it using the following 
+
+I will be allowing the user to select a country from the CountryList entity data and wish to store there selection in the country attribute for Person entity. 
+
+I'm using the following for the cell configuration I know a user can only belong to 1 country but a country can have lots of users so is this a one to many relationship? Or is it many to many because lots of users can belong to a country but a country can have loads of users? Confused! http://datapoint.metoffice.gov.uk/ but 
+
+Make sure you initialise your array before using it 
+
+Could someone please help me with getting the UIImageView centered in both portrait and landscape after rotation. 
+
+I have played around with some of the contentMode settings but not had any luck, I either get portrait to be center or landscape to be center but not both. I subclassed the first 3 UITableViewCells and set a frame size to take into account the size of my image. Could someone please enlighten me on this and point me in the right direction in what i should be doing in xcode. I previously asked a similar question on this but didn't get much help and have now looked into it further and still can't see why I have a problem. 
+
+Note: The above code is written for my app on the iPad but screenshots are from testing I did on iPhone 
+
+I have made the changes to Entity names etc and think I now have the relationship set correctly. I managed to produce what I wanted using the follow, this is proberly not the best way or cleanest way but as no one from StackOverFlow gave any better suggestions I thought I better answer this. This has not been fully tested and i'm sure isn't a great implementation, but its a starting point for the effect i'm after. Please reply if you know of a better way. 
+
+I want to match my location to the nearest location from the list from the Met Office and grab the id key value. I have the latitude and longitude of a location and want to find the closest lat/long match from a list of 5000+ locations When scrolling through the tableview quickly it stutters and lags when UIControlEventValueChanged is fired. I'm guessing because the tableview is looking up data from CoreData and seenSwitchChanged is also trying to access CoreData 
+
+Can anyone explain why UIControlEventValueChanged gets triggered when a UISwitch is ON in a tableview cell, but not if it's OFF whilst scrolling? 2) "CountryList" - attributes such as countryName, countryLat, countryLong, etc.. Hope that explanation is clear enough. 
+
+If I comment out the above line the tableview scrolls smoothly. Note: The above works fine with other JSON feeds, also from other feeds on 
+
+Do I just take the countryName from CountryList as a string and store it in country from Person? or can I make a relationship between them? The CountryList entity is pre populated on first run of the app to include all the countries in the world and their respected data. 
+
+I'm having a little trouble grasping CoreData relationships, i'm note sure which relationship type I should be using between my 2 entities or if my logic is correct.

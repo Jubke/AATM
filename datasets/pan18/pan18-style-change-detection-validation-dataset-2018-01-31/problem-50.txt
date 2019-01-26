@@ -1,0 +1,33 @@
+Talking about that, PM has a pretty different perspective of a project, thus their feedback will be even more valuable. If we keep feedback just within a functional group, here: developers, and developers' functional manager we get pretty homogeneous view of a project. Bringing other point of view, especially from someone working closer with a client, would definitely help to make it better. 
+
+If people (here: PMs) never delivered feedback to other team members, rating system may be a good way to standardize the way they construct their feedback. 
+
+From these perspectives finding a way of incorporating feedback from pretty much anyone somehow connected with developers' work to their appraisal is good. And PM is definitely a person whose work is "somehow connected" with development. 
+
+Depending on your organization's standards it may be a standard way that people are rated on a scale and if it is so I don't say you should avoid that at all cost. Do remember that PM's feedback is just a part of the whole judgment on one's work. 
+
+On the other hand please avoid any automatic measures, like a number of bugs, lines of code etc. It has nothing to do with feedback and it will only drive measured numbers down or up (depending on a goal) with no direct influence on quality, e.g. if you measure a number of submitted bugs, you may be pretty sure that people will stop submitting bugs; it doesn't say much about a project quality and even fogs your visibility more. 
+
+Controlling outgoing messages. Leaving all communication paths wide open may result in a situation where your developer is making some unreasonable promises just because from his perspective it seems a good thing to do. It may be about promising some feature on tomorrow but it also may be telling that "this would take me just a couple of days," which may even be true, unless you have to account how it would affect the rest of the project. 
+
+First, every appraisal, no matter who does it, is arbitrary to some point. If someone isn't fine with that they should find a place where there's no appraisals at all. 
+
+If you really care about their productivity - ask them, which way they would be more productive. And when you ask - make sure you do listen to what they are saying (I've seen a boss "asking" like this "we are going to have such and such changes, ok?" ) 
+
+Imho, project is dead when it has been aborted (or abandoned), if it has been successfully deployed then the project is very much alive (the code is there and it works!). 
+
+I think Retrospective is more appropriate name in this case 
+
+if you can put some of your projects on hold - do it. 
+
+option 1: it might work if you make these standups extremely quick and efficient (15 min is the maximum, standup could be much shorter) 
+
+imho, it's quite common for creative people to get bored during all those endless meetings 
+
+in this case you can ask one of the teams to take care of the problem (or just assign one of the teams to be a "product support" team - for one sprint or forever). 
+
+option 2: sounds like a disaster to me; having so many people and projects, it would be impossible to process it all in a meaningful way and still keep it under 15 minutes; you might end up with long boring "standups" (I've seen those) 
+
+I would vote for option 3: try to split your people into several teams and minimize the number of projects per team (context switching takes lots of brainpower). Ideal SCRUM team has 5-8 people (afaik). 
+
+perhaps you could change the way you run meetings? I've seen too many project managers who just loved all kinds of meetings and couldn't understand why developers would find these wonderful long meeting "boring" or "exhausting"

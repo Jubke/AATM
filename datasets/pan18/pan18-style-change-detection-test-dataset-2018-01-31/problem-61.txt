@@ -1,0 +1,27 @@
+Does an entire party's kills add together for it, or is it based only on a single character's kills? 
+
+There's a ring, Unity, that splits damage among all people wearing it. 
+
+After doing this and restarting the downloader, I suddenly went from truly abysmal speeds (like, 100 MB downloaded over 3 hours) to a > 800 KB/s transfer rate. Even with P2P disabled (and thus, I think, not even needing the port forwarding) I was getting these speeds. Everything else I'd tried before this, such as forwarding ports, disabling the firewall, turning off anti-virus, or enabling/disabling P2P had no effect on my actual speeds. 
+
+If I understand your question, you're asking if you can reset him so that when you start training him again, he'll get a different set of recipes. 
+
+I'm finding that with my current gear, taking down packs of elites in Inferno Act 2 is a slow, tricky, and painful process. Rather than slog through elite packs, I'd like to toss on some Magic Find gear and try to quickly hunt down some resplendent chests. I find that it's fairly easy to kite all the dangerous mobs to a far-off corner of the dungeon, die, and then make a bee-line for the chests. 
+
+Tyrael/The Stranger will even talk to you after you kill the final boss, but conversations with him are often in small spurts. 
+
+This is easily soloable although which class you play and your playstyle can affect your success. As you've probably figured out, killing things and fighting in general is the wrong approach. To complete the Crumbling Vault and any of the timed achievements, there are only a few things which can help you: 
+
+As all the followers appear before you after you defeat the final boss, almost all of their conversations are available until the end of the game, but there is one that can be missed so I'll mark it with a +. Many of the conversations will unlock only after having heard other previous conversations, but will not become available until the point specified. Also, some of the follower conversations may be hidden if they are not following you, but by having them follow you, you can get a complete list (without the extras). 
+
+I did a run through with a new character, noting when each of the conversations became available. There are a few that the exact point in the quest is not 100% because a friend joined and I didn't want to hold them up by running back after every single objective. Once you've heard a conversation, if it was missable, it seems to stay around in stead so until I go through with another character and don't talk to anyone, I can't be certain when exactly they can be missed. 
+
+The maximum party size is four people.1 2 There is no party experience split.3 
+
+For each additional party member, monster health scales: +75% HP in Normal, +85% HP in Nightmare, +95% HP in Hell, +110% HP in Inferno.4 5 (The upcoming 1.0.4 patch changes this. Instead of scaling monster health buffs with difficulty, all difficulties get a flat +75% HP increase per each additional party member.6) There are no other party size buffs. 
+
+Is this a Boss Modifier they have in common, or is it unique to certain areas or party conditions (e.g., everyone dead)? I feel like I've seen this more often with Fire Chains enemies (or something that looks like Fire Chains), but the recollection is vague. Do all enemies regenerate their health upon leaving the current zone? Can shamans and enemy resurrectors replenish life? Can Champions+ regen life for normal enemies? And what affects these rates of regeneration (e.g., difficulty, proximity to neighboring enemies)? 
+
+Or, if you prefer not to move your wrist, click, I, click to drop, I (open and close inventory). 
+
+Yes, the gem is removed and added to your inventory upon salvage. Don't be afraid.

@@ -1,0 +1,45 @@
+Before I push out the changes for a PR, I'd like to expand this to be able to link to queries on the linked site as well, just in case that's ever useful (i.e. swap between main and meta and vice versa). I'm open to suggestion on what form this should take. 
+
+The problem is that the above text (and the subject line) are specific to the Careers-initiated invitations – The user-initiated invitations, which is what I originally received, start off like this: 
+
+When hovering, the tab shifts down one pixel, causing it to move out from under the mouse. This returns it to its normal state, which causes the tab to go back up, causing the hover to reoccur, ad infinitum. 
+
+I couldn't find the code that would compress to the version used currently in user.js, so I'm unsure how to account for the discrepancy, but either accounting for it in the code or updating the History.js code that seems to be included in user.js should most likely fix this issue outright. As a test, I swapped in the updated History.js code by intercepting the user.js request with Fiddler to return my modified copy, and doing so seemed to produce the expected (corrected) behaviour. 
+
+You can see this happening by following the method calls; the mobile view first calls 
+
+I don't often click through anyway, but I can't think of any particular reason why the per-site meta notifications shouldn't have a link to your meta profile...so they should, for consistency. 
+
+Careers 2.0 is a great place to build a showcase of your professional work as a programmer. It is open by invitation only. 
+
+When using the Careers candidate search, the client-side code refuses to believe that changes to (at least) your Skills search criteria will be fruitless, and continuously double-checks with the server for results. While I appreciate its enthusiasm, the requests are excessive at around 6 per second: 
+
+Since the target doesn't exist in this case, when the server returns the 409 response about rate-limiting your comment voting, the error dialog is appended to an empty jQuery set and therefore isn't visible to the user. 
+
+It seems that the process used to generate the title attributes for the image links on the Stack Exchange store encodes an already-encoded string, leading to situations like this: 
+
+Causing the textarea to refocus fixes things, since it has the full list of comments to work with at that point. However, since the textarea is auto-focused after you click the link to load additional comments, it's not too hard to end up in a situation where you don't have all of the expected names displayed. 
+
+The notifications panel of the StackExchange™ MultiCollider SuperDropdown™ likes to give you an opportunity to bask in the glow of a new badge by providing a direct link to your profile on the relevant site. 
+
+This is in the works, so hopefully beta sites will have their data become available in SEDE within the next few weeks (as of this edit), now that Data Explorer has been moved back to proper hardware. 
+
+Ideally, the autocomplete list would be forced to update once the comments were done loading. 
+
+You can test this by going to the search page and putting in either an unpopular tag, or one that doesn't exist, like "ja". I was able to reproduce this in Firefox 3.6, Chrome 11 and 13, IE 9 (for good measure), and Opera 11 (for Jeff's amusement). 
+
+A Careers 2.0 profile is a great place to showcase your professional work as a programmer – Stack Exchange answers, open source projects, even the books you’ve read. 
+
+For now though I've just put out a pull request for the base functionality, pending a pull and redeploy. 
+
+Even if you decide not to join Careers 2.0, we would like to thank you for all your contributions to Stack Overflow. It wouldn’t be the same without you. 
+
+Since (as far as I know) there's no guarantee that the email recipient is actually a Stack Overflow user in the case where an invite was sent to them by a Careers user, the reminder email should probably make sure to use the appropriate invitation text. 
+
+The close link on the mobile site gets mangled if you vote to close something that has existing close votes: 
+
+Attempting to delete questions on the mobile site on iOS causes two notification messages asking me to confirm the deletion, which it shouldn't do. 
+
+where the title attribute looks like the following: 
+
+I haven't really looked into it, but it may just be that the handlers from full.js and mobile.js are both being triggered, as there seems to be the flash of the error dialog indicating something went wrong on the supposed second AJAX request when the response from the first triggers a page reload.

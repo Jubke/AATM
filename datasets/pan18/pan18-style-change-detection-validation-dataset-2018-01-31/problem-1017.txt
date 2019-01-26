@@ -1,0 +1,29 @@
+Consider various contemporary debates such as climate change or the debate over the relationship between vaccines and autism and other diseases: There is broad scientific consensus that climate change is real and vaccines do not causes autism, and anybody who denies these facts is considered to be unscientific, ignorant and deserving of mockery and derision. But, if Duhem-Quine and theory ladeness of facts hold, then climate change deniers and anti-vaxxers are perfectly entitled to their opinion. As long as they come up with a suitable set of presuppositions, then no set of facts can ever prove them wrong, and accusing them of being irrational or illogical is disingenuous and unfair. 
+
+(*) An additional note: That the logical positivist program is considered to have failed and was abandoned by the 1960s is the most common position, and is frequently mentioned in various introductory articles and courses. As I mentioned earlier, it was notable that several people who were themselves associated with the L.P movement had agreed that it failed, which is why most accept its failure as a fact. 
+
+On a similar note, I've always wondered why mathematics and theoretical physics departments didn't hire a bunch of developers to set up large clusters churning through potential theorems (suitably encoded) and trying to prove or disprove them with genetic algorithms, simulated annealing or survey propagation. Whenever they stumbled upon a positive (i.e. a theorem that is true), they would bring in their human mathematicians to verify and then edit and publish the result if it is relevant. 
+
+This is a partial answer only to (i), but its more than I can put in a comment: 
+
+He then goes on to provide an extreme example to support his position: We can never know what a it is "like" to be bat. Bats are highly evolved mammals with complex brains, and therefore must have subjective experience. But instead of vision, they use echolocation, so their subjective experience will be radically different from ours. We can conceptually understand how a bat moves using sonar, and we can try to imagine ourselves as bats, but we are still using our own subjective experience to "translate" the bat's sense experience in to ours. Ultimately, no matter how hard we try to imagine ourselves as bats, we inevitably imagine the cave they navigate and the insects they catch as visual perceptions, not sonar echoes. Navigating the world through sonar instead of vision is something that is forever inaccessible to us. To quote Nagel's paper again: 
+
+Yet from an information point of view, both processes are similar: 
+
+Similarly, what makes me prefer maple walnut ice-cream over strawberry ice-cream is the "what its like" of the taste of maple walnut for me, i.e. the qualia of walnut. 
+
+Can one be a reductionist, in the sense of believing that everything can ultimately be explained by a basic set of fundamental laws, while also being a dualist or an idealist? 
+
+The concept of simulation and experiment are not mutually exclusive: When a biologist performs a biochemistry or molecular biology experiment in a lab setting, they are also simulating a process that occurs in Nature. A materials engineer performing stress tests on a new alloy in the lab is simulating the conditions that this alloy will endure when it is used to build a bridge or an airplane. This applies to just about any physical science where researchers try to replicate real world conditions in a lab setting. So in general, something can and often does count as both an experiment and a simulation. You must distinguish between simulation in general, which does overlap with experimentation, and computer simulation, which are a mathematical tool for performing calculations based on theoretical models. 
+
+From an epistemology point of view, is there a difference between "knowing" and "understanding"? How would one represent the ability to internalize a concept? How does reality have to be mirrored in the mind, beyond a simple linguistic correspondence for a concept to be internalized, for a person to get it? Does this "understanding" vs "knowing" difference strengthen John Searle's Chinese room argument against strong A.I.? Have any philosophers worked on this issue? 
+
+Is there a second demarcation problem between "carckpot" pseudosciences (such as astrology or numerology) which are providing the wrong answers and legitimate fields of inquiry (such as political theory or ethics) which are trying to provide answers but so far have failed to provide verifiable and falsifiable statements or accurate predictions? 
+
+To answer your second question, Daniel Dennett attempts to prove that qualia are a pseudo-problem in his paper "Quining Qualia" (Dennett, Daniel C., In "Consciousness in Modern Science" Anthony J. Marcel & E. Bisiach (eds.), [Book Chapter]. Oxford University Press (1988)) and later in his book "Consciousness Explained". 
+
+I always assumed that reductionism was an inherently materialist/physicalist point of view: If one believed that everything can be reduced to the fundamental laws of physics, then by implication, they only believed in the existence of the physical. 
+
+The SEP has a pretty good article on the Epistemology of Computer Simulations. 
+
+Am I not talking about the demarcation problem per-se (at I least I think I am not), because even disciplines which are agreed upon as failing various demarcation criteria (such as astrology or intelligent design) are still trying (and failing) to be scientific in the sense I mentioned above. If they did start to provide answers, science would have to take them into account. Moreover, various philosophical schools of ethics are trying to be scientific in their explanatory framework, they are just not able to provide verifiable and falsifiable statements to prove their precepts (and probably would do so if possible).

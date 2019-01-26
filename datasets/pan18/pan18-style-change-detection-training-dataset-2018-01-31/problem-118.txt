@@ -1,0 +1,17 @@
+Let me know if it works for you, or if it can be improved in some way. For some reasons I cannot access to Steam overlay and other Steam features (F12->screenshot) while playing Dungeons of Dredmor. Do you know how to fix it? Here it is, for your needs: http://feed43.com/recent-steam-demos.xml 
+
+If there is no folder already with the same name as App ID you can create it using these structure. Just to be precise the in-game option in the Steam game properties is enabled. 
+
+I don't think there is a feed, but it could be useful, so I just created one using Feed43 free service. Press Add Library Folder and select the folder on your hard drive where you had installed the additional games. [xxxxxxxxx] depend on your Steam ID. 760 is the App ID for Steam Screenshot app. Of course, if you have friends that play that game and they have already download the patch/update, you can exit from Steam and copy those files in the right position of your Steam folders; when Steam restarts it recognizes those new files and you are ready to launch the game. 
+
+I have spare copies of some games bought in various past 4-pack offers. 
+
+Anyway the only "official" way to download Steam updates are through Steam client. Once you have load all screenshot you have to exit Steam and restart it. It could take a while for you screenshot to be shown on the game library, but you can accelerate the process by launching manually the Screenshot management Unfortunately, this doesn't always work. 
+
+Meanwhile, I found this workaround at the Steam forums: This issue is also being actively discussed on the Steam forums, with no resolution at the moment. If you feel your game will become a classic later on you can hold on to the manuals and sell them again in 15 years for collectors :) Some people point out that if Steam is ever disbanded, you lose access to all the games you bought from them. If you will still have the physical copies of the games, it wouldn't be an issue. Note that some games require Steam anyway, so with those games the physical media won't help. 
+
+This is just a guess, though... if you want to know for sure, I suppose you can monitor the Steam process at the moment it is launched (e.g. with a network analyzer and some process monitor such as sysinternals). Original answer: I'm not sure the "why" is really on-topic here, I just think someone made a mistake. I share your pain. Edit As of the latest Steam / Civilization versions, this problem has been fixed. Launching the game regularly from Steam opens only the Civilization-specific selection window, and right-clicking that menu and creating a specific DirectX-11 link will create a shortcut that shows no DirectX-selection menus. If you trust Steam, have permanent Internet and don't care about your game boxes, then no, there isn't anything good to do with them. If you already have an eBay account you can offer the game boxes there (just don't provide the serial numbers), other than that I wouldn't bother. 
+
+So, looks like it's a known issue being looked at. 
+
+Verifying the game is legit (DRM). Verifying the game is up-to-date. Verifying the requirements for the game (e.g. directx) are still met. Although (3) should theoretically only be checked on the first run, I'm pretty sure it's actually checked on every run - I saw a few games that always show a brief "installing directx" line even after the first run. Maybe it is done to verify no hardware or software changes were made to the system that can break the game.

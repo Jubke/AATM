@@ -1,0 +1,27 @@
+While the shuttle is in flight, the latter rule does not apply. Per §15.1, only if the shuttle is caught in the net and starts to drop down, the fault is called. 
+
+Assuming the shuttle side hit the shuttle last, you have to evaluate what happened first - per §15.3, the first fault ends the rally. 
+
+Otherwise, the court and its surroundings is the domain of the umpire, clothed in black, and typically sitting on a high umpire chair. The umpire keeps track of the score, calls any faults (e.g. shuttle touching a player, or receiver moving too early) and lets (e.g. receiver not ready, shuttle from another court flying on court), and communicates with the players. 
+
+For a couple of years, large tournaments also have a third umpire per match who is manning the Instant Review System (IRS). When a player challenges a close line call, the IRS umpire makes the decision, typically in an aside room or section away from court. 
+
+If a player is misbehaving in some way, Badminton umpires have four ways to react: 
+
+In case of a repeat offense after a major verbal warning, or a more major offense (e.g. seeking coaching input while the shuttle is in play, or throwing the racket without endangering anyone), the umpire will show a yellow card. A yellow card has no effect at all apart from a monetary penalty: In international play, the third yellow card in a year costs 500$; all subsequent yellow cards 250$. National regulations may vary - for example, in the German Bundesliga it's just 50€. Every side can only be shown one yellow card per match. In case a side has already been shown a yellow card but still commits an infraction, a red card will be shown. 
+
+A red card is also called fault for misconduct. The opposing side gets one additional point, as if they'd won a rally. Apart from repeated infractions (a yellow-worthy offense after a yellow card), major offenses such as cussing at the umpire/opponent, throwing a racket anywhere near people, not showing up after an interval etc. are cause for a red card. A red card also comes with larger fines, 500$ at international levels. The umpire will also call the referee to discuss whether a black card is in order. 
+
+So if the racket side hit the shuttle during the rally, it's a let, i.e. you replay the rally. 
+
+The service judge sits opposite the umpire on a normal chair. As the name indicates, he or she is mainly calling service faults so that the umpire can focus on the receiver. They also hand out new shuttles. Service judges are qualified umpires and thus wear a black uniform; umpires typically take turn in filling in either role. For more information on the hand signals by the service judge, refer to §5 of the RTTO. 
+
+The number of officials varies depending on the tournament importance. The full complement of referee, multiple deputy referees, umpire, service judge, IRS umpire, 12 line judges and 2 mopper line judges is only reached at the very top tournaments (SuperSeries and Olympics). If officials are missing, their role is subsumed by another official. For instance, at national-level events, umpire and service judge often function as line judges for the lines they are sitting on, and one line judge presides over the back doubles service line, the back base line, and also mops the court if required. Depending on the tournament organization and/or national federation, shirt colors can also vary. 
+
+The referee handles general tournament organization, extraordinary situations on court, and also supervises the other technical officials. Tournament organization includes, among many others, basic scheduling, informing officials and team managers of any tournament-specific details, shuttle testing, checking that courts and equipment are in order, selecting and evaluating umpires etc. . At larger tournaments, there is usually one head referee and multiple deputy referees, working together as a team. The referee team is typically seated next to tournament control. Normally, referees wear red uniforms. Referees come on court in case of injury, significant disputes, and extraordinary misconduct. 
+
+So much for the shuttle side. When the racket touches the net, it's a fault as well: 
+
+Umpires can issue a verbal warning. In case of delay (the most common infraction), umpires repeat the score in minor cases, and add a Play announcement to signal the second level of warning. At the next level of escalation, umpires will ask the player to come to the umpire chair in order to talk to them. A couple of common warnings are formalized in the vocabulary, for example You must not delay the game, but umpires can be more precise if necessary. As a final warning, umpires sometimes point to their cards or inform the player that a card is imminent. 
+
+Finally, the team of line judges is responsible for all line calls. At the top tournaments, umpires often fill in as line judges as well, but many international tournaments also have local volunteers. A line judge uniform is typically provided by the tournament organizer, often monochromatic blue or green. Two of the line judges - on at each side of the court - are also responsible for mopping the court in case of excessive sweat/dust/feathers accumulations.

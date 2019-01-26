@@ -1,0 +1,29 @@
+flush by the river = 0.063998282 = 6% = 1 / 15.6 
+
+Can get up to a 10% error with just 10,000 shuffles but for just planning that can be enough. On the higher % the error is smaller. The smaller % like 2 7 off suite is a bigger error but that is the stuff you are not usually interested in. 
+
+4 flush hit on the river = 8 / 46 = 0.1956521739 = 20% = 1 / 5.11 
+
+Make flush with the board only showing 3 You are safe as there cannot be an over flush 0.044 = 21.63 : 1 That number make sense as they say suited adds about 4%. 
+
+Not having: 1 - 1/22 = 21 / 22 = 0.9545454545 
+
+Add them for 1 or 2 aces out = 0.4857 
+
+order the hands (hand score) gave strait flush a value of 8 down to 0 for high hand gave ace a value of 14 down to two a value of 2 in the case of a straight add the ace with a value of 1 for kickers include the made hand as part start of the kicker hand and kicker are all just two digits hand * 100000000 + kicker.0 * 1000000 + kicker.1 * 10000 + kicker.2 * 100 + kicker.3 so ace over king boat is 614130000 for flush and high card it could actually go into 5 kickers but I just let that be a tie 
+
+flush or 4 flush = 0.0084183673 + 0.1094387755 = 0.1178571429 = 12% = 1 / 8.5 
+
+8 diamonds flush (3 makes boat for villain) 3 fives straight 3 sevens counterfeit 3 eights top pair 3 nines top pair 3 tens straight 2 jacks counterfeit 
+
+if they bet the pot then leave 
+
+In machine learning you can do something called pruning but I am not strong enough for that and again I wanted the detail. 
+
+Not everyone plays top 10% and it will vary by position but consider that case. Not everyone has the same top 10% but this is one. You also need to consider how many ways to make the hand. There are 6 ways to make a pair, 4 ways to make suited, and 16 ways to make unsuited not paired. 
+
+PO BR 1 = 1/2 2 = 1/3 3 = 1/4 4 = 1/5 
+
+First player has to be unpaired 94% 
+
+option to run as heads up against each so instead of running like JJ against AA, KK, AK separately get it in one (the boards are different - JJ veruss AA does not remove KK, and AK)

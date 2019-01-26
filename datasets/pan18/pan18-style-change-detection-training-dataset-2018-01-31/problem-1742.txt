@@ -1,0 +1,31 @@
+as for Philonous scepticism of general metaphysics, Whitehead has this to say: 
+
+I think that you are correct, every mathematical object has a tacit context within which it is being considered. How about geometry, a triangle in euclidean, hyperbolic & elliptic spaces are different. Presumably this can be generalised to manifolds with a metric (patches are locally euclidean, hyperbolic & elliptic). This can't be standard smooth manifolds since they are by definition locally euclidean. However, as one begins to think about them, as you have, one begins to realise that the classical solution is only a solution, and perhaps not the only solution, and even perhaps the wrong solution - meaning not the best. 
+
+Assuming that Hawking is simply referring to the physical universe - what would be a good example to show Hawking & Hawking-wannabees that philosophy is still useful in the pursuit of our understanding of the physical world? Von Neumann & Birkhoff pointed out that propositions about a classical physical system was encoded in its phase space. Each proposition determined a subset of this space. And the entire family of propositions describes a boolean algebra. That is we have classical propositional logic. 
+
+resolving infinities in perturbative calculations. This surely has been utility enough ... Rovelli, a physicist, who unusually is known to be somewhat philosophical, calls it the String Hypothesis, in his book Quantum Gravity. This is usually taken to be some macroscopic measuring device (sometimes taken to be some human being in which a special role is assigned to consciousness). But why restrict it to a macroscopic entity? Why not simply another particle? 
+
+In Lucretious poem De Natura, he has 
+
+And is it not basic (or first) to ask whether particles are extensionless, or have extension? 
+
+Eastern religion is not just a philosophy - it is also a religion, and religions are a way of life. That is they have practises, rituals & temples. In some places bhakti (devotion) is much more common than self-conscious philosophising. Or, now - in the merely now - by the pressing and pushing of buttons. 
+
+Potentiality for A is a general term, as is actuality with respect to his theory of change, relative to his categories of what kinds of things there are. We can see that change is the actuality of that which change exists potentially... So why is he reading Tagore, probably Gitanjali, whose major theme is mystical longing to an audience who given their philosophical proclivities should be unappreciative. Is it a case of personal animus? 
+
+It certainly seems that the Ash'arite atomists in Islamic Philosophy (the Falsafa) seemed to go that step further: understanding that space is something they atomised it too. H does in this book, reflect in passing, on the foundational crises of the physical sciences; it might have interested him that Penrose in a centenary volume celebrating Einsteins achievements calls GR a theory of 'chronometry' rather than of length ie Spinozan extension. 
+
+I had thought Wittgenstein had directly inspired the Vienna circle, and that he would have been only too glad to bask in the warmth of their admiration. 
+
+Yes, and too beautiful to be untrue and too beautiful to explain... Now this might seem a little circular, in that we've mentioned 'existent' in terms of 'existence'; but H points out that to stall a process of reasoning by calling it reasoning circular 
+
+I began to read Hawkings recent book 'A Grand Design' sometime ago and noticed that he savages philosophy, he says '...philosophy is dead. Philosophy has not kept up with modern developments in science, particularly physics'. This annoyed me so much I didn't bother to read any further. so, gravity which causes an apple to fall, must have the capacity to cause motion, and the apple must have the capacity to be moved; and when quantified, the former is named gravitational potential energy, and latter kinetic energy. 
+
+Western philosophy has a long & broad tradition. It doesn't surprise in a first course in the West you'll only be introduced to the major Western philosophers - but perhaps it is worth mentioning that there are other philosophical traditions out there which are worth looking at for their own intrinsic interest as well for the impact they have made on the West. 
+
+Now the paradox you mention is reminiscent of Zenos paradox of Achilles & the tortoise; and you mention the classical solution to this problem. Another solution is that there is physically a limit to subdivision - the atomic structure of matter, and perhaps of space. Is it worth adding that the terms potential and kinetic are of Latin and Greek provenance; presumably we can take it that those who first theorised and thought through these terms - read the A to see what lies concealed there, and not over and above them - looking for refutations and objections. 
+
+My limited understanding of Kant is that he distinguishes between noumena 'things in themselves' from mental representations of them as intuition. Is he the first Western philosopher to make this distinction in this way or was there an existing tradition he drew on? The SEP has an entry on modal interpretations of QM. But a quick scan through doesn't show any immediate work with modal logic. I assumed that extension in Spinoza, means the geometrisation of the phenomenal world; but possibly - probably this is wrong. After all, how does one geometrise something like matter? (There is, in this case, the speculative notion of Lord Kelvin, an atom as a vortex, a knot of pure geometry ie pure extension, and its mass indicated by how it knots). Good question. The same question can be asked of ordinary natural numbers, the negative numbers, infinitesimals as well as various orders of infinity. 
+
+"well, that isn't truly infinity - infinity is where you stop because you cannot go further, but I see here that you can, for I can continue with w+1, w+2, ..; and then one completes this one gets 2w! And so the pattern repeats, whenever the series is completed, we can see it again as the first term in a new series".

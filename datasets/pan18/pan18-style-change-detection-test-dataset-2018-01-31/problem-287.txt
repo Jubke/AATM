@@ -1,0 +1,23 @@
+I don't understand the 3x open from 88maca88. I guess he is saying that he is not folding to calculer_, but with AK he should be inducing the shove. Plus Fedor Holz (CrownUpGuy) can put him in some difficult spots when he 3x opens. He definitely does not want to play a huge pot with AK against the chipleader here. Maybe it was a misclick. 
+
+Let's take a look at caecilius's range first here. Most of the times I think his range is a pair of fives, a pair of sixes or king high. BrynKenney's has good blockers. He blocks the occasionally slow-played flush or straight. Betting definitely seems reasonable. You can represent a five or a flush that play this way and put king high and a pair of sixes in a tough spot. I would probably have chosen to do this. 
+
+I think both betting and check-raising the river are good with this hand. But mixing in both is definitely superior and only the best of the best are capable of actually implementing this. 
+
+I haven't talked about caecilius' river sizing. Now I think caecilius' range is more capped than BrynKenney's. BrynKenney can have flushes and full houses here, that slowplayed the turn knowing caecilius will bet the turn frequently and also slowplayed the river. Caecilius can realistically not really have those hands. I don't really understand the overbet, since he is just putting himself into a stupid spot. He can get raised by flushes and full houses and can even get called by a better five. All worse hands will likely fold to this overbet. By betting small you can still get value from a pair of eights or sixes. 
+
+Pretty standard at this point. NastyMinder has to check and like I pointed out 88maca88 just checks it back and takes it down. 
+
+I personally think 9s8s is a perfect hand to bluff with in this spot as a bluff, because the hand plays really well this way. When called against a set or one/two pair, you still have equity. But the most important part is you fold out hands that have you completely crushed like suited aces, kings, or queens with spades. Or perhaps UTG was trapping pre-flop with ace king. Your opponents simply have to fold these draws since they are not getting the right odds. If you'd just call you might get into trouble and run into a bigger flush or straight when you hit. Also, 98 does not block some weak hands your opponents might have that have to fold to a jam: AT, KT, QT, KQ, As5s etc. 
+
+5♣. BrynKenney missed his draws. He can't really win the hand at this point. Should he check-fold, bet or check-raise? I personally don't like check-folding. BrynKenney should have a bluffing range on every street. His hand here is pretty much perfect. Betting on the flop and the turn with this exact hand did not seem so good, but on the river he can definitely do something. How many other hands can he really bluff with here? Not too many. Now should he check-raise or bet? 
+
+A♥. This is an interesting turn card. BrynKenney could decide to start bluffing here. But again, he really doesn't want to get check-raised, because he has so much equity. Caecilius has plenty of aces in his range that checked the flop and on a wet board like this, caecilius could definitely raise it up with most of them. Better bluff candidates would be hands BrynKenney doesn't mind folding to a large raise. Like any heart, preferably a low heart or 7x without a heart and/or without showdown value, and then every sort of single straight draw. Plenty of other bluffs BrynKenney can have in this spot. I like BrynKenney's play. 
+
+Let's look at the hand step by step, starting pre-flop. 
+
+Overbetting only really makes sense when your opponent's range is capped, not yours. However, caecilius is a great player and I would love to hear his reasoning. 
+
+NastyMinder flops a flush draw, a straight draw and an overcard. 
+
+Note: my numbers are only roughly accurate, but should give a pretty good idea of the expected value shoving this hand.

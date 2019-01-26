@@ -1,0 +1,59 @@
+Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free 
+
+As workaround, you could downgrade to Snow Leopard (which you likely don't want, but would work), or use Boot Camp / Parallels / VMWare to run Urban Terror on a Windows partition. 
+
+What about sound? The lack of sound is because you're probably plugging the red/white audio cables into something that's not an audio input, such as the red/blue component video inputs. If your HDTV has red/white audio inputs (they will be labelled as Audio In or similar if it does) then you just have to move the red/white cables to those. 
+
+You son has installed some Minecraft mods, one of which is broken and crashing Minecraft. It's hard to tell which mod because it appears to be crashing the game before its name is mentioned in the log. 
+
+Some instances of this error can be avoided by allowing Steam to fully exit by clicking Steam ▸ Exit or by right-clicking on the Steam icon in the System tray and clicking Exit, rather than forcing the process to end. 
+
+* No single good link I can find, just lots of offhand references. 
+
+The solution is to ask your son to remove the culprit mod. He might be able to figure out which one it is by reading through the install instructions for each mod he has installed. The culprit mod will say clearly somewhere in its documentation that Forge is required by the mod. 
+
+Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free

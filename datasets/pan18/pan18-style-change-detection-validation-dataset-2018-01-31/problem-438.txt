@@ -1,0 +1,13 @@
+If the comments are obsolete, flag them as obsolete. Automatically clearing them doesn't make sense, as the comment could still be valid; it's just users who can decide if a comment is made obsolete from an edit. Time reset is necessary, as (differently) I would take that, when I click on "Add Comment" after 9 seconds, I still have 6 seconds to wait. I cannot find a better phrase to use; time reset is pretty clear to me, and I prefer it to time has been reset. Every time you click on the "Add Comment" button, and 15 seconds are not passed since the last time you clicked on that button, the time counter is reset, and you will need to wait 15 seconds more. That is the wanted behavior. Let analyze the other links you could be referring to: 
+
+As consequence of this, if commenting would be allowed also from users with a reputation of 1, spammers could add spam comments that would be difficult to detect; it would be enough they comment on an old question, for which the author who asked it is not anymore active, or doesn't participate frequently on the site. 
+
+If you are referring to users with an account on Stack Exchange and a social network, I don't see the reason why they should use that account instead of the one they already have on Stack Exchange. 
+
+I was voting two comments, and when I was voting the second one, the arrow to vote it vanished. 
+
+The link is for a page where what the question ask is explained: Answers that just contains a link are normally not considered answers; link rot happens, and who reads the answer would not be able to understand what you are suggesting as solution to the problem reported in the question. If the solution is reported in a page you found online, you should report in the answer you write a summary of what reported in that page, and give the link to the page for who wants more details. Clearly, you cannot copy and paste the content of that page, but you can report the main points that allow who reads to understand what the solution is. 
+
+As there isn't a button to reply to another comment, it is difficult to know which text should be used to pre-fill the comment. The feature seems going in the opposite direction of the recent changes that remove the @-reference when not required. If I click on the "upvote" link, what I get is the following: 
+
+When the closing vote is cleared as in this case, the automatically added comment should be removed. Since the question is deleted, there is no reason for pointing the users to that question, since only 10K users can see it.

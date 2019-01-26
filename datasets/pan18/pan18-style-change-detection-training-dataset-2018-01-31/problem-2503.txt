@@ -1,0 +1,59 @@
+I also found the following exchange on the talk page of the Wiktionary article for the Proto-Germanic equivalent ga-: 
+
+I was confused before researching this because later on, at least in English words of Greek origin, the an- form started to be used before roots with historical spiritus asper, but I don't know when this occurred. (This can be seen in English words like anemia, anhydrous, anhedonia etc. I've been trying to find equivalent words in Greek though.) 
+
+Some example words (I’m taking these from Wiktionary): 
+
+The OED's earliest citation is "c1340," spelled "concupyscens" which does seem earlier than the first OED citation for "adolescence" ("?a1425") or "pubescence" (?a1425). I also wasn't able to find any earlier attested use of an "-escence" word in the Middle English Dictionary quotations. 
+
+It seems irregular to me as well. 
+
+I found this PDF that mentions this exact matter on page 43, in the abstract for Germanic *ga(-) revisited. Some thoughts on etymology, phonology and inherited word formations by Christiane Gante: 
+
+Has anyone attempted to do so? 
+
+How did a rough breathing develop before all words starting with an upsilon in Ancient Greek? This is a commonly noted fact about the distribution of these sounds (or rather spellings), but I’m having a hard time figuring out the etymological reason for it. 
+
+I tried to think of possible reasons, and the only thing I could come up with is possible stress shift from an original Middle English concupiscént/concupiscénce (taken from the stress in French or in Latin concupiscentia) via the somewhat common pattern of putting secondary stress on alternating syllables. Whereas, presumably, the other -scent/-scence words either came into English at a later period, when word-final stress was no longer common, or their pronunciation was remodeled for some reason while that of concupiscence etc. was not. 
+
+This quotation and the OED entry both seem to agree that the word in its modern form entered English from French. The OED also gives the following indications of the timing of this loan: 
+
+Epagoge is generally translated in a philosophical sense as "induction," and is said to have meant "bringing to" in ordinary speech. 
+
+The roots of classical logic lie in Ancient Greece. Because of this, many Latin terms dealing with philosophy and logic were either taken from Greek, or modeled after the structure of Greek words (that is, calqued). So I thought that researching equivalent terms in Ancient Greek might shed light on your question. 
+
+I have found several sources that treat this etymology as speculative; for example: 
+
+Interestingly, this entry hasn't been included in Fowler-4 (Butterfield 2015). 
+
+If you subscribe to accent and ablaut paradigms, this particular noun is proterokinetic (or proterodynamic), which means that in strong cases the accent was on the full-grade root (the e-grade), whereas in weak cases both the accent and full grade shifted onto the suffix, so the u-suffix becomes –eu- (or –ou-, the o-grade) in weak cases. So, at this stage, we reconstruct NOM.SG. as *seunus - the standard citation form is the e-grade. 
+
+Reject PIE*kom > PGm *ga. However, as far as I can see, communis opinio is the opposite (e.g. Lehmann 1986), cf. the following suggested cognates: Proto-Italic *kom (e.g. Latin perfectivizing co- and preposition cum), Proto-Celtic *kom, Slavic ** sъ-, and Hittite =kkan (encl. locatival sentence particle) ‘?’ Kloekhorst 2007 writes it was Sturtevant 1927 who first suggested this etymology. The reconstructed PIE form is * ḱom. 
+
+It seems no one is willing to abandon the ban on the Anlaut position though. 
+
+cf. Michaelis and Jones 1913 or Jones 1917 give one variant only, with [aɪ]. For some reason, it's missing in Walker 1859. 
+
+In Attic Greek ἱερός, there's a diacritic over iota (in some other dialects there was psilosis, or h-dropping). It's called "rough breathing" (Lat. spiritus asper; Greek δασὺ πνεῦμα). Usually, Anlaut (word-initial) spiritus asper in Greek corresponds to PIE *s. 
+
+There is indeed a pattern from Latin to Italian which explains this. 
+
+The main etymology of Hebrew šed that I've found is: 
+
+Probably not. The etymology of English "shade" (newest to oldest) is something like: 
+
+In Proto-Indo-European, the vowels *e, *o, and *[nothing] tended to alternate, a pattern called "ablaut". You can see traces of this still in the "strong verbs" which change their vowels to indicate tense, like drive/drove or freeze/froze. So the "zero-grade" form of *weyd- was *wyd-, also written *wid-. 
+
+In Proto-Germanic, *wyd- gave rise to a verb *witaną; the *d became *t through Grimm's Law. 
+
+In Old High German, the *t then lenited into a z, giving OHG wizzen; z then developed into s, giving Modern German wissen. (Somewhere along the line <w> became pronounced as /v/, though the spelling remained.) 
+
+There doesn't seem to be any obvious connection between *sk(e)h₃-tos and šēdu, in form or in meaning. This is more likely just a coincidence. 
+
+Then the /w/ phoneme evolved into /v/, probably through /β/. This is a well-documented process which produced most of the /v/'s in Italian, such as the initial sound in vino; in Classical Latin, that initial consonant was a /w/. 
+
+One of the participles of *weyd- was *weyd-tos, which became *weyd-stos and then *wī-saz in Proto-Germanic. Again in English the endings dropped off, giving Old English wīs, which was respelled wise in Modern English. The pronunciation of the vowel changed in the Great Vowel Shift and the /s/ lenited to give the modern /wajz/. 
+
+There's decent evidence for this being a native Indo-European root; while it was most productive in Germanic, it has descendants in different parts of the world as well (Ancient Greek σκότος/skótos, Irish scáth, loaned into Finnish katve). 
+
+In English, the *t remained, but the inflectional endings slowly dropped off, giving Old English witan, and Modern English wit. The verb died out but the noun survived. (An inflected form of this, with a mutated vowel, was generalized to give the poetic verb wot "know".)

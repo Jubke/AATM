@@ -1,0 +1,25 @@
+Now, we aren't entirely without a sense of humour (even though we hate fun), so a name change here and there isn't a big deal, especially when it's clear that there is no real intent to impersonate another user. However, once several people start changing their name and gravatar and copying other profile details without even disclosing that it's a joke, things get weird. We'd rather avoid confusion altogether. 
+
+For sites that don't make it through beta, the content snapshots taken at the time when the site was shut down are available from their corresponding proposals on Area 51. 
+
+The best we can do is move forward, taking advice from the community (that's why we have metas!) as well as guiding the community where needed (that's why we have a community team!). 
+
+Either way, we don't tend to have an official "this is what SE The Company thinks" stance on various blog posts out there. Truth be told, I bet we don't even know about most of them. Even my response here, although I work at SE, is largely personal opinion. I don't think it's out of line with what anyone else working here would write, but who knows. There's 100+ of us at this point. Here's hoping we don't develop a "PR department" any time soon just to talk to our users and respond to blog posts. :) 
+
+We've tried to help you with getting the Stack Overflow question ban lifted, and I'm sorry if we didn't come off as helpful as we'd tried to be. However, it does look like you're no longer blocked from asking questions on Stack Overflow, so something must've worked out right. :) 
+
+Well, since I'm the example child for this question (and I am, in fact, fluent in both Russian and English)... :) 
+
+Just change the word "views" to "Kviews" and "Mviews" and give it the same font color as the number itself so it's highlighted when the number is highlighted. 
+
+I subscribe to a much shorter list, but a relatively reasonable list of 16 basic motivations for human activity can be found on Wikipedia. Several of these motivations may lead one to answer questions on Stack Overflow: 
+
+Lastly, if a question lasted long enough to get several great answers, it's quite possible that it ended up in the data dump prior to deletion. You can get that information out of the data dump. Worst case, you post a message on meta asking that a 10k user give you the content so you can repost it on your site. 
+
+That may seem like a lot of Hamsters, but you have to realize that Stack Exchange is handling 95 million page hits per month - so each hamster is powering 41 page hits a day. Even though Google employs more pigeons, I suspect that Stack Exchange is more efficient on an animals-per-page-served basis. 
+
+It'll fit. It'll make sense. It'll allow the same amount of precision as always. 
+
+There are many, many thoughts as to why people do anything, including giving free advice and information for what may seem to be no external incentive. 
+
+Probably make them the same gray used for the buttons/actions below. It would immediately alert readers that some comments are hidden, and clicking on one set of ellipses would expand that section alone, giving users a greater degree of control over their reading.

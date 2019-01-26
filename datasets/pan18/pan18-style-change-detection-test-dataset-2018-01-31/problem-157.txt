@@ -1,0 +1,23 @@
+or a suspension MTB something like this KTM This is the RUN view if you're into that kinda sport. 
+
+Changing between significantly different bikes can be hard This is the screen that shows up when you stop. The map with track at the top can be displayed full-screen while riding, and if you have planned a route the track is overlaid on the map as well. Not mentioned in your question but added for completeness, pedal assist is frightening if you've never used it before. This is when a bike has a motor that "multiplies" your pedal input using electric power. So when you push the pedals to take off, Pedal Assist kicks in and gives you your own personal tailwind. This can be highly disconcerting. 
+
+Note this won't apply to the rigid commuter frame. 
+
+2008 Walker study - "Cars get closer to cyclists wearing helmets" Wheelbase the distance between front and rear wheel contact points. If you have an applewatch there's a thing for that, but I have no experience of this. It looks like this: A MTB position is more leaning-forward too, although not as much as a drop-bar. So you have a little more weight on your hands than on a folder. This may create steering inputs until you learn to put more weight on your feet. I don't have my own data, merely subjective anectodes about how much room I receive when riding a tandem, or towing a 2-wheel trailer, or the two times I trialled a recumbent and had cars crossing the road to go around me. I'm NOT that wide. 
+
+4) (was 3) Most likely, you've stretched or pulled the cable through the adjustment bolt on the derailleur mechanism. 
+
+and that you're trying either a hybrid-commuter style like this rapide 
+
+2) Your gear cable outer is weak somewhere and the extra tension has caused it to collapse, which effectively makes the inner longer than it should be. A 20" folder has a wheelbase of about 102 cm, and a 16" is about 97 cm. Compared to a MTB at 110 cm to 120 cm. Short wheelbases are inherently twitchier, and long wheelbases are more stable at speed while cutting a longer curve. Steering Generally the differences are that folders are very "responsive" in their steering. You turn the bars and the front wheel turns very quickly. 
+
+Your folder will have no or almost no suspension. So its firmly in contact with the road. A MTB with front suspension will feel strange if you're used to braking and turning, and in extreme cases can throw you off the bike when the suspension loads up and then releases. If you buy a bike with suspension, look for a lockout for road usage. Makes the ride less "wallowy" In a folder its a relatively upright position. They tend to not ride hands-free very well so you need a hand on the bars at all time. But your back can be upright. By comparison, a MTB has much larger wheels, being 26" to 29" plus they often have larger tyres, also adding weight at the rim. The upshot of this is that it takes more effort to turn the bars on a MTB. This is slightly offset by having longer bars - some are as much as 500mm wide but this means more movement of the hands is required for the same steering change. The odd thing is folders are considered hard to ride and the fact you're comfortable on one shows that you possibly need to "unlearn" some riding behaviours. See What makes a folding bicycle so difficult to ride? for info on folders. 
+
+See "four rear derailler adjustments" section at http://sheldonbrown.com/derailer-adjustment.html for details on that. 
+
+Later analysis can be done on the info - here's the link for that ride: https://www.strava.com/activities/681005599/analysis Note I had a HRM but no cadence sensor. 
+
+The only fix is to lower the pedal assist input to zero or to its lowest assist value while testing a bike. Only increase PA percentage as you become used to the bike and the motor's functions. Seems there are studies showing both: 
+
+As @dancek says, the home screen is not configurable, so you will only see average speed for the whole ride, and instant heart rate/cadence rate if you have the sensors. Time and Distance are counters

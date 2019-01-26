@@ -1,0 +1,23 @@
+When I created the project I unchecked the "Git" option. But Xcode still shows me a "Source Control" info in the inspector when clicking on a file. All files initially created by the project template are marked as "committed" where as all files I add myself are not. So either Xcode ignored my wish not to use Git or it's a bug, or both. 
+
+Everyone and every book claims that there are implicit animations happening in CALayer. However, every time I wanted to verify that so far, I end up with a hard-snap to the set value. No animation at all. 
+
+But one strange thing: The new App ID I created for my new app, has the same Bundle Seed ID as my old app which is already on the App Store. Is this a problem? Is this why Xcode offers me the wrong app to choose? The point is this: All my old Xcode 3 projects opened and edited in Xcode 4 don't show these icons! My new project which I created in Xcode 4 isn't under source control either. But today I wanted to Build & Archive an update of my first app. It all works with no complaints. But when the Archiving utility of Xcode is done, and I select my archive and click "Validate", Xcode asks for my iTunes connect credentials. Then I enter them, and in the "Please choose your application record and signing identity" dialogue Xcode offers only one Application for selection. The new (different) App only. But not the app I want to update on the App Store. You should set the purpose string property in the CLLocationManager object so that when the system asks it can also tell the user why you want their location. 
+
+This works better with an actual device than with the simulator since the Mac is hard to work on when inside the Faraday cage ;-) 
+
+800 Mhz has a 37 cm (14") wavelength, 1900 Mhz has a 16 cm (6") wavelength. 
+
+Use a simple Faraday cage to block or limit the external RF signal level. You don't need to ask the user for permission, iOS does it for you automatically. 
+
+What you could do is keep a rolling, weighted average (or a Kalman filter) of the recent "good" altitude readings to help filter out the measurement errors. 
+
+These constants refer to two different kinds of data types, string vs numeric. 
+
+The elevation derived from GPS satellites is inherently less accurate that the horizontal solution from GPS due to the geometry of the satellites. You should expect the vertical accuracy to be usually about 1.5 to 3 times worse than the horizontal accuracy. That's just a limitation of GPS and why aviation requires WAAS correction before you can use GPS for instrument approaches. 
+
+If you want to hide it completely: 
+
+When the vertical accuracy is 20 or 30 meters you should expect the altitude to be off up to 100 feet. Expecting it to not vary by 19 feet as you walk around the house in unrealistic. 
+
+In the delegate you can implement the method locationManager:didChangeAuthorizationStatus: to know whether the user allowed core location or not.

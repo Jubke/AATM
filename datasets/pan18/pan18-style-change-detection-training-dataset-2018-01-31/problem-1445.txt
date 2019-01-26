@@ -1,0 +1,59 @@
+A computed property with a getter but no setter is known as a read-only computed property. A read-only computed property always returns a value, and can be accessed through dot syntax, but cannot be set to a different value. 
+
+You can use the method dropLast(n:) on the characters to remove any number of characters: 
+
+Xcode 9 • Swift 4 (also works Swift 3.x) 
+
+First make sure when you drag your folder audioFiles to your project to select create folder references and it should show a blue folder. 
+
+You can implement WKNavigationDelegate, add the decidePolicyForNavigationAction method and check there the navigationType and requested url. I have used google.com below but you can just change it to your domain: 
+
+Now String conforms to RangeReplaceableCollection so now you can use Array's method dropLast straight in the String and therefore an extension it is not necessary anymore. The only difference is that it returns a Substring. If you need a String you need to initialize a new one from it: 
+
+If you know HTML and CSS you can use it to easily control the font style, color and size of your attributed string as follow: 
+
+Then resize it to 50w 50h pixels (maximum: 96 x 64) and save it as iconTab0@2x.png. 
+
+Also NSBundle method pathForResource has an initialiser that you can specify in which directory your files are located: 
+
+Update: Xcode 8.3.2 • Swift 3.1 
+
+That error message means that you have created two functions with the same name. 
+
+Yes you can use UIImageJPEGRepresentation instead of UIImagePNGRepresentation to reduce your image file size. You can just create an extension UIImage as follow: 
+
+I have created a ^^ operator in Swift. How do I make it work with Integers and Doubles like all other operators? 
+
+Finally resize it to 25w 25h pixels (maximum: 48 x 32) and save it as iconTab0.png. 
+
+As already mentioned you have to use NSDateFormatter to format your NSDate objects. The easiest way to do it is creating a read-only computed property NSDate extension. 
+
+which is exactly my proposed solution above. 
+
+You can post a notification like this 
+
+To wrap it up: conventions are always important. In Objective-C sometimes they are fundamental. 
+
+If you want also to ensure that no error occurred you have to check the return value 
+
+If you want to provide your own comparison method for a custom class, I suggest that you stick to conventions and provide a method with the following signature 
+
+Such string is then loaded and used to retrieve the matching class like follows: 
+
+If you provide an appropriate cast, it will work as expected 
+
+This category is also appropriate for “play along” style apps, such as a virtual piano that a user plays over iPod audio. When you use this category, audio from other apps mixes with your audio. Your audio is silenced by screen locking and by the Silent switch (called the Ring/Silent switch on iPhone). 
+
+If anybody is wondering how to achieve this in iOS 7+, here's a solution (iOS 6 compatible too) 
+
+I'm currently auditing an iOS application and I came across this scenario that made me wonder whether it could be exploited somehow. 
+
+tl;dr declare a copy property (weird syntax, I know... http://fuckingblocksyntax.com/) 
+
+Finally, always according to the documentation: 
+
+Talking about 'left' and y coordinate doesn't make much sense, but for instance 
+
+From my understanding so far, it should be used whenever a class encodes/decodes instances of itself, in order to prevent substitution attacks. 
+
+I'm wondering whether it would be appropriate to use it in other cases.

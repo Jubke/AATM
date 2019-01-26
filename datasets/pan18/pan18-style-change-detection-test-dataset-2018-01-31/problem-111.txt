@@ -1,0 +1,49 @@
+I tried using a stone pressure plate, and while sometimes it works, other times it derails my minecart. 
+
+I tried putting two powered rail right before the powered off rail, but the cart still came to a complete stop. 
+
+Given the lava physics in Minecraft, light intensity and radius are the same. A candle gives 14 luminance and 14 radius. Lava and sunlight have 15 luminance instead. 
+
+Here's another example: kitten. 
+
+I built a small homage to the booster while revisiting an old world, given that its place now lies in our hearts... and behind a glass case, museum style. 
+
+For example, here's how this process changes a picture of the color spectrum with Floyd-Steinberg (reduced color bleed) and these wool colors: 
+
+Unless your minecart has a lot of momentum (not speed), powered off minetracks will stop your minecart. This wasn't the case. 
+
+Simply make a bed and lay into it. If you're in multiplayer mode, you don't need to wait for all others to also get in a bed in order to sleep - laying down is enough to change your spawn point so long as your bed doesn't get destroyed. 
+
+BONUS: You can further improve this system by placing a hopper chain below your furnaces that automatically pulls out all the smelted results and places them in a chest. It's also possible to add a second track system to feed combustibles into the backs of your furnaces in an evenly distributed manner as well. This screen shot shows one such system I added to the above example: 
+
+Strategy for "Hard" Difficulty On "Hard" difficulty, zombies are able to break down wooden doors, which means they can get to your villagers during a siege if your Iron Golems can't intercept them first. They can't break down iron doors, but your villagers can't open them either, so that's a wash (unless you are fine with trapping your villagers inside their homes). The Siege Defense wiki entry suggests the following: 
+
+Other mobs that can be used for defense are Snow Golems (as long as you're not in a melty desert), Tamed Wolves (if you are involved in the mob attack as either a defender or a victim), and Tamed Ocelots (which scare off Creepers with their mere presence). 
+
+I suggest closing off side tunnels and keeping the area very well lit while you are nearby doing any mining or construction so that Creepers can't spawn. Then remove the lighting near the spawners when you are done (so they can start spawning again). 
+
+It would make light travel a whopping one block further in the three directions you add the lava to. 
+
+Okay, that doesn't look too good, but while you are using GIMP you might as well make use of it. The background is midway green and yellow, so maybe you can consider shifting the hue of the image (Colors → Hue-Saturation) towards either one of those two colors. For bonus points you might even try and just do that to the background using the various selections tools (this is no GIMP tutorial!). 
+
+I tried using a stone pressure plate, and while sometimes it works, other times it derails my minecart. 
+
+The clouds are at height 49-46 above sea level. That gives you a 15 meters' room above the clouds. 
+
+Given the lava physics in Minecraft, light intensity and radius are the same. A candle gives 14 luminance and 14 radius. Lava and sunlight have 15 luminance instead. 
+
+Here's another example: kitten. 
+
+I tried putting two powered rail right before the powered off rail, but the cart still came to a complete stop. 
+
+Unless your minecart has a lot of momentum (not speed), powered off minetracks will stop your minecart. This wasn't the case. 
+
+I built a small homage to the booster while revisiting an old world, given that its place now lies in our hearts... and behind a glass case, museum style. 
+
+Simply make a bed and lay into it. If you're in multiplayer mode, you don't need to wait for all others to also get in a bed in order to sleep - laying down is enough to change your spawn point so long as your bed doesn't get destroyed. 
+
+I suggest closing off side tunnels and keeping the area very well lit while you are nearby doing any mining or construction so that Creepers can't spawn. Then remove the lighting near the spawners when you are done (so they can start spawning again). 
+
+Therefore, if you haven't traded the last offer to the point of deactivation and the villager hasn't yet shown you all of their trade offers, there is still a chance for them to generate more. A list of the possible trade offers by profession can be found here. If you add them all up, you get the following for the maximum number of different trade offers a given villager type can possibly make as of version 1.6.4: 
+
+Other mobs that can be used for defense are Snow Golems (as long as you're not in a melty desert), Tamed Wolves (if you are involved in the mob attack as either a defender or a victim), and Tamed Ocelots (which scare off Creepers with their mere presence).

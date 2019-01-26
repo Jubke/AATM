@@ -1,0 +1,47 @@
+while you could have ran normally for 2.5 seconds and have covered 
+
+You spend 0.5 seconds rooted for a 35% boost for 2 seconds. Assuming your unbuffed speed is R units/second, you'll move 
+
+So given no diminishing returns (minimal unless stacking multiple buffs) and no lag, spamming W as much as possible will make you go faster, increasing your movement by 20% of your unbuffed run speed per cast. If you spend any more than ~200 ms over the 0.5 s minimum root time, then it's a loss. 
+
+The enemy Graves had the summoner spell Heal, which perhaps accounts for his healing, but how did Malzahar or Zilean do that much healing? Does spell vamp count as healing but not life steal (I had Bloodthirster for over half the game and easily healed thousands with it)? Does shielding count (or what part of the shield gets beat on)? 
+
+What gets counted as "Healing Done" in the League of Legends stats? The scoreboard after a game shows me doing all of 71 healing (some strangely small value), and other non-overt healers doing conspicuous amounts. 
+
+Source: http://leagueoflegends.wikia.com/wiki/Spell_vamp 
+
+I always prioritise wards over items. No exception. If you have spare wards in your inventory and the map is appropriately warded then spend spare gold on an item. Try to get a Philosophers stone as early as you can, but you may not be able to afford it until your second recall. That is fine. Warding the brush in lane gives your carry a big advantage, don't put off buying extra wards for them and holding off those items for a bit longer. If your carry has an advantage over the enemies, then your entire team is at an advantage. 
+
+I understand those items are really generic, but if you play defensively they can keep you in lane indefinitely. 
+
+Wards Philo Stone Boots (1) Kage's lucky pick HoG Boots (2) Aegis Shurelya's Reverie The game should never really last past an Aegis. 
+
+As for champions, some are obviously better than others, and as already mentioned, sustain is THE main thing you need, along with an ability to help you last hit. 
+
+I think I covered most of the good solo tops, but to be honest it falls down to either tanky champs who can handle the harass and are hard to push out of lane, damage dealers with life steal that are hard to harass or casters with inbuilt sustain. 
+
+It isn't really a matter of how much you spend, your main role is to make sure key points are always warded at certain times. 
+
+They have to be on your friend list as well as in the same region as you for this to work. 
+
+The /r method will automatically fill in the username of the friend you are having the conversation with when you start typing the message. (It fills it in with the last user that messaged you) 
+
+So given no diminishing returns (minimal unless stacking multiple buffs) and no lag, spamming W as much as possible will make you go faster, increasing your movement by 20% of your unbuffed run speed per cast. If you spend any more than ~200 ms over the 0.5 s minimum root time, then it's a loss. 
+
+The enemy Graves had the summoner spell Heal, which perhaps accounts for his healing, but how did Malzahar or Zilean do that much healing? Does spell vamp count as healing but not life steal (I had Bloodthirster for over half the game and easily healed thousands with it)? Does shielding count (or what part of the shield gets beat on)? 
+
+You spend 0.5 seconds rooted for a 35% boost for 2 seconds. Assuming your unbuffed speed is R units/second, you'll move 
+
+while you could have ran normally for 2.5 seconds and have covered 
+
+What gets counted as "Healing Done" in the League of Legends stats? The scoreboard after a game shows me doing all of 71 healing (some strangely small value), and other non-overt healers doing conspicuous amounts. 
+
+Edit: With the recent price changes to red pot (3.6 patch), taking it will limit your sustainability down to 3 health potions. This is probably too few. Cloth Armour 5 pots is probably a better strategy, although it will cut down on your ability to harass and accomplish much with a surprise jungle/mid gank. 
+
+Don't get me wrong, you're still going to lose the lane, you'll just hopefully lose it slower than your opponent loses their single lane. 
+
+Morgana's Soul Shackles (breaking the chain by knocking her out can save a full team stun) 
+
+(There are also a large number of champions that can grant movement speed buffs, but that doesn't sound like what you're looking for.) 
+
+Your goal here is to sustain in lane as long as possible, collecting last hits when you can, and avoiding death and damage onto your tower. Don't waste time harassing champions, unless you can do it without taking any damage, or missing any minions.

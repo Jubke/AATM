@@ -1,0 +1,21 @@
+Do any of you still find these useful? ...and if so, how so? Is there a baby lurking somewhere in this murky water? 
+
+Jeff envisioned chat as a "third place": 
+
+Finally, the moderator to be considered for removal shall be asked to leave the room (upon which access shall be revoked) and otherwise remain silent through the remainder of the proceedings, and those remaining shall vote on whether or not to revoke the moderator's privileges. 
+
+A designated person will be selected to record the minutes of the meeting. These should be brief, and suitable for public consumption should the need arise (providing only a broad overview of the process and its outcome, not including any details of what was discussed). 
+
+Chat is not IRC: conversations are permanent by default, public by default, and linked to your main-site user account by default. Chat is user-moderated: flaggers, privileged users and elected moderators all participate in deciding what is allowed and what is not. Chat is moderated: there are no "anything goes" chat rooms; all moderation tools and privileges operate in all rooms. These facts imply a few things that are not always obvious: 
+
+Be welcoming, be patient, and assume good intentions. Don't expect new users to know all the rules — they don't. And be patient while they learn. If you're here for help, make it as easy as possible for others to help you. Everyone here is volunteering, and no one responds well to demands for help. 
+
+Don't be a jerk. These are just a few examples. If you see them, flag them: 
+
+Send more things into the queue faster, remove them more quickly if they're "reviewed" organically. Less waiting for a new post to get attention, but less duplicate reviewing when something is getting attention without the need for review. 
+
+I strongly urge anyone involved in such a situation to do what they can to resolve outstanding issues before resorting to this. 
+
+That basically covers it. But these three guidelines may help: 
+
+Link is probably broken If link isn't broken, it's spam If link isn't spam, it's to some broadly-related resource that the answerer found by pressing "I'm feeling lucky" when googling the question's title. ...but the real issue here is that we don't know! Even if the link was originally pointing directly to the most awesomeest answer ever for exactly the question being asked, there's nothing in the answer itself to even hint at what direction we're being pointed in. Strip the markup, and this is what you're left with:

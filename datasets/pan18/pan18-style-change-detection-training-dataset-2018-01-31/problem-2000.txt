@@ -1,0 +1,25 @@
+The diagonal argument is used to prove a theorem that states R is not equinumerous with N. Diagonalization is a well-defined, mathematically sound procedure. 
+
+borrowing our notation from that of intervals in the real line. 
+
+This (apparently) follows from the fact that the continuum, R, and therefore the plane R2 of geometry, is formalizable as a recursively enumerable theory that is incapable of defining integers as real numbers. I'm not entirely clear on the details of these results, but this is what I have read. 
+
+Firstly, and perhaps somewhat pedantically, let's note that although randomness has a precise definition in certain mathematical theories - e.g., information theory, where we define randomness as the inability to compress information - in a philosophical context randomness has no precise definition. Furthermore, it is far from clear that randomness exists in reality. For example, there are deterministic interpretations of quantum theory. So let's stick to unpredictability. 
+
+Thus, I would argue that achieving an unpredictable outcome for a single toss is possible. If the coin's unevenness does not influence the outcome of an individual toss, it cannot influence the outcome of a sequence of tosses. Any bias that may manifest itself must be bias in those factors that determine the outcome. You make some plausible (and familiar) conclusions about how we could go about resolving the concept horse problem. It is, for example, an attractive proposal to say that 'horse' is both an object and a concept, depending on its syntactical role. As Frege says in that excerpt: we could say that horse is a concept (of type ⟨e,t⟩), but when it occurs in object positions, it is automatically converted to an object (of type ⟨e⟩). 
+
+                                                                             §2 
+
+Now, let's look at the other stuff you said, without talking about the above mentioned problem. Consider: The truth of CH is a semantical matter and has no business in independence proofs. CH may be believed to be true by experts, for reasons I cannot hope to understand. Some might even believe that it has to be true, but whether CH is true or not, the important result here is that: if ZF is consistent, it is compatible both with CH and with its negation. There are no doubt further restrictions, but that's all that come to mind now. 
+
+Let's look at the second part of your question first. 
+
+I have been tempted to ask this, but my lack of maturity has made me reluctant since it may be a rather sophomoric point. The diagonal argument is used to prove a theorem that states R is not equinumerous with N. Diagonalization is a well-defined, mathematically sound procedure. As you have noted in your comments, our mathematics, no matter how abstract or remote, can be seen to be rooted in our real world experience. You mention string theory, which is rooted in geometry. Similarly, our theory of large cardinals is demonstrably remote (provably undecidable), but it is rooted in the act of counting. Surely reality includes aspects well beyond our ability to experience, just as it must surely be the case that mathematics includes provable truths which are beyond our ability to imagine or root in our human experience. 
+
+Thus, I would argue that achieving an unpredictable outcome for a single toss is possible. If the coin's unevenness does not influence the outcome of an individual toss, it cannot influence the outcome of a sequence of tosses. Any bias that may manifest itself must be bias in those factors that determine the outcome. 
+
+The truth of CH is a semantical matter and has no business in independence proofs. CH may be believed to be true by experts, for reasons I cannot hope to understand. Some might even believe that it has to be true, but whether CH is true or not, the important result here is that: if ZF is consistent, it is compatible both with CH and with its negation. 
+
+                                                                             §2 Now, let's look at the other stuff you said, without talking about the above mentioned problem. Consider: 
+
+You make some plausible (and familiar) conclusions about how we could go about resolving the concept horse problem. It is, for example, an attractive proposal to say that 'horse' is both an object and a concept, depending on its syntactical role. As Frege says in that excerpt: we could say that horse is a concept (of type ⟨e,t⟩), but when it occurs in object positions, it is automatically converted to an object (of type ⟨e⟩).

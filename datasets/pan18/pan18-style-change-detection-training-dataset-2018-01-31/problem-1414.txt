@@ -1,0 +1,53 @@
+This is what I'm trying to do: 
+
+ps. Maybe it's not possible to optimize the code above and I'm doing the best I can? 
+
+BTW, on a second thought, such constants are bad design: Public Static Literals ... Are Not a Solution for Data Duplication 
+
+No installation procedures Hosted by Amazon, highly available Fully supported by Maven through a few wagons (see the link above) You may also find this article helpful: http://www.yegor256.com/2015/09/07/maven-repository-amazon-s3.html 
+
+PS. I wrote this blog post about this very subject: http://www.yegor256.com/2015/05/25/unit-test-scaffolding.html 
+
+Amazon S3 is the best solution: http://www.stackoverflow.com/questions/850570/maven-s3-wagon-provider, because: 
+
+With these JDBC URL params it works: 
+
+You may find more about them in Section 3.5 of Elegant Objects (my book about object-oriented programming). 
+
+Finally I found a neat solution, thanks to Apache Commons: 
+
+In a pure object-oriented world getters and setters is a terrible anti-pattern. Read this article: Getters/Setters. Evil. Period. In a nutshell, they encourage programmers to think about objects as of data structures, and this type of thinking is pure procedural (like in COBOL or C). In an object-oriented language there are no data structures, but only objects that expose behavior (not attributes/properties!) 
+
+I've looked at Mongoid(in rails), and morphia(in Java), not found the answer. 
+
+ReentrantReadWriteLock has a fair and non-fair(default) mode, but the document is so hard for me to understand it. 
+
+If I have a writing thread, and many many reading thread, which mode is better to use? If I use non-fair mode, is it possible the writing thread has little chance to get the lock? 
+
+But if the "import" statements in the java file contain "*", that will be a problem: 
+
+The server and client programs were both on my own computer, a single computer. The network card will limit the speed or not? 
+
+I have searched for this, but unfortunately, I don't get the correct answer. 
+
+We are using "TDD" in our development, so the testability of a class often is the most important concern for us. 
+
+Suppose I have some objects in MongoDB: 
+
+At first, I thought we can create some stubs for the missing dependencies, that's easy but boring. Since we can create the stubs without missing stubs to make the compiler happy, why can't we make a tool do it automatically? The tool doesn't need to create stubs, but reads the java file, collects informations, and then builds the .class files. 
+
+I want this method, because sometimes, the type in my code is too long: 
+
+I was prefer using static methods in my java code, since I think they are "functional""stateless" and has less side-effect. So there may be some helper classes and methods like this: 
+
+I have a checkstyle validation rule configured in my project, that prohibits to define class methods with more than 3 input parameters. The rule works fine for my classes, but sometimes I have to extend third-party classes, which do not obey this particular rule. 
+
+Amazon S3 is the best solution: http://www.stackoverflow.com/questions/850570/maven-s3-wagon-provider, because: 
+
+In a pure object-oriented world getters and setters is a terrible anti-pattern. Read this article: Getters/Setters. Evil. Period. In a nutshell, they encourage programmers to think about objects as of data structures, and this type of thinking is pure procedural (like in COBOL or C). In an object-oriented language there are no data structures, but only objects that expose behavior (not attributes/properties!) 
+
+This is what I'm trying to do: 
+
+Maven 3 reporting is different. 
+
+My Java application is using JPA for object persistence. The business domain is very simple (just three classes are persistent, with 3-5 properties in each). Queries are simple as well. The question is which approach I should use: JPQL or Criteria API?

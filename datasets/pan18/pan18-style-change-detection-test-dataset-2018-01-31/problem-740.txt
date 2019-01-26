@@ -1,0 +1,41 @@
+Regarding "the picture theory of meaning that the later Frege rejected", we have to consider the fundamental Context principle that Frege formulated already in 1884 and that is present also in Wittgenstein's TLP. 
+
+Finally, we "generalize" to conclude with: 
+
+(3) The kind of colour and degree of refractability that any particular sort of ray has can’t be changed by refraction, or by reflection from natural bodies, or by any other cause that I have so far found. 
+
+Let assume some "technical" facts regarding Gödel's Incompleteness Theorems : 
+
+The argument above licenses the: 
+
+Up to now, we have only a "syntactical" result, about provability in a (suitable) formal system. 
+
+See P.A. Brunt, Studies in Stoicism (2013), page 455: 
+
+Now the conclusion of the syllogism easily follows: 
+
+See also Newton's theory of colour. 
+
+Assuming that the system F is sound with respect to truth in the structure of the natural numbers (called N), we have that : 
+
+In order to speak of truth, we have to add the "semantical" side [see : Daniel Isaacson, Sufficient conditions undecidability of the Gödel sentence and its truth (2007)]. 
+
+Ok, so let's look and see what other scholars in standard, peer-reviewed reference works thing. 
+
+Somebody in the comment thread below says that Jaworski, a professional philosopher of mind who published a peer-reviewed book on the subject with a reputable publisher is just wrong about the definition of "qualia." 
+
+The question about The Other, so far as I can tell, is ethical. "What should I do to/for/with the Other?" Of course, the complicating factor is that sometimes authors like Levinas tend to make (seemingly implausible) claims about The Other that look metaphysical, like, "You can't be a self until you encounter an Other." I am not qualified to speak to what the reasons for such claims might be, however. 
+
+(1) is just a definition that expresses the meaning of the phrase "condition of the possibility". 
+
+But, hey, maybe the entire scholarly community has gotten Chalmers and company wrong. Maybe Chalmers has simply been slighted by careless, slapdash slanders by wild eyed physicalists who cannot stand to hear their theories contradicted. So, let's look and see what Chalmers himself says about whether qualia have causal powers. 
+
+(2) But you can be a person without encountering the other. 
+
+I'll admit that I've never seen anybody explicitly run this argument in print, but I am quite certain it's the first thing that an analytically trained philosopher of mind reading Levinas is going to think. 
+
+Chalmers does go on to suggest ways in which he will try to avoid, or at least soften the blow, of having to make qualia epiphenomenal, but whether those responses are successful is a matter of further scholarly controversy. For my money, I don't think any of his proposed fixes, like endorsing causal overdetermination, or extreme humeanism about causation look even remotely plausible. 
+
+Kripke's discussion of Wittgenstein on rule-following is notoriously idiosyncratic, and seems overly concerned with reading into W a 'skeptical' method, a reading which has been very controversial. For an alternative, detailed analysis of W on rule following, Baker and Hacker's Language, Rules and Necessity remains the locus classicus. 
+
+Kripke is discussing section 193 of Philosophical Investigations, where Wittgenstein draws a distinction between a machine as an idealized symbol of a rule-following or law-governed mechanism, and a machine as a real object whose behaviours and operations are subject to failure. Wittgenstein here was particularly concerned with trying to shed light on the concept of rule-following, the idea that following a rule means we somehow grasp all the infinite instances of behavior that could be thought to be in accord with the rule. He was saying that the instances are not mysteriously contained 'in' the rule, but rather the idea of a rule is an idealization and to be understood as more like a general ability represented by specific behaviors than an infinite number of possible occurrences.

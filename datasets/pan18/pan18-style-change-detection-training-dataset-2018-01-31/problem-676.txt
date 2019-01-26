@@ -1,0 +1,23 @@
+72 / 2118760 * 1/17 + 6 / 2118760 *16/17 = 0.0000046642... 
+
+Odds of 4:1 corresponds to a probability p = 0.20. 
+
+So the card removal effect is very real, it's a topic of studies and there's definitely more to "Are folded cards significant in odds calcution?" than a simple "no". I also remember a great blog post / article which was showing the distribution of cards over billions of flops and you could clearly see that it wasn't a totally random distribution but I never found that blog post / article back : ( 
+
+If you want to "combine" these two, there are 3/51 (i.e. 1/17) that you're dealt a pocket pair and 48/51 (16/17) that you're not, so: 
+
+In game theory, poker is a game of "imperfect information" (as opposed to, say, chess which is a game of perfect information) and as soon as the first player either bets or fold, you have information. Not much information and very hard to exploit but it is still information. 
+
+Simply put: as soon as a person folds the probability is higher (a tiny bit higher, but higher nonetheless) that the next players will get better cards than if the same player didn't fold. 
+
+I ran the numbers on hand 1: A♥A♣3♠2⋄ versus hand2: 6♣7♣8♥9♥. Turns out aces have 46.82% equity. Significantly less than 50! I chose this matchup, because hand 1 can only make two different straight, however on both straights hand 2 will end up with the better end of the straight. Hand 2's suits are the same as the aces. I don't know why but this results in higher equity for hand 2. So my side question: why do hand 2's suits to be the same as the aces cause higher equity for hand 2? 
+
+If you dont want to do the math yourself, there is a quicker and easier way to calculate odds and probablity. Use propokertools.com, it is a great site. Not only can you calculate one hand versus another. But also one hand versus a certain range of hands. Just put in your hand, the board and the range you expect your opponent(s) to have and you can calculate your odds. 
+
+Ranking these hands based on their EV seems perfectly reasonable to me. Your instinct to multiply is not incorrect, but I think there are some subtleties to the calculation which you might have missed. 
+
+As always, my math might be wrong, but this is my understanding! :) or roughly 0.000224%, or 1 in 446,985. 
+
+For someone to additionally then get any other 4OAK on the 3rd hand: so for example your 45% Win, 40% Loss, 5% Tie hand has 47.5% equity/EV in the pot: Which gives the same rankings a different way (and is the approach you proposed): 
+
+To be any more accurate, we need to model player behaviour and figure out chances that particular hands get to showdown etc, which makes the calculation non-trivial. Personally, to list from strongest to weakest, I would just sort by Win% (descending) and then Loss% (ascending), so your hands above would be ranked the same way you arrived at with your "0.5 points for a Tie" approach:

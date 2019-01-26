@@ -1,0 +1,39 @@
+I have been reviewing close votes - and I think I'm doing pretty good. 
+
+Yes, the button should automatically know when you have the power to cast a real delete vote on a post, instead of a delete recommendation. 
+
+Or, as Knights suggested, hover text could be used. On mobile, however, hover doesn't work. I'd vote for hover text when on a Desktop platform and an (unobtrusive) number when on Mobile. 
+
+That's great. Except for audits. 
+
+Show the number of close votes next to the close button. Something like this: 
+
+As a 10ker, you can vote to delete questions that have been closed for two days, and you can't vote to delete answers. Therefore, the button's text should be Recommend deletion as you state. 
+
+I kind of like to see how many close votes there are currently. Since there is no other way to get this info, I tend to click the Close button - with no intention to close, but just wanting to see how many votes there are currently. 
+
+Caching gone bad? Didn't think those views were cached, but I'm probably wrong. 
+
+When reviewing, I am presented with four buttons: 
+
+I've been able to review first posts and late posts for a while now - and it's actually kind of fun. However, there usually aren't any review tasks available (at least on SO), presumably because others also think reviewing is fun. 
+
+First: thank you for being a good reviewer; far too many people just approve these without doing nearly the amount of research you describe here. 
+
+Given this, I'd propose we fix this by simply weighting them to be shown near the bottom of the queue if a user doesn't have x answers/upvotes in the tag. This would keep the ability to suggest edits, in a queue that already exists, but without wasting your and my time on edits that we probably can't do a good job reviewing. 
+
+This trips me up on a ton of audits. I see a good looking post come through and think, 'Huh. Did someone really vote to close, or was this a flag?' Then the audit gets me. 
+
+Preferably, this number would not be some emergency color, like red or yellow, but maybe blue or light green. The idea isn't that we are instantly notified - there's thousands of us to handle this stuff - but that we can see how tasks there are without clicking a link. 
+
+And no, you're not going crazy. The text changed. 
+
+A user made this review, but it isn't showing up on their profile as of now. 
+
+I generally have the same problem - I'm not an expert in everything (it's actually far closer to nothing). That said, I would vote for these to stay in the suggested edit queue, possibly with improved guidance encouraging skipping then if you're not an expert in that tag. 
+
+So, I would propose that a number be shown next to the review button in the toolbar that says how many tasks are available - just like the lucky moderators get. 
+
+The other that we need to consider is that not everything is SO/F/U. The people over at ELU aren't exactly the most tech-savvy. Therefore, we need to be carefully how we word things. Using words like 'cache' and millisecond time stamps probably aren't recommended. 
+
+If the audit is in the wrong, just go to the post in question and downvote or vote to close - Shog9 says that will do the trick.

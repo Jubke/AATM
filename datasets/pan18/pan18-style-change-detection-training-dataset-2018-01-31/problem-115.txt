@@ -1,0 +1,19 @@
+Update: the developers are saying they fixed it. 
+
+This issue is also being actively discussed on the Steam forums, with no resolution at the moment. Sometimes, hitting Esc during cutscenes will pause the game - hitting it again will un-pause it. The sound is correctly paused and resumed as well, even mid-sentence. 
+
+If you trust Steam, have permanent Internet and don't care about your game boxes, then no, there isn't anything good to do with them. If you already have an eBay account you can offer the game boxes there (just don't provide the serial numbers), other than that I wouldn't bother. 
+
+Original answer: I'm not sure the "why" is really on-topic here, I just think someone made a mistake. I share your pain. 
+
+If you feel your game will become a classic later on you can hold on to the manuals and sell them again in 15 years for collectors :) Verifying the game is legit (DRM). Verifying the game is up-to-date. Verifying the requirements for the game (e.g. directx) are still met. Although (3) should theoretically only be checked on the first run, I'm pretty sure it's actually checked on every run - I saw a few games that always show a brief "installing directx" line even after the first run. Maybe it is done to verify no hardware or software changes were made to the system that can break the game. Yes you can for certain items - for example, when I look in my Steam inventory at my many copies of Dota 2, I can select one and a "Permanently delete gift..." button appears as per below; 
+
+Now there is a generic Downloads Restriction setting, too! Under Steam > Settings > Downloads, there is now an option available that allows you to specify a specific time frame to download updates. If you know you're going to be using mobile data for a specific time frame, you could use this functionality as a workaround to ensure that updates are not downloaded during that specific time frame: 
+
+The "restrictions" you're saying you've got on your account do not match up with what Steam call a "limited account" - it is probably worth contacting Steam support to discuss the issues you're having with the Steam store. 
+
+Paste in the path to Steam, which for me is D:\Steam but if you've installed to the default location on a Windows 7 64 system will be: 
+
+If you feel your game will become a classic later on you can hold on to the manuals and sell them again in 15 years for collectors :) This issue is also being actively discussed on the Steam forums, with no resolution at the moment. 
+
+As for a solution - I've searched online and experimented a bit, and while I could easily bypass the first dialog, I could not bypass the second. To bypass the first dialog, just don't click "play" directly in the Steam game library. Instead, choose one of the following: So, looks like it's a known issue being looked at. Meanwhile, I found this workaround at the Steam forums: Edit As of the latest Steam / Civilization versions, this problem has been fixed. Launching the game regularly from Steam opens only the Civilization-specific selection window, and right-clicking that menu and creating a specific DirectX-11 link will create a shortcut that shows no DirectX-selection menus.

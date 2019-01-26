@@ -1,0 +1,39 @@
+From this perspective, I would answer your enumerated concerns: 
+
+(This whole argument can be captured by reading just the bold bits. The rest is packing and details you could look up anywhere.) 
+
+Our notion that this kind of discovery kind of 'started' then may also have more to do with Athens recording it more liberally, than with its actual occurrence. 
+
+Science does not buy into this agenda wholeheartedly, for the same reason Protestantism and the counterreformation keep Western religion from really doing so anymore or ever again: because it is, at root, based in a faith that cannot be rationally justified, and it does not care. To that degree, it is antipathetic towards rationalism in this sense. 
+
+At the start of the chapter of Science and the Modern World where he turns back toward philosophy proper, he comes close to a real characterization, of what he means by rationalism, though not of rational: 
+
+So in some sense, complete coverage without compromise is the goal, and that includes compromise with the arbitrariness of terms and the fitting of concepts into narrow molds that has historically been required by science of itself. (This is especially true now that science itself has found those molds do not accommodate it.) 
+
+The standards of philosophy rest on what resonates with human logic, not what caused the thoughts to be put forward. The field lies in the humanities for a reason. Philosophers borrow evidence from all over the place and claim no skill at evaluating its truth. They use science liberally but realize they are not scientists. They argue from history and are not historians. They assemble something that makes sense. And if their sense continues to hold interest and reflect value when their data rots away beneath them, the philosophy remains relevant. 
+
+We have given up on studying any NeoPlatonist or Hermetic philosophy affected by Gnosticism as philosophy, and left it to crazy religionists in whose best interest it often is to badly warp history to manipulate internecine rivalries. 
+
+At best, it is a form of substance related to energy, which is indirectly a form of matter, but the framing in this paper is just misleading in a very basic way. One would never assume 'solidity' or 'gaseousness' to be a direct factor shaping the Hamiltonian of a system, as one might see energy. So his explanatory approach and his stated framing don't even match. 
+
+This would then be a fertile place for integration, but largely invisible to those with less revolutionary (game-remapping) aims. So we see it happen occasionally, without gaining real traction. 
+
+My reaction to this is to pull out Wittgenstein (or Kuhn, if you like), and assume that successful Eastern and Western philosophies fall into two different language games (scientific paradigms), so that the value of Eastern philosophy seems neutral or empty to those playing the other game. I would suppose that likewise the entire analytic tradition seems like a non-contributing thread to the East. (Perhaps "That may be interesting, but it is really a branch of math and not philosophy.") 
+
+We know these things are facts from physiological investigations -- reaction timing data in particular. But we find it very hard to elaborate models that allow for them because we cannot escape the biases captured and formalized by Descartes. 
+
+If Conifold's answer misses the point at all, given how expansive it is, then you must mean "Why did Goedel choose arithmetic?" And the answer has to be that the construction procedure would be too alien in any other form. 
+
+Before these two, various predecessors had discovered pieces, or focussed on individual theories that we now consider psychological (From Aquinas (or even Aristotle) to Pavlov). But they had no collected view of how physiology, mental models and behavior fit together into a single subject. 
+
+AFAICT, Gnosticism beat philosophy to this by a long time, and tainted it as an argument. 
+
+This phenomenon strongly influences various associations water has as an 'element'. It emphasizes the already notable flexibility of the substance to realize that even that flexibility is flexible. If anything was everything, the seemingly infinite changeability of water makes it a prime candidate. 
+
+Overall, in this domain, what most undermines Aristotle is Plato. You misportray history in the question. It is not so much that we had agreement and turned aside from it, as that we ignored the disagreement sometimes. Idealism kept arising in different forms until one stuck. 
+
+It is true that Nietzsche explicitly describes these as contrasting categories, but clarity of language often suffers from art. He can't mean this too wholeheartedly, because he then fights very hard on the behalf of his own myths. To my mind, relativism is not nihilism if one accepts that shared myths and aesthetic standards will speak to others in a meaningful way, and that they are worth maintaining for that purpose. 'Choose your delusions' is a form of relativism as an exercise in political aesthetics that is therefore not nihilistic. It can, in fact lead to very strong religious sentiments, in a way that real Empiricism or Pyrrhonism cannot. 
+
+2) Although it has many scientific tools, anthropology accepts a different view of science, and will never move toward integration with the other modern sciences. Historiography can never be scientific, as stories always have tellers, and the results always contain relativised perspectives that cannot be otherwise captured and contained. Sociology logically precedes psychology. Although it remains a weaker science, it is slightly older. It was mature enough to generate 'Suicide' (sometimes considered its first work) at a point where psychology was still coming together. 
+
+You need a system with a notion of division for infinitesimals to mean something, and generally, also a notion of continuity. If you are not focussed on continuity, the idea that division just blows up at zero does not faze you: you just consider it a function with a hole in its domain of definition. The Differential Calculus is the first place where we worry about smoothly handling functions viewed infinitely closely.

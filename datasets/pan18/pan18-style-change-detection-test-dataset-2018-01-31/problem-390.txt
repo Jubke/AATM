@@ -1,0 +1,33 @@
+If you try and flag two comments in a row, you run into the vote rate-limiter: 
+
+On one of the meta chatrooms just now, I posted a link and then posted "..." a second later. For some reason, the second message inserted above the first, and a time difference message showed up informing me I'd posted the first -1 seconds after the second: 
+
+Screenshot of the site list http://so.mrozekma.com/chat-create-room-sites.png 
+
+I think the reputation required to edit questions on SE betas should be massively lowered. Right now it almost seems like it's been overlooked; retagging and close voting were both dropped to 1, while editing remains at 2000 for private beta, 1000 for public beta 
+
+Screenshot of Unix private beta start mouseover http://mrozekma.com/so-a51-unix-beta-private-hover.png 
+
+When creating a new chat room, it's possible to not associate it with a specific site, if you choose "The Stack Exchange Network" from the site list (it appears twice for some reason, but that's a separate issue): 
+
+Screenshot of Unix public beta start mouseover http://mrozekma.com/so-a51-unix-beta-public-hover.png 
+
+If I delete normally it works fine; it's only converting to comment (and probably edit, although I didn't try) more than once that leaves behind undelete votes 
+
+Suspending / nuking / molecular destabilizing in the works. Thanks for the head's up. 
+
+Perhaps add a 'requires more immediate attention' option, which degrades into the same weight as 'other' if several false positives are sent. 
+
+I'd like to attend to stuff that the community can't handle first. This may be: 
+
+Had they realized that we automatically re-write Amazon affiliate links to our own, they probably wouldn't have bothered. Might have a look in the logs to see what the original affiliate ID was, Amazon doesn't take kindly to that. 
+
+I'm not entirely sure if that's by design, however there's no sort of privilege escalation at play here. 
+
+I really don't care about rep anymore. Well, sure I do care, but not to the point that I won't correct or add something to make my answer better, even if it means not seeing a number on a web page increment. 
+
+Even though the flag menu is extensive and promotes better flagging, we still have only three types of flags from a moderation standpoint: 
+
+However, we'd probably also want to prevent people from inserting that line unless wrapped in a code block. 
+
+The alternate to that (more simply implemented perhaps?) is to give us a way to see the 'other' flags first. Give us the home grown stuff first, or the ability to see it first, before moving on to the canned goods :)

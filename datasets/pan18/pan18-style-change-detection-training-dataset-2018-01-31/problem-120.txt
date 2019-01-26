@@ -1,0 +1,61 @@
+You can read the list of command-line options here. 
+
+Based on what everyone else is saying: Before trying anything, ensure the following: 
+
+When I open Garry's Mod, it seems to be downloading even more things, and both stages uses bandwidth as far as I can see. As in: Garry's Mod does not use the files downloaded by Steam. Does it? 
+
+On Steam, there are no multi-seat licensing. Although Valve does do this for cybercafes and education institutions, it is essentially the creation of multiple accounts (one account per computer) with licenses applied manually by Valve that are simply logged in automatically when the computer starts, which is the same as multiple single-user accounts. 
+
+For example, if you're shipping from US to Australia (or Russia), there won't be any issues. But, shipping from Russia to US with a Russian Steam account is a different story. 
+
+Well, no. You just forgot to wait. Garry's Mod downloads all the updates before decompressing new workshop files downloaded through Steam. 
+
+These examples have been created with this account. 
+
+Click it, relaunch Steam (in case it doesn't update) and the game will return. 
+
+A Steam Wallet code purchased in any country can be used in any country's store. However, if your wallet code provides value in a different currency, you will be prompted to convert the funds into your store's respective currency. 
+
+Create a steam account for each person (or workstation) you would like to play. Purchase the game that you would like to play for every single account. At each workstation, log into a different Steam account that you have created for this reason. As for maintaining updates, there are many solutions for that. What I typically do is have the files sync from a central computer/server. For BYO computers, I put them in a network share and ask everyone to copy from there (as opposed to having everyone download altogether*). 
+
+Otherwise, Steam will automatically perform a verification and most likely update all the files; re-download the whole game. 
+
+It isn't. It is merely updating out-of-date addons that have been currently installed. 
+
+All you had to do is wait! Answering your questions: 
+
+As for being able to play the games depending on country, it depends on the country and the game. Most games are available world-wide, but others (like Saints Row IV) have region-specific versions, which depends on the account's store country at the time of purchase. 
+
+According to Steam support (in a ticket I've sent), when you go overseas, your Steam Store billing region is automatically assigned based on the IP address you logged in using. So naturally (for example), buying a game in Malaysia (despite having all your games bought from the proper full-paying store in Australia/USA) will impose the region restrictions when you leave the country. 
+
+I quote from the Steam Support page: https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519&l=english#email 
+
+NB: This applies to all titles purchased from the store or received through CD keys. Even though this is a F2P title, it was activated trough a CD key. 
+
+To install skins on Steam, you simply drag the skin's folder into the skins folder in your Steam install directory. 
+
+Regarding being able to play them, games purchased at the full price (ie. from US/Australian stores) will be playable anywhere, regardless of the region restrictions, unless it is banned/restricted by law. 
+
+As for the extraction stage, it doesn't use any Internet usage.. It's not like you can download 400MB in 3 seconds with Aussie Internet speeds? 
+
+Games like TF2 and DoTA 2 will work fine, but other titles such as Counter-Strike: GO will require a repurchase (for his account) or family sharing licenses. 
+
+Note that Steam shortcuts are protocol shortcuts - like links to URLs, and not program shortcuts - like links to an application. If you move your Steam installation, they won't need to be updated. However, if you uninstall Steam, shortcuts to your non-Steam games that were created through Steam will probably cease to function. 
+
+Offline mode is described in the Steam Support Docs: 
+
+Another thing that was brought up in that thread that I think needs to be said is this: 
+
+It doesn't seem like Steam was really designed with this use case in mind. (There's no such thing as Steam Parental Controls, for instance, although both my Xbox 360 and my Wii have parental controls, if I remember correctly.) I've found several threads where people were having similar issues with their kids. 
+
+Any shortcuts you drop into this folder will show up on your Start Menu, and any folders you create here will be created on your Start Menu as well. 
+
+I wrote this AutoHotkey script to generate shortcuts (no icon images though) 
+
+Per game option You can now tell Steam to continue downloading updates/games while playing games from your games' properties. Note that this setting is not available for non-steam games, which will always use the global setting. 
+
+Also note that not all games support this system, or have only partial support. For example, you cannot participate in CS:GO's competitive matchmaking while borrowing the game from another account. Most games with 3rd party DRM, such as Uplay, will cause issues and might not even show up on the list. 
+
+Where can I find it in order to listen to when I'm not playing? I found a packed music.a file, but that's intentionally encrypted according to the readme in the same folder, and so it is unusable in a music player, including Steam's own music player. 
+
+You simply need to enable Family Sharing on the computer you want to use:

@@ -1,0 +1,29 @@
+I noticed it happening twice, already. When I checked before, the reviewed posts were higher than 520. 
+
+I could verify this in a site where my reputation is lower than 3k, and where I can retag questions. 
+
+I would say it is the intended behavior, as what you should do is to click on the "review answer" (or "review question") link you find after the post. 
+
+If the synonym must be replaced in all the questions, then: 
+
+I would rather prefer not having such feature, as it is the wrong way to use suggested edits, and it would probably going to incentive users without the privilege of commenting everywhere to suggest an edit to see it converted in a comment. 
+
+I checked after few hours, and the counter is now lower. 
+
+There isn't actually any way to convert a suggested edit to a comment, not even for moderators. 
+
+You will see tools, or review basing on the last tab you visited. 
+
+Apart this, there also some practical issues. To convert a suggested edit into a comment (provided the suggested edit just added a sentence/paragraph at the beginning/end of the post), users should be able to flag revisions, and that is not actually implemented. Adding code to implement this feature that would then be used in very limited cases is not something I would do. It is more probable that a user writes a comment as answer, rather than suggesting an edit to add to a post something that should be a comment. 
+
+Every time you click on "review answer" (or "review question"), the review counter is increased, even if you don't take any action. For example, you could review the post, and see that there is nothing to do. Of course, in that case the post in not counted as actioned post. 
+
+If I click on "Flag Question," I get an error message. 
+
+When a tag (let's call it a) is made a synonym of another tag (let's call it b), it means: 
+
+Suggested edits should be rejected if they are not valid, not because the comment is only partially describing what the edit is doing. If you don't understand why the edit is being proposed, and you are not able to understand if it is a valid one, you should neither approve it nor reject it. 
+
+If users without the "Strunk & White" badge edits a question in the review page, they will find themselves in the question page, once the edit has been done. This is true for retagging a question, and for editing its content. 
+
+I reviewed more low quality posts. When I stopped, the number of reviewed posts was 1194; I checked after one hour, and the number of reviewed posts went to 1150.

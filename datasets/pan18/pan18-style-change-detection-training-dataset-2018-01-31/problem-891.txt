@@ -1,0 +1,49 @@
+Since this question was asked, a chat system was implemented. It's currently split into three areas: 
+
+Supporting evidence for March 25 not counting: you didn't get the Mortarboard badge that day. You did get it on April 1, the first time you reached 200 rep in one day without the association bonus. 
+
+According to the badges page, the requirements for Yearling are: 
+
+Possible problems: gray-to-orange ink might be prohibitively expensive to use on a stein, might be toxic and might not even exist. Same for clear-to-green ink. 
+
+I use the name "Popular Demand" here on Meta, but everywhere else I'm "Lord Torgamus." (Fun fact: neither one of these is the name on my birth certificate!) I just visited stackexchange.com and was surprised to see both names there, in different places. I'm not sure that this is a bug, or how it could really affect anything, but it seemed weird enough that I figured it was worth reporting. Screenshot: 
+
+I can see how this logic made sense back in the one-bounty-at-a-time days, but now that users can have three simultaneous open bounties each, the dismissal button should only dismiss the selected notification. 
+
+I also thought maybe I miscounted, but I just went through again and got the same number. 
+
+If they didn't get a bright orange bar multicollider notification, they wouldn't even notice. And how is a migration a worse experience than outright deletion anyway? 
+
+I'm torn on the value of presenting a rectangular arrangement rather than a list of rows. The narrow columns for short text are nice, but when a tag lacks an excerpt, that means a lot of ugly blank space. 
+
+Do not merge “obsolete” with “too chatty”. 
+
+Here's some data on suggested edit review speed. Methodology: I computed the average time between the submission and the approval or rejection of suggested edits over a 1-week period, or over 100 consecutive suggested edits on the few sites that received more than 100 per week. I measured three 1-week period: the week since the top bar went live (it's been a week today, except on MSO and AU; I excluded AU and took the date of the top bar introduction as a reference on MSO), the week before, and the week before. I chose weeks to avoid effects related to the time of day or day of week, and show two weeks before to get a small idea of the variance. For each period, the table below gives the average delay in minutes (rounded down) and the number of suggested edits that this averages over. The last column expresses the new-top-bar value as a percentage of the old-top-bar value (e.g. 100% means no change, 200% means that reviews take twice as long). I only looked at sites with at least 7.75 questions per day, because slower sites tend not to have a statistically significant sample of suggested edits. (7.75 is where the API throttled me out…) I then filtered out sites where there weren't at least 10 suggested edits during the weeks concerned. 
+
+Hiding the information doesn't serve a useful purpose. If you feel that the number is not tied closely enough to the word “review”, reduce the space between them, and make “reviews” plural when there are 2 or more, so that the text smoothly reads smoothly “N reviews”. 
+
+Most damning, this doesn't solve the real problem! The real problem is the inaccuracy of the number, and mostly the fact that the number can be nonzero even when I have nothing to review. The progress bar that you propose would lie just as much. 
+
+Same top bar. But different colors! Consistency broken. 
+
+I do agree it's weird, and better give different color to the logo, but this might as well be by design. 
+
+Worth to mention that in the Welcome Message neither of them is linked to a profile. 
+
+Whenever I try to flag or close a question here, when clicking the submit button the button gets disabled, three dots animating and nothing really happens. 
+
+JS console show a single error: 
+
+I've just noticed the suggested edits count on Meta: 
+
+Please fix, programming questions and spam are beginning to pile up. :( 
+
+What can we do to encourage people to use the "@" more? It's for the good of the whole community, as people respond to comment, expecting reply but get none because nobody was notified. 
+
+See in the bottom of the Our Team page: 
+
+Update: appears to work fine from within the review system, but otherwise it's the same on Stack Overflow as well 
+
+Regex, it's always the regex. Seriously now, the reason is a rogue trailing slash you have in the URL, which is not supposed to be there. 
+
+Well, you can also remove it from within the box itself by clicking the highlighted star:

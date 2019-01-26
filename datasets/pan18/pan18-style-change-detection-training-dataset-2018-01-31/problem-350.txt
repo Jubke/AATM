@@ -1,0 +1,49 @@
+It would be much simpler to change the front chainring, if you can find a magical combo that matches what you want for a gear. There are also "half links" available that allow you to tweak the chain by less than a full 1 inch link pair. 
+
+FWIW, a single speed bike means your almost always in the "wrong" gear. Any change you make will only change when you're in the wrong gear, not the amount of time you spend in the wrong gear. If you're not happy being in the wrong gear, just buy a derailler and a shifter. 
+
+Every new 9 spd chain I have bought came out of the box with 0.5% wear according to the Park CC2 chain checker. I replace my chains when they start to show any wear (i.e. 0.75 %), because chains are cheap and the rest of the drive train is not. 
+
+Every measuring tool takes some practice and skill to get accurate measurements. 
+
+But this is all largely arguing in a vacuum. Set your bike up so that it shifts well, check the chain wear frequently and replace the chain when it starts to show signs of wear. Gears don't "wear" significantly until the chain starts to wear and elongate and increase stress on the gears. If you always have a "fresh" chain, your gear cluster will last a very long time, regardless of how the B-tension is adjusted. 
+
+Using Vernier Calipers To Measure Chain Stretch Because you are also attempting to use Vernier calipers to estimate chain wear I thought I would share a method I derived for using Vernier calipers. I decided to follow the same method as the Park tools (inner measurement - your L1 approach - for 10 links) as I wanted to include wear on the bushings (as this is what the cog interacts with). As many have pointed out there is no perfect way to measure chain elongation. 
+
+Wear Rates by Product Tier You can also use this approach to compare the performance of different product tiers within a chain brand or even between brands. Below is an example of 10 speed Shimano chains: Tiagra vs Ultegra vs XT. Note I use duration as chains are on different bikes that travel at very different average rates of speed so I didn't think standardizing against distance would give an apples-to-apples comparison. All three give the same wear rate estimate (slope of 0.0003) which suggests this a sensible comparison approach. 
+
+All three product tiers have the same wear rate (slope), but it would seem that Shimano's strategy is to have the lower priced tiers have a worse starting point so that their life is shorter. If the lower tiers (e.g., Tiagra) had a tighter tolerance chain life would have been the same as the higher product tier, despite being constructed with "lower quality" materials as suggested by the marketing department. 
+
+Additional Details on Hot Waxing When done right paraffin wax adheres to the metal and takes up the space between the rollers and inner links. Because the wax is solid at room temperature, this means the chain is running on a film of hard wax, which increase efficiency and reduces roller wear. This only works if you prepare the chain correctly, otherwise the wax will not adhere and the wax will not remain between the rollers and inner plates/bushings (inner plates act as bushings in modern chains). 
+
+I believe this is a reasonably decent calibration chart as I hit 0.5% or 0.75% on the chart, the other Park Tool CC-3.2 pass/fail gauge nicely slides in at the 0.5% and 0.75% sides respectively. The conversion table is of course not perfect as some chains came with an initial stretch measurement less than 0% (i.e., the CC-2 gauge would not fit in place). As such, 0% does not represent true zero. That said, we are really interested in the 0.5% or 0.75% wear, which the chart seems to approximate well (for how Park Tools measures chain wear). 
+
+Every new 9 spd chain I have bought came out of the box with 0.5% wear according to the Park CC2 chain checker. I replace my chains when they start to show any wear (i.e. 0.75 %), because chains are cheap and the rest of the drive train is not. 
+
+If you poke around on the web enough, you'll find a "magical" gear ratio calculator somewhere. You input the length from BB to dropout and it spits out the front/back combos that will work w/o a tensioner. 
+
+You could try the "soak chain in paraffin wax" method. That would at least keep the water out of the rollers. Good how to page: 
+
+But this is all largely arguing in a vacuum. Set your bike up so that it shifts well, check the chain wear frequently and replace the chain when it starts to show signs of wear. Gears don't "wear" significantly until the chain starts to wear and elongate and increase stress on the gears. If you always have a "fresh" chain, your gear cluster will last a very long time, regardless of how the B-tension is adjusted. 
+
+If you don't have any way of clamping the cog, the only other suggestion is to take the wheel to a shop, who will use their vice to loosen it. With the right tools, it is really only a 30-second job so you may be able to sweettalk them into doing it for free. 
+
+So if you do take the bike back to the shop, odds are that that's their response. 
+
+Assuming that these parts are actually ok, then the problem becomes one of poor mechanics. Two things spring to mind: 
+
+For frequency of lubing, the answer is "it depends". We all have different preferences. If its a bike that doesn't get ridden often, you'd maybe lube the chain before every ride. A commuter, ridden daily, you'd maybe lube every week or two. 
+
+you need to oil the pin/roller area. There's no point oiling the face plates (which I think is what you're saying?). 
+
+Lastly, you should probably spend some time thinking about how this happened. Could be you just got a jump because the chain was loose, but it is probably worth checking your chainline to satisfy yourself that everything is ok. 
+
+Give the cogs a decent clean at the same time as you clean the chain, otherwise you're just going to transfer muck from on to the other. 
+
+I think it is a judgement call, but I don't think you can separate lubing from cleaning. 
+
+If you think about it, the purpose of oiling is to lubricate where you have metal moving against metal. 
+
+I know if I got myself a new (second-hand) bike, I'd think about replacing the chain almost automatically. Same as something like brake pads. Just so you know where its come from, plus they're cheap enough its almost a no-brainer. 
+
+The only other thing I could think of is that if you do end up with an imperfect chainline, despite your every effort, then a 3/32" chain will be more forgiving than a 1/8" chain. 3/32" chains are designed to be able to traverse cassettes so have a little more flexibility in them.

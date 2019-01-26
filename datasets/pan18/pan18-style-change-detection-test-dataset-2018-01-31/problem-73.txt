@@ -1,0 +1,53 @@
+Start with attack upgrade and follow with armor; Try to do both upgrades in parallel. When upgrade 
+
+and 9 - are usually used for upgrading facilities: forge, armory, engineer, evolution chamber. 0 - I usually use for command center when I need to scan. Further F-keys assignement I plan to use to bind locations: main, natural, enemies natural, main battle ground - that will be changed often. 
+
+I've beat Terran with Protoss using photon rush. 
+
+I would add one more mission order (from the same source as posted in another answer by Juan Manuel, probably it will be useful to somebody too): 
+
+Build probes constantly, 1st build probe will go to opponent, all others - go to minerals; 10-12 actually should be enough. Build the 1st pylon outside of the opponent's start location - if you build it in the opponent base (after the choke) he will attack the pylon with large amount of SCVs. The Pylon should be built as close to the opponent base as possible. Build 1 forge. Build 2 cannons close to the opponent base - they will shoot up the ramp soon. When these cannons are almost complete, send a probe to the opponent's base and build 1 cannon (you 1st pylon should give enough space for 1-2 cannons). Opponent will try to attack your building cannon, but your first 2 cannons should be able to protect them. Keep you probe from being killed by SCVs/marines. Build new pylon close to new cannon, once the new pylon is done, build 1-2 additional cannons not to far away from the 3rd cannon; it should be able to protect the new building. The new cannons should also be able to attack the command center. After the last cannons been build they will start shooting the command center. The AI will give up quickly. 
+
+Very popular recommendation about keys is: develop those that works best for you and use it. Some people has long finger and there are not problem for them to use '0' widely. Other assign unit groups into 7-0 numbers but use 'P' (patrol) command instead of 'A' (atack). 
+
+Marines/Marauder are more dangerous for Thor. If medivacs has higher priority but you want Thor to hunt marines/marauders - you need to order Thor to attack marines directly. As there are usually a lot of them you will need to do a lot of junk-work. 
+
+If you're willing to put some time into developing a custom map, here are some ideas: 
+
+If you have a 10 for Brain but a 1 for Speed (IE you know exactly what your opponent is thinking, but you can barely use a mouse), your total score is 10. If you are as dumb as a pile of bricks (Brain 1) but have great mouse skills (Speed 10), you might also have a score of 10. but a guy with moderate brains and fingers might have a score of 5 times 5 or 25, which would beat both of the extremely lopsided guys. 
+
+Player A gets X minerals/gas per minute, automatically. 
+
+Player A gets full vision of the map. 
+
+Player A gets some wacky unit like the Laser Drill from the campaign, whose damage or recharge rate or something else can be adjusted to make the difficulty even out. 
+
+Your units cost more food (or your supply units provide less pop)? this would be more "normal" than reducing the damage or HP of your units. So your buddy will still learn that X marines beat Y zealots, but you'd have less zealots. this would of course run the risk of your instincts getting confused when you switch back to regular games. 
+
+Every time you search breaking news is requested from customer.teliacarrier.com. 
+
+Don't ask yourself "how" to defend but ask yourself "why" that he plans a medivac drop. 
+
+Fog Of War is not the range of an unit as far as I understand, but is there a way to see how much FOW range an unit/building will reveal? 
+
+Build up your defenses and go for a counter attack. Terran: Bunker + 3 Rax, build MM and focus on Marauders to counter the Roaches. Then Fac + Star, create medivac(s) and do a drop near his mineral line. 
+
+Note: If you plan to use Tanks, have something to counter air or else he'll simple drop on your tank. 
+
+No expansion past natural, if he had one he would have more resources, units, ... 
+
+Ice Fisher by Spanisihwa sounds like the right build for you, it's a worked out Macro/Macro+: 
+
+Before we talk about "how to harass" you first need to know why... 
+
+Harass a Drone! If you are good in micro you can hope for drones to follow and harass a single drone. Protoss might want to place a proxy instead, depending on how you will counter him. 
+
+As a conclusion, this might not be the most straight-forward build but it'll sure leave you with a good view on economy and macro before starting to work out more towards the micro aspects of the game. 
+
+Yes, hit F12, Zerg Units, Banelings and check Weak Against. Check the same for Marauders... ;-) 
+
+Why does an attack I planned fail? Turn your opponent crazy! But secure your expansions against a counter attack... 
+
+But I don't know what units he has after my initial scout? 
+
+If you really have to, you could opt to create a Flying Scout Rax or send in a Marine. But those might give you less or too late information...

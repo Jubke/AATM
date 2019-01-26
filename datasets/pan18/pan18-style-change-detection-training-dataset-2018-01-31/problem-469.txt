@@ -1,0 +1,29 @@
+Here's some guidelines I can share, from hearsay and from experience. I tend towards SF/F examples; hope these are clear. 
+
+For posterity, I'll summarize: 
+
+In summary: don't try to convey all the complexity at once; do give clear indication that certain things are complex, incompletely understood, and have interesting secrets to discover later. 
+
+The art of writing is so much more than getting words out on the page, or transcribing the outline of a plot. It's the difference between having scenes, characters, and plot twists, that you're just assuming the reader will be willing to wade through -- and creating scenes that are vivid, characters you want to spend time with, plot twists that have real emotional impact. Beginner writers make this mistake all the time - they write something because "that's what happens in the story," but they forget to craft the way in which the reader will receive and experience it. This is the fundamental error: to assume that because the author has written it, the reader will experience it, believe it, enjoy it, in the way the author intended. 
+
+That's it, I think. Hope these observations are helpful :) 
+
+"Show don't tell," as a three-word directive, is pithy and simplistic. But it's used because it's one of the fundamentals of writing well, and one of the things new writers understand least. 
+
+Obviously, "show, don't tell" is sometimes used incorrectly. And the fact that it's such popular, well-known advice makes it, well, better-known, more often discussed, and more frequently misused. But there is a strong core to the principle, and good reason for its popularity. 
+
+You want to focus on what the reader needs to know for the story to make sense (he needs to know the scene is in a park, and not in out of space; if there's going to be anything happening in or around the park's pond, you want the reader to be aware that the pond exists), and on what you can use to create atmosphere (this scene is going to be calm and serene, like the park; or: the park is wilting and poorly-kept, emphasizing the story's squalor and disorder). 
+
+"Brenda is a really boring character" or "I don't believe anybody would act this way" or "I saw that plot twist a mile off" or "This has been done a million times by better writers than you" are all common critiques for beginners too, but they're never going to become snappy aphorisms. 
+
+Edited to add: A helpful and easy exercise: choose a few setting descriptions in books you've enjoyed. See if you can list the "order" the author describes different details in, within each description. See if you understand the structure the author's chosen for that description - and why it's a good fit for that scene. I suspect you'll find some very interesting techniques. 
+
+Build It Up: Complexity takes time. Don't try to get it all across in the first scene (not even by showing!). It'll be tough to cram in all you want, and let's be honest - complexity is something that dawns on you gradually, with time. 
+
+You almost certainly want to avoid a shopping list of details about the park. You're not describing the wind and the trees and the building and... You're describing one unified moment in space and time. 
+
+Define Clear Questions To Be Explored: Complexity isn't mere richness of detail. It's things being... complicated. Unclear. A really good way to do this is to set up questions about the element. Not only do questions interest the reader - by presenting the element as something complex enough to have questions about, oblique enough that figuring out the element's nature isn't simple, they demonstrate that the element is truly complex, and reinforce the sense of complexity that you're aiming for. Open questions make an element complex, intriguing, and unpredictable. 
+
+Show, Don't Tell: Though this rule of thumb doesn't always hold, it's particularly apt for expressing complexity. Don't say that something is complex. Don't explain in detail how complicated it is, nor how to understand it. Rather, show, in the action, the complexity you're striving for. Demonstrate that the subject is not simple - maybe some characters don't understand it, or clearly struggle with it, or would like to resolve it, or appreciate its many-faced nature. And then, to explain the complex element, show different parts and aspects of it - each alone, and how they cohere into a whole - to let the reader get the sense of how they gradually come to understand the complexity. 
+
+A lot of series (TV and books) bank heavily on this - think of the Star Trek universe, of soap operas, of Doonesbury or of Order of the Stick. They start out simple, sometimes even simplistic - but with time, they grow and sprawl, and from their unique configuration of not-terribly-interesting ideas, and from the simple accumulation of time and history, they extrapolate something new and unique. That's why lots of things might "only get good halfway through Season 2" or whatnot - leading some to try to start off directly from mid-Season-2 to begin with. This technique can have its own issues, but it can work very well - skip past the first 10 stories; get to the stuff that can only happen once those stories have happened - making those stories, by necessity, relying on a more complex history, and being more complex themselves.

@@ -1,0 +1,23 @@
+In the end, Gödel's Second Incompleteness theorem says that unless (like Gödel himself) you believe that humans somehow have a sort of occult-ish access to timeless Platonic truth, mathematics is subject to the same epistemological limitations as the natural sciences, in which formal systems play the role of theories and the discovery of inconsistencies play the role of falsification. 
+
+I have revised my answer somewhat, condensing in some places and adding other ideas, in response to your revision of your question. 
+
+Short version of my question. What formal logical systems can represent, and seem robust against, the Liar Paradox? 
+
+can be interpreted, using our list of Scottish people, as 
+
+which we might better render as 
+
+or again, bringing the inner quantifier outward to put the formula into prenex normal form, we may write 
+
+You observe, correctly, that just because a formal system S "asserts" its own consistency — by means of a proof which, in a meta-language M, is isomorphic to a proof of consistency of S — does not mean that you should therefore trust S to be consistent. Any inconsistent system which is rich enough to admit Gödel numbering (or an equivalent technique), and which has an explosive implication (so that everything follows from a falsehood), is able to prove its own consistency; although it would be interesting to know whether or not it allows you to derive "consistency claims" without passing through blatant contradictions of the form A & ¬A to do so. 
+
+which means that there is a time and a place where everything simultaneously is appropriate. (This is something you might also describe as "there is a time and a place, for everything"; this just goes to show that everyday speech is ambiguous and that you have to exercise judgement in how to interpret it.) To use a more poignant example, if L(x,y,t) means "x loves y at time t", then the proposition 
+
+N.B. I would like to avoid reference to truth-values, except inasmuch as they provide semantics for the formal system. Specifically, within the logic, I would like to say "P is true" if and only if P is derivable from whichever premisses we decide to grant in the formal system; and I would like only to say "P is false" if and only if ¬ P is similarly derivable. For instance, I accept that this means that Peano Arithmetic has statements where P ∨ ¬ P is true, but where neither P nor ¬ P are true (nor false). What I am concerned with is derivability. 
+
+∃x∀y(Dy ⇔ y=x) — premise ∀y[ (Dy ⇒ y=d) & (y=d ⇒ Dy) ] — by exemplar and pre-emptive biconditional elimination (Dd ⇒ d=d) & (d=d ⇒ Dd) — universal instantiation d=d — identity Dd — conjunctive elimination and modus ponens (Da ⇒ a=d) & (Da ⇒ a=d) — universal instantiation Dd & (Da ⇒ a=d) — conjunctive elimination/introduction ∀y [Dd & (Dy ⇒ y=d)] — universal generalization ∃x∀y [Dx & (Dy ⇒ y=x)] — existential introduction (ii) ⇒ (iv) 
+
+Conversely, "P only if Q" intuitively means that Q is a precondition of P holding true; even though P implies Q, P also cannot hold without Q holding. In this respect, Q is called a necessary condition for P. 
+
+Syllogistic reasoning is therefore a special case of quantificational logic; it is a framework in which one can confidently reason syllogistically, without being limited only to syllogisms. But one should not feel absolutely restricted to using quantificational logic, or any particular logic; it suffices to use some logic which is both effective and reliable for coming to usable conclusions.

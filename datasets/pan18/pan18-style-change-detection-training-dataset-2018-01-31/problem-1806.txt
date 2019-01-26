@@ -1,0 +1,21 @@
+Smooth toposes model synthetic differential geometry, where the fact that the law of the excluded middle fails is neccessary to define the infinitesimal line. Is this notion of truth different from model-theoretic truth? 
+
+Does it have undecidable statements? 
+
+This was noted by Kant - his famous antinomies - which motivated his critical project; however Priest credits Hegel for deciding the contradictions are unavoidable, and their underlying structure. A unicorn does not occur in the world; but in a fictional world; and in these fictional worlds things are described as beautiful or ugly ie they are the properties of fictional objects. Truth is indefinable & ineffable. Nobody bothers to define it for that reason. Those that do are aiming at limited objectives, or are engaging in chasing circular definitions which has its own amusement. 
+
+Spinoza for example said that God was the only Substance with an infinite number of modes - one being mental the other extension. This reconciles Descartes dualism, and asserts that existence of the mental & extension is contingent - that is on God. This has many parallels with Occasionalism a doctrine of the Ash'arite school of Islamic Philosophy/Theology, particularly developed by Al-Ghazali. Well before Krauss, it was Finkelstein & Putnam in the sixties that began to aggressively push the non-classical logic centre-stage, mainly it seems to get the mainstream take these kinds of logics seriously. 
+
+I think one should note that in the short extract that you've given Ayer shortcuts Kants reasoning - assenting to Kants 'existence is not an attribute' does not mean that one covertly assigns an existence to a substance once one asserts an attribute. Looking over The SEPs entry on Substance one sees that: 
+
+Apparently 2nd-order logic settles the issue - but I haven't found a reference to say in which direction. The entry on Gödels Incompletenss theorem in Wikipedia says: But do the same goes for properties? One can argue in the following way: 
+
+I think that that is very reminiscent of the philosophy of category theory (in solely mathematical terms) in as much it has one. In fact, I would go so far as saying, that category theory is an implementation of this general philosophical idea in the precise mode of mathematics, and has proven itself to be very successful there. 
+
+A good historical analogy to think about is, how dropping the parallel axiom from euclidean geometry opened up a new world of non-euclidean geometries. Whereas, here we're talking about dropping the excluded middle, and getting a brave new world of non-classical logic, entangled with non-classical set theory & non-classical geometry. Hume being a radical empiricist denied the reality of substances - it cannot be perceived. Euclid, a mathematician, based geometry on the first fully and aesthetically pleasing axiomatic system. Axioms are traditionally held to be self-evident truths. But sometimes the truths are so self-evident, or that the purpose of an axiomatic system is so inevident that no-one bothers to form axioms for them - for example arithmetic wasn't put into this form until the 20C by Peano. a. is it correct to say that Modal logic can be interpreted classically by using Kripke possible world semantics, i.e. that in each world classical logic holds? 
+
+iteration (infinite regresses in Zeno, Aristotle and Liebniz) 
+
+Thus one could concieve a possible world as a world in 'logical space' that contains no contradiction; but this may not be how Liebniz concieved it. 
+
+Finally, the double-slit experiment doesn't challenge our logic but our physics as then conceived. That is then Physics had a simple deterministic interpretation - symbolically the 'clockwork universe'. In fact this experiment does have a classical interpretation via Bohmian Mechanics - but it is non-local. One should note that the Greek atomists did include indeterminism in their physics. As Newton did preface his Principia with an excerpt from Lucretious De Rerum Natura, it probably would not have come as a surprise to him to see its advent again.

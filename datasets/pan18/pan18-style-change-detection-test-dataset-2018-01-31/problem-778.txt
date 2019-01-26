@@ -1,0 +1,39 @@
+Thus, the nature of human control is not “real” control; it is the measure of our desires against our prediction of the future. At best, this leaves us with the illusion of free will. In this way (regarding the OP's question), free will can be quantified in a deterministic system without breaking any rules of causation. 
+
+Directions require a relation; they are entirely meaningless without any context. Typically however, the notions of left and right are used in relation to oneself: my right or my left. In this regard and only in this regard would I still be able (in the middle of empty space) to know the direction of left and right (in relation to me). 
+
+So simply saying, "Yes, X (economy, jobs, taxes, etc) is bad, but it's not my fault because I voted for the other guy" isn't a very compelling argument, because if the official was bad enough, that person should have done something about it. 
+
+–Dennett, Daniel (1984). Elbow Room: The Varieties of Free Will Worth Having. Cambridge. MA: MIT Press. 
+
+Has necessity really harmed science? More importantly, as a scientist myself, I also don't see how the use of necessity has harmed science at all; on the contrary, I think it has been a profoundly useful guide in separating fact from fiction so as to arrive as close as we can to the truth. Also, "necessity" is not at odds with "possibility"; I don't see a conflict there at all, and find that science is all about both. 
+
+I think it is very insightful of you to want to learn to be a better critical thinker. That action in and of itself makes me think you are already more of a critical thinker than many others -- as merely a freshman you are carefully thinking about and planning what will best help you in the future. 
+
+As Michael pointed out in his comment, Occam's Razor is about entities (concepts/assumptions) in an explanation, such that—all else being equal—the explanation for a phenomenon which poses the least new concepts/assumptions should be favored. 
+
+I think the key word here is "discovers", specifically present tense and not past or future tense. That essentially implies that Mary is in fact—right now, presently—in New York. As I summarized in a comment below, for this work problem in a basic textbook, I think it's appropriate that we infer the least implications, i.e., not include an in the future implication as a possible interpretation of the original premise. I think if the book authors wanted to write "in the future" they probably would have, and it would have made the answer clearcut (i.e., there would be no entailments). But the fact that they left it out suggests either they wanted the opposite (an entailment such that A entails B), or they wanted everyone to be confused. As pernicious as some school textbook authors may seem to be, I think it's reasonable we can assume they did not intend the latter... :P 
+
+some see a middle-way between the two by adopting another FO set theory like Morse–Kelley set theory. MK, which allows proper classes along withs sets, is syntactically almost identical to second-order ZFC, but differs quite in its semantics. 
+
+In this sense, informal logic vastly fulfills your desideratum that 
+
+Another interesting (but very advanced) example is the use of modal logic to study the relations between forcing extensions in set theory. See Hamkins & Loewe, The Modal Logic of Forcing, 2005: 
+
+Assuming that any such foundational theory T is such an effectively generated formal system, i.e an axiomatic theory expressive enough to develop basic properties of the natural numbers, T cannot prove its own consistency. Thus is it logically possible that it is inconsistent. 
+
+2. No, it is highly unlikely that there are no consistent foundations for mathematics. This would mean that every conceivable candidate is inconsistent. But this is not what our mathematical practice tells us. 
+
+I don't see a paradox, strictly speaking, but I see three ways (and combinations thereof) in which the inconsistency that you mention can be dissolved: 
+
+Note that we might be able to prove the consistency of such a foundational theory relative to the assumed consistency of another theory: If ZFC is consistent, so is ZFC plus some axiom. But this is not what you're after, I guess? 
+
+Thus, the nature of human control is not “real” control; it is the measure of our desires against our prediction of the future. At best, this leaves us with the illusion of free will. In this way (regarding the OP's question), free will can be quantified in a deterministic system without breaking any rules of causation. 
+
+"Free will" as broadly defined is "a particular sort of capacity of rational agents to choose a course of action from among various alternatives" (SEP). Although there are extreme views, such as Descartes' where "the will is by its nature so free that it can never be constrained," most people accept that our will can at the very least be influenced by factors external to ourselves, if not wholly controlled by it. The challenge, as you point out, is finding how to explain a notion of freedom through non-causation. 
+
+–Dennett, Daniel (1984). Elbow Room: The Varieties of Free Will Worth Having. Cambridge. MA: MIT Press. 
+
+Directions require a relation; they are entirely meaningless without any context. Typically however, the notions of left and right are used in relation to oneself: my right or my left. In this regard and only in this regard would I still be able (in the middle of empty space) to know the direction of left and right (in relation to me). 
+
+In a superficial sense, the first answer seems the simplest but in principle it is just as simple as the second explanation, as neither explanations propose radical assumptions (that is, presuming is it relatively equally possible for someone to have painted it and that metal to be of the type that glows). The third explanation—while theoretically possible—is distinct from the first two because with it we have the burden of proving that an evil daemon exists, that he has the power to give us illusions, and that he has the desire to do so. These are additional entities, or assumptions, within this explanation. Occam's Razor would tell us to favor the other two explanations over this one, all else being equal.

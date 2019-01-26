@@ -1,0 +1,19 @@
+There is also a significant difference in tournament versus cash Bankroll Management (BRM). I could provide links to get you started on each but that would be nothing more than a quick Google search could find you. 
+
+In a cash game, however, you can (generally) afford to take your time and make safer decisions, wait for spots or play tight if that is your cash game style. 
+
+This is a very broad question and depends a lot on your own personal play style at a cash game to compare it to how you would play in a tournament so this is both an extremely broad and an extremely subjective question. 
+
+For survival you need to play more exploitative in MTTs. In your average cash game, Playing more towards GTO (Game Theory Optimal) is usually profitable. your goal in a cash game is to profit, your goal in a tournament is to collect chips at a certain minimum rate to avoid being short stacked and remain in contention for cashing or even winning the tournament! 
+
+To conclude, I think pokerstars is your better pick. However, I don't know the skill level of the players. If you are going to play buy-ins larger than 30 I think 888's playerpool will be softer. 
+
+It really depends. Under 15BB is almost always a push or a fold. In early position you can shove up to around 18BB. In late position you can shove up to around 20BB. Blind versus blind you can shove up to around 25BB. But these are just general guidelines. You certainly shouldn't shove your entire range for example blind versus blind when you have 25BB, but you could do it with a part of it. It all really depends on the other stacksizes, the payouts, how comfortable you are playing post-flop with certain hands. If you have an insane edge over your opponent it makes sense to not shove sometimes. Great hands should sometimes be trapped, etc. 
+
+888 has a higher rake percentage of 6.12%-10% as opposed to pokerstars' 5%-8%. 
+
+However, if by 'see more flops', you mean call wider preflop, the answer is no. Calling preflop doesn't make sense unless you're trapping, no matter your stack size. That's just giving away your fold equity. Simply call or raise for value as you normally would. 
+
+If you cover everyone at the table but no one covers you, then you have a ton of fold equity preflop. Most people will be folding almost everything whenever you open the pot. So you should open raise very often. As big stack you can often steal the blinds from any position. A few orbits of collecting the blinds in a tournament and your stack will be huge. 
+
+The flip side is when someone jams over your raise. Depending on stacks you should usually fold because they will have a premium hand. But if they're small enough that you're getting 2:1 to call AND losing wouldn't hurt you too bad, then you should call with anything.

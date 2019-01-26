@@ -1,0 +1,27 @@
+Imagine a world where the following tags exist: com interop com-interop. 
+
+Herb Sutter: http://herbsutter.com/2011/08/12/we-have-an-international-standard-c0x-is-unanimously-approved/ 
+
+Bjarne Stroustrup: http://www2.research.att.com/~bs/C++0xFAQ.html (he's kind of on the fence still but does say it's called C++11, just that he doesn't feel like rewording his FAQ yet) Does this matter? I think it does. I'm trying to solve a com interop problem today and the huge quantity of com interop questions out there are making me mental. That is not a correct tagging. If a question is tagged both com and interop it's because it's about COM Interop and the OP didn't know about the com-interop tag. This means that my searches are much harder than they need to be. I recall we've had a lot of retagging posses looking for tags like 2010 and 7, created when people tried to type entire product names including version suffixes. But what would be cool is if it resulted in a question tagged com-interop (Damn! After two clear days including an entire Monday, I spotted a mis-tag and fixed it.) 
+
+In theory, yes. You can ask a bad question, put the new tag on it, and it will be created. 
+
+Unless someone else has taken up the torch and has been doing the edits, I think that removing the sponsorship did the trick. I'm actually a little surprised to see such a clear line. If someone knows exactly when it was removed and wants to compare to my edit history, I'd be interested in the time spans involved. In any case, filters should be viewed with extreme caution. I've encountered false positives for all the title filters on SO that I'm aware of, e.g. I see a few pending synonym requests which should be uncontroversial (hyphens, plurals, abbreviations), please approve them (and any similar ones you come accross). Is there any reason for retaining the page tag, at least temporarily, that I've missed? Otherwise, the tag should be removed and blacklisted. 
+
+This is an incentive towards worse titles. The cure is worse than the disease. Also, when displaying completions, please display the exact match first if there is one. Currently it can be difficult to locate when it's a substring of more popular tags. 
+
+Prediction: if you add a filter like this, you'll end up with The page tag is all over the map. There are many questions where it means a web page, often a Facebook page. Sometimes it means scrolling through a long text. Sometimes it means virtual memory. Glancing at the questions, there seems to be some other relevant tag, most of the time (html, php, facebook, memory, …). The questions in this tag don't look markedly worse than average (just perhaps a tad badly tagged). All in all, page looks like a prime candidate for burnination. 
+
+In the Android app, entering tags is a bit cumbersome, especially on a high-latency connection. You need to type a substring of the tag name, then wait for the server to return the list of matches, then select the tag in the list. 
+
+In theory, yes. You can ask a bad question, put the new tag on it, and it will be created. 
+
+Then by all means add those as an answer. It's my contention that no such combination exists If anyone can think of an X and a Y that meet these conditions: Unless someone else has taken up the torch and has been doing the edits, I think that removing the sponsorship did the trick. I'm actually a little surprised to see such a clear line. If someone knows exactly when it was removed and wants to compare to my edit history, I'd be interested in the time spans involved. 
+
+If the tag truly belongs on the site, it applies to some questions on the site. Add it to some questions that exist; this will also create it. If it doesn't apply to any existing question, there's no reason to try to create it. 
+
+However, your bad question will almost certainly be closed before gaining any answers, and is likely to be downvoted. Then it will be deleted, either manually by people voting or by the Roomba. And when it is deleted, the tag will go with it. Another obvious application would be preventing visual-studio 2010 and the like. Herb Sutter: http://herbsutter.com/2011/08/12/we-have-an-international-standard-c0x-is-unanimously-approved/ 
+
+But what would be cool is if it resulted in a question tagged com-interop Does this matter? I think it does. I'm trying to solve a com interop problem today and the huge quantity of com interop questions out there are making me mental. That is not a correct tagging. If a question is tagged both com and interop it's because it's about COM Interop and the OP didn't know about the com-interop tag. This means that my searches are much harder than they need to be. I recall we've had a lot of retagging posses looking for tags like 2010 and 7, created when people tried to type entire product names including version suffixes. 
+
+Today, that results in a question tagged com interop I have been advocating strongly for us to continue to call it C++0x even while others were ready to go to C++11. But now the standard has been approved by all the countries, and it is no longer a draft standard, I think it's time to switch the synonyms. It really is C++11 now.

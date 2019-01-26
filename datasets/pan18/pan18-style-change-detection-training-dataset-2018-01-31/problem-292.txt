@@ -1,0 +1,73 @@
+Zipp recommends the following pads for their rims: Zipp Tangente Platinum Pro Zipp Tangente cork pads Bontrager cork pads Zipp carbon/carbon pads SwissStop yellow pads 
+
+So, if you use a BMX lever with V-Brakes on a mountain bike, you likely won't be able to pull enough cable to work properly. You'll probably be able to stop somewhat, but they will feel off and will have to be setup so the pads are very close to the rim. You're better off getting MTB specific levers. 
+
+I have a new bike, probably a month old, which has Hayes cx 5 disc brakes. I've noticed that the front brake pad is making a grinding sound when I brake at low to moderate speeds. What could be causing this? The pads that come with these brakes are Semi-Metallic. 
+
+I'm looking at getting a wheelset with disc hubs and rim brakes to run on my disc and non-disc cross bikes. There are stock wheels that have velocity a23 rims, which are a poupular rim brake compatible rim. However, the stock wheelset tend not to have machined brake surfaces. 
+
+Then use your existing mtb brake levers for the tops of the bars, and get a pair of problem solvers cable doubler 2:1 to split the cables to work with two levers for a single brake. 
+
+Follow WTHarper's solution and use travel agents with short pull drop bar levers and regular cyclocross interrupter levers. 
+
+It seems like some old heads seem to think that a machined sidewall was a marketing gimick made to stop brake squeal on new showroom bikes. Rivendell sell a lot of rim brake wheels without a machined surface. 
+
+If all the other parts swap over unmodified, you're very lucky. 
+
+Disk/Disc brakes are on the must-have list, but the descriptions of brake pads are confusing. 
+
+You might be able to find some kind of pulley, but for a low-end steel MTB-BSO, new brake pads+cable will be a substantial braking improvement by themselves. 
+
+Replacing the fork is easier, but you're going to need a 1" threaded MTB fork with disk mounts. 
+
+If you do want to remove it, you're better off finding another rear wheel that fits and lacks the coaster hub. The local recycling shop here has plenty of bikes for $10, great parts donors. 
+
+Edit: Here's the official instructions from Kool Stop about MTB brake blocks. 
+
+Honestly, the back brake contributes so little to braking that its not worth fitting a dual pivot. 
+
+Answer: No - you can't just move the brake levers up the curve of the handlebar drops. If you did this, the bar tape would be bunched up above the hoods and skinnied-out below the hoods. 
+
+Your front wheel could have a disk brake - the fork has mount points on it for disk brakes. However your wheel is not disk brake compatible so you need a new hub, which probably means a replacement wheel. If you can salvage parts off another bike, then that's the only way to make it cost-effective. 
+
+Financially feasible? Probably not. 
+
+The brake cables should move okay - you might need to remove and refix some temporary tape. 
+
+Curiously, the order of the other washers is based on their thickness and the rim/frame/fork's requirements. 
+
+Resin or Organic: Non-metallic, porous, worse in water. Much better initial grab, quicker wearing 
+
+Tools: You'll need a 5mm hex driver (maybe 4mm or 6mm, maybe a philips if its old, or flathead if its ancient) Some tape to finish the bartape wrap, and sharp scissors to cut the tape. 
+
+From http://problemsolversbike.com/products/brakes/travel_agents_-_6416 
+
+Short answer: No. There are no caliper mounts on the rear triangle of the frame so you can't mount brake calipers there. 
+
+Sintered: with metal in the pads, better in the wet and for heavier riders, and transits more heat than resin. Longer lasting 
+
+I think it doesn't really matter. As long as you have the two curved surfaces of the orange/grey washer pairs together, then they function as one adjustable washer. 
+
+If you disagree with any part of this answer, please make comments. 
+
+So they specify the convex washers should be by the brake arm, and the concave ones should face them, which is the right-most image in the earlier pictures. 
+
+I'd simply change the brake pads to Kool Stop, maybe run a new inner and outer cable, and leave that single pivot in place. Clean the rim's braking track too. 
+
+Most braking is done on the front wheel, so fitting a disk brake there will get you 90% of the improvements anyway. You need a disk brake rotor, disk-compatible hub, a caliper, possibly a mounting adapter, a cable or hose, and a new brake lever. Buying all that new could cost as much as a good lightly-used bike. 
+
+Kids don't have the hand strength to use handbrakes properly, so a coaster brake is going to function better, once he gets the hang of it. 
+
+I have a new bike, probably a month old, which has Hayes cx 5 disc brakes. I've noticed that the front brake pad is making a grinding sound when I brake at low to moderate speeds. What could be causing this? The pads that come with these brakes are Semi-Metallic. 
+
+Zipp recommends the following pads for their rims: Zipp Tangente Platinum Pro Zipp Tangente cork pads Bontrager cork pads Zipp carbon/carbon pads SwissStop yellow pads 
+
+Barring all that, you may just want to switch up your tire to something that wears differently. I've had good luck with thick slicks and panaracer ribmo tires. Both have a bit of extra tread in the center and wear down to a flat profile over time. 
+
+Follow WTHarper's solution and use travel agents with short pull drop bar levers and regular cyclocross interrupter levers. 
+
+It seems like some old heads seem to think that a machined sidewall was a marketing gimick made to stop brake squeal on new showroom bikes. Rivendell sell a lot of rim brake wheels without a machined surface. 
+
+I'm looking at getting a wheelset with disc hubs and rim brakes to run on my disc and non-disc cross bikes. There are stock wheels that have velocity a23 rims, which are a poupular rim brake compatible rim. However, the stock wheelset tend not to have machined brake surfaces. 
+
+Then use your existing mtb brake levers for the tops of the bars, and get a pair of problem solvers cable doubler 2:1 to split the cables to work with two levers for a single brake.

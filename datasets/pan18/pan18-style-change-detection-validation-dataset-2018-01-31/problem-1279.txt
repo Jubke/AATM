@@ -1,0 +1,33 @@
+Are there connections/translation or common tools usage/adaptation between combinatory (concrete) categorial grammars (incl. Lambek calculus) and abstract categorial grammars? Can tools for one of them be used as tools for the other? Is the analysis for the same sentence available in both of these grammars for comparison? 
+
+Can combinatory categorial grammars be used for inflected languages like Slavic and Baltic languages? I am aware only of this thesis https://pwmarcz.pl/pm-thesis-final.pdf 
+
+The answer to this question can lead to understanding how (and if) Grammatical Framwork and CCG parsers be used together or in place of one another, see question https://cs.stackexchange.com/questions/85623/semantic-parsing-with-grammatical-framework-is-this-possible and answer https://groups.google.com/forum/#!topic/gf-dev/otGvS6dIAdM 
+
+I am trying to apply combinatory categorial grammars and type logical grammars (Montague semantics etc.) to the compound sentences and the subordinate clauses. Are there efforts to develop those grammars for such analysis? E.g. there is syntactic category s (sentence), are there syntactic categories for subordinate clauses? Does the type logical semantics of subordinate clause is just elaboration (additional constraint) on some word in the main sentence to which the subordinate clause refers? Are there examples in the literature of such analysis? 
+
+As far as I have investigated the papers in this field, I can say that there are no wonders: each inflection of each word (verb, subject) is entered as new word in lexicon. 
+
+I am looking for negation detection software or libraries. Linux, Microsoft Windows or Mac OS X are all OK. Any price and license is good too. I am mostly interested in the quality of the detection. 
+
+This Theano tutorial provide a dialogue state tracking systems (slot filling) with a graphical model based (recurrent neural networks) dialogue state representation. 
+
+The BLEU score is between 0 and 1, but is sometime expressed as a percentage, i.e. ranging from 0 to 100%. 
+
+In the ICSI Meeting Recorder Dialog Act (MRDA) Corpus, which label(s) correspond to the Filler class? 
+
+I am looking for any plots, etc. that show performance metrics on various NLP tasks as a function of year. 
+
+(2) Dhillon, Rajdip, et al. Meeting recorder project: Dialog act labeling guide. No. ICSI-TR-04-002. INTERNATIONAL COMPUTER SCIENCE INST BERKELEY CA, 2004. 
+
+E.g. http://www.statmt.org/moses/?n=Moses.SupportTools#ntoc5 returns a score between 0 and 100 (code). 
+
+You probably need a decently large training set though: on the Fourth Dialog State Tracking Challenge (DSTC4) last year, we (and other teams) unsuccessfully tried some neural networks but in the end a simple classifier with decent features beats them. (more details: Franck Dernoncourt, Ji Young Lee, Trung H. Bui, and Hung H. Bui. "Robust Dialog State Tracking for Large Ontologies". International Workshop on Spoken Dialogue Systems. 2016.) 
+
+I use Apache cTAKES version 3.2.2 on Windows 7 SP1 x64 Ultimate. 
+
+I wonder what types of errors arise when automatically converting consistency parse trees to dependency parse trees, and how frequent they are. 
+
+E.g. the following figure shows the evolution of performance of face recognition systems: 
+
+I am looking for an exhaustive list of upsides of using dependency parsing over constituency parsing (if possible, with references for each upside).

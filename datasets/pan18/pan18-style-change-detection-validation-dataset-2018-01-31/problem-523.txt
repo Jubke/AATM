@@ -1,0 +1,49 @@
+Lastly, there's already too many questions on the more popular site (2,000 a day for SO). Throwing them all together is going to disenfranchise even more experts, and once the experts are gone, the site is useless. 
+
+This should have some repercussions beyond being unable to select a new commitment until they've fulfilled an old one. 
+
+You identify several things which you believe are problems, so I'll approach them one by one: 
+
+It's also worthwhile pointing out that a new user currently knows they are in the right place because the questions they see before pressing "ask question" look familiar. I will understand immediately that I'm not in the right place if I'm on an auto body website and about to post a question about baking pies. 
+
+While moderators should only have to jump in for extraordinary cases, it would be nice if they had the ability to participate as 'normal' users. 
+
+Ideally, closed questions are eventually deleted, except for duplicates. When this occurs, the votes accrued are lost when participants reputation is recalculated. 
+
+It may result in fewer commitments, which is a good thing - if you aren't certain that you are both willing and able to provide great content right from the start, you shouldn't be counted on to do so. 
+
+Since it's possible to get the terminating URL from the shortening service, it might be worthwhile instead to implement code to replace them with the final URL when the post is submitted. 
+
+I think that the current system plays to a few critical aspects of why StackOverflow is successful. 
+
+There are APIs for the sites. Make this "One site to rule them all" using the APIs and demonstrate that it can work, and that it solves these (and all the other problems that will undoubtedly crop up) and perhaps you'll be more convincing. Until then, though, I don't see how a vibrant expert community will benefit from this change. 
+
+Further, the reputation system must then be reconfigured. Right now I can look at someones collection of reputation scores across the sites and get a reasonably good picture of how skilled they are on each topic. I can think of a few ways to deal with reputation in your new one-site, super tag based system, and none of them will result in a good way for me to tell if the person who answered my question is an expert or not. 
+
+This feature request would both strengthen the intention that a committed person is supposed to help bring up the site during beta and it would make sure that those who fail commitments are not as heavily relied on as their reputation might suggest they should be (according to the current commitment weight calculation). 
+
+Unfortunately some of the proposals closest to completion aren't very "hot" or "popular", so one has to search for them. 
+
+This will also eliminate the problem of someone setting a shortened URL to a valid source, then switching it to spam or worse after the question has dropped off the front page. 
+
+If a user fails to meet their commitment during the site's beta, the commitment should be failed with repercussions, such as one or more of the following: 
+
+Each community has a laser sharp focus with significant depth, and narrow breadth. 
+
+If 3 people "agree" with a comment, chances are good others would be interested in reading it as well. 
+
+At minimum, if there are compelling reasons to keep the post body itself out of the data dump, then the post data can be scrubbed, while leaving the post id, title, ownerid, dates/times/tags/etc intact so that 10k users can go retrieve information when people come here asking about a deleted post without having the ID. 
+
+Given that the reputation will be lost upon deletion, I simply don't see any reason to alter the current behavior of the system. Closing is the trial, deletion is the sentencing. The user(s) shouldn't be punished until the sentence is carried out. 
+
+Although a better title might be in order, the essential idea is to sort sites by how close they are to being completed - ie, the sites with the longest bar appear at the top. 
+
+Again, it will eventually be deleted, and the reputation gained will be lost. This is not a problem. 
+
+A simple implementation would be to automatically convert titles and headings into named anchors. If you want to have links inside your post, just use a heading. 
+
+Lastly, it would give statistics junkies another bit of objective information so we can better handle questions on meta regarding post deletion. 
+
+URL shorteners are at some risk of turning into broken links. I'd say that we should have a policy to discourage use of url shorteners, and consider banning the major URL shorteners. 
+
+Here's the title anchor (Title) This would be one anchor (Heading 1) This would be another anchor (Heading 2) Here's the third anchor (Heading 3) And here's the fourth anchor (Heading 4) The fourth anchor is nearly the same size, weight, emphasis and font as normal text, so one can 'hide' anchors in the text if they don't want a noticeable heading. It still has to be on its own line, but it's better than nothing.

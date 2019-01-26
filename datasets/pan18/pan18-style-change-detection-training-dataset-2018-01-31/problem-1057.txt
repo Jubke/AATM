@@ -1,0 +1,73 @@
+You can see the whopping 32 times it happened in the last month on Stack Overflow, or for example the 0 questions on android last month. 
+
+Once you sign up you will be able to choose to display this recommendation on your profile. 
+
+Can you change careers to show how many employers would even consider hiring me. 
+
+For example: if we find that lots of people are missing out on good tiny edits cause of the new system we may add a UI that notifies you of the change allows you to work it in your edit. 
+
+For the gazzilionth time I mistargeted somebody in chat. 
+
+If we need any new notice types please raise it here - we can decide if we need a site specific one or a global one. 
+
+Symantec have been busy laying off all my previous workmates in Australia, turns out development is cheaper in Estonia. 
+
+This is now implemented, moderators can convert posts to comments. They can also choose to retain the comments on the posts. 
+
+In the way I use it, I don't really have to read the body again. I know it is a duplicate because I already got the link to it. I don't need to read the duplicate's body again because in order to get its link I visit the duplicate's site before. 
+
+Then it should have been the duty of the OP to make sure the question has a proper context. They could have included a small explanation, like: 
+
+Having reached 10k on Super User a few days ago, I've been heavily using the moderator tools. They are great for efficiently helping the mods and the community. 
+
+So basically, it says: Please vote! But you can't vote. Sorry 'bout that. 
+
+Here's why the queue is important: First answers are very likely to be: 
+
+But at the same time, the tools seem very inefficiently designed. In my opinion, they need a partial redesign, because 
+
+Even if this message were optional, why would your posts need more edit attention than others? Of course, I'm happy if people are open to edits and say: "I'm glad you fixed my English!", or if they admit that they have difficulties with the language, but the whole point of a community-edited site (with no restrictions in this regard) is that anybody should edit anywhere if they feel like it. 
+
+This makes it necessary for them to enable line numbers as well, even if they don't want it, because they have no other means of understanding what you're referring to. 
+
+This way, I'd know where to click when the button is activated, because it always stays in the same place. Sounds reasonable enough, does it? 
+
+I decided to break this up in three parts, each with proposals highlighted within a blockquote. 
+
+There are many options that would not only allow me to find that particular message, but also improve the functionality of search as a whole, since currently, it's very limited. 
+
+The solution is simple: If reviewing is a different part of the site (as opposed to the "tools"), it should be made a proper top navigation element. 
+
+No, I'm very strongly against this. 
+
+I just discovered prism: http://prism.mozillalabs.com/ 
+
+Our quality filter is incredibly effective, it catches so many of these automatically. 
+
+This is a two in one question: 
+
+If we need any new notice types please raise it here - we can decide if we need a site specific one or a global one. 
+
+This helps make sure people vote regularly and is somewhat more powerful than the Civic Duty badge. 
+
+For example: if we find that lots of people are missing out on good tiny edits cause of the new system we may add a UI that notifies you of the change allows you to work it in your edit. 
+
+I am a horrendous speller, and my mild dyslexia does not help. 
+
+The previously invited section should include a link to the public profile, if it exists, or the text "profile is private". 
+
+After I invite a user to join careers I would like to check out their public profile. 
+
+Is it possible to show alert (on top, like the alerts for new badges for example) for users with 0% accept rate when they log in, with text like "Please improve your accept rate" and link to page explaining how and why? 
+
+Leaderboard showing all sites with more than 100 hats and top 10 users on each of those. 
+
+Winter Bash seem to attract lots of attention and I see many users wearing all kinds of hats. When it's over, the hats will of course disappear however I think that adding usage statistics to the official blog post will be a good thing just to... well, just to have statistics. 
+
+This also applies to unread inbox items notification: 
+
+From what I see, the points are the economy of SO sites so people who ask, get answer, and don't accept (on regular basis) are like people buying something without paying - and they should somehow be notified this is the situation. 
+
+Can you please put the actual date and time in those emails? 
+
+For edge case, it became pretty thick edge. This is not just minor hassle: enough rejections, and the user is banned from suggesting for a whole week: and remember we're talking here about good edits made by good users. The above used to count for the ban, but no longer do. Thanks Gilles for requesting such a change!

@@ -1,0 +1,13 @@
+There is the possibility of dropping mobs through lava, then water, which seems like it should work, but has the disadvantage that in order to prevent the mobs from swimming up in the liquids (thus dying to lava, or getting stuck in water), a simple tube would have to have, in order: a long drop, a lava block, (another long drop? not sure), a water block, and finally another long drop to the collection pad. This extreme height would make my underground zombie trap's plumbing poke up into my above-ground buildings. 
+
+The water and lava mechanisms are identical: Build details, from top to bottom: 
+
+The signal then also goes to the left-pointing repeater and into the block holding the torch. This stops the clock, so that the player test will not run again. This means that left command block's output remains on, so the right command block won't say anything again since it's waiting to see the signal turn on. 
+
+If you are not entertained by being the proud owner of a slightly floating landmass, proceed with digging out the middle. The same rules apply to Monster Spawners as to the natural spawning of the mob in question, with two exceptions: Cobblestone and Stone together are perhaps a little low-contrast for a printer, but you could use a custom texture pack to fix that if you are so inclined. Overall plan Dig a vertical shaft down to the bottom level (use safe techniques to avoid dropping into a cave) and place ladders to climb up. 
+
+This warning is generated every time a player moved to a position or at a speed which the server thinks is impossible. This can happen spuriously, as the assumptions the server makes aren't quite the same as what you can actually do (the server doesn't analyze the player's exact inputs), or it can happen due to an attempted cheat, or due to the world changing as the player attempts to pass through it (e.g. player moves through a block the server knows about but the client hasn't seen yet due to latency). 
+
+Below the water block is exactly 19 ½ blocks of empty space (counting the sign) down to the fall-damage landing platform. 
+
+Lately, when I open the Minecraft launcher my username (“kpreid”) is sometimes replaced with “O” (just the one letter). The password is remembered correctly — if I retype the username I can log in. If I retype the username, log in, quit, and relaunch, then it remembers correctly for a while. I have not found how to reproduce the problem.

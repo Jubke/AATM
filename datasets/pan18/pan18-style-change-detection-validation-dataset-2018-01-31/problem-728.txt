@@ -1,0 +1,51 @@
+How do I make it possible, using MapKit in Swift, for the user to drag an annotation from one position to another within the map? I have set the annotation view to be draggable, when my map view delegate creates the annotation view, like this: 
+
+For example, in my Objective-C view controller subclass with this designated initializer: 
+
+The Problem So, you start out with an instance property: 
+
+https://github.com/mattneub/percentageWidthsInStoryboard 
+
+Choose Editor -> Pin -> Widths Equally to constrain the width to be equal to the superview's width (actually the "pin" popup dialog at the bottom of the canvas works best here). 
+
+My experience is that Swift therefore is not namespaced in the slightest. In turning one of my apps from Objective-C to Swift, I created an embedded framework because it was so easy and cool to do. Importing the framework, however, imports all the Swift stuff in the framework - so presto, once again there is just one namespace and it's global. And there are no Swift headers so you can't hide any names. 
+
+The catch, however, is that word "some". It seems to start working for a while and then it just mysteriously stops again. It's as if the pipeline from the device to the Console is unreliable. 
+
+Verbose Initializer Another irritation is what happens when the time comes to create a new CGRect. Despite the documentation, there's no initializer with values but without labels. This fails to compile because we've got Doubles: 
+
+Why has this issue arisen? Well, the plain fact is that it has always been important (i.e. in Objective-C, since the day I started programming Cocoa back in Mac OS X 10.0) to deal with initializers that your class is not prepared to handle. The docs have always been quite clear about your responsibilities in this regard. But how many of us bothered to fulfill them, completely and to the letter? Probably none of us! And the compiler did not enforce them; it was all purely conventional. 
+
+This is clearly a bug, but there's also a very easy solution. I'll explain the problem and then give the solution. Please note that I'm writing this for Xcode 6.3.2 and Swift 1.2; Apple has been all over the map on this since the day Swift first came out, so other versions will behave differently. 
+
+So now the question becomes: is there any way to log reliably from my app running independently on the device? 
+
+EDIT: I put up a github test project: 
+
+The Simple Solution The simple solution - almost too simple, which is why it is so difficult to think of - is: don't subclass UITableViewController. Why is this a reasonable solution? Because you never actually needed to subclass it in the first place. UITableViewController is a largely pointless class; it doesn't do anything for you that you can't do for yourself. 
+
+One picture being worth a thousand words, I've implemented your proposed layout for you in a storyboard, using no code, in a github project that you can download and examine: 
+
+The general pattern A lot of Cocoa methods are properties now, so you implement them as override computed variables. So the pattern for moving from seed 3 (or earlier) to seed 4 is: 
+
+CGFloat vs. Double Consider the following innocent-looking code from a UIViewController subclass: 
+
+Edit the constraint and set the Multiplier to the desired fraction, e.g. 0.42. And so too for the other views. 
+
+https://github.com/mattneub/MKAnnotation-Swift 
+
+Solution 4: Use Layer Transforms Instead Instead of view transforms, use layer transforms, which do not trigger layout and thus do not cause immediate conflict with constraints. 
+
+Also, I'm not having any trouble with a custom overlay in Swift; it's only the annotation that's problematic. 
+
+Select both a view and its superview. 
+
+If, as you say, you know how to do it in code, then you already know how to do it in the storyboard. It's exactly the same constraints, but you are creating them visually rather than in code. 
+
+It's as if, sometimes, Swift tries to "cross the bridge" by casting a Float to an NSNumber, which of course is the wrong thing to do when what's on the other side of the bridge expects a CGFloat. I have not yet figured out what the difference is between the two projects that causes the error to appear in one but not the other (perhaps someone else has). 
+
+[EDIT: Warning: The entire ensuing discussion will be possibly outmoded or at least heavily mitigated by iOS 8, which may no longer make the mistake of triggering layout at the time that a view transform is applied.] 
+
+I created a minimal custom MKAnnotation in Swift: 
+
+EDIT: Now I can't reproduce my initial premise! As one respondent has said, the template doesn't put the .xib files in the Compile Sources build phase. Yet I certainly ended up in a situation where some .xib files were in the Compile Sources build phase and some where in the Copy build phase, and that's what confused me.

@@ -1,0 +1,47 @@
+https://en.wikipedia.org/wiki/Poker_probability 
+
+If you know that the other players aren't getting any aces but you are, then I recommend you tip your dealer. 
+
+If the board had instead come out something like KK662, with the sixes also paired, it would be a split pot. In that case, the best 5-card hand for both players would be KKK66, or kings full of sixes. The second hole card for each player would be irrelevant, and the players would both tie for the best hand and the pot would be split. 
+
+No. The player with KQ would win the whole pot. The winner of the pot is the player who can make the best 5-card hand from the 7 possible cards -- 5 board cards plus their two hole cards. 
+
+You're looking at it from the skewed perspective where you already have four cards toward your goal. When you look at it from the point of view where you have five random cards, it's less likely that they will form a flush than a straight. So, it's more difficult to even get the four-flush than the open-ended straight draw. 
+
+Oh, I just noticed the "in the BB" in the title, so the pre-flop tells are less relevant to your question. Though I guess it's possible that your face lights up when you see the aces! Assuming that opponents don't know what your cards are, you're not significantly more or less likely to have 72o in the BB than AA during a walk than at random. You may be slightly more likely to have aces here than at random, since lots of players will enter the pot if they hold any ace and their absence from the pot implies that the deck remains enriched in aces, but this is not a significant effect. 
+
+The TDA rules have this to say about the order of show in rule 16: 
+
+A: Action out of turn is subject to penalty and is binding if the action to the OOT player has not changed. A check, call or fold does not change action. If action changes, the OOT bet is not binding and is returned to the OOT player who has all options including: calling, raising, or folding. An OOT fold is binding. 
+
+If this was a tournament, the dealer should have, upon player 2's fold, told the remaining two players to show their hands during the all-in. If the cards are shown, the cards speak for themselves. In a cash game, I guess it's a little more gray area as to whether player 1 actually folded his hand. 
+
+The odds for getting a flush are 508:1, and to get a straight it's 254:1. 
+
+You don't mention any stats on this guy that might indicate how much of this range would stick around had you raised this turn or bet the river. 
+
+I PokerStoved this range against your AA: 
+
+If they happen to only be folding when you have a really strong hand, though, you might ask yourself if you're subconsciously providing clues regarding your hand strength. Maybe you have bet sizing tells. Maybe your timing changes when you have a strong pocket pair. Maybe you start grinning uncontrollably. (Maybe the cards are marked and others at the table know what you're holding.) 
+
+So, if your dad pushed chips forward in a betting motion, then that in itself should have been sufficient to indicate a bet. 
+
+In a non all-in showdown, if cards are not spontaneously tabled, the TD may enforce an order of show. The last aggressive player on the final betting round (final street) must table first. If there was no bet on the final street, then the player who would be first to act in a betting round must table first (i.e. first seat left of the button in flop games, high hand showing in stud, low hand showing in razz, etc.). Except where house policy requires a hand to be tabled during the order of show, a player may elect to muck his hand face down. 
+
+If the Villain had made more then a doubling raise I fold. 
+
+The ruling I made was simple, it was a small pot and nobody really cared how it was ruled. I did however pause for a bit before I ruled and seriously considered leaving the pot in the middle. The two players involved were father and daughter, experienced and just simply ignoring the rule. I just took the path of least resistance and controversy and let it be split, and gave a warning that it would not be split again if this happened. 
+
+With Omaha games your best five cards must consist of two cards in your hand and three cards on the board. 
+
+Kickers only count when they are part of the best five cards. A better sixth card has no bearing whatsoever in determining a winning hand. 
+
+The longer the tournament rounds, the more I would tend to fold here. 
+
+The villain may also made two pair or is just bluffing, because he figure the board is very wet and you would lay down a lot of hands here. The range of hands he could put you on do not generally involve draws. 
+
+This is the option that might work best in the nightmare scenario. I could maybe sale this to Lyle, Doyle and the whale and keep my job. I think this is the one that upper management would try to work with them. It might keep everyone content since nobody really lost. 
+
+I would write it NL 200/400/75 
+
+There is no condition in a five card hand where you can win the pot based on your sixth or seventh card. There are no tie breakers unless your best five cards are better then your opponents best five cards.

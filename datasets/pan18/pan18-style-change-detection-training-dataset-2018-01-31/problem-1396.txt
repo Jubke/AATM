@@ -1,0 +1,69 @@
+Can I catch and dump an exception (and the corresponding stacktrace) that would make the program crash without doing something like : 
+
+This method iterate over a list of terms in the data base, check if the terms are in a the text passed as argument, and if one is, replace it with a link to the search page with the term as parameter. 
+
+EDIT2 : I am using CPython 2.4 on Ubuntu8.10. You newer know is this kind of infos is usefull ;-). Anyway, this little riddle has shut the mouth of 3 of my collegues. You'd be my best-friend-of-the day... 
+
+You can tell it to install a specific version, but it will override the other one. On the other hand, using two virtualenvs will let you install both versions on the same machine, but not use them at the same time. 
+
+So how do measure the time a coroutine takes ? How do I compare 2 implementations and find the more efficent ? What tools do I use ? 
+
+Oh, and they will be better programmers if they don't start by learning things like bytecode, recursion, assembly, complexity, bubble sort, stack, implementation details, etc. You waste time teaching this to somebody that can't code a decent Python program, he just can't see what's this is all about. Practice is your best tools to bring theory. And again, they will learn everything else by them-self later if you prepare them correctly, so prioritize and and don't be afraid to skip concepts, even simple/important ones. 
+
+Can you explain to me (with the proverbial 6 years old target) what is the heap queue algorithm for and what you can do with it ? 
+
+Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend. 
+
+I would like to get some feedback on these tools on : 
+
+Python is the language I know the most, and strangely I still don't know why I'm typing "self" and not "this" like in Java or PHP. 
+
+- Python is slow. It can be improved in many ways (see other answers) but the bare bone cPython is 100 times slower that C/C++. 
+
+The problem is not just that it consumes a lot of memory, the problem is that it does not release it: every calls take about 3% of the ram, eventually filling it up and crashing the script with 'cannot allocate memory'. 
+
+Yes, using "in" is slower since you are creating an Tuple object, but really performances are not an issue here, plus readability matters a lot in Python. 
+
+Eventually, enforce good practices arbitrarily. PEP8 formating, good architecture, name conventions, no immutable default parameters, etc. They just can't know about it right now. Don't bother, you are the teacher, you have the right to say "this is just how it is" from time to times. 
+
+Python is not the tool you need You must use the right tool to do the right thing, and Python was not designed to be obfuscated. It's the contrary; everything is open or easy to reveal or modify in Python because that's the language's philosophy. 
+
+- It seems I just can't find an IDE with a decent code completion. PyDev, Gedit, Komodo, SPE, etc. just don't do it as good as it could be. 
+
+Having a legal requirement is a good way to go You cannot prevent somebody from misusing your code, but you can easily discover if someone does. Therefore, it's just a casual legal issue. 
+
+Don't try to learn both at the same times, multitasking rarely ends well. 
+
+For the triangle check, it's easier to read : 
+
+You probably want to know as well that Django comes with the concept of apps, a self contain pluggable Django library that solves a problem. The Django community is huge, and so there are numerous apps that do specific business logic that vanilla Django doesn't. 
+
+With Python 3 types hints and tools like PyCharm or Sublime Text+Anaconda, the situation has changed a lot. 
+
+But if your two libs expect them to have the same name (and they should), you will have to modify them so they pick up the version they need with some import alias such as: 
+
+Django is a framework, not a language. Python is the language in which Django is written. 
+
+Using Ubuntu 10.04, django 1.0 and virtualenv. 
+
+EDIT : And, yes, I've tried to switch the order of inheritance / init. 
+
+I know that Python is older than Java, but I can't figure out where does this come from. Especially since you can use any name instead of "self": the program will work fine. 
+
+Reading Guido's infamous answer to the question Sorting a million 32-bit integers in 2MB of RAM using Python, I discovered the module heapq. 
+
+- You have to get use to the syntax. Not only you get spaces and line breaks instead of bracets, but you can forget about long lambdas, --i, and ternary operation. 
+
+- The best docs are still in English only. Some people don't deal well with it. 
+
+More precisely, for the front end, Django helps you with data selection, formating and display. It features URL management, a templating language, authentification mechanisme, cache hooks and various navigation tools such as paginators. 
+
+I'm not talking about the registered functions/classes as tasks, but the actual scheduled jobs for which I could display: name, task_id, eta, worker, etc. 
+
+Rake is a software build tool written in Ruby (like ant or make), and so all its files are written in this language. Does something like this exist in Python? 
+
+The following code with Python 2.6 and above ONLY 
+
+- For the same reason, you can't rely on type checking as a safety net. This is why pythonistas tend to follow best practice and write unit tests more often than others. 
+
+Now, to me, these are not reasons to not learn a tool that will make you produce more while having more fun. But maybe it's just me :-)

@@ -1,0 +1,61 @@
+Yes, you can run out of bounty points, but no-one would really notice. Plenty a high-reputation user would go out on a bounty-binge; I could give people 185 thousand reputation points without ever seeing my reputation diminish, for example. This can and will lead to a huge skew in reputation as suddenly there are twice as many reputation points floating around, albeit that some of it is temporarily locked away in 'bounty points'. 
+
+Just continue to contribute to your community, go the extra mile, and perhaps you too will receive an offer of a T-shirt. 
+
+So no, bounties should stay firmly connected to your reputation. It should cost you your standing in the community, if only a little. 
+
+You put a bounty on a question because you want to promote that question, draw more attention to it. And you want that so badly, that you are willing to stake your reputation on it. 
+
+You lost 10 points because the votes on still existing posts were removed. The user in question once voted an answer you made up, or voted on two questions you posted. Now that the user is deleted the votes are undone. 
+
+If you were to disconnect bounties from reputation and only subtract from a 'bounty pool' that grows along with your reputation, then you remove the incentive to think twice about investing. 
+
+And if you are lucky enough and the bounty attracted one or more good answers as well, the bounty is transferred to one of the answerers, and they gain reputation. 
+
+If the system did tell you what posts lost votes, you would be told that a specific user had voted for specific posts of yours, which ones they voted up, which ones they voted down. This could help you identify whom that user might be even. 
+
+Another aspect is that it would make setting bounties too cheap. With a 'bounty rep' to spend, on Stack Overflow we'd have 100.000 users can easily afford a 500 point bounty for their pet question. That would totally devalue any meaning a bounty has. Every other question would have a bounty, and none of them would be special anymore. No one bountied question would stand out from that forest. 
+
+Those votes were made anonymously, and they stay anonymous by only telling you that the user voting has been removed from the system. 
+
+This script takes URL parameters; with your Stack Overflow user id filled in as http://jsbin.com/azeqec/12?sitename=stackoverflow&userid=1967396 I see: 
+
+The question has been edited shortly after the first +2 vote (09:57 and 10:00 respectively), unlocking that vote, and the voter now undid the upvote. 
+
+No, I disagree that bounties and reputation should be disconnected. 
+
+Did you check the 'show removed posts' checkbox on your reputation page? It could be a post you edited was deleted. Not sure if that then means you lost the 2 rep for the suggested edit. 
+
+The community management team already sends goodies to users they feel deserve an extra pat on the back. 
+
+Now, if at a future date you were to lose one of the upvotes you got yesterday because the user that cast it is removed, you'd get compensated, because you got more that 20 answer votes. If one of those votes is nullified at a future date, the day tally is re-calculated and you'd get compensated from a vote that doesn't count right now. 
+
+No, because telling you what posts the votes were removed from would give you much more information about the removed voter than you have access to now. 
+
+That's different from losing points because you got downvoted or you downvoted some answers. The user removed entry has nothing to do with the vote activity happening on that day. As such there is nothing to compensate here. 
+
+This is not connected to reputation, and never should be. People can contribute to their communities without vying for reputation, and can make a huge difference that should be recognized. Help clean up the tags, answer questions on your per-site meta, expose cheaters. You know, the janitorial tasks that need doing? 
+
+However, the tag score is only updated once every 24 hours (and sometimes the script times out, it did night before last). Be patient, you won't see the badge turn up before the score counts have updated. 
+
+Next thing you know, awarded bounties are not added to the answerer reputation anymore either, to compensate for this skew. And poof, most motivation for answering a question with a bounty is now gone. 
+
+Yes, you hit the rep cap. You got enough upvotes to earn 200 points. 
+
+The user sees the exact same thing depending on a checkbox. There is a little checkbox at the bottom of the reputation page that says show removed posts. 
+
+This is very much status-bydesign, not a bug. 
+
+Whatever happened, it should be visible in your reputation history with the 'show removed posts' option checked. 
+
+No, it means Jon Skeet is an expert in his field and has spent a long time on Stack Overflow answering questions in large quantities. 
+
+Tag votes are completely independent from the reputation cap. 
+
+Reputation is a measurement of how well your answers are appreciated, not how intelligent or experienced you are. Intelligence and experience help you write great answers, but is not the whole picture. 
+
+There could still be more experienced and intelligent programmers on SO, but they haven't answered as many questions as Jon has. Moreover, if you are an expert on a less popular subject, you'll have fewer questions to give answers to, and fewer other users to give your answers votes. 
+
+Note that a bounty can also attract more upvotes. Indirectly, if the question is a good one, bounties earn you more reputation. 
+
+If you are impatient, use this excellent online script to gather per-tag scores from the API; these are up to date: http://jsbin.com/azeqec/12.

@@ -1,0 +1,33 @@
+You need to show that you can contribute something back to the community if you want to continue using Stack Overflow. Start improving your posts in order to get some upvotes and you'll unlock your ability to ask questions again. Note: see comments. 
+
+Ah, finally we can take a day off! 
+
+Yes, moderators can change your profile picture if we need to. Before the recent feature change that allowed users to upload a picture directly, we could edit a user's email address to temporarily force Gravatar to generate a default image. Now that users can directly upload a picture, moderators have the ability to change this setting on other user's profile as well. If you see a NSFW picture being used as an avatar, flag one of their posts for moderator attention and we'll take a look. I mean to change it, not just to look at NSFW pics. 
+
+To answer your question, no, I don't think famous names get more upvotes because they are famous. It's the other way around. You get a famous name on Stack Overflow by providing lots of great answers that get lots of upvotes. 
+
+Yes, you should display it somewhere, preferably in a graph so people can see their progress over time. If flag weight has taught me anything, it's that if you show people a number, they will try to make it go up. (Myself included. You should all see how much time I've spent on here since they started showing us how many moderator flags we've processed. Jeff is a digital crack dealer.) 
+
+What the heck, since I have a picture with my fancy hat and tie, I might as well keep posting these. Happy birthday to BoltClock! 
+
+Frankly, that's stupid (no offense to you personally, but the idea itself...). If the guy's answers are quick and always perfectly correct then why would anyone think it's a good idea to discourage that? 
+
+You have pages and pages and pages of deleted posts, many of which have been downvoted. Those downvotes count against you. You also have a history of asking the exact same question several times an hour apart until you get an answer. This is blatant abuse of the system. 
+
+Also, we already have a reputation cap of 200 points per day, so the bottleneck is already in place. 
+
+But in the future, please only post in the "Your Answer" section when you have an actual answer to the question being asked. 
+
+Here's the reasoning posted as a comment to that answer: 
+
+3000! If it were baseball, that would surely get us into the Hall of Fame. ;) 
+
+Pfft... that's easy. Try this one: 
+
+Also, all of this took place on a Boat... On a Friday... In Iceland. 
+
+In your case it's the deleted answers that are causing the ban. (I don't know the algorithm, but there's nothing else I can see that would be causing it.) In particular, do not post questions in the answers section. Those will be deleted every time. Once you get 50 reputation you'll be able to leave comments, which is where follow-up questions and clarifying statements belong. Until then, improve your other answers and try to ask good questions that will get upvotes so that the answer ban will be lifted. 
+
+Moderators are still members of the community. If it should have been closed for being "long, ranty, and flame-fodder" then it's perfectly fine for a moderator to step in and close it instantly instead of waiting on five other people to do it. I do it all the time when posts get flagged by the community. 
+
+I take full responsibility. About 6 to 8 weeks ago I had my Freehand Circles (if you know what I mean) flattened in a tragic Waffle iron incident. Right after that, the Turtle in LOGO was trampled by a thundering herd of Ponies and Unicorns. I tried to call for help, but the Community Wiki police didn't arrive in time. They weren't the Fastest Gun in the West that day. I guess they should have tried jQuery.

@@ -1,0 +1,39 @@
+The question is: where does one draw the line? If both p and p' are known for n, but p' is unknown for n+1, what's so special about n. 
+
+In practice, I do not believe that any unevenness in the coins composition - i.e., the coin having anything other than the ideal centre of gravity - would have any real effect on the predictability of the outcome of an individual toss or a sequence of tosses. This is because other factors, such as the force of the toss and the binary nature of the outcome, would overwhelm any bias attributable to unevenness. The outcome would be completely determined by the original orientation of the coin, the net initial forces exerted, and the characteristics of the landing surface. For any unevenness to play a role in determining the outcome, we would require a near-astronomical number of rotations of the coin, which, of course, is not the case in practice. 
+
+I’m not sure if any of this will be of any help to you, but hopefully it will help clarify some of the terms. 
+
+Anything that is computable algorithmically can be modelled as counting. That is a lot of mathematics. 
+
+Let's restate the two expressions as 
+
+For example, Euclidean geometry can be proven to be both complete and consistent. Other geometries are also of this type - e.g., Hilbert's axioms and Tarski's axioms. 
+
+Finally, the context of Cantor's result is Set Theory. Set Theory uses classical logic. If you wish to apply a logic which rejects the Law of the Excluded Middle to argue the proof is not valid, fine. But this does not invalidate Cantor's result as a result from Set Theory. 
+
+Aside : Russell's paradox is a logical (formal) paradox and one could say that it gives rise to a theorem, namely that the cumulative hierarchy (the collection of all sets) is not itself a set. This would not be a theorem of set theory since set theory only deals with sets, but it could be considered a theorem of mathematics in general. 
+
+So that’s my ZFer defence. If this is sound, then this is one way out for ZFer without doubting God. 
+
+I do not see the ZF fanatic as facing a predicament. I see Aaronson facing a predicament. How can he defend his Platonist argument with a non-Platonist argument. 
+
+This sort of doodling is fun, but unfortunately it does not say anything about the formal, topological view of compactness among the ordinals. 
+
+The notion of compactification you describe in your question is strongly Euclidean and so does not readily apply to the ordinals in general. However, because it is tempting to view the ordinals as a line in the plane, there are number of nifty pictorial representations of infinite ordinals, drawn in a compact region of the Euclidean plane. Here is one I found via google images of the limit ordinal ωω as a spiral : 
+
+If it is to some degree arbitrary, why should any particular part of its structure be less so? For instance, the length of a diagonal in flat space is just as irrational and no more regular than pi. 
+
+In computations like entropy, we do speak of the 'number of possibilities', but we mean the number of parameters underlying the measure of possibility. Each of the things we count is possible to a different degree, or we would not have to integrate over them to determine the entropy. This is just a convention of grammar. We do not really believe in a specific 'number of reasons' or a 'number of perspectives'. We know there are really always a continuum of such things, if only by being different mixtures of alternatives. But we are classifying them by a finite number of dimensional parameters. 
+
+The second of these allows us to take risks that might benefit our group, but may be unwise for us individually. We overestimate our chances of success, which allows us to make fatal or otherwise costly errors, but still succeed genetically, because our family produces a number of copies of our genes in individuals that will all collectively share the results of success. If we were objective about normal situations, most of us would be too passive or risk-averse for the group as a whole to use us to its benefit. (We see this in that fact that the severely depressed are the best at estimating odds. But do not integrate well into a functional family or society.) 
+
+The truth values of classical propositional logic form a Boolean algebra. The only subdirectly irreducible Boolean algebra has cardinality 2 (True & False). Hence the equational theory of classical propositional logic is completely determined by the two element Boolean algebra. 
+
+You might want to consider some potential commitments related to strong forms of mathematical idealism: Foundations of mathematics are neither necessary nor possible. Axioms have to be intuitively true, like Euclid's axioms for geometry. Mathematical object are at least as real as any object in the physical world. The question of whether objects like zero, infinity, square root of two, or square root of minus one actually exist is non-trivial and must be answered for each of these objects separately. 
+
+It is well known that every Boolean algebra can be represented as the set-algebra of clopen sets of its associated Stone space. 
+
+Edit I used Banach-Tarski paradox and Gentzen's consistency proof as examples for the unclear relationship between mathematical "conjectures" and real world "relevance", even so the actual examples I personally care about are much simpler and probably even "solvable", at least in theory. I did this, because these are well known and well investigated examples. The drawbacks are that there are unsettled controversies over them (like the criticism of Voevodsky's position regarding consistency), and that I'm not at all an expert on their details. I now read some of the original publications and parts of the controversy, and I have to admit that at least the historical account in my answer was misleading and unfair to Gödel. The least controversial modern "answer" to the consistency problem is probably given by the reverse mathematics program, which shows that Voevodsky's position is really quite questionable. 
+
+The label conjecture is only used for proposition that might one day be decided to be true, false or undecidable. The proposition P≠NP is considered to be a conjecture, but the consistency of ZFC is not considered to be a conjecture. The reason why we believe that both propositions are true is that we haven't found efficient algorithms for NP complete problems, despite intense efforts, and we haven't found a contradiction in ZFC, despite making heavy use of it. We found unpleasant properties of ZFC like the Banach-Tarski paradox, but being an unsuitable model of physical reality is different from a mathematical inconsistency.

@@ -1,0 +1,21 @@
+Has anyone examined the relationship between qualia and the fact/value dichotomy? 
+
+What contemporary developments in philosophy of mind strictly speaking (that is the mind/body problem, personal identity, the problem of consciousness, etc...) can be traced explicitly to recent developments in neuroscience, other than Libet's experiments? 
+
+So here is my dilemma: Substance dualism is normally what theists subscribe to, since they see it as implying the existence of souls. I'm not a theist and don't plan on becoming one any time soon. All of the arguments for the existence of God seem wrong to me. 
+
+Saying there is something non-physical about how the mind works is the same as substance dualism. 
+
+Remember Meinong's Jungle? He assumed that the targets of our intention must have some level of reality, even if they were fictional. Well, he was right, except that instead of the metaphysical menagerie he conjured up, their existence was real because they existed as models/representations in the minds of those who conceived of them. 
+
+Going through the article and looking at the youtube video provided in the OP, it seems that the authors are using purely behavioral criteria to make the claim that their program experiences emotions. In particular, this line stands out: 
+
+What is wrong with this proof? How is it different from Kripke's modal logic argument and Chalmer's Zombie argument (I find it more convincing than those two, but it seems somehow related to them nonetheless)? Why does Searle not find it convincing? 
+
+In your title question you use the word "experience emotions". The way I read it is: Does the "Mario Live!" program have subjective first person experience. Closely related to the question of first person experience, and a topic that might help you more with your research, are the questions of Qualia and the hard problem of consciousness. 
+
+efficiency(QC) > efficiency(non-QC) > efficiency(Human). 
+
+Any finite sized physical phenomena can be reproduced given sufficient technological means and a sufficient understanding of the underlying physical processes. 
+
+Similarly, in logical atomism and logical positivism, there seems to be no difference between knowing and understanding. It is enough to map sensory data, facts about the world to proper logical (and hence linguistic) structures. There's no way to differentiate between understanding a concept and simply being able to state its definition (along with its components) correctly.

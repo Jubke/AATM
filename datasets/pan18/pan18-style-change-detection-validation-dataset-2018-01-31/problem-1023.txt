@@ -1,0 +1,35 @@
+One point of contention is how much ontological commitment is really there. Just because I can write down some things doesn't mean that I can write down an arbitrarily huge amount of things. Or maybe I can write them down, but I thereby might destroy things I wrote down earlier. 
+
+Often the things we can be pretty certain of are ontological commitments. 
+
+(2) Why are simple explanations likely to be correct? Or, less ambitiously: what properties must reality have for Occam’s Razor to “work”? 
+
+For a completeness proof, we must show that for each unprovable formula, there exists a structure were the unprovable formula is false and all axioms are true. This structure must "exist" in a suitable sense, because what else could be meant by "completeness"? If only the structures that can be represented in a computer with 4GB memory would be said to "exist", then first order predicate logic would not be "complete" relative to this notion of "existence". 
+
+The intention of the quoted section is not to prove Occam's razor, but to explain how Valiant's theory of PAC learning can help with clarifying the following questions regarding Occam's razor: 
+
+Logical positivism is sort of self contradictory in a different way. It rejects assumptions about the existence of an underlying (observer independent objective) reality, but uncritically accepts the existence of empirical data. But often empirical data can only be collected, if there is at least some theory of an underlying reality. It is a bit like saying "the statistics says ..." without realising how much what the statistics say is influenced by how you asked the questions and how you interpreted the answers. 
+
+Exploiting ontological commitments 
+
+A typical example is a Henkin style completeness proof for first order predicate logic. We are talking about formulas and deductions that we "can" write down, so we can be pretty certain that we can write down things. We use this certainty to construct a syntactical model of the axioms. (The consistency of the axioms enters by the "non-collapse" of the constructed model.) 
+
+" but the account of its being corresponding to the name (kata tounoma) is different . . . " 
+
+Let me expand upon why I think the metaphysical claims that the encounter with the Other being a transcendental condition of the possibility of your own subjecthood is implausible. Doing so might help explain why analytic philosophers aren't inclined to think "the Other", as Lacan and Levinas describe it, is in fact a useful category at all. 
+
+Ok, let me try. (translation is off the top of my head, so check with the oxford translation). 
+
+Still, for at least low level perceptual beliefs like the ones we get from vision or hearing, it is hard to imagine how those beliefs or the mechanisms that formed them could be adaptive without being at least usually accurate. 
+
+The question about The Other, so far as I can tell, is ethical. "What should I do to/for/with the Other?" Of course, the complicating factor is that sometimes authors like Levinas tend to make (seemingly implausible) claims about The Other that look metaphysical, like, "You can't be a self until you encounter an Other." I am not qualified to speak to what the reasons for such claims might be, however. 
+
+The answer here is evolutionary: if it is the case that a belief makes it (objectively) less likely the organism will survive to reproduce, that organism is less likely to pass along its genes. (i.e. The belief is maladaptive.) if maladaptive beliefs have a hereditary basis, then one would expect evolution to get rid of them over successive generations. 
+
+ὁ δὲ κατὰ τοὔνομα λόγος τῆς οὐσίας ἕτερος ἐὰν γὰρ ἀποδιδῷ τις τί ἐστιν αὐτῶν ἑκατέρῳ τὸ ζῴῳ εἶναι, ἴδιον ἑκατέρου λόγον ἀποδώσει. 
+
+For a completeness proof, we must show that for each unprovable formula, there exists a structure were the unprovable formula is false and all axioms are true. This structure must "exist" in a suitable sense, because what else could be meant by "completeness"? If only the structures that can be represented in a computer with 4GB memory would be said to "exist", then first order predicate logic would not be "complete" relative to this notion of "existence". 
+
+Even so I only read that paper in order to be entitled to answer this question, I think the paper is really worth reading even if you don't want to answer any question. It's easy to read, covers much ground, and even sketches the proofs for some non-obvious theorems. But is it relevant to philosophy? Well, it is an honest attempt to address an audience of philosophers and tries to reduce (or show how it might be possible to reduce) the gap between theory and reality in certain areas. 
+
+Logical positivism is sort of self contradictory in a different way. It rejects assumptions about the existence of an underlying (observer independent objective) reality, but uncritically accepts the existence of empirical data. But often empirical data can only be collected, if there is at least some theory of an underlying reality. It is a bit like saying "the statistics says ..." without realising how much what the statistics say is influenced by how you asked the questions and how you interpreted the answers.

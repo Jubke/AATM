@@ -1,0 +1,27 @@
+                                                                     References 
+
+That is why, Frege's analysis of a sentence like "the concept horse is a concept", is the following: 
+
+'Philosopher' & 'is' are applied to give 'is philosopher' of type ⟨e,t⟩, which is then applied to 'Socrates' to yield ⟨t⟩. Next, you consider the following sentence: 
+
+You say that Socrates is as an object (type: ⟨e⟩), but you also, for some reason, claim that 'a man' too is an object. By previous reasoning you say that 'man' must be a concept, so how is 'man' both an object and a concept. 'A man', however, is not some particular man, so it's not an object. 'A' is semantically vacuous, and 'man' is an ⟨e,t⟩, which combined with an identity combinator 'is', yields the concept 'is a man' (type: ⟨e,t⟩), which when applied to 'Socrates' gives us a ⟨t⟩. Nothing confusing going on there. 
+
+The question is a bit confusing, so let me separate the two issues that are being discussed. 
+
+⟨e,t⟩ is the type of intransitive verbs like "walks", "is red", and so on. The two types ⟨e⟩ and ⟨e,t⟩ are combined to give an expression of type ⟨t⟩, a boolean. The problem is that the concept horse should be a concept (a thing of type ⟨e,t⟩) and not an object (a thing of type ⟨e⟩), but because of Frege's commitment to (1), he's forced to say that the concept horse is actually an object and not a concept. 
+
+                                                                             §1 
+
+You explain that in (3), 'Socrates' is an object (type: ⟨e⟩), 'philosopher' is a concept (type: ⟨e,t⟩), and there is a copula 'is' linking the two. That seems right. I'd add that 'a' in (3) is semantically vacuous, and that 'is' is an identity function from concepts to concepts (from ⟨e,t⟩s to ⟨e,t⟩s), so (3)'s structure is: 
+
+The Gödel–Cohen result establishes the independence of CH from ZF (with or without AC), not from any set theory whatsoever. In general, independence is a logical relation between a set of axioms and a sentence: sentence S is independent of axioms Γ just in case Γ neither proves nor refutes S (more precisely: just in case neither S nor its negation is in the closure of Γ under direct derivability). 
+
+First, there is Frege's concept horse problem. It has been a topic of much discussion and there is no one way of explaining exactly what the problem is. If I could summarize in a few sentences, I'd start by saying that Frege is committed to the idea that: 
+
+An analogous situation happens in programming when you have a floating-point expression like 4.0 and you pass it to sqrt (the square root function), which is defined only for non-negative integers. 4.0 is converted to 4 and then sqrt(4) yields the expected value(s). 4.0 (or horse) stays what it is, but in an expression like sqrt(4) (or 'the concept horse is a concept'), it is automatically converted to an acceptable type so that the expression can have a meaningful value. How plausible a solution this is to the concept horse problem? Who knows? It's a proposal and will no doubt have its pros and cons. 
+
+Update: As regards the edit, if a sentence (e.g. CH) cannot be proved in a system (e.g. ZFC), then it cannot be proved in that system at time t, for any time t. Provability has very interesting connections to modal logic, but it itself is not a notion that depends on time or human knowledge. I wonder, however: 
+
+➀ Cumming, S. (2014) λ–Calculus and Type Theory, Lecture Course (Winter), UCLA. ➁ Heim, I., Kratzer, A. (1998) Semantics in Generative Grammar. 
+
+As for examples of truths that cannot be proved, again, I would like to emphasize that provability, like independence, is a relative notion: sentence S is provable in syntactical/proof system Γ just in case there is a proof in Γ with S as its conclusion. Once the relativity of provability is recognized, it's easy to come up with examples of intuitively true but nevertheless unprovable statements such as the following sentence: "everything is self-identical". That sentence is not provable from the axioms of propositional calculus, but it is provable from the axioms of first-order logic with equality.

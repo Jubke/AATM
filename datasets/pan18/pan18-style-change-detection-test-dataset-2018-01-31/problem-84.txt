@@ -1,0 +1,45 @@
+I recently purchased Empire Earth Gold Edition from GOG.com. Unfortunately, I've yet to be able to actually play it. http://www.uesp.net/wiki/Skyrim:Patch#Version_1.3 UESP seems to indicate that the latest patch for PS3 is 1.3.7.0 (1.3.10 was PC-only). But the barely-legible version number on the SYSTEM page of my pause screen seems to indicate 1.3.5.0. Closed background programs: Run in Virtual Machine I'd much rather be able to run the software natively in the host OS, but I'll settle for getting it to work in the VM if it can be done. Is there anything else I should try? I did e-mail GOG.com support, but was wondering if anyone here might have an answer before they can get back to me. My PS3 is connected to the Internet full-time. Up until now, I've been presuming the auto-update on game launch should be keeping me current. But lately, I've become unsure. When running the shortcut, I see the Empire Earth splash screen and then it switches to a full-screen black window with a "spinning circle" cursor for a few seconds. After this, the window minimizes. In the background, I can hear the game's intro and title screen running, but I can't restore the game window no matter what I do. Error 2 (sometimes, other times a hang that requires me to kill the app. Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free I recently purchased Empire Earth Gold Edition from GOG.com. Unfortunately, I've yet to be able to actually play it. But the barely-legible version number on the SYSTEM page of my pause screen seems to indicate 1.3.5.0. Closed background programs: Run in Virtual Machine I'd much rather be able to run the software natively in the host OS, but I'll settle for getting it to work in the VM if it can be done. Is there anything else I should try? I did e-mail GOG.com support, but was wondering if anyone here might have an answer before they can get back to me. Is there a way to manually force an update check of games on my PS3, outside of the presumed auto-update that should be occurring on game launch? My PS3 is connected to the Internet full-time. Up until now, I've been presuming the auto-update on game launch should be keeping me current. But lately, I've become unsure. http://www.uesp.net/wiki/Skyrim:Patch#Version_1.3 When running the shortcut, I see the Empire Earth splash screen and then it switches to a full-screen black window with a "spinning circle" cursor for a few seconds. After this, the window minimizes. In the background, I can hear the game's intro and title screen running, but I can't restore the game window no matter what I do. Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free

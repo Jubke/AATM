@@ -1,0 +1,59 @@
+For example, TLO, a high caliber professional player, uses supply add-ons fairly often, even when not supply blocked, to get the extra 100 short-term minerals to get out an attack just a few seconds earlier. 
+
+So just use what works for you, but pay attention to when you play and watch replays from when you lose, and if you notice that maybe you used an extra scan that didn't help you learn anything, or if an extra MULE would give you just enough minerals to turn the tide of battle, try to remember those moments for future games. 
+
+If I see my opponent has a Sensor Tower up, is it still safe to attack with Dark Templar or cloaked Banshees? Will he see them coming on the minimap? 
+
+Often the answer to a question of "how do I counter X high tier unit?" isn't so much about countering that unit once it's built, but preventing it from coming out at all. 
+
+What about burrowed Roaches? Will the Sensor Tower still sense those even if it can't sense cloaked units? 
+
+Actually, the way Blizzard has custom games working at the moment, it is not as simple as navigating to a folder to select the map. Many view this as a downfall in their current system, but this site is not the place for such arguments. 
+
+I understand that the Sensor Tower is not a detector and will not give vision of the units. I am inquiring as to whether it will alert the player to the PRESENCE of them, even if you still can't target them without an additional source of detection. 
+
+Rather, to answer your question, the only way for you to play this map is to either find it in the search engine for custom games online or to publish it yourself. Ideally, you can find it in the search engine online, but there are a limited number of maps that appear in that, so if the map you want to try is unpopular, your only option is to publish it yourself. 
+
+The secondary problem with carriers is that they're often accompanied by a mothership, which complicates matters. 
+
+One of the best ideas to counter a protoss dead-set on going carriers is to scout and provide early pressure if you see him teching quickly to a fleet beacon. He's probably spending so much money on those buildings that he has a comparatively weak army, and you should be able to do a good deal of damage. 
+
+You have to open the map in the map editor and publish it just as you would any of your own maps. Unfortunately, this will create a copy on their server, and anyone found playing your copy will be counted differently from the original author's copy, which means that the stats for determining popularity will treat them as separate maps even though they are the same. It is very difficult for a new map to make its way up through the popularity list with this system. 
+
+The main problem with carriers only really arrives if you allow your opponent to build a ton of them. Alone, like Carl Clover said, they're very weak. 
+
+This Team Liquid forum post goes into great detail about the shortcomings of the current custom map system and the workarounds for it. 
+
+Everyone develops their own style, so you can't exactly say what is the "better" use. It depends on how you use them. 
+
+Additionally, massive ground units can't be picked up by the Phoenix's gravity beam (thanks, Nick!) 
+
+So as soon as you receive the surrender offer, you should accept it, as it gives you exactly the amount of XP you would get from destroying all the remaining units / buildings. 
+
+Accept Surrenders ASAP! When the enemy AI surrenders (the moment you accept it), you get XP for every unit the AI has that would reward XP. 
+
+Wings of Liberty had 3 "split" missions, where you had to choose sides: 
+
+'Massive' is also an armor type (like 'armored' and 'light') and two units (Voidrays and Corruptors) deal bonus damage to massive units. 
+
+The problem is, these popups are usually hidden by the victory screen itself. 
+
+Massive units can crush the Protoss Sentry's Force Field effect. 
+
+Playing the second campaign mission in Heart of the Swarm, I ran into Nova, who off-handedly remarked that "Things might have been different if you had helped me with my Tosh problem", apparently still bitter that I liked the Spectres more than her ghosts on my last playthrough of Wings of Liberty. 
+
+But if you really want to progress in 4v4 here are some tips: 
+
+Depending on the units and the addon the following will happen: 
+
+TLO hotkeys his active creep tumors so he can hit the perfect timing consistently. He also plays a Zerg style that relies on 4 queens. You might want to watch some of his replays. 
+
+The problem with huge games like 4v4 is that there are way too many permutations to consider. In 1v1 there are 3 matchups you have to learn, if your race remains the same. In 2v2 there are already 6 or even more if you play random team. You get the idea. 
+
+With 6 there is no waiting, but I think 6 is too much. 
+
+Learning something new works best like this: 
+
+Barracks with Tech Lab producing Marauder and following queue: [Marine, Marauder, Marine, Marauder] 
+
+I did some testing and found that about 5 is nearly optimal. You have to wait about 1 second for the creep to reach its maximum spread, which seems ok considering you have to macro other stuff.

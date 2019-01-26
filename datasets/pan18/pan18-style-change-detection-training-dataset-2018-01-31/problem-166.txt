@@ -1,0 +1,57 @@
+Edit: As a side note, I tested Dbemerlin's idea and it does work to right click (Move) all infestors to start getting into range. 
+
+Of course they can only ever repair allied units. As a side note, Zerg does not have any mechanical units and if he Neural Parasite'd one the unit would still be Terran or Protoss. 
+
+Playing as Terran, do you need to keep your barracks attached to a tech lab in order for research to complete? 
+
+Basically put: SCVs can repair any Terran structures or any mechanical units. "any" isn't in the original quote but I want to put emphasis on the fact it does not narrow down mechanical units to a specific race. 
+
+I have been told that when playing as Protoss, I should upgrade attack and armor from my two forges. But wouldn't shield upgrades prove more effective as they regenerate while armor doesn't unless your playing a team match with a Terran whom has a medivac. 
+
+As the Zerg You basically have 2 options to start with as the zerg, a 10/10 or a 14/14. 
+
+As an alternative, you can install sc2gears and it has a feature to auto-save games It requires that you leave it running while playing though to do this. 
+
+Against ranged units sending them in waves is more important as not all of them will make it. To be viable against ranged units mid to late game expect to send lots of banelings to get anything done. 20+ banelings is not uncommon. Against a pure bio-ball I have seen a pro player use in excess of 60 banelings in the late game. Upgrades will help as well. Melee attack and ground carapace are the ones that apply to banelings. 
+
+Edit for example: Corrupters start with 2 armor, if your air armor upgrade is one ahead of the carriers' air attack upgrades then each wave of interceptors will do a mere 32 damage (80 - 16 * 3). If their attack is 1 ahead of your armor, your corrupters instead take 64 damage per wave. 
+
+As the Zerg As the Protoss: A bit of a breakdown on the different options against tech: 
+
+If you want to automatically save all your replays, a couple solutions are available here. Note: the methods there are not exactly short or quick to set up, but do get the job done. 
+
+You can save more than 10 replays if you actually hit the save replay button on the game. There is no limit on the number of saved replays you have. The 10 is how much of a history it automatically saves for you. The 10 history limit was included near the end of the beta. I have not heard of any way to increase this limit, but there are some alternatives. 
+
+Spreading creep is vital for zerg as it provides vision as well as a speed increase to all zerg units on it, so creep tumors are a necessity. 
+
+Note: you can only have one larva inject on a hatchery at a time, so 2 queens on one hatch do not increase the larva spawn rate any more than one does. 
+
+Edit/Interesting note: I can't confirm this at the moment, but if you navigate to your unsaved replays folder, I believe you will find that it actually keeps 25 rather than 10 replays in there. 
+
+In general with banelings, unless you have them in the enemies mineral lines or something of that sort, you want to do a regular move rather than an attack move with them. They still explode when killed, so letting them get as much of a surround as possible before blowing up is almost always better than just blowing them up as soon as they hit the front unit. 
+
+Confirmed with Process Monitor, it first makes a request to a subdomain of that URL and then saves a file in 
+
+Don't forget to expand when you move out! 
+
+Why does an attack I planned fail? Turn your opponent crazy! But secure your expansions against a counter attack... 
+
+Ice Fisher by Spanisihwa sounds like the right build for you, it's a worked out Macro/Macro+: 
+
+Although I couldn't find better quality because it's RO32: GSL Season 3 - TheBestfOu VS Liquid`Ret 
+
+Unless you don't care about a non-english version that starts with an advertisement. 
+
+If you really have to, you could opt to create a Flying Scout Rax or send in a Marine. But those might give you less or too late information... 
+
+Don't focus on getting a single thing out, if the Zerg figures out that you are going to attack something specific (he can figure that out by creep, which gives vision; overlords and burrowed units) he will have his army ready to counter you. Instead, you might want to attack at two places at the same time: Attack the closest expansion with your army while dropping hellions at one of his other expansions or his base; similar you could kite units away, or force them to run away by using the Raven's abilities... 
+
+But, there are also Marines so you need to bring your Hellions back to aid your Marauders, as well as your Medivacs to heal your Marauders. If you didn't lose them in your harass, which you always should try to do, you can take them home before he comes given that they are faster units. 
+
+Zerg will have to search you too as he didn't scout (except for slow overlord), this is your advantage... 
+
+The defensive / FE approach of this build isn't always appreciated in team games, either your team rushes and you have to go along or they rush your front door and you are incapable of defending from two players simultaneously before your team mates arrive. Locks you to 1v1... 
+
+So, together with scanning his creep for buildings this perfectly answers the questions! 
+
+You need to be aware of this information, it allows you to know when to switch between building drones and building army. Placing some overlords and zerglings near the opponent in the right place to see incoming units is a vital thing, this gives you the right amount of time to produce the right amount of units.

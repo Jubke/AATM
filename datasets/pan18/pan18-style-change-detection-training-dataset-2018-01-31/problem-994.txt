@@ -1,0 +1,45 @@
+Edits can be approved inline (on the question/answer page) by 2 users with the pending edit approval privilege, earned at 1k rep. 
+
+My current thinking is switching the focus when we deal with duplication. Instead of presenting the OP with a "duplicate question" and shutting them down, I think we should involve the OP and community at-large in the process by focusing on the "duplicate answer" 
+
+Why do you think we are seeing this trend? What can we do to help increase voting? 
+
+We are building analytics bits to see the effect of the test runs. 
+
+Nothing could be further than the truth. Our high rep uses are barely flagged, compared to low rep and new users. They have significantly more content on the site so there is a significantly larger corpus of content that could be flagged. 
+
+Stack Exchange remains a separate entity to Stack Overflow, which is funded and owned by Fogcreek and is not raising money. It's Joel's other baby project. Stack Overflow LLC (the guys the brought you Super User, Server Fault, Stack Overflow) are the ones asking for the money. Stack Overflow need the money for something top-secret that is not related to Stack Exchange that may take up to a year to develop. Stack Overflow is pretty profitable anyway. Am I misunderstanding the message somehow? 
+
+Now that we have over 3 million questions on Stack Overflow, the "Duplicate Question" problem is becoming way more difficult to handle and address. We are seeing over 130 possibly duplicate questions on SO daily, handling them is always very tricky. 
+
+Any feedback on this change? How can we improve it? 
+
+Our current measures of banning and stopping the huge flow of extreme low quality posts seem to be doing fine. In fact, I think we are doing way better than we were 3 months ago. 
+
+Hellbanning, slowbanning, errorbanning, and randombanning are all things we have never experimented with and do not intend to. 
+
+If it is downvoted by the community cause it does not answer the question, no loss, we can automatically remove it once it gets -1 or -2. 
+
+Note: we added a few more checks and balances 
+
+I just wrote this totally nasty query on data.se (same query including all community wiki questions). 
+
+Would you have some ideas for some cool personal statements I could draw inspiration from? 
+
+What I can talk about is the actual process we are following, and why I believe this will work. 
+
+So, you make an old question tons better with an awesome answer and pay 100 reputation for the privilege. I am not following where the Stack Overflow community are losing out. 
+
+At the end of this process we will analyze the data, tweak algorithms and ensure that the feature has a general positive effect on the site, figuring out rep incentives caps and so on is a phase 2 thing. 
+
+I really like this question, so I will share a tip: http://www.google.com.au/search?q=site%3Acareers.stackoverflow.com 
+
+I listened to the Stack Overflow (hmmm, Stack Exchange podcast) and was a tad confused about the whole VC shenanigans. 
+
+He posted 15500 or so comments on the site, of these 43 were flagged. Sure, this may be higher than Jon Skeet's 23610 comments with only 15 flagged comments. But still, its a tiny amount. 
+
+We also seem to be fine dealing with people complaining about "why kan i nt aks Qestion URGNT?". 
+
+We have been kicking around some radical ideas to help improve this process and make it friendlier. 
+
+We are all human, except for Jon Skeet who is clearly not a human. We sometimes slip. When this happens the best way to address the issue is to FLAG problem behavior. We are constantly analyzing the data. If we find abuse we handle it swiftly and justly.

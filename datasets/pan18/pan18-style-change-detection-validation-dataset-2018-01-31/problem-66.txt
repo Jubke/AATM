@@ -1,0 +1,53 @@
+For each additional party member, monster health scales: +75% HP in Normal, +85% HP in Nightmare, +95% HP in Hell, +110% HP in Inferno.4 5 (The upcoming 1.0.4 patch changes this. Instead of scaling monster health buffs with difficulty, all difficulties get a flat +75% HP increase per each additional party member.6) There are no other party size buffs. 
+
+I've noticed while waiting to respawn that some enemies regenerate health when no one's around (most without the Vampiric Modifier). I believe I've seen all enemies classes do this at some point (Champions, Uniques, normal, etc.), but I've also seen enemies not regenerate health when I'm dead. 
+
+So slow. I see that sprint was removed since Diablo 2, but is there any way to run faster (e.g., a run/walk toggle, a keyboard shortcut, a magic item perk, shrines, potions)? If so, what, and where can I get or do it? 
+
+Currently, there is no such shortcut, though there have been many complaints on the D3 forums. Click, drag, click. 
+
+Or, if you prefer not to move your wrist, click, I, click to drop, I (open and close inventory). 
+
+I noticed each class has a movement ability (leaping/teleport skills), but is it meant to replace running altogether? Is there an omni-character solution? All the Google hits are about "running" Diablo on your PC. 
+
+Is this a Boss Modifier they have in common, or is it unique to certain areas or party conditions (e.g., everyone dead)? I feel like I've seen this more often with Fire Chains enemies (or something that looks like Fire Chains), but the recollection is vague. Do all enemies regenerate their health upon leaving the current zone? Can shamans and enemy resurrectors replenish life? Can Champions+ regen life for normal enemies? And what affects these rates of regeneration (e.g., difficulty, proximity to neighboring enemies)? 
+
+Blizzard is unique in its cross-platform love: it has bundled Windows and Mac versions together on hybrid discs for over a decade. Your retail or direct download purchase lets you play on either platform. When you buy D3, you're really paying for the Battle.net account CD key. Once it's linked, you can re-download Mac and Windows clients any time you want, but your key will only work on one concurrent installation. 
+
+Monks can build a tempest rush + wave of light build that can farm quite fast, this build requires 4 piece innas (to make sweeping wind cost next to nothing) as well as additional spirit regen gear to maximize wave of light spam. Its quite possible to get enough spirit regen for perm tempest rush, the trick is to use a slow attack weapon (skorn is perfect for this build). WoL becomes less useful at higher MPs due to increasingly higher monster health, but well geared monks can still farm quite fast (as is the case with every class). 
+
+Updated Answer Having soloed inferno recently with a dual wielding setup on my monk, I can now say as a fact that dual wielding is absolutely possible. But note, this highly depends on having two great weapons to use on your monk. 
+
+Note, both the archon and WoTB builds are likely to change in the future as Blizzard has repeatedly said that they want to address the issue of perma archon and perma wotb. 
+
+When the 1-handed bow is equipped: 
+
+WTS [something] 100k c/o pst with offers 
+
+WTS [something] 150k c/o pst with offers 
+
+[someting] 200k c/o going once 
+
+in addition to increasing the xp from kills made by my character? 
+
+The same goes for the different Acts in Inferno, what MP levels are equivalent between the different Acts. 
+
+The set of skills (active & passive) that are chosen: 
+
+What do they mean exactly, and what does the abbreviation stand for? 
+
+I finished Hell difficulty with MP 10, but I can't do Inferno on MP 10, so at what MP level am I better off farming Act I Inferno, than Act IV Hell on MP 10? 
+
+Does the shrine of enlightenment increase the xp gained from: 
+
+The Ray of Frost and Disintegrate spells tell you that they cost 20 AP (without runes) to cast but don't tell how much they cost over time. And they say that they do 215/155% of weapon damage but don't say at over what time period it's done. 
+
+What sources of damage trigger this effect? In particular, I'm asking about the passive equipment procs such as the Fire Chains from Maximus, Fire Walkers, and Pox Faulds. Do those count? What about damage from summoned units (Bowmen from Phalanx) and followers? 
+
+This all comes down to how much gold you have. If you can afford it, barbs farm the fastest, but their gear is the most expensive. Monks are relatively cheap to gear due to one with everything, and decent int wizard gear is the cheapest to find. 
+
+On low MPs, archon wizard is the fastest for xp farming. They can (as of 1.08) keep up permanent archon and roll through hordes of monsters. They are also relatively cheap to set up as you can get a 150k dps archon wizard for 10-15m that can roll through mp2 in no time. For higher MPs, you'll have to swap to a CM build, but those are way more expensive to gear up than building a decent archon wizard. 
+
+Note, both the archon and WoTB builds are likely to change in the future as Blizzard has repeatedly said that they want to address the issue of perma archon and perma wotb. 
+
+Now that I have 3x more DPS than the old tank build, even though I'm down quite a bit on defense, its easier since I kill them faster so I don't have to tank as long. Also, the really deadly effects such as arcane turret and ground effects can't be blocked anyway, making blocking less useful than killing the target faster.

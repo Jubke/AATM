@@ -1,0 +1,53 @@
+Another issue here, is even if it were unconstitutional, you would need someone with standing to bring the case to court. I doubt you can find an individual or legal entity that wants to pay more taxes, or a government agency that wants bigger budget cuts. 
+
+The relevant constitution text: 
+
+The First Amendment of the U.S. Constitution was designed specifically to protect freedom of the press. However, for most of the history of the United States, the Supreme Court neglected to use it to rule on libel cases. This left libel laws, based upon the traditional common law of defamation inherited from the English legal system, mixed across the states. 
+
+Multiple laws allow for the negation or commutation of penalties. The courts may reduce a sentence, a Governor or President may pardon someone. 
+
+Ever since Marbury v Madison, the Supreme Court of the United States has had the power to determine what is and what isn't constitutional, and to strike down (or roll-back) an unconstitutional law. 
+
+They would conclude that the First Amendment to the Constitution was completely unrelated to slander (spoken) or libel (written) defamation of character. 
+
+Unfortunately, many people today do not understand that the 1st Amendment prohibits the government from curtailing your speech, it does not absolve you from possible civil damages or prevent private individuals from censoring you. 
+
+When the Articles were replaced by the current Constitution, that clause was dropped, since Canada clearly wasn't interested. 
+
+This is specifically addressed in the Presidental Succession Act (US Code Title 3, Chapter 1, § 19) (emphasis mine) 
+
+(2) An individual acting as President under this subsection shall continue so to do until the expiration of the then current Presidential term, but not after a qualified and prior-entitled individual is able to act, except that the removal of the disability of an individual higher on the list contained in paragraph (1) of this subsection or the ability to qualify on the part of an individual higher on such list shall not terminate his service. 
+
+Also, note that any body where a tie vote is possible will have some mechanism to resolve ties - usually it's either by explicitly giving tie-breaking power to someone (who may not have been involved in the original vote, such as the US Senate and the VP) or by giving someone's vote an inherent +.5 (so the result is always something like 20.5 to 20). 
+
+They would conclude that the First Amendment to the Constitution was completely unrelated to slander (spoken) or libel (written) defamation of character. 
+
+Ever since Marbury v Madison, the Supreme Court of the United States has had the power to determine what is and what isn't constitutional, and to strike down (or roll-back) an unconstitutional law. 
+
+Unfortunately, many people today do not understand that the 1st Amendment prohibits the government from curtailing your speech, it does not absolve you from possible civil damages or prevent private individuals from censoring you. 
+
+Another issue here, is even if it were unconstitutional, you would need someone with standing to bring the case to court. I doubt you can find an individual or legal entity that wants to pay more taxes, or a government agency that wants bigger budget cuts. 
+
+Ex post facto laws, meaning "after the fact," is expressly forbidden in the Constitution, Article I, Section 9 (Section 10 prohibits states from enacting similar laws) 
+
+But, ever since Marbury v. Madison, the Supreme Court has decided that it is the ultimate authority on what is or isn't constitutional. They have ruled that tax law is exempt from that section of the Constitution. 
+
+It wouldn't be until 1964, when the Supreme Court in New York Times Co. v. Sullivan established a standard for proving defamation. 
+
+Defamation law pre-dates the USA. 
+
+The First Amendment of the U.S. Constitution was designed specifically to protect freedom of the press. However, for most of the history of the United States, the Supreme Court neglected to use it to rule on libel cases. This left libel laws, based upon the traditional common law of defamation inherited from the English legal system, mixed across the states. 
+
+In Article III, it specifies that 
+
+The main reason I know of for a federal judge to step in when it comes to state laws is when those laws are unconstitutional. For instance, if a state passed a law, or even an amendment to its state constitution which permitted slavery, the federal judge could overturn it as a violation of the 13th amendment. 
+
+Federal judges have this power, because of Article VI of the US Consitution wihch reads (in part): 
+
+Also, note that any body where a tie vote is possible will have some mechanism to resolve ties - usually it's either by explicitly giving tie-breaking power to someone (who may not have been involved in the original vote, such as the US Senate and the VP) or by giving someone's vote an inherent +.5 (so the result is always something like 20.5 to 20). 
+
+Basically, unless the ability of other people to marry has some detrimental affect on your legal rights, you have no standing to sue. 
+
+No, that option expired in 1788. 
+
+It is worth noting that none of these provisions have ever been used or tested in court. It's possible that if an event happened such that they were needed, a Cabinet member who was presumed dead (and thus passed over) may try to argue that "presumed dead" is not a disability or failure to qualify in the sense of (d)(2), and that they should replace the current Acting President. At that point, they would have standing to sue the current officeholder, and the courts could decide which one will hold the office, whether it's a political question that courts can't address, or whether the whole act is unconstiutional.

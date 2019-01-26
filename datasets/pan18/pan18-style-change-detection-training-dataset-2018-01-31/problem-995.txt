@@ -1,0 +1,29 @@
+The outcome of the flagging decline policy should be to have at the same time: It's a super simple question that shows no effort, nor it needs to be answered with an algorithm. Just pick a person somehow and redo if it's not acceptable. Unless we want to discuss how to generate random numbers, the rest of the answer is completely trivial. There's no need of an algorithm. 
+
+The extra parameter allows us to fill in "Score" and "Rank" in the rows of type "Result Click". 
+
+It doesn't seem to have long-lasting value or to ask about a problem in a general enough way. It's very specific, because of the "no repeat" clause which adds no value - picking at random with no constraints is just as fair, so why would someone need to look for a more complicated version of something that already works? So: yes with all you say, but can I equally ask SE staff to take care to at least acknowledge highly-upvoted, short, self-explanatory meta requests? ...what happens next? There are a zillion good questions, which follow your instructions to the letter, are highly upvoted and they are routinely "ignored". I put that in quotes because I know they are read. The fact is that they are left unanswered by you guys. 
+
+If someone likes unicorns should we allow others to insult unicorns in their profiles? What about spaghetti monsters? Atheists find offensive any talk about the origin of the universe which is in contract with the scientific view. I, as an atheist, certainly find any such talk offensive, but I hold my breath constantly trying to respect everyone's right to be wrong. Should I be allowed to go around and delete such content as offensive? 
+
+Out of these, Stack Overflow selects very strongly for individuals who are motivated by status and acceptance. You get immediate feedback on your contributions to the site, and it's very simple to find your standing in the community. Social contact is given through posts, comments, and the chat feature. Curiosity and Saving are fed through the vast wealth of knowledge the site accumulates. Power comes from the advanced abilities one gains due to their reputation. And there are even individuals who come only because the system is very well ordered and understood - it's easy to interface with the site because there are rules, and they are enforced. As programmers we are daily faced with having to get requirements, test things out, etc. 
+
+I beg you conſider my plea, and rectify this traveﬅy forthwith. 
+
+This alone muﬆ ſuﬃce: The delightfully paﬆel uniprong ponies were not preſent and ambulating as expected. 
+
+I subscribe to a much shorter list, but a relatively reasonable list of 16 basic motivations for human activity can be found on Wikipedia. Several of these motivations may lead one to answer questions on Stack Overflow: There are many, many thoughts as to why people do anything, including giving free advice and information for what may seem to be no external incentive. 
+
+This way others online can see which side has greater numbers or is more likely to win (due to the impact of their arguments on the opposing force) and choose which side of the debate they'll take in real time. The tally increaſed, but my deſire was leﬅ wanting. Note: I'm speaking of the All time list, although it might profitably be applied to any long term list. Applying it to the short term lists needs to be carefully considered, as we want new users who are trying to get onto one of the league pages to be able to see their progress, even when they've only received a few votes. It shouldn't matter for the long term lists. 
+
+We've all seen, and most have participated in, more than one open/close war. Things are said. Feelings are hurt. It's very personal for many of us, and yet so impersonal due to the lack of face time with your accusers. 
+
+Unable to contain my enthuſiaſm for the anticipated prancing, I haﬅily incremented the doſſier tally, and pauſed as the machine performed its duty. 
+
+If we do not delete questions which are inappropriate for this site then people will understand that such questions still result in answers and reputation, and they will ask them more frequently than they already do. This will drop the signal to noise ratios, and the site would lose it's laser sharp focus. Experts would get fed up with the low signal to noise ratio and leave. That may seem like a lot of Hamsters, but you have to realize that Stack Exchange is handling 95 million page hits per month - so each hamster is powering 41 page hits a day. Even though Google employs more pigeons, I suspect that Stack Exchange is more efficient on an animals-per-page-served basis. There may be implementation details to be worked out, but I think the idea is generally sound and wanted to open a discussion before officially making a feature request. So, excluding HVAC power, lights, infrastructure, and other overhead costs, Stack Exchange must be running at least 76,000 hamsters. 
+
+I do comprehend the limited reſources with which you are permitted to perform your duties, however this particular tranſportable computing mechaniſm is not uncommon, indeed is has captured a ſigniﬁcant public intereﬅ, and there are many, like myſelf, who conceal one on our perſons both day and night. 
+
+Hamsters have a MTBF of about 20 months which means that they have to replace about 125 hamsters per day - about one every twelve minutes. This system, unlike feeding and cage cleaning, is not automated, so they probably have two or more hamster technicians on 24/7 call to handle this and a few other relevant duties. 
+
+I'd rather see 50+ people go into the primary with 3k or 7k and above reputations and go through the list, upvoting those in the primary that seem reasonable, than see people who would be great moderators drop off the list because they only have a measly 10k rep.

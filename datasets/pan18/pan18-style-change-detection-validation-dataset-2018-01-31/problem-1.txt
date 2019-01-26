@@ -1,0 +1,43 @@
+Those are just speculation though. Ultimately, you won't know the root cause unless you all sit down and discuss it. 
+
+Another point of knowledge transfer is 'Scrum of Scrums' which a member of each team attends once a week. The intent is to keep other teams appraised of who is working on what to avoid conflicts/dependencies. It's not as effective as it perhaps should be, something we need to look at. 
+
+To give the PO an idea of what we would complete in that sprint, so he could communicate progress to other parties. To give the team an opportunity to confirm the intent of a story with the PO and discuss any unclear acceptance criteria. To check that, given what we have learnt since we originally estimated a story, the points given to it still sounded right and re-estimate if needed. Secondly, we decided that estimation (which we did in a separate session) is valuable for us, again for three reasons: 
+
+Teams also invite members of other teams to showcases etc. 
+
+You don't need to be a registered education provider to offer training (in the UK at least). 
+
+Cycle time as a metric - Rather than measuring velocity, we just measure how long it takes for the average story to be completed. Monitoring this over time helps us identify when our story size/complexity is creeping up and also gives the PO scheduling information (if I have 5 things I want done and cycle time is 4 days, I should have them all in 20 days time). This replaces point 1. 
+
+I would say, in order of priority, you should consider the following steps, if you are not doing so already: 
+
+Write Scrum style user stories: 
+
+Good luck with your transition! Feel free to come back and ask additional questions here on PMSE. 
+
+In Agile/Scrum teams, the concept of a self-organizing team and the notion that "the team owns all the stories, individuals don’t" is turning out to be difficult to communicate. I have seen lots of articles and many pages of text explaining this. 
+
+From the original 1986 article by Takeuchi and Nonaka that introduced the term "Scrum": 
+
+Here are a few quotes from Mike Cohn's presentation on Leading a Self-Organizing Team: 
+
+Whoever is testing it, should do it within the iteration: 
+
+It is not clear why you tagged it Scrum. Please refer to the Scrum Guide. 
+
+Do you account for holidays? For example, if you run 2-week sprints, you may have one sprint with 2 holidays which is 20% less duration than a normal 10-workday sprint. Also, if some people are on vacation, you will have less capacity. May be you want to adjust your sprints for 10 working days, instead? 
+
+Since this is a PM forum, I think this is an easy answer. The answer is zero. A customer should not have to pay for one hour of learning. People will learn as a side effect of doing the work but every hour they work needs to provide value to the project, not the other way around. The only caveat to that is training within that specific project context, i.e., training to handle project-specific processes and procedures, rules, specific tool sets, etc. Otherwise, those people on the project need to be ready to go if they are charging for those hours. If a seller of work needs to train their people, they can put them on a project but those hours worked do not get billed. 
+
+In this example, you can see Macro Area D beat G and F despite a lower user score because of the lower work estimate. H beat C because of a very low work estimate and C had a very high work estimate. Works pretty good. 
+
+Like a teaching hospital. A patient or his insurance company will not get billed for the fifteen physicians doing rounds. 
+
+So using "D" as an example, my formula was (7/41)/(2/32)*100 = 273. 
+
+The take-a-way of knowing about Hawthorne, bias, and stochastic observations is about knowing how to apply a healthy skeptism of what you are observing. In other words, stick to the null hypothesis until proven otherwise. If you make a change and you observe some favorable results, the finding you walk away with is, 'this seemed to cause that,' not 'this caused that.' 
+
+EDIT: This applies to in-house, too. In-house project workers are building something for an in-house customer. In-house projects cost money, too. Any training taking place, whether it is a buyer-seller situation or in-house, it is NOT part of the project but part of the overhead, including the seller's overhead. 
+
+"Benefits" is very subjective. The answers provided here will likely be more of opinion, just like my answer above. Your final decision is really going to be based on what you are seeing in your domain in your geographical area. If you choose to get it, your cost is time to study, maybe a training class, and the cost of the test. It won't make you less valuable in the market place so I think if you can afford those costs the question becomes: why not?

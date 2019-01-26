@@ -1,0 +1,25 @@
+You see, the inside/outside correspondence I put forward toward the start of this answer secretly depends on the ants in question already having a left and right of their own that they bring to the table, so to speak. 
+
+Is this sort of framing of the Copernican principle de riguer? Has it been expounded before? Is it even consistent? 
+
+Now this is only superficially satifying, as it rather leaves one wondering about how one defines 'clockwise'. In fact the two are tied up together- defining one will automatically give one a definition of the other, and sadly each is to all extents mathematically arbitrary (barring the aspect in which our mathematics emulates our physical world cf. the end of JDH's answer). 
+
+The so-called 'Copernican revolution' of declaring the mind as bringing objecthood and properties to objects, rather than their perception bringing those properties to mind, strikes me in its implication as rather similar to the concept of language as a series of language games. 
+
+This could be said to correspond, at least in two dimensional cases like the sphere (although it does extend naturally) to whether one chooses the inside or outside of the surface to walk around. Imagine two ants walking between two given points (close enough there is an obvious shortest route) on a soccer ball, one on the outside, the other trapped inside- at each point 'outside ant's' right is 'inside ant's' left and vice versa. (incidentally, this gives a nice way of thinking about non-orientable surfaces as surfaces having only one side) 
+
+The premiss on which the argument rests is that a continuous change in the arrangement of a situation cannot produce a discontinuous change in the dynamics of these arrangement (change an arrangement a little and the dynamics should change a little). If an extensive quantity is involved in movement then the principle fails: there'd be a discontinuity between the dynamics of two spheres with an infinitely small gap and two connected spheres, which seems absurd. 
+
+Perhaps the closest to an insincerity objection I can think of is the charge that Quine claimed that even logic is revisable, and was at the same time among the most conservative about first order logic against alternative logics. I heard this objection quite often informally. It amounts to suggest that Quine was not really sincere when he said that he thought logic to be revisable. However Quine argued that logic is so central to our conceptual schemes that the evidence needed to revise it would be tremendous, so again, all this merely shows that being willing to revise a belief if an alternative turns out to be better (however unlikely the prospects) is different from being sceptical outright, and that it is not even incompatible with holding the belief very firmly (if the prospects of revision are very unlikely). 
+
+This is really an interesting, open philosophical question. On the one hand, convincing is an important part of proving, yet we have logico-mathematical theories of deduction that set standards of proof, and one could thing that respecting these standards should be sufficient. The question is particularly salient when it comes to computers assisted proofs: should we trust them when noone really understand them? 
+
+Galileo's argument shows that the magnitude which determines the speed of free fall must be intensive, not extensive. 
+
+Note that some of the physicists who elaborate quantum theory participate to the Vienna circle (logical positivist philosophy group) which was more or less influenced by neo-kantian philosophy. Logical empiricist's attempts to reduce theoretical knowledge to an observation vocabulary (phenomenism, operationalism) is clearly anti-realist. 
+
+I'm not very sure this is always the case. Take the explanation for why a house burnt: it was made out of inflammable materials and there was a spark. These are not constituents of the fire. Or take the evolutionary explanation of why giraffes have a long neck. This involves environmental selection, which are not part of the giraffes'neck. It's even more easy to find non reductionist explanations outside of science (involving, say, God). 
+
+Note that I can think of a third way in your example: remaining agnostic regarding the right explanation. 
+
+In the case of charges, the relevant magnitude is charge per mass unit. Same in the case of cross sections: it is cross-section per mass unit. These magnitudes are intensive. When attaching two objects, you double the resistance of the air, but you also double inertial mass, so the two objects will not fall slowlier or faster than each separately (contrarily to what you are saying). Galileo's argument remains valid in this case. Idem in the case of charges attracted by a magnet: two charges won't be attracted faster when tied together, because inertial mass adds up as well as charge.

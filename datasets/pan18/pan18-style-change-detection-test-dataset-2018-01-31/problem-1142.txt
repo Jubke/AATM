@@ -1,0 +1,19 @@
+Casus rectus and Casus obliquus are calques on πτῶσις ὀρθή (“upright fall”) and πτῶσις πλαγία (“sideways fall”) respectively. It has been suggested that these were originally technical terms in a game of dice. 
+
+"Rare languages" is not a term that is used by linguists, and it does not have any real meaning. It is a phrase that is often used by the writers of newspaper headlines, presumably because it is shorter than "endangered languages", in the same way that they like to write "poll" when they mean "election". "Top Five Rarest Languages", if it means anything, should mean the five languages with the smallest number of speakers. 
+
+References here: http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.66:2:87.LSJ 
+
+Our English grammatical terminology is taken from Latin, where in turn it is calqued on Greek. Noun = nomen = onoma literally means “name”; the idea is that a noun is the name of a particular person or thing. A verb is not a “name”, but merely a “word” = verbum = rhēma that is predicated to a name/noun. Sometimes the Greeks used rhēma also in a broader sense to mean a predicate adjective. 
+
+Optionally, to avoid stranding the preposition by moving the relative pronoun as part of normal relative clause formation, the entire prepositional phrase (with the relative pronoun as the object) may appear. 
+
+Fillmore's linguistic work on Deixis, for instance, is clearly ontology, as is his concept of Frame, programmed as Framenet. 
+
+It's also an example of Extraposition from NP, since the pied-piped relative clause without which you can't finish the report has been moved from a position following book, which it modifies, to one following the VP did you return, at the end of the sentence. Nothing much. The distinction is a more or less artificial one. Everything else is supplied by the multiple inflections or derivations, rather than by auxiliaries and articles, prepositions and particles, like English. Well, this is not helpful, since you constantly have to be trying to scry out the mental calculations of various speakers in various situations to tell whether you're studying semantics or pragmatics. This is especially troublesome when semantics gets mixed up with logic -- which is rather like confusing speech with writing, since logic is just a written representation for natural semantics. 
+
+And I agree with Jim. There's no reason to believe that humans consistently distinguish one kind of information from another, and in fact plenty of reasons to believe they differ greatly in what they take for granted; so the null hypothesis has to be that there is no clear, definitive difference, though certainly there are exemplary cases of one or the other. Or, as I like to put it, Ontology Recapitulates Physiology. 
+
+And why we use body-part metaphors so often. Protagoras got it right: 
+
+Word is a popular term, which means that everybody has their own idea about what it means, aided or hobbled by whatever education they may have encountered that claimed to deal with language or languages. That varies quite a lot.

@@ -1,0 +1,33 @@
+The problem historically is that there are very few defenses of the existence of "gods" which do not fall in a camp such as these. Because scientists best respect those ideas which are clearly-presented, which have interesting and meaningful consequences, and which do not require the overturning of the tools which they find provide them with reliable results, it is often said that it is "scientific" to reject the existence of gods. It would be much more accurate to say that it is scientific to reject all of the most common arguments for gods, and that if there are any truly good arguments for gods, that they are not very well known even to skeptical people who take an interest in the subject. 
+
+You can decide that you aren't convinced that any theory of the world which requires a deity is correct. 
+
+So the only way to assess whether or not zero is "equal to" infinity in some physical theory is to see whether the two concepts are effectively the same in that theory, at least for the main quantities of interest. For the physical theories that I know of, the answer is a resounding no. This does not mean that there could not be another, very useful theory in which some quantity such as mass or time somehow might be meaningfully interpreted in such a way that zero equals infinity, but that will be a question of that model of physics, and not of reality itself. In the end, zero and infinity are the names of ideas, of metaphors that we use to grasp the world — they are the map and not the territory. 
+
+But does it? Consider the number of philosophers who say science is not everything - or even those of the Frankfurt school, who saw scientific thinking as having been harmful in many ways to humanity. 
+
+As wolf-revo-cats points out, your question is so broad as to encompass the entire fields of epistemology and philosophy of science. 
+
+See among other things, Logical Positivism and why many considered it to have failed, Quine's Holism, non-overlapping magisteria, and Pragmatism (as Philip Klöcking ♦ said: Dewey and others). 
+
+I understand the concept of how all observations are theory laden and how it works as a critique of the positivist program. From this link: 
+
+In the case of incompatibilsim: freewill is a metaphysical concept, and agency implies freewill, but it is not the same thing as freewill. 
+
+My questions are the following: 
+
+How exactly is Lakatos's description of science different from Kuhn's? How is his concept of a hard core of assumptions different than Kuhn's paradigm? What is common between Lakatos's view and Popper's view (as far as I can see there's no overlap) that makes Lakatos's approach a middle ground between Popper and Kuhn? 
+
+How would it be possible for such a person to distinguish scientific facts from religious dogma? How can we convince such a person of the validity of ideas like those of modern cosmology or evolutionary biology, without first having to teach them enough biology and physics to understand those concepts? 
+
+The matter is that we mistake the map for the territory. "Mechanism" is our explanatory tool for what things happen and why, and as with the exotic universe I describe above, we are only ever right to the precision we can see because nature is too lazy to be constantly adversarial. That is our good luck, but also it is an intuition which may turn false at any moment. But even 'subjectifying' it by calling it 'nature' presumes too much. Things merely happen, and we seek the pattern. 
+
+The point of the analogies above is to give some idea of the range of possibilities (and there are likely more possibilities than those I have mentioned above) for how the physical world may be like. If you accept the analogy, then you may try to consider your question by considering giving several numerically gifted thirteen-year-olds a single digit string 0.x1x2x3... , and asking yourself: under what conditions are they likely to arrive at the same expression or approximation for the number x which it represents? 
+
+If x is a 'quadratic' irrational number, that is a solution to a polynomial ax2 + bx + c = 0 for some integers a, b, and c such that b2 − 4ac is positive but not a perfect square, then you will never arrive at a final rational approximation (because x is irrational). But if you were to use continued fractions to try to obtain a rational approximation, you would notice that the continued fraction representation eventually starts repeating. If you recognised the pattern, you could arrive at an exact representation of the irrational number — again, without ever knowing for certain that it was correct, but if you did find it you would never need to correct it. 
+
+Following the Buddha's advice (ironically himself a religious figure), such a rational but uneducated person would have just as much reason to doubt the various results of scientists as to doubt the dogmas of organized religion. 
+
+The position is a form of anti-realism: Anti-realism states that there is no objective reality independent of our sense data (so a strong form of empiricism), the only thing we can know is our own observations. Anti-realism is a broad position which can be applied to science, math, metaphysics, etc..When applying it to science, it means that things such as waves, atoms and sub-atomic particles, genes, etc don't exist other than convenient ways to helps predict our sense data. To some extent, the logical positivists were anti-realists. 
+
+In the rest of the chapter he continues developing his 'science is not special and is driven by social and historical factors' viewpoint. At one point he seems almost contradictory, when he describes how Japan went from being a weak nation to being a strong nation by adopting the scientific worldview, but still maintaining that science is special only to scientists, and not to society as a whole. He states

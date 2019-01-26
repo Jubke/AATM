@@ -1,0 +1,31 @@
+Whether they have overtime, shootouts, or draws, I'm just interested in how often they complete regulation 0-0 (though statistics on how often extended time also ends 0-0 aren't discouraged). 
+
+Watching golf today, the commentators were emphasizing that finishing with a good 18th hole was critical towards the next day's play. Got me wondering if there's any statistical evidence of that? Whether it's a basketball player finishing with good points, a golfer finishing with birdie(s), a batter finishing with a hit (or pitcher with a strikeout), whatever... is there any data to show what happens? 
+
+Went manually through the history of two major tournaments, the World Cup (main tournament only) and the European Championship (through round of 16 games in 2016). It's probably reasonably fair to call these the two predominant national team cups to use extra time (Copa America has apparently typically gone straight to penalties except in the final?). Wikipedia was used as the source. While not the cleanest source, I've found it to be fairly reliable on such data, and the format facilitates looking through it quite well. 
+
+Additionally, 71 goals have been scored in those extra time games, 0.87 goals per extra time on average. 
+
+(There were plenty of cries about the remote possibility of a coin toss in the World Cup group stages a couple years ago. And likewise when it is used to choose the home team for the rare single game MLB playoff qualifier. But to choose who advances to the final?!? And they call PKs a coin toss! Also happened to notice... it just happened in the 2015 African Cup... where the second team to move on from Group D, after tying across the board, was indeed decided in this strange drawing of lots.) 
+
+However, counting games from the short with the golden goal policy (where the game would be automatically over when a team scored the first extra time goal, rather than finishing 120 minutes as is typical), is perhaps troubled (since it still could've still reverted to PKs with an opposing goal)... so a further breakdown: 
+
+Have been watching hockey a bit more recently and tonight's game didn't have a lot of scoring early on. That got me wondering how often the dreaded 0-0 scoreline comes up in different sports (defensive struggles aren't so bad, but I've certainly heard disparaging nicknames for them!). 
+
+In those two tournaments, out of 82 matchups to go to extra time, 38 (46%) were decided in extra time. 
+
+A dropoff, but not a great one, especially considering these are the equally matched (weeds out badly matched blowouts). And to reapply back to your initial question, in those past (almost) two decades, 17 of the 40 extra time games (43%) were decided in ET. Though the sample size isn't amazing, and we also haven't looked at other competition levels, such as other national team tournaments, domestic team cups, or continental club competitions... it seems rather reasonable to at least estimate between about 30-60% of extra time matches are decided in the extra time period. 
+
+Among those... the past two World Cup finals. 
+
+I could also imagine a player coming off a previous roll to end a round/game/match... coming back and having a letdown snowball because an early stumble feels worse given the heavier euphoria coming into the day. 
+
+Certainly surprising to me to see such parity between the two possibilities. 
+
+And to make sure it's not biased by older games, or that trends look to be changing: 
+
+Specifically, I am thinking of soccer, hockey, baseball, and (American) football as the four team sports where 0-0 seems fairly feasible. I suppose there are a few others like lacrosse and water polo. 
+
+Seems like a lot of these sports clichéd beliefs end up being hard to quantify or blatantly disproven, but wonder if this one is any different? 
+
+I verified what Ben said using a database (http://webscraping.com/data/default/database/54/winter-olympic-medal-count and then cross-referencing the events at http://www.sports-reference.com/olympics/winter/) and his recent answers are correct. Before the Dutch multisweep listed, the last multisweeps by one country were: Germany in 84 (speed skating & luge) USSR in 64 (skiing and speed skating) Norway in 32 (nordic and ski jumping) Norway in 28 (nordic and cross country ski) Norway in 24 (nordic and cross country... same 3 guys in both) So it dates back to at least 1932 for two sweep by one country in related sports , and I'm not sure even those are truly considered the same discipline. So while sweeps and even double sweeps happen... this is the most dominating a team has been at a certain skill in at least the modern era.

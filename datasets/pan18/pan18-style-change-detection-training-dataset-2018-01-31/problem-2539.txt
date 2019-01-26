@@ -1,0 +1,25 @@
+"Rare languages" is not a term that is used by linguists, and it does not have any real meaning. It is a phrase that is often used by the writers of newspaper headlines, presumably because it is shorter than "endangered languages", in the same way that they like to write "poll" when they mean "election". "Top Five Rarest Languages", if it means anything, should mean the five languages with the smallest number of speakers. Casus rectus and Casus obliquus are calques on πτῶσις ὀρθή (“upright fall”) and πτῶσις πλαγία (“sideways fall”) respectively. It has been suggested that these were originally technical terms in a game of dice. 
+
+References here: http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.66:2:87.LSJ Our English grammatical terminology is taken from Latin, where in turn it is calqued on Greek. Noun = nomen = onoma literally means “name”; the idea is that a noun is the name of a particular person or thing. A verb is not a “name”, but merely a “word” = verbum = rhēma that is predicated to a name/noun. Sometimes the Greeks used rhēma also in a broader sense to mean a predicate adjective. 
+
+I don't know what a lexeme is, but if you can construct examples where one form is used as grammatical antecedent for pronominalizing or deleting another, this could show they are the same in some respect. For instance, in "She was swimming, it looked like fun, and so I decided to, also", "swimming" licenses the deletion of "swim". In Stampe's natural phonology, the admissible forms are those to which no process which could apply to an underlying form is applicable, and foreign words are made admissible during borrowing by applying such applicable processes. Processes which are prevented from applying directly to underlying forms by ordering constraints do not affect admissibility. 
+
+For instance, in casual speech English pronunciation, commonly the alveolar stops assimilate regressively in place of articulation to following stops, and this happens to [n] as well as [t,d] and before [m,n] as well as before [p,t,k,b,d,g], though fricatives and liquids neither trigger nor undergo the change. However, I'll suggest to you that it doesn't matter, from a scientific perspective. Scientific theories are generally taken to define their own subject matter. If quantum mechanics is found to provide an explanation of the origin of galaxies, no one will object that galaxies are the proper domain of astronomy and not of physics. The explanation comes first. 
+
+An apple, on the other hand, can be described as "the round firm fruit, typically having crisp white flesh and green, yellow, or red skin" (from OED). All apples share certain properties (round, firm, fruit, having skin etc.). 
+
+It is also the most usual term in language acquisition studies (see curiousdannii's post above with a quote from Paul Nation). Thus, a segment is "any element, at any level of representation, which is described as forming sequences with others" (Matthews 2007). 
+
+He searched for his keys all morning. iterative As for function words that start with h, the following words get affected: had, has, have, he, her, herself, him, himself, his (Cruttenden 2014: 274). In their weak forms, they may all lose h. Thus, a single diphthong in English represents one phoneme. 
+
+To show how huge this terminological divide between Anglo-American linguists and the rest of the world is, in Granger and Meunier 2008 (23 papers, more than 400 pages), the term "set phrase" is used in two papers only (!), three or four occurrences only, the phraseological unit or phraseme being used much more frequently. 
+
+Incidentally, the level and scope of lexicographic research in Novyj objasnitel'nyj slovar' sinonimov russkogo iazyka (Apresjan et al. 2004, 2nd edition), compiled by Apresjan's research group, is unprecedented. Unfortunately, no dictionary of synonyms published in English, German, or French comes even closer to the comprehensiveness and detailedness of Apresjan et al. 2004. I thought the following two passages nicely summarize current thinking on the phoneme in phonology: The final draft is available here 
+
+Here are some most common ones - based on Granger and Paquot 2008. German gut 'good'- besser 'better' 
+
+For example, the dominant of the synonymic series "strong, stout, sturdy, stalwart, tough, tenacious" is strong. Iterative "signals that an action is repeated on a single occasion and differs from the habitual and frequentative, which both signal the repetition occurred on different occasions" (p. 160). Here are the two examples they use: 
+
+Dressler and Ladanyi 2000 argue there is a difference between a word-formation nest ("all synchronic and morphosemantically identifiable derivations from the same base") and a word family (both synchronic and diachronic derivations). The last three categories are also known as "composites," as opposed to formulae (i.e. pragmatically autonomous utterances). The meaning of the name, if any, does not (or not any longer) determine its denotation [semantic]. - see my examples above 
+
+I'd go with no.1 because you can find the following minimal pairs in English (RP):

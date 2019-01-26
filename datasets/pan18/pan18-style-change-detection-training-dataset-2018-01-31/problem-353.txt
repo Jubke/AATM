@@ -1,0 +1,27 @@
+In addition to saving the trouble of getting the pin back in there, there's also the question of the integrity of modern outer chain links once they've had a pin pushed back through, even in the more normal circumstance of pushing a link halfway out for chain removal. Every current major manufacturer of derailer chains except KMC says not to do this, due to the risk of the fit not being as tight after re-insertion as it's supposed to be. I've long wondered whether there's actually anything different about KMC in this regard, but I know that modern chains in general are prone to breaking, usually during hard or fumbled front shifts, when they've been reconnected the "traditional" way. I wouldn't venture to guess what the odds are of it happening, probably quite low, but putting in another MissingLink eliminates the risk. They're very trouble-free. Having a couple close together may seem goofy but doesn't cause any issues in practice. 
+
+Note that the expense level of your chain is a major factor here. It takes the same amount of time to clean a $13 basic 8-speed chain as it does an $60 Campy Record 11 chain, so clearly there's more economy in maximizing the service life of the latter. 
+
+From the look of the cranks/rings/guard the bike is a bike-boom era 10 or 12 speed (as in 2 front chainrings and either 5 or 6 rear cogs). If so, chains specific to such drivetrains, which are labelled 5/6 speed usually, are still made and available. You could order one, but many shops don't carry them, instead choosing to use more modern 8-speed chain for replacements on such bikes, which works perfectly. 
+
+Figure 1. Chain stretch plotted against duration over the course of the life of a single chain (Shimano XT). Left panel has been plotted on the linear scale, while x-axis on the right panel displayed in a log10 scale. Shading indicated 95% confidence band. Horizontal line indicates suggested replacement point for 10 speed chains. 
+
+All three product tiers have the same wear rate (slope), but it would seem that Shimano's strategy is to have the lower priced tiers have a worse starting point so that their life is shorter. If the lower tiers (e.g., Tiagra) had a tighter tolerance chain life would have been the same as the higher product tier, despite being constructed with "lower quality" materials as suggested by the marketing department. 
+
+Known Unknowns Right now I get good longevity in the dry, even better in the cold and dry (as the wax is harder), but I have no idea the longevity in the wet and muddy. I remember the Velonews test showed good friction performance (the paraffin keeps out mud) but I am not sure anyone looked at longevity (i.e., how long before re-waxing). 
+
+I have never personally had access to OEM (equipment purchased by bicycle manufacturers) so I cannot confirm whether or not this is how the chains come. Either way, the forum thread suggests assembling with these short pins can be difficult (other answers discuss how to do this). You may wish to purchase a connector pin as this is how Shimano intends home mechanics to assemble chains. 
+
+Question 1 In the right panel of Figure 1 (logarithmic), it is clear that there are two distinct wear rates/phases, a slower rate until a ride duration of roughly 40 hours, where a clear change in the pattern occurs. 
+
+Example of the debris removed from a new chain after the first solvent bath. 
+
+To remove mud or sand, use the bristle brush (which comes with every 120ml packing of KMC’s chain lube Pro), use light soapy warm water, if necessary. 
+
+Dry lubes tend to be better than wet lubes in this regard, but they'll both quickly get your legs dirty. But dry lubes are normally not considered to be good for wet riding. 
+
+You should periodically wash the chainrings/sprockets in a neutral detergent and then lubricate them again. In addition, cleaning the chain with neutral detergent and lubricating it can be an effective way of extending the useful life of the chainrings/sprockets and the chain. 
+
+This link explains how various common tools are inaccurate (including yours). Tools which are accurate are Shimano TL-CN40 and TL-CN41 and Pedro’s Chain Checker Plus. To quote Sheldon Brown on the reason why: 
+
+A better quality chain tool can help, or using calipers/a ruler as you are using. See this article from Zinn, for example -- essentially, you need to get an idea of the errors your tool makes, and you can be conservative with the replacement requirements (analogous to oil change intervals for cars; this can be a bit wasteful). Or, get a more accurate measurement (analogous to oil life meters in newer cars). It looks like he uses the Progold or Rohloff tools, which are inaccurate, but by getting an idea of the errors it makes, you can make a rough guess if you need to look closer for measurement, or just say screw it and replace the chain (even if its early)

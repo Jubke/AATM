@@ -1,0 +1,35 @@
+Markarth - Vlindrel Hall: 162 Books 
+
+Windhelm House has in fact 12 shelves, each capable of holding 11 books. There are four bookshelves (with 2 shelves each) and one taller bookshelve (with 4 shelves) with the total of 12 shelves, the house can hold 132 books. 
+
+Windhelm's Hjerim: By the stairs - 1 Bookshelf with 2 shelves (11+11), Secret Room - 1 Bookshelf with 2 shelves (11+11), Kitchen - 1 Bookshelf with 2 shelves (11+11), Armory - 1 Bookshelf with 2 shelves (11+11), Bedroom - 1 Bookshelf with 4 shelves (11+11+11+11). 
+
+If you are using PC you can use the console command setstage followed by the quest ID to "finish" any quest. UESP has the list of quests and inside each you can see its ID. To open the console command use the tilde-key (~), it sits before the "1" key and under the ESC-key. 
+
+Whiterun - Breezehome: 47 Books Alright, I own 4 houses in Skyrim, so here im listing the houses and its book space numbers (Only Interactive bookshelves). Luckily, there seems to be a possible fix for people who didn't want their items duplicated (such as yourself), described in this thread: It's worth mentioning that according to a user here, picking up one of the books again will cause you to be teleported back to Apocrypha, so be wary of that if you choose to put the Black Books somewhere other than your inventory. 
+
+Unfortunately, nothing on the page indicates whether or not this mod is compatible with Skyrim Special Edition. This appears to be a port of the original mod that works in the Special Edition, but it looks like it was combined with other mods. 
+
+This post is by someone who attempted to carry out the reverse transfer that you described. This is the error message that they received: 
+
+Also, this sort of goes without saying based on the nature of the books, but you most likely want to be completely done with the Dragonborn questline before removing these books from your inventory, or else you might break something. 
+
+Thus, it looks like you cannot transfer a Skyrim SE save to the original Skyrim. 
+
+Also, it wouldn't make sense for this to be the case, as this post claims: Additionally, Grandmaster Tealor Arantheal's wikia page says that he only has one child. 
+
+You may have been referring to the quest Destroy the Draugr in Angurvunde. If this is the case and you have indeed killed Medresi Dran, then the key required to progress the quest can be looted off of her corpse, which will then start the quest Discover the Treasure of Angarvunde. If you don't want to use a mod, it looks like you could also use console commands to remove them from your inventory (as well as add them to a container). The relevant console commands would be: When [the Player and Narathzul] try to kill Tyr and Irlanda it is revealed that Narathzul is actually the son of Irlanda and Tealor. There's a mod specifically designed to remove the Black Books from your inventory, which you can find here, though I do not know whether you can use this mod on the special edition or not. (As an aside, according to the page for the mod, this mod has caused 0 computers to blow up, so that's a good sign it won't break your game.) 
+
+Since there is no in-game method to obtain two of the same type of dragon priest mask in a single game, this is definitely a glitch. 
+
+tl;dr: She's supposed to die no matter what, so killing her prematurely shouldn't hinder you in any way. She doesn't need to be alive to complete her related quests. 
+
+Riften's Honeyside: Bedroom - 1 Bookshelf with 2 shelves (18+18), Basement - 1 Bookshelf with 2 shelves (18+18). 
+
+Alright, I own 4 houses in Skyrim, so here im listing the houses and its book space numbers (Only Interactive bookshelves). I just bought that house in order to get the Windhelm Home Decorating Guide book. Markarth's Vlindrel Hall: In front of Alchemy Lab - 3 Bookshelves with 3 shelves each (18+18+18 + 18+18+18 + 18+18+18). 
+
+Solitude - Proudspire Manor: 132 Books 
+
+Windhelm House has in fact 12 shelves, each capable of holding 11 books. There are four bookshelves (with 2 shelves each) and one taller bookshelve (with 4 shelves) with the total of 12 shelves, the house can hold 132 books. Windhelm's Hjerim: By the stairs - 1 Bookshelf with 2 shelves (11+11), Secret Room - 1 Bookshelf with 2 shelves (11+11), Kitchen - 1 Bookshelf with 2 shelves (11+11), Armory - 1 Bookshelf with 2 shelves (11+11), Bedroom - 1 Bookshelf with 4 shelves (11+11+11+11). 
+
+If you are using PC you can use the console command setstage followed by the quest ID to "finish" any quest. UESP has the list of quests and inside each you can see its ID. To open the console command use the tilde-key (~), it sits before the "1" key and under the ESC-key.

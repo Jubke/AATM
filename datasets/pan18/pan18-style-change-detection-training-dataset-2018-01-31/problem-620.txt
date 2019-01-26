@@ -1,0 +1,25 @@
+You will need to know the number of players you will have, your starting blind level and stack size, and your desired tournament length. Generally, you will not want to start with deep stacks for a short tournament. The final blind level can be calculated by dividing the total chips in play by 10. Finally, you will need to determine how long you want levels to last - longer levels will require bigger increases in blinds at each level. 
+
+When the person that will be the small blind busts out, the button stays where it was, and the 2 people to the button's left each pay big blinds. On the next hand, those 2 players each pay a small blind, and the person to their left pays a big blind. This results in a standard small and big blind, plus the button paying a small blind. On the next hand, normal blinds resume. 
+
+Generally, as stacks get shallower, cards matter more. As stacks get deeper, game dynamics and player tendencies matter more. 
+
+I call. 
+Board: Ts 6s 3h Qs
+Dead:  
+
+         equity   win     tie     pots won  pots tied   
+Hand 0:  64.352%  62.88%  01.47%  747       17.50     { KdKs }
+Hand 1:  35.648%  34.18%  01.47%  406       17.50     { JJ+, AQs+, AKo } 
+
+https://en.wikipedia.org/wiki/Poker_probability 
+
+In a non all-in showdown, if cards are not spontaneously tabled, the TD may enforce an order of show. The last aggressive player on the final betting round (final street) must table first. If there was no bet on the final street, then the player who would be first to act in a betting round must table first (i.e. first seat left of the button in flop games, high hand showing in stud, low hand showing in razz, etc.). Except where house policy requires a hand to be tabled during the order of show, a player may elect to muck his hand face down. 
+
+If you know that the other players aren't getting any aces but you are, then I recommend you tip your dealer. 
+
+If everyone is folding to your raises more often than they should, raise more hands. This is particularly true if you have tighter players on your left and action is folded to you. You can either steal blinds pre-flop or win post-flop with a single continuation bet many times when your opponent misses. 
+
+I would fold the turn. The opponent has called a raise, check-raised a flop, and bet again--that's showing quite a bit of strength and you have a mediocre hand. So the scenarios in which you win are either you're facing a bluff (or semibluff) or you're up against a better hand and you improve to beat it. If you are up against a better hand, your outs are pretty dubious. Hitting two pair, three of a kind, or even another heart on the river will still lose a decent portion of the time against his "good" range which is mostly a set, a flush, or maybe a pair of nines with better kicker (and maybe higher heart). 
+
+Even if a push is a better play in a chip EV perspective, it's not a lot better. In a cash game, the push would then still be the clear play. But with a tournament, the prospect of guaranteeing yourself a remaining stack might be worth the lost chip EV. In other words, the difference in value between having 13bb's and 0bb's is greater then the difference in lost chip value between calling and winning versus pushing and winning.

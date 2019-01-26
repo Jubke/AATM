@@ -1,0 +1,37 @@
+"Or, closer to home, consider the Axiom of Reducibility itself. This is supposed to hold for all functions, f. Russell's very statement of it (above) therefore violates the theory of orders." - How exactly does Russell's statement of Axioms of Reducibility violates the theory of orders? 
+
+Russell's solution founders on a much less technical but more fundamental problem. According to the theory, every variable must range over one order of propositional functions. No variable can therefore range over all propositional functions. For the same reason, no variable can range over all propositions. This pushes many claims beyond the limit of the expressible. Take, for example, the law of excluded middle: every proposition is either true or false . Since this has a quantifier over all propositions, it cannot be expressed. Or, closer to home, consider the Axiom of Reducibility itself. This is supposed to hold for all functions, f. Russell's very statement of it (above) therefore violates the theory of orders. Even decent statements of the VCP cannot be made without violating the VCP since they must say that for any function, f, any propositional function which 'involves' f cannot be an argument for f. Such statements are impossible by Russell's own admission. 
+
+Russell was well aware of at least some of these difficulties. To solve them he formulated his theory of systematic ambiguity. This is most easily understood with respect to an example. Take the statement of the Axiom of Reducibility. According to Russell, this has to be understood (for fixed i) as indicating not a single proposition, but an infinitude of propositions: one for each order that f might be. Russell, himself, explains the point with respect to a similar example as follows): 
+
+Those non-classical logics which have been successful (fuzzy logic, modal logic, intuitionistic logic) are those that extend classical logic, as opposed to replacing it, or at least respect classical truth tables in the limiting case. 
+
+The real question, is how much of these pattern recognition processes are innate and how much are acquired? That’s where Kant comes in, and where I am no longer qualified to discuss the topic. 
+
+The mechanism he describes for consciousness and self perception is based purely on formal logic. There is no reason why this ability should be limited to biological brains. In chapter 17, he states that any symbol system isomorphic to the brain's higher symbolic levels should be able to implement (strong) AI. 
+
+There are many resource, but a good informal one which accessible to mathematicians and non-mathematicians alike is Douglas Hofstadter's "I am a Strange Loop" Chapter 10 - Gödel's Quintessential Strange Loop. 
+
+By the same logic, any dynamic system capable of processing symbols and complex enough to be able to refer to itself (i.e capable of representing and processing formal logic sentences up to and including Gödel sentences) can eventually develop self perception and consciousness. 
+
+I would dispute that in the example you gave, Paul is doing any form of aggregating or dimensionality reduction. While many factors influence his wellbeing (money, sex life, world peace,…), his wellbeing itself is a simple fact, and when replying to Lisa he is directly answering the question about that simple fact, not summing up the totality of facts that led to it. 
+
+"For, however we express it, what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f', ranging over all functions." - I am not so sure that "what we are supposed to understand by a systematically ambiguous formula, such as the formal statement of the Axiom of Reducibility above, is exactly what would be obtained by prefixing the formula with a universal quantifier '∀f" (in fact this doubt was partly responsible for my asking the first question). Indeed, to me Russell's suggestion sounds similar (see the quote) to that of Conifold's remark that I mentioned earlier. Am I missing something important and/or subtle here? 
+
+What are the objections to Hilbert's version of Formalism other than the two mentioned above? 
+
+For example, in philosophical arguments the method of reasoning is not always formal and I think that it is more natural to use this kind of reasoning method. Surprisingly enough when we discuss the proofs, we in fact use this kind of informal reasoning but still our professors insist on being able to write formal proofs. 
+
+Finally, again to rub it in, note that one can express the quantifier 'for every propositional function' as 'for every n and every propositional function of order n'. (And thus systematic ambiguity is often taken to be expressed by schematic uses of order-subscripts when these are made explicit.) Hence the very first sentence of Russell's own explanation of the principle of systematic ambiguity, quoted above, violates the VCP, since it talks of all propositional functions (of a). Moreover, this statement cannot be understood in terms of systematic ambiguity since this universal quantifier does not have the whole of the rest of the statement in its scope. 
+
+An order relation based definition of God is the basis for the ontological argument: 
+
+Hilary Putnam discussed this in depth in his paper "Is Logic Empirical?", later republished as "The Logic of Quantum Mechanics.". In it he argued that, just as empirical physical results - relativity - forced us to abandon Euclidean geometry, so it is possible that the results of quantum mechanics will force us to abandon classical logic. 
+
+Those non-classical logics which have been successful (fuzzy logic, modal logic, intuitionistic logic) are those that extend classical logic, as opposed to replacing it, or at least respect classical truth tables in the limiting case. 
+
+By the same logic, any dynamic system capable of processing symbols and complex enough to be able to refer to itself (i.e capable of representing and processing formal logic sentences up to and including Gödel sentences) can eventually develop self perception and consciousness. 
+
+To compliment Conifold's answer, here's another way to look at it: Statements about number theory always end up being statements in number theory as well. Take any number theoretical theorem and replace the symbols with numbers using a suitable encoding, and you end up with an equation. 
+
+I would dispute that in the example you gave, Paul is doing any form of aggregating or dimensionality reduction. While many factors influence his wellbeing (money, sex life, world peace,…), his wellbeing itself is a simple fact, and when replying to Lisa he is directly answering the question about that simple fact, not summing up the totality of facts that led to it.

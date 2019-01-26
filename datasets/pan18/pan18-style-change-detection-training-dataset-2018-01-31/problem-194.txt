@@ -1,0 +1,15 @@
+What you might want to do is contact customer support for the game, usually there's a phone number, email address, or website in the paper manual that came with the disc. If it was defective when you opened it, and you can't return it to the store, they might be willing to exchange your copy somehow. Since you live in a different area than where you purchased it, they might give you a hard time, but it's at least worth a shot. You'll want to keep your receipt and all the packaging, as sometimes they'll want you to prove you bought it by mailing it to them, or sending them scans or pictures of some part of it. 
+
+You may want to look at alternate resolutions that match the aspect ratio of your display panel. It's probably 16:9 or 16:10. You may have tried other resolutions that don't match the ratio of your panel, which would explain the unused regions. 
+
+With one of these devices, you simply plug the device into your laptop's USB port, and then plug the Wii's video and audio output jacks into the device. It should come with software that allows you to view the output on your screen and record it to your laptop's hard drive if you so choose. 
+
+Once installed from the disc to the hard drive, the Xbox only uses the disc at startup in order to verify that the correct disc is in the drive. Past that point, it won't read the disc again (typically). I'm a little surprised that the installation passed the bad area of the disc, but the game doesn't. 
+
+The best idea is to use the native resolution given in your laptop's specifications, but trying one from each list will at least identify your panel as 16:10 or 16:9. 
+
+It's going to depend on what inputs the TV has. Most TVs still have coaxial input (ie, the kind that screws on). The TV must be on the right input and tuned to the right channel. Typically this is "TV" or "Coax" input, and channel 3. It may vary depending on your TV. Sometimes pushing the "Channel Up" or "Channel Down" buttons on the remote will switch it to this input. 
+
+I've never seen a laptop with native video input support (and I used to work for a major laptop manufacturer, so I've seen quite a few). They generally have video output ports which are typically VGA and/or HDMI for output to an external monitor or projector. 
+
+If that doesn't work, as a last resort you might want to take the disc somewhere locally that sells or rents used discs (DVDs or video games) as they generally have resurfacing machines that you can use for a nominal cost. Doing this may or may not make any improvement in the status of the disc, but it's still worth a shot if you run out of options.

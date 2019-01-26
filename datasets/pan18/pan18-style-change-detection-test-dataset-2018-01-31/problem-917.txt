@@ -1,0 +1,63 @@
+His theory does include some interesting threads to tug on. In CUH (his Computable Universe Hypothesis), he argues that the entire world is computable. Non-deciable things, such as the issue with band gaps being non-decidable are resolved by stating that only the description of things must be computable, not the actual time evolution of it. This implies that he considers reality and the description of reality to be one and the same. He also readily admits that this means that our universe can contain questions which cannot be answered within the universe. Whether this is acceptable in one's ontology or not is one's own business. However, it does give insight into how he would view things. If something in reality existed which was not fully made from a mathematical structure, he would be able to treat it as though it is something which can be described using mathematics but which is not decidable. You would be unable to come up with a logical process to disprove his claim, because his claim is that one cannot prove nor disprove his claim within this universe. 
+
+Also, paradoxically, you wouldn't be able to point our that non-mathematical real thing either. If you could successfully point it out to him in terms he would recognize as identifying an object, you would have to do so in a formal language (he would not accept anything else). By doing so, you provide a mathematical description for the thing (you used a formal language to do it), and he would be able to stand on his claim that it is merely an undecidable time-evolution, literally until the end of time. 
+
+This example corresponds to an interesting phenomena called "adversarial" images that confuse neural networks but not humans: 
+
+Suppose a machine learns to classify objects as either capable of thinking or not capable of thinking. Trained in the 80s and presented with the image of another computer it classifies it as not-capable of thinking. Trained again in the year 2100 and presented with the image of another computer it now classifies it as capable of thinking. 
+
+Consider for example the problem of free will - one can imagine two philosophers who hold opposing views on free will, and who for many years reject each other's view using reductio ad absurdum; is that not absurd? 
+
+It seems to me that if nature is absurd, then using reductio ad absurdum in metaphysics or philosophy of mind may be wrong and misleading - but nevertheless, philosophers continue to use it - maybe as someone who is stumbling through the dark and refuses to throw away a flashlight that ran out of batteries. 
+
+Philosophers often use reductio ad absurdum in metaphysics and philosophy of mind to make a point, to justify their position, or a thought experiment, or to reject a position or theory they do not like, but what is the point in all that if nature itself is absurd? 
+
+3) It increases your chance of actually doing some work; see Feynman's joke on philosophers. 
+
+I love the question and the answers by @Conifold and @Not_Here. 
+
+Could a philosophical zombie conclude "cogito ergo sum"? 
+
+Or would it be more justified in responding "I am not sure"? 
+
+I recommend two books that forcefully present two sides of this debate: 
+
+In particular, I mean a behavioral zombie that is behaviorally indistinguishable from a human, regardless of its internal machinery. 
+
+Suppose a machine learns to classify images as representing trees or not-trees. It has learnt a function, say even a sharp boundary. But in what sense is that a definition of a thing? 
+
+Suppose you go to your village Shaman and tell him "oh master, I have seen a person sitting in the air as it were, levitating. how is this possible?" 
+
+2) It increases your chance of an interesting chat with Socrates. 
+
+and then you tell him "oh master, this loop is really philosophically mind blowing — we are all sitting on each other's laps without any chairs, in the air as it were. but we are not levitating." 
+
+But, a zombie has no qualia, so...? 
+
+I guess it would probably insist there is no such thing as that silly thing philosophers call qualia, but that is OK since most of my good friends insist the same. 
+
+Kant, Immanuel: Metaphysical Foundations of Natural Science (German: Metaphysische Anfangsgründe der Naturwissenschaft) (1786) 
+
+Second law of mechanics. Every change in matter has an external cause. (Every motionless body remains at rest, and every moving body continues to move in the same direction at the same speed, unless an external cause compels it to change.) (A119) 
+
+Note. Aristotle does not attribute the list of ten to Alcmaeon of Kroton. He indicates that Alcmaeon used a similar organizing principle, but with quite different pairs. 
+
+Added: What are possible objections? 
+
+In particular, all meaning is in the brain because the world-model is in the brain. 
+
+Both laws are equivalent in propositional logic, which can be proved by inspecting their truth-tables. 
+
+Third mechanical law. In all communication of motion, action and reaction are always equal to one another. (A121) 
+
+Emotions are flexible (emotional conditioning): There is no fixed attachment which links a certain experience with a set of emotions. E.g., some people experience pleasure about a certain movie while others feel disappointment. 
+
+For both terms to think and to know philosophical definitions exists: 
+
+I do not see a difference between utility and extrinsic value. In particular your example concerning the extrinsic value of money shows, that money is useful to obtain a certain goal. 
+
+In modern terms the first question could be stated as the search for the origin of energy at start of the cosmic evolution? The second as the explanation of subjective feeling on the basis of its neurological substrate. In short: How to explain mental properties by the methods of neuroscience? 
+
+Hence an atheist would argue: The commandment is not justified by a deity named Jahwe, but it is justified as a means to a generally accepted goal. 
+
+You say: "PP is true to A' @ QE and the same PP need not be true to a' @ EQ". Here I prefer to refer to a subjective property of a proposition. This property is named certainty. Person A' is certain about the proposition PP, but person a' is not certain. Certainty is a two-place relation between a proposition and a person.

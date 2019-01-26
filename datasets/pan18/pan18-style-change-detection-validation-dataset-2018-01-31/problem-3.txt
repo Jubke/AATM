@@ -1,0 +1,53 @@
+I know teams which has their sprint length floating so that's not an issue to change sprint length over time. 
+
+Scrum doesn't really cover the strategic part of planning. In terms of building a vision and a general roadmap Scrum itself won't help you much. However, at this level planning doesn't really differ from what you know, or should know, from other methods. 
+
+I would also point that as long as you're going to choose your own way understanding how the work is done and how a team works is crucial. Otherwise you will be throwing out parts of this or that method without understanding why they were implemented in the first place, i.e. what the team was supposed to get thanks to them, thus what you should address with different bits and pieces. 
+
+You can also check Mike Cohn's book dedicated completely to this subject (thanks Jesse for the comment). 
+
+Anyway, for me this niche looks pretty crowded already and unless you have a good idea for differentiator - something which would make distinguishable from others and would the best of breed at least for some specific group of end-users (teams) - it doesn't sound like the best app you can build. 
+
+Some reference about the use of MoSCoW in agile: 
+
+However, this is just one of the available tools. There are other prioritization techniques which can be employed too. The goal is better prioritization of the product backlog. 
+
+PO has to prioritize the backlog (the what part) where as the team decides amount of work that can be delivered in each sprint (the how-much part). Similarly PO provides feedback on the sprint during sprint review meetings and decides to approve or reject the sprint which has been delivered by the team thus causing conflict of interest. 
+
+Here is what Roman Pichler has to say on Scrum Alliance, The product owner is required to: 
+
+Feedback items eventually become part of the product backlog by either revising or adding new items in the backlog. These have to be prioritized by the Product Owner before the team pulls them into a Sprint/Iteration Backlog. So to answer your question: 
+
+As per Scaled Agile Framework: 
+
+http://www.scrumalliance.org/community/articles/2008/february/the-case-of-the-time-tyrant 
+
+Every task that the team is going to perform should be documented and accounted for in each sprint. Whether it is a user story, bug, or technical debt, every item should be assigned appropriate points so that the team continues to monitor its proper velocity. Another advantage of this is that all the stakeholders know that is being done and why. 
+
+Some teams make use of a Hardening Sprint or Release Sprint. Schedule a hardening sprint before doing a release, here you can have your Undone Work (tasks left out from the ideal DoD) which can now be tracked as a regular sprint backlog. 
+
+Daily scrum is an important information radiator for the team. They have made a commitment to deliver agreed upon tasks during a time-boxed duration. Daily standup meetings help the team in tracking its progress with reference to their commitment. These meeting may or may not provide much value to other stakeholders and PO, which is why presence of PO is not mandatory in Scrum daily standups. 
+
+PS. I would rethink whether everything you do is actually needed. I don't say it is not, although managing Kanban board for the team or measuring individual velocity sound like overkill. Maybe the team needs it - you definitely know better than me - but don't try to be control freak. 
+
+I know teams which has their sprint length floating so that's not an issue to change sprint length over time. 
+
+Anyway, for me this niche looks pretty crowded already and unless you have a good idea for differentiator - something which would make distinguishable from others and would the best of breed at least for some specific group of end-users (teams) - it doesn't sound like the best app you can build. 
+
+Also, when we're discussing Kanban many teams tend to work with physical board and not software as long as that's possible. But of course there are also those which can't and have to fall back to some kind of application. 
+
+Scrum doesn't really cover the strategic part of planning. In terms of building a vision and a general roadmap Scrum itself won't help you much. However, at this level planning doesn't really differ from what you know, or should know, from other methods. 
+
+You can also check Mike Cohn's book dedicated completely to this subject (thanks Jesse for the comment). 
+
+I would also point that as long as you're going to choose your own way understanding how the work is done and how a team works is crucial. Otherwise you will be throwing out parts of this or that method without understanding why they were implemented in the first place, i.e. what the team was supposed to get thanks to them, thus what you should address with different bits and pieces. 
+
+Here is what Roman Pichler has to say on Scrum Alliance, The product owner is required to: 
+
+100% user story completion vs 100% productivity Think in terms of value delivered vs utilization. Goal of Scrum team should be to maximize output and not maximize utilization. Anything (whether a machine or person) working on 100% capacity for longer duration will eventually break. 
+
+Feedback gets implemented based on the priority set by the PO. If PO wants a feature/story to be completed before the feedback items then the team will implement the feedback in a future sprint. 
+
+Daily scrum is an important information radiator for the team. They have made a commitment to deliver agreed upon tasks during a time-boxed duration. Daily standup meetings help the team in tracking its progress with reference to their commitment. These meeting may or may not provide much value to other stakeholders and PO, which is why presence of PO is not mandatory in Scrum daily standups. 
+
+In your case, the PO may be getting involved because just to fill the void left by the team. Instead of talking to the PO, talk to the team first. Make them aware that its their job and why is it important. They should be running these meetings, so just in case if both PO and Scrum Master are not present on a particular day, the standup should be equally effective and efficient without them.

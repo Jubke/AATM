@@ -1,0 +1,29 @@
+Then below there's the actual collection corridor. (don't forget to cover the villagers; zombies would love to drop from above.) Truth be said, sacrifice some time working with non-enchanted tools to build an XP grinder, and then enchanting anywhere below 30th level becomes pointless - simply reaching that 30 becomes so trivial that top-level enchantments become cheap. I do have quite a few iron tools enchanted at 30, simply because diamond became far more scarce than XP. 
+
+Turning that into actual grinder is left as an exercise to the reader. 
+
+Now, making a mini version of that. 
+
+When a creeper settled on the only part of rail in miles that had powered rails, I shrugged it off. When two creepers dropped on me from above without giving me a second of chance, just as I was passing over a lake of fire, I thought "bad luck". But when I ran naked at night, after a respawn, to a shelter with iron door, chased by a crowd of mobs, only to find the one specific block with the door button removed by an enderman, I began suspecting there's more to it than "hide in random dark place", "move blocks at random" etc. 
+
+The disadvantage is Nether portals are somewhat fickle. Your portal might link to the bottom portal instead of the top one, if the corresponding Nether space happens to be an extremely tall chamber. If you have any other Nether portals within several chunks, chances are you'll get linked to their corresponding Nether exits instead. It's nothing you can't overcome with a calculator, a stack of Netherrack and 10 blocks of obsidian (sorry, can't cast lava into Obsidian in Nether) to place a portal at the correct point in Nether manually, but with a little bad luck the trivial task becomes a rather daunting one, if the "correct point" happens to be an air block far above an enormous lake of lava. Nevertheless, always build a housing around the Nether portal so that a stray Ghast fireball doesn't extinguish it. For door to count as village door, it needs more sky above on the outside than on the inside. Since you ask for both materials and productivity, this will be difficult to answer. I mean: have a look at The Iron Trench. The longest I can think out of top of my head? 
+
+Build a Nether portal on the surface, transfer to Nether to spawn a matching portal there. Jump down your drop shaft, then build another portal on the bottom - it will be close enough that it should link to the same Nether portal as the surface one (but the spawning algorithm should have placed the Nether portal closer to optimal coordinates for the surface one so it will be still preferred when traveling from Nether), so you will only need to exit and reenter the same portal in Nether and you'll be transported from the bottom to the surface portal. You rename them using the anvil, and then apply to given mob. Once named, the mob will not despawn. Of course, hostile mobs will remain hostile, mortal and in case of some, like creepers, suicidal, but at least they don't despawn. Additionally, you get monster's name combined with health bar over their head. 
+
+The advantages are definitely cost and simplicity of both solutions (note: you can cast the portals with lava buckets instead of digging obsidian, if you don't want to make a diamond rock pick) and speed - both solutions are faster than most of alternatives offered by others. 
+
+Addressing your travel concerns: My solution entirely fails on the compactness and cost front, with 15 repeaters, over a stack of loose redstone and 16x10 size (at least, entirely flat.)... 
+
+As seen from above, inactive state 
+
+If you want something faster, clock that dropper with a pair of repeaters or any of hundreds minor clocks. With an adjustable clock and a specific number of items you will easily fit within that 3-5 minutes range. 
+
+Its iron production is totally over the top. Its material cost and complexity is quite impressive too. The tradeoff will always be between simple, cheap, less efficient and expensive, complex and more efficient. So, unless you come up with some formula how to determine the cost taking into account "size, materials required, and golems spawning and villager placement" (as the first two go simply against the third), this question is pretty much "non-constructive". 
+
+There's one, pretty expensive way: Name the zombie using a name tag. Pick input signal with repeaters at specific distance from the source (thus only repeaters too far for weak signal won't pick it, and pass it to repeaters located a specific distance from the target. 
+
+They are weighted by the rider. It's hard to say why they don't always swim up - they just don't, probably a bug, but maybe it was just written that way - who knows? 
+
+Create cast for the bottom of the portals. Seal any holes resulting from imperfect walls. Pour lava in Solidify. Cast for portal walls Lava Water. Repeat three times. Another layer of portal floors/bottoms And more walls. 
+
+Dig a shaft straight down, with water a block or two deep on the bottom, for fast downwards travel. My approach was a disc-farming attachment to the sky mob farm. EDIT: Some pics, as requested. The spawner while under development. I had decided to start 22 blocks above the ground, which, in hindsight, was a waste of time and resources. It would likely be much easier to dig a 22-block pit instead and start at ground level. Nevertheless, what you see:

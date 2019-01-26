@@ -1,0 +1,41 @@
+Where are all the moderators?? 
+
+status-declined Nov. 12, 2015 (Jon Ericson) 
+
+Flagging comments individually is tedious for the flagger, as noted in this question. Flagging the post when not all comments should be purged is tedious for the mods, as we have to figure out which ones you meant. (And sometimes what flaggers say is "all but the last two are obsolete", but then we have to look at timestamps because more came in after you flagged.) 
+
+This also violates the design intent of the global-notifications pane. That stuff is supposed to be, well, global; nothing else there changes as I move around the network. So the distracting thing that covers up the content I want to see is also dynamic, which draws my attention to it. 
+
+If you think something bad, even abusive, is going on, then flag. But asking for a vote-by-vote review is not a reasonable request. And while you probably don't think you're asking for a vote-by-vote review, that's what it'll turn into (nearly), because it costs the user almost nothing to ask and he might get his 2 points back. 
+
+As a moderator I respond to a lot of flags, and when I decline them I try to give good explanations. Most recently, I responded to a flag requesting that a question be deleted by directing the flagger to info on disassociation (no we won't delete that question your coworkers found, but here's something you can do instead). I put care into responding to flags. 
+
+Option #2 seems like the best approach to me. It doesn't shorten the time for collecting questions (like #1 does), and it doesn't add to the length of an election. SE knows that there is going to be an election some days (at least) in advance of when they kick it off, so starting the question collection early shouldn't require any changes in how they do things other than when they make the post. 
+
+This seems like a useful addition to search. I don't know if it makes sense to limit this to any particular reputation level however. If we do index comments for search, we might as well let anyone use the feature. 
+
+I suspect, though, that a lot of people, particularly newer users, never think to click on that "flags" number in their profiles, and so they never see the responses. We shouldn't send notifications for flag responses; that would be way too noisy for a lot of people. But can we add something to the flag dialogue saying something like "check the 'flags' link on your profile, under views, for our response"? This could either be added for everybody (easier) or added until some threshold (number of flags? rep?) is met (harder). 
+
+If it contained a link that'd be even better, but any sort of hint that there will be an answer that he should look for would be an improvement on the "send flags into the void" model that some users have. 
+
+A design that supports atomic comment flags could also enable moderators to make comment-moderation one-pass instead of two-pass. 
+
+We already have some behaviors that change based on whether you're logged in (front-page view is different, "join" button, tour invitation), so there's logic to hook into. 
+
+Can we either make the order consistent across the network and more logical, or give users or moderators the ability to change the order on their sites? 
+
+1 For fairness's sake, it should also be possible to upvote a deleted post. This could help in the case (which I've seen) where somebody self-deletes a post he thinks isn't good enough and others try to persuade him to undelete -- some votes waiting to be claimed could be additional encouragement. 
+
+A further refinement to Ilmari Karonen's answer (which refines Mad Scientist's): make profiles of new accounts that haven't done anything visible only to logged-in users. 
+
+When I go to a site's help center it's almost always to find out what's on-topic there, because I'm considering asking or migrating a question. Leading with what not to ask seems odd to me, and I suspect that to someone not already familiar with SE it could be a little off-putting. 
+
+Comments are second-class objects for good reasons and aren't indexed by Google generally searchable on-site, but I don't see the harm in making it a little easier for established users to find them. 
+
+On sites where I either have 10k rep or am a moderator, I'll sometimes see a clearly-bad post -- incoherent, not even remotely an answer, etc -- that's already been deleted. So yay for the immediate problem being fixed, but not all deleted posts get downvoted first, and sometimes deleted posts get undeleted. The OP, in particular, can undelete on his own if he's the one who deleted, and sometimes -- shocking, I know -- members of communities disagree about what's "clearly bad" and might bring back something I would have downvoted. Further, undeletion doesn't bump a post, so that clearly-bad post might sneak back to haunt the site later. What I'd really like to be able to do is to add my downvote1 when I see the post, even though the post is already deleted, just in case. 
+
+As a side benefit, if that post does come back later, I'll be alerted to that fact by my -1 rep (if it's an answer), so I can take a look to see if any action is called for (remove the DV because it was fixed, comment, flag, vote to delete, etc). 
+
+Could we short-circuit some of these intermediate steps? Something like this in the close dialogue, perhaps: 
+
+If the "next badge" information is important enough to notify in some manner (I'm not convinced it is, but if), how about generating an actual notification for it? So when you get the badge you were working toward, you'd get two notifications, the usual one and then this one, normal-sized and governed by the scrollbar. The notifications would be branded with the site logos, and the notification list would remain global. Just a thought.

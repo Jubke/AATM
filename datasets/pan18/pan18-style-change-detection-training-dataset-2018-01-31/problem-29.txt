@@ -1,0 +1,39 @@
+Now, to answer your actual question, 
+
+This, I think, is the crux of your problem. Look into (and have your Development Manager look into) the 100% Utilization Fallacy. 
+
+Evaluate stories more thoroughly before accepting them into the Sprint. If necessary, do spikes (short, exploratory, often throw-away pieces of work) to gain further information on them. Sometimes, though, things will slip through the cracks - and it's not the end of the world. 
+
+You've provided insufficient context to answer that, or indeed even to answer whether or not anything did go significantly wrong. Ask your Team. Bring it up in the Retrospective. But keep in mind that you should avoid leading questions - asking 'What do you guys think caused the Sprint to go wrong?' is not a great question to ask when your Team wasn't thinking it went wrong at all in the first place. 
+
+If you want multiple 'projects' to be on the same Scrum-board Sprint, then you can accomplish that by having a board with the JQL filter set to read from multiple JIRA projects (ie. 'project = MultiTestOne OR project = MultiTestTwo ORDER BY Rank ASC'). Boards and projects are set up 1-to-1 by default when you create a project, but there's nothing stopping you from later altering the JQL. As for Epics: without further information on what exactly you mean by 'project', I can't give an opinion on whether or not they would make sense via Epics. If it works and everyone on your team is okay with it, though, then I don't see why not. At their heart, all Epics in JIRA are is simply a way to group Issues. Without further information, I can't possibly decide for you which of the two (or a perhaps a third) options is the best for your situation. You need to discuss with the Team to see what makes the most sense. As a side note, you stated that 
+
+Epics are not estimated. They are far too large and nebulous to estimate accurately, so attempting to do so does nothing but give a false sense of schedule-security. 
+
+What you describe as 'GREEN', finishing all user stories of a sprint (I assume, based on your question) is a useful indicator for this, but not a valid replacement goal. Consider the situation where you write up a bunch of nice, lovely-looking stories. They are all completed on time with wonderful, quality code. And then you show it to the customer and they ask why you bothered with any of that, because it's all useless. 
+
+When a user attempts to contact a developer directly, simply instruct the developer to say "Thank you for bringing this to us. However, as per company procedure, I am not allowed to work on anything without it going through the Product Owner first. Please contact at [email/phone] with this issue if you wish it to be worked on." 
+
+You could also append something like "even from a malicious attacker", which should make it more testable (see INVEST mnemonic) - make sure all common attacks (other than social engineering, which isn't really solvable...) fail. 
+
+Scrum works better as a pull-model, not as a push-model. No one assigns work to developers. In the Planning Meeting, the Scrum Team accepts work from the backlog (with the Product Owner prioritizing which work is most important, and the Development Team deciding how much they can get done that Sprint). During the Sprint, developers will, on their own initiative, pull down unassigned work and start working on it. 
+
+Just keep in mind that the user shouldn't really care whether the web page is secure. They care that their data is no compromised. You could have a (potentially very large) user story for everything necessary to secure is secured. (depending on how large it is, it might invalidate INVEST, though.) 
+
+You can estimate a completion date, date range, completion sprint, etc by dividing the current backlog size (in SP) by the teams current velocity but... 
+
+Definitely remind anyone looking at your forecast that it is an estimate Quickly check out how variable your velocity is. What is the team's last 3 iteration velocity? Current iteration? Total project duration? A highly variable velocity should prompt you to lower your confidence in any long-term forecasting results. List all your assumptions and the method you used to derive the forecast before presenting your number(s). Make sure your audience understands the impact of the assumptions you had to make. Be honest about your confidence in providing the forecast Try and provide a date range rather than a specific date with best, middle, and worst case numbers. You can go all kinds of fancy with Monte Carlo simulations and tools like Crystall Ball if you want. Use your scenarios as a chance to escalate risks DON'T make any long-term timing commitments based on your forecast numbers. The forecast should be used primarily as a tool to discuss and highlight risks/deficiencies that should be addressed to meet the customer's high level needs. 
+
+I was working with 3 teams which had mid-week start/end of the sprint. They were starting on Wednesday afternoon (17:00) with planning and finishing sprint an hour before (16:00). 
+
+Correct. For bug handling in Scrum, take a look here. 
+
+Comparing to monday-friday the advantage of mid-week cycle is that there is a weekend in the middle of the sprint, when already some issues should have been discovered. 
+
+Create a plan for implementing improvements to the way the Scrum Team does its work. Was that happening on first few retrospectives? 
+
+For the record: when the Development Team is unable to deliver a potentially releasable increment at the end of the Sprint, that's a serious Scrum deviation. Let's put that issue on a side now. 
+
+I've been working as an agile coach for little over one year for one team. Recently I became a line manager for the same team. 
+
+Create sense of freedom by introducing The Core Protocols, especially Pass and Check-In protocols. That will give them a safety belt when needed, it's universal and can be used beyond Scrum. You, on the other hand, would be more encouraged to ask the team and engage them, as they'll just simply pass if not interested.

@@ -1,0 +1,45 @@
+I've been farming Act 3 for keys lately, and the Keep Depths are where I go to build stacks. To answer your questions: 
+
+Long, drawn out (with math!) Answer Preface/Basic data: 
+
+Note that this percentage does not affect if the gear is magical or not; that's where Magic Find comes in. 
+
+So, using that premise, you have roughly a 25% higher chance of getting what you're looking for, with half the Magic Find gear. If your kill rate is equal or just slightly slower, Act 2 is where you should be. 
+
+Description: You want the best of the best. It's an Infinity+1 sword, but it glows, sings, and if you let it, it'll dance, too. You show this off to other Nephalem to make them wish they were you. 
+
+Control Effect Reduction will unfreeze and un-jail you that much faster. Freeze is the critical one. Not being able to attack means you can't bring your life on hit to bear. This is not optimal. 
+
+Dexterity is your all-around do everything stat. More is better, as always. Don't skimp on the above for this, though. You'll do more damage, yes, but you'll also have more trouble surviving the pain being thrown your way. 
+
+Unfortunately, I couldn't find stats on dropped magical or rare items, so I have no concrete proof that they conform to these standards. However, crafted items work as follows (and I believe dropped gear would work similarly): 
+
+You can run through Act 1 with 150% Magic Find 
+
+Now, the tiers of materials. The general idea is that each difficulty has it's own salvage materials, magic and rare. In practice, it's not quite so clear cut. I've salvaged items found in Nightmare and received Normal difficulty materials. Testing has revealed the following results: 
+
+Last tip: Have fun. If you're not enjoying having to run around to avoid Arcane sentries or Desecration patches, this build is not for you. 
+
+You can do Act 2 with 75% Magic Find With these values, you get: 
+
+Underneath the stats, you will see Salvages Into section. This will show you your chances of retrieving crafting supplies. For this item, you have a 100% chance of getting a Subtle Essence, and a 15% chance of a Fallen Tooth. This information is not shown in-game; as far as I can tell, only the website has these references. 
+
+Since set gear doesn't drop before Inferno difficulty, and any crafting of said set items will take more materials inputted than received, this isn't very viable. You can salvage any uniques you find, though, if you don't want them anymore. You'll get more return selling it on the auction house and using that cash to buy what you're looking for, though. 
+
+So the level your character is at to teach the blacksmith is irrelevant. The plan will teach the same thing, regardless, but you don't need to worry, as every plan has a level 70 equivalent. 
+
+Does this level of quality for white items play any part at all in these crafts? 
+
+This one depends entirely on your kill rate. Act 2 provides almost twice the chance of iLvl 63 gear than Act 1. But if you kill only half as fast, you'll get roughly the same amount of items. That's your metric. If you can kill 100 demons in Act 1 in the same amount of time that you can kill 50 demons in Act 2, you want Act 1. But as soon as you can kill 51 demons, switch to Act 2. The same goes for Act 3. 
+
+Not required: Thorns are not really needed. Yeah, you'll damage those that hit you, but between Sweeping Wind and your third hit, you'll already be doing much more to those in front of you. 
+
+Melee/Ranged damage reduction is gravy on top of your armor and resistances. I haven't tested whether this gets dumped on top of existing armor or not, leading into a straight damage reduction, but like I said earlier, less damage taken is a good thing. 
+
+Description: You want the best gear that you can get. Anything below this is dog food. Only the cream of the crop for you. If if's not an Infinity+1 sword, your time has been wasted. 
+
+It's not specific to crafting, but any item generation, whether you make it or kill a monster for it. 
+
+UPDATE: As of 1.0.3, Blizzard reduced the chance of salvaging Fiery Brimstone from magic items from 0.8% to 0%. 
+
+Yes, going forward, any newly crafted legendaries at level 70 can be ancient. It is, in fact, a simple way to boost your stats. If you're wearing any crafted legendaries, just craft it again until you get an ancient version.

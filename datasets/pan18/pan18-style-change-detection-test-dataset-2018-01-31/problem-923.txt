@@ -1,0 +1,31 @@
+Grice: Logic and Conversation: Pragmatic turn on language 
+
+However, experimental studies since showed that these modal/essentialist intuitions are culturally dependent and context sensitive, i.e. answers depend on how a question is asked, see Beebe-Undercoffer's Cross-cultural Differences in Semantic Intuitions. This brings back Quinean doubts about cogency of modal statements, especially in the context of science, which was his primary concern. Reliance on intuition also raises the issues of ambiguity and illicit metaphysical committments, see Cummins's Reflections on Reflective Equilibrium. This was also anticipated by Quine in Two Dogmas of Empiricism, see summary of objections and rebuttals in the IEP article:"whether Quine or the conventionalist is right, the primary lesson of this section stands, namely, that metaphysical accounts of possible worlds might be mistaken not just in detail, but in their most basic assumptions". 
+
+Kuhn Structure of Scientific Revolutions: Scientific paradigms 
+
+Wikipedia, which is the source of the quote, in another article also lists the typical objections, with references, which arguably point out moral distinctions. 
+
+Quine Word and Object: Inscrutability of reference, indeterminacy of translation 
+
+One of the first was perhaps Plotinus, the father of neo-Platonism, whose One precedes existence itself (and hence is neither ideal nor certainly material), and then "emanates" the world out of itself while remaining unchanged. This egress proceeds in decreasing phases of lucidity. The upper emanated echelons are ideas and ideal beings, while the lowest phase before the non-being is the inert matter. If this sounds familiar it should, Augustine and through him the Christian theology, was deeply influenced by Plotinus. 
+
+Strawson Individuals: Linguistic metaphysics 
+
+Much of modern epistemology of physics involves a response to or polemic with Kuhn's Structure of Scientific Revolutions, also controversial in undermining objectivity of physical theories. 
+
+This dialectical method is at the heart of Hegel's philosophy, which asserts as a “necessary function of reason”, “the necessity of the contradiction which belongs to the nature of thought determinations”. Moreover, we should abandon “tenderness for the things of this world”, and the idea that “the stain of contradiction ought not to be in the essence of what is in the world”. 
+
+But Stoljar is right to quote Lange that physicalism (or materialism as it used to be called) is "as old as philosophy", and there are plenty of modern practitioners who disagree with each other on both content and exposition. Perhaps Physicalism and its Discontents collection gives a more or less comprehensive look:"A group of distinguished philosophers, comprising both physicalists and their critics, consider a wide range of issues including the historical genesis and present justification of physicalism, its metaphysical presuppositions and methodological role, its implications for mental causation, and the account it provides of consciousness". Specifically on the mind-body problem something close to a canonical physicalist exposition is Dennett's Consciousness Explained. 
+
+Chalmers: Conscious Mind: Hard problem of consciousness 
+
+Davidson: Mental Events: Mental is physical, but no law relates mental to physical 
+
+The monads haven't actually moved anywhere – they are still inside the Singularity – but they now have unique identifiers (coordinates) and this produces the effect (illusion) of all monads now being separated from each other. To put it another way, they now have extended (fermionic) relations with each other. A Cartesian extended world has come into being... The infinite Cartesian grid is still wholly contained within the Singularity and is thus a mathematical illusion. Existence can only ever take place within a single point (everything that exists is contained within the Singularity: we live inside the Big Bang Singularity, and the Big Bang itself took place within that Singularity, and remains contained within it). The Big Bang was nothing but an internal mathematical restructuring of the Singularity via an antisymmetry operation and Fourier mathematics." 
+
+Kant, Husserl, Heidegger and so on would not stand to be classified so crudely as materialists, idealists or dualists either (they are also the ones who, along with Schelling and Hegel, claimed to dissolve the subject/object distinction). They redefine "matter" and "ideality" radically, both are treated not as constituents of reality, but more or less as different aspects of cognition. E.g. to Kant matter is the "blind" stuff of outer sensibility, without which ideas (concepts) are "empty". It makes little sense to talk about ideal and material separately, and no sense at all to apply such predicates to supersensible "things in themselves". Husserl's position is similar, he characterizes ideal and material as abstracted extremes of perceptual spectrum, with perception in its fullness fusing and surpassing both. Existentialists' "existence precedes essence" leads to a similar view. 
+
+Phenomenology has a narrow meaning in contemporary philosophy as a style of philosophical inquiry originated by Husserl, and I do think that it is particularly congenial to a mathematician. Husserl worked as Weierstrass's assistant in his youth, and later personally knew and corresponded with Cantor, Hilbert, Courant, Minkowski, and other major mathematicians of his time (he worked in in Göttingen until 1916), see On Husserl's Mathematical Apprenticeship and Philosophy of Mathematics. 
+
+The father of philosophical pessimism, Schopenhauer, wrote a book Parerga and Paralipomena (Appendices and Omissions) with the second part in roughly the same genre. "The subject matter and stylistic arrangement of the paralipomena were significant influences on the work of philosopher and psychologist Paul Ree, and through him most notably the philosopher Friedrich Nietzsche, whose later work explores—following Schopenhauer—the relation of man to himself, the universe, the state, and women through the art of aphorism". This may be particularly fitting since he was significantly influenced by Eastern thought.

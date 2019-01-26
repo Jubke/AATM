@@ -1,0 +1,37 @@
+Common resolutions for 16:10 are (source): 
+
+I found this youtube video of someone using one of these USB devices to hook his Xbox 360 to his laptop, which should walk you through the basic steps. 
+
+There is not a way to damage a disc by playing the same part of the game over and over again. The power output of the laser is not sufficient to damage commercially printed discs in any reasonable time frame. The motor that moves the laser will likely fail before the disc or any of the other components will. 
+
+The "Lore" achievements in particular were quite buggy. Blizzard has said that they're aware of the problem and are working to fix it. 
+
+You'll probably have to add a video capture card or device to your laptop in order to make this work. Many USB devices exist, so search your favorite electronics vendor for "video capture usb" or something similar. Prices seem to vary wildly - I saw multiple options under $20, although quality may be a concern. 
+
+Common resolutions for 16:9 are (source): 
+
+For now, sit tight, and hopefully later the glitches will be fixed and there will be some way to repair these buggy achievements. Error 2 (sometimes, other times a hang that requires me to kill the app. 
+
+Directory of C:\Program Files (x86)\Steam\steamapps\common\SpaceEmpiresV\SE5
+
+05/26/2014  08:05 PM              .
+05/26/2014  08:05 PM              ..
+05/26/2014  05:29 PM              Data
+05/26/2014  05:29 PM              Docs
+05/26/2014  05:29 PM              Empires
+05/26/2014  05:30 PM              Fonts
+05/26/2014  05:29 PM              GameTypes
+05/26/2014  05:30 PM           129,953 history.txt
+05/26/2014  05:29 PM              Music
+05/26/2014  05:29 PM              Pictures
+05/26/2014  05:31 PM             3,565 readme.txt
+05/26/2014  05:32 PM              Scenarios
+05/26/2014  05:32 PM         4,559,872 SE5.exe
+05/26/2014  05:32 PM        22,515,422 SE5Manual.pdf
+05/26/2014  05:32 PM             6,452 SFI License Agreement.txt
+05/26/2014  05:32 PM              Sounds
+05/26/2014  08:05 PM              Temp
+05/26/2014  05:29 PM              Utilities
+05/26/2014  05:32 PM            53,248 zlib.dll
+               6 File(s)     27,268,512 bytes
+              13 Dir(s)  327,785,889,792 bytes free

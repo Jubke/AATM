@@ -1,0 +1,21 @@
+Recording or streaming League of Legends is somewhat tricky. The game uses 2 different windows: one for the client and one for the game. 
+
+Duoqueuing can have more advantages than disadvantages but you have to do it right. I'll first tell you some of the Pros and Cons of Duoqueue. 
+
+Now depending on whether you want to just record the game or the game and the client you might want to use the OBS Scene Switcher Plugin. This plugin allows you to automatically switch to the right scene when changing your focus. However If you're only interested in recording the game it's not necessary. 
+
+Now there isn't only meele vs range or high range vs low range. Unlike DotA, League heavily focuses on spells in lane. Now some champions have rather High costs while others have none at all. Here you have to know when to harass or trade with your spells since you can also harras an enemies mana pool if done right. If you are let's say Katarina VS. Sion you should always spam your Q so Sion has to either take the damage or use his shield which costs a lot of mana. But no matter what never lose Farm because of harrassment. 
+
+The easiest way to stream/record League of Legends is by running the game in (borderless) windowed mode. In Challenger team rankeds and tournaments you will know who your opponent is. Thus you are (or should be) informed of their main champions and their main strategies. When picking or banning champs on such a level you can't just go for the "Oh i'm going to ban kassadin because he's OP" tactic but you have to pick and ban AGAINST the enemy team. This is also really different from soloqueue. While in soloqueue you should follow the order: Pro You have already listed most of the positive aspects of duoqueue. Now there are still some that are important: 
+
+In your scenario red Tahm swallows red Jinx and gets swallowed by blue Tahm. Blue Tahm will then spit out red Tahm before Jinx leaves. Now back to the different tier lists. As already mentioned the composition or synergy of different champions is much more important than the position in the tier list for team rankeds but this doesn't mean you can play Heal+Revive jungle soraka just because it matches your team in a certain way. Global ultimates Well as the name suggests, these are mostly champions with global or semi global ultimates. This comps strength lies in surprise ganks and splitpushing while its biggest weakness is it's champion pool. There aren't really many champions with global ultimates and most of them got nerfed since this method was an almost guaranteed win in earlier tournaments. They don't really get countered by any of the other comps but they also don't really do that well currently. This is mostly because of all the champ nerfs. Pro Split pushing, good objective control, ability to teamfight anytime from anywhere. Cons Champions are weak. Example champions Nocturne, Shen, Karthus, Pantheon, Twisted Fate Strongest phase Midgame 
+
+Now this counts for most situations, however there are some exceptions. 
+
+There are several different things that determine good or bad picks in League Tournaments or 5v5 Team rankeds in general. 
+
+The Team tier list isn't too different from the soloqueue one but it's not that relevant. The soloqueue tier list focusses on the potential of a champion carrying a game alone. The Team list focusses on the team(fighting) ablitiy of a champion. You also have to keep in mind that the champion tier list itself for 5v5 isn't that relevant just because there is another list of team compositions and strategies. This brings us to the next point: 
+
+Oh and as a final note, since you mentioned it: Never let minions kill the turret alone 
+
+Now if you go for what's above, you should get pushed since you can create a longer escape path for Janna who has no real escape spells and you also have no problems with farming under the turret as Varus. Also both of you have no escape spells so playing under the turret is safe right?

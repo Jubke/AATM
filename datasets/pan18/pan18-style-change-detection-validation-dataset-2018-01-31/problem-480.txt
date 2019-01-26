@@ -1,0 +1,29 @@
+The revision reported on Super User, when I tried with Firefox and Google Chrome, is 2012.4.3.2076. You cannot answer back to a declined flag. Moderators can give you a reason for declining your flag, but you cannot reply back. If an edit removes an entire paragraph, it could probably be rejected as too radical, or approved because it is removing noise. To make an example of noise, suppose that the user who asks a question starts explaining that he asked the question on a different SE site, and that question was closed as off-topic, after he was suggested to ask it on a different SE site; then the user continues saying that he doesn't agree with that decision, but he is forced to ask the question in an SE site that he doesn't repute to be the best one for his question. When I disable the random order, how are the posts in the "low quality posts" tab of the review page ordered? Am I supposed to see the same post twice? If I select "Recommend Deletion," I still think it should be deleted the second time I see it. Reviewing low quality posts should be done once per post. Maybe it makes sense to show the same post when I select "Not Sure," but in that case it would make more sense to move the post at the bottom, when I review again low quality posts. (This would mean to record for which posts I selected "Not Sure"; I am not suggesting it should be done, as I understand it is not worth doing it.) 
+
+I noticed this only today. Before, I was not redirected to other pages, when editing low quality posts. The notifications for the Reviewer badge contains a link to the review page for which the badge has been gained, but that link takes to the review page for the site where the SuperDropdown menu is being viewed. 
+
+The edits I have done were saved, though. It is just a matter of being redirected to a different page when it is not supposed to happen. 
+
+If then the answer is a perfectly valid answer, you could up-vote it. 
+
+When I select "Lowest Score First," what I see is something similar to this: Today, I reviewed low quality posts. I started with 520 reviewed posts, and I ended up with 712 reviewed posts. Some users reported that, clicking the "review answer" link, opening the posts in a different tab, and taking an action on that tab (e.g. editing the post, or voting it) is counted as actioned post. I didn't verify this, but if this is the case, then it is what you could do. In any case, you should click on the "review answer" link. 
+
+Especially if you Approve when others Reject, take a good look at their reasons. If you Reject while others Approve, there's a chance you're the one who's actually right. 
+
+You don't like that guideline, and think the reviewers were wrong to reject the edit as too minor. Your arguments seem to consist of asserting that the links were broken, and that capitalization is irrelevent. Repeating those statements over and over will change nothing. Suggested edits that are too minor will be rejected. I hope the suggester learns to fix all that is wrong with the post. I hope you end up with a happier understanding of the edit review system. 
+
+When deciding whether to accept an edit or not, you seem to feel that the rule is 
+
+You can also get here from your activity list. On your profile go to the activity tab, and then reviews, and again click Approve or Reject: This will show you how others voted on that post: 
+
+To evaluate yourself as a reviewer, I suggest taking a look at the history tab in the review queue, and clicking on the word Accept or Reject next to posts you reviewed: The problem of robo reviewers still exists. These people are whipping through the queue as fast as they can to get a badge. It's quicker to Approve than to Reject (because to Reject you have to pick a reason) so they run through Approve, Approve, Approve, Approve. The stat you want would probably be very similar to your percentage of Approve votes. 
+
+Since a good link is better than a broken link, it's your position that the edit should have been approved. What you're not understanding from the comment conversation is that you are wrong. Say a post has three broken links, and you fix only one. That's not good enough. The edit should be rejected as too minor. Say it has two broken links and some typos or bad grammar, and you fix only the links. Again, not good enough. Those with full edit privileges can go and fix just one aspect should they feel the desire to, but those whose edits must be reviewed are obliged to take care of all that is wrong with the post, or leave it alone. 
+
+The number you see to the left of tools, or review is the number of pending suggested edits. I noticed that, when I review a low quality post, and I select "Recommend Deletion," I see the same post after few hours, when I restart reviewing low quality posts. Each time I restart reviewing posts, I click on the review link I see on the top of the page, and I click on the "Low Quality Posts" link I see on that page. When I disable the random order, how are the posts in the "low quality posts" tab of the review page ordered? 
+
+I noticed this only today. Before, I was not redirected to other pages, when editing low quality posts. The edits I have done were saved, though. It is just a matter of being redirected to a different page when it is not supposed to happen. 
+
+On Super User, I noticed that the dialog box for flagging questions appears correctly only when I refresh the review page. The second time I flag a question without refreshing the page, what I see (after selecting "it doesn't belong here") is the following. 
+
+(Moderators do that in the same page, which is the one that allows them to make a tag synonym of another one.)

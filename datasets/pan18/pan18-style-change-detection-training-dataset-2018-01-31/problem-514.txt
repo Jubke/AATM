@@ -1,0 +1,37 @@
+If it's not important to keep the name/title pairs intact, you could always split the titles out: 
+
+However, the horizontal list should be used sparingly, since one with more than two or three items tough to parse. 
+
+In academic or tech writing, the governing style sheets or style guides (MLA, APA, etc.) should always be consulted. I'll leave it to our resident tech writers to provide more detail, but I'd consult those resources and only then use the logic above: Use my own preference for bullet points unless there's a reason not to. 
+
+Manuscripts in any variant of standard manuscript format will separate sections by either an empty line or three asterisks. However, when these fall at the end or the beginning of a page, they're easy to miss, so writers will often use lines of asterisks or similar symbols. Scrivener's default pound sign is fine for this purpose. 
+
+The number you indicate in your question is more like a serial number. I can't find anything for that, but personally I'd use the abbreviated rule for numerals in general, using numerals and letters and not spelling them out. Unless the character's name were something short like the robots in Star Wars, where (for example) R2-D2 becomes "Artoo" for short. 
+
+And that is the other part of good structure in a text: it has to reveal itself progressively, not just at the end when all is finished, both because the reader will get bored if they do not see a structured developing, and because the reader cannot keep all the elements of a structure in their head as they read, waiting for it all to come together at the end. 
+
+Remember that prose is an asynchronous medium. Things do not happen in real time. Often an event takes far longer to describe than the event would have taken to occur, or, vice versa, far longer to happen than to describe. For this same reason, handling events that happen simultaneously by rapidly switching back and forth is usually a bad idea in prose. (It can work very well in movies, where the camera does most of the imaginative work for the viewer.) 
+
+You can certainly have an ensemble cast, and you can certainly send a team on a shared quest. Hundreds of novels and movies do exactly that. But while a team can have a shared plot, a plot is not the same thing as a story arc. 
+
+There is nothing terribly wrong with the sentence structure per se, but it has an effect that may or may not be desirable, and probably is not desirable quite as often as you are doing it: it changes the emphasis on the action being described. 
+
+Which of these two actions merits more attention from the reader? Normally the final action is the more important. 
+
+The vast majority of the fiction produced in any age is of the type that would generally be called pulp or potboiler. It is simple non-challenging stuff meant to occupy a vacant hour for an reader who is a mood for something light and frothy. 
+
+Manuscripts in any variant of standard manuscript format will separate sections by either an empty line or three asterisks. However, when these fall at the end or the beginning of a page, they're easy to miss, so writers will often use lines of asterisks or similar symbols. Scrivener's default pound sign is fine for this purpose. 
+
+Exceptions to these include spelling out round numbers. For example: "seven hundred", "one thousand", "forty-seven thousand", etc. There are also other rules for money, ordinal numbers, decimals, percentages, etc, but these are overkill for fiction. 
+
+Longer, unambiguous formats are preferred from the standpoint of being clear, but they take up more room (an issue in a resume, especially when formatting them for a single page) and can look clumsy to some audiences. 
+
+In academic or tech writing, the governing style sheets or style guides (MLA, APA, etc.) should always be consulted. I'll leave it to our resident tech writers to provide more detail, but I'd consult those resources and only then use the logic above: Use my own preference for bullet points unless there's a reason not to. 
+
+And, the most important thing: Pick a single date format for the document, and follow it everywhere. 
+
+The way a character thinks of a ship tells a lot about the relationship between the character and the ship. For example: 
+
+Generally speaking, that's where variation in reference comes from - different ways of thinking of ships. Either form of reference you choose should be fine and unobtrusive, as long as you use it consistently (throughout the book, or per character). If they relation between people and ships isn't interesting or important to you, just choose one and go with that. If it is, then figure out what best suits your world and your characters. Either way, recall that the choice of how to refer to the ship is individual - different characters can refer to the ship differently; but a single character will generally stick to the same reference method at all times. 
+
+Regarding the last option you suggested, I would advise you to avoid alternating the reference between usages of the name and plain old "ship". This is not common or proper - and you'll notice it precisely undermines my central point here, which is that the way people feel about the ship as an "individual" affects the way they refer to it. Since their feelings for the ship - their awareness of it - stays consistent, the way that they refer to it will stay consistent as well.

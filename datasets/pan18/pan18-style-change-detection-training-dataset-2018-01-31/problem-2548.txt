@@ -1,0 +1,25 @@
+this, too, is well-studied and well-addressed by computationally efficient methods in the literature.) 
+
+Now, where do the empirical counts come from? Any representative text from the language will do. The University of Leipzig corpus consists of spidered web text for a large number of languages. 
+
+Modern research into grammar formalisms have developed analyses for many of the constructions you deem to be impossible or difficult to account for. Out of your list, 'tense matching' and 'subject-verb matching', 'pronoun-reference' (usually called anaphora resolution), 'general "and" and "or"' (coordination) have definitely been addressed in many formalisms including generative grammar, Head-driven Phrase Structure Grammar (HPSG), Combinatory Categorial Grammar (CCG), and many others. (I am not sure what you mean by verb ellipsis, but if you mean: 
+
+For certain languages which have scripts that are not shared with other languages (e.g. Chinese, although some of its topolects have written forms too), simple heuristics should suffice. Japanese and Chinese can be distinguished by the presence or absence of kana. On the other hand, if the text is romanised, then the character-based method should work. A popular approach for language identification is to look at character n-grams: consecutive sequences of n characters from the text, and compare the resulting distribution with frequencies drawn from larger corpora of text from each of the candidate languages. 
+
+As for the extension to CFGs which you propose, can (I think) be expressed in a linear indexed grammar (LIG), so you're right that the generative power required is strictly greater than context-free. 
+
+This paper has a basic literature review and concentrates on the harder problem of language identification where the text is very short. 
+
+?I believe he is a crook honestly. However, I'm not even sure this is a valid generalisation — not all modifiers can occur on either side of the verb phrase (at least not without changing the denotation): 
+
+I would also caution you that linguistics is not learning and speaking languages. It is the study of the underlying mechanics of language which all languages share. I'd start by reading The Language Instinct by Steven Pinker. It's very basic and written for a general audience but it provides a nice overview. If you enjoy that and want to learn more then MIT OpenCourseWare has slides for MIT's introductory phonology, syntax, and semantics courses. With that foundation you can explore all the Linguistics courses MIT offers and see if any interest you. 
+
+From what I'm seeing, most solutions use some manually annotated sentiment corpus, like the Multiple Perspective Question Answer (MPQA) Corpus and perform machine learning techniques (usually SVM or MaxEnt) to decide which words and features are strong indicators of sentiment and what their optimal coefficient should be. 
+
+I would suggest you read a few papers on Sentiment Classification (perhaps starting with the Google Scholar link I gave at the beginning of my answer) to get a general understanding of modern techniques. 
+
+Sentiment Classification is a still developing field so I don't feel comfortable saying that there is a right or a wrong way to approach your problem. Your approach would theoretically work but it is a bit simplistic. Consider the following: 
+
+First, how will you choose your word list? Will it be manually compiled? How will you make sure it is representative and has wide enough coverage to actually be useful? 
+
+Other than that, you can take an online course. Coursera.org is a website devoted to providing free access to courses written by professors from world-leading institutions. Currently they have not one, but two introductory NLP/CL courses. One from Standford University and one from Columbia University. The Stanford class in particular was co-created by Dan Jurafsky who also co-wrote the textbook that most introductory NLP/CL courses use. Just click the "preview" button on those courses' websites and you should have access to all the slides and video lectures in the course. At the time of writing it appears that the Columbia course is about to begin a 10 week long session, meaning the materials are unavailable for preview. However, if you register for the course you will get access to the materials as the course progresses. Not only that but you will get to participate in weekly assignments, get feedback from other users and TAs, and at the end get a nice certificate of completion which, if nothing else, shows employers and potential professors that you're serious about your studies.

@@ -1,0 +1,51 @@
+As far as I can tell everyone has treated you politely and done their best to help you out, despite your best efforts to ignore everything that everyone has been telling you about where to ask your question. You have yet to ask the question where you have been told you should have asked it. 
+
+Now this I would agree with. While having been banned shouldn't immediately disqualify you, it's certainly a very significant point against you. It's important that this information be available to voters in my opinion. By nominating yourself you should be revoking your right to privacy (to at least some degree) around such situations. If you aren't comfortable with people knowing that you were banned, and at least some high level details of what happened, then you shouldn't be running to be a mod. 
+
+It is reasonable to require that people coming here to ask us to solve their problems for them to spend some time and effort in forming their questions. Quite simply, that's what it takes for them to get a quality answer, so they'll do it, whether they like it or not. On the other hand, if you let in all of the crap then the experts will just leave. They have no incentive to stay if most of the questions are of very low quality. That's how SO got to be what it is; the experts had no loyalty to other q/a sites because SO made being a subject expert a much more enjoyable experience. 
+
+Also keep in mind that it's pretty hard to suggest improvements to the queue if you haven't ever actually used it, merely been on the side suggesting edits. If you really would like to improve it you're probably best off waiting until you have enough rep to use it, and then using it for some time (a few weeks at least) before you're familiar enough with it's problems to knowledgeably suggest improvements. 
+
+Removing the ability to prevent answers to inappropriate questions greatly harms answer quality, as well as encourages further low quality questions. 
+
+Your edit looks correct to me, and rejecting it was indeed inappropriate. 
+
+I think that this will have a big impact on quality, as I am sure many people are reluctant to hit that down arrow because of the -1. 
+
+This coupled with notification of comments should give people enough time to correct the post (if it is salvageable) while still having it off the site. 
+
+I know you've implemented the "have you considered an explanation" to the down-vote button for lower rep users, but with the greater cost you might need a greater nudge. 
+
+If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+"What!" I hear you say, "people are reluctant to lose one point of reputation when they see something bad?!?!. That's just crazy". It may be crazy but I fear it's true, especially for low rep users who are struggling to reach the next privilege threshold. 
+
+Either add a "Looks Good" button that increments the review count or make the "Not Sure" button increment the review count, but not count to removing the post from the review queues for anyone else. There needs to be a way to let people say: 
+
+The page tag is all over the map. There are many questions where it means a web page, often a Facebook page. Sometimes it means scrolling through a long text. Sometimes it means virtual memory. Glancing at the questions, there seems to be some other relevant tag, most of the time (html, php, facebook, memory, …). The questions in this tag don't look markedly worse than average (just perhaps a tad badly tagged). All in all, page looks like a prime candidate for burnination. 
+
+On a similar note, the inbox has a worse contrast than the achievement list. I see the reputation thingy tick away with three characters (soon 4) in bright green that seems poised to assault me, while the inbox is usually a lonesome digit and is in a darkish shade of red that seems to try to stay lurking in its dark alley. 
+
+The link to the list of sites, which I use very occasionally, is about 140 pixels wide and in a nice accessible location near the left margin (though for some reason not flush left). 
+
+Copy editing You're using hyphens as a clause-separating punctuation. These should be em dashes. 
+
+“the rules” → “all the rules”. Saying that new users don't have to know any rule won't go well. 
+
+Either add a "Looks Good" button that increments the review count or make the "Not Sure" button increment the review count, but not count to removing the post from the review queues for anyone else. There needs to be a way to let people say: 
+
+http://www.guardian.co.uk/technology/2009/jul/02/delphi7-windows-vista 
+
+Make it easier for people to remove bad and incorrect answers. Some possibilities for discussion: 
+
+The Stack Exchange shop is currently closed and they are not selling merchandise at the moment. 
+
+If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+I know you've implemented the "have you considered an explanation" to the down-vote button for lower rep users, but with the greater cost you might need a greater nudge. 
+
+"What!" I hear you say, "people are reluctant to lose one point of reputation when they see something bad?!?!. That's just crazy". It may be crazy but I fear it's true, especially for low rep users who are struggling to reach the next privilege threshold. 
+
+I think that this will have a big impact on quality, as I am sure many people are reluctant to hit that down arrow because of the -1. 
+
+Once it's been edited it gets moved to the "undelete" queue for review and hopeful reemergence onto the site.

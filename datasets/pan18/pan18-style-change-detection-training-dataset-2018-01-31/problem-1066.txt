@@ -1,0 +1,27 @@
+Finally, while baseball is definitely easier to track statistics on, it's also the first sport where it was tried. Baseball stats (box scores) have been around for a century, with fairly detailed statistics for much of that. The sabremetric movement began in baseball in the 1970s, and thus it's more advanced than it is in other sports regardless of difficulty. It's possible it stared in baseball because of the simplicity, but it's also possible it simply was first because baseball was the most popular sport for decades and thus had the most detailed statistics. 
+
+Where baseball statistics become complicated is when the defense comes into play. Defensive statistics in baseball are indeed the weakest area of statistical analysis in baseball, to some extent because they're somewhat subjective, and somewhat because they do impact other players. 
+
+This is generally answerable considering the probability of winning given the coin toss; I haven't seen anyone modelling specifically the chance of taking the opening kick for a TD. That's because that is not the only factor at hand in the overtime consideration; a proper evaluation needs to consider the entirety of the outcomes of overtime in order to evaluate whether it favors the receiving team. 
+
+SLG is the expected value of total bases ("TB") of an at-bat. You would use it slightly differently from batting average, since it's measuring a different thing. 
+
+I didn't find raw statistics available, though I suppose someone with sufficient time could comb Baseball Reference box scores. However, Fox Sports posted an article by Baseball Prospectus' Zachary Levine that included a chart of call-up dates for #1 prospects. 
+
+This will vary by team, in particular based on the financial constraints of a team. The downside of calling up a top prospect before late June is that he may be a Super 2, meaning he has one more year of salary arbitration - leading to higher total salary (by quite a bit in some cases). 
+
+For exapmle, on Saturday the Blackhawks and Blues played. Adding up the TOI for the blackhawks comes to 288:56, which is 11:04 short of a full game (of 300). However, there were 12 minutes shorthanded plus 2 minutes of 4 on 4 in that game (Kane/Pietrangelo unsportsmanlikes), for a total of 14 minutes of time that's not accounted for; meaning that you're 2:56 over the amount of time that should be accounted for. As Kevin points out in comments, those can be accounted for by looking at when the StL PP goal was scored - and the last minor was with only :04 left in the game. So the ToI does look like it adds up. 
+
+I don't have time to look up specific statistics right now, but will edit them in when I do. 
+
+What this means, though, is that you can use that figure to discuss the expectations between the two. If you want to know the expected number of bases given that one of them gets a hit, for example, you would say 
+
+So 0.45 is SLG for player A, and 0.30 is BA for player A, so E(TB|H) = 1.5. Player B has a 1.1 SLG/BA ratio, so E(TB|H)=1.1. 
+
+Baseball also has a lot of individual interactions to track, meaning you can get a lot more meaning out of them. 600 plate appearances per year for batters; 150-200 innings for starting pitchers (meaning 600-800 batters faced or more). Those numbers mean you can get a lot of information out of even complex interactions. 
+
+I would expect pitchers and position players are similar, in that if they are a top prospect they'll wait either way. A pitcher is more likely to have been called up for spot starts in a prior year, so might be delayed slightly more the next year. 
+
+Compare this to football. A running back rushing the ball depends on five or more offensive linemen, as well as the defensive players on the other team. To work out how good a four yard rush was, you have to factor all of that in, plus the game situation - 1st and 10 vs 3rd and 5, a 4 yard rush is very different. 
+
+While you do see a decently large number called up on opening day, you see large bumps in the third bucket (when that prospect will then have a seventh year of control) and the buckets around day 70 (around when Super 2 usually hits, between 128 and 140 days, subtracted from the 183 day season means between day 43 and day 55 - hence the bump around 60-70. 17 players were called up during that bump, which is over 25% of the total 68 #1 prospects.

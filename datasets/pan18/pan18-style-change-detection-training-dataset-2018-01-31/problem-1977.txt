@@ -1,0 +1,43 @@
+The only reference to probability in the linked paper (above) is in relation to Chaitin’s constant Ω, which “measures” the probability of an arbitrary (or random) program halting. This doesn’t have anything to do with set theory, at least not directly. 
+
+Gödel's result applies to theories which "include" a model of the arithmetic of integers, so incompleteness and questions of consistency need not apply to those theories which do not include integer arithmetic. 
+
+Anything that is computable algorithmically can be modelled as counting. That is a lot of mathematics. 
+
+As you have noted in your comments, our mathematics, no matter how abstract or remote, can be seen to be rooted in our real world experience. You mention string theory, which is rooted in geometry. Similarly, our theory of large cardinals is demonstrably remote (provably undecidable), but it is rooted in the act of counting. Surely reality includes aspects well beyond our ability to experience, just as it must surely be the case that mathematics includes provable truths which are beyond our ability to imagine or root in our human experience. 
+
+I do not see the ZF fanatic as facing a predicament. I see Aaronson facing a predicament. How can he defend his Platonist argument with a non-Platonist argument. 
+
+A simple example is the class of even numbers and the class of odd numbers. Each integer falls in exactly one class. Now one forms the set FF_2 with these two classes as its elements. Denote by "0" the class "Even" and by "1" the class "Odd". Then you can derive addition and multiplication for the two elements of FF_2 from the corresponding operations on the set of integers. E.g., one defines 1 + 1 := 0 in FF_2, because "odd" + "odd" is "even". 
+
+A point is an idealized object. The single property of this idealization is the point's position. But a point has no extension. 
+
+I do not consider the paper a threat for any philosophy but a challenge, pointing to an open problem. 
+
+And the probability of 80 heads is accordingly (1/2) ** 80, which is about 10 ** (-24), a decimal with the ciffer 1 at position 24 after the decimal point. 
+
+Hence the answer to your question: No, there are not more numbers than numerals. 
+
+In all mathematical theories all experts obtain consensus about the validity of the theorems of an axiomatized theory. But the theories differ and sometimes the Pros/Cons of a theory are debated. E.g., there are two-valued logics and many-valued logic and fuzzy logic and etc. It's not the question about the validitiy of the theorems of the theory. At most it is a question which axioms should be taken as beginning. 
+
+The base is the physical model, not the mathematics. 
+
+Conerning the reality of mathematical objects: 
+
+I do not consider complex numbers artifically defined. And for me it is not necessary to legitimate complex exponentiation by reduction via exp(iz) = cos z + i sin z to trigonometric functions. I consider it a deep insight of Gauss that solely by introducing a single imaginary number 'i', complex numbers derive as z = x + iy and each polynomial gets as many zeros as the degree of the polynomial indicates. 
+
+Within an axiomatized theory like Euclidean geometry a point has to satisfy certain axioms with respect to lines and planes. E.g. to each pair of points exists a unique line passing through both points. 
+
+Added. Reference to @jobermark cancelled. 
+
+In the symposion Plato describes the ascent to the domain of ideas as a kind of mystical intuition. But even when Plato employs words "to see the idea of beauty" he always means to intuit the idea by our mind. 
+
+Hence one passes from the infinite set of integers to the finite set FF_2 by introducing an equivalence relation. And this equivalence relation respects addition and multiplication. 
+
+To give a concrete example, the strings of length 3: 0 heads = 1 string ({T, T, T}), 1 heads = 3 strings ({H, T, T}, {T, H, T}, {T, T, H}), 2 heads = 3 strings ({H, H, T}, {H, T, H}, {T, H, H}), 3 heads = 1 string ({H, H, H}). 8 total strings, each with a probability of occurring of 1/8. Thus, by addition, probability of 0 heads = 1/8, 1 heads = 3/8, 2 heads = 3/8, 3 heads = 1/8 
+
+Now I mention cheating. You mentioned alternate topologies on which we may define a "straight line" to have behaviors different from Euclid's. This is just a linguistic issue. If Euclid had called it a FribbleMoose, we'd probably invent a new term for the concept in other topologies. But "straight line" still has an intuitive appeal." 
+
+Just kidding, as a fellow engineer, I have an inkling where you are digging at. Welcome to the fascinating underbelly of mathematics, which is constantly churning and mixing with the philosophy of mathematics. It behaves a bit differently than the upper tiers. Instead of trying to make powerful earth shattering statements about our reality, like proving there are countably infinite primes, they're trying to define the most subtle and intuitive assumptions you can make to get there. Your concept that it is an appeal to intuition is valid, because that's what it is. 
+
+This visualization can be done in many ways. One way is to look at all the different sequences of heads and tails that can occur. Clearly each sequence occurs with equal probability (with a fair coin). However, when you put these into "bins" based on how many heads you see, you find that there are many more sequences with an "average" number of heads than those which have extraordinary numbers of heads. This causes us to see average numbers more often than extraordinary numbers.

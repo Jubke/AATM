@@ -1,0 +1,63 @@
+Sometimes you'll also see this: 
+
+If you put a "data-" attribute on an element: 
+
+edit — one more detail - I'm running Chrome on Linux. I'll try Windows in a sec. (edit same in Windows.) 
+
+edit — If you want to have the effect of an "anonymous" function that can call itself, you can do something like this (assuming you're passing the function as a callback or something like that): 
+
+I can't figure out exactly what's there, yet ... 
+
+13 Feb 2014 — modern JavaScript has facilities for creating object properties that aren't enumerable, and it's pretty easy to do. However, it's still the case that a "put" property, enumerable or not, would claim the property name "put" and make it unavailable. That is, there's still only one namespace per object. 
+
+edit — ha ha ha - when I change my code so that I explicitly null out the "title" attributes on all the parent elements, IE shows a flyover with the word "null" in it :-) 
+
+You're declaring (some of) your event handlers incorrectly: 
+
+I've got a site design with SVG elements for "fancy" radio buttons and checkboxes. The basic idea is that the actual HTML element is effectively hidden (moved off the visible page, because IE doesn't like input elements to be actually hidden) and then nice-looking SVG icons are used for the visible interactive elements. 
+
+edit — As of early 2013, I'd strongly advise looking into a more robust script loading tool like Requirejs. There are a lot of special cases to worry about. For really simple situations, there's yepnope, which is now built into Modernizr. 
+
+Thus, if ".triggerHandler()" would operate on all selected elements, I could use: 
+
+A notorious source of such characters are websites like jsfiddle. I'm not saying that there's anything wrong with them — it's just a side-effect of something, maybe the use of content-editable input widgets. 
+
+When you give a name like that, the name is not visible outside the function (well, it's not supposed to be; that's one of the weirdnesses). It's like "letrec" in Lisp. 
+
+It's probably easier to understand why I'm scratching my head over this if I provide a context in the style of code I've actually got. When I put together code for various "widget" features on a page, that often involves event handlers. A good example is a form of some sort that's got some fields whose relevance is controlled by a checkbox, or radio button, or selector. A common instance of that is the "Shipping Address" checkbox that shows up on a zillion e-commerce sites: if the checkbox is checked, the shipping address is disabled and the billing address is used. 
+
+The callback is passed the element, the index, and the array itself. 
+
+The jQuery ".triggerHandler()" mechanism, unlike ".trigger()", only operates on the first element referenced by the jQuery object for which it's called. In other words, 
+
+Personally I think that something's doing something wrong here. Is it Chrome? jQuery? 
+
+I realize that I can use ".each()" to get around this (or simply write my own substitute that does that for me), but is there some rationale for why the two are different in this respect? It kind-of makes no sense to me. (I understand of course that it almost certainly can't be changed now.) 
+
+There's some sort of bogus character at the end of that source. Try deleting the last line and adding it back. 
+
+http://ejohn.org/blog/dom-storage/ 
+
+edit — I think it's a zero-width space, Unicode 200B. Seems pretty weird and I can't be sure of course that it's not a Stackoverflow artifact, but when I copy/paste that last function including the complete last line into the Chrome console, I get your error. 
+
+According to John Resig, it's not possible to specify expiration. It's completely up to the user. 
+
+This technique is used very commonly in Javascript when there are large numbers of arguments and/or many arguments are optional. Note: this puts an onus on the implementating function to make sure that a minimal valid set of arguments is present and to give the caller some debug feedback what is missing if insufficient arguments are passed (probably by throwing an exception with a helpful error message). 
+
+I don't expect anyone to follow the exact process here, but just to give folks an idea of the type of logic between the steps. 
+
+EDIT: Since nobody has responded, I'll try to restate my question more succinctly. When handling keystrokes on a browser page (like left/right/space) how does one tell whether the keystroke is going to be handled by the element on the browser page that has focus or whether it's not going to be handled by that object and it would be OK to handle it globally? Ideally, you'd let the focus object see the keystroke and be able to tell whether it handled it or not. If not, you could then process it yourself. If it handled it, you would do nothing with it (assuming that the focus object has a more important use for the keystroke). 
+
+Google Adsense uses globals because it splits scripts into two distinct parts (one local and one remote). A cleaner approach would be to call a function defined in the remote script and pass the parameters as arguments instead of having it pick them up from the global scope. 
+
+No, while parenthesis can be used to call a function, here they are a grouping operator containing a couple of expressions seperated by a comma operator. 
+
+Attributes are defined by HTML. Properties are defined by DOM. 
+
+Given numbers between 1 and 100. 
+
+Douglas Crockford, who wrote JSLint (a tool which gives that error message), is of the opinion that is is better to use dot notation where possible. 
+
+It depends on what you are actually wanting to do. 
+
+So if you select some at random, then that vast majority of selected numbers will have the same number of digits, because the vast majority of possible values have the same number of digits.

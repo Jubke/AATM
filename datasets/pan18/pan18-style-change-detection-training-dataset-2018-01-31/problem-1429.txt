@@ -1,0 +1,41 @@
+I have the following classes in my application: 
+
+What I want to do: Now that the application is complete, I recieved a request to support a user/pass system, and every user will have a specific calendar that matches him (user == school in this context). 
+
+A method named the same as the class is considered an (old style) constructor, and is called every time the object is created. 
+
+What I have: I have a completed webapp that works similarly to a calendar (though not exactly), a school has a list of teachers, each teacher has a number of tests assigned to him, the school gets a list of possible times for tests, and has to fit the teachers into the possible test times, using several rules. That much is DONE 
+
+The place where I got stuck was the URL routing system: PDO can fetch results into an object. I have a PHP that is likely to take 10 or (even much) more seconds. I would like to display progress for it for the user. 
+
+I prefer PHP, as I am most proficient there. Can anyone point me at some good tutorials or even explain here how to start? (I only need the basic protocol/syntax and server settings, I'll do the actual functions and abilities myself (hopefully :P)). To generate the class itself from the database structure, there are several projects (I haven't tested, but this came up on a very simple search). 
+
+So I've started studying MVC (real MVC, not framework MVC) a bit more in-depth, and I'm attempting to develop a small framework. I'm working by reading other frameworks such as Symphony and Zend, seeing how they do their job, and attempt to implement it myself. 
+
+Can anyone point me in the right direction? I can paste my current code if you'd like (it's rather long so I rather not do it if no one needs it). Well, I've been searching for material for this one, and failed to find anything. I am familiar with the IRC protocol, and I want to write IRC Services for my server (running on UnrealIRCD) 
+
+I want to make a searching option for my site, and for fun I decided I should at least try to make it myself (If I fail, there's always Google Custom Search). 
+
+schedule_month_year - The actual schedule. 
+
+A way to improve your code would be to introduce type hinting into your method: 
+
+So in short: does anyone know of a good place to start, a tutorial, an article, an example? They always talk about extendability and flexibility when writing code, but here I am wanting to expand my webapp and I have no idea how to do it. 
+
+I'm writing an IRC bot in PHP, and I wanted to make a s little more sophisticated then most other bots. 
+
+3) I really like the simplicity of this approach, just building a language array and calling the phrase you need in a function like the example below , you would then just include a file with the appropriate language array. 
+
+2) Most people say use gettext PHP has an extension or support for it, well I have been researching it and I have a basic understanding of it, as far as I can tell it is a lot of extra work to go this route, I mean coding my site to use it's functions ie; _('hello world i'm in English for now') or else gettext('hello world i'm in English for now') is no problem as any route I go will require that. But then you have to install gettext on your server and get it working, then use some special editors to create special files and compile them I think? 
+
+Can you store an Array in Memcache? 
+
+Questions Updated instead of making a new question... 
+
+$_GET['site'] is a value that comes straight from the URL in the browser which means a user could easily change this value to anything they want, you should check/sanitize that value, all values actually before sending it to a database. 
+
+Something like this would be a start, could still use more work and there is many ways of doing it, I would create a custom function/class to easily pass all variables through sitewide which can simply repetitive stuff like this 
+
+A user ID number A user's photo URL A users name Together as an array, someone told me you could and then someone told me you couldn't Which is it? 
+
+I really want to provide a few alternative languages other then English on my social network site I am building, this will be my first time doing any kind of language translation so please bear with me. I am researching so I am al ear and open to ideas and I have a lot already here is are the questions.

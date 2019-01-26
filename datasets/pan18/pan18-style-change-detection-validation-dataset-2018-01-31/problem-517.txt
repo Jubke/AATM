@@ -1,0 +1,19 @@
+In the name of Consistency, can we please have the same color on all sites? 
+
+There is a known edge case that cause suggested edits to get auto rejected: (aka edit conflict) 
+
+So the additional X is indeed not really required - I agree for its removal. 
+
+User with full edit privilege click "edit" and start typing. Let's name this user Joe. Since the user from previous step did not yet send the edit, users without full edit privilege can still click the "edit" as well, oblivious to the fact someone else is editing the same post in those very seconds. Such user click "edit" too and start typing. Let's name this user Kenny. Kenny is faster than Joe: he send his edit first, creating new suggested edit. Joe is still typing. Joe finally done typing. He send his edit to its merry way oblivious to the consequences. As result of the full edit made by Joe, Kenny's suggested edit is kicked away and rejected. Boom. This is all known and reported many times. Recent example where the user got it hard with at least two auto rejections in short period of time. Some concrete examples: one, two, three. 
+
+Good idea - really surprised nobody suggested it before! 
+
+The number indeed serves little purpose now. I suggest highlighting the link when reviews are waiting in one or more queues: 
+
+Currently, once an edit by a user without full edit privilege is suggested, it can be either approved or rejected. 
+
+The top bar is showing (again) the suggested edits count and 10K flags count, like it was before. 
+
+On Stack Overflow it looks like this: (that's the original color, same as in old top bar) 
+
+In the edit suggestion page it will show "Dismissed" instead of Approved or Rejected maybe with a tooltip explaining what caused this. This will soften the blow from those edge cases, taking the edge out of them. :)

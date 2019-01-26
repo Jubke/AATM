@@ -1,0 +1,23 @@
+Against an opponent that scouts well you should never be able to get 3 gateways up before it's spotted. If I scout your base and you have few or no buildings there I start looking for proxy's. 
+
+Problem 1, he has a bigger army than you. Even considering 6 carriers vs 20 stalkers, the stalkers cost more. If you went straight to carriers you teched too fast. 
+
+If you're worried about burrowed banelings though you can always send out one unit first as a scout before moving out. That's usually not a bad idea to do anyway. Lings actually benefit a lot from micro, assuming you have open ground to do it. Splitting into 2 groups and getting a good surround often means the difference between winning and losing an encounter. Especially if you get a good surround that prevents the opponent from effectively kiting (say with stim). For less micro-heavy play you can do zealots with speed + stalkers (obviously speed comes in later) but the way I keep stalkers behind is just to have them in a separate group and tell them to follow one of the zealots, then only attack-move with the zealots. Against zerg if I know they're not going air (or banelings I guess), you can even do pretty well with just zealots with speed, which is about as point & click as it gets Second, Immortals rip apart stalkers unless they can abuse blink to get on the high ground. 1 Immortal per 3 stalkers should be plenty. The blink aspect can be partially negated by having an observer to give you vision. (unless they have detection as kill it) Non-flying units also cannot see up a cliff, so terrain plays a factor. There's also certain terrain (smoke things on Metalopolis, some tall grass) that prevents seeing past them, so they can be used to hide units for an ambush. Tanks require more micro, and they're somewhat of a staple, then there's doing drops which also requires micro but you don't have to do drops. 
+
+Additionally Colossi are unique in that they behave like a ground unit as far as what they can see, but they behave like an air unit as far as being seen (i.e. if they are on top of a cliff, they can still be shot at from below, assuming they're in range). Forcefields are great, but they do require micro. I've played many successful games without sentries though, but depending on how far you want to go, you will need to use them eventually. 
+
+As @Raven pointed out in the comments in the branching missions if you replay the other path you'll have all the current upgrades. When I finally got around to playing Safe Haven I had battlecruisers already. 
+
+Alternatively if you're going carrier then you're likely to be low on gas, so zealots with speed can also take out stalkers pretty well. If they don't blink micro then I think 3 zealots (with speed) can take on 4 stalkers (maybe 2/3 ratio also works) and zealots are cheaper than stalkers. The numbers go in the stalkers favor more the higher the number is though, so if we're talking 40 stalkers and 30 zealots I'm not so sure, but if it's 20 stalkers and 15 zealots I think the zealots come out on top if they're not good with the blinking away. So Zealots + a couple carriers should make short work of stalkers. say you cut out 2 carriers for 6 zealots, you could have a closer match. Realistically you should be able to get more than 6 zealots because you should have excess minerals making primarily carriers. If you don't have extra minerals you don't have enough probes. 
+
+Also as Protoss I've started not walling off (except sometimes vs zerg). The advantage of building near the nexus is a shorter probe travel distance (I can start a building then go back to mining very quickly) and also like you mention if there's a back door I don't have to worry about defending 2 places, either workers or my other buildings, they're all together. 
+
+For Starcraft II specifically there's actually an in-game option to disable windows key and/or alt-tab. It's under "Gameplay" the 2nd and 3rd last options. 
+
+Protoss can be micro-heavy, just like the other races. 
+
+When you replay a mission you only have the upgrades you had the first time you played through 
+
+Additionally with lings you sometimes want to use their speed to not encounter the main army, but run past them into the opponent's expo to wreak havoc. 
+
+Air units' sight is unaffected by terrain, so they always have their full size. Additionally air units can be seen by ground units even if they're flying over a cliff, so they cannot abuse the high-ground to snipe ground units below (but they can use the high ground to quickly run away)

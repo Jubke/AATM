@@ -1,0 +1,85 @@
+I found the same thing happening to the title of a "Top Answer" in another user's profile: 
+
+It seems like meta accounts are being included, even though they just mirror your reputation from the parent sites. 
+
+but the messages were silently dropped. 
+
+They seemed to be submitted normally, 
+
+original title: "[open]" + "[source]" versus "[open-source]"
+displayed title: [open]“ + ”[source]“ versus ”[open-source] This affects the URL slugs as well as the displayed titles. 
+
+Uploaded avatars are displayed in a very low quality in the combined flair. 
+
+If you sum the reputation of all of your accounts, including your meta accounts (but apparently excluding discuss.area51?) it sums to 20112 reputation [try it]. This is close enough to your chat profile's value that I think I'm right and the difference is probably due to caching. 
+
+I noticed this happening to a "Top Question" in my global profile on StackExchange.com: 
+
+Haney reached out to Jeff Kaplan at the Internet Archive, and the torrent has been restored: 
+
+They are displayed fine in the per-site flairs. 
+
+This bug only affects uploaded avatars. Gravatars still work fine. 
+
+original title: "Abusing" bounties for unlimited profit
+displayed title: Abusing" bounties for unlimited profi As a test, I prepended a double-quote character to the title of another one of my other top posts. The same thing happened to it. 
+
+What can be done about this? Leave "stats" as the landing page, it's very useful. But make it the first element in the navigation list. The reason being that when you go through the tools, it would make more sense to go from left to right, rather than "stats", two tabs left to "review", one tab right to "links", et cetera. 
+
+… and not recognized as such because they're only on the front page for a certain time. First questions on the other hand are mostly handled fine by the community, because they're easily accessible by clicking on "Newest" in the Questions section. 
+
+I appreciate the cultural reference, but it is too specific in my opinion and, because of that, potentially confusing — even not taking into account the logical confusion about the "question/answer" concept. 
+
+Often, I embed code snippets from other sites as actual block quotes (together with their explanation). 
+
+It seems the "First Answers" and "First Questions" tabs were moved into "First Posts". 
+
+Having reached 10k on Super User a few days ago, I've been heavily using the moderator tools. They are great for efficiently helping the mods and the community. 
+
+Expected result Let's take this absolutely nonsense example. I want to see this output: 
+
+… thus breaking the long line of code. Here's the actual wrong Markdown source: 
+
+They are displayed fine in the per-site flairs. 
+
+Unbroken words are typically broken/forced to wrap when they grow longer than a line: 
+
+They are still able to edit the answer if they visit the edit page directly; this only affects the question view. 
+
+original title: "[open]" + "[source]" versus "[open-source]"
+displayed title: [open]“ + ”[source]“ versus ”[open-source] This affects the URL slugs as well as the displayed titles. 
+
+This bug only affects uploaded avatars. Gravatars still work fine. 
+
+One question is appearing twice in my list of favorites. 
+
+I noticed this happening to a "Top Question" in my global profile on StackExchange.com: 
+
+original title: "Abusing" bounties for unlimited profit
+displayed title: Abusing" bounties for unlimited profi As a test, I prepended a double-quote character to the title of another one of my other top posts. The same thing happened to it. 
+
+It seems like meta accounts are being included, even though they just mirror your reputation from the parent sites. 
+
+but the messages were silently dropped. 
+
+If you sum the reputation of all of your accounts, including your meta accounts (but apparently excluding discuss.area51?) it sums to 20112 reputation [try it]. This is close enough to your chat profile's value that I think I'm right and the difference is probably due to caching. 
+
+Using a title longer than 100 characters for a Data Explorer query produces an MS SQL error message: 
+
+The recent (fantastic) changes to deleted questions have introduced a bug. 10k users can no longer see answers to their deleted questions which were deleted before the question was deleted. That is to say: they cannot see answers which had their deletion flag set, rather than just inheriting it from their parent question. 
+
+They seemed to be submitted normally, 
+
+The code that grants non-10k users the ability to see their own deleted questions but not independently-deleted answers appears to be applying to 10k users as well, even though in their case it's a restriction of privilege. 
+
+Are short messages supposed to be blocked? If so, can this be reflected in the interface like it is for comments, rather than just silently dropping input in one of the few cases where it can't be edited later? 
+
+I can't see anything that make this question unique, but none of my other few-hundred favorites are doubled. 
+
+Changing the sort order doesn't affect it. 
+
+Haney reached out to Jeff Kaplan at the Internet Archive, and the torrent has been restored: 
+
+Uploaded avatars are displayed in a very low quality in the combined flair. 
+
+I found the same thing happening to the title of a "Top Answer" in another user's profile:

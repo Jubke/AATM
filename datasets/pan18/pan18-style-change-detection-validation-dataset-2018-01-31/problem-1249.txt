@@ -1,0 +1,23 @@
+Recently, I've been asked what the difference between the "Leiden school" and "mainstream" Indo-Europeanists is. The asker is planning to study in Leiden and has been concerned with the many vague criticisms he has encountered in connection with the "Leidenites". I've noticed the differences mainly pertain to the (methodology of the) reconstruction of Proto-Indo-European (especially in connection to the accentuation, "glottalism", Germanic substrate theories etc), but there seems to be no detailed, coherent, comprehensive list of the particulars, just bits and pieces scattered here and then. Could somebody possibly make a list like that here, or provide suitable references? It might be both useful and interesting to see what differences there are between other schools and, within the "mainstream", between its "undercurrents". 
+
+The number of possible interpretations increases dramatically, on the other hand, there are some morphosyntactic and semantic constraints and cues which reduce the tremendous ambiguity a bit. 
+
+EDIT 2: After some digging, I've been able to find a few mentions of Scandinavian loanwords here. I'll re-edit my question if necessary once I've finished reading it and looked up the references mentioned therein to see what information they can provide. 
+
+I think you can also use the Indo-European section of the Tower of Babel database, which is also based on Pokorny, but only with caution, since they sometimes depart from the mainstream interpretations quite a bit. Anyway, this is what you get if you manage to type faciō in the Latin search field. You can also try Köbler's Indogermanisches Wörterbuch, which "is based on the IEW and including laryngeal-based reconstructions, but only as alternative lemmas with cross references to the pre-laryngeal ones" according to Wikipedia. 
+
+EDIT 1: As one of the answerers has pointed out (thank you!), English peace is a nice example of what I'm interested in. If anyone can provide other words or provide references to sources where they are listed, I will be deeply thankful. 
+
+the grapheme-to-phoneme mappings: 
+
+Intuitively, I feel the mainstream view has a potential to produce less ambiguous results, but how can we quantify that? Once again, I should stress that this would only be about a potential ambiguity, which could only be confirmed or refuted by psycholinguistic experiments, as correctly pointed out by commentators. 
+
+Anyway, if you restrict the listing found on that Glottolog page to the North America and South America macroareas, you will get a list of top-level families and isolates including those that are not indigenous to the New World. Leaving the relative newcomers, pidgins, mixed languages, sign languages, unattested languages, unclassifiable languages and artificial languages out, you will get a list similar to the following: 
+
+Having described (in a simplified form) the two different systems intended for two different languages, I would like to ask: 
+
+These are the questions I would like to get answers to. Could anyone possibly recommend some reliable bibliographical references to works discussing these phenomena (i.e. mainly frequency/stability, polysemy/semantic ageing, phonological erosion/[morpho]phonological ageing)? I doubt introductory textbooks will be of any use to me, but I might be wrong, so I will be grateful for just anything relevant. 
+
+Now, if the principle mentioned above really works, at least to some extent, Language C's impact on Language A's vocabulary is first witnessed in the cultural vocabulary. Then, however, it must also be some of the words originating from Language B that first fall victim to the flurry of C-cisms. With enough time, Language C can have such an impact on the lexicon of Language A that most or all of the loanwords from Language B fall out of use completely making Language A look as if there has never been any influence from Language B whatsoever, Language C being the sole source of it (by the way, I'm deliberately ignoring the non-lexical influence from Language B, which could still survive, perhaps). 
+
+What I am looking for: As my question suggests, I'm interested in words English has adopted from other languages. More specifically, I'm interested in old Celtic or Scandinavian (or other) loanwords that later succumbed to the influx of vocabulary of Norman/French origin. In other words, I'm interested in loanwords known to have been replaced by later loanwords. I will be grateful for any relevant references too.

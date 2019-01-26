@@ -1,0 +1,39 @@
+Redmine doesn’t (at least without a plugin, at least as far as I saw): 
+
+"Redmine is a flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. Redmine is open source and released under the terms of the GNU General Public License v2 (GPL)." 
+
+Just the historical data and burndown chart issues are enough to think it isn't good for more than light project management. 
+
+EDIT 2/16/11: We are already using Redmine, so I'm interested in that solution in particular. 
+
+Is it sufficient for what project managers need? It has issues and tasks, start and end dates, assignees. It can do GANTT charts. But I don't know what other Microsoft Project-like features "real" project managers use. If so, did you need to add plug-ins to use it? If so, which? If not, what is it lacking? I am approaching this as a technical lead of a ~3 person project who has to do some scheduling and status tracking, not as a full project manager. 
+
+The iOS and Android teams both estimate the same story at 2 points. They both finish the story in the same amount of time, but in the next iteration, it turns out the two teams have introduced bugs with their implementation. 
+
+Of course, it's ultimately up to you how you want to do story estimation. I've worked with a few teams who had bug/chore estimation turned on, although I personally prefer to have it turned off. Tracker won't judge you! 
+
+The Android team has introduced three bugs, and assigns them one point each. It takes them a day and a half to fix them. 
+
+I know this thread is a little old now, but as a developer at Pivotal, I don't completely agree with any of the existing answers. 
+
+The philosophy behind not estimating bugs isn't that bux fixing doesn't deliver business value, it's that introducing a defect into the app and then fixing it does not represent net forward momentum. 
+
+Sometimes, however, there are defects which were not introduced by your team. Maybe it's a legacy codebase, and the defect is as old as the hills. In this case, it doesn't make sense for this story to drag down your velocity, and you should probably log it in Tracker as a new Feature, rather than a Bug. 
+
+Just the historical data and burndown chart issues are enough to think it isn't good for more than light project management. 
+
+"Redmine is a flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. Redmine is open source and released under the terms of the GNU General Public License v2 (GPL)." 
+
+Redmine doesn’t (at least without a plugin, at least as far as I saw): 
+
+EDIT 2/16/11: We are already using Redmine, so I'm interested in that solution in particular. 
+
+Is it sufficient for what project managers need? It has issues and tasks, start and end dates, assignees. It can do GANTT charts. But I don't know what other Microsoft Project-like features "real" project managers use. If so, did you need to add plug-ins to use it? If so, which? If not, what is it lacking? I am approaching this as a technical lead of a ~3 person project who has to do some scheduling and status tracking, not as a full project manager. 
+
+The iOS team is moving faster than the Android team, but Android's velocity is now higher. This throws off the planning of future iterations, making it appear as if the Android team is moving more quickly towards a viable release, when in fact they may be introducing bugs into their implementation at a faster rate than the iOS team, and therefore accomplishing their goals more slowly. 
+
+I know this thread is a little old now, but as a developer at Pivotal, I don't completely agree with any of the existing answers. 
+
+The philosophy behind not estimating bugs isn't that bux fixing doesn't deliver business value, it's that introducing a defect into the app and then fixing it does not represent net forward momentum. 
+
+Sometimes, however, there are defects which were not introduced by your team. Maybe it's a legacy codebase, and the defect is as old as the hills. In this case, it doesn't make sense for this story to drag down your velocity, and you should probably log it in Tracker as a new Feature, rather than a Bug.

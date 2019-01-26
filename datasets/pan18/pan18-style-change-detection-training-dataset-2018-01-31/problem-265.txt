@@ -1,0 +1,17 @@
+Houses come in varying sizes and prices. All of the player-purchasable houses can be enhanced with certain modifications that add decor, storage containers, or other useful items. The enhancements which are available, and their prices, vary between houses. When you buy a house, you are given a "Home Decorating Guide" specific to that house which lists all the available upgrades but does not include pricing. You can find out the prices by going to purchase the upgrades. 
+
+Additionally, you can not recall Odahviing to carry you home. You may use the shout, but he will not come. 
+
+So, I recently discovered the Oghma Infinium and the power-leveling bug that comes with it. That got me to thinking about what might be the fastest, cheapest, and easiest way to possibly crank a character from 0-81. I've completed the Civil War questline in the Empire's favor in one game. Since then, I've noticed several indicators that Talos worship still hasn't been as thoroughly eradicated as one would have expected. One strong indicator of this is that Heimskr seems to be allowed to continue preaching in Whiterun. Other examples are the continued existence of Shrines of Talos in Markarth and Riften. One might expect these to still remain in the wild somewhere, but not in major cities. 
+
+The NPC you follow out of Helgen, or one of their family members, will invite you to join their cause. This will add a quest to your journal, but still does not constitute a binding of your character to that faction. Afterwards, you're still free to join whichever side (or none) in the war you please. 
+
+NOTE: As I was writing this, the Speechcraft leveling exploit just came to mind. However, I don't have time tonight to verify whether a run of one skill up to 100 will be enough to cover the gap. Can anyone confirm how far that might get me? 
+
+@DaveMcClelland is mostly right. However, this is one other point you should particularly be made aware of. 
+
+This question seems to be all over the place now, but I'll try to address all concerns. For almost all of the above races, there are clear male and female varieties. The one possible exception among those is Dremora - all the ones I've seen could most closely be defined as male, although they may in fact be gender-neutral. 
+
+The Marked column denotes whether or not the gold ended up marked as stolen in my inventory. All of the gold documented above was marked in red, or flagged with the "Steal" action when I acquired it. 
+
+Horses come in many colors but, with only two exceptions, are all the same in regards to vital statistics such as speed, stamina, and health. The two exceptional cases are not purchasable at stables - they are quest rewards. Frost is faster than normal horses. Shadowmere has much higher health, regenerates health more quickly, and re-spawns a few weeks after death. All the rest of the horses are generic, and none of the horses can be customized. If you want a horse of a certain color, just shop around.

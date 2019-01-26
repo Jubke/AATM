@@ -1,0 +1,57 @@
+So, the clearing of a variable only needs to be done when you explicitly want to free data that is held in a long lasting variable and it's usually only relevant to worry about this when the data is large or you have a lot of them that add up to multiple megabytes of data (memory use is of higher concern at lower levels on smartphones than in desktop browsers). 
+
+Here are some articles on the details: 
+
+Here's how you could combine all of those in one set of javascript logic: 
+
+Execution: Execute the script block corresponding to the first script element in this list of scripts that will execute in order as soon as possible. 
+
+If the element has a src attribute, and the element has been flagged as "parser-inserted", and the element does not have an async attribute The element is the pending parsing-blocking script of the Document of the parser that created the element. (There can only be one such script per Document at a time.) 
+
+Here's how one can discern between all these options in English and then I'll combine them all in code: 
+
+I've just been playing with jQuery for a little while - been using YUI for awhile and while I really appreciate a lot of what the jQuery library has to offer, I'm finding it to be quite a pain to step through jQuery code in the debugger and I'm wondering if there are any tricks other than the obvious things? 
+
+I'm interested in whether V8 does garbage collection on the contents of individual variables within a scope or whether it only does garbage collection on the entire scope? 
+
+Eventually over time, the browser cache may fill up and toss the oldest things that haven't been used in awhile. So eventually, the images will get flushed out of the cache, but they should stay there for awhile (depending upon how large the cache is and how much other browsing is done). Everytime the images are actually preloaded again or used in a web page, it refreshes their position in the browser cache automatically so they are less likely to get flushed out of the cache. 
+
+Take a simple function like this: 
+
+But, there are also many other places in the jQuery code where a simpler check is appropriate given the desire of the code. For example: 
+
+My specific issue (though I imagine this is a fairly general purpose topic) is that I have a node.js app (running on a Raspberry Pi) that is recording the readings from several temperature probes every 10 seconds to an in memory data structure. This works just fine. The data accumulates over time in memory and, as it accumulates and reaches a particular size threshold, the data is regularly aged (keeping only the last N days of data) to keep it from growing beyond a certain size. This temperature data is used to control some other appliances. 
+
+This one is clear enough (just specifying types of arguments and return value): 
+
+Once images have been preloaded like this via javascript, the browser will have them in its cache and you can just refer to the normal URLs in other places (in your web pages) and the browser will fetch that URL from its cache rather than over the network. 
+
+Don't expect too much from IE (before IE9)... 
+
+Specs: ECMAScript 5 and ECMAScript 3 
+
+On the other side, you would have to build the string first. 
+
+How strings are converted to numbers is more complex but of course can also be found in the specification. 
+
+Two type conversions will take place here. We can follow this in the specification, section 11.9.3, The Abstract Equality Comparison Algorithm. 
+
+If you have to generate global variables in production code (which should be avoided) always declare them explicitly: 
+
+When booleans are converted to numbers, the following conversion takes place: 
+
+Regarding the question what it is doing: 
+
+There is no best way, it depends on your use case. 
+
+Section 11.1.5 in the ECMAScript 5 specification: 
+
+(arrays are objects in JavaScript) 
+
+You have to see and try for your self. It depends on your needs. For example a case-insensitive search is way faster with regular expressions. 
+
+Update: Apparently this is new in ES5. In ES3 (page 41), the definition was just: 
+
+If the property name is stored in some variable or created through some expression, then you have to use bracket notation: 
+
+Performance test - short haystack Performance test - long haystack

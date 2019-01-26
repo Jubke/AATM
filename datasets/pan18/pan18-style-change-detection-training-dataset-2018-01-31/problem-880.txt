@@ -1,0 +1,25 @@
+Anyone who is stupid enough to post an answer that should be a comment should be treated in an unfriendly manner. 
+
+You should not be judging the post based on the original post, but rather the current post. That is the idea of the wiki part of this site. We have enough people who argue against clear community decisions in the comments, obviously without reading the FAQ. We do not need to lower the bar. If anything, we should raise it. Your suggestion would allow easier sock puppetry and is therefore a bad idea. 
+
+This is not a bug, this is a feature. You are hitting the cap, but you don't think so because the recent activity page is using a different timezone than you would think to determine what has been done 'today'. 
+
+Yes, the user should get his reputation from the question/answer. That is why we edit, to help them out and hopefully show them what is needed to get good responses. It doesn't take much to overcome the voting and commenting limits. One or two decent questions or answers should take care of this, and you could even give them a hand and vote on their posts (taking the merit of the post into consideration of course). 
+
+If we wiki more posts that get edited, can you imagine the fighting? We already get enough blubbering, butthurt babies crying and whining and rolling back valid edits. No thanks. We don't need more of that, this would be a disaster. 
+
+Don't forget this is also one of the main ways we fight spam. 
+
+Edit: Plain and simple, the purpose of reputation is to give the system a way to measure how much it should trust you based on your (assumed) knowledge of the system. Your suggestion would give people that trust based on nothing but your word. If the user couldn't get 100 rep in the system by themselves in a very short period of time, then you are clearly 'vouching' for the wrong people. We have plans to replace the current scheduler with a service that doesn't fail quite so silently, but there's no (•_•) ... ( •_•)>⌐■-■ ... (⌐■_■) schedule for it being deployed yet. 
+
+Take a closer look at the post links there. :) Personally, I tend to be very careful with my downvotes on sites I'm not usually involved with, especially since my reputation and a lack of other participation obviously give them away. Once in a while, though, there's an obviously unhelpful answer... However; rep opens up increasingly more tools. First convenience tools like comments and posting images then voting and then increasing levels of moderator tools. 
+
+Turns out that the service that runs scheduled tasks on A51 meta has been broken for a while... 
+
+Diamond mods bypass reputation requirements for privileges. I'm also a developer working at Stack Overflow under the Q&A umbrella team (not every developer here has "developer" access to all Q&A sites, which is confusing, but hopefully you get the idea), so even without a diamond, I'd have the same access to downvotes. 
+
+Also, we already have a reputation cap of 200 points per day, so the bottleneck is already in place. Users get high reputation by providing good answers and questions. Don't be surprised when you see someone with a high reputation getting more. They got where they are for a reason. If you think you see high-rep users getting upvotes based on their reputation score and not the content of their specific answer, please link to it. Let us all look at it and decide for ourselves. <-- Found the link, so that's not really valid. But in the future, please only post in the "Your Answer" section when you have an actual answer to the question being asked. 
+
+I'm not deleting the account yet because there are still some other accounts that have used the same IP address that need to be looked into for strange behavior. 
+
+Was this an intentional change to display the reputation gained in the last 24 hours, or is this a display/caching bug?

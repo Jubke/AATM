@@ -1,0 +1,25 @@
+If we need any new notice types please raise it here - we can decide if we need a site specific one or a global one. Should the asker of a duplicate question gain reputation for asking the duplicate question? The way I see it, getting a generic invite to careers is way less impactful then getting a personalized message. I should be able to include my recommendation as part of the invite. This is a two in one question: 
+
+This is what I just implemented, which may or may not have some gaps. 
+
+Are there any plans to allow me to go to one Chat MultiCollider, where I can participate in chats across various network sites. 
+
+NOTE: This is a moderator only feature that we do not think will be used on many sites, the main consumer of this feature is skeptics.se 
+
+For example: if we find that lots of people are missing out on good tiny edits cause of the new system we may add a UI that notifies you of the change allows you to work it in your edit. I just discovered prism: http://prism.mozillalabs.com/ As chat has grown in its awesomeness I find that I would like to participate in multiple chat rooms across multiple sites. This is now implemented, moderators can convert posts to comments. They can also choose to retain the comments on the posts. You can see the whopping 32 times it happened in the last month on Stack Overflow, or for example the 0 questions on android last month. 
+
+For the gazzilionth time I mistargeted somebody in chat. This would both help drive traffic to the Stack Exchange site and help us find stuff that lives on multiple Stack Exchange sites. So, if I am chatting to TimStone, auto complete him first. 
+
+Additionally, we could restructure our voting badges a bit to account for the new pools. 
+
+For example I would like to be in a few StackOverflow rooms and few Meta rooms. 
+
+So, it appears, answers are favored when it comes to voting. 
+
+Note that this may not always work in the case of system-imposed edits (that is, if their recent edit history still looks lousy at the time you lift the ban, it might just get re-applied.) 
+
+...unless the mods/owners happen to be chatting on mobile. 
+
+But that's not the worst of it. The background shading, coupled with the excessive padding, can lead to something not unlike rivers when code appears on adjacent lines: Jarrod whipped this up this past week, and the behavior should now be live. Edits will be rolled into the previous revision if the previous revision was created by the same author and none of the following conditions are present: Guaranteed, someone, somewhere has time to burn and needs cash. No guarantee they know the answer, mind you... but they'll take a guess at it. And since they really need that $20, they'll likely hang around and down-vote any other answers, while picking fights with anyone who criticizes theirs. Just look at the little fights people get into over rep now, and spice it up with some desperation... 
+
+This should not be used in place of suspension for stopping blatantly abusive editors. And of course, it is unavailable for users with full editing privileges, where suspension remains the only option when communication has broken down.

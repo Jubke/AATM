@@ -1,0 +1,59 @@
+It's much easier to be going through the Close Review queue quickly and make a mistake. 
+
+and then take the 'k' off of the kvotes or kviews text. 
+
+Could we please have functionality to edit our moderator flag text (triggered by clicking on the text in the User's Flag Review) so we can make those kind of corrections? Or even delete if we think we made a mistake. Of course, I'd expect this to only work up until the flag is processed by a moderator in some way. 
+
+I think they should increase the number of votes it takes to delete to at least 5 and maybe more. 
+
+'m' in science and engineering stands for one-thousandth. 
+
+I'm adding this feature request to have high-rep users (15k?) to be able to migrate answers from one question to another, so that questions for duplicate answers can be consolidated. 
+
+This is more important now that we have the Close Review queue. 
+
+Why can't we just fix this hole in the system? 
+
+We need to enable those users to see their deleted questions so that they can edit them into shape, and if they self-deleted, then undelete them. 
+
+My smallest feature request yet: 
+
+Of course, there would have to be parameters, and a complete historical record, so that it could be reversed if mistakes were made. The questions would still be left pointing to the main duplicate (if there were multiple dupes, then there would have to be consolidation of that also). 
+
+This is a good idea, and would be even better if they put your progress towards that badge on that page if you haven't earned it yet. For example, there is no way to check your progress towards the Archaeologist badge. 
+
+Obviously, this would take some work to implement, since a complete interface to handle all the details would be needed, but I think in the long run it would add to the organization and usability of the site. 
+
+I'm usually running many different StackExchange sites in Firefox using tabs (using ReloadEvery to update every 5 minutes). Right now to check for activity, I have to manually click on the tab to see if the envelope is lighted. 
+
+We need to help and encourage them to do the work to improve. Punishment is only useful when it causes the user to change their behavior, and is just frustration when they have no way of fixing the problems of the past (which since banning doesn't time out is all they can do to get unbanned). We've seen hundreds of posts from well-meaning users who don't understand our policies or just have trouble with the English language. This feature request will go a long way towards enabling them to work their way out once they've learned what they need to do. 
+
+I noticed on the Stack Exchange ALL Sites list that SO shows questions at 1.5m. 
+
+though other suggestions would be fine. 
+
+We don't want to lose valuable answers. 
+
+Edit: This applied to his original question about allowing Tab to work right in the editing textbox. But indent/dedent buttons would go a long way towards making code formatting user-friendly. 
+
+The standard for million, is a capital 'M', unlike one thousand which is a small 'k'. 
+
+We could make them stand out by putting the k with the number, like we do with rep, but limiting the text to fit in the space: 
+
+It'd be nice if they just allowed users of a LARGE rep to just be able to change their vote without an edit. This would keep out any hint of impropriety, and keeps the post from inching towards Community Wiki status. 
+
+If we were to have a general notification of edits after downvotes, I'd put a time limit on it, like three days. I don't want my whole history notifying me of any edit like that. 
+
+Yes please on the Tab doing actual spaces instead of taking you out of the box. 
+
+I just flagged an old answer of mine that I had updated, so all the comments were now obsolete. I flagged the moderator, but miswrote "question" instead of "answer". I wasn't allowed to flag again to correct it. 
+
+The shading for accepted answers was a nice UI touch, please bring it back. 
+
+It's helpful if you don't want to have to tool-tip every post to see which got posted first, so that you can upvote the oldest answer when answers duplicate each other. 
+
+We already add a message count for the chat tabs, so this shouldn't be very complicated. 
+
+I've been approving or rejecting Tag Wiki Excerpt Edit Suggestions, but some of them are close and I'd like to just tweak them. We can improve regular edit suggestions, how about giving us an Improve button for Tag Wiki Edit Suggestions. 
+
+EDIT: It seems that I've also had edits that stacked well, so I'm not sure if I had a timing problem, or was just delusional. The one thing that can be fixed, that I'll turn this question into, is a feature request so that when I go to re-edit (either within the 5-minute grace period, or before a suggested edit is approved), it brings up the old edit summary text. Right now, it brings up a blank edit summary, and this replaced the first one I did. This isn't really intuitive, and even knowing that's what it's doing, I still forget to put everything in.

@@ -1,0 +1,39 @@
+(A near miss: Pumpkins and Melons grow as solid blocks, but neither they nor their parent plants can be moved intact by pistons.) 
+
+The reason the textures mostly work is that the OpenGL 3D API used by Minecraft mostly takes coordinates in textures in terms of numbers between 0 and 1, rather than 0 and whatever the pixel size of the image is, so the main rendering doesn't care; only the animated textures, which are actually defined in terms of recalculating individual pixels and modifying the data of the texture in memory, are affected. 
+
+Fall damage and suffocation damage seem not to be able to “remove the armor”: I have not found any combination of two falling stages, or 1 tick of suffocation followed by falling, which will result in a one-punch kill. (If you have found such a combination then I'd love to see an answer with a complete design to demonstrate it!) 
+
+Results: When the zombies hit the platform, a few still take 2 punches, but most of them take 1 punch to kill. I have successfully operated this mechanism in my survival world fed by two zombie spawners. 
+
+Then, hold the map and right-click in the frame to place it in the frame. 
+
+They can, as covered in the other answers. 
+
+Hold the frame and right-click to place it against a block, empty. 
+
+I keep a boxed-in Snow Golem in my house. Twice, it has spontaneously vanished. The second time, I was around and I noticed that there was a pile of snowballs, as if it had been killed. However, I am reasonably confident in my house lighting and that there certainly wasn't a mob in the room then. 
+
+Minecraft versions before 1.5 were not written to support different-resolution textures. 
+
+If you simply omit the part which stops the clock (the left-pointing repeater and the wire going to it), then there will be a message each time the player enters the detection range (but not any repetitions while they are in it). 
+
+For your particular problem, I would suggest not just fixing the damage but building a safe area around the spawn — that is, well-illuminated so that creepers cannot spawn, and enclosed by walls or fences so that they cannot wander in. 
+
+Dig horizontally to make a 2-block-high space covering all of the horizontal area you're planning to dig out. This tells you when to stop digging later, and also checks for deep caves filled with lava. (Note that lava lakes, which can occur at any height, are still a hazard. 
+
+The default Minecraft terrain texture in these versions is a 256×256 image with 16×16 tiles in it (a texture atlas). The code which animates the animated textures in Minecraft (fire, water, lava, and portals) writes onto specific pixel offsets according to 16×16 tiles, which are wrong for larger textures, so you get small fire/water/portal images occupying other blocks. Presumably the patchers replace the 16× factors with 32×, or whatever fits the actual texture resolution. 
+
+A diagonal wall is as good as a flat wall for most purposes, but there are a number of distance-based effects which may pass through a “zero width” barrier; they are for the most part not significant hazards. 
+
+It is entirely possible and I built all my grinders this way (before the introduction of XP, which makes it less desirable to kill monsters, and hoppers, which can rescue items from all sorts of death traps). The key is to place the cactus one block above the water and use diagonal flows. This is a picture of the grinder of my main mob trap, but this design is also suitable for installing in one corner of a dungeon wall to grind on a mob spawner (especially if you mine the floor of all mossy and plain cobblestone, leaving a slot perfect for the water flow). 
+
+However, Endermen cannot move snow or iron blocks; so they can only create a golem where the body pattern already exists. You could perhaps block such creation by ensuring there is always a block above any two-block-high section of snow, and so on. 
+
+Also, it is highly unlikely that an Enderman will pick up a pumpkin in the first place, and place it on your snow; you could make sure that there are no pumpkins near your base, and remove any you find moved closer by Endermen. 
+
+If you want to do the same kind of thing for something other than a message, you can just omit the command block on the right and use the redstone output for whatever you want (as long as it also loops back to stop the clock). 
+
+If a mob is pressed against a corner, you may attack it from the other side; they are effectively larger for melee attacks or arrows than they are for their own motion with respect to blocks. I believe the same would be true of mobs' attacks against you, but they will consider the wall solid and will never attempt to attack you. (Another example of the same effect: you can attack a mob through doors or fences by firing arrows.) 
+
+Abandoned Mine Shafts are not locatable by any special means, but they have the characteristic of significant horizontal extent. Find a ravine, then search its length. If a mine shaft intersects a ravine, the mine shaft will have wooden bridges crossing the ravine.

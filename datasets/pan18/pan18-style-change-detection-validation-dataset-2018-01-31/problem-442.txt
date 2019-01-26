@@ -1,0 +1,29 @@
+From my own experience with users with patterns of bad questions, I'd say five to seven questions closed this way would have to result in a 24 hour suspension; twenty flags in a deletion of the account. 
+
+and instead of deleting them, relaxing the "vote to delete" rules for those questions say to two required 2k+ votes instead of five, and having the community user bump a steady trickle of them to the front page? Like, one every five minutes. For most users, they will come up only if they're in their interesting tags, so they will hardly be noticed. 
+
+I sent a careers invitation to a friend few months back. 
+
+I can see the necessity of a "heartbeat monitor" for a telephone network like Skype when you're dealing with a complex, worldwide network and thousands of local phone exchanges, but for a Q&A network, it sounds like overkill. But a simple status page (like the Last.fm one) sounds like a nice idea. 
+
+All lawyers always lie. I am a lawyer. 
+
+Well, for one, it helps make it more obvious that there is a possible duplicate. Until now, dupe suggestions were often buried in long comment threads, and easy to overlook. I like this change. 
+
+That could be achieved simply by hosting the blog outside the rest of the network (at a physically different location) so it is available even if everything else goes down. (If that's not the case already. I didn't check whether it was affected by the outage as well, but the IPs look like they're in the same data center.) 
+
+As discussed repeatedly already, the following scenario happens a thousand times every day on Stack Overflow: 
+
+I logged in to Stack Overflow by clicking on the Google OpenID logo 
+
+When closing a question as a duplicate, the goal obviously is to find not just some identical question, but the one that has the best answer. 
+
+it admittedly looks a bit misleading, but everything is in order here. 
+
+I would prefer a crowdsourced approach, because I fear a purely algorithmic solution will never cover enough dead content to actually make a difference. 
+
+The search process doesn't support that goal perfectly yet. It allows you to find highest-voted questions which is nice, but when looking for a good dupe, you want to find the one with the highest-voted answers instead. 
+
+The other thing is that deleted comments would produce a lot of noise were they visible. The ability to see them, currently, could only be used for one thing by moderators - review. We cannot revise, reverse, or otherwise interact with these things in any meaningful way like we can do with deleted posts. They thus stand in our face as if actionable, when there is nothing that can be done. And in the vast majority of scenarios, there isn't anything that should be done. The fact it's deleted is the signal that it already has been done. 
+
+Can we allow some level of site specification for this? I can see that being able to specify any SE site would be problematically annoying. But I think that at least being able to specify, for example, tags from the parent site when posting on the Meta site would be useful. On the Meta site for any Stack Exchange site, proper tagging is a very common topic of discussion, and being able to use the new tag formatting will roll right in comfortably. But currently, instead of linking to the tag you actually mean, it'll link to the (typically non-existent) Meta tag.

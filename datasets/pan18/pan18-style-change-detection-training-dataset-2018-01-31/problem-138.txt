@@ -1,0 +1,27 @@
+As for an actual Reverse Crypt run (4 player DC run is the fastest XP in the game, currently), here is the best way of doing it: I disagree with the premise that SS will become useless as a glass cannon DH, starting out the fight strong is always important. If you can take things out within seconds, there's less chance of something getting close enough to kill you. 
+
+Here is how you can think about sharpshooter: 
+
+Is there a cooldown or do faster ticks/attacks proc the burn more times? Does it stack? 
+
+On low MPs, archon wizard is the fastest for xp farming. They can (as of 1.08) keep up permanent archon and roll through hordes of monsters. They are also relatively cheap to set up as you can get a 150k dps archon wizard for 10-15m that can roll through mp2 in no time. For higher MPs, you'll have to swap to a CM build, but those are way more expensive to gear up than building a decent archon wizard. 
+
+Gambling Slot by Slot, you'll have to spend your bloodshard at Kadala. This is especially usefull when you will own several piece of the set and only a few will be missing. You'll be assured that if you get a legendary at Kadala it's for the gear slot you are targetting and not something else. However it takes time and dedication since Kadala is not the most cooperative NPC in the game :). 
+
+Let's take a quick example by comparing 2 situations: 
+
+I usually clear T10 rifts and salvage every legendaries that is not usefull for my character. I currently have more than 8000 unused Forgotten Souls. 
+
+The other possibilities is 135% (27% for you) for Kormac (the templar) : Using this method I've been able to fully gear my last Monk in less than a day. Of course I had prior farmed a lot of crafting and Horadric Caches materials. 
+
+You can test it here. With the simulator you can select : 
+
+How do I know if a legendary can be gained through gambling or not ? I would like to know 2 things : Toughness Toughness represents (if you read the tooltip) the number of damage your character car undergo from full life to zero. If I extract the legendary power from a legendary which orange affix roll within a certain range (e.g. The Dead Man's Legacy 50-60) but the roll is too low (let's say 51%). If I later loot a 60% version of the legendary, can I extract it again to upgrade the cubed version ? 
+
+What I don't understand, however, is why they keep glowing when they pick up gold. It doesn't happen every time, but it only happens when they collect gold piles. They will get a giant blue glowy shield (far, far larger than the size of the ferret) for a few frames, then it will go away. It comes with a sound effect and everything. 
+
+Now, I'm playing a Demon Hunter, and even though he telegraphs the slams with a big green meteor circle, I don't know how to avoid the impact. Even if his arm doesn't hit me, I'm still taking damage from the slams. Since I die in 2 hits to the slams, and my healing options are limited (potions have a cooldown and my damage output isn't exactly amazing while I'm running for my life to take advantage of Shadow Power), the best option is probably to avoid taking damage from them altogether. 
+
+Electrocute's attack speed is really fast, so that 44% has a chance to trigger twice as often as the cast speed of other skills. Electrocute is free. The primary attack on any wizard build is generally meant as a filler between "real" attacks, and Forked Lightning is probably the wizard primary that deals the most damage the fastest from range. Blizzard deals 1000% damage over time, whereas this damage is instantaneous. They both have their uses, but comparing the flat numbers to each other is disingenuous. The reason Forked Lightning and Frozen Orb are used on the most common builds is because they both are the most efficient at what they do. They don't necessarily synergize with each other more than any other offensive spell/primary combination, but each one individually is very strong. Frozen Orb is a very strong arcane-power-costing offensive spell, and Forked Lightning is a very strong free offensive spell to cast when you can't afford more Frozen Orbs for the time being. I have noticed often when going to bid on an item, the minimum bid is some seemingly arbitrary number. I currently can't even bid on an item, even though I have more gold than the current bid, because I don't meet this limit. 
+
+Forked lightning is for use between casts of Frozen Orb. You said that 44% seems low, especially compared to 1000% from Blizzard, but you're not taking everything into account. Is thorns return damage somehow a function of how much damage I sustain? What if I block or dodge? What is the approximate formula for damage return based on my current thorns? In Diablo, everything your character does is the result of a manual action taken by the player. If you don't issue attack commands, then your character will just stand motionless while enemies surround and kill him. This lack of inherent ability to attack means that "attack-move" as a concept can't really mean anything in Diablo.

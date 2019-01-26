@@ -1,0 +1,25 @@
+Reviews state that its pretty easy to break into. 
+
+You can see from pictures of the bike that it has dropouts in the fork and rear triangle, so the wheels are inserted in vertically. A thru axle does not have dropouts -- the axle has to go through the fork/frame. The wheel cannot be pulled vertically out from the frame. 
+
+A non-Fat Bike case is the Salsa Enabler. 
+
+Finally, a note on safety: Despite it not being "cool", I firmly believe fixie should have front and rear brakes (or at least a front brake at the least). 
+
+As for punctures, you can make sure your tires are properly inflated, buy thicker/tougher inner tubes (thin tubes you buy may be under 1 mm thick; thicker tubes may be 4 mm or more, for thorn-proof tubes), run a sealant like Slime, and pick a tougher tire. 
+
+You should check that your rim is indeed intended for rim brakes (not all rims are) and if it requires any special pads. You can do this by checking with the rim's manufacturer. If its not intended for use with rim brakes, I would suggest getting a different rim (as using them with rim brakes may lead to rim failure, which is bad). 
+
+A quick google search for that rim suggests they aren't marketed as being tubeless ready (normally, this is a point of advertisement for a manufacturer). So, you're stuck with running tubes unless you try a Stan's no-tube kit (video; or similar) or ghetto tubeless (or the alternative method), but this is highly YMMV/at your own risk, and highly dependent on your rim+tire combo (not all rims and tires will work). Or get wheels which are tubeless compatible. Tubeless isn't cheap, but the advantages/disadvantages have been extolled extensively elsewhere on this SE and on the internet. 
+
+Finally, a note on money: If you want to do this, note that you'll probably end up paying more than a similar bike on the market due to the fact that you're buying 1 of each part rather than a ton of each part like a complete manufacturer does. And you have the cost of your labor or LBS labor in putting it together. 
+
+In some applications, its even desirable to put a bigger tire in the back since it carries more weight than the front. This can give some more comfort, e.g. for touring. 
+
+Note that a wheel that looks extremely out of true can often be made to work well with a bit of adjustment -- unless you're sure the wheel is a gonner, I'd try that first. 
+
+Also, be aware of your threat model. If you live in certain areas, things like these aren't going to be worth it cause the threat of people stealing wheels is negligible. In other areas, it may be redundant with the locking strategy you always have to employ. Anyway, things like security skewers and bolts are for relatively casual thieves; remember that you need to avoid them walking away with the whole bike first. 
+
+The first problem with building your own bike is fit. If you don't know what measurements you already need from the frame and stem and handlebars and saddle a priori, its going to be hard to gauge which size is right for you. Your LBS may be able to help you in this area, or if you have a similar type of bike as to the one desired, you may be able to move the measurements to some other part set get close to whats right for you. Picking parts is hard enough as it is when things are approximately known already! 
+
+Going for smaller tires will lower the bike a bit, and smaller tires have to be run at higher pressure (so you'll get less cushioning). There will also be changes in rolling resistance (You may want to read the whole "Tech Info" column on the right side of the Schwalbe page).

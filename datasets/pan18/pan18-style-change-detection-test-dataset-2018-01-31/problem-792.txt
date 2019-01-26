@@ -1,0 +1,23 @@
+is however incorrect. FO axiomatizations of set theory became only dominant starting in the mid 30s. There is an hypothesis to the effect that this timeline should be correlated with Tarski's important contribution to model theory (truth, logical consequence). On this view, FOL became standard not (only) because of its intrinsic qualities, but because it was shown to have a particularly nice model theory. 
+
+That ZFC became a pure first-order theory is due to David Hilbert's early work on a subsystem of logic which he called restricted functional calculus (effectively today's first-order logic) and Thoralf Skolem, who in 1923 gave the original first-order axiomatization of Zermelo set theory. Axiomatic set theory effectively became a dominant first-order theory in the mid 30s and is first-order up to this day. The majority of set theorists like the properties of first-order logic (completeness, compactness, etc.) a lot. The fact that first-order set theory deviates from mathematical practice is actually seen as a feature, not as a bug. 
+
+In this sense, informal logic vastly fulfills your desideratum that 
+
+(Please note: Just because they are not deductive, it does not mean that they are never valid. Informal logic has had a particular interest for informal fallacies in the past (see below), which might have given the impression that the standpoint of informal logic is that every non-truth-preserving argument is a fallacy. This is certainly not the case. Informal logic is interested in what makes ampliative inferences context-dependently valid.) 
+
+My question is: Is there a formal way of classifying these falsehoods and has this been treated by any notable philosophers? 
+
+As an after thought, one of my favorite Sci-fi short stories discusses the idea that while logic is indeed subjective, we learn classical logic at a very young age and once we grow into adults, we are incapable of unlearning it. If we were to somehow come across non-classical logics at a very young age, we would be capable of all sorts of superhuman feats. The story is of course, just sci-fi, but I do find the idea compelling. 
+
+Arithmetization of syntax allows Gödel to show that statements about number theory are also statements in number theory. This allows him to construct self-referential statements about number theory in a simple way. This in turn allows him to show that Self-reference is inevitable, and that it is impossible to avoid self-reference when trying to construct complete formal axiomatic systems rich enough to describe arithmetic (And thus refuting Russell's logicist project). 
+
+If their pay structure was more inductive to cooperation, the experienced sales person would have handed the sure fire customer over to the rookie, and focused their efforts on the undecided customer. The dealership as whole would have potentially made two sales instead of one. 
+
+This still has the issue however of the "drunk" stipulation on the right. Again, there's no obvious analog on the left, and again there's an illegitimate implication (that all gun deaths are results of the same type of flagrant misuse of guns as drunk driving is a flagrant misuse of a car). 
+
+When I was young I really enjoyed the books of logician Raymond Smullyan, who wrote several books of logic puzzles held together with minimal but amusing narratives, including The Lady or the Tiger? and To Mock a Mockingbird. Lewis Carroll himself wrote a similar book called A Tangled Tale (but it can be a bit rough going for a modern reader). There's also the justly famed Godel, Escher, Bach which might appeal to a young reader of the right temperament. Flatland is more math than philosophy, but still food for thought. Likewise, The Phantom Tollbooth introduces advanced concepts in mathematical philosophy within the context of a thoroughly entertaining children's novel. 
+
+Informal fallacies have fuzzy boundaries. This seems to me to be a variation on "cherry picking," which is basing a general conclusion on a few carefully selected data points (which may not reflect the larger trends). 
+
+Gun control IS TO reducing deaths from gun violence AS making it harder for sober people to own cars IS TO reducing deaths from drunk driving.

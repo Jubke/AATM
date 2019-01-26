@@ -1,0 +1,29 @@
+Now imagine you’re a programmer, trying to solve a problem what requires you to hold multiple items critical to both understanding and solving the problem. Next Imagine a PM, running over to your desk and asking the following. 
+
+Create a stack of user cards in a separate colour for the Kanban Board. These are your BAU cards. Give each of these cards a rough hours value adding to 34 and put them onto the board blank. For example: 1,1,1,1,1,2,2,2,2,3,3,5,10 Do you feel you should allocate work though? Do it feel to you that that is the role of the Scrum Master? If you are a former Project Manager then maybe this behavior comes easily. For this aspect I have a round-robin of activities but the most effective has been listing the Agile Principles and asking the team to note on post-its examples of where they get it right / wrong or where we focus on the items on the right more than the items on the left. 
+
+Reinforce this. Like a relay team, the clock stops when the last man crosses the line not the first; they are not behind; they are simply demonstrating to the business more realistic expectations of what can be achieved. Timelines move, developers don't work longer hours. That's the sustainable part of Scrum. 
+
+The aim is a cross-functional team as much as possible but a COBOL developer does not magically become a Jenkins expert and a QA Tester does not instantly become a Java developer etc. We have to be sensible. 
+
+Your thinking assumes several fallacies which have been evidenced time and time again. 
+
+Ask the Product Owner if they see the value in cross-functional working and can they devote some Sprint time to the Development Team to train/coach/mentor the developer? Is there capacity to have them do self-guided learning with online resources? 
+
+Miller's Law states we have the ability to hold onto 7 +- 2 items in short term memory. These memories can last for up to 18 seconds and are refreshed by the original context. Any distraction will affect short term memory from stress, noise to music and loud conversations. 
+
+Wouldn't it be more beneficial to have a fluid design and commit to some small slice of working software which is then reviewed to make sure you are on the right track? 
+
+There are over 40 different ways to gather data regarding the previous Sprint or timebox. As a Scrum Master you should maintain a list of your preferred options and the latest thinking on the subject. “I need to show you this bug on the test environment as the client sees it and is wondering if it will be in the release next week”. 
+
+Lastly, no Scrum Team member is ever behind. They are a team. It is a team delivery. Traditionally for a two-week Sprint it would be 
+
+Should Management provide advice? Possibly. Probably not but possibly. The primary rebuttal against in-depth documentation was that 
+
+There is an official answer which is supported by the Scrum Guide and will help you pass any number of Scrum exams but has little applicability in the real world of software development. 
+
+I aggregate and anonymise all data before presenting a transparent actions report following the meeting. All developers are protected. 
+
+I have been asked to join a new a team which is struggling with agile adoption within a large programme utilising fairly methodical Scrum. The aim of the product is to create a surface layer over the current legacy customer information systems (There are 4) which ties all of them together into one common interface and (eventually) replace the systems. 
+
+Sprint Planning | 4 hours | First day of the Sprint Backlog Refinement | 2 Hours | Mid-Sprint Sprint Review | 2 hours | Last Day of the Sprint Sprint Retrospective | 1 hour | Last Day of the Sprint I know some teams have experimented with Mon-Fri type Sprints, Wed-Wed Sprints but I have not come across a working practice which puts Sprint Review, Retrospective and then straight into Planning on the same day.

@@ -1,0 +1,29 @@
+Edit: I came across YUI's AsyncQueue which isn't a complete solution for the type of problem I have, but is in the same space. It seems to be more for sequencing or ordering a bunch of async operations, but I don't see how it helps with the type of decision making I have. 
+
+I can think of all sorts of somewhat ugly safeguards I could put in my code such as: 
+
+Here are some of the types of questions I want to understand. These are just examples - I'm actually looking to understand the rules the language goes by, not just the answers to specific examples. But, here are some examples: 
+
+When those two images are loaded, there's some more display stuff to do. 
+
+Can anyone figure out what is wrong with this code? I'm trying to write a small number of bytes to a file and all I get is a zero length file with no errors reported. 
+
+As an example of how confusing it can be: 
+
+Here's an interesting chart that shows which types of objects create which types of events: https://developer.mozilla.org/en-US/docs/DOM/DOM_event_reference 
+
+Because selectors can be fairly involved, this means that jQuery has to parse each selector and then compare it to the characteristics of the original event target to see if it matches each selector. This is not a cheap operation. It's no big deal if there is only one of them, but if you put all your selectors on the document object and there were hundreds of selectors to compare to every single bubbled event, this can seriously start to hobble event handling performance. 
+
+Here is an article on the auto-conversion of a primitive to an object for purposes of dealing with properties: 
+
+I've done a lot of searching and find lots of specific examples (many of them here on SO) from which I can start to piece together pieces of the real rules, but I haven't yet found a single, well written document that describes it all. 
+
+I know that the socket.io client library will close the current socket.io connection (and then attempt to reconnect) if it is not regularly receiving a response to the ping packets that it sends to the server (under the assumption that the connection has died for some reason). And, there are client options for controlling this reconnect behavior. 
+
+Below the covers, javascript has an event queue. Each time a javascript thread of execution finishes, it checks to see if there is another event in the queue to process. If there is, it pulls it off the queue and triggers that event (like a mouse click, for example). 
+
+I'm looking for some good comprehensive reading material on when Javascript passes something by value and when by reference and when modifying a passed item affects the value outside a function and when not. I'm also interested in when assigning to another variable is by reference vs. by value and whether that follows any different rules than passing as a function parameter. 
+
+Working demo: http://jsfiddle.net/jfriend00/joy06u4e/. 
+
+Here's a typical example in a non-browser setting. Imagine you have a Windows dialog that has a bunch of typical dialog box controls, a couple buttons and a rich edit control in it. If you're in a typical dialog box control, the Enter key on the keyboard will activate the OK button on the dialog and accept the dialog's changes. If you're in the rich edit control, the Enter key will enter a new line. The dialog box is somehow able to tell whether the current control in the dialog box wants to process the enter key or whether it should be handled globally.

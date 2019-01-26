@@ -1,0 +1,13 @@
+Anything that can't kill you in one hit will die. You won't be able to stand there and take it from Arcane or Plague champion groups, but normal monsters provide no difficulty. 
+
+You're going for quantity over quality for this goal. Simple and easy is the name of the game. The more you kill, and the faster you kill, will net you more gear for the same amount of time investment. You want the highest act that you can kill things easily. If Act 1 is a yawn, and Act 2 gives you no trouble at all, run Act 2. Same with Act 3. This will let you gather as much gear as you can hold, over and over and over. Magic Find is not a factor for this goal. I've been saving superior or masterwork white items for eventual use in these crafts. But it occurs to me that I have no idea if these are even worth keeping for this use. On one hand, they're pretty rare to find, and that limits how many I can craft. On the other, if they actually do provide better quality crafts, there's an advantage in using them. But if they don't, I've been passing by lots of white items for no reason at all. 
+
+Trying to check Blizzard's site, plans don't even have their own page. You can see the list of plans, but clicking on one just brings you to the crafted item. Strength adds to armor, which is always good. Don't look for it, though, as that's all the bonus it give you. 
+
+Vitality is the last required modifier. This one is last because you don't need a whole lot; enough to survive the biggest hits, but anything that doesn't one-shot you will die. This is why I currently have a grand total of 14,000 life. This is making the assumption of the drop rate of 6-affix gear is equal throughout Inferno. If there is any change in drop rate (and we know what that change is), you can use the formula above to determine what your chances of the item are. You can use your kill rate to determine which act you should be running at that point. 
+
+Based on this data, the chance of getting Inferno-class gear is: 
+
+Since Blizzard published the fact that Magic Find increases the quality of your drops, as well as the quantity, Magic Find plays a much more important role in your required stats than it used to. 
+
+Higher Critical Chance synergizes very well with Sweeping Wind. If you can get this without sacrificing any required stats, get it. It will crank your DPS into overdrive.

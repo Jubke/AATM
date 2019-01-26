@@ -1,0 +1,61 @@
+See a discussion of both thought experiments in Johnson's How I Got the Blue. For a modern scientific look at color perceptions see Bimler's Psychological Color Space and Color Terms. 
+
+Later German romantics, like Hölderlin and Novalis, moved from "Spinozism" to a more up to date version of the "unity with the living Nature", idealism in the style of Schelling. Panpsychism and pantheism are routinely read into Blake's and Wordsworth's poetry by popularizers, see e.g. Albuquerque, but again one would have to apply the label loosely, in the sense of nature displaying some driving force, and perhaps sense and purpose, irreducible to mechanistic causation. 
+
+In Leibniz's monadology each monad is unto itself, "without any doors or windows", receiving no sensory or any other input. Awareness of other monads only emerges due to "pre-established harmony". The thinking monads, souls, are at the top of the hierarchy. 
+
+Here is another version of the same fallacy with immateriality replaced by intentionality, which is due to Searle: 
+
+However, one does not have to be a solipsist, or even an idealist, to believe that thinking can happen without a sensory input. There is a famous Avicenna's Floating Man thought experiment, where he asks us to imagine that a man is created suspended in the air, with all senses disabled: 
+
+But, having said this, here is an extract from : 
+
+Finally, we "generalize" to conclude with: 
+
+See P.A. Brunt, Studies in Stoicism (2013), page 455: 
+
+Now the conclusion of the syllogism easily follows: 
+
+In order to speak of truth, we have to add the "semantical" side [see : Daniel Isaacson, Sufficient conditions undecidability of the Gödel sentence and its truth (2007)]. 
+
+In other words, either the mind actually has a non-algorithmic and not fully “mechanizable” nature, or else there exist absolutely undecidable mathematical problems. But [Gödel's Theorems] don’t allow us to go further and conclude that the true disjunct is the first one. According to Gödel, then, what follows from [them], and especially from [the Second one], is that if our mind is a computing machine, it is one such that it “is unable to understand completely its own functioning.” 
+
+Assuming that the system F is sound with respect to truth in the structure of the natural numbers (called N), we have that : 
+
+Regarding "the picture theory of meaning that the later Frege rejected", we have to consider the fundamental Context principle that Frege formulated already in 1884 and that is present also in Wittgenstein's TLP. 
+
+The "correct" interpretation of Newton's ideas and researches on light is a complex issue and Newton's theory for sure evolved during time. 
+
+Conclusion : it is not a question of "seeing the truth of ...". We have a strict mathematical proof of a conditional : 
+
+We instantiate 1) with Thought for y having: 
+
+Up to now, we have only a "syntactical" result, about provability in a (suitable) formal system. 
+
+It can be frustrating ... bu Frege has no "theory of mind", nor a thpoery of language aquisition. 
+
+Let assume some "technical" facts regarding Gödel's Incompleteness Theorems : 
+
+(3) The kind of colour and degree of refractability that any particular sort of ray has can’t be changed by refraction, or by reflection from natural bodies, or by any other cause that I have so far found. 
+
+In Leibniz's monadology each monad is unto itself, "without any doors or windows", receiving no sensory or any other input. Awareness of other monads only emerges due to "pre-established harmony". The thinking monads, souls, are at the top of the hierarchy. 
+
+Here is another version of the same fallacy with immateriality replaced by intentionality, which is due to Searle: 
+
+Categorical intuition releases Husserl from the need to keep perhaps the most implausible part of Kantian picture, the forever immutable a priori categories and forms of intuition. But it is not the intellectual intuition of Spinoza and Fichte, it captures invariances of sensuous experience, not "glimpses" of things in themselves. But with it Husserl can be more generous on what is almost a vanishing point in Kant, the unknowable X. The transcendence, as Husserl calls it, is that content of consciousness that "points beyond" consciousness itself, given to it as not its own but foreign, subject to pre-cognitive awareness as the "raw matter" of sensuous experience. The limited creative ability to perceive wholes, however weak and partial, ability that Kant denied us completely as "intellectus archetypus", allowed Husserl to remove some of the other-worldliness surrounding Kantian "supersensible substrate of experience", although as for Kant it remains beyond the reach of knowledge. 
+
+The threat of epiphenomenalism is indeed a major issue intensively discussed in the last decades. But while there is a broad consensus against it, there is no agreement as to what exactly blocks it. Burge in Foundations of Mind (Ch. 20) even says that the dominance of materialism in the contemporary philosophy of mind is a reaction (in his view unwarranted) to the epiphenomenalism anxiety. The simplest resolution would be physicalism, mental states are reducible to physical states, then of course there is no problem with them affecting the physical. So far physicalism was unsuccessful in reducing even classical chemistry to quantum mechanics (in fairness, the problem is incredibly complex for technical reasons), and with reducing mental to physical the added difficulty is understanding what that even means for qualia, consciousness, volition, etc. Physicalism still has many supporters, but its popularity somewhat waned. 
+
+It can be frustrating ... bu Frege has no "theory of mind", nor a thpoery of language aquisition. 
+
+For detailed discussions of the so-called Lucas-Penrose arguments, see : 
+
+Now the conclusion of the syllogism easily follows: 
+
+The "correct" interpretation of Newton's ideas and researches on light is a complex issue and Newton's theory for sure evolved during time. 
+
+We instantiate 1) with Thought for y having: 
+
+In other words, either the mind actually has a non-algorithmic and not fully “mechanizable” nature, or else there exist absolutely undecidable mathematical problems. But [Gödel's Theorems] don’t allow us to go further and conclude that the true disjunct is the first one. According to Gödel, then, what follows from [them], and especially from [the Second one], is that if our mind is a computing machine, it is one such that it “is unable to understand completely its own functioning.” 
+
+In order to speak of truth, we have to add the "semantical" side [see : Daniel Isaacson, Sufficient conditions undecidability of the Gödel sentence and its truth (2007)].

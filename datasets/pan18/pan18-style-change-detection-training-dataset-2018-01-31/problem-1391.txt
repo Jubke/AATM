@@ -1,0 +1,47 @@
+I'm trying to understand what paste script and paster are. The website is far from clear. I used paster to generate pre-made layouts for projects, but I don't get the big picture. 
+
+My question is relative to the design of a getCoordinate(index) method. Should I return a tuple of floats, or a Coord3D object? 
+
+On the other side, it can become a compatibility nightmare. You cannot unpickle objects if they are not defined in your code, exactly as they were defined when pickled. This strongly limits your ability to refactor the code, or rearrange stuff in your modules. Also, not everything can be pickled, and if you are not strict on what gets pickled and the client of your code has full freedom of including any object, sooner or later it will pass something unpicklable to your system, and the system will go boom. 
+
+I am working on a library, where the Coord3D object is used as is. Using it would increase the cohesiveness of my library, as the data types will be uniformly used. The Coord3D object has state and behavior. Indeed, the Coord3D object aggregate the coordinates and the units in a single entity. Operations among Coord3D objects will keep into account the potentially different units, and act accordingly. I can put centralize control code into the Coord3D class instantiation to refuse, for example, arrays of length 4, or non units. If I use a tuple, I cannot perform this check. Moreover, if a method accepts a Coord3D, is sort of guaranteed that it's well formed upfront (you could be bold and check for isinstance, or check the interface). A tuple can contain invalid data. Although python approach to error handling is done where the trouble happen, a class preventing me to have an xyz coordinate made out of three strings is somehow beneficial (correct me if wrong, please) On the other hand, using a tuple has the following advantages: 
+
+Edit: to recap the answers I got until now, it looks like there's no clearcut choice. It has been said (appropriately) that python is not Java, and you don't need a specialized class for everything just because you need it by language architecture. In my case, however, I have the following conditions: 
+
+Be very careful about its use. there's no better definition of quick and dirty. 
+
+by the way. I hated it at first, now I hate the opposite. same for indented-driven flow control. 
+
+And the difference between abstract and interface is a hairsplitting thing when you have duck typing. 
+
+A Python file is called a "module" and it's one way to organize your software so that it makes "sense". Another is a directory, called a "package". 
+
+In another project (the "Root" Project), there are no issues. Things work perfectly. The DB settings create the proper sqlite3 backend instance. 
+
+This takes some time, but it gives me a clean, new latest-and-greatest environment. But is there a down-side? [And why does easy_install hard-wire itself?] 
+
+Is FastCGI available for FC9, and I just overlooked it? 
+
+Offer it as a web service. SaaS involves no downloads to customers. 
+
+A module is a distinct thing that may have one or two dozen closely-related classes. The trick is that a module is something you'll import, and you need that import to be perfectly sensible to people who will read, maintain and extend your software. 
+
+So, what's different? I'm stumped. It's the environment settings or the physical directory trees are the top potential issues. 
+
+It appears that I have several choices for going forward. Anyone have any preferences? 
+
+Offer customization at rates so attractive that they'd rather pay you do build and support the enhancements. 
+
+If you simply want to call the view from within your code, just do it directly - no need to use reverse at all. 
+
+Firstly, your URL definition does not accept any parameters at all. If you want parameters to be passed from the URL into the view, you need to define them in the urlconf. 
+
+That said, if all you want to do is store the data, then just put it in the session: 
+
+Secondly, it's not at all clear what you are expecting to happen to the cleaned_data dictionary. Don't forget you can't redirect to a POST - this is a limitation of HTTP, not Django - so your cleaned_data either needs to be a URL parameter (horrible) or, slightly better, a series of GET parameters - so the URL would be in the form: 
+
+It's perfectly possible to use an inline for a OneToOne relationship. However, the actual field defining the relationship has to be on the inline model, not the parent one - in just the same way as for a ForeignKey. Switch it over and it will work. 
+
+Edit after comment: you say the parent model is already registered with the admin: then unregister it and re-register. 
+
+The whole point of using redirect and reverse, as you have been doing, is that you go to the URL - it returns an Http code that causes the browser to redirect to the new URL, and call that.

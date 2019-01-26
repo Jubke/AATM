@@ -1,0 +1,37 @@
+The Isha Upanishad has something interesting to say about this: 
+
+To suppose science has the answer for everything, is to make the same mistake when people thought that theology has the answer for everything. One must make a judgement, as well as understand different kinds of knowledge are possible, when we interpret knowledge in the broadest possible way. 
+
+And yes, 2+2=5 is a joke - and not to be taken seriously - other than to provoke a little thought amongst the mathematically or logically inclined. 
+
+Consider the following argument: 
+
+But when we look at energy as a substance, that is something that remains conserved through accidental change, we see in fact that the conservation of energy is a law that characterises the meaning and the substance of energy. This is a philosophical view - we have here an invention of a concept. 
+
+That their arguments are taken seriously is due to the high visibility & success of the Physicalist project in its manifold forms. This does not mean that it is correct. 
+
+But ironically, Cantor himself worried about that too, he had mystical tendencies towards the absolute infinite (perhaps he too had read Hegels doctrines). Aristotle, believed in a potential infinity, but not an actual one. Cantors theories of the infinite, far from disproving this claim, only affirmed them. It kind of leads one to suspect that Kronecker never spent the time to understand Cantors theories. 
+
+Derrida wrote Sign, Structure & Play in the Discourse of the Human Sciences to present at a symposium at John Hopkins University in Baltimore in 1966 titled The Language of Criticism & the Sciences of Man. The intention of the symposium was to clarify the field of structuralism and define some of its common problems across disciplines. One should not be misled by the 'Sciences of Man' to suppose that they were primarily interested in the hard sciences - they were not - but to sciences applied to man, that is the study of man in his own being, for example sociology, anthropology or literary criticism 
+
+First, measurement is not just what a physicist does when he measures the momentum of an electon or an atom, but what every system does when it reacts to another: One could say here, that the first system 'measures' a property of another system and reacts accordingly; but it is also true that the second system measures the first system and also reacts accordingly. 
+
+I tend to interpret Quine's conclusion in terms of the readers' side of things: in order to interpret even the most basic, small facet of a scientific result, you need to impose a big background of theory. For an obvious example, take the report that the Higgs Boson has a mass of XXX +/- YYY GeV/c^2; huge amounts of background knowledge are required to even make sense of this one reported number. Even something as basic as "we measured the thickness to be ZZZ mm with calipers" implies a theory that the thickness of the whatever (as opposed to say, its surface roughness) is the salient factor in this context. Similar considerations affect the practitioners' reporting: they can't provide all of the background information so they need to assume (usually implicitly) that the reader will interpret their results in the light of a commonly held theory. This then pushes back into what practitioners actually do: if I can't sensibly communicate it within the theoretical constructs of my scientific community, then it's not worth doing (or if I do it, I'll end up being outside my scientific community). 
+
+Although some of the aspects of Popper's work have been refined (or had holes poked in them) the central idea that science involves the process of putting forth ideas that can be proven wrong, is pretty widely accepted in the philosophy of science. 
+
+if it doesn't have observable effects, then why propose it in the first place? (or what does it mean to say it exists?) 
+
+Sometimes you might hear "the law of gravitation" or "theory of gravity" or similar to refer to the scientific ideas and mathematical description of the phenomenon. 
+
+TENS, when looked at in detail, is not "one theory" it is a class of ideas. E.g. I'm under the impression that it is an open question whether group selection is a real (in some sense) phenomenon (people in the field could probably pick out other open questions); which ever way this question, or the other open questions, pan out, you're still dealing with TENS. 
+
+In conventional medicine, the relevant definition is clinically effective -- basically that there is a statistically significant effect in a suitably controlled (and randomized) test sample. This includes accounting for the placebo effect. If a treatment is clinically effective, that should satisfy the logical positivists. It is not impossible for alternative medical practices to satisfy this requirement in principle (to my knowledge homeopathy specifically does not, but acupuncture has for some forms of pain management). Note that there is no problem of induction in applying the criterion of "clinically effective" to proposed medical treatments. 
+
+Sometimes you might hear terms like "the phenomenon of gravity" or "the physical effects of gravity" or similar which call out that the speaker is referring the physical phenomenon. This is how we can refer to the natural phenomenon itself. 
+
+The alignment of a scientific worldview and atheism often come back to the ideas embodied in Russel's teapot or Sagan's Dragon 
+
+Observations can rule out entire classes of scientific ideas. If you get enough observations rule out a bunch of other ideas, such that for everything that is left as a possibility is still in the class of TENS; then you've "proven it"; again, I've seen this more in physics (more mathematically rigorous) where experiments rule out enough different possibilities that what is left is some variation on one kind of idea. 
+
+I'd be remiss if I didn't include the standard, uncontroversial, observation that one person's death can be bad for his/her survivors, through their grief at the loss. For me, this would include even the very earliest stages of the development process: the anguish felt by some people who wish to bear children but cannot, is clearly a bad outcome, even though barely any steps have been made in the progression.

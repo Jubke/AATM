@@ -1,0 +1,19 @@
+Deckard Cain's conversations are only in Act I and since you can't speak to him after he enters his house once The Doom in Wortham starts, that's definitely when all conversations with him have certainly been missed. 
+
+Act I Act II Act III Act IV Extras These don't count toward the achievement 
+
+There's a fairly simple step-by-step guide on Blizzard's site: 
+
+Deckard Cain's conversations are only in Act I and since you can't speak to him after he enters his house once The Doom in Wortham starts, that's definitely when all conversations with him have certainly been missed. 
+
+There are 16 parts of Leah's Journal. They are found in the same location in each of the town hubs in Acts I-III. The specific parts are available immediately from the start of the first listed quest (it must have been started and listed as your objective) until the end of the last listed quest (no longer listed as your objective) in the list to follow. 
+
+What character/attack/strategy should I use? Is this something where you need a 4-player co-op to achieve it or something (exact timing on this would be bananas)? 
+
+Act I Origins of the Coven: Before you start The Broken Blade. Leah and Cain's Travels: Sometime during The Broken Blade. It might be related to Leah's conversation Leah's Childhood so I'll have to do some testing. The Worldstone: Sometime during The Broken Blade I don't have the specific objective on this one. 
+
+Certain book parts will only be available during certain acts (Leah's Journal, Deckard Cain's Journal). The only suggestion I have for this until a complete list is posted for the affected book parts is to check back during each quest in the main story. 
+
+If you're missing books for a location after exploring the entire area, the only way to find them is to generate a new map instance for the area (Exit to character select and the Resume) after which you will have to re-explore the area. The trick is figuring out which location holds the book that you are missing. 
+
+I did a run through with a new character, noting when each of the conversations became available. There are a few that the exact point in the quest is not 100% because a friend joined and I didn't want to hold them up by running back after every single objective. Once you've heard a conversation, if it was missable, it seems to stay around in stead so until I go through with another character and don't talk to anyone, I can't be certain when exactly they can be missed.

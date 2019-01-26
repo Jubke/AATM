@@ -1,0 +1,23 @@
+It looks like it's been cut too short so can't be tucked out of the way. But you may be able to cut it still shorter and use a smaller end cap/ferrule, or just part of one, or a blob of glue to stop the end fraying. 
+
+I'd be happy to dismiss it as bad luck, but if this is an issue I'll fit tyre liners next time I mount these tyres 
+
+Bending the cable may work too -- you might not have enough length but a sharp bend away from the tyre might work. Use longnose pliers. This stopped my front derailleur cable irritating my leg, for example. 
+
+Also don't forget to unweight the saddle on bent legs as you go over rough stuff (potholes etc.). You might of course just have been unlucky. 
+
+With the exception of fatbikes, the widest bike tyres are narrower than the narrowest motorbike tyres. I'll ignore fatbikes as somewhere between too specialised and a novelty. 
+
+Keeping cars off a bike path is easily done with bollards. Good solid posts 1-1.5m apart will completely block cars, and the middle one can be a removable, lockable version to allow service vehicle access. Alternatively a gate can be provided next to the bike gap. This also permits horse riders. Where the primary concern is horse riders but bikes are permitted, a gate that a horse can step over is sometimes fitted. A cyclist has to dismount and lift the bike over - one thing on a lightly loaded MTB, another touring with a trailer. Here a picture of one (CC-by-SA David Hawgood via Geograph.org.uk): In this case it would also be possible to get a bike round the gate. 
+
+I haven't yet patched the tube (I do them in batches to save the glue drying up on the shelf) but there was no visible damage (or hissing with everything still on the bike). The tyre had held pressure for a week before feeling low on Saturday and being confirmed on Sunday, so I'm not inclined to blame grit in the valve. 
+
+If your current tyres are knobbly right out to the shoulders and your new ones much smoother you might get away with it. But you won't know until you try it by which point you've bought at least one tyre. 
+
+In summary: motorbikes can have bigger tyres because they've got more power, and they need to because they're faster and more powerful. 
+
+Several of the spike bases showed signs of wear on the inside of the tyre, in one case there were threads showing. By the time I found that I'd taken the tube out, so I just covered it and put a new tube in. 
+
+fit the uninflated tyre and tube as you normally do pump it up to 10-15psi - just enough that there's air in there but it's still very spongy ideally spin the wheel, but just looking around it also works. Look for bulges or dips in the tyre sidewall relative to the rim, ideally using a line around the tyre (a moulding line or the reflective strip). when you see a dip down into the rim, grab the tyre firmly on both sides and rock your hand to pull that bulge up into the correct position. when you see a bulge upward you need to pull the rest of the tyre down. Start 1 few inches past the bulge and rock the tyre up (as above), then repeat this around the tyre until you're back at the bulge (which should be gone by now) repeat on the other side of the tyre. Steps 4 and 5 are easy to skip, and the reason why you want very little air in that tyre. The "explode on first inflation" thing happens occasionally in bike shops, and it's a chance for everyone else to laugh at whoever did it. After getting over the shock of the loud noise! 
+
+See, even if that's out by a factor of ten, we're still looking at a volume change of 10-5. So the pressure change will be about the same, a change of 1/1,000,000 the actual pressure.

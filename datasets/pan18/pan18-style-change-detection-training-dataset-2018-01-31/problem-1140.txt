@@ -1,0 +1,51 @@
+In this video, a college basketball player steals the ball, races down court, and avoids the defender by throwing a pass to himself off the backboard. 
+
+Obviously the officials allowed it, but I couldn't find an explicit mention in the NCAA Rulebook. Is this ruled as a shot, and if so, why is it legal? I'd be interested in the answer for any level of basketball, though NCAA is the most relevant. 
+
+Note that "airborne" and "in flight" are not explicitly clarified anywhere in the NFL rules that I can find. A high bouncing kick could be construed as airborne by the dictionary definition; in fact, the NCAA has recently made exactly this decision: 
+
+Similarly, in the NBA, possession beginning each period is determined by who had the first possession (rule 6.I.b). Tipping the ball out of bounds does not count as a possession (rule 4.XVIII). 
+
+If a tie-up occurs before either team has gained possession, then a new jump ball is held (rule 6-2.3). 
+
+The NCAA has a similar rule (rule 7, section 3, article 2 of the NCAA rules): 
+
+13.3.3: [Faults of the attack hit] A back-row player completes an attack hit from the front zone, if at the moment of the hit the ball is entirely higher than the top of the net. 
+
+So, “To destabilize the reception and prevent a series of 4 second side out points, and thus make the game less predictable, reception of service overhand with fingers will be judged more strictly.” If the service will be received using overhand finger action, the hit must be clean – no double contact and no catch. This change affects only the service reception (further defensive actions during the rally will be unaffected and subject to the “first team hit” exception) and only the overhand reception. The exact wording of the newly created rule 9.2.4 will be as follows: 
+
+Note the rule does not forbid overhand reception of a service per se, it just requires it to be completely clean. But, presumably, unless the hit is very clean, it is going to get whistled automatically. This change also brings indoor volleyball rules a bit closer to beach volleyball, where overhand service reception is also not explicitly prohibited, but everybody receives using forearm bump, as an overhand reception would be whistled ±automatically as a double contact. 
+
+(All citations from the IIHF Official Rule Book 2014–18.) 
+
+Update: The below answer was valid at the time it was posted, however, the rules changed dramatically, and now any contact with the net by a player between the antennae, during the action of playing the ball, is a fault. (With explicit inclusion of the take-off and landing in the action of playing the ball.) Therefore, per the current rules, both sample situations are now faults. 
+
+This is why most onside kickers attempt to either roll the ball along the ground or kick it down hard so that it bounces high. A high bouncing kick is ideal, since the bouncing is likely to slow it down enough that the kicking team can get into position and block the receivers. 
+
+Note that "airborne" and "in flight" are not explicitly clarified anywhere in the NFL rules that I can find. A high bouncing kick could be construed as airborne by the dictionary definition; in fact, the NCAA has recently made exactly this decision: 
+
+e. The passer to conserve time throws the ball directly to the ground (1) after the ball has already touched the ground; or (2) not immediately after controlling the ball. 
+
+The rules make a special exception for the case of a kick holder, or else place kicks would be nearly impossible to execute. 
+
+So spiking is legal only if the snap was not fumbled, unlike the NFL. 
+
+Rule 8, section 2, article 1 of the NFL Rules: 
+
+Similarly, in the NBA, possession beginning each period is determined by who had the first possession (rule 6.I.b). Tipping the ball out of bounds does not count as a possession (rule 4.XVIII). 
+
+The NFL has no such rule, though. 
+
+Because it's specifically permitted by the intentional grounding rule. 
+
+The key word is "airborne". Once the kick has bounced, it is no longer considered airborne. If the onside attempt is a "pooch" (short high kick), then even if no one signals for a fair catch the kicking team would be penalized if they interfered. By Section 1, Article 1, item 2: 
+
+(Rule 102 – Penalties on the Scoreclock) 
+
+Because the Laws of the Game define offside as (Law 11, p. 33): 
+
+Update: The below answer was valid at the time it was posted, however, the rules changed dramatically, and now any contact with the net by a player between the antennae, during the action of playing the ball, is a fault. (With explicit inclusion of the take-off and landing in the action of playing the ball.) Therefore, per the current rules, both sample situations are now faults. 
+
+Simplifying it a bit, touching the net is a fault only when 
+
+Currently, at the first hit of the team including the service, double contact is not called (provided that the contacts occur during one action, see rule 9.2.3.2), which means a great share of receptions is nowadays done using overhand, even though these hits are not clean. However, it also means todays men’s volleyball is generally: hard jumped serve which is very often a fault or an ace, or it is received nicely and properly set to a spike which ends the extremely short rally lasting just a few seconds, with such sideouting play being very predictable and boring.

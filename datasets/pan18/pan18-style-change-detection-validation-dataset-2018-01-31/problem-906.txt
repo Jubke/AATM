@@ -1,0 +1,21 @@
+(See SEP Entry on Informal Logic) 
+
+The second theorem proves that no consistent axiomatic system which includes Peano arithmetic (or stronger) can prove its own consistency. 
+
+On the other hand, this kind of context-sensitivity gets in the way of studying common patterns across different domains, i.e. an effort at theoretical generalization, which you seem to be interested in. Countering this case-study trend, some parts of informal logic aim to construct a comprehensive account of these different types of argumentation. Historically, these attempts have mostly been made in a field called argumentation theory, a field drawing from logic and linguistics, which intersects with informal logic. 
+
+You seem to appreciate why "pure" logic (I take it that you mean classical first order logic) is useful in the context of mathematical logic, but you don't see the point in formalizing other modal notions in ordinary language. While presenting you the many applications of modal logic might convince you, it may be easier to indicate how modal logic was important in the development of the very field of mathematical logic that you seem to appreciate. 
+
+As it is not possible to characterize (i.e. axiomatize categorically) infinite structures in FOL, as you say, set theorists simply work with the intended model and they care about non-standard models only when they're needed. That's as good as it gets, I worry. 
+
+That the axiomatic system may be inconsistent or not has nothing to do with the existence of undecidable propositions in that system. Inconsistency and incompleteness are not related in that way. 
+
+Historically, you might be interested in the "pragmatic logic" of the Polish School, which is customarily well known because of its key contributions to formal logic, less to informal logic. See Marcin Koszowy, "Pragmatic logic and the study of argumentation", 2010 (PDF). 
+
+In the "critical thinking" department the book Critical Thinking by Moore and Parker is a classic. 
+
+1. Yes, it is logically possible that there is no consistent formal system that can serve as a foundation for mathematics. This follows immediately from Gödel's second Incompleteness theorem, which proves that that no consistent axiomatic system which includes Peano arithmetic (or stronger) can prove its own consistency. 
+
+Well, a pragmatic answer is that it is not considered a problem because of FOL's inability ;) 
+
+To understand why this is the case, it helps to remember that the first tradition is commonly identified with logicism, a conception which defines the raison d'être of logic as the task of giving foundation for all of mathematics. For most logicists this implied that it was impossible to "stand outside" of logic and thereby to study it as a system (in the way that one might, for example, study the real numbers). This had severe consequences: Russell and Whitehead

@@ -1,0 +1,43 @@
+Here's the full transcript for those who care. (Please ignore the formatting of my initial message. I wasn't yelling. The bold/italic was added in later by an enthusiastic moderator.) 
+
+untagged is back, and nearly 170 137 122 questions strong but we've whittled it down to a handful of questions from nearly 170, and four of those are already closed. On the surface, it looks like someone burninated interview-questions and what-language-is-this-code. Can I get some help editing the few salvageable posts and closing/deleting the rest? 
+
+Edit: Just had a new idea: set up a special, one-time-only review queue to prepare for this split. Every existing MSO question would go into the queue. The queue prompt would be "Which site will this question belong on after the split?" Options would be "MSE" for questions applicable to the whole network, "MSO" for SO-only questions and "Neither" for questions that just ought to be deleted (plus, of course, "Skip"). 
+
+*Because, uh, you see, I'm about to join your ranks, and I would like to know what I'm getting into... 
+
+I think that this will have a big impact on quality, as I am sure many people are reluctant to hit that down arrow because of the -1. 
+
+This coupled with notification of comments should give people enough time to correct the post (if it is salvageable) while still having it off the site. 
+
+I know you've implemented the "have you considered an explanation" to the down-vote button for lower rep users, but with the greater cost you might need a greater nudge. 
+
+If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+"What!" I hear you say, "people are reluctant to lose one point of reputation when they see something bad?!?!. That's just crazy". It may be crazy but I fear it's true, especially for low rep users who are struggling to reach the next privilege threshold. 
+
+The Stack Exchange shop is currently closed and they are not selling merchandise at the moment. 
+
+untagged is back, and nearly 170 137 122 questions strong but we've whittled it down to a handful of questions from nearly 170, and four of those are already closed. On the surface, it looks like someone burninated interview-questions and what-language-is-this-code. Can I get some help editing the few salvageable posts and closing/deleting the rest? 
+
+It's been months. Many months. Asking some questions. Answering many more questions. Thanklessly editing hundreds, nay, thousands, of vague and poorly-formed posts. Proving to all, far and wide, that you are the expert. That you know all there is to know about your chosen field. And finally, your hard work, your countless hours, your sleepless nights, have paid off. You have built up a nearly peerless reputation. You and your accomplishments are truly, as my old French teacher would have said, for-mi-dable! You are rolling in the Internet Dollars, having amassed bankrolls well into the thousands. 
+
+Then as the business gets larger, the founder gets stuck in some corporate headquarters building, and new people start to think of him as just some suit, not the friend who hired and worked with them. More stores open, and each location is a cold, sterile clone of the others, staffed by people who just need a job and don't really know the customers. Before you know it, the place is Wal-Mart. 
+
+This coupled with notification of comments should give people enough time to correct the post (if it is salvageable) while still having it off the site. 
+
+Once it's been edited it gets moved to the "undelete" queue for review and hopeful reemergence onto the site. 
+
+http://www.guardian.co.uk/technology/2009/jul/02/delphi7-windows-vista 
+
+"What!" I hear you say, "people are reluctant to lose one point of reputation when they see something bad?!?!. That's just crazy". It may be crazy but I fear it's true, especially for low rep users who are struggling to reach the next privilege threshold. 
+
+Either add a "Looks Good" button that increments the review count or make the "Not Sure" button increment the review count, but not count to removing the post from the review queues for anyone else. There needs to be a way to let people say: 
+
+If you find the comments offensive, flag the comments as "noise, offensive or spam". The moderators will see them and if they agree can delete the offending comment. 
+
+I think that this will have a big impact on quality, as I am sure many people are reluctant to hit that down arrow because of the -1. 
+
+Make it easier for people to remove bad and incorrect answers. Some possibilities for discussion: 
+
+We'd have to change the requirement for the badges though - a simple increase in the numbers (500 and 2000 for silver and gold) might be enough, or have the requirement be that you must have > 50% of real actions (edits, etc.).

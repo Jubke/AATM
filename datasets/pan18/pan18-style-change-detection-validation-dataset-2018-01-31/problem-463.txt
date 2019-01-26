@@ -1,0 +1,53 @@
+There are going to be other questions for which your experience is a less perfect fit, but for which you may well be able to give helpful pointers. Sometimes, researching an answer will give you valuable experience and knowledge - plus you can read the contributions of other people who know the answer. Again, you don't need a specific amount of experience to be able to answer such questions - you need an 'can do' attitude and willingness to do the research necessary to come up with the answer. 
+
+As the topics drift further from your current areas of experience, they get harder to answer based on your current experience. If you know Java but don't know C, it will be hard for you to answer questions on C. This is reasonable; don't try to answer such questions. 
+
+Status-Completed There are currently no questions tagged 8080. 
+
+Answering the questions in the original post: 
+
+Use the tagging system - interesting tags in particular - to ensure you see the questions in the areas you know about, but also to see questions in areas you don't yet know about. 
+
+What the heck, since I have a picture with my fancy hat and tie, I might as well keep posting these. Happy birthday to BoltClock! 
+
+Spammers know what they're doing. I'm not going to leave spam on Stack Overflow so that I can be nice to spammers. I'm here to serve the rest of the community. 
+
+I delete a lot of spam accounts. If the only reason an account exists is to promote a site or product, I will delete it. If you were providing any actual content you would have been given a warning. 
+
+Note: I removed The Definitive C++ Book Guide and List from the list above because I don't think moving that content around is as easy as the others. There are a lot of links (both on SO and around the Web) to that page that it would be better not to break. 
+
+Who do I have to prove it to? If I see a spam post at all, 99% of the time it was because it was flagged by someone else in the community. 
+
+Looking through their answers, many of them did win bounties. You can tell when a bounty is collected by the yellow outline around the checkmark. If you hover your mouse over the checkmark, it even tells you how much the bounty was. 
+
+I answer them when I see them. 
+
+There are several questions there whose content could be moved to a tag wiki. 
+
+It's give and take. You get to give thanks (as is common courtesy) and you get to take the answers. If you do not like this, I suggest you find an alternative forum to obtain answers to your pressing questions. 
+
+As the topics drift further from your current areas of experience, they get harder to answer based on your current experience. If you know Java but don't know C, it will be hard for you to answer questions on C. This is reasonable; don't try to answer such questions. 
+
+If someone wants to invest effort in retagging each 808x tag into intel-808x, I'd support that, but I'm not planning to try it myself. 
+
+The four tags 808[0568] collectively are all references to the Intel microprocessors; that is consistent, at least. 
+
+Use the tagging system - interesting tags in particular - to ensure you see the questions in the areas you know about, but also to see questions in areas you don't yet know about. 
+
+There are going to be other questions for which your experience is a less perfect fit, but for which you may well be able to give helpful pointers. Sometimes, researching an answer will give you valuable experience and knowledge - plus you can read the contributions of other people who know the answer. Again, you don't need a specific amount of experience to be able to answer such questions - you need an 'can do' attitude and willingness to do the research necessary to come up with the answer. 
+
+Status-Completed There are currently no questions tagged 8080. 
+
+Answering the questions in the original post: 
+
+I'm not deleting the account yet because there are still some other accounts that have used the same IP address that need to be looked into for strange behavior. 
+
+Looking through their answers, many of them did win bounties. You can tell when a bounty is collected by the yellow outline around the checkmark. If you hover your mouse over the checkmark, it even tells you how much the bounty was. 
+
+Who do I have to prove it to? If I see a spam post at all, 99% of the time it was because it was flagged by someone else in the community. 
+
+I answer them when I see them. 
+
+You need to show that you can contribute something back to the community if you want to continue using Stack Overflow. Start improving your posts in order to get some upvotes and you'll unlock your ability to ask questions again. Note: see comments. 
+
+python - What IDE to use for Python? data-structures - What are the lesser known but cool data structures? .net - Most useful free .NET libraries? compiler - Learning to Write a Compiler vim - What is your most productive shortcut with Vim?

@@ -1,0 +1,41 @@
+Can all users be invited to chat? (Assuming they have sufficient reputation to talk in chat, that is at least 20 reputation points.) Does every user have a chat profile? 
+
+EDIT: I will add that in situation described above, user A confirmed that they did not delete a comment. According to a mod, the flag is displayed as handled by community user. (For more details see the above link.) 
+
+I did not find an answer to this in other questions. (Maybe I did not look carefully enough.) 
+
+Question: Is a comment sometimes deleted by a single flag (or even without flagging) also if the system identifies it as some kind of a response to a previous comment after the previous comment is deleted? (Even if the comment does not contain some blacklisted phrase.) 
+
+At some point, the tag-wiki looked like this (as mentioned in this post): 
+
+However, I was able to find a message in chat mentioning a new tag-excerpt after the tag was created again. You can see in the revision history that the original tag-info was lost. The fact that the old tag-info was removed after the deletion was also mentioned in this comment. 
+
+However this contradicts my experience with a removed and recreated tag on one of the sites. (I will include details below.) This was in 2012, so it is possible that the behavior of removed tag-wikis changed since then. 
+
+So I am pretty confident that the messages from feeds do not count for the purposes of chatroom pruning. But since I did not find a place in documentation/on meta where this was clearly stated, I decided to ask this also here. 
+
+I have tried to search a bit here on meta and the information seems to be contradictory (emphasis mine); 
+
+The described comments were originally under this answer. However, the comments in question are now deleted, so they cannot be seen by regular users. 
+
+My guess is that messages from feeds did not influence freezing/deletion. One reason why I think this is the formulation "there is at least one person actively talking in the room" from the faq. Also when looking at list of rooms for some site and also at the room info, the last activity shown there is the time of the last message shown by actual user not the last message from the feed. (I have on purpose put here a link to a room which is not very active, so it is possible to observe this thing there. Although at this very moment the last messages in that room do not come from the feeds, but from users.) 
+
+Basically I just want to ask whether a room owner can see deleted room, transcript, messages in that room. 
+
+I am asking this as a follow-up of a previous discussion on Mathematics Meta: Why did flagging a comment for deletion made it disappear immediately? 
+
+This came up in a recent conversation in chat with another user who mentioned that they cannot see the room I linked to. I have tested and I saw that when I'm not logged in, I do not see the room either. So I thought that this is privilege tied somehow with the reputation. (Still, they were able to see a room which was frozen rather than deleted.) 
+
+Recently in another discussion an experienced user mentioned in a comment that if a tag with the same name is created again, then also the tag-info is recreated: 
+
+I have seen several discussions where a user was asking about possibility of removing 50 questions per 30 days quota. If moderators do not have a right to do this, it might have their lives easier, if they can point to a text in documentation or to a meta.SO answer saying that it is not possible. If they can do this, it would be useful to know about it. (I do not want to discuss here whether the question quota is a good thing and whether there are cases when moderators would have good reasons to remove it. I am simply trying to verify this.) 
+
+An to add another example, for this user I was unable to find their profile page on chat linked to meta.SE, but I still found that user on Stack Exchange chat. 
+
+Thanks for the experiment @rene. Since the first comment was deleted I have summarized this exchange in the post. - Martin 
+
+Something along these lines was also discussed here: Search is looking at the HTML encoded version of a post, rather than what would be rendered. (And perhaps you can find some other related posts.) 
+
+@rene So here is my "reply comment". If I understood the description given by other user, you should now deleted your comments and see what happens. (Possibly, if this does not suffice, flag my comment as "no longer needed" to see whether one flag suffices.) I hope I haven't use a problematic word here - which would make this into a "1-flag comment". - Martin 
+
+I have even tried to test this myself. I searched for users which have at least 20 reputation points, but the accounts are relatively new. (So that the probability that they some their comments have been moved to chat is lower.) For example, this user on math.SE. But when I tried to search for this user in chat, I did not find their user profile.

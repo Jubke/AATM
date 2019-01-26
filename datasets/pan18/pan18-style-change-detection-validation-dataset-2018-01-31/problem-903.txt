@@ -1,0 +1,23 @@
+If you buy into inductive logic, flying horses do not exist because their is no evidence for them. We can never be 100% sure of that statement because a single counterexample would invalidate all other evidence, but we can be mostly certain which is good enough for most purposes. 
+
+Since every mind will be disrupted by a unique set of interference, one solution to the problem of knowing if an explanation is rational or not is to submit it to a collection of minds in some public forum (such as this one!) where it can be analyzed. Presumably the consensus of many minds will eliminate the most common forms of bias. Problems with this approach are left as an exercise for the reader! 
+
+But (1) has nothing to say about (2) and vice versa, so you need to add another proposition. Perhaps: 
+
+The idea that anyone could take on a different form than their own is nonsensical within Platonic thought2. A god attempting to become a man is the equivalent of attempting to "draw a circle that is square" as Cody Gray suggests in the comments to the question. But Paul is trying to express an idea about God that is completely novel: a god that has power to change even his own form. Elsewhere, Paul admits this concept of God appears foolish. 
+
+Here's a thought that occurred to me this morning: God's ability to create a stone that he cannot move is analogous to quantum superposition. Like Schrödinger's cat, which is both alive and dead, some theists believe that God is both able to create such a stone and also to move it. When we open the box, the superposition collapses and we see either a dead or a lucky cat. When God decides, he may either create such a stone or move it. (Personally, I think it unlikely God spends even as much time considering this choice as we have in this question. This stone seems to belong entirely to philosophers.) The superposition collapses if and when God actualizes such a stone. If so, God's definition is paradoxical, but so is the observed state of the universe. 
+
+Tarski's Convention T is not strictly speaking a definition principle for truth - it is an evaluation condition on whether a given axiomatically theorised predicate is a "Materially Adequate" definition to count as a Truth predicate. 
+
+The problem with this line as I see it is that it deliberately seems to avoid the challenge of the hardcore realist. Fine, assertions might be internally contradictory and this doesn't necessarily mean you're committed to asserting anything and everything. Dialethic logic as a way of representing and processing how people talk (or their commitments to talk) has some interesting applied use. But you only get there by talking about contrary states of affairs, that seem to have a certain amount of tension between one another (represented in assertions by the negating function). 
+
+Being the case is not a property of propositions, but a property of some aspect of the world that we take the proposition to describe. By contrast, Truth is a property of statements or propositions. It says, of a proposition, that the terms of that proposition in the appropriate relations amount to a correct description of something that is the case. On Russell's view, we might say that Truth is described in terms of language that corresponds to what is the case. Where our talk of something being the case is used to make assertions about the world, our talk of something being true is used to make assertions about other assertions, whether by us or by others. 
+
+He places the blame on the impossibility of perfectly adapting pure categories of thought to human experience. Our thinking just has permanent holes in it, that cannot be closed, by our nature as a species. 
+
+It seems to me that propositional logic itself, as usually used, is a top-down set theory. Instead of starting with elements, it begins with restrictions, and it may never converge upon an element. 
+
+You may not have done the statistics that turn the known facts into well-founded premises, and it may not be possible to do them given what you have at hand. But you can still be pretty sure about your sense of the matter, and that may be reasonable. 
+
+This is one reason why the independence of the Axiom of Choice, which seems merely amusing to many, mattered so much to some mathematicians. You want to handle rules and pretend you are talking about elements, but that is only true if you can just whip out an element whenever you want, as long as you know the rules have not ruled one out. When you need to be less cavalier about how propositions and elements fit together, the nature of the mathematical process changes.

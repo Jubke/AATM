@@ -1,0 +1,37 @@
+An entry in what looks like an "objects" dictionary at the top of the file, marked with a comment line 
+
+EDIT: Other people aside from the OP have asked for sample code illustrating how to do this. I decided to create a sample project illustrating how to do it. 
+
+In the action method, use a UIView animation block to decrease the X coordinate of the container view's frame by it's width. That will animate it onto the screen. 
+
+Better yet, convert your project to use ARC. It's much easier to avoid memory management problems when using ARC. 
+
+What I do (in both languages) is to make my timer weak. In swift it would be a weak optional. 
+
+As Peter O. pointed out in his answer, finding a line segment perpendicular to any particular line segment is easy - you just invert the slope. However, I want line segments of a specific length. (In my example, 6 points, 3 points on either side of a vertex.) I'm looking for way to do that fast. I could figure out the end-points of my normals using either trig or square roots, both of which are really slow. 
+
+You don't want to segue. A segue creates a new instance of the destination view controller and presents it. 
+
+The next goal is to be able to draw with a soft-edged brush. To do that, I want to find curves on the left and right of the user's finger-track that are parallel to the curve. I will then use OpenGL to create triangle strips that define the thick curve between the left and right lines, and use polygon shading to feather the curve from opaque along the user's finger-track curve to transparent along the left and right parallel curves. 
+
+The code ends up using the distance formula to figure out how far each grid-point is from a control point, and then trig to figure out the angle, multiplication to change the distance, and then more trig to calculate the new location for each grid-point. Since I'm only transforming a 50x50 grid of control points, though, its fast enough to keep up. 
+
+Then make sure every object in your object's object graph also conforms to NSCoding. 
+
+Halley had it right. The system does not automatically downsample @2x images to non-retina size, and it shouldn't. The 3Gs does not have enough memory to load retina images. It will likely choke your app and cause it to exit with an out of memory error. 
+
+I'm stumped here. I've written a fair amount of concurrent code, and this task is an "embarrassingly parallel" problem, so there's no reason it shouldn't run at full tilt on all available cores. 
+
+The code is a little muddled now because I refactored it to work either single-threaded or concurrently so I could test. 
+
+Since you're using manual reference counting you will need to go through your code and make sure that you retain objects that you need to persist, and then release all owning references to objects when you are done with them. Explaining the details is beyond the scope of a forum post. I suggest you search on "About Memory Management" in the Xcode help system, and read the entire Advanced Memory Management Guide. 
+
+NSURLSession does its work in a background thread. The download ALWAYS takes place on a background thread. 
+
+Imagine drawing a series of "hash marks" through each of the vertex points, each 6 points long, centered on one of those vertex points, and perpendicular to the line first line segment that of the smoothed curve that ends at that vertex. 
+
+I'm planning to find the vertexes of the end-points for the left and right curves by finding line segments perpendicular to the line segments of the user's finger-track that pass through the vertexes of the finger-track, and extend by 1/2 of the desired line thickness to the left and right of the user's finger-track. 
+
+I might expect 20-50 ms of "slop" in the delay, but a consistent 10% - 11% overshoot is odd. 
+
+Anyway, I refactored the code to use dispatch_group_async() and calculate 1/8 of the total values in each block, and set my code off to run. To my utter befuddlement, the concurrent code, while it maxes out all of the cores on my Mac, runs MUCH slower than the single-threaded code.

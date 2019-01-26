@@ -1,0 +1,57 @@
+That's 2 smithing perks, and 7 light armor perks. With 100 skill in light armor and smithing, you'll be level 26 and easily able to afford these perks. 
+
+Consider the secondary effects of armor: reduced movement, increased staggering, increased noise. Do you have ways to compensate for those problems? Are you prepared to trade away armor rating to solve those problems instead? 
+
+Stamina isn't a big deal if you spend a handful of level ups on it and get the Restoration(40) perk - Respite (Healing spells also restore stamina). 
+
+A good player can see the three paths (caster, light, heavy), see how the perks lead into those paths, and discern the tradeoffs when straying from those paths. It's fun to leave the obvious paths, but it's not fun to feel ineffective. 
+
+TLDR: You can reach 610 armor rating with 9 perks and minor un-perked assistence from alchemy or enchanting. 567 is the armor cap. 
+
+To make a good armor selection decision, there is much to consider: 
+
+That is, press 4,4,3 to get the first spell in the right hand and the second spell in the left hand. 
+
+But to compensate for this fact, the game looks at the range of what's in your cross-hairs and automatically adjusts your shot up "some". At long range this automatic adjustment tends to under-correct, sending your shot low! 
+
+Casting spells in combat gives skill xp equal to the base cost of the spell. 
+
+Then I headed off to the enchanting station for one last test. I enchanted with fortify armorer and saw no change to armor rating after the enchant. I recommend skipping the arcane blacksmith perk if you are planning to wear only your own crafted armor. Just upgrade before enchanting. (Ignore what the enchanting table tells you about armor rating, it's wrong.) 
+
+The survival issue is simple - don't dual wield. Add a shield and you will live. Blocking is a huge damage reduction, but even when you don't block the shield adds armor! 
+
+It means, you can take out your completely empty Sword of Flaming Flames, kill a bear with it, and now it's got 5% of the bear's soul for the next fight. (note: works for partially filled magic items too) 
+
+First, I leveled light armor to see the what affect skill has on armor rating. 
+
+Final analysis: You are less screwed than before if you make items other than iron daggers or leather bracers, but those are still the easiest and most effective smithing items to make for leveling. In specific detail, my leveling plan is: 
+
+In addition to it saying various SPAAAACE and Skyrim-related puns, you can also apparently take it into the midden under the College of Winterhold and create a Dovacore Helmet: 
+
+Determining monster soul types 
+
+I found this pretty easy to do with a follower, such as Lydia. Ask her to take something expensive, but light weight (ie, a ring or necklace). Then steal it back from her. In my experience, if I failed I didn't get a bounty, but your mileage may vary. (Lydia tended to just say something to the effect of "I saw you, but I'll let it go... this time") 
+
+Additionally, certain "conditions" - notably being a werewolf or vampire - also confer powers as part of their effects. 
+
+Skill gain is related to damage done or absorbed. Do a ton of damage to something that's invincible, being healed, or has a ton of health. Giants, for instance, or essential people from quests who don't care if you pummel them. Shadowmere is a decent punching bag as well. For armor/block, absorb as much damage as you can without dying, as fast as you can. Potions and spells can offset this damage. 
+
+Although you're correct in your statement that you won't get as much of a benefit from gaining the last 30-50 levels as you would early on, when you're leveling "core" skills to your character, there are a few other things to consider. 
+
+Note that Dragur, Falmer, Werewolves, and Giants all look humanoid but are not considered as such by the game. The quick rule of thumb is - does it speak my language? If so, it's likely to be a humanoid. As far as the law is concerned, if you could murder someone without it being a crime, there's no additional penalty for soul trapping them while you do so. 
+
+Solitude - Proudspire Manor: 132 Books 
+
+If you are using PC you can use the console command setstage followed by the quest ID to "finish" any quest. UESP has the list of quests and inside each you can see its ID. To open the console command use the tilde-key (~), it sits before the "1" key and under the ESC-key. 
+
+Alright, I own 4 houses in Skyrim, so here im listing the houses and its book space numbers (Only Interactive bookshelves). 
+
+Windhelm House has in fact 12 shelves, each capable of holding 11 books. There are four bookshelves (with 2 shelves each) and one taller bookshelve (with 4 shelves) with the total of 12 shelves, the house can hold 132 books. 
+
+Whiterun - Breezehome: 47 Books 
+
+Markarth - Vlindrel Hall: 162 Books 
+
+Markarth's Vlindrel Hall: In front of Alchemy Lab - 3 Bookshelves with 3 shelves each (18+18+18 + 18+18+18 + 18+18+18). 
+
+I just bought that house in order to get the Windhelm Home Decorating Guide book.

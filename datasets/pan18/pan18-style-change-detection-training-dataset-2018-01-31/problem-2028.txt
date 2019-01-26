@@ -1,0 +1,11 @@
+Similarly this all 'exists' if our definition of existing is as naive as the notion of defining has to be to someone who would write a definition of 'definition' as the first entry in a lexicon. But criticism at that level of naivete is just bullying, not thought. 
+
+You know how to apply the rule of addition because it is an algorithm spelled out beforehand. This is not the kind of rule Wittgenstein had in mind. 
+
+For me, the argument for 'not cutting' this concept out of our thought is that this mode of thought is inescapable. It is the one we fall into with the habits of childhood, which is how most of us approach most problems we meet fresh. We need more sophisticated ways of reigning in childish impulses, but we should not lose them, as they are the basis of our thinking, and always will be. 
+
+Foucault has not reached that point, or you would be seeing people rewriting him, stripping out the nonsense, the way you see secondary treatments of older philosophers that make more sense than the originals. Instead, he is best presented like Neitzche is by Kauffman (or the Gita is by everyone in the West) -- unmodified, but with a huge collection of contextualizing footnotes. We should let him lie there until his lies outweigh what is to be garnered from his consideration of them. (And we should, in fact, honor the power of those lies.) 
+
+The extension by Deutsche is unwarranted and almost unrelated. No Turing Machine can compute randomness. There are only so many states, and we will be drawn back into them. So ideas like those behind classical Quantum Theory, etc. are not consistent with Deutsch. In effect, Deutsch is making the same error Nietzsche makes in deducing the Eternal Recurrence, only about non-computability rather than chaotic dynamics. Being arbitrarily close is not being right, and in endless time, eventually the gap with show some effect. 
+
+Then what happens to the gravitational constant? Everything weighs twice as much and is half as far apart, so the force between two things will be (M + m)G/r^2, which has increased eightfold if you double M and m, and halve r (which doubles the value, twice). So G would have to change significantly.

@@ -1,0 +1,19 @@
+His point in this paragraph is that mere linguistic use can be deceptive. Sometimes we use the same sound to name two things that in themselves have radically different natures. Aristotle's example is a man and a picture of a man, which apparently could both be called an 'anthropos' in Greek. A better English example might be a 'bank', which could be either the side of a river, or a financial institution. There is nothing that riversides and financial institutions have in common, so the use of the word "bank" is ambiguous in just this way. 
+
+(3) follows from (1) and (2) by modus ponens, so the argument is valid. It looks sound to me as well. 
+
+" but the account of its being corresponding to the name (kata tounoma) is different . . . " 
+
+ὁ δὲ κατὰ τοὔνομα λόγος τῆς οὐσίας ἕτερος ἐὰν γὰρ ἀποδιδῷ τις τί ἐστιν αὐτῶν ἑκατέρῳ τὸ ζῴῳ εἶναι, ἴδιον ἑκατέρου λόγον ἀποδώσει. 
+
+I would also be surprised if any argument like this had ever been published in the Levinas literature either---continental papers don't tend to criticize the great names in the canon, or object to their theses, or try to defend those theses from the objections of others. I'd be happy for somebody cite me an article to show I'm wrong in this case. 
+
+What are the major points of Quentin Meillassoux's critique of correlationism? 
+
+Now, we know of course that Socrates did not refrain from commenting on the generally unreflective character of his fellow Athenians. This is really the heart of my question. Certain reactionary critics might suggest that it's all well and good to closely examine one's own beliefs and values, but why should you go about examining the beliefs and values of others? 
+
+A scientific belief simply cannot be justified by any other means than the various evidences produced by scientific analysis and experiment. I'm not sure it's fair to demand that a theory be absolutely true; rather it should predict things, solve problems, teach us to build things -- and ideally indicate further directions to explore. 
+
+My sense of the hypothesis is that basically it isn't falsifiable or empirical; there is an analytic dimension to Bostrom's analysis here that simply can't be validated in any experimental way. Hence I don't think it poses a significant problem for scientific realism. 
+
+Already in his notes for Anti-Oedipus, Guattari senses that Peirce's diagram is somehow special, that it unleashes "deterritorialized polyvocity," that it must be understood as distinct from the image because the diagram is a site of production (AOP 72, 214, 243-255/97, 308, 346-349). He continues reflecting on the powerful, productive diagram in Revolution moleculaire [Molecular Revolution] and L'inconscient Machinique [The Machinic Unconscious], concluding that diagrams "are no longer, strictly speaking, semiotic entities." Their "purpose is not to denote or to image the morphemes of an already-constituted referent, but to produce them" (IM 223, 224). In other words, diagrams do not represent thought; rather, they generate thought. Diagrams abound in experimental science, he says, because it is "a sphere where signs have a direct effect on things," involving "both material technology and a complex manipulation of sign machines" (MR 166/RM 303). The diagrammatic consists precisely in this conjunction between deterritorialized signs and deterritorialized objects.

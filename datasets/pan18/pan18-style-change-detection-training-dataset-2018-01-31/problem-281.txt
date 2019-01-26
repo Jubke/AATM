@@ -1,0 +1,43 @@
+I've been shooting arrows at this Windhelm guard. As you can see in my screenshot, there's 4 listed health values: 
+
+You might close off some smaller sidequests, but the folks necessary for the main story (for instance) have a tendency to be "incapacitated" from "killing" blows. 
+
+Conclusion: magical enchantments and poisons do not get multiplied. 
+
+For base damage, nothing beats Dragonbone♥, point for point and perk for perk. 
+
+The level 46+ version of Chillrend (a blue Glass Sword) also narrowly edges out daedric, again, by one base damage.] 
+
+The Cyrodillic Fighter's Guild from Oblivion does not return in Skyrim. Instead, you may want to check out The Companions, a group of soldiers, fighters, and mercenaries for hire. 
+
+The Dark Brotherhood, for instance, a player-joinable group of assassins-for-hire, returns in Skyrim, as do the Daedric Princes (or at least minor shrines devoted to them, manned by their followers.) Realistically, you've got a few options: 
+
+You might also be interested in the 'Fence' perk in the Speech tree. If you're looking for a general history of Tamriel, the realm in which The Elder Scrolls takes place, the UESP has you covered there too. [Before Dawnguard, nothing beat Daedric except for daggers, where the Blade of Woe and Mehrunes' Razor beat it out in base damage (1 point) and lethality (chance of instant kill) respectively. 
+
+But most of that is ancillary to the game itself. Skyrim was not designed as the 5th game in an ongoing series, but as a game able to stand on its own two feet. Even if you've never set foot on Nirn before, Skyrim will welcome you into its lore all the same! 
+
+But the NPCs are probably right too - you're suffering from something. The simplest way to fix all this is to cast a Cure Disease spell on yourself, chug a Cure Disease Potion, or the like. 
+
+The more people like you, the more willing they are to let you "borrow" their stuff (and sell it back to them, in many cases). 
+
+You might want to double-check your wolf bites. Wolves have a chance of carrying "Rockjoint", a disease which decreases your melee damage dealt. NPCs use those responses for all diseases, not just Porphyric Hemophilia Sanguinare Vampiris (aka, Vampirism). Likewise, the College of Winterhold is the replacement organization for Cyrodill's Mage's guild. 
+
+So the good news: You're probably not accidentally a vampire. Nope! There's nothing preventing you from holding leadership positions in all 4 major guilds! (After you finish the respective questlines, that is) Unfortunately, Draugr usually live in the dark, and it can be very hard to find individual anythings in Skyrim, let alone in the dark crannies of its dungeons. No. Spells, Magical enchantments, and Poison damage are never multiplied by sneak / power attack multipliers. 
+
+While it would make sense, the amount of time you can hold your breath does not appear to be tied to your Stamina. This can be presumed due to the fact that your Stamina bar is not depleted while you are underwater. However, I did test this to be sure. 
+
+Just go straight to the orphanage in Riften and kill Grelod The Kind. Then go break into the Aretino residence (I don't think I've ever encountered it unlocked) in Windhelm and talk to Aventus. It's also worth making mention here that your choice of who to follow early in the game (Ralof or Hadvar), when escaping Helgen, does not determine which of the above groups you are joining. All of the other answers seem to have the basics down, but don't really cover the whole story. Here's what needs to be done: 
+
+All that having been said, there's several other factions you can join freely. Joining any of these will not preclude you from joining the others. They also do not affect, nor will they be affected by, your choice regarding the war. 
+
+Through the course of the main quest, there is one development that will force you to eventually choose sides between two factions that you are otherwise allied to. Once you are presented with this choice, the services of one side will become unavailable to you for at least until the conflict is resolved. After you have made your choice, the services of the side you chose against will become (or remain) unavailable to you forever after. More details are below. TL;DR: Yes, you can die of suffocation from staying underwater too long. Waterbreathing equipment/potions can help avoid this, and Argonians are immune. All races will gasp for air when they emerge from the water - even Argonians. Stamina does not affect how long you can safely stay underwater. 
+
+I power-leveled a character to 81, and gave her a full complement of Stealth perks. Additionally, she has some perks added to Smithing and Enchantment. At some inns, you may hear rumors of a kid in Windhelm who's been trying to contact the Dark Brotherhood. Alternatively, you can talk to any of the kids in the orphanage in Riften and they will tell you about their friend who ran away to Windhelm. Perhaps one other "appropriate" way to start this quest would be to just break into the Aretino (as if you were just going to do a random burglary) residence in Windhelm and talk to Aventus there. 
+
+He'll have a note that simply has a black hand-print, and the words "We know." 
+
+After following either path above, eventually you should have a random courier approach you. 
+
+My question is this: In the guts of the game, where perk and blessing effects are calculated, do Creatures actually have a gender? Are there more Creature races which are considered to have gender affiliations, in addition to the obvious ones I've noted here? Or are all Creatures, regardless of appearance, considered neuter? 
+
+The only mutually-exclusive factions in the base game are those that represent the two sides in Skyrim's civil war.

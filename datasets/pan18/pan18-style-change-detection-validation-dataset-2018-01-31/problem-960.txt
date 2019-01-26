@@ -1,0 +1,47 @@
+The problem historically is that there are very few defenses of the existence of "gods" which do not fall in a camp such as these. Because scientists best respect those ideas which are clearly-presented, which have interesting and meaningful consequences, and which do not require the overturning of the tools which they find provide them with reliable results, it is often said that it is "scientific" to reject the existence of gods. It would be much more accurate to say that it is scientific to reject all of the most common arguments for gods, and that if there are any truly good arguments for gods, that they are not very well known even to skeptical people who take an interest in the subject. 
+
+If x is rational with a very large denominator, a somewhat complicated Liouville number, or a quadratic irrational number, then individual insights or the techniques which they use are likely to become significant in what approximations they produce. 
+
+Probably today's main border is between the humanities and natural science. But interdisciplinary work becomes more and more important. E.g. in the domain of cognitive science, some researchers vote for cooperation even across this border. 
+
+Of course, mathematics is still considered a separate science, but its definition differs from the characteristics above. Secondly, today the original domain of physics comprises all natural sciences. 
+
+First I would like to state explicitly several cosmological models which relate to your question: 
+
+Critical rationalism is the view propagated by Popper. 
+
+Nietzsche introduces the last man in the prologue, chapter 5, of Nietzsche, Friedrich: Thus Spoke Zarathustra. 
+
+An electron orbiting the nucleus changes permanently the direction of its velocity, which means a permanent acceleration. According to Maxwell's theory of electrodynamics an accelerated electron creates an electromagnetic radiation which carries away energy from the electron. Hence the electron looses permanently energy. As a consequence it approaches an orbit nearer to the nucelus and finally rushes into the nucleus. 
+
+Ad 2. In a religious the model is always combined with a personal creator. The model has been packed up by Christian mythology. In cosmology it is one of the favoured models since the investigation of the accelerated cosmological expansion. The latter is ascribed to the “dark energy”. 
+
+Ad 3 and 4. I do not know a representative of this type of model. 
+
+Hence cause links two facts, i.e. two components of reality. While explanation links a set of propositions with a fact. Reality and the world of theories are two different ontological realms. 
+
+According to Popper our scientific theorems are hypotheses. One should create hypotheses which are testable. A test can confirm or refute a hypothesis. In the latter case, the hypothesis is false and we need a better hypothesis. But even a confirmed hypothesis is not proved. We do not know whether it is true. Hence Popper replaces proof by falsifcation. 
+
+Prompted by the question whether the parallel postulate can be deduced from the other axioms, mathematicians in the 19th century (Gauss, Bolyai, Lobachevski) detected non-Euclidean geometries. This shows that the parallel postulate is independent from the other axioms. 
+
+Popper does not give up truth. 
+
+Third mechanical law. In all communication of motion, action and reaction are always equal to one another. (A121) 
+
+Both models no. 1 and no. 2 are discussed by the scientific community. They are discussed on scientific grounds like the average mass density or the possible existence of dark energy, e.g., see „Part III Spacetime and Cosmology“ in Greene, Brian: The Fabric of the Cosmos. (2004) 
+
+Today his claim is rejected by the scientific community. Today's science is much more cautious. As you write, science always starts by observation and experiment. All general knowledge is considered hypothetical. It can be confirmed by observation but not proved. It can can always be refuted by new experiments. Then the underlying theory has to be improved or replaced by a new theory. 
+
+I realize that there are serious gaps in that reasoning. 
+
+Those who object to these viewpoints do so for the following reasons: 
+
+From the SEP article on demarcation: 
+
+Daniell Dennett writes and speaks on this topic, see his book "Freedom Evolves", and his presentations on youtube. 
+
+The position is a form of anti-realism: Anti-realism states that there is no objective reality independent of our sense data (so a strong form of empiricism), the only thing we can know is our own observations. Anti-realism is a broad position which can be applied to science, math, metaphysics, etc..When applying it to science, it means that things such as waves, atoms and sub-atomic particles, genes, etc don't exist other than convenient ways to helps predict our sense data. To some extent, the logical positivists were anti-realists. 
+
+A clarification based on some of the answers I've received: I'm not looking for the psychological factors that cause people to hold such beliefs, or a pragmatic method of dealing with them. I am asking about the epistemic grounds for refuting them and considering their views invalid, given the underdetermination of data, although obviously there could be overlap between such epistemic justification and the pragmatic solution to dealing with them. 
+
+"According to new theories in modern physics the concept of matter is an illusion. Matter is just a wave. We understand materials through the curvature of the space." : No, according to modern physics (quantum mechanics, that is), matter is not a wave. Matter has both wave aspects and particle aspects. Nor does the curvature of space time have anything to do with it, that concept is from a different branch of physics, which is general relativity. In fact reconciling general relativity and quantum mechanics has been problematic for theoretical physicists. You seem to be addressing three types of questions at the same time in your post: Ontological (what is the world made of?), epistemic (are we sure about our knowledge of the world?), and axiological (does our civilization value the right things?). The ontological questions and the epistemic are related, but the axiological is outside of the scope of the question and unrelated to the other two. Now to answer your questions:

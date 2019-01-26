@@ -1,0 +1,25 @@
+The named constants in UIApplications are pointers to NSString objects, they have a pointer value and there is also a string constant that they point to (which is in the .m file). Sort of like declaring some string constants like this (except they are extern and the definition is completed elsewhere): 
+
+Declaring a property synthesizes two accessor (getter/setter) methods: 
+
+An enum declaration is not a struct, the syntax is similar but it simply defines a series of named numbers. Is there a better way to do this? 
+
+Use a simple Faraday cage to block or limit the external RF signal level. 
+
+800 Mhz has a 37 cm (14") wavelength, 1900 Mhz has a 16 cm (6") wavelength. 
+
+When the vertical accuracy is 20 or 30 meters you should expect the altitude to be off up to 100 feet. Expecting it to not vary by 19 feet as you walk around the house in unrealistic. What you could do is keep a rolling, weighted average (or a Kalman filter) of the recent "good" altitude readings to help filter out the measurement errors. 
+
+This works better with an actual device than with the simulator since the Mac is hard to work on when inside the Faraday cage ;-) You can make your own with aluminum foil. The openings should be smaller than the wavelength of your data service if that's what you want to block. You can set the width of the segments (using setWidth:forSegmentAtIndex:) so you can easily make the left and right end segments larger (say 10px larger) than the others and then you can crop off 10px from either end and have square corners. You don't have to make it larger than the screen width, instead put it inside a UIView and use it to crop the ends. You should set the purpose string property in the CLLocationManager object so that when the system asks it can also tell the user why you want their location. In the delegate you can implement the method locationManager:didChangeAuthorizationStatus: to know whether the user allowed core location or not. 
+
+If you want to hide it completely: 
+
+You don't need to ask the user for permission, iOS does it for you automatically. 
+
+Now, go ahead and make your changes to the new model. When you are done, you need to tell Core Data to use this new model as the current version. We're not up to the code yet, so this part is easy. (The code is easy too.) On the right hand side panel, choose the active model, as shown here: I made a demo project to show how to do this. 
+
+You can see my implementation in FilterBar on GitHub. Alternatively (or in addition to iTunes), you could use the MessageUI framework and allow the user to email the file. 
+
+Here's a quick rundown of what has to happen: As it turns out, the UINavigationBar actually has two colored layers in it. One of them is based on your color, and one is a semitransparent near-white layer. Yes, you can control which App Stores you app is sold in. This can be done in iTunes Connect. I just got started with Core Data this week. Great question! I want a view to fade in when being added to the stack via 
+
+First, I realized that I was setting the border and the near-white color on the FilterBar itself, and the barTintColor was in a second layer. The near-white was bleeding into the border, so I added another layer for the white.

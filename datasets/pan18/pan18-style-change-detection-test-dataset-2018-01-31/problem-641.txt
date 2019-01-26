@@ -1,0 +1,75 @@
+This is clear from the beginning of the definition of the Abstract Equality Operation: 
+
+If you're happy that your regex at the top is stripping away everything that you don't want to compare in your match, you don't need a substring match, and could do: 
+
+You can get the year, month, and day of month from a JavaScript date object. Depending on what information you're looking for, you can use those to figure out how many months are between two points in time. 
+
+Not only can you, but you have to make a special effort not to if you don't want to. :-) 
+
+It doesn't relate to template strings; the pre-MCVE version of this didn't use them (and did use promises, which is how we ended up with arrows inside arrows). 
+
+Based on Parsing If you want it to be a normalized decimal integer string over a reasonable range of values, you can do this: 
+
+There are also some date and time libraries available for JavaScript that probably make this sort of thing easier. 
+
+Failing an HTML/CSS-only solution, is there a simple JavaScript solution? (If not, I'll write the complex one; not asking people to do significant amounts of code if that's what it takes.) 
+
+Including fractional months in the above is much more complicated, because three days in a typical February is a larger fraction of that month (~10.714%) than three days in August (~9.677%), and of course even February is a moving target depending on whether it's a leap year. 
+
+(You're not searching through "JSON", you're searching through an array -- the JSON string has already been deserialized into an object graph, in this case an array.) 
+
+The definition of "the number of months in the difference" is subject to a lot of interpretation. :-) 
+
+A very simple version would look like this: 
+
+Babel and Traceur are both perfectly happy to transpile the case that V8 won't run (here and here), but that could just be them getting something wrong that V8 gets right (or, of course, vice-versa). 
+
+Putting in an ID-to-Index Map (Dumb idea, predates the above. Kept for historical reasons.) 
+
+But assigning to a property on an existing object, outside an object initializer, does not: 
+
+It requires that I set a fixed size for the label spans, but the names of those labels can be from configuration and so I don't want to have to measure each of them at runtime and adjust the fixed size to the largest. 
+
+...but terrible when they aren't, e.g.: 
+
+If you need it to all be within one expression, you can do that without the temporary property: 
+
+...but that's unsatisfactory for several reasons: 
+
+To be clear: I'm not asking how to work around it. I'm asking what prevents this seemingly-obvious case from being handled when so many others (including default parameter values!) are. There must be a good reason. 
+
+So reiterating from above: Why not? Surely there must be a specific reason it was not desirable/possible. What was it? 
+
+It's probably easier to understand why I'm scratching my head over this if I provide a context in the style of code I've actually got. When I put together code for various "widget" features on a page, that often involves event handlers. A good example is a form of some sort that's got some fields whose relevance is controlled by a checkbox, or radio button, or selector. A common instance of that is the "Shipping Address" checkbox that shows up on a zillion e-commerce sites: if the checkbox is checked, the shipping address is disabled and the billing address is used. 
+
+There's some sort of bogus character at the end of that source. Try deleting the last line and adding it back. 
+
+I can't figure out exactly what's there, yet ... 
+
+edit — If you want to have the effect of an "anonymous" function that can call itself, you can do something like this (assuming you're passing the function as a callback or something like that): 
+
+The callback is passed the element, the index, and the array itself. 
+
+Sometimes you'll also see this: 
+
+You're declaring (some of) your event handlers incorrectly: 
+
+edit — I think it's a zero-width space, Unicode 200B. Seems pretty weird and I can't be sure of course that it's not a Stackoverflow artifact, but when I copy/paste that last function including the complete last line into the Chrome console, I get your error. 
+
+edit — As of early 2013, I'd strongly advise looking into a more robust script loading tool like Requirejs. There are a lot of special cases to worry about. For really simple situations, there's yepnope, which is now built into Modernizr. 
+
+http://ejohn.org/blog/dom-storage/ 
+
+Personally I think that something's doing something wrong here. Is it Chrome? jQuery? 
+
+Thus, if ".triggerHandler()" would operate on all selected elements, I could use: 
+
+I realize that I can use ".each()" to get around this (or simply write my own substitute that does that for me), but is there some rationale for why the two are different in this respect? It kind-of makes no sense to me. (I understand of course that it almost certainly can't be changed now.) 
+
+According to John Resig, it's not possible to specify expiration. It's completely up to the user. 
+
+A notorious source of such characters are websites like jsfiddle. I'm not saying that there's anything wrong with them — it's just a side-effect of something, maybe the use of content-editable input widgets. 
+
+I've got a site design with SVG elements for "fancy" radio buttons and checkboxes. The basic idea is that the actual HTML element is effectively hidden (moved off the visible page, because IE doesn't like input elements to be actually hidden) and then nice-looking SVG icons are used for the visible interactive elements. 
+
+edit — ha ha ha - when I change my code so that I explicitly null out the "title" attributes on all the parent elements, IE shows a flyover with the word "null" in it :-)
