@@ -1,8 +1,11 @@
 import re
+import json
 import numpy as np
 import pandas as pd
 import nltk
 import nltk.data
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
@@ -11,15 +14,20 @@ nltk.download('tagsets')
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-import json
 
-
-def tokenize(text: str, word_tokenizer: object, sent_tokenizer: object, get_tokens: str = 'text',
-             word_strain: str = 'lemma', filter_length: int = (), handle_stopwords: str = 'remove',
-             lower_stop_words: list = set(stopwords.words('english')), uncapitalized=True, get_sentences=False,
-             punctuation=False):
+def tokenize(
+        text: str,
+        word_tokenizer: object,
+        sent_tokenizer: object,
+        get_tokens: str = 'text',
+        word_strain: str = 'lemma',
+        filter_length: int = (),
+        handle_stopwords: str = 'remove',
+        lower_stop_words: list = set(stopwords.words('english')),
+        uncapitalized=True,
+        get_sentences=False,
+        punctuation=False
+    ):
     # Get tokens grouped by sentences
     if get_sentences is True:
         return sent_tokenizer.tokenize(text)
@@ -139,7 +147,7 @@ def n_grams(
     ):
     # TF-IDF or TF
     if normalization_type == 'tfidf':
-        c = TfidfVectorizer(
+        vectorizer = TfidfVectorizer(
             tokenizer=tokenizer,
             ngram_range=ngram_range,
             lowercase=False,
@@ -148,7 +156,7 @@ def n_grams(
         )
     #
     else:
-        c = CountVectorizer(
+        vectorizer = CountVectorizer(
             tokenizer=tokenizer,
             ngram_range=ngram_range,
             lowercase=False,
@@ -159,8 +167,8 @@ def n_grams(
 
     # Transform ngrams to vectors
     df_frequencies = pd.DataFrame(
-        c.fit_transform(fit_transform).toarray(),
-        columns=c.get_feature_names()
+        vectorizer.fit_transform(fit_transform).toarray(),
+        columns=vectorizer.get_feature_names()
     )
 
     # Normalization by dividing the counts of tokens by the total number of tokens
@@ -168,7 +176,6 @@ def n_grams(
         df_frequencies = divide_by_number_of_tokens(df_frequencies)
 
     return df_frequencies
-
 
 # Get relevant n-grams und tags to use them as vocabularies for the CountVectorizer-Objects in the feature engineering step
 def select_features(
