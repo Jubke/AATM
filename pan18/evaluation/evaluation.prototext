@@ -1,8 +1,8 @@
 measure{
   key: "accuracy"
-  value: "0.5281501340482574"
+  value: "0.5435656836461126"
 }
 measure{
   key: "accuracy_solved"
-  value: "0.5281501340482574"
+  value: "0.5435656836461126"
 }
