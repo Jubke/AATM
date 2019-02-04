@@ -3,6 +3,7 @@
 """
 from sklearn.externals.joblib import Memory
 import pandas as pd
+import aatm_support
 
 MEMORY = Memory(location='./tmp', verbose=0)
 
@@ -22,3 +23,24 @@ def load_book_summary_raw():
             'author': 'category'
         }
     )
+
+# helper to load datasets later
+@MEMORY.cache
+def load_constructed_dataset(num=None, base='.//datasets//constructed'):
+    if num:
+        path = f'{base}_{num}.csv'
+    else:
+        path = aatm_support.last_file(base, '.csv')
+
+    return pd.read_csv(
+        path,
+        sep = ',',
+        header = 0,
+        index_col = 0
+    )
+
+def load_book_summary_1():
+    return load_constructed_dataset(1)
+
+def load_book_summary_2():
+    return load_constructed_dataset(2)
